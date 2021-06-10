@@ -15,7 +15,9 @@
   - [CoffeeScript](#coffeescript)
   - [Dockerfile](#dockerfile)
   - [Emacs Lisp](#emacs-lisp)
+  - [FreeMarker](#freemarker)
   - [Go](#go)
+  - [Groff](#groff)
   - [HTML](#html)
   - [Haskell](#haskell)
   - [Inno Setup](#inno-setup)
@@ -30,7 +32,9 @@
   - [Markdown](#markdown)
   - [Matlab](#matlab)
   - [MoonScript](#moonscript)
+  - [NSIS](#nsis)
   - [Nim](#nim)
+  - [Nunjucks](#nunjucks)
   - [Objective-C](#objective-c)
   - [Others](#others)
   - [PHP](#php)
@@ -50,10 +54,11 @@
 
 ## Batchfile 
 
-- [swagkarna/Defeat-Defender](https://github.com/swagkarna/Defeat-Defender) - Powerful batch script to dismantle complete windows defender protection and even bypass tamper protection ..Disable Windows-Defender Permanently....Hack windows
+- [swagkarna/Defeat-Defender-V1.2](https://github.com/swagkarna/Defeat-Defender-V1.2) - Powerful batch script to dismantle complete windows defender protection and even bypass tamper protection ..Disable Windows-Defender Permanently....Hack windows. POC
 
 ## C 
 
+- [deadbok/eden-linux](https://github.com/deadbok/eden-linux) - Linux distribution build system
 - [bats3c/shad0w](https://github.com/bats3c/shad0w) - A post exploitation framework designed to operate covertly on heavily monitored environments
 - [plasmoduck/modwm](https://github.com/plasmoduck/modwm) - MODWM - Modular Dynamic Window Manager
 - [raspberrypi/usbboot](https://github.com/raspberrypi/usbboot) - Raspberry Pi USB booting code, moved from tools repository
@@ -101,6 +106,7 @@
 
 ## C++ 
 
+- [xinbailu/DripLoader](https://github.com/xinbailu/DripLoader) - Evasive shellcode loader for bypassing event-based injection detection (PoC)
 - [AntiMicroX/antimicrox](https://github.com/AntiMicroX/antimicrox) - Graphical program used to map keyboard buttons and mouse controls to a gamepad. Useful for playing games with no gamepad support.
 - [monero-project/monero](https://github.com/monero-project/monero) - Monero: the secure, private, untraceable cryptocurrency
 - [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree
@@ -128,10 +134,12 @@
 
 ## CSS 
 
+- [animate-css/animate.css](https://github.com/animate-css/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
 - [solus-project/evopop-gtk-theme](https://github.com/solus-project/evopop-gtk-theme) - Modern Desktop Theme Suite
 - [creativetimofficial/tailwind-starter-kit](https://github.com/creativetimofficial/tailwind-starter-kit) - Tailwind Starter Kit a beautiful extension for TailwindCSS, Free and Open Source
 - [elenapan/dotfiles](https://github.com/elenapan/dotfiles) - There is no place like ~/
 - [owl4ce/dotfiles](https://github.com/owl4ce/dotfiles) - :cherry_blossom: Aesthetic OpenboxWM Environment
+- [Thomashighbaugh/electric-tantra-linux-iso](https://github.com/Thomashighbaugh/electric-tantra-linux-iso) - the files used to build Electric Tantra Linux, my iso demo of my dotfiles WIP
 - [Thomashighbaugh/firefox](https://github.com/Thomashighbaugh/firefox) - Firefox customizations, part of my dotfiles separated for my sanity
 - [obliviousofcraps/mf-dots](https://github.com/obliviousofcraps/mf-dots) - These are some of my ridiculously shit dotfiles that I use in my unproductive daily life.
 - [MrOtherGuy/firefox-csshacks](https://github.com/MrOtherGuy/firefox-csshacks) - Collection of userstyles affecting the browser
@@ -146,9 +154,9 @@
 - [muckSponge/MaterialFox](https://github.com/muckSponge/MaterialFox) - A Material Design-inspired userChrome.css theme for Firefox
 - [Izheil/Quantum-Nox-Firefox-Dark-Full-Theme](https://github.com/Izheil/Quantum-Nox-Firefox-Dark-Full-Theme) - These usercontent and userchrome files will give a full themed dark color to Firefox Quantum, menus and dialogs included, as well as the scrollbars. You can also use the JS files to enable multirow tabs and other functions.
 - [Zonnev/elementaryos-firefox-theme](https://github.com/Zonnev/elementaryos-firefox-theme) - This theme for Firefox supports all the window buttons layouts from Tweaks and it blends into the elementary OS user interface.
-- [stonecrusher/simpleMenuWizard](https://github.com/stonecrusher/simpleMenuWizard) - Hide contextmenu items in Firefox Quantum
+- [stonecrusher/simpleMenuWizard](https://github.com/stonecrusher/simpleMenuWizard) - Hide contextmenu items in Firefox Photon
 - [migueravila/SimplerentFox](https://github.com/migueravila/SimplerentFox) - 🦊 A Userstyle theme for Firefox minimalist, transparent and Keyboard centered
-- [6gk/polka](https://github.com/6gk/polka) - 🐢 dotless files - plz no steel (only cardboard) (sponsored by https://github.com/buffet/kiwmi, plz star & contribute)
+- [6gk/polka](https://github.com/6gk/polka) - 🐢 dotless files - plz no steel (only cardboard) (sponsored by https://git.io/kiwmi, plz star & contribute to it)
 - [cacheiforindicium/dotfiles](https://github.com/cacheiforindicium/dotfiles) - SwayWM dotfiles
 - [iyzg/archived-dots](https://github.com/iyzg/archived-dots) - :large_blue_circle: The configs behind the eye candy
 - [Etesam913/slick-fox](https://github.com/Etesam913/slick-fox) - :fox_face: A firefox config that has rounded tabs and a url bar that can disappear when not selected on. It works with any theme.
@@ -173,7 +181,6 @@
 - [vinceliuice/Canvas-theme](https://github.com/vinceliuice/Canvas-theme) - Canvas is a flat Material Design theme for GTK 3, GTK 2 and Gnome-Shell
 - [TanzNukeTerror/Compact-FirefoxCSS](https://github.com/TanzNukeTerror/Compact-FirefoxCSS) - 
 - [mut-ex/minimal-functional-fox](https://github.com/mut-ex/minimal-functional-fox) - A minimal, yet functional Firefox userChrome configuration.
-- [Jguer/dotfiles](https://github.com/Jguer/dotfiles) - My tiling (awesomewm) configs
 - [Aris-t2/CustomCSSforFx](https://github.com/Aris-t2/CustomCSSforFx) - Custom CSS tweaks for Firefox
 - [swcool/landing-page-theme](https://github.com/swcool/landing-page-theme) - Jekyll Bootstrap theme
 - [enindu/dotfiles](https://github.com/enindu/dotfiles) - My personal configuration files
@@ -233,6 +240,10 @@
 - [syl20bnr/spacemacs](https://github.com/syl20bnr/spacemacs) - A community-driven Emacs distribution - The best editor is neither Emacs nor Vim,  it's Emacs *and* Vim!
 - [masasam/dotfiles](https://github.com/masasam/dotfiles) - My dotfiles based on Makefile
 
+## FreeMarker 
+
+- [mozilla/send](https://github.com/mozilla/send) - Simple, private file sharing from the makers of Firefox
+
 ## Go 
 
 - [driusan/dewm](https://github.com/driusan/dewm) - A pure go autotiling window manager written with literate programming
@@ -259,8 +270,14 @@
 - [schollz/rwtxt](https://github.com/schollz/rwtxt) - A cms for absolute minimalists.
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
 
+## Groff 
+
+- [BenjaminHCCarr/PropagandaTiles](https://github.com/BenjaminHCCarr/PropagandaTiles) - Propaganda, is a collection of "seamless tiles;" which are drawn in such a way that they do not appear to repeat at the edges.
+
 ## HTML 
 
+- [saishmhatre47/Artist-Portfolio](https://github.com/saishmhatre47/Artist-Portfolio) - My Art Website.
+- [coreui/coreui-free-bootstrap-admin-template](https://github.com/coreui/coreui-free-bootstrap-admin-template) - CoreUI is free bootstrap admin template
 - [michelegera/tailwindcss-open-template](https://github.com/michelegera/tailwindcss-open-template) - 🛬 An implementation of the “Open” landing page template using Tailwind CSS Boilerplate.
 - [Thomashighbaugh/resurgens3](https://github.com/Thomashighbaugh/resurgens3) - Porfolio site of TLH. Resurgens 3
 - [Thomashighbaugh/Opitx-Docs-Site](https://github.com/Thomashighbaugh/Opitx-Docs-Site) - Documentation for Opitx: Minimalist Markdown Editor
@@ -296,7 +313,6 @@
 - [icons8/flat-color-icons](https://github.com/icons8/flat-color-icons) - Free Flat Color Icons
 - [kubernetes/website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:
 - [Jaredk3nt/homepage](https://github.com/Jaredk3nt/homepage) - Custom homepage for use locally in browser
-- [GoogleChromeLabs/quicklink](https://github.com/GoogleChromeLabs/quicklink) - ⚡️Faster subsequent page-loads by prefetching in-viewport links during idle time
 - [harrycresswell/ain-cards](https://github.com/harrycresswell/ain-cards) - A front end prototype for AIN cards
 - [Thomashighbaugh/RESURGENS-PORTFOLIO-HTML-CSS](https://github.com/Thomashighbaugh/RESURGENS-PORTFOLIO-HTML-CSS) - resurgens volume 1 still active as demo
 - [sovereign/sovereign](https://github.com/sovereign/sovereign) - A set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more.
@@ -325,6 +341,16 @@
 
 ## JavaScript 
 
+- [facebook/react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+- [rustysec/tidalwm](https://github.com/rustysec/tidalwm) - Simple and sane tiling window manager for Gnome Shell
+- [hacknug/tailwindcss-image-rendering](https://github.com/hacknug/tailwindcss-image-rendering) - Image-rendering utilities for Tailwind CSS.
+- [medyo/hackertab.dev](https://github.com/medyo/hackertab.dev) - Source code of Hackertab.dev extension (chrome, firefox)
+- [alice0775/userChrome.js](https://github.com/alice0775/userChrome.js) - 
+- [Manjaro-WebDad/jde](https://github.com/Manjaro-WebDad/jde) - Linux desktop environment built with HTML5, CSS, JavaScript and Python.
+- [amit-07/mern-notes-app](https://github.com/amit-07/mern-notes-app) - Simple note maker app using the MERN stack
+- [Augani/mern](https://github.com/Augani/mern) - A MERN starter kit
+- [andreasonny83/lighthouse-ci](https://github.com/andreasonny83/lighthouse-ci) - A useful wrapper around Google Lighthouse CLI
+- [asyncapi/generator](https://github.com/asyncapi/generator) - Use your AsyncAPI definition to generate literally anything. Markdown documentation, Node.js code, HTML documentation, anything!
 - [MarcosCosmos/portal](https://github.com/MarcosCosmos/portal) - A tiling window manager for your web browser
 - [Thomashighbaugh/Time-Is-Nigh](https://github.com/Thomashighbaugh/Time-Is-Nigh) - Put together to demonstrate my competence with React.js, a timer with some extra functionality and a custom logo
 - [Thomashighbaugh/Saar-Janak](https://github.com/Thomashighbaugh/Saar-Janak) - A web app to make a random background for websites
@@ -376,10 +402,10 @@
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [thisisroi/roi-portfolio](https://github.com/thisisroi/roi-portfolio) - ✨ Portfolio site created using Nextjs.
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (May 2021)
-- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across 400+ social media \ websites (Detections are updated regularly)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (June 2021)
+- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across +800 social media \ websites (Detections are updated regularly)
 - [ohansemmanuel/react-hooks-cheatsheet](https://github.com/ohansemmanuel/react-hooks-cheatsheet) - 🦖 React hooks cheatsheet with live editable examples
-- [yTakkar/React-Instagram-Clone-2.0](https://github.com/yTakkar/React-Instagram-Clone-2.0) - A reactive Single-Page Instagram-Clone with some new features!! 💪📸👓
+- [yTakkar/React-Instagram-Clone-2.0](https://github.com/yTakkar/React-Instagram-Clone-2.0) - A reactive Single-Page Instagram-Clone with some new features!! 💪📸👓 - No longer maintained.
 - [mmacneil/devfolio](https://github.com/mmacneil/devfolio) - A simple, responsive, single-page portfolio and resume for developers built with Bulma, Sass, Font Awesome and Flickity.
 - [officialputuid/toolsig](https://github.com/officialputuid/toolsig) - toolsigv3.2 (Instagram Tools)
 - [deepjyoti30/startpage](https://github.com/deepjyoti30/startpage) - A minimal starpage for Chrome and Firefox
@@ -393,7 +419,6 @@
 - [richardtaylordawson/pwa-shields](https://github.com/richardtaylordawson/pwa-shields) - Personalize your app's README with custom, fun, PWA shields in SVG
 - [Crelloc/google-keep-react](https://github.com/Crelloc/google-keep-react) - Mock design of google keep. Developed with Docker, React, Nodejs, Mongo and hosted on Amazon EC2
 - [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
-- [mozilla/send](https://github.com/mozilla/send) - Simple, private file sharing from the makers of Firefox
 - [swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui) - Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
 - [google/eleventy-high-performance-blog](https://github.com/google/eleventy-high-performance-blog) - A high performance blog template for the 11ty static site generator.
 - [philippetedajo/philippe.tedajo](https://github.com/philippetedajo/philippe.tedajo) - My personal portfolio.
@@ -446,7 +471,6 @@
 - [GregRoques/Portfolio-Take-2](https://github.com/GregRoques/Portfolio-Take-2) - Personal website built using Firebase, Express, React (Redux) and NodeJs.
 - [caljrimmer/portfolio-redux-app](https://github.com/caljrimmer/portfolio-redux-app) - A portfolio template built with Redux and React
 - [HashemKhalifa/webpack-react-boilerplate](https://github.com/HashemKhalifa/webpack-react-boilerplate) - Minimal React 16 and Webpack 4 boilerplate with babel 7, using the new webpack-dev-server, react-hot-loader, CSS-Modules
-- [kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit) - React Starter Kit — isomorphic web app boilerplate (Node.js, Express, GraphQL, React.js, Babel, PostCSS, Webpack, Browsersync)
 - [async-labs/builderbook](https://github.com/async-labs/builderbook) - Open source web application to learn JS stack: React, Material-UI, Next.js, Node.js, Express.js, Mongoose, MongoDB database.
 - [react-boilerplate/react-boilerplate](https://github.com/react-boilerplate/react-boilerplate) - :fire: A highly scalable, offline-first foundation with the best developer experience and a focus on performance and best practices.
 - [mohannadsh/react-redux-boilerplate](https://github.com/mohannadsh/react-redux-boilerplate) - This is a boilerplate project with Reactjs, Reduc, SASS and Webpack installed, the boilerplate includes the initial structure that you are going to need in almost each project.
@@ -486,7 +510,7 @@
 - [fsahin/artist-explorer](https://github.com/fsahin/artist-explorer) - Artist Explorer is a music discovery tool to to explore artists and music by browsing artists through a relationship tree
 - [aviaryan/work](https://github.com/aviaryan/work) - My open source projects portfolio. Built with React.
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open source codebase and curriculum. Learn to code for free.
+- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 - [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short JavaScript code snippets for all your development needs
 - [chunqiuyiyu/ervy](https://github.com/chunqiuyiyu/ervy) - Bring charts to terminal.
 - [pim-book/programmers-introduction-to-mathematics](https://github.com/pim-book/programmers-introduction-to-mathematics) - Code for A Programmer's Introduction to Mathematics
@@ -500,7 +524,6 @@
 ## Jinja 
 
 - [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) - Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker
-- [eoli3n/dotfiles](https://github.com/eoli3n/dotfiles) - Sway acid dark
 
 ## Jupyter Notebook 
 
@@ -519,6 +542,7 @@
 
 ## Lua 
 
+- [pinpox/wallpaper-generator](https://github.com/pinpox/wallpaper-generator) - Generate wallpaper images from mathematical functions
 - [bioe007/awesome-revelation](https://github.com/bioe007/awesome-revelation) - Show all clients per screen in Awesome window manager
 - [Mofiqul/awesome-shell](https://github.com/Mofiqul/awesome-shell) - This is a collection of awesome wm configuration files
 - [ODEX-TOS/tos-desktop-environment](https://github.com/ODEX-TOS/tos-desktop-environment) - Home of TDE - The official desktop environment of TOS
@@ -536,12 +560,13 @@
 - [mut-ex/awesome-wm-nice](https://github.com/mut-ex/awesome-wm-nice) - An Awesome WM module that add MacOS-like window decorations, with seamless titlebars, double click to maximize, and window shade feature
 - [manilarome/the-glorious-dotfiles](https://github.com/manilarome/the-glorious-dotfiles) - A glorified personal dot files
 - [Thomashighbaugh/awesomewm](https://github.com/Thomashighbaugh/awesomewm) - A submodule of my dotfiles for Awesome Window Manager Related Config Files
-- [JavaCafe01/dotnix](https://github.com/JavaCafe01/dotnix) - Configuration files I use on my main machine
+- [JavaCafe01/awedots](https://github.com/JavaCafe01/awedots) - My desktop configuration files
 - [Eredarion/dotfiles](https://github.com/Eredarion/dotfiles) - ~!Dotfiles
 - [pltanton/net_widgets](https://github.com/pltanton/net_widgets) - Network widgets for Awesome WM
 - [WillPower3309/awesome-dotfiles](https://github.com/WillPower3309/awesome-dotfiles) - Dotfiles for awesome people using the awesomewm linux environment
 - [material-shell/material-awesome](https://github.com/material-shell/material-awesome) - Material and Mouse driven config for AwesomeWM 4.3
 - [alexander-yakushev/awesomerc](https://github.com/alexander-yakushev/awesomerc) - My awesome configuration
+- [Jguer/dotfiles](https://github.com/Jguer/dotfiles) - My tiling (awesomewm) configs
 - [actionless/awesome_config](https://github.com/actionless/awesome_config) - config for AwesomeWM
 - [Elv13/radical](https://github.com/Elv13/radical) - An extensible menu subsystem for Awesome WM
 - [Elv13/tyrannical](https://github.com/Elv13/tyrannical) - Dynamic tagging configuration system for awesomeWM
@@ -555,6 +580,7 @@
 
 ## Makefile 
 
+- [feroldi/ricing](https://github.com/feroldi/ricing) - a book about ricing unix-like systems
 - [docxy/website](https://github.com/docxy/website) - The website of Docxy.
 
 ## Markdown 
@@ -569,10 +595,19 @@
 
 - [chase/awesome-config-moonscript](https://github.com/chase/awesome-config-moonscript) - An Awesome WM config using Moonscript
 
+## NSIS 
+
+- [aecreations/sync-clippings](https://github.com/aecreations/sync-clippings) - Helper application for Clippings
+
 ## Nim 
 
 - [juancarlospaco/nim-chonker](https://github.com/juancarlospaco/nim-chonker) - Arch Linux Pacman Optimizer: Your Arch Linux is too fat, lets make it lightweight
 - [avahe-kellenberger/nimdow](https://github.com/avahe-kellenberger/nimdow) - A window manager written in Nim (In Development)
+
+## Nunjucks 
+
+- [scottishstoater/jamstack-web-starter](https://github.com/scottishstoater/jamstack-web-starter) - Static website workflow utilising Eleventy, Tailwind CSS, Webpack and PostCSS.
+- [GoogleChromeLabs/quicklink](https://github.com/GoogleChromeLabs/quicklink) - ⚡️Faster subsequent page-loads by prefetching in-viewport links during idle time
 
 ## Objective-C 
 
@@ -580,12 +615,27 @@
 
 ## Others 
 
+- [Thomashighbaugh/awesome-stars](https://github.com/Thomashighbaugh/awesome-stars) - A curated list of my GitHub stars!
+- [chrieke/awesome-satellite-imagery-datasets](https://github.com/chrieke/awesome-satellite-imagery-datasets) - 🛰️ List of satellite image training datasets with annotations for computer vision and deep learning
+- [botcrypto-io/awesome-crypto-trading-bots](https://github.com/botcrypto-io/awesome-crypto-trading-bots) - Awesome crypto trading bots
+- [anu0012/awesome-computer-science-opportunities](https://github.com/anu0012/awesome-computer-science-opportunities) - An awesome list of events and fellowship opportunities for Computer Science students
+- [Linux-For-Everyone/contribute-foss](https://github.com/Linux-For-Everyone/contribute-foss) - Let's build an exhaustive Wiki page on how to contribute to the Linux and FOSS community, even WITHOUT knowing code!
+- [freereadorg/awesome-libgen](https://github.com/freereadorg/awesome-libgen) - 😎 Awesome list of Library Genesis, the world's largest free library.
+- [nikitavoloboev/find-work](https://github.com/nikitavoloboev/find-work) - Curated list of websites and resources to find work programming
+- [nikitavoloboev/privacy-respecting](https://github.com/nikitavoloboev/privacy-respecting) - Curated List of Privacy Respecting Services and Software
+- [luvuong-le/awesome-software-dev](https://github.com/luvuong-le/awesome-software-dev) - :fire:  :100:  :book: Curated list of documentation, plugins, links and more for software developers :book:
+- [fnplus/learn-for-free](https://github.com/fnplus/learn-for-free) - All the best resources & recommendations from the fn+geeks community.
+- [logancyang/my-cs-degree](https://github.com/logancyang/my-cs-degree) - A CS degree with a focus on full-stack ML engineering, 2020
+- [thebrokenfinger/frontend-computer-science](https://github.com/thebrokenfinger/frontend-computer-science) - A list of Computer Science topics important for a Front-End Developer to learn   📝
+- [felipefialho/frontend-challenges](https://github.com/felipefialho/frontend-challenges) - :boom: Listing some playful open-source's challenges of companies to test your knowledge
+- [SigurdMW/blitzjs-workshop](https://github.com/SigurdMW/blitzjs-workshop) - Blitzjs workshop for my Bouvet colleagues
+- [vasanthk/react-bits](https://github.com/vasanthk/react-bits) - ✨ React patterns, techniques, tips and tricks ✨
+- [CSwala/awesome-computer-science](https://github.com/CSwala/awesome-computer-science) - An awesome list of everything that exists in Computer Science and Related fields. A live preview of the list can be found at the below link -
+- [Thomashighbaugh/stars](https://github.com/Thomashighbaugh/stars) - A curated list of my GitHub stars!
 - [zeikar/fairy-of-grass](https://github.com/zeikar/fairy-of-grass) - :octocat: Auto generating Github contributions everyday using Github Actions.
 - [neutralinojs/evaluation](https://github.com/neutralinojs/evaluation) - Neutralinojs vs Electron vs Nw.js
 - [aniftyco/awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss) - 😎 Awesome things related to Tailwind CSS
 - [Thomashighbaugh/play.tailwindcss.com](https://github.com/Thomashighbaugh/play.tailwindcss.com) - 
-- [Thomashighbaugh/chhinamasta-icon-theme](https://github.com/Thomashighbaugh/chhinamasta-icon-theme) - A Linux icon theme, cobbled together out of other icon themes and modified to fit into my base16 scheme' palette.
-- [Thomashighbaugh/private-repo-for-things](https://github.com/Thomashighbaugh/private-repo-for-things) - 
 - [Lifka/hacking-resources](https://github.com/Lifka/hacking-resources) - Hacking resources and cheat sheets. References, tools, scripts, tutorials, and other resources that help offensive and defensive security professionals.
 - [Socehri/python-cheatsheet](https://github.com/Socehri/python-cheatsheet) - Comprehensive Python Cheatsheet
 - [webpro/dotfiles-1](https://github.com/webpro/dotfiles-1) - Nevermind the bullocks, here's the dotfiles
@@ -629,9 +679,8 @@
 - [brettkromkamp/awesome-knowledge-management](https://github.com/brettkromkamp/awesome-knowledge-management) - A curated list of amazingly awesome articles, people, applications, software libraries and projects related to the knowledge management space
 - [RichardLitt/meta-knowledge](https://github.com/RichardLitt/meta-knowledge) - 💡 A list of knowledge repositories
 - [NirantK/awesome-project-ideas](https://github.com/NirantK/awesome-project-ideas) - Curated list of Machine Learning, NLP, Vision, Recommender Systems Project Ideas
-- [bakkeby/patches](https://github.com/bakkeby/patches) - Collection of patches for dwm and dmenu
+- [bakkeby/patches](https://github.com/bakkeby/patches) - Collection of patches for dwm, st and dmenu
 - [DFabric/dppm-packages-source](https://github.com/DFabric/dppm-packages-source) - Sources used to build the dppm packages
-- [snakedye/wlr_config](https://github.com/snakedye/wlr_config) - dotfiles for wlroots compositors, optimized for sway
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [iggredible/Learn-Vim](https://github.com/iggredible/Learn-Vim) - Learning Vim and Vimscript doesn't have to be hard. This is the guide that you're looking for.
 - [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
@@ -692,6 +741,7 @@
 
 ## Perl 
 
+- [mfontani/rofi-scripts](https://github.com/mfontani/rofi-scripts) - A bunch of rofi-related scripts I use on my laptop.
 - [tryton-vanmeer/archlinux](https://github.com/tryton-vanmeer/archlinux) - Custom Arch Linux Image
 
 ## PowerShell 
@@ -701,6 +751,9 @@
 
 ## Python 
 
+- [mpeterv/hererocks](https://github.com/mpeterv/hererocks) - Python script for installing Lua/LuaJIT and LuaRocks into a local directory
+- [whittlem/pycryptobot](https://github.com/whittlem/pycryptobot) - Python Crypto Bot
+- [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 - [AnwarMEQOR/Edu.Emails](https://github.com/AnwarMEQOR/Edu.Emails) - Edu.Emails: Automatically create .Edu emails.
 - [rmountjoy92/DashMachine](https://github.com/rmountjoy92/DashMachine) - Another web application bookmark dashboard, with fun features.
 - [tuxity/insta-unfollower](https://github.com/tuxity/insta-unfollower) - An Instagram script to unfollow accounts who don't follow-you-back
@@ -729,7 +782,6 @@
 - [dAYOShACKER505/AXOM-FB-HACK](https://github.com/dAYOShACKER505/AXOM-FB-HACK) - facebook hacking tool for termux or linux 2020
 - [seevik2580/ethereum-wallet-recovery](https://github.com/seevik2580/ethereum-wallet-recovery) - ethereum wallet recovery password multithread tool, baked from pyethrecover and pyethereum, for using keystore v3 json file to help recover your lost password if you know some phrases using both brute and wordlist technique, start + end words, whole ascii or just numbers
 - [trustedsec/ptf](https://github.com/trustedsec/ptf) - The Penetration Testers Framework (PTF) is a way for modular support for up-to-date tools.
-- [BenChaliah/Arbitrium-RAT](https://github.com/BenChaliah/Arbitrium-RAT) - Arbitrium is a cross-platform, fully undetectable remote access trojan, to control Android, Windows and Linux and doesn't require any firewall exceptions or port forwarding rules
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [Timvde/UserChromeManager](https://github.com/Timvde/UserChromeManager) - A small python script to manage your userChrome.css
 - [bats3c/darkarmour](https://github.com/bats3c/darkarmour) - Windows AV Evasion
@@ -808,6 +860,7 @@
 
 ## Ruby 
 
+- [loomio/loomio](https://github.com/loomio/loomio) - Loomio helps people make decisions together
 - [jakubgarfield/instagram-scheduler](https://github.com/jakubgarfield/instagram-scheduler) - 📷  Beautiful way to get shadowbanned on Instagram by ⏰ scheduling your 🌁 photos.
 - [middleman/middleman](https://github.com/middleman/middleman) - Hand-crafted frontend development
 - [jekyll/jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
@@ -856,13 +909,18 @@
 
 ## Shell 
 
-- [LuminOSx/makeiso](https://github.com/LuminOSx/makeiso) - Make ISO for LuminOS
+- [davatorium/rofi-scripts](https://github.com/davatorium/rofi-scripts) - Small scripts for use with rofi
+- [sgleizes/xsh](https://github.com/sgleizes/xsh) - A simple framework for shell configuration management.
+- [ODEX-TOS/packages](https://github.com/ODEX-TOS/packages) - Closely follow Arch Linux packages
+- [archcraft-os/archcraft-pkgs](https://github.com/archcraft-os/archcraft-pkgs) - // Repository : Compiled Packages
+- [Thomashighbaugh/arch_install](https://github.com/Thomashighbaugh/arch_install) - Menu-driven dialog driven installation script using dialog (looks like debian installation menu).
+- [LuminOSx/make](https://github.com/LuminOSx/make) - System tool for creating LuminOS ISO
 - [brinkOS/brinkOS-assets](https://github.com/brinkOS/brinkOS-assets) - Assets package for brinkOS
 - [joestandring/dwm-bar](https://github.com/joestandring/dwm-bar) - A modular statusbar for dwm
 - [xero/glitchlock](https://github.com/xero/glitchlock) - a glitch art themed randomized lockscreen for linux
 - [MichaIng/DietPi](https://github.com/MichaIng/DietPi) - Lightweight justice for your single-board computer!
 - [androidmalware/android_hid](https://github.com/androidmalware/android_hid) - Use Android as Rubber Ducky against another Android device
-- [Thomashighbaugh/vimwiki](https://github.com/Thomashighbaugh/vimwiki) - A notion replacement wiki with a far better color scheme and no electron dependency
+- [Thomashighbaugh/chhinamasta-icon-theme](https://github.com/Thomashighbaugh/chhinamasta-icon-theme) - A Linux icon theme, cobbled together out of other icon themes and modified to fit into my base16 scheme' palette.
 - [Thomashighbaugh/electric-tantra-pkgbuilds](https://github.com/Thomashighbaugh/electric-tantra-pkgbuilds) - PKGBUILDs used in the Electric Tantra Repo
 - [Thomashighbaugh/zsh](https://github.com/Thomashighbaugh/zsh) - my zsh configuration in its modular glory
 - [Thomashighbaugh/bin](https://github.com/Thomashighbaugh/bin) - My collection of scripts, separated from my dotfiles for the sake of my sanity. I wrote some, I found some, I use some.
@@ -874,7 +932,7 @@
 - [svgsalad/inkscape-svg-cheat](https://github.com/svgsalad/inkscape-svg-cheat) - Various cheatsheets made for Inkscape users. :memo:
 - [archlive/archlive](https://github.com/archlive/archlive) - Custom Arch Linux Live ISO Image
 - [jreese/arch](https://github.com/jreese/arch) - Personal package repository for Arch Linux
-- [GhostWriters/DockSTARTer](https://github.com/GhostWriters/DockSTARTer) - DockSTARTer helps you get started with home server apps running in Docker.
+- [GhostWriters/DockSTARTer](https://github.com/GhostWriters/DockSTARTer) - DockSTARTer helps you get started with running apps in Docker.
 - [jessarcher/dotfiles](https://github.com/jessarcher/dotfiles) - $HOME sweet $HOME
 - [allyorbase/hackRPI-2016](https://github.com/allyorbase/hackRPI-2016) - Juice Jacking / Automatic Android Rooting based on Intel Edison using dirty c0w
 - [ASHWIN990/ADB-Toolkit](https://github.com/ASHWIN990/ADB-Toolkit) - ADB-Toolkit V2 for easy ADB tricks with many perks in all one. ENJOY!
@@ -935,7 +993,7 @@
 - [DonyaOS/Donya](https://github.com/DonyaOS/Donya) - Donya is an Operating system. Yet Another Linux distro built using a package management system.
 - [rajshekhar26/dotfiles](https://github.com/rajshekhar26/dotfiles) - My dotfiles
 - [adi1090x/plymouth-themes](https://github.com/adi1090x/plymouth-themes) - A hugh collection (80+) of plymouth themes ported from android bootanimations
-- [6gk/fet.sh](https://github.com/6gk/fet.sh) - 🐢 a fetch written in posix shell without any external commands (sponsored by https://github.com/buffet/kiwmi, plz star)
+- [6gk/fet.sh](https://github.com/6gk/fet.sh) - 🐢 a fetch written in posix shell without any external commands (sponsored by https://git.io/kiwmi, plz star & contribute to it)
 - [LukeSmithxyz/voidrice](https://github.com/LukeSmithxyz/voidrice) - My dotfiles (deployed by LARBS)
 - [endeavouros-team/PKGBUILDS](https://github.com/endeavouros-team/PKGBUILDS) - PKGBUILDS for packages used in our repository
 - [mfaerevaag/wd](https://github.com/mfaerevaag/wd) - :rocket: Jump to custom directories in zsh
@@ -959,11 +1017,12 @@
 - [stark/siji](https://github.com/stark/siji) - An iconic bitmap font based on Stlarch with additional glyphs.
 - [LukeSmithxyz/lb](https://github.com/LukeSmithxyz/lb) - Blog & RSS system in less than 100 lines of shell script
 - [endeavouros-team/EndeavourOS-archiso](https://github.com/endeavouros-team/EndeavourOS-archiso) - Build EndeavourOS ISO
+- [eoli3n/dotfiles](https://github.com/eoli3n/dotfiles) - Sway acid dark
 - [MatMoul/archfi](https://github.com/MatMoul/archfi) - Arch Linux Fast Installer : tutorial installer
 - [LukeSmithxyz/LARBS](https://github.com/LukeSmithxyz/LARBS) - Luke's Auto-Rice Bootstrapping Scripts: Installation Scripts for My Arch Linux Meta-Distribution
 - [ntcarlson/dotfiles](https://github.com/ntcarlson/dotfiles) - 
 - [ashinkarov/i3-extras](https://github.com/ashinkarov/i3-extras) - Repository to keep patches and extras for i3 window manager.
-- [denysdovhan/spaceship-prompt](https://github.com/denysdovhan/spaceship-prompt) - :rocket::star: A Zsh prompt for Astronauts
+- [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt) - :rocket::star: A Zsh prompt for Astronauts
 - [Powerlevel9k/powerlevel9k](https://github.com/Powerlevel9k/powerlevel9k) - Powerlevel9k was a tool for building a beautiful and highly functional CLI, customized for you. P9k had a substantial impact on CLI UX, and its legacy is now continued by P10k.
 - [Nitrux/luv-icon-theme](https://github.com/Nitrux/luv-icon-theme) - Lüv is the spiritual successor to Flattr, a flat but complex icon theme for freedesktop environments.
 - [Decathlon/slate-builder-action](https://github.com/Decathlon/slate-builder-action) - GitHub Action to build Slate Documentation
@@ -1009,6 +1068,8 @@
 
 ## TypeScript 
 
+- [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - A Markdown Editor for the 21st century.
+- [rfarine/art-portfolio](https://github.com/rfarine/art-portfolio) - raefarine.art
 - [Thomashighbaugh/startpage-zwei](https://github.com/Thomashighbaugh/startpage-zwei) - Second Implementation of a Startpage for my browser in Next.js using Typescript and Tailwind.css with Motion Animations and More
 - [QingWei-Li/notea](https://github.com/QingWei-Li/notea) - 📒 Self hosted note taking app stored on S3
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
@@ -1052,10 +1113,11 @@
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - Open source editor that brings visual editing into React websites. A developer-centric CMS to build contextual and intuitive editing experience without sacrificing code quality.
 - [ridedott/merge-me-action](https://github.com/ridedott/merge-me-action) - Automatically merges Pull Requests.
 - [chronisp/gatsby-starter](https://github.com/chronisp/gatsby-starter) - Gatsby Starter for creating portfolio & blog.
-- [GPortfolio/GPortfolio](https://github.com/GPortfolio/GPortfolio) - Creating an automatic portfolio based on Github profile, with the ability to connect others
+- [GPortfolio/GPortfolio](https://github.com/GPortfolio/GPortfolio) - Creating an automatic portfolio based on Github profile
 - [nomcopter/react-mosaic](https://github.com/nomcopter/react-mosaic) - A React tiling window manager
 - [Graviton-Code-Editor/Graviton-App](https://github.com/Graviton-Code-Editor/Graviton-App) - 🚀 A modern-looking Code Editor
 - [lodeapp/lode](https://github.com/lodeapp/lode) - A universal GUI for unit testing built with Electron and Vue.js
+- [kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit) - React Starter Kit — front-end starter kit using React, Relay, GraphQL, and JAM stack architecture
 - [async-labs/saas](https://github.com/async-labs/saas) - Build your own SaaS business with SaaS boilerplate. Productive stack: React, Material-UI, Next, MobX, WebSockets, Express, Node, Mongoose, MongoDB. Written with TypeScript.
 - [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
 - [electron/fiddle](https://github.com/electron/fiddle) - :electron: 🚀 The easiest way to get started with Electron
@@ -1071,8 +1133,9 @@
 
 ## Vala 
 
+- [solus-project/budgie-desktop](https://github.com/solus-project/budgie-desktop) - I Tawt I Taw A Purdy Desktop
 - [ricotz/plank](https://github.com/ricotz/plank) - Stupidly simple.
-- [lainsce/quilter](https://github.com/lainsce/quilter) - [Being Merged with Apostrophe] Focus on your writing.
+- [lainsce/quilter](https://github.com/lainsce/quilter) - Focus on your writing.
 - [elementary/installer](https://github.com/elementary/installer) - Installer front-end for Linux-based OSes
 - [UbuntuBudgie/budgie-extras](https://github.com/UbuntuBudgie/budgie-extras) - Additional Budgie Desktop enhancements for user experience
 - [GNOME/geary](https://github.com/GNOME/geary) - Read-only mirror of https://gitlab.gnome.org/GNOME/geary
@@ -1085,7 +1148,6 @@
 
 - [theniceboy/nvim](https://github.com/theniceboy/nvim) - The Ultimate NeoVim Config for Colemak Users
 - [Thomashighbaugh/vim](https://github.com/Thomashighbaugh/vim) - Vim configuration
-- [Thomashighbaugh/electric-tantra-linux-iso](https://github.com/Thomashighbaugh/electric-tantra-linux-iso) - the files used to build Electric Tantra Linux, my iso demo of my dotfiles WIP
 - [shapeshed/dotfiles](https://github.com/shapeshed/dotfiles) - dotfiles and config stuff
 - [skywind3000/vim-quickui](https://github.com/skywind3000/vim-quickui) - The missing UI extensions for Vim 8.2 (and NeoVim 0.4) !! :sunglasses:
 - [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim distribution - The ultimate vim configuration
@@ -1094,6 +1156,7 @@
 - [matthewstrasiotto/dotfiles](https://github.com/matthewstrasiotto/dotfiles) - Modular :package: dotfile repo that uses dotbot profiles to make bootstrapping :zap: lighting fast, on (almost) any env.
 - [Rigellute/rigel](https://github.com/Rigellute/rigel) - 🌌 Colorscheme for vim, terminal, vscode and slack - based on the star Rigel ✨.
 - [vim/vim](https://github.com/vim/vim) - The official Vim repository
+- [snakedye/wlr_config](https://github.com/snakedye/wlr_config) - beware the dot police
 - [waltereikrem/DOTFILES](https://github.com/waltereikrem/DOTFILES) - my linux dotfiles / configs
 - [Shishqa/dotfiles-old](https://github.com/Shishqa/dotfiles-old) - 
 - [sainnhe/everforest](https://github.com/sainnhe/everforest) - 🌲 Comfortable & Pleasant Color Scheme for Vim
@@ -1104,7 +1167,7 @@
 ## Vue 
 
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome Github Profile READMEs 📝
-- [webgems/webgems](https://github.com/webgems/webgems) - A curated list of resources for devs and designers. Join me on devcord.com if you are up for a chit chat :)
+- [lostdesign/webgems](https://github.com/lostdesign/webgems) - A curated list of resources for devs and designers. Join me on devcord.com if you are up for a chit chat :)
 - [Litarvan/lightdm-webkit-theme-litarvan](https://github.com/Litarvan/lightdm-webkit-theme-litarvan) - Litarvan's LightDM HTML Theme
 - [Exauthor/lightdm-webkit-theme-osmos](https://github.com/Exauthor/lightdm-webkit-theme-osmos) - Osmos
 - [bencodezen/vuepress-blog-boilerplate](https://github.com/bencodezen/vuepress-blog-boilerplate) - An ever-evolving and opinionated dev environment for people who want to use VuePress to power their blogs.
