@@ -58,6 +58,12 @@
 
 ## C 
 
+- [facebook/zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
+- [openssl/openssl](https://github.com/openssl/openssl) - TLS/SSL and crypto library
+- [libgit2/libgit2](https://github.com/libgit2/libgit2) - A cross-platform, linkable library implementation of Git that you can use in your application.
+- [trezor/trezor-firmware](https://github.com/trezor/trezor-firmware) - :lock: Trezor Firmware Monorepo
+- [fluent/fluent-bit](https://github.com/fluent/fluent-bit) - Fast and Lightweight Logs and Metrics processor for Linux, BSD, OSX and Windows
+- [FreeRDP/FreeRDP](https://github.com/FreeRDP/FreeRDP) - FreeRDP is a free remote desktop protocol library and clients
 - [deadbok/eden-linux](https://github.com/deadbok/eden-linux) - Linux distribution build system
 - [bats3c/shad0w](https://github.com/bats3c/shad0w) - A post exploitation framework designed to operate covertly on heavily monitored environments
 - [plasmoduck/modwm](https://github.com/plasmoduck/modwm) - MODWM - Modular Dynamic Window Manager
@@ -134,6 +140,10 @@
 
 ## CSS 
 
+- [IanLunn/Hover](https://github.com/IanLunn/Hover) - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS.
+- [braintree/jsdoc-template](https://github.com/braintree/jsdoc-template) - A clean, responsive documentation template with search and navigation highlighting for JSDoc 3
+- [prakhar1989/docker-curriculum](https://github.com/prakhar1989/docker-curriculum) - :dolphin: A comprehensive tutorial on getting started with Docker!
+- [tobiasahlin/SpinKit](https://github.com/tobiasahlin/SpinKit) - A collection of loading indicators animated with CSS
 - [animate-css/animate.css](https://github.com/animate-css/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
 - [solus-project/evopop-gtk-theme](https://github.com/solus-project/evopop-gtk-theme) - Modern Desktop Theme Suite
 - [creativetimofficial/tailwind-starter-kit](https://github.com/creativetimofficial/tailwind-starter-kit) - Tailwind Starter Kit a beautiful extension for TailwindCSS, Free and Open Source
@@ -276,6 +286,11 @@
 
 ## HTML 
 
+- [mdn/learning-area](https://github.com/mdn/learning-area) - Github repo for the MDN Learning Area.
+- [daattali/beautiful-jekyll](https://github.com/daattali/beautiful-jekyll) - ✨ Build a beautiful and simple website in literally minutes. Demo at https://beautifuljekyll.com
+- [usablica/intro.js](https://github.com/usablica/intro.js) - Lightweight, user-friendly onboarding tour library
+- [github/training-kit](https://github.com/github/training-kit) - Open source cheat sheets for Git and GitHub
+- [aave/aave-protocol](https://github.com/aave/aave-protocol) - Aave Protocol Version 1.0 - Decentralized Lending Pools
 - [saishmhatre47/Artist-Portfolio](https://github.com/saishmhatre47/Artist-Portfolio) - My Art Website.
 - [coreui/coreui-free-bootstrap-admin-template](https://github.com/coreui/coreui-free-bootstrap-admin-template) - CoreUI is free bootstrap admin template
 - [michelegera/tailwindcss-open-template](https://github.com/michelegera/tailwindcss-open-template) - 🛬 An implementation of the “Open” landing page template using Tailwind CSS Boilerplate.
@@ -751,6 +766,11 @@
 
 ## Python 
 
+- [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗Transformers: State-of-the-art Natural Language Processing for Pytorch, TensorFlow, and JAX.
+- [matplotlib/cheatsheets](https://github.com/matplotlib/cheatsheets) - Official Matplotlib cheat sheets
+- [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
+- [great-expectations/great_expectations](https://github.com/great-expectations/great_expectations) - Always know what to expect from your data.
+- [PaddlePaddle/PaddleHub](https://github.com/PaddlePaddle/PaddleHub) - Awesome pre-trained models toolkit based on PaddlePaddle.(300+ models including Image, Text, Audio and Video with Easy Inference & Serving deployment)
 - [mpeterv/hererocks](https://github.com/mpeterv/hererocks) - Python script for installing Lua/LuaJIT and LuaRocks into a local directory
 - [whittlem/pycryptobot](https://github.com/whittlem/pycryptobot) - Python Crypto Bot
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
@@ -909,6 +929,20 @@
 
 ## Shell 
 
+- [intel/stacks](https://github.com/intel/stacks) - The System Stacks for Linux* OS are a collection of production ready docker images for Deep Learning, Media and Storage optimized for 2nd generation Intel® Xeon® Scalable Processors.
+- [getsentry/onpremise](https://github.com/getsentry/onpremise) - Sentry On-Premise setup
+- [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
+- [dotnet/core](https://github.com/dotnet/core) - Home repository for .NET Core
+- [bats-core/bats-core](https://github.com/bats-core/bats-core) - Bash Automated Testing System
+- [kubernetes/examples](https://github.com/kubernetes/examples) - Kubernetes application example tutorials
+- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A personal Bitcoin and Lightning node designed for everyone
+- [kaldi-asr/kaldi](https://github.com/kaldi-asr/kaldi) - kaldi-asr/kaldi is the official location of the Kaldi project.
+- [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
+- [holman/dotfiles](https://github.com/holman/dotfiles) - @holman does dotfiles
+- [aws/containers-roadmap](https://github.com/aws/containers-roadmap) - This is the public roadmap for AWS container services (ECS, ECR, Fargate, and EKS).
+- [brendangregg/perf-tools](https://github.com/brendangregg/perf-tools) - Performance analysis tools based on Linux perf_events (aka perf) and ftrace
+- [regolith-linux/regolith-ubuntu-iso-builder](https://github.com/regolith-linux/regolith-ubuntu-iso-builder) - 
+- [mvallim/live-custom-ubuntu-from-scratch](https://github.com/mvallim/live-custom-ubuntu-from-scratch) - This procedure shows how to create a bootable and installable Ubuntu Live (along with the automatic hardware detection and configuration) from scratch.
 - [davatorium/rofi-scripts](https://github.com/davatorium/rofi-scripts) - Small scripts for use with rofi
 - [sgleizes/xsh](https://github.com/sgleizes/xsh) - A simple framework for shell configuration management.
 - [ODEX-TOS/packages](https://github.com/ODEX-TOS/packages) - Closely follow Arch Linux packages
@@ -1064,7 +1098,6 @@
 - [theaquacadet/pillager](https://github.com/theaquacadet/pillager) - A wget script that makes pillaging websites much easier.
 - [na--/ebook-tools](https://github.com/na--/ebook-tools) - Shell scripts for organizing and managing ebook collections
 - [nextcloud/nextcloudpi](https://github.com/nextcloud/nextcloudpi) - 📦 Build code for NextcloudPi: Raspberry Pi, Odroid, Rock64, Docker, curl installer...
-- [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 
 ## TypeScript 
 
