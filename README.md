@@ -630,7 +630,7 @@
 
 ## Others 
 
-- [Thomashighbaugh/awesome-stars](https://github.com/Thomashighbaugh/awesome-stars) - A curated list of my GitHub stars!
+- [eeeear/Online-Computer-Science-Degree](https://github.com/eeeear/Online-Computer-Science-Degree) - Open-Source Computer Science Degree
 - [chrieke/awesome-satellite-imagery-datasets](https://github.com/chrieke/awesome-satellite-imagery-datasets) - 🛰️ List of satellite image training datasets with annotations for computer vision and deep learning
 - [botcrypto-io/awesome-crypto-trading-bots](https://github.com/botcrypto-io/awesome-crypto-trading-bots) - Awesome crypto trading bots
 - [anu0012/awesome-computer-science-opportunities](https://github.com/anu0012/awesome-computer-science-opportunities) - An awesome list of events and fellowship opportunities for Computer Science students
