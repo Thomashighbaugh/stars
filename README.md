@@ -654,7 +654,6 @@
 - [Thomashighbaugh/play.tailwindcss.com](https://github.com/Thomashighbaugh/play.tailwindcss.com) - 
 - [Lifka/hacking-resources](https://github.com/Lifka/hacking-resources) - Hacking resources and cheat sheets. References, tools, scripts, tutorials, and other resources that help offensive and defensive security professionals.
 - [Socehri/python-cheatsheet](https://github.com/Socehri/python-cheatsheet) - Comprehensive Python Cheatsheet
-- [webpro/dotfiles-1](https://github.com/webpro/dotfiles-1) - Nevermind the bullocks, here's the dotfiles
 - [mossailem/flappe](https://github.com/mossailem/flappe) - Flappe (Flat UI Colors Pallete for Inkscape) is collection of color pallete for Inkscape that inspired from Flat UI Colors Pallete.
 - [Robert-96/inkscape-templates](https://github.com/Robert-96/inkscape-templates) - A collection of SVG templates for Inkscape.
 - [Data4Democracy/ethics-resources](https://github.com/Data4Democracy/ethics-resources) - 
