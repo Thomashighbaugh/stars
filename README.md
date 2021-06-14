@@ -154,6 +154,7 @@
 - [obliviousofcraps/mf-dots](https://github.com/obliviousofcraps/mf-dots) - These are some of my ridiculously shit dotfiles that I use in my unproductive daily life.
 - [MrOtherGuy/firefox-csshacks](https://github.com/MrOtherGuy/firefox-csshacks) - Collection of userstyles affecting the browser
 - [mrmrs/colors](https://github.com/mrmrs/colors) - Smarter defaults for colors on the web.
+- [Thomashighbaugh/Dhumavati-Theme](https://github.com/Thomashighbaugh/Dhumavati-Theme) - At the intersections of OneDark and Palenight, Dhumavati a GTK3 theme that's part of the Electric Tantra suite. Featuring gradient styled progress bars & sliders, a dark but still tolerable in daylight UI & the Vice base16 color scheme (also by me)
 - [manilarome/blurredfox](https://github.com/manilarome/blurredfox) - A sleek, modern and elegant Firefox CSS theme
 - [Timvde/UserChrome-Tweaks](https://github.com/Timvde/UserChrome-Tweaks) - A community maintained repository of userChrome.css tweaks for Firefox
 - [necolas/normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets
@@ -360,7 +361,7 @@
 - [facebook/react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 - [rustysec/tidalwm](https://github.com/rustysec/tidalwm) - Simple and sane tiling window manager for Gnome Shell
 - [hacknug/tailwindcss-image-rendering](https://github.com/hacknug/tailwindcss-image-rendering) - Image-rendering utilities for Tailwind CSS.
-- [medyo/hackertab.dev](https://github.com/medyo/hackertab.dev) - Source code of Hackertab.dev extension (chrome, firefox)
+- [medyo/hackertab.dev](https://github.com/medyo/hackertab.dev) - Hackertab turns your New Tab page into a geeky one that keeps you as a developer updated with the best tools, news, jobs and events.
 - [alice0775/userChrome.js](https://github.com/alice0775/userChrome.js) - 
 - [Manjaro-WebDad/jde](https://github.com/Manjaro-WebDad/jde) - Linux desktop environment built with HTML5, CSS, JavaScript and Python.
 - [amit-07/mern-notes-app](https://github.com/amit-07/mern-notes-app) - Simple note maker app using the MERN stack
@@ -914,7 +915,6 @@
 
 - [Thomashighbaugh/Not-Another-Devlog](https://github.com/Thomashighbaugh/Not-Another-Devlog) - Final form of my devlog. Built with React, Gatsby, SASS, Bootstrap, FontAwesome and SpaceMacs!
 - [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
-- [Thomashighbaugh/Dhumavati-Theme](https://github.com/Thomashighbaugh/Dhumavati-Theme) - At the intersections of OneDark and Palenight, Dhumavati a GTK3 theme that's part of the Electric Tantra suite. Featuring gradient styled progress bars & sliders, a dark but still tolerable in daylight UI & the Vice base16 color scheme (also by me)
 - [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - My cheatsheets
 - [TeaGuns/odin](https://github.com/TeaGuns/odin) - A Jekyll help desk/knowledge base theme
 - [mldangelo/personal-site](https://github.com/mldangelo/personal-site) - My personal website - built with React, React-Router, React-Snap for Static-Export, and GitHub Pages.
