@@ -163,7 +163,7 @@
 - [godlyranchdressing/retrowave-theme](https://github.com/godlyranchdressing/retrowave-theme) - 
 - [TinyRaindrop/Firefox-UI-customization](https://github.com/TinyRaindrop/Firefox-UI-customization) - Changing Firefox UI with custom CSS
 - [muckSponge/MaterialFox](https://github.com/muckSponge/MaterialFox) - A Material Design-inspired userChrome.css theme for Firefox
-- [Izheil/Quantum-Nox-Firefox-Dark-Full-Theme](https://github.com/Izheil/Quantum-Nox-Firefox-Dark-Full-Theme) - These usercontent and userchrome files will give a full themed dark color to Firefox Quantum, menus and dialogs included, as well as the scrollbars. You can also use the JS files to enable multirow tabs and other functions.
+- [Izheil/Quantum-Nox-Firefox-Dark-Full-Theme](https://github.com/Izheil/Quantum-Nox-Firefox-Dark-Full-Theme) - A customizable full dark theme for Firefox. You can also add extra functions using the CSS and JS files here apart from the theme.
 - [Zonnev/elementaryos-firefox-theme](https://github.com/Zonnev/elementaryos-firefox-theme) - This theme for Firefox supports all the window buttons layouts from Tweaks and it blends into the elementary OS user interface.
 - [stonecrusher/simpleMenuWizard](https://github.com/stonecrusher/simpleMenuWizard) - Hide contextmenu items in Firefox Photon
 - [migueravila/SimplerentFox](https://github.com/migueravila/SimplerentFox) - 🦊 A Userstyle theme for Firefox minimalist, transparent and Keyboard centered
@@ -289,7 +289,6 @@
 
 - [mdn/learning-area](https://github.com/mdn/learning-area) - Github repo for the MDN Learning Area.
 - [daattali/beautiful-jekyll](https://github.com/daattali/beautiful-jekyll) - ✨ Build a beautiful and simple website in literally minutes. Demo at https://beautifuljekyll.com
-- [usablica/intro.js](https://github.com/usablica/intro.js) - Lightweight, user-friendly onboarding tour library
 - [github/training-kit](https://github.com/github/training-kit) - Open source cheat sheets for Git and GitHub
 - [aave/aave-protocol](https://github.com/aave/aave-protocol) - Aave Protocol Version 1.0 - Decentralized Lending Pools
 - [saishmhatre47/Artist-Portfolio](https://github.com/saishmhatre47/Artist-Portfolio) - My Art Website.
@@ -357,7 +356,9 @@
 
 ## JavaScript 
 
+- [ethereumbook/ethereumbook](https://github.com/ethereumbook/ethereumbook) - Mastering Ethereum, by Andreas M. Antonopoulos, Gavin Wood
 - [knockout/knockout](https://github.com/knockout/knockout) - Knockout makes it easier to create rich, responsive UIs with JavaScript
+- [usablica/intro.js](https://github.com/usablica/intro.js) - Lightweight, user-friendly onboarding tour library
 - [facebook/react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 - [rustysec/tidalwm](https://github.com/rustysec/tidalwm) - Simple and sane tiling window manager for Gnome Shell
 - [hacknug/tailwindcss-image-rendering](https://github.com/hacknug/tailwindcss-image-rendering) - Image-rendering utilities for Tailwind CSS.
@@ -559,6 +560,7 @@
 
 ## Lua 
 
+- [raven2cz/awesomewm-config](https://github.com/raven2cz/awesomewm-config) - AwesomeWM (git-master) configuration with new Amazing Theme.
 - [siduck76/NvChad](https://github.com/siduck76/NvChad) - beautiful neovim setup configured in lua
 - [pinpox/wallpaper-generator](https://github.com/pinpox/wallpaper-generator) - Generate wallpaper images from mathematical functions
 - [bioe007/awesome-revelation](https://github.com/bioe007/awesome-revelation) - Show all clients per screen in Awesome window manager
@@ -577,7 +579,6 @@
 - [BlingCorp/bling](https://github.com/BlingCorp/bling) - Utilities for the awesome window manager
 - [mut-ex/awesome-wm-nice](https://github.com/mut-ex/awesome-wm-nice) - An Awesome WM module that add MacOS-like window decorations, with seamless titlebars, double click to maximize, and window shade feature
 - [manilarome/the-glorious-dotfiles](https://github.com/manilarome/the-glorious-dotfiles) - A glorified personal dot files
-- [Thomashighbaugh/awesomewm](https://github.com/Thomashighbaugh/awesomewm) - A submodule of my dotfiles for Awesome Window Manager Related Config Files
 - [JavaCafe01/awedots](https://github.com/JavaCafe01/awedots) - My desktop configuration files
 - [Eredarion/dotfiles](https://github.com/Eredarion/dotfiles) - ~!Dotfiles
 - [pltanton/net_widgets](https://github.com/pltanton/net_widgets) - Network widgets for Awesome WM
@@ -633,6 +634,7 @@
 
 ## Others 
 
+- [lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions) - A long list of (advanced) JavaScript questions, and their explanations :sparkles:
 - [eeeear/Online-Computer-Science-Degree](https://github.com/eeeear/Online-Computer-Science-Degree) - Open-Source Computer Science Degree
 - [chrieke/awesome-satellite-imagery-datasets](https://github.com/chrieke/awesome-satellite-imagery-datasets) - 🛰️ List of satellite image training datasets with annotations for computer vision and deep learning
 - [botcrypto-io/awesome-crypto-trading-bots](https://github.com/botcrypto-io/awesome-crypto-trading-bots) - Awesome crypto trading bots
@@ -692,6 +694,7 @@
 - [sathishvj/awesome-gcp-certifications](https://github.com/sathishvj/awesome-gcp-certifications) - Google Cloud Platform Certification resources.
 - [FULLSHADE/WindowsExploitationResources](https://github.com/FULLSHADE/WindowsExploitationResources) - Resources for Windows exploit development
 - [mehransab101/The-Linux-Command-Line_William-Shots](https://github.com/mehransab101/The-Linux-Command-Line_William-Shots) - The Linux Command Line Fourth Internet Edition William Shotts
+- [Thomashighbaugh/awesomewm](https://github.com/Thomashighbaugh/awesomewm) - A submodule of my dotfiles for Awesome Window Manager Related Config Files
 - [kylelobo/The-Documentation-Compendium](https://github.com/kylelobo/The-Documentation-Compendium) - 📢 Various README templates & tips on writing high-quality documentation that people want to read.
 - [brettkromkamp/awesome-knowledge-management](https://github.com/brettkromkamp/awesome-knowledge-management) - A curated list of amazingly awesome articles, people, applications, software libraries and projects related to the knowledge management space
 - [RichardLitt/meta-knowledge](https://github.com/RichardLitt/meta-knowledge) - 💡 A list of knowledge repositories
@@ -768,6 +771,7 @@
 
 ## Python 
 
+- [willmcgugan/rich](https://github.com/willmcgugan/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗Transformers: State-of-the-art Natural Language Processing for Pytorch, TensorFlow, and JAX.
 - [matplotlib/cheatsheets](https://github.com/matplotlib/cheatsheets) - Official Matplotlib cheat sheets
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
@@ -780,7 +784,7 @@
 - [rmountjoy92/DashMachine](https://github.com/rmountjoy92/DashMachine) - Another web application bookmark dashboard, with fun features.
 - [tuxity/insta-unfollower](https://github.com/tuxity/insta-unfollower) - An Instagram script to unfollow accounts who don't follow-you-back
 - [InstaPy/instapy-docker](https://github.com/InstaPy/instapy-docker) - 🐳 Docker config and documentation for running InstaPy with Docker
-- [jarun/buku](https://github.com/jarun/buku) - :bookmark: Browser-independent bookmark manager
+- [jarun/buku](https://github.com/jarun/buku) - :bookmark: browser-independent bookmark manager
 - [lucidrains/x-transformers](https://github.com/lucidrains/x-transformers) - A simple but complete full-attention transformer with a set of promising experimental features from various papers
 - [nathanielevan/dotfiles](https://github.com/nathanielevan/dotfiles) - Linux configuration files
 - [noob-hackers/ipdrone](https://github.com/noob-hackers/ipdrone) - Track Location With Live Address And Accuracy In Termux
