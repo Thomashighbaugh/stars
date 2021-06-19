@@ -170,7 +170,7 @@
 - [cacheiforindicium/dotfiles](https://github.com/cacheiforindicium/dotfiles) - SwayWM dotfiles
 - [iyzg/archived-dots](https://github.com/iyzg/archived-dots) - :large_blue_circle: The configs behind the eye candy
 - [Etesam913/slick-fox](https://github.com/Etesam913/slick-fox) - :fox_face: A firefox config that has rounded tabs and a url bar that can disappear when not selected on. It works with any theme.
-- [dbuxy218/Prismatic-Night](https://github.com/dbuxy218/Prismatic-Night) - A dark themed startpage and dark themes for Firefox and Linux inspired by Material design and Adapta.
+- [3r3bu5x9/Prismatic-Night](https://github.com/3r3bu5x9/Prismatic-Night) - A dark themed startpage and dark themes for Firefox and Linux inspired by Material design and Adapta.
 - [mil/keyfram](https://github.com/mil/keyfram) - Modular Sass animation library that makes compsing complex animations simple.
 - [SwiftyChicken/dotfiles](https://github.com/SwiftyChicken/dotfiles) - My dotfiles
 - [codebushi/gatsby-starter-forty](https://github.com/codebushi/gatsby-starter-forty) - Gatsby.js V2 starter template based on Forty, designed by HTML5 UP. Check out https://codebushi.com/gatsby-starters-and-themes/ for more Gatsby starters.
@@ -633,6 +633,7 @@
 
 ## Others 
 
+- [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions) - A long list of (advanced) JavaScript questions, and their explanations :sparkles:
 - [eeeear/Online-Computer-Science-Degree](https://github.com/eeeear/Online-Computer-Science-Degree) - Open-Source Computer Science Degree
 - [chrieke/awesome-satellite-imagery-datasets](https://github.com/chrieke/awesome-satellite-imagery-datasets) - 🛰️ List of satellite image training datasets with annotations for computer vision and deep learning
