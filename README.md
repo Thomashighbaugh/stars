@@ -752,6 +752,7 @@
 
 ## PHP 
 
+- [ambroisemaupate/webfont-generator](https://github.com/ambroisemaupate/webfont-generator) - Subset and convert one or many OTF/TTF files in EOT, SVG, WOFF and WOFF2.
 - [thedevdojo/wave](https://github.com/thedevdojo/wave) - Wave - The Software as a Service Starter Kit, designed to help you build the SAAS of your dreams 🚀 💰
 - [cavo789/marknotes](https://github.com/cavo789/marknotes) - 📝 You’re taking a lot of notes and need a solution to manage them i.e. put your knowledge base in one central place and being able to retrieve quickly information’s, display them nicely through the browser as a HTML page or a slideshow, export them in many file formats (docx, odt, pdf, txt, …).  Sensitive information’s can be encrypted and notes can be edited online. Online demo: https://www.marknotes.fr | Stay informed, follow us on Facebook: https://www.facebook.com/marknotes789
 - [Zavy86/WikiDocs](https://github.com/Zavy86/WikiDocs) - 📗 Just a databaseless markdown flat-file wiki engine..
@@ -771,6 +772,7 @@
 
 ## Python 
 
+- [awesometoolbox/otf2ttf](https://github.com/awesometoolbox/otf2ttf) - Convert OpenType Font (OTF) to TrueType Font (TTF) format using fonttools.
 - [willmcgugan/rich](https://github.com/willmcgugan/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗Transformers: State-of-the-art Natural Language Processing for Pytorch, TensorFlow, and JAX.
 - [matplotlib/cheatsheets](https://github.com/matplotlib/cheatsheets) - Official Matplotlib cheat sheets
