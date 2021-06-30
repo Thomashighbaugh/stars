@@ -355,6 +355,11 @@
 
 ## JavaScript 
 
+- [axel7083/Homepage](https://github.com/axel7083/Homepage) - A chrome extension which provides a nice custom page with shortcuts, menus etc.
+- [efortney28/react-startpage](https://github.com/efortney28/react-startpage) - Start page for a web browser built in React.
+- [Etesam913/dragify](https://github.com/Etesam913/dragify) - :sparkles: An application that can be used to create a custom startpage through interactive tools like drag and drop
+- [coffee-dan/react-startpage](https://github.com/coffee-dan/react-startpage) - React.js based implementation of a startpage.
+- [wigxel/nextjs-tailwind-boilerplate](https://github.com/wigxel/nextjs-tailwind-boilerplate) - A boilerplate for NextJS, StyledComponents and Tailwindcss. Lint and Formatting enabled.
 - [Harvzor/start](https://github.com/Harvzor/start) - The start page for my browser.
 - [ethereumbook/ethereumbook](https://github.com/ethereumbook/ethereumbook) - Mastering Ethereum, by Andreas M. Antonopoulos, Gavin Wood
 - [knockout/knockout](https://github.com/knockout/knockout) - Knockout makes it easier to create rich, responsive UIs with JavaScript
@@ -1075,7 +1080,7 @@
 - [vinceliuice/vimix-icon-theme](https://github.com/vinceliuice/vimix-icon-theme) - vimix-icon-theme
 - [maestrogerardo/i3-gaps-deb](https://github.com/maestrogerardo/i3-gaps-deb) - Tool to create and install Debian (or Ubuntu) packages of i3-gaps.
 - [hastinbe/i3-volume](https://github.com/hastinbe/i3-volume) - Volume control and volume notifications
-- [mustafaozhan/Breeze-Adapta-Cursor](https://github.com/mustafaozhan/Breeze-Adapta-Cursor) - :arrow_upper_left:  Popular Breeze Cursor modified for Adapta theme.
+- [mustafaozhan/Breeze-Adapta-Cursor](https://github.com/mustafaozhan/Breeze-Adapta-Cursor) - :arrow_upper_left:   Popular Breeze Cursor modified for Adapta theme.
 - [ibrahimbutt/direwolf-arch-rice](https://github.com/ibrahimbutt/direwolf-arch-rice) - 🐺🍚 A guide to replicating my riced Arch Linux set-up.
 - [btd1337/urutau-icons](https://github.com/btd1337/urutau-icons) - The most complete icon pack for 3rd applications with elementary OS design
 - [bikass/kora](https://github.com/bikass/kora) - Kora icon theme for GNU/Linux os
@@ -1113,6 +1118,7 @@
 
 ## TypeScript 
 
+- [PrettyCoffee/fluidity](https://github.com/PrettyCoffee/fluidity) - Fluidity - An accordion based startpage
 - [nixton9/HomePage](https://github.com/nixton9/HomePage) - HomePage app
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - A Markdown Editor for the 21st century.
 - [rfarine/art-portfolio](https://github.com/rfarine/art-portfolio) - raefarine.art
