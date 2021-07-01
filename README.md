@@ -82,7 +82,7 @@
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET and TFTP. libcurl offers a myriad of powerful features
 - [buffet/kiwmi](https://github.com/buffet/kiwmi) - A fully programmable Wayland Compositor
 - [bakkeby/dwm-flexipatch](https://github.com/bakkeby/dwm-flexipatch) - A dwm build with preprocessor directives to decide which patches to include during build time
-- [ashish-yadav11/dsblocks](https://github.com/ashish-yadav11/dsblocks) - Modular status monitor for dwm written and meant to be extended in C.
+- [ashish-yadav11/dsblocks](https://github.com/ashish-yadav11/dsblocks) - Modular status monitor for dwm written and meant to be configured in C.
 - [torrinfail/dwmblocks](https://github.com/torrinfail/dwmblocks) - Modular status bar for dwm written in c.
 - [gnotclub/xst](https://github.com/gnotclub/xst) - st fork that uses Xresources and some pretty good patches
 - [LukeSmithxyz/dwmblocks](https://github.com/LukeSmithxyz/dwmblocks) - My status bar: my build of the modular dwmblocks
@@ -286,6 +286,7 @@
 
 ## HTML 
 
+- [terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
 - [mdn/learning-area](https://github.com/mdn/learning-area) - Github repo for the MDN Learning Area.
 - [daattali/beautiful-jekyll](https://github.com/daattali/beautiful-jekyll) - ✨ Build a beautiful and simple website in literally minutes. Demo at https://beautifuljekyll.com
 - [github/training-kit](https://github.com/github/training-kit) - Open source cheat sheets for Git and GitHub
@@ -355,6 +356,8 @@
 
 ## JavaScript 
 
+- [errozero/glitchatron](https://github.com/errozero/glitchatron) - Glitch Art Generator
+- [BilliMorgan/cryptocurrency-exchange](https://github.com/BilliMorgan/cryptocurrency-exchange) - The part of the crypto project. Build on React, Context API. Tested with Enzyme. For Chrome and Firefox only. In the rebuilding process now.
 - [axel7083/Homepage](https://github.com/axel7083/Homepage) - A chrome extension which provides a nice custom page with shortcuts, menus etc.
 - [efortney28/react-startpage](https://github.com/efortney28/react-startpage) - Start page for a web browser built in React.
 - [Etesam913/dragify](https://github.com/Etesam913/dragify) - :sparkles: An application that can be used to create a custom startpage through interactive tools like drag and drop
@@ -639,6 +642,7 @@
 
 ## Others 
 
+- [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions) - A long list of (advanced) JavaScript questions, and their explanations :sparkles:
 - [eeeear/Online-Computer-Science-Degree](https://github.com/eeeear/Online-Computer-Science-Degree) - Open-Source Computer Science Degree
@@ -777,6 +781,7 @@
 
 ## Python 
 
+- [Lifesgood123/unixpornposter](https://github.com/Lifesgood123/unixpornposter) - 
 - [demisto/content](https://github.com/demisto/content) - Demisto is now Cortex XSOAR. Automate and orchestrate your Security Operations with Cortex XSOAR's ever-growing Content Repository. Pull Requests are always welcome and highly appreciated!
 - [awesometoolbox/otf2ttf](https://github.com/awesometoolbox/otf2ttf) - Convert OpenType Font (OTF) to TrueType Font (TTF) format using fonttools.
 - [willmcgugan/rich](https://github.com/willmcgugan/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
