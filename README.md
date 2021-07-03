@@ -139,6 +139,7 @@
 
 ## CSS 
 
+- [fcnoronha/WordArtBot](https://github.com/fcnoronha/WordArtBot) - 🎨 The WordArt generator bot for Telegram @bestWordArtBot
 - [aemi-dev/Fonts](https://github.com/aemi-dev/Fonts) - What you ever looked for.
 - [IanLunn/Hover](https://github.com/IanLunn/Hover) - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS.
 - [braintree/jsdoc-template](https://github.com/braintree/jsdoc-template) - A clean, responsive documentation template with search and navigation highlighting for JSDoc 3
@@ -286,6 +287,8 @@
 
 ## HTML 
 
+- [Thomashighbaugh/hugo](https://github.com/Thomashighbaugh/hugo) - 
+- [Thomashighbaugh/html5-features](https://github.com/Thomashighbaugh/html5-features) - A quick demonstration of various html5 features.
 - [terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
 - [mdn/learning-area](https://github.com/mdn/learning-area) - Github repo for the MDN Learning Area.
 - [daattali/beautiful-jekyll](https://github.com/daattali/beautiful-jekyll) - ✨ Build a beautiful and simple website in literally minutes. Demo at https://beautifuljekyll.com
@@ -356,6 +359,10 @@
 
 ## JavaScript 
 
+- [Thomashighbaugh/mern-contact-keeper](https://github.com/Thomashighbaugh/mern-contact-keeper) - A contact keeper application built to explore the MERN stack
+- [Thomashighbaugh/preact](https://github.com/Thomashighbaugh/preact) - 
+- [Thomashighbaugh/Redux-React-Less-Starter-Page](https://github.com/Thomashighbaugh/Redux-React-Less-Starter-Page) - 
+- [devonChurch/ham-toastie](https://github.com/devonChurch/ham-toastie) - An SVG geometric pattern generator
 - [errozero/glitchatron](https://github.com/errozero/glitchatron) - Glitch Art Generator
 - [BilliMorgan/cryptocurrency-exchange](https://github.com/BilliMorgan/cryptocurrency-exchange) - The part of the crypto project. Build on React, Context API. Tested with Enzyme. For Chrome and Firefox only. In the rebuilding process now.
 - [axel7083/Homepage](https://github.com/axel7083/Homepage) - A chrome extension which provides a nice custom page with shortcuts, menus etc.
@@ -574,7 +581,7 @@
 - [Mofiqul/awesome-shell](https://github.com/Mofiqul/awesome-shell) - This is a collection of awesome wm configuration files
 - [ODEX-TOS/tos-desktop-environment](https://github.com/ODEX-TOS/tos-desktop-environment) - Home of TDE - The official desktop environment of TOS
 - [Mic92/awesome-dotfiles](https://github.com/Mic92/awesome-dotfiles) - Configuration files of the window manager awesome
-- [ChristianChiarulli/LunarVim](https://github.com/ChristianChiarulli/LunarVim) - A Neovim config made with sane defaults
+- [ChristianChiarulli/LunarVim](https://github.com/ChristianChiarulli/LunarVim) - An IDE layer for Neovim with sane defaults.
 - [pw4ever/awesome-wm-config](https://github.com/pw4ever/awesome-wm-config) - awesome window manager config with persistent dynamic tagging
 - [drahenprofi/dotfiles](https://github.com/drahenprofi/dotfiles) - Arch Linux dotfiles
 - [xinhaoyuan/layout-machi](https://github.com/xinhaoyuan/layout-machi) - AwesomeWM manual layout with an interactive editor
@@ -641,6 +648,11 @@
 
 ## Others 
 
+- [fosslife/awesome-ricing](https://github.com/fosslife/awesome-ricing) - A curated list of awesome tools and technology to help you out with ricing
+- [Thomashighbaugh/gitstars](https://github.com/Thomashighbaugh/gitstars) - Github Stars Repositories Manager
+- [Thomashighbaugh/hacker-roadmap](https://github.com/Thomashighbaugh/hacker-roadmap) - :pushpin: Your beginner pen-testing start guide. A guide for amateur pen testers and a collection of hacking tools, resources and references to practice ethical hacking and web security.
+- [Thomashighbaugh/awesome-awesome-wm](https://github.com/Thomashighbaugh/awesome-awesome-wm) - A curated list of awesome tools/scripts/configs for Awesome Window Manager.
+- [Thomashighbaugh/awesome-tailwindcss](https://github.com/Thomashighbaugh/awesome-tailwindcss) - 😎 Awesome things related to Tailwind CSS
 - [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions) - A long list of (advanced) JavaScript questions, and their explanations :sparkles:
@@ -780,6 +792,7 @@
 
 ## Python 
 
+- [Thomashighbaugh/qtile](https://github.com/Thomashighbaugh/qtile) - I continue plummeting into the depts of Linux
 - [Lifesgood123/unixpornposter](https://github.com/Lifesgood123/unixpornposter) - 
 - [demisto/content](https://github.com/demisto/content) - Demisto is now Cortex XSOAR. Automate and orchestrate your Security Operations with Cortex XSOAR's ever-growing Content Repository. Pull Requests are always welcome and highly appreciated!
 - [awesometoolbox/otf2ttf](https://github.com/awesometoolbox/otf2ttf) - Convert OpenType Font (OTF) to TrueType Font (TTF) format using fonttools.
@@ -949,6 +962,10 @@
 
 ## Shell 
 
+- [Thomashighbaugh/vimwiki_skel](https://github.com/Thomashighbaugh/vimwiki_skel) - A blank vimwiki wiki for purposes of copying later, using Markdown, when a new wiki is needed for whatever reason.
+- [Thomashighbaugh/autorunner](https://github.com/Thomashighbaugh/autorunner) - Configurable and notification aware autostart helper for minimalistic window managers like i3, openbox and others
+- [Thomashighbaugh/electric-tantra-repo](https://github.com/Thomashighbaugh/electric-tantra-repo) - A package repository for a self spun distro that demos my dotfiles.
+- [Thomashighbaugh/Bhairava-Grub-Theme](https://github.com/Thomashighbaugh/Bhairava-Grub-Theme) - Personal Grub Bootloader Theme
 - [noob-hackers/hacklock](https://github.com/noob-hackers/hacklock) - Hack Android Pattern From Termux With This Tool
 - [Bhaviktutorials/T-Remix](https://github.com/Bhaviktutorials/T-Remix) - This Tool will Help to Customise Your Termux in such a way that you will Enjoy using Termux it will give you a morden look And it also haas feature of password, you can also set  Password on your Termux.
 - [intel/stacks](https://github.com/intel/stacks) - The System Stacks for Linux* OS are a collection of production ready docker images for Deep Learning, Media and Storage optimized for 2nd generation Intel® Xeon® Scalable Processors.
@@ -1223,6 +1240,7 @@
 
 ## Vue 
 
+- [Thomashighbaugh/vue](https://github.com/Thomashighbaugh/vue) - 
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome Github Profile READMEs 📝
 - [lostdesign/webgems](https://github.com/lostdesign/webgems) - A curated list of resources for devs and designers. Join me on devcord.com if you are up for a chit chat :)
 - [Litarvan/lightdm-webkit-theme-litarvan](https://github.com/Litarvan/lightdm-webkit-theme-litarvan) - Litarvan's LightDM HTML Theme
