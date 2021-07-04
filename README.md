@@ -167,7 +167,7 @@
 - [Zonnev/elementaryos-firefox-theme](https://github.com/Zonnev/elementaryos-firefox-theme) - This theme for Firefox supports all the window buttons layouts from Tweaks and it blends into the elementary OS user interface.
 - [stonecrusher/simpleMenuWizard](https://github.com/stonecrusher/simpleMenuWizard) - Hide contextmenu items in Firefox Photon
 - [migueravila/SimplerentFox](https://github.com/migueravila/SimplerentFox) - 🦊 A Userstyle theme for Firefox minimalist, transparent and Keyboard centered
-- [6gk/polka](https://github.com/6gk/polka) - 🐢 dotless files - plz no steel (only cardboard) (sponsored by https://git.io/kiwmi, plz star & contribute to it)
+- [6gk/polka](https://github.com/6gk/polka) - 🐢 dotless files  (sponsored by https://git.io/kiwmi)
 - [cacheiforindicium/dotfiles](https://github.com/cacheiforindicium/dotfiles) - SwayWM dotfiles
 - [iyzg/archived-dots](https://github.com/iyzg/archived-dots) - :large_blue_circle: The configs behind the eye candy
 - [Etesam913/slick-fox](https://github.com/Etesam913/slick-fox) - :fox_face: A firefox config that has rounded tabs and a url bar that can disappear when not selected on. It works with any theme.
@@ -323,7 +323,6 @@
 - [realdavidops/xcvb](https://github.com/realdavidops/xcvb) - a super simple start page.
 - [jibolash/Eve](https://github.com/jibolash/Eve) - Ultra Minimal Single-page Jekyll Template for Building Personal Portfolio Websites
 - [kdrag0n/base16-kitty](https://github.com/kdrag0n/base16-kitty) - Base16 color scheme template for kitty
-- [Thomashighbaugh/base16-vice-scheme](https://github.com/Thomashighbaugh/base16-vice-scheme) - 
 - [DopestTech/Dev-Folio](https://github.com/DopestTech/Dev-Folio) - 🔥 A collection of Free Portfolio templates for developers.
 - [jwasham/computer-science-flash-cards](https://github.com/jwasham/computer-science-flash-cards) - Mini website for testing both general CS knowledge and enforce coding practice and common algorithm/data structure memorization.
 - [website-templates/portfolio_one-page-template](https://github.com/website-templates/portfolio_one-page-template) - Free responsive one page portfolio template
@@ -730,6 +729,7 @@
 - [A75G/docker-templates](https://github.com/A75G/docker-templates) - Unraid Docker Templates
 - [enkia/tokyo-night-vscode-theme](https://github.com/enkia/tokyo-night-vscode-theme) - A clean, dark Visual Studio Code theme that celebrates the lights of Downtown Tokyo at night.
 - [SlashArash/slashicon](https://github.com/SlashArash/slashicon) - SlashIcon is an icon theme for Linux. It's included cursor and icon theme.
+- [Thomashighbaugh/base16-vice-scheme](https://github.com/Thomashighbaugh/base16-vice-scheme) - 
 - [endeavouros-team/repo](https://github.com/endeavouros-team/repo) - 
 - [alma4rebi/Plank-Themes-1](https://github.com/alma4rebi/Plank-Themes-1) - Huge Plank Theme Collection ( 107 themes )
 - [dipakkr/A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - ✅  Curated list of resources for college students
@@ -1066,7 +1066,7 @@
 - [DonyaOS/Donya](https://github.com/DonyaOS/Donya) - Donya is an Operating system. Yet Another Linux distro built using a package management system.
 - [rajshekhar26/dotfiles](https://github.com/rajshekhar26/dotfiles) - My dotfiles
 - [adi1090x/plymouth-themes](https://github.com/adi1090x/plymouth-themes) - A hugh collection (80+) of plymouth themes ported from android bootanimations
-- [6gk/fet.sh](https://github.com/6gk/fet.sh) - 🐢 a fetch written in posix shell without any external commands (sponsored by https://git.io/kiwmi, plz star & contribute to it)
+- [6gk/fet.sh](https://github.com/6gk/fet.sh) - 🐢 a fetch written in posix shell without any external commands  (sponsored by https://git.io/kiwmi)
 - [LukeSmithxyz/voidrice](https://github.com/LukeSmithxyz/voidrice) - My dotfiles (deployed by LARBS)
 - [endeavouros-team/PKGBUILDS](https://github.com/endeavouros-team/PKGBUILDS) - PKGBUILDS for packages used in our repository
 - [mfaerevaag/wd](https://github.com/mfaerevaag/wd) - :rocket: Jump to custom directories in zsh
@@ -1120,7 +1120,7 @@
 - [grm34/archboot](https://github.com/grm34/archboot) - 💠 Arch Linux Installer
 - [cbrnix/Newaita](https://github.com/cbrnix/Newaita) - Linux icon theme
 - [Thomashighbaugh/colt45gui](https://github.com/Thomashighbaugh/colt45gui) - Quickly Provision Your Linux Desktop With Useful Applications With a GUI Installer Menu
-- [derkomai/alfred](https://github.com/derkomai/alfred) - A script to install all your favourite applications and perform the most common tasks.
+- [derkomai/alfred](https://github.com/derkomai/alfred) - A script to install all your favourite applications and perform the most common tasks in GNU/Linux.
 - [Blacksuan19/Dotfiles](https://github.com/Blacksuan19/Dotfiles) - various configurations for various packages
 - [vinceliuice/Tela-icon-theme](https://github.com/vinceliuice/Tela-icon-theme) - A flat colorful Design icon theme
 - [powerline/fonts](https://github.com/powerline/fonts) - Patched fonts for Powerline users.
