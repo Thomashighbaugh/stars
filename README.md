@@ -139,6 +139,7 @@
 
 ## CSS 
 
+- [mjshofy/glass-morphism-ui-card-design](https://github.com/mjshofy/glass-morphism-ui-card-design) - Learn to create a glass morphism UI card using HTML and CSS easily
 - [fcnoronha/WordArtBot](https://github.com/fcnoronha/WordArtBot) - 🎨 The WordArt generator bot for Telegram @bestWordArtBot
 - [aemi-dev/Fonts](https://github.com/aemi-dev/Fonts) - What you ever looked for.
 - [IanLunn/Hover](https://github.com/IanLunn/Hover) - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS.
@@ -287,6 +288,7 @@
 
 ## HTML 
 
+- [choubari/Glassmorphism-Portfolio](https://github.com/choubari/Glassmorphism-Portfolio) - Glassmorphism Portfolio Website built with HTML&CSS based on @developedbyed tutorial.
 - [Thomashighbaugh/hugo](https://github.com/Thomashighbaugh/hugo) - 
 - [Thomashighbaugh/html5-features](https://github.com/Thomashighbaugh/html5-features) - A quick demonstration of various html5 features.
 - [terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
@@ -580,7 +582,7 @@
 - [Mofiqul/awesome-shell](https://github.com/Mofiqul/awesome-shell) - This is a collection of awesome wm configuration files
 - [ODEX-TOS/tos-desktop-environment](https://github.com/ODEX-TOS/tos-desktop-environment) - Home of TDE - The official desktop environment of TOS
 - [Mic92/awesome-dotfiles](https://github.com/Mic92/awesome-dotfiles) - Configuration files of the window manager awesome
-- [ChristianChiarulli/LunarVim](https://github.com/ChristianChiarulli/LunarVim) - An IDE layer for Neovim with sane defaults.
+- [ChristianChiarulli/LunarVim](https://github.com/ChristianChiarulli/LunarVim) - An IDE layer for Neovim with sane defaults. Completely free and community driven.
 - [pw4ever/awesome-wm-config](https://github.com/pw4ever/awesome-wm-config) - awesome window manager config with persistent dynamic tagging
 - [drahenprofi/dotfiles](https://github.com/drahenprofi/dotfiles) - Arch Linux dotfiles
 - [xinhaoyuan/layout-machi](https://github.com/xinhaoyuan/layout-machi) - AwesomeWM manual layout with an interactive editor
@@ -1140,6 +1142,7 @@
 
 ## TypeScript 
 
+- [tsamantanis/react-glassmorphism](https://github.com/tsamantanis/react-glassmorphism) - A react UI component library for glassmorphic components
 - [PrettyCoffee/fluidity](https://github.com/PrettyCoffee/fluidity) - Fluidity - An accordion based startpage
 - [nixton9/HomePage](https://github.com/nixton9/HomePage) - HomePage app
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - A Markdown Editor for the 21st century.
