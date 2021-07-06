@@ -360,6 +360,7 @@
 
 ## JavaScript 
 
+- [pataar/starting-page](https://github.com/pataar/starting-page) - A custom starting page which has some useful features.
 - [Thomashighbaugh/mern-contact-keeper](https://github.com/Thomashighbaugh/mern-contact-keeper) - A contact keeper application built to explore the MERN stack
 - [Thomashighbaugh/preact](https://github.com/Thomashighbaugh/preact) - 
 - [Thomashighbaugh/Redux-React-Less-Starter-Page](https://github.com/Thomashighbaugh/Redux-React-Less-Starter-Page) - 
