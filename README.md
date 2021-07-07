@@ -58,6 +58,7 @@
 
 ## C 
 
+- [audacity/audacity](https://github.com/audacity/audacity) - Audio Editor
 - [facebook/zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
 - [openssl/openssl](https://github.com/openssl/openssl) - TLS/SSL and crypto library
 - [libgit2/libgit2](https://github.com/libgit2/libgit2) - A cross-platform, linkable library implementation of Git that you can use in your application.
@@ -387,6 +388,7 @@
 - [andreasonny83/lighthouse-ci](https://github.com/andreasonny83/lighthouse-ci) - A useful wrapper around Google Lighthouse CLI
 - [asyncapi/generator](https://github.com/asyncapi/generator) - Use your AsyncAPI definition to generate literally anything. Markdown documentation, Node.js code, HTML documentation, anything!
 - [MarcosCosmos/portal](https://github.com/MarcosCosmos/portal) - A tiling window manager for your web browser
+- [Thomashighbaugh/startpage-zwei](https://github.com/Thomashighbaugh/startpage-zwei) - Second Implementation of a Startpage for my browser in Next.js using Typescript and Tailwind.css with Motion Animations and More
 - [Thomashighbaugh/Time-Is-Nigh](https://github.com/Thomashighbaugh/Time-Is-Nigh) - Put together to demonstrate my competence with React.js, a timer with some extra functionality and a custom logo
 - [Thomashighbaugh/Saar-Janak](https://github.com/Thomashighbaugh/Saar-Janak) - A web app to make a random background for websites
 - [designmodo/Flat-UI](https://github.com/designmodo/Flat-UI) - Flat UI Free - Design Framework (html/css3/less/js). Flat UI is based on Bootstrap, a comfortable, responsive, and functional framework that simplifies the development of websites.
@@ -456,7 +458,6 @@
 - [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
 - [swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui) - Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
 - [google/eleventy-high-performance-blog](https://github.com/google/eleventy-high-performance-blog) - A high performance blog template for the 11ty static site generator.
-- [philippetedajo/philippe.tedajo](https://github.com/philippetedajo/philippe.tedajo) - My personal portfolio.
 - [proksh/atomize](https://github.com/proksh/atomize) - Design System for developers build on styled-components & React JS.
 - [DesignRevision/shards-react](https://github.com/DesignRevision/shards-react) - ⚛️A beautiful and modern React design system.
 - [dotiful/firefox-scripts](https://github.com/dotiful/firefox-scripts) - Custom tweaks and preferences for Firefox
@@ -561,6 +562,7 @@
 
 ## Jupyter Notebook 
 
+- [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 24 lessons, classic Machine Learning for all
 - [mrdbourke/tensorflow-deep-learning](https://github.com/mrdbourke/tensorflow-deep-learning) - All course materials for the Zero to Mastery Deep Learning with TensorFlow course.
 - [pfnet/PaintsChainer](https://github.com/pfnet/PaintsChainer) - line drawing colorization using chainer
 - [spmallick/learnopencv](https://github.com/spmallick/learnopencv) - Learn OpenCV  : C++ and Python Examples
@@ -576,6 +578,8 @@
 
 ## Lua 
 
+- [streetturtle/awesome-buttons](https://github.com/streetturtle/awesome-buttons) - Button widget library for Awesome Window Manager
+- [hrsh7th/nvim-compe](https://github.com/hrsh7th/nvim-compe) - Auto completion plugin for nvim that written in Lua.
 - [raven2cz/awesomewm-config](https://github.com/raven2cz/awesomewm-config) - AwesomeWM (git-master) configuration with new Amazing Theme.
 - [siduck76/NvChad](https://github.com/siduck76/NvChad) - An attempt to make neovim cli as functional as an IDE while being very beautiful and less bloated.
 - [pinpox/wallpaper-generator](https://github.com/pinpox/wallpaper-generator) - Generate wallpaper images from mathematical functions
@@ -1148,7 +1152,6 @@
 - [nixton9/HomePage](https://github.com/nixton9/HomePage) - HomePage app
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - A Markdown Editor for the 21st century.
 - [rfarine/art-portfolio](https://github.com/rfarine/art-portfolio) - raefarine.art
-- [Thomashighbaugh/startpage-zwei](https://github.com/Thomashighbaugh/startpage-zwei) - Second Implementation of a Startpage for my browser in Next.js using Typescript and Tailwind.css with Motion Animations and More
 - [QingWei-Li/notea](https://github.com/QingWei-Li/notea) - 📒 Self hosted note taking app stored on S3
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
 - [Charlie85270/tail-kit](https://github.com/Charlie85270/tail-kit) - Tail-kit is a free and open source components and templates kit fully coded with Tailwind css 2.0.
@@ -1179,6 +1182,7 @@
 - [taniarascia/takenote](https://github.com/taniarascia/takenote) - 📝  ‎ A web-based notes app for developers.
 - [vuejs/vue-next](https://github.com/vuejs/vue-next) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 - [material-shell/material-shell](https://github.com/material-shell/material-shell) - A modern desktop interface for Linux. Improve your user experience and get rid of the anarchy of traditional desktop workflows. Designed to simplify navigation and reduce the need to manipulate windows in order to improve productivity. It's meant to be 100% predictable and bring the benefits of tools coveted by professionals to everyone.
+- [philippetedajo/philippe.tedajo](https://github.com/philippetedajo/philippe.tedajo) - My personal portfolio.
 - [raunofreiberg/ui-playbook](https://github.com/raunofreiberg/ui-playbook) - The documented collection of UI components 🤓
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - 📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!
