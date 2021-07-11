@@ -580,6 +580,7 @@
 
 ## Lua 
 
+- [purhan/dotfiles](https://github.com/purhan/dotfiles) - 
 - [piotrklibert/awesome-config](https://github.com/piotrklibert/awesome-config) - Configuration and widgets for Awesome WM in Lua and MoonScript
 - [leafo/moonscript](https://github.com/leafo/moonscript) - :crescent_moon: A language that compiles to Lua
 - [projekt0n/github-nvim-theme](https://github.com/projekt0n/github-nvim-theme) - Github theme for Neovim, Kitty, and Alacritty written in Lua
@@ -1240,6 +1241,7 @@
 
 ## Vim script 
 
+- [antoniosarosi/dotfiles](https://github.com/antoniosarosi/dotfiles) - My dotfiles repo, here you can find all my window manager configs as well as documentation and a guide on how to make your own desktop environment.
 - [theniceboy/nvim](https://github.com/theniceboy/nvim) - The Ultimate NeoVim Config for Colemak Users
 - [Thomashighbaugh/vim](https://github.com/Thomashighbaugh/vim) - Vim configuration
 - [shapeshed/dotfiles](https://github.com/shapeshed/dotfiles) - dotfiles and config stuff
