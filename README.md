@@ -580,6 +580,12 @@
 
 ## Lua 
 
+- [basaran/awesomewm-micky](https://github.com/basaran/awesomewm-micky) - an awesomewm module to automatically move and center your mouse cursor to the active (focused) window.
+- [basaran/awesomewm-machina](https://github.com/basaran/awesomewm-machina) - helper module for layout-machi that allows you to go up and down in a stacked region and client swapping, expansions and visual tabs and more without requiring you to launch the machi switcher.
+- [basaran/awesomewm-backham](https://github.com/basaran/awesomewm-backham) - automatically focus back to the previous client on minimize and close
+- [ChrisTitusTech/titus-awesome](https://github.com/ChrisTitusTech/titus-awesome) - Custom AwesomeWM Theme
+- [streetturtle/noobie](https://github.com/streetturtle/noobie) - Create a wibar widget for Awesome WM with no lua code!
+- [Maryll-castelino/dotfiles](https://github.com/Maryll-castelino/dotfiles) - my config files for awesomewm
 - [purhan/dotfiles](https://github.com/purhan/dotfiles) - 
 - [piotrklibert/awesome-config](https://github.com/piotrklibert/awesome-config) - Configuration and widgets for Awesome WM in Lua and MoonScript
 - [leafo/moonscript](https://github.com/leafo/moonscript) - :crescent_moon: A language that compiles to Lua
@@ -666,6 +672,7 @@
 
 ## Others 
 
+- [basaran/awesome-remember-geometry](https://github.com/basaran/awesome-remember-geometry) - Remember client location when switching between floating, tiling and maximized
 - [fosslife/awesome-ricing](https://github.com/fosslife/awesome-ricing) - A curated list of awesome tools and technology to help you out with ricing
 - [Thomashighbaugh/gitstars](https://github.com/Thomashighbaugh/gitstars) - Github Stars Repositories Manager
 - [Thomashighbaugh/hacker-roadmap](https://github.com/Thomashighbaugh/hacker-roadmap) - :pushpin: Your beginner pen-testing start guide. A guide for amateur pen testers and a collection of hacking tools, resources and references to practice ethical hacking and web security.
@@ -944,7 +951,7 @@
 - [skwp/dotfiles](https://github.com/skwp/dotfiles) - YADR - The best vim,git,zsh plugins and the cleanest vimrc you've ever seen
 - [phR0ze/cyberlinux](https://github.com/phR0ze/cyberlinux) - Arch Linux based distro for power users that desire full customization, performance and automation
 - [dreverri/gollum-site](https://github.com/dreverri/gollum-site) - Static Site Generator for Gollum Wikis
-- [tootsuite/mastodon](https://github.com/tootsuite/mastodon) - Your self-hosted, globally interconnected microblogging community
+- [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
 - [railsbridge/docs](https://github.com/railsbridge/docs) - Curriculum for RailsBridge workshops
 - [postalhq/postal](https://github.com/postalhq/postal) - 📨 A fully featured open source mail delivery platform for incoming & outgoing e-mail
 - [SteveLTN/https-portal](https://github.com/SteveLTN/https-portal) - A fully automated HTTPS server powered by Nginx, Let's Encrypt and Docker.
@@ -1033,7 +1040,7 @@
 - [utensils/brinkOS](https://github.com/utensils/brinkOS) - Arch based Linux distribution for Engineers
 - [brinkOS/brinkOS-packages](https://github.com/brinkOS/brinkOS-packages) - Packages for brinkOS
 - [noob-hackers/T-LOAD](https://github.com/noob-hackers/T-LOAD) - New Interface And Loading Screen For Termux Users
-- [kisslinux/kiss](https://github.com/kisslinux/kiss) - KISS - Package Manager
+- [kisslinux/kiss](https://github.com/kisslinux/kiss) - KISS Linux - Package Manager
 - [instantOS/instantOS](https://github.com/instantOS/instantOS) - instantOS - the out of the Box distro for powerusers
 - [StarshipEngineer/OpenVPN-Setup](https://github.com/StarshipEngineer/OpenVPN-Setup) - Shell script to set up Raspberry Pi (TM) as an OpenVPN server
 - [endoffile78/void-installer](https://github.com/endoffile78/void-installer) - 
