@@ -235,7 +235,6 @@
 
 ## CoffeeScript 
 
-- [overleaf/overleaf](https://github.com/overleaf/overleaf) - A web-based collaborative LaTeX editor
 - [glebm/gulp-webpack-react-bootstrap-sass-template](https://github.com/glebm/gulp-webpack-react-bootstrap-sass-template) - Web App Client Template: React. Sass, Coffee, JSX. Bootstrap for Sass. Compiled with Gulp and Webpack.
 
 ## Dockerfile 
@@ -442,7 +441,7 @@
 - [thisisroi/roi-portfolio](https://github.com/thisisroi/roi-portfolio) - ✨ Portfolio site created using Nextjs.
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (June 2021)
-- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across +800 social media \ websites (Detections are updated regularly)
+- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across social media \ websites (Detections are updated regularly)
 - [ohansemmanuel/react-hooks-cheatsheet](https://github.com/ohansemmanuel/react-hooks-cheatsheet) - 🦖 React hooks cheatsheet with live editable examples
 - [yTakkar/React-Instagram-Clone-2.0](https://github.com/yTakkar/React-Instagram-Clone-2.0) - A reactive Single-Page Instagram-Clone with some new features!! 💪📸👓 - No longer maintained.
 - [mmacneil/devfolio](https://github.com/mmacneil/devfolio) - A simple, responsive, single-page portfolio and resume for developers built with Bulma, Sass, Font Awesome and Flickity.
@@ -495,6 +494,7 @@
 - [Endor8/userChrome.js](https://github.com/Endor8/userChrome.js) - Skripte für die Firefox-Erweiterung userChromeJS
 - [verekia/js-stack-from-scratch](https://github.com/verekia/js-stack-from-scratch) - 🛠️⚡ Step-by-step tutorial to build a modern JavaScript stack.
 - [ashwanikumar04/flash-cards](https://github.com/ashwanikumar04/flash-cards) - This is a simple app to create flash cards with hints and use them as and when required.
+- [overleaf/overleaf](https://github.com/overleaf/overleaf) - A web-based collaborative LaTeX editor
 - [korolr/dotfiles](https://github.com/korolr/dotfiles) - Config for vim  sublime  awesome xmonad etc.
 - [azukiapp/azk](https://github.com/azukiapp/azk) - azk is a lightweight open source development environment orchestration tool. Instantly & safely run any environment on your local machine.
 - [docker/kitematic](https://github.com/docker/kitematic) - Visual Docker Container Management on Mac & Windows
@@ -596,7 +596,7 @@
 - [vladimir-g/fainty](https://github.com/vladimir-g/fainty) - Small widget library for Awesome WM
 - [afreidz/dots](https://github.com/afreidz/dots) - Dotfiles for AwesomeWM on Linux setup
 - [streetturtle/awesome-buttons](https://github.com/streetturtle/awesome-buttons) - Button widget library for Awesome Window Manager
-- [hrsh7th/nvim-compe](https://github.com/hrsh7th/nvim-compe) - Auto completion plugin for nvim that written in Lua.
+- [hrsh7th/nvim-compe](https://github.com/hrsh7th/nvim-compe) - Auto completion Lua plugin for nvim
 - [raven2cz/awesomewm-config](https://github.com/raven2cz/awesomewm-config) - AwesomeWM (git-master) configuration with new Amazing Theme.
 - [siduck76/NvChad](https://github.com/siduck76/NvChad) - An attempt to make neovim cli as functional as an IDE while being very beautiful and less bloated.
 - [pinpox/wallpaper-generator](https://github.com/pinpox/wallpaper-generator) - Generate wallpaper images from mathematical functions
@@ -716,7 +716,6 @@
 - [atsepkov/awesome-awesome-wm](https://github.com/atsepkov/awesome-awesome-wm) - A curated list of awesome tools/scripts/configs for Awesome Window Manager.
 - [MaggieAppleton/digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners) - Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs
 - [alinebastos/free-courses](https://github.com/alinebastos/free-courses) - Free IT courses
-- [rhelmstedter/Zettelkasten](https://github.com/rhelmstedter/Zettelkasten) - My personal zettelkasten.
 - [KasperZutterman/Second-Brain](https://github.com/KasperZutterman/Second-Brain) - A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Digital Gardens 🌱
 - [mfornos/awesome-microservices](https://github.com/mfornos/awesome-microservices) - A curated list of Microservice Architecture related principles and technologies.
 - [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) - :books: List of awesome university courses for learning Computer Science!
@@ -859,6 +858,7 @@
 - [aurblobs/aurblobs](https://github.com/aurblobs/aurblobs) - Automatically create binary repositories from AUR packages
 - [dAYOShACKER505/AXOM-FB-HACK](https://github.com/dAYOShACKER505/AXOM-FB-HACK) - facebook hacking tool for termux or linux 2020
 - [seevik2580/ethereum-wallet-recovery](https://github.com/seevik2580/ethereum-wallet-recovery) - ethereum wallet recovery password multithread tool, baked from pyethrecover and pyethereum, for using keystore v3 json file to help recover your lost password if you know some phrases using both brute and wordlist technique, start + end words, whole ascii or just numbers
+- [rhelmstedter/Zettelkasten](https://github.com/rhelmstedter/Zettelkasten) - My personal zettelkasten.
 - [trustedsec/ptf](https://github.com/trustedsec/ptf) - The Penetration Testers Framework (PTF) is a way for modular support for up-to-date tools.
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [Timvde/UserChromeManager](https://github.com/Timvde/UserChromeManager) - A small python script to manage your userChrome.css
