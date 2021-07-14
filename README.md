@@ -58,6 +58,7 @@
 
 ## C 
 
+- [kisslinux/repo](https://github.com/kisslinux/repo) - KISS Linux - Official Repositories
 - [way-cooler/way-cooler](https://github.com/way-cooler/way-cooler) - Wayland compositor for AwesomeWM
 - [audacity/audacity](https://github.com/audacity/audacity) - Audio Editor
 - [facebook/zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
@@ -362,6 +363,7 @@
 
 ## JavaScript 
 
+- [draekko-rand/gps-gimp-paint-studio](https://github.com/draekko-rand/gps-gimp-paint-studio) - Automatically exported from code.google.com/p/gps-gimp-paint-studio
 - [pataar/starting-page](https://github.com/pataar/starting-page) - A custom starting page which has some useful features.
 - [Thomashighbaugh/mern-contact-keeper](https://github.com/Thomashighbaugh/mern-contact-keeper) - A contact keeper application built to explore the MERN stack
 - [Thomashighbaugh/preact](https://github.com/Thomashighbaugh/preact) - 
@@ -817,6 +819,9 @@
 
 ## Python 
 
+- [heyzec/Inkscape-Extensions](https://github.com/heyzec/Inkscape-Extensions) - Some extensions for Inkscape
+- [akkana/gimp-plugins](https://github.com/akkana/gimp-plugins) - GIMP plug-ins, scripts and helpers
+- [Kirill-Bugaev/awesome-base16](https://github.com/Kirill-Bugaev/awesome-base16) - Base16 color schemes for Awesome WM
 - [Thomashighbaugh/qtile](https://github.com/Thomashighbaugh/qtile) - I continue plummeting into the depts of Linux
 - [Lifesgood123/unixpornposter](https://github.com/Lifesgood123/unixpornposter) - 
 - [demisto/content](https://github.com/demisto/content) - Demisto is now Cortex XSOAR. Automate and orchestrate your Security Operations with Cortex XSOAR's ever-growing Content Repository. Pull Requests are always welcome and highly appreciated!
@@ -988,6 +993,8 @@
 
 ## Shell 
 
+- [aferrero2707/gimp-plugins-collection](https://github.com/aferrero2707/gimp-plugins-collection) - 
+- [kaibakev1984/Lorblak-Dotfiles](https://github.com/kaibakev1984/Lorblak-Dotfiles) - 
 - [Thomashighbaugh/vimwiki_skel](https://github.com/Thomashighbaugh/vimwiki_skel) - A blank vimwiki wiki for purposes of copying later, using Markdown, when a new wiki is needed for whatever reason.
 - [Thomashighbaugh/autorunner](https://github.com/Thomashighbaugh/autorunner) - Configurable and notification aware autostart helper for minimalistic window managers like i3, openbox and others
 - [Thomashighbaugh/electric-tantra-repo](https://github.com/Thomashighbaugh/electric-tantra-repo) - A package repository for a self spun distro that demos my dotfiles.
