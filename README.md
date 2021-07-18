@@ -145,6 +145,8 @@
 
 ## CSS 
 
+- [lucagez/bars](https://github.com/lucagez/bars) - css progress bars made with svg patterns
+- [buseca/patternbolt](https://github.com/buseca/patternbolt) - A fine selection of SVG pattern background, packed in a single CSS or SCSS file. Add patterns just adding a class.
 - [mjshofy/glass-morphism-ui-card-design](https://github.com/mjshofy/glass-morphism-ui-card-design) - Learn to create a glass morphism UI card using HTML and CSS easily
 - [fcnoronha/WordArtBot](https://github.com/fcnoronha/WordArtBot) - 🎨 The WordArt generator bot for Telegram @bestWordArtBot
 - [aemi-dev/Fonts](https://github.com/aemi-dev/Fonts) - What you ever looked for.
@@ -294,6 +296,9 @@
 
 ## HTML 
 
+- [iros/patternfills](https://github.com/iros/patternfills) - A collection of svg patterns and build scripts that allow utilizing them in svg, css and d3.
+- [grtcdr/linen](https://github.com/grtcdr/linen) - 🎨 A light, calm and champagne-like colorscheme.
+- [LeaVerou/css3patterns](https://github.com/LeaVerou/css3patterns) - The popular CSS3 patterns gallery, now on Github :)
 - [freddiecabrera/freddiecabrera.github.io](https://github.com/freddiecabrera/freddiecabrera.github.io) - 
 - [choubari/Glassmorphism-Portfolio](https://github.com/choubari/Glassmorphism-Portfolio) - Glassmorphism Portfolio Website built with HTML&CSS based on @developedbyed tutorial.
 - [Thomashighbaugh/hugo](https://github.com/Thomashighbaugh/hugo) - 
@@ -367,6 +372,8 @@
 
 ## JavaScript 
 
+- [kormyen/memex](https://github.com/kormyen/memex) - Simple bookmarks and notes
+- [MichMich/MagicMirror](https://github.com/MichMich/MagicMirror) - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant.
 - [HarveyD/react-component-library](https://github.com/HarveyD/react-component-library) - A project skeleton to get your very own React Component Library up and running using Rollup, Typescript, SASS + Storybook
 - [duartefdias/InstagramFirstCommenter](https://github.com/duartefdias/InstagramFirstCommenter) - This bot will post a predefined comment as fast as possible to a new post on the target profile. I used this to successfully win tickets for a big music festival.
 - [vasani-arpit/Social-Media-Automation](https://github.com/vasani-arpit/Social-Media-Automation) - Automate social media because you don't have to be active on all of them😉. Best way to be active on all social media without actually being active on them. 😃
@@ -588,6 +595,16 @@
 
 ## Lua 
 
+- [notnew/awesome-scratch](https://github.com/notnew/awesome-scratch) - scratchpad windows for awesome wm
+- [crater2150/awesome-handy](https://github.com/crater2150/awesome-handy) - Popup programs for awesomewm
+- [legostax/dotfiles-old](https://github.com/legostax/dotfiles-old) - My dotfiles for my setup (AwesomeWM 4.2) and some future dreams
+- [Relz/awesome-wm-theme](https://github.com/Relz/awesome-wm-theme) - Awesome WM theme
+- [zandao/awesome-wm-theme](https://github.com/zandao/awesome-wm-theme) - Awesome WM theme
+- [momofor/dotfiles](https://github.com/momofor/dotfiles) - A collection of dotfiles I have gathered over the months all using the glorious nord color scheme.
+- [metaphysys/awm](https://github.com/metaphysys/awm) - Personal Awesome WM GNU/Linux files and config
+- [Caellian/NightSky](https://github.com/Caellian/NightSky) - My Awesome WM configuration script.
+- [warlock90000/awesome](https://github.com/warlock90000/awesome) - 
+- [paranoid73/AwesomeWm-config](https://github.com/paranoid73/AwesomeWm-config) - Awesome WM config
 - [flyboy14/awesomewm](https://github.com/flyboy14/awesomewm) - awesome-git + lua5.3(vicious/lain widgets, shifty, awesompd, xdg-menu and some useful custom functions)
 - [basaran/awesomewm-micky](https://github.com/basaran/awesomewm-micky) - an awesomewm module to automatically move and center your mouse cursor to the active (focused) window.
 - [basaran/awesomewm-machina](https://github.com/basaran/awesomewm-machina) - helper module for layout-machi that allows you to go up and down in a stacked region and client swapping, expansions and visual tabs and more without requiring you to launch the machi switcher.
@@ -681,6 +698,7 @@
 
 ## Others 
 
+- [vrushangdev/dankmono](https://github.com/vrushangdev/dankmono) - 
 - [joaopmendes/vscode-config](https://github.com/joaopmendes/vscode-config) - My vscode configuration
 - [basaran/awesome-remember-geometry](https://github.com/basaran/awesome-remember-geometry) - Remember client location when switching between floating, tiling and maximized
 - [fosslife/awesome-ricing](https://github.com/fosslife/awesome-ricing) - A curated list of awesome tools and technology to help you out with ricing
@@ -1284,7 +1302,7 @@
 ## Vue 
 
 - [Thomashighbaugh/vue](https://github.com/Thomashighbaugh/vue) - 
-- [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome Github Profile READMEs 📝
+- [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
 - [lostdesign/webgems](https://github.com/lostdesign/webgems) - A curated list of resources for devs and designers. Join me on devcord.com if you are up for a chit chat :)
 - [Litarvan/lightdm-webkit-theme-litarvan](https://github.com/Litarvan/lightdm-webkit-theme-litarvan) - Litarvan's LightDM HTML Theme
 - [Exauthor/lightdm-webkit-theme-osmos](https://github.com/Exauthor/lightdm-webkit-theme-osmos) - Osmos
