@@ -145,6 +145,8 @@
 
 ## CSS 
 
+- [Mrcuve0/Aritim-Dark](https://github.com/Mrcuve0/Aritim-Dark) - A Dark theme for both KDE and GTK based DEs, deeply inspired by the Ayu Dark color palette
+- [Elbullazul/Azurra_framework](https://github.com/Elbullazul/Azurra_framework) - Theme creation framework for GTK themes
 - [lucagez/bars](https://github.com/lucagez/bars) - css progress bars made with svg patterns
 - [buseca/patternbolt](https://github.com/buseca/patternbolt) - A fine selection of SVG pattern background, packed in a single CSS or SCSS file. Add patterns just adding a class.
 - [mjshofy/glass-morphism-ui-card-design](https://github.com/mjshofy/glass-morphism-ui-card-design) - Learn to create a glass morphism UI card using HTML and CSS easily
@@ -456,7 +458,7 @@
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [thisisroi/roi-portfolio](https://github.com/thisisroi/roi-portfolio) - ✨ Portfolio site created using Nextjs.
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (June 2021)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2021)
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across social media \ websites (Detections are updated regularly)
 - [ohansemmanuel/react-hooks-cheatsheet](https://github.com/ohansemmanuel/react-hooks-cheatsheet) - 🦖 React hooks cheatsheet with live editable examples
 - [yTakkar/React-Instagram-Clone-2.0](https://github.com/yTakkar/React-Instagram-Clone-2.0) - A reactive Single-Page Instagram-Clone with some new features!! 💪📸👓 - No longer maintained.
@@ -595,6 +597,13 @@
 
 ## Lua 
 
+- [bunburya/awesomerc](https://github.com/bunburya/awesomerc) - My AwesomeWM configuration Lua files.
+- [shmilee/config-awesome](https://github.com/shmilee/config-awesome) - Awesome Window Manager Config Files
+- [shmilee/awesome-away](https://github.com/shmilee/awesome-away) - wallpapers, widgets and utilities for Awesome WM 4.x.
+- [duckwork/cribbed](https://github.com/duckwork/cribbed) - AwesomeWM modules, widgets, etc.
+- [andOrlando/rubato](https://github.com/andOrlando/rubato) - Create smooth animations with a slope curve for awesomeWM
+- [genzyy/awesome-config](https://github.com/genzyy/awesome-config) - An awesomewm config for window manager users on linux system
+- [crater2150/awesomerc](https://github.com/crater2150/awesomerc) - My AwesomeWM config
 - [notnew/awesome-scratch](https://github.com/notnew/awesome-scratch) - scratchpad windows for awesome wm
 - [crater2150/awesome-handy](https://github.com/crater2150/awesome-handy) - Popup programs for awesomewm
 - [legostax/dotfiles-old](https://github.com/legostax/dotfiles-old) - My dotfiles for my setup (AwesomeWM 4.2) and some future dreams
@@ -1198,6 +1207,7 @@
 
 ## TypeScript 
 
+- [saksmt/awesomewm.d.ts](https://github.com/saksmt/awesomewm.d.ts) - typescript typings for awesome-wm based on typescript-to-lua
 - [Rixcy/community](https://github.com/Rixcy/community) - Community SaaS built using Blitzjs
 - [tsamantanis/react-glassmorphism](https://github.com/tsamantanis/react-glassmorphism) - A react UI component library for glassmorphic components
 - [PrettyCoffee/fluidity](https://github.com/PrettyCoffee/fluidity) - Fluidity - An accordion based startpage
