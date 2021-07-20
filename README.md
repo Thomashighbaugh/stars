@@ -145,6 +145,7 @@
 
 ## CSS 
 
+- [Thomashighbaugh/zeal--master](https://github.com/Thomashighbaugh/zeal--master) - 
 - [Mrcuve0/Aritim-Dark](https://github.com/Mrcuve0/Aritim-Dark) - A Dark theme for both KDE and GTK based DEs, deeply inspired by the Ayu Dark color palette
 - [Elbullazul/Azurra_framework](https://github.com/Elbullazul/Azurra_framework) - Theme creation framework for GTK themes
 - [lucagez/bars](https://github.com/lucagez/bars) - css progress bars made with svg patterns
@@ -374,6 +375,9 @@
 
 ## JavaScript 
 
+- [Thomashighbaugh/coolStarter](https://github.com/Thomashighbaugh/coolStarter) - A Gatsby starter with TinaCMS inspired by TinaGrande
+- [Thomashighbaugh/invoice-calculator](https://github.com/Thomashighbaugh/invoice-calculator) - A simple pure JS way to make an invoice calculator, but stylish.
+- [Thomashighbaugh/RandomTask](https://github.com/Thomashighbaugh/RandomTask) - A James Bond Villain's To-Do Example (Assignment from class)
 - [kormyen/memex](https://github.com/kormyen/memex) - Simple bookmarks and notes
 - [MichMich/MagicMirror](https://github.com/MichMich/MagicMirror) - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant.
 - [HarveyD/react-component-library](https://github.com/HarveyD/react-component-library) - A project skeleton to get your very own React Component Library up and running using Rollup, Typescript, SASS + Storybook
@@ -597,6 +601,7 @@
 
 ## Lua 
 
+- [Thomashighbaugh/nvim](https://github.com/Thomashighbaugh/nvim) - My constant companion in the world of Linux
 - [bunburya/awesomerc](https://github.com/bunburya/awesomerc) - My AwesomeWM configuration Lua files.
 - [shmilee/config-awesome](https://github.com/shmilee/config-awesome) - Awesome Window Manager Config Files
 - [shmilee/awesome-away](https://github.com/shmilee/awesome-away) - wallpapers, widgets and utilities for Awesome WM 4.x.
@@ -707,6 +712,7 @@
 
 ## Others 
 
+- [Thomashighbaugh/mern-weather-app](https://github.com/Thomashighbaugh/mern-weather-app) - enter a zip code, select unit, get record, save to local storage.
 - [vrushangdev/dankmono](https://github.com/vrushangdev/dankmono) - 
 - [joaopmendes/vscode-config](https://github.com/joaopmendes/vscode-config) - My vscode configuration
 - [basaran/awesome-remember-geometry](https://github.com/basaran/awesome-remember-geometry) - Remember client location when switching between floating, tiling and maximized
@@ -791,7 +797,7 @@
 - [A75G/docker-templates](https://github.com/A75G/docker-templates) - Unraid Docker Templates
 - [enkia/tokyo-night-vscode-theme](https://github.com/enkia/tokyo-night-vscode-theme) - A clean, dark Visual Studio Code theme that celebrates the lights of Downtown Tokyo at night.
 - [SlashArash/slashicon](https://github.com/SlashArash/slashicon) - SlashIcon is an icon theme for Linux. It's included cursor and icon theme.
-- [Thomashighbaugh/base16-vice-scheme](https://github.com/Thomashighbaugh/base16-vice-scheme) - 
+- [Thomashighbaugh/base16-vice-scheme](https://github.com/Thomashighbaugh/base16-vice-scheme) - A color scheme for comfortable reading on dark screens day or night, inspired by Miami Vice and used extensively in my dotfiles and elsewhere.
 - [endeavouros-team/repo](https://github.com/endeavouros-team/repo) - 
 - [alma4rebi/Plank-Themes-1](https://github.com/alma4rebi/Plank-Themes-1) - Huge Plank Theme Collection ( 107 themes )
 - [dipakkr/A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - ✅  Curated list of resources for college students
@@ -854,6 +860,7 @@
 
 ## Python 
 
+- [Rick-Lang/rickroll-lang](https://github.com/Rick-Lang/rickroll-lang) - Rick Roll Language is a rickroll based, process oriented, dynamic, strong, esoteric programming language. All of the keywords/statements are coming from Rick Astley's lyrics.
 - [heyzec/Inkscape-Extensions](https://github.com/heyzec/Inkscape-Extensions) - Some extensions for Inkscape
 - [akkana/gimp-plugins](https://github.com/akkana/gimp-plugins) - GIMP plug-ins, scripts and helpers
 - [Kirill-Bugaev/awesome-base16](https://github.com/Kirill-Bugaev/awesome-base16) - Base16 color schemes for Awesome WM
