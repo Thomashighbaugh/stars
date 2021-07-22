@@ -376,6 +376,7 @@
 
 ## JavaScript 
 
+- [embarklabs/embark](https://github.com/embarklabs/embark) - Framework for serverless Decentralized Applications using Ethereum, IPFS and other platforms
 - [Thomashighbaugh/coolStarter](https://github.com/Thomashighbaugh/coolStarter) - A Gatsby starter with TinaCMS inspired by TinaGrande
 - [Thomashighbaugh/invoice-calculator](https://github.com/Thomashighbaugh/invoice-calculator) - A simple pure JS way to make an invoice calculator, but stylish.
 - [Thomashighbaugh/RandomTask](https://github.com/Thomashighbaugh/RandomTask) - A James Bond Villain's To-Do Example (Assignment from class)
@@ -677,6 +678,7 @@
 
 ## Makefile 
 
+- [yuri-norwood/fortunes](https://github.com/yuri-norwood/fortunes) - Custom fortune files if you want those, clone those.
 - [feroldi/ricing](https://github.com/feroldi/ricing) - a book about ricing unix-like systems
 - [docxy/website](https://github.com/docxy/website) - The website of Docxy.
 
@@ -861,6 +863,8 @@
 
 ## Python 
 
+- [CoinAlpha/hummingbot](https://github.com/CoinAlpha/hummingbot) - Hummingbot: a client for crypto market making
+- [CryptoSignal/Crypto-Signal](https://github.com/CryptoSignal/Crypto-Signal) - Github.com/CryptoSignal - #1 Quant Trading & Technical Analysis Bot - 2,100 + stars, 580 + forks
 - [Rick-Lang/rickroll-lang](https://github.com/Rick-Lang/rickroll-lang) - Rick Roll Language is a rickroll based, process oriented, dynamic, strong, esoteric programming language. All of the keywords/statements are coming from Rick Astley's lyrics.
 - [heyzec/Inkscape-Extensions](https://github.com/heyzec/Inkscape-Extensions) - Some extensions for Inkscape
 - [akkana/gimp-plugins](https://github.com/akkana/gimp-plugins) - GIMP plug-ins, scripts and helpers
