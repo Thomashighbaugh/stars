@@ -708,7 +708,7 @@
 
 ## Nunjucks 
 
-- [scottishstoater/jamstack-web-starter](https://github.com/scottishstoater/jamstack-web-starter) - Static website workflow utilising Eleventy, Tailwind CSS, Webpack and PostCSS.
+- [scottishstoater/eleventy-web-starter](https://github.com/scottishstoater/eleventy-web-starter) - Eleventy Web Starter is a lightweight Eleventy boilerplate utilising, ESBuild Tailwind and PostCSS.
 - [GoogleChromeLabs/quicklink](https://github.com/GoogleChromeLabs/quicklink) - ⚡️Faster subsequent page-loads by prefetching in-viewport links during idle time
 
 ## Objective-C 
