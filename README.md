@@ -603,6 +603,21 @@
 
 ## Lua 
 
+- [NlGHT/dotfiles](https://github.com/NlGHT/dotfiles) - Dotfiles, with AwesomeWM config based on https://github.com/manilarome/the-glorious-dotfiles (Floppy) but modified to suit my workflow and applications.
+- [lawsdontapplytopigs/dotfiles](https://github.com/lawsdontapplytopigs/dotfiles) - welcome to my crybb 😎😎😎😎😎😎
+- [akshat46/dotfiles-1](https://github.com/akshat46/dotfiles-1) - welcome to my crybb 😎😎😎😎😎😎
+- [travisjeffery/awesome-wm](https://github.com/travisjeffery/awesome-wm) - My configuration of the awesome window manager.
+- [taylor-gl/dotfiles](https://github.com/taylor-gl/dotfiles) - My Debian config [currently awesomewm and Doom Emacs]
+- [lkonga/awesomewm-config](https://github.com/lkonga/awesomewm-config) - awesome wm config
+- [spheenik/awesome](https://github.com/spheenik/awesome) - my awesome wm config
+- [amireh/my_awesome_setup](https://github.com/amireh/my_awesome_setup) - Config files for my Awesome WM desktop setup
+- [Determinant/awesome-retropunk](https://github.com/Determinant/awesome-retropunk) - A complete and minimalist retro-style Awesome WM config.
+- [Stup0r38/iceberg-awesome](https://github.com/Stup0r38/iceberg-awesome) - Dotfiles for awesome people using the awesomewm linux environment
+- [pablokbs/awesome-configs](https://github.com/pablokbs/awesome-configs) - My fork of anrxc's config for awesomewm http://git.sysphere.org/awesome-configs/
+- [Quisl/Awesome-4.0-Config](https://github.com/Quisl/Awesome-4.0-Config) - My setup for the Awesome WM 4.0. This is meant to run on a Thinkpad T410
+- [Stebalien/awesomewm-config](https://github.com/Stebalien/awesomewm-config) - My AwesomeWM config files
+- [ndgnuh/awesome-config](https://github.com/ndgnuh/awesome-config) - Config set(s) for awesomewm
+- [denstiny/awesome-config](https://github.com/denstiny/awesome-config) - awesome config file ,sava my config
 - [Nguyen-Hoang-Nam/nvim-dotfiles-kitty](https://github.com/Nguyen-Hoang-Nam/nvim-dotfiles-kitty) - My Neovim config file for ubuntu
 - [Creator54/awesome](https://github.com/Creator54/awesome) - Some beautiful awesome configs gathered with some minor changes just switch git checkout $branch and reload(mod+shift+r) to enjoy a new layout. lazy to update README use mod+s instead
 - [Thomashighbaugh/nvim](https://github.com/Thomashighbaugh/nvim) - My constant companion in the world of Linux
@@ -866,6 +881,7 @@
 
 ## Python 
 
+- [ahmed2m/dotfiles](https://github.com/ahmed2m/dotfiles) - My own config dotfiles for qtile/kde/awesomewm on Arch based distros
 - [CoinAlpha/hummingbot](https://github.com/CoinAlpha/hummingbot) - Hummingbot: a client for crypto market making
 - [CryptoSignal/Crypto-Signal](https://github.com/CryptoSignal/Crypto-Signal) - Github.com/CryptoSignal - #1 Quant Trading & Technical Analysis Bot - 2,100 + stars, 580 + forks
 - [Rick-Lang/rickroll-lang](https://github.com/Rick-Lang/rickroll-lang) - Rick Roll Language is a rickroll based, process oriented, dynamic, strong, esoteric programming language. All of the keywords/statements are coming from Rick Astley's lyrics.
@@ -1042,6 +1058,7 @@
 
 ## Shell 
 
+- [guysoft/RealtimePi](https://github.com/guysoft/RealtimePi) - An out-of-the-box raspebrrypi/raspbian distro with a realtime kernel
 - [aferrero2707/gimp-plugins-collection](https://github.com/aferrero2707/gimp-plugins-collection) - 
 - [kaibakev1984/Lorblak-Dotfiles](https://github.com/kaibakev1984/Lorblak-Dotfiles) - 
 - [Thomashighbaugh/vimwiki_skel](https://github.com/Thomashighbaugh/vimwiki_skel) - A blank vimwiki wiki for purposes of copying later, using Markdown, when a new wiki is needed for whatever reason.
@@ -1222,6 +1239,7 @@
 
 ## TypeScript 
 
+- [nitin27may/mean-docker](https://github.com/nitin27may/mean-docker) - A Mean stack (Angular 12.1.2, Expressjs 4.17.1, MongoDB) jump start project with support of docker.
 - [saksmt/awesomewm.d.ts](https://github.com/saksmt/awesomewm.d.ts) - typescript typings for awesome-wm based on typescript-to-lua
 - [Rixcy/community](https://github.com/Rixcy/community) - Community SaaS built using Blitzjs
 - [tsamantanis/react-glassmorphism](https://github.com/tsamantanis/react-glassmorphism) - A react UI component library for glassmorphic components
@@ -1305,6 +1323,7 @@
 
 ## Vim script 
 
+- [and3rson/dotfiles](https://github.com/and3rson/dotfiles) - My configs: (neo)vim, awesomewm, tmux, bash, qtile, compton, molokai colors and stolen dircolors.
 - [wincent/corpus](https://github.com/wincent/corpus) - 📝 A note-management application
 - [antoniosarosi/dotfiles](https://github.com/antoniosarosi/dotfiles) - My dotfiles repo, here you can find all my window manager configs as well as documentation and a guide on how to make your own desktop environment.
 - [theniceboy/nvim](https://github.com/theniceboy/nvim) - The Ultimate NeoVim Config for Colemak Users
