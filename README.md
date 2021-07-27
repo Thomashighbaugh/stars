@@ -291,7 +291,6 @@
 - [exercism/cli](https://github.com/exercism/cli) - A Go based command line tool for exercism.io.
 - [cmars/ormesh](https://github.com/cmars/ormesh) - onion-routed mesh
 - [meshbird/meshbird](https://github.com/meshbird/meshbird) - Distributed private networking
-- [schollz/rwtxt](https://github.com/schollz/rwtxt) - A cms for absolute minimalists.
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
 
 ## Groff 
@@ -327,7 +326,7 @@
 - [codrops/HorizontalSmoothScrollLayout](https://github.com/codrops/HorizontalSmoothScrollLayout) - Some ideas for horizontal smooth scroll layouts and animations using Locomotive Scroll
 - [ryanwaite28/cover-letter](https://github.com/ryanwaite28/cover-letter) - Online Web Developer & Programmer Cover Letter
 - [jan-heise/responsive-navbar-with-dropdown](https://github.com/jan-heise/responsive-navbar-with-dropdown) - A responsive navbar with Dropdowns using AlpineJS and Heroicons build in the TailwindCSS Playground
-- [jsonresume/jsonresume-theme-boilerplate](https://github.com/jsonresume/jsonresume-theme-boilerplate) - Boilerplate theme for JSON Resume
+- [jsonresume/jsonresume-theme-boilerplate](https://github.com/jsonresume/jsonresume-theme-boilerplate) - Boilerplate theme for JSON Resume.
 - [mnjul/html-resume](https://github.com/mnjul/html-resume) - A single-page resume template completely typeset with HTML & CSS.
 - [google/styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
 - [sheisrachel/Bonus-Recipe](https://github.com/sheisrachel/Bonus-Recipe) - 
@@ -376,6 +375,7 @@
 
 ## JavaScript 
 
+- [inbasic/open-two-factor-authenticator](https://github.com/inbasic/open-two-factor-authenticator) - A sync-able open-source two-factor authenticator for Firefox, Opera, Safari, Chrome and Android
 - [embarklabs/embark](https://github.com/embarklabs/embark) - Framework for serverless Decentralized Applications using Ethereum, IPFS and other platforms
 - [Thomashighbaugh/coolStarter](https://github.com/Thomashighbaugh/coolStarter) - A Gatsby starter with TinaCMS inspired by TinaGrande
 - [Thomashighbaugh/invoice-calculator](https://github.com/Thomashighbaugh/invoice-calculator) - A simple pure JS way to make an invoice calculator, but stylish.
@@ -575,6 +575,7 @@
 - [chunqiuyiyu/ervy](https://github.com/chunqiuyiyu/ervy) - Bring charts to terminal.
 - [pim-book/programmers-introduction-to-mathematics](https://github.com/pim-book/programmers-introduction-to-mathematics) - Code for A Programmer's Introduction to Mathematics
 - [glorious-codes/glorious-demo](https://github.com/glorious-codes/glorious-demo) - The easiest way to demonstrate your code in action.
+- [schollz/rwtxt](https://github.com/schollz/rwtxt) - A cms for absolute minimalists.
 - [ghuser-io/ghuser.io](https://github.com/ghuser-io/ghuser.io) - :octocat: Better GitHub profiles
 - [pfraces/git-install](https://github.com/pfraces/git-install) - git-based package manager
 - [nextcloud/documentation](https://github.com/nextcloud/documentation) - 📘 Nextcloud documentation
@@ -587,6 +588,7 @@
 
 ## Jupyter Notebook 
 
+- [jaakkopasanen/AutoEq](https://github.com/jaakkopasanen/AutoEq) - Automatic headphone equalization from frequency responses
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 25 lessons, 50 quizzes, classic Machine Learning for all
 - [mrdbourke/tensorflow-deep-learning](https://github.com/mrdbourke/tensorflow-deep-learning) - All course materials for the Zero to Mastery Deep Learning with TensorFlow course.
 - [pfnet/PaintsChainer](https://github.com/pfnet/PaintsChainer) - line drawing colorization using chainer
@@ -881,6 +883,11 @@
 
 ## Python 
 
+- [syegulalp/folio](https://github.com/syegulalp/folio) - Python-powered, Markdown-formatted personal wiki
+- [Catboy96/Universal-Linux-Script](https://github.com/Catboy96/Universal-Linux-Script) - A shell script with built-in variables which can simplify Linux shell script writing.
+- [ytbryan/devops-resources](https://github.com/ytbryan/devops-resources) - A collection of beginner-friendly DevOps content
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
+- [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [ahmed2m/dotfiles](https://github.com/ahmed2m/dotfiles) - My own config dotfiles for qtile/kde/awesomewm on Arch based distros
 - [CoinAlpha/hummingbot](https://github.com/CoinAlpha/hummingbot) - Hummingbot: a client for crypto market making
 - [CryptoSignal/Crypto-Signal](https://github.com/CryptoSignal/Crypto-Signal) - Github.com/CryptoSignal - #1 Quant Trading & Technical Analysis Bot - 2,100 + stars, 580 + forks
@@ -958,7 +965,7 @@
 - [hijkzzz/prisma](https://github.com/hijkzzz/prisma) - Prisma
 - [PyTorchLightning/pytorch-lightning](https://github.com/PyTorchLightning/pytorch-lightning) - The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate.
 - [fennerm/flashfocus](https://github.com/fennerm/flashfocus) - Simple focus animations for tiling window managers.
-- [isyuck/dotfiles](https://github.com/isyuck/dotfiles) - dotfiles for my laptop: terminal based, keyboard driven, and unobtrusive
+- [isyuck/dotfiles](https://github.com/isyuck/dotfiles) - dotfiles for my laptop
 - [deviantfero/wpgtk](https://github.com/deviantfero/wpgtk) - :flower_playing_cards: a colorscheme, wallpaper and template manager for *nix
 - [tmux-python/tmuxp](https://github.com/tmux-python/tmuxp) - :computer: tmux session manager. built on libtmux
 - [vt-vl-lab/3d-photo-inpainting](https://github.com/vt-vl-lab/3d-photo-inpainting) - [CVPR 2020] 3D Photography using Context-aware Layered Depth Inpainting
@@ -1058,6 +1065,7 @@
 
 ## Shell 
 
+- [diemol/cud](https://github.com/diemol/cud) - Set of scripts to set an Ubuntu desktop with VNC in the cloud
 - [guysoft/RealtimePi](https://github.com/guysoft/RealtimePi) - An out-of-the-box raspebrrypi/raspbian distro with a realtime kernel
 - [aferrero2707/gimp-plugins-collection](https://github.com/aferrero2707/gimp-plugins-collection) - 
 - [kaibakev1984/Lorblak-Dotfiles](https://github.com/kaibakev1984/Lorblak-Dotfiles) - 
@@ -1086,7 +1094,7 @@
 - [ODEX-TOS/packages](https://github.com/ODEX-TOS/packages) - Closely follow Arch Linux packages
 - [archcraft-os/archcraft-pkgs](https://github.com/archcraft-os/archcraft-pkgs) - // Repository : Compiled Packages
 - [Thomashighbaugh/arch_install](https://github.com/Thomashighbaugh/arch_install) - Menu-driven dialog driven installation script using dialog (looks like debian installation menu).
-- [LuminOSx/make](https://github.com/LuminOSx/make) - System tool for creating LuminOS ISO
+- [LuminOSx/make](https://github.com/LuminOSx/make) - Script tool for creating LuminOS ISO
 - [brinkOS/brinkOS-assets](https://github.com/brinkOS/brinkOS-assets) - Assets package for brinkOS
 - [joestandring/dwm-bar](https://github.com/joestandring/dwm-bar) - A modular statusbar for dwm
 - [xero/glitchlock](https://github.com/xero/glitchlock) - a glitch art themed randomized lockscreen for linux
