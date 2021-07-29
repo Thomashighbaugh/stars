@@ -609,7 +609,7 @@
 - [lawsdontapplytopigs/dotfiles](https://github.com/lawsdontapplytopigs/dotfiles) - welcome to my crybb 😎😎😎😎😎😎
 - [akshat46/dotfiles-1](https://github.com/akshat46/dotfiles-1) - welcome to my crybb 😎😎😎😎😎😎
 - [travisjeffery/awesome-wm](https://github.com/travisjeffery/awesome-wm) - My configuration of the awesome window manager.
-- [taylor-gl/dotfiles](https://github.com/taylor-gl/dotfiles) - My Debian config [currently awesomewm and Doom Emacs]
+- [taylor-gl/dotfiles](https://github.com/taylor-gl/dotfiles) - My Debian config [currently i3 and Doom Emacs]
 - [lkonga/awesomewm-config](https://github.com/lkonga/awesomewm-config) - awesome wm config
 - [spheenik/awesome](https://github.com/spheenik/awesome) - my awesome wm config
 - [amireh/my_awesome_setup](https://github.com/amireh/my_awesome_setup) - Config files for my Awesome WM desktop setup
@@ -650,7 +650,7 @@
 - [purhan/dotfiles](https://github.com/purhan/dotfiles) - 
 - [piotrklibert/awesome-config](https://github.com/piotrklibert/awesome-config) - Configuration and widgets for Awesome WM in Lua and MoonScript
 - [leafo/moonscript](https://github.com/leafo/moonscript) - :crescent_moon: A language that compiles to Lua
-- [projekt0n/github-nvim-theme](https://github.com/projekt0n/github-nvim-theme) - Github theme for Neovim, Kitty, iTerm, Konsole, and Alacritty written in Lua
+- [projekt0n/github-nvim-theme](https://github.com/projekt0n/github-nvim-theme) - Github theme for Neovim, kitty, iTerm, Konsole, and Alacritty written in Lua
 - [diegosalazarCO/awesome-wm](https://github.com/diegosalazarCO/awesome-wm) - Configs for the Awesome Window Manager
 - [elenapan/archlabs-awesome](https://github.com/elenapan/archlabs-awesome) - AwesomeWM flavor for ArchLabs
 - [kotbaton/awesomewm-config](https://github.com/kotbaton/awesomewm-config) - My configuration for awesome WM
@@ -1015,6 +1015,7 @@
 
 ## Ruby 
 
+- [18F/open-source-guide](https://github.com/18F/open-source-guide) - 18F’s Style guide for open source project documentation
 - [loomio/loomio](https://github.com/loomio/loomio) - Loomio helps people make decisions together
 - [jakubgarfield/instagram-scheduler](https://github.com/jakubgarfield/instagram-scheduler) - 📷  Beautiful way to get shadowbanned on Instagram by ⏰ scheduling your 🌁 photos.
 - [middleman/middleman](https://github.com/middleman/middleman) - Hand-crafted frontend development
@@ -1030,7 +1031,7 @@
 - [dreverri/gollum-site](https://github.com/dreverri/gollum-site) - Static Site Generator for Gollum Wikis
 - [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
 - [railsbridge/docs](https://github.com/railsbridge/docs) - Curriculum for RailsBridge workshops
-- [postalhq/postal](https://github.com/postalhq/postal) - 📨 A fully featured open source mail delivery platform for incoming & outgoing e-mail
+- [postalserver/postal](https://github.com/postalserver/postal) - 📨 A fully featured open source mail delivery platform for incoming & outgoing e-mail
 - [SteveLTN/https-portal](https://github.com/SteveLTN/https-portal) - A fully automated HTTPS server powered by Nginx, Let's Encrypt and Docker.
 
 ## Rust 
