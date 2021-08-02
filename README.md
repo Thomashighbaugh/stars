@@ -190,6 +190,7 @@
 - [codebushi/gatsby-starter-dimension](https://github.com/codebushi/gatsby-starter-dimension) - Gatsby.js V2 starter template based on Dimension, designed by HTML5 UP. Check out https://codebushi.com/gatsby-starters-and-themes/ for more Gatsby starters.
 - [akshat46/FlyingFox](https://github.com/akshat46/FlyingFox) - An opinionated set of configurations for firefox.
 - [channel-42/dotfiles](https://github.com/channel-42/dotfiles) - My dotfiles for my Arch-Install(s)
+- [IvanMalison/dotfiles](https://github.com/IvanMalison/dotfiles) - Configuration files for XMonad, Emacs, NixOS, Taffybar and more.
 - [vicky002/AlgoWiki](https://github.com/vicky002/AlgoWiki) - Repository which contains links and resources on different topics of Computer Science.
 - [georgeevans1995/Sassimate](https://github.com/georgeevans1995/Sassimate) - Sass mixin for dynamic animations
 - [sahat/megaboilerplate](https://github.com/sahat/megaboilerplate) - Handcrafted starter projects, optimized for simplicity and ease of use.
@@ -256,6 +257,7 @@
 
 ## Emacs Lisp 
 
+- [taylor-gl/dotfiles](https://github.com/taylor-gl/dotfiles) - My Gentoo config and setup guide [currently i3 and vanilla emacs]
 - [xinhaoyuan/my-config](https://github.com/xinhaoyuan/my-config) - all config files managed by GNU stow
 - [carlosal1015/dune-archiso](https://github.com/carlosal1015/dune-archiso) - 
 - [hlissner/doom-emacs](https://github.com/hlissner/doom-emacs) - An Emacs framework for the stubborn martian hacker
@@ -611,7 +613,6 @@
 - [lawsdontapplytopigs/dotfiles](https://github.com/lawsdontapplytopigs/dotfiles) - welcome to my crybb 😎😎😎😎😎😎
 - [akshat46/dotfiles-1](https://github.com/akshat46/dotfiles-1) - welcome to my crybb 😎😎😎😎😎😎
 - [travisjeffery/awesome-wm](https://github.com/travisjeffery/awesome-wm) - My configuration of the awesome window manager.
-- [taylor-gl/dotfiles](https://github.com/taylor-gl/dotfiles) - My Debian config [currently i3 and Doom Emacs]
 - [lkonga/awesomewm-config](https://github.com/lkonga/awesomewm-config) - awesome wm config
 - [spheenik/awesome](https://github.com/spheenik/awesome) - my awesome wm config
 - [amireh/my_awesome_setup](https://github.com/amireh/my_awesome_setup) - Config files for my Awesome WM desktop setup
@@ -974,7 +975,6 @@
 - [rajkumardusad/Tool-X](https://github.com/rajkumardusad/Tool-X) - Tool-X is a kali linux hacking Tool installer. Tool-X developed for termux and other Linux based systems. using Tool-X you can install almost 370+ hacking tools in termux app and other linux based distributions.
 - [TheSpeedX/TBomb](https://github.com/TheSpeedX/TBomb) - This is a SMS And Call Bomber For Linux And Termux
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
-- [IvanMalison/dotfiles](https://github.com/IvanMalison/dotfiles) - Configuration files for XMonad, Emacs, NixOS, Taffybar and more.
 - [marcoobaid/qtile](https://github.com/marcoobaid/qtile) - Qtile configuration based on Arch Linux
 - [theova/base16-qutebrowser](https://github.com/theova/base16-qutebrowser) - base16 themes for qutebrowser
 - [foxmask/joplin-web](https://github.com/foxmask/joplin-web) - :snake: :books: Web application companion for Joplin
@@ -1097,7 +1097,7 @@
 - [ODEX-TOS/packages](https://github.com/ODEX-TOS/packages) - Closely follow Arch Linux packages
 - [archcraft-os/archcraft-pkgs](https://github.com/archcraft-os/archcraft-pkgs) - // Repository : Compiled Packages
 - [Thomashighbaugh/arch_install](https://github.com/Thomashighbaugh/arch_install) - Menu-driven dialog driven installation script using dialog (looks like debian installation menu).
-- [LuminOSx/make](https://github.com/LuminOSx/make) - Script tool for creating LuminOS ISO
+- [LuminusOS/make](https://github.com/LuminusOS/make) - Script tool for creating LuminOS ISO
 - [brinkOS/brinkOS-assets](https://github.com/brinkOS/brinkOS-assets) - Assets package for brinkOS
 - [joestandring/dwm-bar](https://github.com/joestandring/dwm-bar) - A modular statusbar for dwm
 - [xero/glitchlock](https://github.com/xero/glitchlock) - a glitch art themed randomized lockscreen for linux
