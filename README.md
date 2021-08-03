@@ -623,7 +623,7 @@
 - [Stebalien/awesomewm-config](https://github.com/Stebalien/awesomewm-config) - My AwesomeWM config files
 - [ndgnuh/awesome-config](https://github.com/ndgnuh/awesome-config) - Config set(s) for awesomewm
 - [denstiny/awesome-config](https://github.com/denstiny/awesome-config) - awesome config file ,sava my config
-- [Nguyen-Hoang-Nam/nvim-dotfiles-kitty](https://github.com/Nguyen-Hoang-Nam/nvim-dotfiles-kitty) - My Neovim config file for ubuntu
+- [Nguyen-Hoang-Nam/nvim-dotfiles-kitty](https://github.com/Nguyen-Hoang-Nam/nvim-dotfiles-kitty) - Developer-friendly Neovim configuration
 - [Creator54/awesome](https://github.com/Creator54/awesome) - Some beautiful awesome configs gathered with some minor changes just switch git checkout $branch and reload(mod+shift+r) to enjoy a new layout. lazy to update README use mod+s instead
 - [Thomashighbaugh/nvim](https://github.com/Thomashighbaugh/nvim) - My constant companion in the world of Linux
 - [bunburya/awesomerc](https://github.com/bunburya/awesomerc) - My AwesomeWM configuration Lua files.
