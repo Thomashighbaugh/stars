@@ -58,6 +58,7 @@
 
 ## C 
 
+- [siduck76/chadwm](https://github.com/siduck76/chadwm) - making dwm as beautiful as possible
 - [johanmalm/jgmenu](https://github.com/johanmalm/jgmenu) - An X11 menu
 - [kisslinux/repo](https://github.com/kisslinux/repo) - KISS Linux - Official Repositories
 - [way-cooler/way-cooler](https://github.com/way-cooler/way-cooler) - Wayland compositor for AwesomeWM
@@ -1097,7 +1098,7 @@
 - [ODEX-TOS/packages](https://github.com/ODEX-TOS/packages) - Closely follow Arch Linux packages
 - [archcraft-os/archcraft-pkgs](https://github.com/archcraft-os/archcraft-pkgs) - // Repository : Compiled Packages
 - [Thomashighbaugh/arch_install](https://github.com/Thomashighbaugh/arch_install) - Menu-driven dialog driven installation script using dialog (looks like debian installation menu).
-- [LuminusOS/make](https://github.com/LuminusOS/make) - Script tool for creating LuminOS ISO
+- [luminusOS/mkluminus](https://github.com/luminusOS/mkluminus) - Script tool for creating Luminus image
 - [brinkOS/brinkOS-assets](https://github.com/brinkOS/brinkOS-assets) - Assets package for brinkOS
 - [joestandring/dwm-bar](https://github.com/joestandring/dwm-bar) - A modular statusbar for dwm
 - [xero/glitchlock](https://github.com/xero/glitchlock) - a glitch art themed randomized lockscreen for linux
