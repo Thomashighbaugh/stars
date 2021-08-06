@@ -49,6 +49,7 @@
   - [Shell](#shell)
   - [TypeScript](#typescript)
   - [Vala](#vala)
+  - [Vim Snippet](#vim-snippet)
   - [Vim script](#vim-script)
   - [Vue](#vue)
 
@@ -66,6 +67,7 @@
 - [facebook/zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
 - [openssl/openssl](https://github.com/openssl/openssl) - TLS/SSL and crypto library
 - [libgit2/libgit2](https://github.com/libgit2/libgit2) - A cross-platform, linkable library implementation of Git that you can use in your application.
+- [trezor/trezor-firmware](https://github.com/trezor/trezor-firmware) - :lock: Trezor Firmware Monorepo
 - [fluent/fluent-bit](https://github.com/fluent/fluent-bit) - Fast and Lightweight Logs and Metrics processor for Linux, BSD, OSX and Windows
 - [FreeRDP/FreeRDP](https://github.com/FreeRDP/FreeRDP) - FreeRDP is a free remote desktop protocol library and clients
 - [deadbok/eden-linux](https://github.com/deadbok/eden-linux) - Linux distribution build system
@@ -117,6 +119,7 @@
 
 ## C++ 
 
+- [keshavbhatt/glate](https://github.com/keshavbhatt/glate) - Open Source Google Translator and TTS App for Linux Desktop
 - [xinbailu/DripLoader](https://github.com/xinbailu/DripLoader) - Evasive shellcode loader for bypassing event-based injection detection (PoC)
 - [AntiMicroX/antimicrox](https://github.com/AntiMicroX/antimicrox) - Graphical program used to map keyboard buttons and mouse controls to a gamepad. Useful for playing games with no gamepad support.
 - [monero-project/monero](https://github.com/monero-project/monero) - Monero: the secure, private, untraceable cryptocurrency
@@ -471,7 +474,7 @@
 - [ohansemmanuel/react-hooks-cheatsheet](https://github.com/ohansemmanuel/react-hooks-cheatsheet) - 🦖 React hooks cheatsheet with live editable examples
 - [yTakkar/React-Instagram-Clone-2.0](https://github.com/yTakkar/React-Instagram-Clone-2.0) - A reactive Single-Page Instagram-Clone with some new features!! 💪📸👓 - No longer maintained.
 - [mmacneil/devfolio](https://github.com/mmacneil/devfolio) - A simple, responsive, single-page portfolio and resume for developers built with Bulma, Sass, Font Awesome and Flickity.
-- [officialputuid/toolsig](https://github.com/officialputuid/toolsig) - toolsig v3.2 (Instagram Tools)
+- [officialputuid/toolsig](https://github.com/officialputuid/toolsig) - toolsig v4.0 (Instagram Tools, based NodeJS)
 - [deepjyoti30/startpage](https://github.com/deepjyoti30/startpage) - A minimal starpage for Chrome and Firefox
 - [arkenfox/user.js](https://github.com/arkenfox/user.js) - Firefox privacy, security and anti-fingerprinting: a comprehensive user.js template for configuration and hardening
 - [dfkt/firefox-tweaks](https://github.com/dfkt/firefox-tweaks) - Attempt to make Firefox suck less.
@@ -908,7 +911,6 @@
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [great-expectations/great_expectations](https://github.com/great-expectations/great_expectations) - Always know what to expect from your data.
 - [PaddlePaddle/PaddleHub](https://github.com/PaddlePaddle/PaddleHub) - Awesome pre-trained models toolkit based on PaddlePaddle.(300+ models including Image, Text, Audio and Video with Easy Inference & Serving deployment)
-- [trezor/trezor-firmware](https://github.com/trezor/trezor-firmware) - :lock: Trezor Firmware Monorepo
 - [mpeterv/hererocks](https://github.com/mpeterv/hererocks) - Python script for installing Lua/LuaJIT and LuaRocks into a local directory
 - [whittlem/pycryptobot](https://github.com/whittlem/pycryptobot) - Python Crypto Bot
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
@@ -1332,6 +1334,10 @@
 - [elementary/photos](https://github.com/elementary/photos) - Photo viewer and organizer designed for elementary OS
 - [elementary/appcenter](https://github.com/elementary/appcenter) - Pay-what-you-want app store for elementary OS
 - [nick92/Enso-OS](https://github.com/nick92/Enso-OS) - a simple OS designed for ageing computers
+
+## Vim Snippet 
+
+- [sahasatvik/dotfiles](https://github.com/sahasatvik/dotfiles) - My configuration and theme files
 
 ## Vim script 
 
