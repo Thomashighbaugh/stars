@@ -379,6 +379,10 @@
 
 ## JavaScript 
 
+- [gautamkrishnar/refined-github-feeds](https://github.com/gautamkrishnar/refined-github-feeds) - This browser extension enables you to filter the GitHub news feeds based on different event types.
+- [basharovV/StumbleUponAwesome](https://github.com/basharovV/StumbleUponAwesome) - ⚡️A browser extension that takes you to a random site from one of the awesome curated lists. Like good ol' StumbleUpon, for developers, tech & science lovers.
+- [manojVivek/medium-unlimited](https://github.com/manojVivek/medium-unlimited) - A browser extension to read medium.com articles for free without membership.
+- [johnjones4/InBrief](https://github.com/johnjones4/InBrief) - InBrief is a personal briefing app and dashboard powered by Electron and React
 - [inbasic/open-two-factor-authenticator](https://github.com/inbasic/open-two-factor-authenticator) - A sync-able open-source two-factor authenticator for Firefox, Opera, Safari, Chrome and Android
 - [embarklabs/embark](https://github.com/embarklabs/embark) - Framework for serverless Decentralized Applications using Ethereum, IPFS and other platforms
 - [Thomashighbaugh/coolStarter](https://github.com/Thomashighbaugh/coolStarter) - A Gatsby starter with TinaCMS inspired by TinaGrande
@@ -739,6 +743,7 @@
 
 ## Others 
 
+- [AcaiBerii/Programming-Language-Concepts](https://github.com/AcaiBerii/Programming-Language-Concepts) - concepts of programming languages
 - [Thomashighbaugh/mern-weather-app](https://github.com/Thomashighbaugh/mern-weather-app) - enter a zip code, select unit, get record, save to local storage.
 - [vrushangdev/dankmono](https://github.com/vrushangdev/dankmono) - 
 - [joaopmendes/vscode-config](https://github.com/joaopmendes/vscode-config) - My vscode configuration
