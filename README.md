@@ -139,6 +139,7 @@
 - [robotology/yarp](https://github.com/robotology/yarp) - YARP - Yet Another Robot Platform
 - [lxqt/lxqt-panel](https://github.com/lxqt/lxqt-panel) - The LXQt desktop panel
 - [unetbootin/unetbootin](https://github.com/unetbootin/unetbootin) - UNetbootin installs Linux/BSD distributions to a partition or USB drive
+- [hannesschulze/conecto](https://github.com/hannesschulze/conecto) - Integrate your Android-phone with your PC - a GTK client for KDEConnect.
 - [FedoraQt/QGnomePlatform](https://github.com/FedoraQt/QGnomePlatform) - QPlatformTheme for a better Qt application inclusion in GNOME
 - [diasurgical/devilution](https://github.com/diasurgical/devilution) - Diablo devolved - magic behind the 1996 computer game
 
@@ -617,6 +618,9 @@
 
 ## Lua 
 
+- [yrwq/dotfiles](https://github.com/yrwq/dotfiles) - :house: ~/
+- [dpetersen/awesome](https://github.com/dpetersen/awesome) - Config for AwesomeWM
+- [d-k-ivanov/awesomewm-conf](https://github.com/d-k-ivanov/awesomewm-conf) - Awesome WM config with widgets
 - [undefinedDarkness/rice](https://github.com/undefinedDarkness/rice) - Home Sweet Home
 - [Elv13/awesome-configs](https://github.com/Elv13/awesome-configs) - My AwesomeWM configuration
 - [braddellinger/dotfiles](https://github.com/braddellinger/dotfiles) - My personal collection of dotfiles
@@ -1346,7 +1350,6 @@
 - [elementary/installer](https://github.com/elementary/installer) - Installer front-end for Linux-based OSes
 - [UbuntuBudgie/budgie-extras](https://github.com/UbuntuBudgie/budgie-extras) - Additional Budgie Desktop enhancements for user experience
 - [GNOME/geary](https://github.com/GNOME/geary) - Read-only mirror of https://gitlab.gnome.org/GNOME/geary
-- [hannesschulze/conecto](https://github.com/hannesschulze/conecto) - Integrate your Android-phone with your PC - a GTK client for KDEConnect.
 - [elementary/photos](https://github.com/elementary/photos) - Photo viewer and organizer designed for elementary OS
 - [elementary/appcenter](https://github.com/elementary/appcenter) - Pay-what-you-want app store for elementary OS
 - [nick92/Enso-OS](https://github.com/nick92/Enso-OS) - a simple OS designed for ageing computers
