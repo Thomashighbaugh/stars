@@ -124,7 +124,7 @@
 - [AntiMicroX/antimicrox](https://github.com/AntiMicroX/antimicrox) - Graphical program used to map keyboard buttons and mouse controls to a gamepad. Useful for playing games with no gamepad support.
 - [monero-project/monero](https://github.com/monero-project/monero) - Monero: the secure, private, untraceable cryptocurrency
 - [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree
-- [WayfireWM/wayfire](https://github.com/WayfireWM/wayfire) - 3D wayland compositor
+- [WayfireWM/wayfire](https://github.com/WayfireWM/wayfire) - A modular and extensible wayland compositor
 - [xournalpp/xournalpp](https://github.com/xournalpp/xournalpp) - Xournal++ is a handwriting notetaking software with PDF annotation support. Written in C++ with GTK3, supporting Linux (e.g. Ubuntu, Debian, Arch, SUSE), macOS and Windows 10. Supports pen input from devices such as Wacom Tablets.
 - [enkore/j4-dmenu-desktop](https://github.com/enkore/j4-dmenu-desktop) - A fast desktop menu
 - [lxqt/libqtxdg](https://github.com/lxqt/libqtxdg) - Qt implementation of freedesktop.org xdg specs
@@ -618,6 +618,9 @@
 
 ## Lua 
 
+- [shagu/dotfiles](https://github.com/shagu/dotfiles) - 
+- [jcrd/dovetail](https://github.com/jcrd/dovetail) - An opinionated tiling window manager
+- [no3l0815/awesome-config](https://github.com/no3l0815/awesome-config) - My configuration for the awesome window manager
 - [yrwq/dotfiles](https://github.com/yrwq/dotfiles) - :house: ~/
 - [dpetersen/awesome](https://github.com/dpetersen/awesome) - Config for AwesomeWM
 - [d-k-ivanov/awesomewm-conf](https://github.com/d-k-ivanov/awesomewm-conf) - Awesome WM config with widgets
@@ -672,7 +675,7 @@
 - [purhan/dotfiles](https://github.com/purhan/dotfiles) - 
 - [piotrklibert/awesome-config](https://github.com/piotrklibert/awesome-config) - Configuration and widgets for Awesome WM in Lua and MoonScript
 - [leafo/moonscript](https://github.com/leafo/moonscript) - :crescent_moon: A language that compiles to Lua
-- [projekt0n/github-nvim-theme](https://github.com/projekt0n/github-nvim-theme) - Github theme for Neovim, kitty, iTerm, Konsole, and Alacritty written in Lua
+- [projekt0n/github-nvim-theme](https://github.com/projekt0n/github-nvim-theme) - Github theme for Neovim, tmux, kitty, iTerm, Konsole, and Alacritty written in Lua
 - [diegosalazarCO/awesome-wm](https://github.com/diegosalazarCO/awesome-wm) - Configs for the Awesome Window Manager
 - [elenapan/archlabs-awesome](https://github.com/elenapan/archlabs-awesome) - AwesomeWM flavor for ArchLabs
 - [kotbaton/awesomewm-config](https://github.com/kotbaton/awesomewm-config) - My configuration for awesome WM
@@ -756,6 +759,7 @@
 
 ## Others 
 
+- [OPEnSLab-OSU/OPEnS-Lab-Home](https://github.com/OPEnSLab-OSU/OPEnS-Lab-Home) - This is the homepage for the Oregon State University OPEnS Lab.
 - [AcaiBerii/Programming-Language-Concepts](https://github.com/AcaiBerii/Programming-Language-Concepts) - concepts of programming languages
 - [Thomashighbaugh/mern-weather-app](https://github.com/Thomashighbaugh/mern-weather-app) - enter a zip code, select unit, get record, save to local storage.
 - [vrushangdev/dankmono](https://github.com/vrushangdev/dankmono) - 
