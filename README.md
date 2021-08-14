@@ -59,6 +59,10 @@
 
 ## C 
 
+- [varmd/wayward](https://github.com/varmd/wayward) - Fast GTK shell and compositor for wayland and weston.
+- [inclement/vivarium](https://github.com/inclement/vivarium) - A dynamic tiling Wayland compositor using wlroots
+- [taiwins/taiwins](https://github.com/taiwins/taiwins) - taiwins, a modern wayland compositor
+- [nnoell/neurowm](https://github.com/nnoell/neurowm) - An extremely configurable, fast, dynamic tiling window manager for X
 - [siduck76/chadwm](https://github.com/siduck76/chadwm) - making dwm as beautiful as possible
 - [johanmalm/jgmenu](https://github.com/johanmalm/jgmenu) - An X11 menu
 - [kisslinux/repo](https://github.com/kisslinux/repo) - KISS Linux - Official Repositories
@@ -118,6 +122,7 @@
 
 ## C++ 
 
+- [wmww/Hedgehog](https://github.com/wmww/Hedgehog) - C++ Wayland compositor
 - [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
 - [keshavbhatt/glate](https://github.com/keshavbhatt/glate) - Open Source Google Translator and TTS App for Linux Desktop
 - [xinbailu/DripLoader](https://github.com/xinbailu/DripLoader) - Evasive shellcode loader for bypassing event-based injection detection (PoC)
@@ -381,6 +386,7 @@
 
 ## JavaScript 
 
+- [ruslang02/atomos](https://github.com/ruslang02/atomos) - JS-based Linux desktop environment.
 - [trufflesuite/truffle](https://github.com/trufflesuite/truffle) - A tool for developing smart contracts. Crafted with the finest cacaos.
 - [gautamkrishnar/refined-github-feeds](https://github.com/gautamkrishnar/refined-github-feeds) - This browser extension enables you to filter the GitHub news feeds based on different event types.
 - [basharovV/StumbleUponAwesome](https://github.com/basharovV/StumbleUponAwesome) - ⚡️A browser extension that takes you to a random site from one of the awesome curated lists. Like good ol' StumbleUpon, for developers, tech & science lovers.
@@ -618,6 +624,9 @@
 
 ## Lua 
 
+- [alswl/awesome](https://github.com/alswl/awesome) - my Awesome(window management) configuration for Arch/Ubuntu
+- [70xH/dotfiles](https://github.com/70xH/dotfiles) - Welcome to my messy ~/home
+- [Alexian123/dotfiles](https://github.com/Alexian123/dotfiles) - GNU/Linux dotfiles
 - [shagu/dotfiles](https://github.com/shagu/dotfiles) - 
 - [jcrd/dovetail](https://github.com/jcrd/dovetail) - An opinionated tiling window manager
 - [no3l0815/awesome-config](https://github.com/no3l0815/awesome-config) - My configuration for the awesome window manager
@@ -759,6 +768,7 @@
 
 ## Others 
 
+- [vitalysim/Awesome-Hacking-Resources](https://github.com/vitalysim/Awesome-Hacking-Resources) - A collection of hacking / penetration testing resources to make you better!
 - [OPEnSLab-OSU/OPEnS-Lab-Home](https://github.com/OPEnSLab-OSU/OPEnS-Lab-Home) - This is the homepage for the Oregon State University OPEnS Lab.
 - [AcaiBerii/Programming-Language-Concepts](https://github.com/AcaiBerii/Programming-Language-Concepts) - concepts of programming languages
 - [Thomashighbaugh/mern-weather-app](https://github.com/Thomashighbaugh/mern-weather-app) - enter a zip code, select unit, get record, save to local storage.
@@ -1094,6 +1104,8 @@
 
 ## Shell 
 
+- [kotoko/voidlinux-iso-extra](https://github.com/kotoko/voidlinux-iso-extra) - Void (Linux) installation ISO with additional programs
+- [alealexpro100/linux_install](https://github.com/alealexpro100/linux_install) - Install various distros from Linux.
 - [diemol/cud](https://github.com/diemol/cud) - Set of scripts to set an Ubuntu desktop with VNC in the cloud
 - [guysoft/RealtimePi](https://github.com/guysoft/RealtimePi) - An out-of-the-box raspebrrypi/raspbian distro with a realtime kernel
 - [aferrero2707/gimp-plugins-collection](https://github.com/aferrero2707/gimp-plugins-collection) - 
