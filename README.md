@@ -818,7 +818,6 @@
 - [atsepkov/awesome-awesome-wm](https://github.com/atsepkov/awesome-awesome-wm) - A curated list of awesome tools/scripts/configs for Awesome Window Manager.
 - [MaggieAppleton/digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners) - Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs
 - [alinebastos/free-courses](https://github.com/alinebastos/free-courses) - Free IT courses
-- [KasperZutterman/Second-Brain](https://github.com/KasperZutterman/Second-Brain) - A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Digital Gardens 🌱
 - [mfornos/awesome-microservices](https://github.com/mfornos/awesome-microservices) - A curated list of Microservice Architecture related principles and technologies.
 - [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) - :books: List of awesome university courses for learning Computer Science!
 - [karlhorky/learn-to-program](https://github.com/karlhorky/learn-to-program) - Educational resources to learn to program (Foundation in Web Development)
@@ -1161,6 +1160,7 @@
 - [WoeUSB/WoeUSB](https://github.com/WoeUSB/WoeUSB) - A Microsoft Windows® USB installation media preparer for GNU+Linux
 - [utensils/brinkOS](https://github.com/utensils/brinkOS) - Arch based Linux distribution for Engineers
 - [brinkOS/brinkOS-packages](https://github.com/brinkOS/brinkOS-packages) - Packages for brinkOS
+- [KasperZutterman/Second-Brain](https://github.com/KasperZutterman/Second-Brain) - A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Digital Gardens 🌱
 - [noob-hackers/T-LOAD](https://github.com/noob-hackers/T-LOAD) - New Interface And Loading Screen For Termux Users
 - [kisslinux/kiss](https://github.com/kisslinux/kiss) - KISS Linux - Package Manager
 - [instantOS/instantOS](https://github.com/instantOS/instantOS) - instantOS - the out of the Box distro for powerusers
