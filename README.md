@@ -59,6 +59,7 @@
 
 ## C 
 
+- [collinsmichael/spartan](https://github.com/collinsmichael/spartan) - Final Year Project - Multi-Tasking GUI based Operating System designed with usability in mind
 - [varmd/wayward](https://github.com/varmd/wayward) - Fast GTK shell and compositor for wayland and weston.
 - [inclement/vivarium](https://github.com/inclement/vivarium) - A dynamic tiling Wayland compositor using wlroots
 - [taiwins/taiwins](https://github.com/taiwins/taiwins) - taiwins, a modern wayland compositor
@@ -113,6 +114,7 @@
 
 ## C# # 
 
+- [microsoft/Git-Credential-Manager-Core](https://github.com/microsoft/Git-Credential-Manager-Core) - Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.
 - [dotnet-architecture/eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers) - Cross-platform .NET sample microservices and container based application that runs on Linux Windows and macOS. Powered by .NET 5, Docker Containers and Azure Kubernetes Services. Supports Visual Studio, VS for Mac and CLI based environments with Docker CLI, dotnet CLI, VS Code or any other code editor.
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [ElevenPaths/FOCA](https://github.com/ElevenPaths/FOCA) - Tool to find metadata and hidden information in the documents.
@@ -122,6 +124,8 @@
 
 ## C++ 
 
+- [ehopperdietzel/CuarzoOS](https://github.com/ehopperdietzel/CuarzoOS) - CuarzoOS
+- [papyros/papyros-shell](https://github.com/papyros/papyros-shell) - :shell: The desktop shell for Papyros, built using QtQuick and QtCompositor as a compositor for Wayland.
 - [wmww/Hedgehog](https://github.com/wmww/Hedgehog) - C++ Wayland compositor
 - [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
 - [keshavbhatt/glate](https://github.com/keshavbhatt/glate) - Open Source Google Translator and TTS App for Linux Desktop
@@ -169,7 +173,7 @@
 - [solus-project/evopop-gtk-theme](https://github.com/solus-project/evopop-gtk-theme) - Modern Desktop Theme Suite
 - [creativetimofficial/tailwind-starter-kit](https://github.com/creativetimofficial/tailwind-starter-kit) - Tailwind Starter Kit a beautiful extension for TailwindCSS, Free and Open Source
 - [elenapan/dotfiles](https://github.com/elenapan/dotfiles) - There is no place like ~/
-- [owl4ce/dotfiles](https://github.com/owl4ce/dotfiles) - :cherry_blossom: Aesthetic-intregrated OpenboxWM Custom Environment
+- [owl4ce/dotfiles](https://github.com/owl4ce/dotfiles) - :cherry_blossom: Aesthetic-integrated OpenboxWM Custom Environment
 - [Thomashighbaugh/electric-tantra-linux-iso](https://github.com/Thomashighbaugh/electric-tantra-linux-iso) - the files used to build Electric Tantra Linux, my iso demo of my dotfiles WIP
 - [Thomashighbaugh/firefox](https://github.com/Thomashighbaugh/firefox) - Firefox customizations, part of my dotfiles separated for my sanity
 - [obliviousofcraps/mf-dots](https://github.com/obliviousofcraps/mf-dots) - These are some of my ridiculously shit dotfiles that I use in my unproductive daily life.
@@ -386,6 +390,8 @@
 
 ## JavaScript 
 
+- [LingDong-/fishdraw](https://github.com/LingDong-/fishdraw) - procedurally generated fish drawings
+- [tharsis/ethermint](https://github.com/tharsis/ethermint) - Ethermint is a scalable and interoperable Ethereum, built on Proof-of-Stake with fast-finality using the Cosmos SDK.
 - [ruslang02/atomos](https://github.com/ruslang02/atomos) - JS-based Linux desktop environment.
 - [trufflesuite/truffle](https://github.com/trufflesuite/truffle) - A tool for developing smart contracts. Crafted with the finest cacaos.
 - [gautamkrishnar/refined-github-feeds](https://github.com/gautamkrishnar/refined-github-feeds) - This browser extension enables you to filter the GitHub news feeds based on different event types.
@@ -624,6 +630,7 @@
 
 ## Lua 
 
+- [ThePrimeagen/refactoring.nvim](https://github.com/ThePrimeagen/refactoring.nvim) - The Refactoring library based off the Refactoring book by Martin Fowler
 - [alswl/awesome](https://github.com/alswl/awesome) - my Awesome(window management) configuration for Arch/Ubuntu
 - [70xH/dotfiles](https://github.com/70xH/dotfiles) - Welcome to my messy ~/home
 - [Alexian123/dotfiles](https://github.com/Alexian123/dotfiles) - GNU/Linux dotfiles
@@ -693,7 +700,7 @@
 - [streetturtle/awesome-buttons](https://github.com/streetturtle/awesome-buttons) - Button widget library for Awesome Window Manager
 - [hrsh7th/nvim-compe](https://github.com/hrsh7th/nvim-compe) - Auto completion Lua plugin for nvim
 - [raven2cz/awesomewm-config](https://github.com/raven2cz/awesomewm-config) - AwesomeWM (git-master) configuration with new Amazing Theme.
-- [siduck76/NvChad](https://github.com/siduck76/NvChad) - An attempt to make neovim cli as functional as an IDE while being very beautiful , blazing fast and less bloated.
+- [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli as functional as an IDE while being very beautiful , blazing fast and less bloated.
 - [pinpox/wallpaper-generator](https://github.com/pinpox/wallpaper-generator) - Generate wallpaper images from mathematical functions
 - [bioe007/awesome-revelation](https://github.com/bioe007/awesome-revelation) - Show all clients per screen in Awesome window manager
 - [Mofiqul/awesome-shell](https://github.com/Mofiqul/awesome-shell) - This is a collection of awesome wm configuration files
@@ -919,6 +926,7 @@
 
 ## Python 
 
+- [PaddlePaddle/PaddleGAN](https://github.com/PaddlePaddle/PaddleGAN) - PaddlePaddle GAN library, including lots of interesting applications like First-Order motion transfer,  wav2lip, picture repair, image editing, photo2cartoon, image style transfer, and so on.
 - [codebasics/cool_python_apps](https://github.com/codebasics/cool_python_apps) - Small and cool python apps including bitcoin mining, language translator etc.
 - [syegulalp/folio](https://github.com/syegulalp/folio) - Python-powered, Markdown-formatted personal wiki
 - [Catboy96/Universal-Linux-Script](https://github.com/Catboy96/Universal-Linux-Script) - A shell script with built-in variables which can simplify Linux shell script writing.
@@ -1073,6 +1081,8 @@
 
 ## Rust 
 
+- [perceptia/perceptia](https://github.com/perceptia/perceptia) - Dynamic window manager with support for Wayland
+- [Drakulix/fireplace](https://github.com/Drakulix/fireplace) - Modular wayland window manager written in rust
 - [dotenv-linter/dotenv-linter](https://github.com/dotenv-linter/dotenv-linter) - ⚡️Lightning-fast linter for .env files. Written in Rust 🦀
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [balena-os/wifi-connect](https://github.com/balena-os/wifi-connect) - Easy WiFi setup for Linux devices from your mobile phone or laptop
