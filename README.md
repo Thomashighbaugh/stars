@@ -13,6 +13,7 @@
   - [CSS](#css)
   - [Clojure](#clojure)
   - [CoffeeScript](#coffeescript)
+  - [Dart](#dart)
   - [Dockerfile](#dockerfile)
   - [Emacs Lisp](#emacs-lisp)
   - [FreeMarker](#freemarker)
@@ -146,6 +147,7 @@
 - [diasurgical/devilutionX](https://github.com/diasurgical/devilutionX) - Diablo build for modern operating systems
 - [pbek/QOwnNotes](https://github.com/pbek/QOwnNotes) - QOwnNotes is a plain-text file notepad and todo-list manager with markdown support and Nextcloud / ownCloud integration.
 - [robotology/yarp](https://github.com/robotology/yarp) - YARP - Yet Another Robot Platform
+- [Embroidermodder/Embroidermodder](https://github.com/Embroidermodder/Embroidermodder) - Free machine embroidery software supporting a variety of formats.
 - [lxqt/lxqt-panel](https://github.com/lxqt/lxqt-panel) - The LXQt desktop panel
 - [unetbootin/unetbootin](https://github.com/unetbootin/unetbootin) - UNetbootin installs Linux/BSD distributions to a partition or USB drive
 - [hannesschulze/conecto](https://github.com/hannesschulze/conecto) - Integrate your Android-phone with your PC - a GTK client for KDEConnect.
@@ -258,6 +260,10 @@
 ## CoffeeScript 
 
 - [glebm/gulp-webpack-react-bootstrap-sass-template](https://github.com/glebm/gulp-webpack-react-bootstrap-sass-template) - Web App Client Template: React. Sass, Coffee, JSX. Bootstrap for Sass. Compiled with Gulp and Webpack.
+
+## Dart 
+
+- [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond.
 
 ## Dockerfile 
 
@@ -775,6 +781,7 @@
 
 ## Others 
 
+- [JingOS-team/JingOS](https://github.com/JingOS-team/JingOS) - Awesome - JingOS - The World’s First Linux-based OS design for Tablets
 - [vitalysim/Awesome-Hacking-Resources](https://github.com/vitalysim/Awesome-Hacking-Resources) - A collection of hacking / penetration testing resources to make you better!
 - [OPEnSLab-OSU/OPEnS-Lab-Home](https://github.com/OPEnSLab-OSU/OPEnS-Lab-Home) - This is the homepage for the Oregon State University OPEnS Lab.
 - [AcaiBerii/Programming-Language-Concepts](https://github.com/AcaiBerii/Programming-Language-Concepts) - concepts of programming languages
@@ -1035,7 +1042,6 @@
 - [AdguardTeam/AdguardFilters](https://github.com/AdguardTeam/AdguardFilters) - AdGuard Content Blocking Filters
 - [kynikos/outspline](https://github.com/kynikos/outspline) - Extensible outliner and personal time organizer to manage todo lists, schedule tasks, remind events.
 - [syncloud/platform](https://github.com/syncloud/platform) - Run popular services on your device with one click
-- [Embroidermodder/Embroidermodder](https://github.com/Embroidermodder/Embroidermodder) - Free machine embroidery software supporting a variety of formats.
 - [zim-desktop-wiki/zim-desktop-wiki](https://github.com/zim-desktop-wiki/zim-desktop-wiki) - Main repository of the zim desktop wiki project
 - [UbuntuBudgie/window-shuffler](https://github.com/UbuntuBudgie/window-shuffler) - GUI and keyboard friendly window arranger for the budgie and mate desktop
 - [sundarnagarajan/bootutils](https://github.com/sundarnagarajan/bootutils) - Utilities to create bootable disks, remaster ISO images, make multiboot ISO images
@@ -1113,6 +1119,7 @@
 
 ## Shell 
 
+- [instantOS/iso](https://github.com/instantOS/iso) - Tools for creating a live iso of instantOS
 - [kotoko/voidlinux-iso-extra](https://github.com/kotoko/voidlinux-iso-extra) - Void (Linux) installation ISO with additional programs
 - [alealexpro100/linux_install](https://github.com/alealexpro100/linux_install) - Install various distros from Linux.
 - [diemol/cud](https://github.com/diemol/cud) - Set of scripts to set an Ubuntu desktop with VNC in the cloud
