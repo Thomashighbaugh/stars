@@ -56,7 +56,7 @@
 
 ## Batchfile 
 
-- [swagkarna/Defeat-Defender-V1.2.0](https://github.com/swagkarna/Defeat-Defender-V1.2.0) - Powerful batch script to dismantle complete windows defender protection and even bypass tamper protection ..Disable Windows-Defender Permanently....Hack windows. POC
+- [swagkarna/Defeat-Defender-V1.2](https://github.com/swagkarna/Defeat-Defender-V1.2) - Powerful batch script to dismantle complete windows defender protection and even bypass tamper protection ..Disable Windows-Defender Permanently....Hack windows. POC
 
 ## C 
 
@@ -277,6 +277,7 @@
 
 ## Emacs Lisp 
 
+- [BasicWolf/dotrc](https://github.com/BasicWolf/dotrc) - My Emacs, AwesomeWM, zsh, git and other configurations
 - [taylor-gl/dotfiles](https://github.com/taylor-gl/dotfiles) - My Gentoo config and setup guide [currently i3 and vanilla emacs]
 - [xinhaoyuan/my-config](https://github.com/xinhaoyuan/my-config) - all config files managed by GNU stow
 - [carlosal1015/dune-archiso](https://github.com/carlosal1015/dune-archiso) - 
@@ -642,6 +643,7 @@
 
 ## Lua 
 
+- [apaulau/awesome-config](https://github.com/apaulau/awesome-config) - Awesome WM config
 - [alfunx/.dotfiles](https://github.com/alfunx/.dotfiles) - There's no place like ~ !
 - [gobolinux/gobo-awesome-screenlock](https://github.com/gobolinux/gobo-awesome-screenlock) - 🗝 A screenlock widget for Awesome WM
 - [doronbehar/awesome-autostart](https://github.com/doronbehar/awesome-autostart) - 
@@ -908,7 +910,7 @@
 - [numixproject/numix-icon-theme](https://github.com/numixproject/numix-icon-theme) - Official base icon theme from the Numix project.
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [FAQGURU/FAQGURU](https://github.com/FAQGURU/FAQGURU) - :school_satchel: :rocket: :tada: A list of interview questions. This repository is everything you need to prepare for your technical interview.
-- [tuvtran/project-based-learning](https://github.com/tuvtran/project-based-learning) - Curated list of project-based tutorials
+- [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [pim-book/exercises](https://github.com/pim-book/exercises) - Solutions, discussions, and approaches to the exercises
 - [numixproject/numix-icon-theme-square](https://github.com/numixproject/numix-icon-theme-square) - Linux packaging for Numix Square
 - [zayronxio/Zafiro-icons](https://github.com/zayronxio/Zafiro-icons) - icon pack flat with light colors
@@ -1096,6 +1098,7 @@
 
 ## Rust 
 
+- [Kintaro/wtftw](https://github.com/Kintaro/wtftw) - Window Tiling For The Win. A tiling window manager written in Rust
 - [perceptia/perceptia](https://github.com/perceptia/perceptia) - Dynamic window manager with support for Wayland
 - [Drakulix/fireplace](https://github.com/Drakulix/fireplace) - Modular wayland window manager written in rust
 - [dotenv-linter/dotenv-linter](https://github.com/dotenv-linter/dotenv-linter) - ⚡️Lightning-fast linter for .env files. Written in Rust 🦀
@@ -1128,6 +1131,7 @@
 
 ## Shell 
 
+- [bhikandeshmukh/instarat](https://github.com/bhikandeshmukh/instarat) - best tool for instagram followers increasing
 - [Fosstack/dotfiles](https://github.com/Fosstack/dotfiles) - Collection of dotfiles for my arch setup
 - [instantOS/iso](https://github.com/instantOS/iso) - Tools for creating a live iso of instantOS
 - [kotoko/voidlinux-iso-extra](https://github.com/kotoko/voidlinux-iso-extra) - Void (Linux) installation ISO with additional programs
