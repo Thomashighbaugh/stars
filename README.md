@@ -48,6 +48,7 @@
   - [SCSS](#scss)
   - [Scheme](#scheme)
   - [Shell](#shell)
+  - [TeX](#tex)
   - [TypeScript](#typescript)
   - [Vala](#vala)
   - [Vim Snippet](#vim-snippet)
@@ -176,7 +177,7 @@
 - [solus-project/evopop-gtk-theme](https://github.com/solus-project/evopop-gtk-theme) - Modern Desktop Theme Suite
 - [creativetimofficial/tailwind-starter-kit](https://github.com/creativetimofficial/tailwind-starter-kit) - Tailwind Starter Kit a beautiful extension for TailwindCSS, Free and Open Source
 - [elenapan/dotfiles](https://github.com/elenapan/dotfiles) - There is no place like ~/
-- [owl4ce/dotfiles](https://github.com/owl4ce/dotfiles) - :cherry_blossom: Aesthetic-integrated OpenboxWM Custom Environment
+- [owl4ce/dotfiles](https://github.com/owl4ce/dotfiles) - :cherry_blossom: Aesthetic-integrated OpenboxWM Custom Environment [will updated]
 - [Thomashighbaugh/electric-tantra-linux-iso](https://github.com/Thomashighbaugh/electric-tantra-linux-iso) - the files used to build Electric Tantra Linux, my iso demo of my dotfiles WIP
 - [Thomashighbaugh/firefox](https://github.com/Thomashighbaugh/firefox) - Firefox customizations, part of my dotfiles separated for my sanity
 - [obliviousofcraps/mf-dots](https://github.com/obliviousofcraps/mf-dots) - These are some of my ridiculously shit dotfiles that I use in my unproductive daily life.
@@ -792,6 +793,7 @@
 
 ## Others 
 
+- [nightah/void-install](https://github.com/nightah/void-install) - 
 - [JingOS-team/JingOS](https://github.com/JingOS-team/JingOS) - Awesome - JingOS - The World’s First Linux-based OS design for Tablets
 - [vitalysim/Awesome-Hacking-Resources](https://github.com/vitalysim/Awesome-Hacking-Resources) - A collection of hacking / penetration testing resources to make you better!
 - [OPEnSLab-OSU/OPEnS-Lab-Home](https://github.com/OPEnSLab-OSU/OPEnS-Lab-Home) - This is the homepage for the Oregon State University OPEnS Lab.
@@ -830,7 +832,6 @@
 - [aniftyco/awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss) - 😎 Awesome things related to Tailwind CSS
 - [Thomashighbaugh/play.tailwindcss.com](https://github.com/Thomashighbaugh/play.tailwindcss.com) - 
 - [Lifka/hacking-resources](https://github.com/Lifka/hacking-resources) - Hacking resources and cheat sheets. References, tools, scripts, tutorials, and other resources that help offensive and defensive security professionals.
-- [Socehri/python-cheatsheet](https://github.com/Socehri/python-cheatsheet) - Comprehensive Python Cheatsheet
 - [mossailem/flappe](https://github.com/mossailem/flappe) - Flappe (Flat UI Colors Pallete for Inkscape) is collection of color pallete for Inkscape that inspired from Flat UI Colors Pallete.
 - [Robert-96/inkscape-templates](https://github.com/Robert-96/inkscape-templates) - A collection of SVG templates for Inkscape.
 - [Data4Democracy/ethics-resources](https://github.com/Data4Democracy/ethics-resources) - 
@@ -1131,6 +1132,22 @@
 
 ## Shell 
 
+- [koalagang/KAI](https://github.com/koalagang/KAI) - Koala's Artix Installer
+- [cemkeylan/vcarbs](https://github.com/cemkeylan/vcarbs) - Cem's Auto Rice Bootstrapping Scripts for Void Linux (mirror)
+- [void-linux/void-mklive](https://github.com/void-linux/void-mklive) - The Void Linux live image maker
+- [sinetoami/vpsm](https://github.com/sinetoami/vpsm) - vpsm - Void-Packages Sources Management wrapper for XBPS-SRC
+- [keithieopia/piu](https://github.com/keithieopia/piu) - Cross platform package manager wrapper
+- [bahamas10/vsv](https://github.com/bahamas10/vsv) - Manage and view runit services
+- [netzverweigerer/vpm](https://github.com/netzverweigerer/vpm) - vpm - An XBPS package management helper for VoidLinux
+- [ifreund/dotfiles](https://github.com/ifreund/dotfiles) - My configuration for void linux and river
+- [rabbitinspace/abyss](https://github.com/rabbitinspace/abyss) - Another Void Linux bootstrap for UEFI systems written in Fish.
+- [leafhy/void-linux-installer](https://github.com/leafhy/void-linux-installer) - Bash script to install Void Linux
+- [joestandring/void-installer](https://github.com/joestandring/void-installer) - A script to apply settings at https://github.com/joestandring/dotfiles and various other changes to make a fresh Void Linux install similar to my personal install
+- [thomashoullier/voidlinux-install](https://github.com/thomashoullier/voidlinux-install) - Void Linux installation script.
+- [marciliocn/void-installer](https://github.com/marciliocn/void-installer) - Installer script as a alternative for default Void Linux installer.
+- [mobinmob/void-66-services](https://github.com/mobinmob/void-66-services) - 66 service frontends for voidlinux
+- [masoodskio/Void-Install](https://github.com/masoodskio/Void-Install) - Helper script for installing encrypted voidlinux
+- [starkers/void-mklive](https://github.com/starkers/void-mklive) - The Void Linux live image maker
 - [bhikandeshmukh/instarat](https://github.com/bhikandeshmukh/instarat) - best tool for instagram followers increasing
 - [Fosstack/dotfiles](https://github.com/Fosstack/dotfiles) - Collection of dotfiles for my arch setup
 - [instantOS/iso](https://github.com/instantOS/iso) - Tools for creating a live iso of instantOS
@@ -1317,6 +1334,10 @@
 - [na--/ebook-tools](https://github.com/na--/ebook-tools) - Shell scripts for organizing and managing ebook collections
 - [nextcloud/nextcloudpi](https://github.com/nextcloud/nextcloudpi) - 📦 Build code for NextcloudPi: Raspberry Pi, Odroid, Rock64, Docker, curl installer...
 
+## TeX 
+
+- [sysprog21/lkmpg](https://github.com/sysprog21/lkmpg) - The Linux Kernel Module Programming Guide (updated for 5.x kernels)
+
 ## TypeScript 
 
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
@@ -1408,7 +1429,7 @@
 
 ## Vim script 
 
-- [and3rson/dotfiles](https://github.com/and3rson/dotfiles) - My configs: (neo)vim, awesomewm, tmux, bash, qtile, compton, molokai colors and stolen dircolors.
+- [and3rson/dotfiles](https://github.com/and3rson/dotfiles) - My configs: (neo)vim, sway, alacritty, tmux, bash, molokai colors and stolen dircolors.
 - [wincent/corpus](https://github.com/wincent/corpus) - 📝 A note-management application
 - [antoniosarosi/dotfiles](https://github.com/antoniosarosi/dotfiles) - My dotfiles repo, here you can find all my window manager configs as well as documentation and a guide on how to make your own desktop environment.
 - [theniceboy/nvim](https://github.com/theniceboy/nvim) - The Ultimate NeoVim Config for Colemak Users
