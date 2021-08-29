@@ -161,6 +161,7 @@
 
 ## CSS 
 
+- [ArtemSmaznov/Dotfiles](https://github.com/ArtemSmaznov/Dotfiles) - A set of personalized dotfiles
 - [Tsuyoken/dotfiles](https://github.com/Tsuyoken/dotfiles) - Backup Dotfiles
 - [Thomashighbaugh/zeal--master](https://github.com/Thomashighbaugh/zeal--master) - 
 - [Mrcuve0/Aritim-Dark](https://github.com/Mrcuve0/Aritim-Dark) - A Dark theme for both KDE and GTK based DEs, deeply inspired by the Ayu Dark color palette
@@ -644,6 +645,16 @@
 
 ## Lua 
 
+- [ckoparkar/awesome-wm-config](https://github.com/ckoparkar/awesome-wm-config) - Configuration files for Awesome WM.
+- [ruslansin/snsome](https://github.com/ruslansin/snsome) - This is my theme for awesomeWM 4.1+. I am trying to use it as my main WM and customize it for myself
+- [timonv/cyberpunk-awesome](https://github.com/timonv/cyberpunk-awesome) - Theme and daily driver for AwesomeWM
+- [marcinn/awesome-desktop](https://github.com/marcinn/awesome-desktop) - A simple desktop environment based on AwesomeWM framework
+- [KhaimovMR/awesome-performer](https://github.com/KhaimovMR/awesome-performer) - My optimal Awesome WM configuration for development and management performance.
+- [MohamedIrfanAM/AwesomeWM](https://github.com/MohamedIrfanAM/AwesomeWM) - My Awesome window manager config
+- [troglobit/awesome-config](https://github.com/troglobit/awesome-config) - My awesome window manager configuration
+- [jaypei/hh-awesome](https://github.com/jaypei/hh-awesome) - A framework for Awesome WM config
+- [ArtemSmaznov/AwesomeWM](https://github.com/ArtemSmaznov/AwesomeWM) - Config for git version of AwesomeWM
+- [macunha1/awesomewm-memory-notifier](https://github.com/macunha1/awesomewm-memory-notifier) - Simple and minimalistic memory (RAM) pop-up notifier for AwesomeWM.
 - [apaulau/awesome-config](https://github.com/apaulau/awesome-config) - Awesome WM config
 - [alfunx/.dotfiles](https://github.com/alfunx/.dotfiles) - There's no place like ~ !
 - [gobolinux/gobo-awesome-screenlock](https://github.com/gobolinux/gobo-awesome-screenlock) - 🗝 A screenlock widget for Awesome WM
@@ -961,7 +972,7 @@
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [ahmed2m/dotfiles](https://github.com/ahmed2m/dotfiles) - My own config dotfiles for qtile/kde/awesomewm on Arch based distros
 - [CoinAlpha/hummingbot](https://github.com/CoinAlpha/hummingbot) - Hummingbot: a client for crypto market making
-- [CryptoSignal/Crypto-Signal](https://github.com/CryptoSignal/Crypto-Signal) - Github.com/CryptoSignal - #1 Quant Trading & Technical Analysis Bot - 2,100 + stars, 580 + forks
+- [CryptoSignal/Crypto-Signal](https://github.com/CryptoSignal/Crypto-Signal) - Github.com/CryptoSignal - #1 Quant Trading & Technical Analysis Bot - 3,100+ stars, 900+ forks
 - [Rick-Lang/rickroll-lang](https://github.com/Rick-Lang/rickroll-lang) - Rick Roll Language is a rickroll based, process oriented, dynamic, strong, esoteric programming language. All of the keywords/statements are coming from Rick Astley's lyrics.
 - [heyzec/Inkscape-Extensions](https://github.com/heyzec/Inkscape-Extensions) - Some extensions for Inkscape
 - [akkana/gimp-plugins](https://github.com/akkana/gimp-plugins) - GIMP plug-ins, scripts and helpers
