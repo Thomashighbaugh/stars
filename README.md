@@ -17,6 +17,7 @@
   - [Dockerfile](#dockerfile)
   - [Emacs Lisp](#emacs-lisp)
   - [FreeMarker](#freemarker)
+  - [GLSL](#glsl)
   - [Go](#go)
   - [Groff](#groff)
   - [HTML](#html)
@@ -292,6 +293,10 @@
 
 - [mozilla/send](https://github.com/mozilla/send) - Simple, private file sharing from the makers of Firefox
 
+## GLSL 
+
+- [mustaqimM/dotfiles](https://github.com/mustaqimM/dotfiles) - 
+
 ## Go 
 
 - [kubernetes/dashboard](https://github.com/kubernetes/dashboard) - General-purpose web UI for Kubernetes clusters
@@ -401,6 +406,7 @@
 
 ## JavaScript 
 
+- [HashLips/generative-art-node](https://github.com/HashLips/generative-art-node) - Create generative art by using the canvas api and node js
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite is a secure end-to-end backend server for Web, Mobile, and Flutter developers that is packaged as a set of Docker containers for easy deployment 🚀
 - [timothypholmes/startup-page](https://github.com/timothypholmes/startup-page) - A custom startup page for your browser.
 - [YouTransfer/YouTransfer](https://github.com/YouTransfer/YouTransfer) - The simple but elegant self-hosted file transfer & sharing solution
@@ -625,6 +631,7 @@
 
 ## Jupyter Notebook 
 
+- [benyaminahmed/nft-image-generator](https://github.com/benyaminahmed/nft-image-generator) - 
 - [hooram/ownphotos](https://github.com/hooram/ownphotos) - Self hosted alternative to Google Photos
 - [codebasics/py](https://github.com/codebasics/py) - Repository to store sample python programs for python learning
 - [jaakkopasanen/AutoEq](https://github.com/jaakkopasanen/AutoEq) - Automatic headphone equalization from frequency responses
@@ -645,6 +652,13 @@
 
 ## Lua 
 
+- [mpostaire/dotfiles](https://github.com/mpostaire/dotfiles) - 
+- [figsoda/dotfiles](https://github.com/figsoda/dotfiles) - My dotfiles (nixos + awesome)
+- [kkliebersbach/awesome-md-cfg](https://github.com/kkliebersbach/awesome-md-cfg) - Awesome WM configuration for multiple monitors, inspired by the Material Design guidelines.
+- [the-Electric-Tantra-Linux/awesome](https://github.com/the-Electric-Tantra-Linux/awesome) - the final form of the awesome wm c
+- [aidanharris/awesome-config](https://github.com/aidanharris/awesome-config) - My config files for the Awesome window manager
+- [jcrd/awesome-config](https://github.com/jcrd/awesome-config) - AwesomeWM configuration
+- [Ddorda/awesome](https://github.com/Ddorda/awesome) - My Awesome WM configuration
 - [ckoparkar/awesome-wm-config](https://github.com/ckoparkar/awesome-wm-config) - Configuration files for Awesome WM.
 - [ruslansin/snsome](https://github.com/ruslansin/snsome) - This is my theme for awesomeWM 4.1+. I am trying to use it as my main WM and customize it for myself
 - [timonv/cyberpunk-awesome](https://github.com/timonv/cyberpunk-awesome) - Theme and daily driver for AwesomeWM
@@ -963,6 +977,7 @@
 
 ## Python 
 
+- [cocuh/.dotfiles](https://github.com/cocuh/.dotfiles) - my awesome .dotfiles repository! wow!!
 - [PaddlePaddle/PaddleGAN](https://github.com/PaddlePaddle/PaddleGAN) - PaddlePaddle GAN library, including lots of interesting applications like First-Order motion transfer,  wav2lip, picture repair, image editing, photo2cartoon, image style transfer, and so on.
 - [codebasics/cool_python_apps](https://github.com/codebasics/cool_python_apps) - Small and cool python apps including bitcoin mining, language translator etc.
 - [syegulalp/folio](https://github.com/syegulalp/folio) - Python-powered, Markdown-formatted personal wiki
