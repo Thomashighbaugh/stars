@@ -67,7 +67,6 @@
 - [inclement/vivarium](https://github.com/inclement/vivarium) - A dynamic tiling Wayland compositor using wlroots
 - [taiwins/taiwins](https://github.com/taiwins/taiwins) - taiwins, a modern wayland compositor
 - [nnoell/neurowm](https://github.com/nnoell/neurowm) - An extremely configurable, fast, dynamic tiling window manager for X
-- [siduck76/chadwm](https://github.com/siduck76/chadwm) - making dwm as beautiful as possible
 - [johanmalm/jgmenu](https://github.com/johanmalm/jgmenu) - An X11 menu
 - [kisslinux/repo](https://github.com/kisslinux/repo) - KISS Linux - Official Repositories
 - [way-cooler/way-cooler](https://github.com/way-cooler/way-cooler) - Wayland compositor for AwesomeWM
@@ -605,7 +604,7 @@
 - [kazuar/mook](https://github.com/kazuar/mook) - Markdown editor based on Electron and React
 - [fabiocolacio/Marker](https://github.com/fabiocolacio/Marker) - 🖊 A gtk3 markdown editor
 - [electron/apps](https://github.com/electron/apps) - A collection of apps built on Electron
-- [BoostIO/BoostNote-Legacy](https://github.com/BoostIO/BoostNote-Legacy) - A markdown editor for developers on Mac, Windows and Linux.
+- [BoostIO/BoostNote-Legacy](https://github.com/BoostIO/BoostNote-Legacy) - This repository is outdated and new Boost Note app is available! We've launched a new Boost Note app which supports real-time collaborative writing. https://github.com/BoostIO/BoostNote-App
 - [azz/prettier-plugin-bash](https://github.com/azz/prettier-plugin-bash) - Bash plugin for Prettier
 - [imfunniee/gitfolio](https://github.com/imfunniee/gitfolio) - :octocat: personal website + blog  for every github user
 - [abahmed/Deer](https://github.com/abahmed/Deer) - :pencil2:A modern, fast, beautiful note taking app, built on Electron and React
@@ -653,6 +652,9 @@
 
 ## Lua 
 
+- [skbolton/titan](https://github.com/skbolton/titan) - My attempt at making dotfiles super portable
+- [tumurzakov/attachdrop](https://github.com/tumurzakov/attachdrop) - AwesomeWM Quake like windows management
+- [cyrobin/awesome-wm](https://github.com/cyrobin/awesome-wm) - My Awesome WM 3.4 configuration
 - [ibhagwan/dots](https://github.com/ibhagwan/dots) - dots
 - [jonaburg/awesome-dotfiles](https://github.com/jonaburg/awesome-dotfiles) - Purely an awesome dotfiles repo to sync my awesomewm environment across several machines
 - [mpostaire/dotfiles](https://github.com/mpostaire/dotfiles) - 
@@ -904,6 +906,7 @@
 - [NirantK/awesome-project-ideas](https://github.com/NirantK/awesome-project-ideas) - Curated list of Machine Learning, NLP, Vision, Recommender Systems Project Ideas
 - [bakkeby/patches](https://github.com/bakkeby/patches) - Collection of patches for dwm, st and dmenu
 - [DFabric/dppm-packages-source](https://github.com/DFabric/dppm-packages-source) - Sources used to build the dppm packages
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [iggredible/Learn-Vim](https://github.com/iggredible/Learn-Vim) - Learning Vim and Vimscript doesn't have to be hard. This is the guide that you're looking for.
 - [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
@@ -1293,7 +1296,6 @@
 - [snori74/linuxupskillchallenge](https://github.com/snori74/linuxupskillchallenge) - Learn the skills required to sysadmin a remote Linux server from the commandline.
 - [sdushantha/tmpmail](https://github.com/sdushantha/tmpmail) - A temporary email right from your terminal written in POSIX sh
 - [solidnerd/docker-bookstack](https://github.com/solidnerd/docker-bookstack) - BookStack in a container
-- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [filiparag/wikiman](https://github.com/filiparag/wikiman) - Wikiman is an offline search engine for manual pages, Arch Wiki, Gentoo Wiki and other documentation.
 - [wafflepie/dotfiles](https://github.com/wafflepie/dotfiles) - 🧰 Handcrafted dotfiles for web developers running Fedora, macOS, or Ubuntu for WSL. Ridiculously easy to set up, maintain, and extend.
 - [DonyaOS/Donya](https://github.com/DonyaOS/Donya) - Donya is an Operating system. Yet Another Linux distro built using a package management system.
