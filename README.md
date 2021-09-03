@@ -405,6 +405,7 @@
 
 ## JavaScript 
 
+- [mipmip/awesomewm-screenshots](https://github.com/mipmip/awesomewm-screenshots) - AwesomeWM screenshot gallery. https://mipmip.github.io/awesomewm-screenshots/
 - [BlackCapCoder/scrimba-vim](https://github.com/BlackCapCoder/scrimba-vim) - Edit scrimba projects with vim
 - [HashLips/generative-art-node](https://github.com/HashLips/generative-art-node) - Create generative art by using the canvas api and node js
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite is a secure end-to-end backend server for Web, Mobile, and Flutter developers that is packaged as a set of Docker containers for easy deployment 🚀
@@ -786,6 +787,7 @@
 
 ## Makefile 
 
+- [lyz-code/blue-book](https://github.com/lyz-code/blue-book) - My personal knowledge repository
 - [yuri-norwood/fortunes](https://github.com/yuri-norwood/fortunes) - Custom fortune files that don't exist elsewhere.
 - [feroldi/ricing](https://github.com/feroldi/ricing) - a book about ricing unix-like systems
 - [docxy/website](https://github.com/docxy/website) - The website of Docxy.
@@ -1027,7 +1029,7 @@
 - [opparco/PaintsChainer-Gimp](https://github.com/opparco/PaintsChainer-Gimp) - PaintsChainer GIMP 2.8 plug-in
 - [Nyrt/deepdream-gimp](https://github.com/Nyrt/deepdream-gimp) - Gimp Plugin for Deep Dream
 - [kritiksoman/GIMP-ML](https://github.com/kritiksoman/GIMP-ML) - AI for GNU Image Manipulation Program
-- [theupdateframework/tuf](https://github.com/theupdateframework/tuf) - A framework for securing software update systems
+- [theupdateframework/python-tuf](https://github.com/theupdateframework/python-tuf) - Python reference implementation of The Update Framework (TUF)
 - [maximtrp/tab](https://github.com/maximtrp/tab) - Start Page Generator in Python :bookmark_tabs:
 - [lucidrains/deep-daze](https://github.com/lucidrains/deep-daze) - Simple command line tool for text to image generation using OpenAI's CLIP and Siren (Implicit neural representation network). Technique was originally created by https://twitter.com/advadnoun
 - [dirkjanm/CVE-2020-1472](https://github.com/dirkjanm/CVE-2020-1472) - PoC for Zerologon - all research credits go to Tom Tervoort of Secura
@@ -1048,6 +1050,7 @@
 - [loseys/Oblivion](https://github.com/loseys/Oblivion) - Data leak checker & OSINT Tool
 - [mxrch/GHunt](https://github.com/mxrch/GHunt) - 🕵️‍♂️ Investigate Google emails and documents.
 - [jrieke/traingenerator](https://github.com/jrieke/traingenerator) - 🧙 A web app to generate template code for machine learning
+- [evildevill/instahack](https://github.com/evildevill/instahack) - Best Tool For instagram OSINT & Bruteforce hacking Tool By Waseem Akram. Made in Python , Bash
 - [noob-hackers/lazybee](https://github.com/noob-hackers/lazybee) - Create Best Wordlist From Python Tool In Termux
 - [th3unkn0n/osi.ig](https://github.com/th3unkn0n/osi.ig) - Information Gathering Instagram.
 - [beurtschipper/Depix](https://github.com/beurtschipper/Depix) - Recovers passwords from pixelized screenshots
@@ -1259,7 +1262,6 @@
 - [ByDog3r/FAQUE](https://github.com/ByDog3r/FAQUE) - 𝐅𝐀𝐐𝐔𝐄; IS A FAKE IDENTITY: SPOOF-EMAIL, THE PERFECT COMPANION FOR PHISHING.
 - [TheSpeedX/SDorker](https://github.com/TheSpeedX/SDorker) - SuperDorker gives you a huge list of websites for 0day attacks from Google Dorks
 - [htr-tech/unfollow-plus](https://github.com/htr-tech/unfollow-plus) - Automated Instagram Unfollower Bot
-- [evildevill/instahack](https://github.com/evildevill/instahack) - Best Tool For instagram bruteforce hacking Tool By EvilDevil
 - [th3unkn0n/facebash-termux](https://github.com/th3unkn0n/facebash-termux) - Facebook BruteForce [ By Tor ] Tool For Termux.
 - [noob-hackers/infect](https://github.com/noob-hackers/infect) - Infect Any Android Device With Virus From Link In Termux
 - [noob-hackers/ighack](https://github.com/noob-hackers/ighack) - Hack Instagram From Termux With Help of Tor
