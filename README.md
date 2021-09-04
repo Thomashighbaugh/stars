@@ -405,6 +405,7 @@
 
 ## JavaScript 
 
+- [interactivethings/catalog](https://github.com/interactivethings/catalog) - Create living style guides using Markdown or React
 - [mipmip/awesomewm-screenshots](https://github.com/mipmip/awesomewm-screenshots) - AwesomeWM screenshot gallery. https://mipmip.github.io/awesomewm-screenshots/
 - [BlackCapCoder/scrimba-vim](https://github.com/BlackCapCoder/scrimba-vim) - Edit scrimba projects with vim
 - [HashLips/generative-art-node](https://github.com/HashLips/generative-art-node) - Create generative art by using the canvas api and node js
@@ -736,7 +737,7 @@
 - [basaran/awesomewm-backham](https://github.com/basaran/awesomewm-backham) - automatically focus back to the previous client on minimize and close
 - [ChrisTitusTech/titus-awesome](https://github.com/ChrisTitusTech/titus-awesome) - Custom AwesomeWM Theme
 - [streetturtle/noobie](https://github.com/streetturtle/noobie) - Create a wibar widget for Awesome WM with no lua code!
-- [Maryll-castelino/awesomewm-dotfiles](https://github.com/Maryll-castelino/awesomewm-dotfiles) - my config files for awesomewm
+- [Maryll-castelino/awesomewm-dotfiles](https://github.com/Maryll-castelino/awesomewm-dotfiles) - My config files for awesomewm
 - [purhan/dotfiles](https://github.com/purhan/dotfiles) - 
 - [piotrklibert/awesome-config](https://github.com/piotrklibert/awesome-config) - Configuration and widgets for Awesome WM in Lua and MoonScript
 - [leafo/moonscript](https://github.com/leafo/moonscript) - :crescent_moon: A language that compiles to Lua
@@ -825,6 +826,8 @@
 
 ## Others 
 
+- [nanotee/nvim-lua-guide](https://github.com/nanotee/nvim-lua-guide) - A guide to using Lua in Neovim
+- [Zheaoli/awesome-coins](https://github.com/Zheaoli/awesome-coins) - ₿ A guide (for humans!) to cryto-currencies and their algos.
 - [the-Electric-Tantra-Linux/Bhairava-Grub-Theme](https://github.com/the-Electric-Tantra-Linux/Bhairava-Grub-Theme) - Personal Grub Bootloader Theme
 - [therebelrobot/awesome-workshopper](https://github.com/therebelrobot/awesome-workshopper) - A list of CLI workshopper/adventure tutorials for various things. Inspired by awesome.
 - [tayllan/awesome-algorithms](https://github.com/tayllan/awesome-algorithms) - A curated list of awesome places to learn and/or practice algorithms.
@@ -834,6 +837,7 @@
 - [vitalysim/Awesome-Hacking-Resources](https://github.com/vitalysim/Awesome-Hacking-Resources) - A collection of hacking / penetration testing resources to make you better!
 - [OPEnSLab-OSU/OPEnS-Lab-Home](https://github.com/OPEnSLab-OSU/OPEnS-Lab-Home) - This is the homepage for the Oregon State University OPEnS Lab.
 - [AcaiBerii/Programming-Language-Concepts](https://github.com/AcaiBerii/Programming-Language-Concepts) - concepts of programming languages
+- [ytbryan/devops-resources](https://github.com/ytbryan/devops-resources) - A collection of beginner-friendly DevOps content
 - [Thomashighbaugh/mern-weather-app](https://github.com/Thomashighbaugh/mern-weather-app) - enter a zip code, select unit, get record, save to local storage.
 - [vrushangdev/dankmono](https://github.com/vrushangdev/dankmono) - 
 - [joaopmendes/vscode-config](https://github.com/joaopmendes/vscode-config) - My vscode configuration
@@ -991,7 +995,6 @@
 - [codebasics/cool_python_apps](https://github.com/codebasics/cool_python_apps) - Small and cool python apps including bitcoin mining, language translator etc.
 - [syegulalp/folio](https://github.com/syegulalp/folio) - Python-powered, Markdown-formatted personal wiki
 - [Catboy96/Universal-Linux-Script](https://github.com/Catboy96/Universal-Linux-Script) - A shell script with built-in variables which can simplify Linux shell script writing.
-- [ytbryan/devops-resources](https://github.com/ytbryan/devops-resources) - A collection of beginner-friendly DevOps content
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [ahmed2m/dotfiles](https://github.com/ahmed2m/dotfiles) - My own config dotfiles for qtile/kde/awesomewm on Arch based distros
@@ -1172,6 +1175,7 @@
 
 ## Shell 
 
+- [meain/dotfiles](https://github.com/meain/dotfiles) - If there is a shell, there is a way!
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [smellslikekeenspirit/an-askreddit-list-of-compsci-books](https://github.com/smellslikekeenspirit/an-askreddit-list-of-compsci-books) - books and resources loved by r/learnprogramming community, compiled by me, a lurker who kept track
 - [koalagang/KAI](https://github.com/koalagang/KAI) - Koala's Artix Installer
@@ -1380,6 +1384,7 @@
 
 ## TypeScript 
 
+- [remorses/dokz](https://github.com/remorses/dokz) - Effortless documentation with Next.js and MDX
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
 - [linnovate/mean](https://github.com/linnovate/mean) - The MEAN stack uses Mongo, Express, Angular(6) and Node for simple and scalable fullstack js applications
 - [nitin27may/mean-docker](https://github.com/nitin27may/mean-docker) - A Mean stack (Angular 12.1.2, Expressjs 4.17.1, MongoDB) jump start project with support of docker.
