@@ -161,6 +161,7 @@
 
 ## CSS 
 
+- [ProgrammingFonts/ProgrammingFonts](https://github.com/ProgrammingFonts/ProgrammingFonts) - This is a collection of programming fonts,just share this with the programmers.Now there are 103 kinds of fantastic fonts!
 - [ArtemSmaznov/Dotfiles](https://github.com/ArtemSmaznov/Dotfiles) - A set of personalized dotfiles
 - [Tsuyoken/dotfiles](https://github.com/Tsuyoken/dotfiles) - Backup Dotfiles
 - [Thomashighbaugh/zeal--master](https://github.com/Thomashighbaugh/zeal--master) - 
@@ -405,6 +406,7 @@
 
 ## JavaScript 
 
+- [Nepeus/EnterTheMatrix](https://github.com/Nepeus/EnterTheMatrix) - The most faithful version of the Matrix rain.
 - [interactivethings/catalog](https://github.com/interactivethings/catalog) - Create living style guides using Markdown or React
 - [mipmip/awesomewm-screenshots](https://github.com/mipmip/awesomewm-screenshots) - AwesomeWM screenshot gallery. https://mipmip.github.io/awesomewm-screenshots/
 - [BlackCapCoder/scrimba-vim](https://github.com/BlackCapCoder/scrimba-vim) - Edit scrimba projects with vim
@@ -654,6 +656,10 @@
 
 ## Lua 
 
+- [tumurzakov/awesomewm-config](https://github.com/tumurzakov/awesomewm-config) - 
+- [Elv13/repetitive](https://github.com/Elv13/repetitive) - Repetitive tasks eradicator module for Awesome WM
+- [Elv13/collision](https://github.com/Elv13/collision) - A window management module for AwesomeWM
+- [lilydjwg/myawesomerc](https://github.com/lilydjwg/myawesomerc) - My Awesome WM config files
 - [skbolton/titan](https://github.com/skbolton/titan) - My attempt at making dotfiles super portable
 - [tumurzakov/attachdrop](https://github.com/tumurzakov/attachdrop) - AwesomeWM Quake like windows management
 - [cyrobin/awesome-wm](https://github.com/cyrobin/awesome-wm) - My Awesome WM 3.4 configuration
@@ -990,6 +996,7 @@
 
 ## Python 
 
+- [chrissimpkins/codeface](https://github.com/chrissimpkins/codeface) - Typefaces for source code beautification
 - [cocuh/.dotfiles](https://github.com/cocuh/.dotfiles) - my awesome .dotfiles repository! wow!!
 - [PaddlePaddle/PaddleGAN](https://github.com/PaddlePaddle/PaddleGAN) - PaddlePaddle GAN library, including lots of interesting applications like First-Order motion transfer,  wav2lip, picture repair, image editing, photo2cartoon, image style transfer, and so on.
 - [codebasics/cool_python_apps](https://github.com/codebasics/cool_python_apps) - Small and cool python apps including bitcoin mining, language translator etc.
