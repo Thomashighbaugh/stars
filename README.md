@@ -299,6 +299,7 @@
 
 ## Go 
 
+- [Zamony/wmwm](https://github.com/Zamony/wmwm) - Pure Go autotiling window manager
 - [kubernetes/dashboard](https://github.com/kubernetes/dashboard) - General-purpose web UI for Kubernetes clusters
 - [driusan/dewm](https://github.com/driusan/dewm) - A pure go autotiling window manager written with literate programming
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
@@ -329,6 +330,7 @@
 
 ## HTML 
 
+- [L04DB4L4NC3R/event-email-templates](https://github.com/L04DB4L4NC3R/event-email-templates) - 
 - [jltk/startpages](https://github.com/jltk/startpages) - Static browser frontpages.
 - [iros/patternfills](https://github.com/iros/patternfills) - A collection of svg patterns and build scripts that allow utilizing them in svg, css and d3.
 - [grtcdr/linen](https://github.com/grtcdr/linen) - 🎨 A light, calm and champagne-like colorscheme.
@@ -349,6 +351,7 @@
 - [Thomashighbaugh/Opitx-Docs-Site](https://github.com/Thomashighbaugh/Opitx-Docs-Site) - Documentation for Opitx: Minimalist Markdown Editor
 - [Thomashighbaugh/Hello-Class-Javascript](https://github.com/Thomashighbaugh/Hello-Class-Javascript) - A couple about me pages for a class in basic HTML5/CSS3/JS
 - [Thomashighbaugh/email-branding](https://github.com/Thomashighbaugh/email-branding) - The branded emails I use professionally and job searching, now built from scratch!
+- [Thomashighbaugh/Personal-Site](https://github.com/Thomashighbaugh/Personal-Site) - My portfolio site's new form and fresh branding
 - [hyphenc/startpage](https://github.com/hyphenc/startpage) - my startpage. made for 1080p desktops. the links cater to me, probably not to you.
 - [awesomeWM/awesome-www-backup-old](https://github.com/awesomeWM/awesome-www-backup-old) - Static mirror of the old website
 - [atlemo/SubtlePatterns](https://github.com/atlemo/SubtlePatterns) - All the patterns
@@ -406,6 +409,8 @@
 
 ## JavaScript 
 
+- [nvni/next-tailwindcss](https://github.com/nvni/next-tailwindcss) - NextJs + Tailwind CSS
+- [feiruo/userChromeJS](https://github.com/feiruo/userChromeJS) - Firefox userChromeJS
 - [Nepeus/EnterTheMatrix](https://github.com/Nepeus/EnterTheMatrix) - The most faithful version of the Matrix rain.
 - [interactivethings/catalog](https://github.com/interactivethings/catalog) - Create living style guides using Markdown or React
 - [mipmip/awesomewm-screenshots](https://github.com/mipmip/awesomewm-screenshots) - AwesomeWM screenshot gallery. https://mipmip.github.io/awesomewm-screenshots/
@@ -473,7 +478,6 @@
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [Thomashighbaugh/Opitx](https://github.com/Thomashighbaugh/Opitx) - A Markdown Editor for Those Who Are Tired of Loosing Their Work
 - [Thomashighbaugh/resurgens-iv](https://github.com/Thomashighbaugh/resurgens-iv) - The Fourth Resurgens Portfolio Site. Featuring React!!!
-- [Thomashighbaugh/Personal-Site](https://github.com/Thomashighbaugh/Personal-Site) - My portfolio site's new form and fresh branding
 - [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [mikesprague/my-start-page](https://github.com/mikesprague/my-start-page) - Open source new tab extension
 - [netlify/netlify-cms](https://github.com/netlify/netlify-cms) - A Git-based CMS for Static Site Generators
@@ -498,6 +502,7 @@
 - [dabit3/next.js-amplify-workshop](https://github.com/dabit3/next.js-amplify-workshop) - AWS Amplify Next.js workshop
 - [amiechen/genart](https://github.com/amiechen/genart) - code in, art out
 - [snowpackjs/snowpack](https://github.com/snowpackjs/snowpack) - ESM-powered frontend build tool. Instant, lightweight, unbundled development. ✌️
+- [MaggieAppleton/digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners) - Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs
 - [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) - Show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project readme automatically using the RSS feed
 - [Thomashighbaugh/project-dashboard](https://github.com/Thomashighbaugh/project-dashboard) - Curated list of projects displayed on site using iframes as a quick way to display my demonstrations to employers
 - [mathieudutour/gatsby-digital-garden](https://github.com/mathieudutour/gatsby-digital-garden) - 🌷 🌻 🌺 Create a digital garden with Gatsby
@@ -888,7 +893,6 @@
 - [jedld/android_internals_handbook](https://github.com/jedld/android_internals_handbook) - An unofficial and crazy guide to hacking (in a good way) android on YOUR device. This includes rooting, custom roms and various other tweaks.
 - [may215/awesome-termux-hacking](https://github.com/may215/awesome-termux-hacking) - ⚡️An awesome list of the best Termux hacking tools
 - [atsepkov/awesome-awesome-wm](https://github.com/atsepkov/awesome-awesome-wm) - A curated list of awesome tools/scripts/configs for Awesome Window Manager.
-- [MaggieAppleton/digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners) - Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs
 - [alinebastos/free-courses](https://github.com/alinebastos/free-courses) - Free IT courses
 - [mfornos/awesome-microservices](https://github.com/mfornos/awesome-microservices) - A curated list of Microservice Architecture related principles and technologies.
 - [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) - :books: List of awesome university courses for learning Computer Science!
@@ -1391,6 +1395,7 @@
 
 ## TypeScript 
 
+- [adonig/nextjs-starter-preact-tailwindcss](https://github.com/adonig/nextjs-starter-preact-tailwindcss) - A Next.js starter project coming with Preact and Tailwind CSS built-in.
 - [remorses/dokz](https://github.com/remorses/dokz) - Effortless documentation with Next.js and MDX
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
 - [linnovate/mean](https://github.com/linnovate/mean) - The MEAN stack uses Mongo, Express, Angular(6) and Node for simple and scalable fullstack js applications
