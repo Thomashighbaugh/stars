@@ -331,6 +331,7 @@
 ## HTML 
 
 - [L04DB4L4NC3R/event-email-templates](https://github.com/L04DB4L4NC3R/event-email-templates) - 
+- [the-Electric-Tantra-Linux/awesome](https://github.com/the-Electric-Tantra-Linux/awesome) - the final form of the awesome wm c
 - [jltk/startpages](https://github.com/jltk/startpages) - Static browser frontpages.
 - [iros/patternfills](https://github.com/iros/patternfills) - A collection of svg patterns and build scripts that allow utilizing them in svg, css and d3.
 - [grtcdr/linen](https://github.com/grtcdr/linen) - 🎨 A light, calm and champagne-like colorscheme.
@@ -661,6 +662,11 @@
 
 ## Lua 
 
+- [ciiqr/awesome](https://github.com/ciiqr/awesome) - My awesome rc.lua & related files
+- [MilesBHuff/AwesomeWM-Config](https://github.com/MilesBHuff/AwesomeWM-Config) - My config code for AwesomeWM
+- [francois2metz/pomodoro-awesome](https://github.com/francois2metz/pomodoro-awesome) - Pomodoro widget for the awesome WM
+- [wheatdog/awesome-termgrp](https://github.com/wheatdog/awesome-termgrp) - A saner tmux and awesomeWM integration
+- [timroes/awesome-config](https://github.com/timroes/awesome-config) - My awesome wm configuration.
 - [tumurzakov/awesomewm-config](https://github.com/tumurzakov/awesomewm-config) - 
 - [Elv13/repetitive](https://github.com/Elv13/repetitive) - Repetitive tasks eradicator module for Awesome WM
 - [Elv13/collision](https://github.com/Elv13/collision) - A window management module for AwesomeWM
@@ -673,7 +679,6 @@
 - [mpostaire/dotfiles](https://github.com/mpostaire/dotfiles) - 
 - [figsoda/dotfiles](https://github.com/figsoda/dotfiles) - My dotfiles (nixos + awesome)
 - [kkliebersbach/awesome-md-cfg](https://github.com/kkliebersbach/awesome-md-cfg) - Awesome WM configuration for multiple monitors, inspired by the Material Design guidelines.
-- [the-Electric-Tantra-Linux/awesome](https://github.com/the-Electric-Tantra-Linux/awesome) - the final form of the awesome wm c
 - [aidanharris/awesome-config](https://github.com/aidanharris/awesome-config) - My config files for the Awesome window manager
 - [jcrd/awesome-config](https://github.com/jcrd/awesome-config) - AwesomeWM configuration
 - [Ddorda/awesome](https://github.com/Ddorda/awesome) - My Awesome WM configuration
@@ -1143,7 +1148,6 @@
 - [angela-d/resgen](https://github.com/angela-d/resgen) - Keep track of jobs you've applied to, automate resume & cover letter creation; generate PDFs from .odt templates on the fly while scraping the job post and tracking employer status.
 - [hashicorp/vagrant](https://github.com/hashicorp/vagrant) - Vagrant is a tool for building and distributing development environments.
 - [skwp/dotfiles](https://github.com/skwp/dotfiles) - YADR - The best vim,git,zsh plugins and the cleanest vimrc you've ever seen
-- [phR0ze/cyberlinux](https://github.com/phR0ze/cyberlinux) - Arch Linux based distro for power users that desire full customization, performance and automation
 - [dreverri/gollum-site](https://github.com/dreverri/gollum-site) - Static Site Generator for Gollum Wikis
 - [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
 - [railsbridge/docs](https://github.com/railsbridge/docs) - Curriculum for RailsBridge workshops
@@ -1186,6 +1190,10 @@
 
 ## Shell 
 
+- [ciiqr/installer-void](https://github.com/ciiqr/installer-void) - void linux iso generator which includes my custom config (ciiqr/config)
+- [ciiqr/installer-ubuntu](https://github.com/ciiqr/installer-ubuntu) - preseed configs and related scripts for setting up ubuntu
+- [F33Z/instashell](https://github.com/F33Z/instashell) - Clone of instashell from thelinuxchoice
+- [termuxprofessor/insfollow](https://github.com/termuxprofessor/insfollow) - Best Tool for Increase Instagram Follower.
 - [meain/dotfiles](https://github.com/meain/dotfiles) - If there is a shell, there is a way!
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [smellslikekeenspirit/an-askreddit-list-of-compsci-books](https://github.com/smellslikekeenspirit/an-askreddit-list-of-compsci-books) - books and resources loved by r/learnprogramming community, compiled by me, a lurker who kept track
@@ -1332,6 +1340,7 @@
 - [gsanhueza/ArchISOMaker](https://github.com/gsanhueza/ArchISOMaker) - A custom Arch Linux ISO Maker
 - [Hyzual/docker-gitit](https://github.com/Hyzual/docker-gitit) - Gitit wiki on Docker. Uses debian.
 - [neeasade/dotfiles](https://github.com/neeasade/dotfiles) - garden
+- [phR0ze/cyberlinux](https://github.com/phR0ze/cyberlinux) - Arch Linux based distro for power users that desire full customization, performance and automation
 - [callmezatiel/zarch](https://github.com/callmezatiel/zarch) - The Ultimate Script For Arch Linux
 - [Thomashighbaugh/dotfiles](https://github.com/Thomashighbaugh/dotfiles) - Nevermind the bullocks, here's the dotfiles
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
