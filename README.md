@@ -62,6 +62,7 @@
 
 ## C 
 
+- [moetunes/Nextwm](https://github.com/moetunes/Nextwm) - snapwm is an easy to configure, dynamic, tiling window manager. Built on dminiwm with a desktop switcher, info bar and reloadable rc file.
 - [collinsmichael/spartan](https://github.com/collinsmichael/spartan) - Final Year Project - Multi-Tasking GUI based Operating System designed with usability in mind
 - [varmd/wayward](https://github.com/varmd/wayward) - Fast GTK shell and compositor for wayland and weston.
 - [inclement/vivarium](https://github.com/inclement/vivarium) - A dynamic tiling Wayland compositor using wlroots
@@ -1190,6 +1191,8 @@
 
 ## Shell 
 
+- [Mangeshrex/dotfiles](https://github.com/Mangeshrex/dotfiles) - This repo of my dotfiles containing all the cli-tools or apps I use.
+- [stark/Color-Scripts](https://github.com/stark/Color-Scripts) - User contributed color scripts
 - [ciiqr/installer-void](https://github.com/ciiqr/installer-void) - void linux iso generator which includes my custom config (ciiqr/config)
 - [ciiqr/installer-ubuntu](https://github.com/ciiqr/installer-ubuntu) - preseed configs and related scripts for setting up ubuntu
 - [F33Z/instashell](https://github.com/F33Z/instashell) - Clone of instashell from thelinuxchoice
