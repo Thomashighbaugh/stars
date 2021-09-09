@@ -389,6 +389,7 @@
 
 ## Haskell 
 
+- [srid/neuron](https://github.com/srid/neuron) - Future-proof note-taking and publishing based on Zettelkasten
 - [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 - [phuhl/linux_notification_center](https://github.com/phuhl/linux_notification_center) - A notification daemon/center for linux
@@ -579,7 +580,7 @@
 - [algokun/the404blog](https://github.com/algokun/the404blog) - An OpenSource Fully Working Blog built with GatsbyJS
 - [blahsd/snwe](https://github.com/blahsd/snwe) - 🚀 Extensible, customisable, menubar replacement for macOS/UNIX.
 - [luqin/systemjs-starter-kit](https://github.com/luqin/systemjs-starter-kit) - ES6 Modules starter project that uses Gulp, Babel, SystemJS, React, react-router, react-bootstrap, ECharts, three.js
-- [mjswensen/themer](https://github.com/mjswensen/themer) - 🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).
+- [themerdev/themer](https://github.com/themerdev/themer) - 🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).
 - [Manoz/k-legrand.com](https://github.com/Manoz/k-legrand.com) - My website powered by Gatsby v2 ❤️
 - [nethruster/ptemplate](https://github.com/nethruster/ptemplate) - A personal website template that's not a pain in the ass to setup and use
 - [kremalicious/portfolio](https://github.com/kremalicious/portfolio) - 👔 Portfolio thingy, built with Gatsby
@@ -747,7 +748,6 @@
 - [metaphysys/awm](https://github.com/metaphysys/awm) - Personal Awesome WM GNU/Linux files and config
 - [Caellian/NightSky](https://github.com/Caellian/NightSky) - My Awesome WM configuration script.
 - [warlock90000/awesome](https://github.com/warlock90000/awesome) - 
-- [paranoid73/AwesomeWm-config](https://github.com/paranoid73/AwesomeWm-config) - Awesome WM config
 - [flyboy14/awesomewm](https://github.com/flyboy14/awesomewm) - awesome-git + lua5.3(vicious/lain widgets, shifty, awesompd, xdg-menu and some useful custom functions)
 - [basaran/awesomewm-micky](https://github.com/basaran/awesomewm-micky) - an awesomewm module to automatically move and center your mouse cursor to the active (focused) window.
 - [basaran/awesomewm-machina](https://github.com/basaran/awesomewm-machina) - helper module for layout-machi that allows you to go up and down in a stacked region and client swapping, expansions and visual tabs and more without requiring you to launch the machi switcher.
@@ -843,6 +843,7 @@
 
 ## Others 
 
+- [xexpanderx/Fluxbox-themes](https://github.com/xexpanderx/Fluxbox-themes) - Fluxbox theme collections
 - [nanotee/nvim-lua-guide](https://github.com/nanotee/nvim-lua-guide) - A guide to using Lua in Neovim
 - [Zheaoli/awesome-coins](https://github.com/Zheaoli/awesome-coins) - ₿ A guide (for humans!) to cryto-currencies and their algos.
 - [the-Electric-Tantra-Linux/Bhairava-Grub-Theme](https://github.com/the-Electric-Tantra-Linux/Bhairava-Grub-Theme) - Personal Grub Bootloader Theme
@@ -1383,7 +1384,7 @@
 - [grm34/archboot](https://github.com/grm34/archboot) - 💠 Arch Linux Installer
 - [cbrnix/Newaita](https://github.com/cbrnix/Newaita) - Linux icon theme
 - [Thomashighbaugh/colt45gui](https://github.com/Thomashighbaugh/colt45gui) - Quickly Provision Your Linux Desktop With Useful Applications With a GUI Installer Menu
-- [derkomai/alfred](https://github.com/derkomai/alfred) - A script to install all your favourite applications and perform the most common tasks in GNU/Linux.
+- [dvilelaf/alfred](https://github.com/dvilelaf/alfred) - A script to install all your favourite applications and perform the most common tasks in GNU/Linux.
 - [Blacksuan19/Dotfiles](https://github.com/Blacksuan19/Dotfiles) - various configurations for various packages
 - [vinceliuice/Tela-icon-theme](https://github.com/vinceliuice/Tela-icon-theme) - A flat colorful Design icon theme
 - [powerline/fonts](https://github.com/powerline/fonts) - Patched fonts for Powerline users.
@@ -1498,6 +1499,7 @@
 
 ## Vim script 
 
+- [s3rvac/dotfiles](https://github.com/s3rvac/dotfiles) - My configuration files for git, vim, tmux, bash, fluxbox, etc.
 - [and3rson/dotfiles](https://github.com/and3rson/dotfiles) - My configs: (neo)vim, sway, alacritty, tmux, bash, molokai colors and stolen dircolors.
 - [wincent/corpus](https://github.com/wincent/corpus) - 📝 A note-management application
 - [antoniosarosi/dotfiles](https://github.com/antoniosarosi/dotfiles) - My dotfiles repo, here you can find all my window manager configs as well as documentation and a guide on how to make your own desktop environment.
