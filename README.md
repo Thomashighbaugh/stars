@@ -305,6 +305,8 @@
 
 ## Go 
 
+- [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
+- [rhysd/notes-cli](https://github.com/rhysd/notes-cli) - Small markdown note taking CLI app playing nicely with your favorite editor and other CLI tools
 - [mickael-menu/zk](https://github.com/mickael-menu/zk) - A plain text note-taking assistant
 - [Zamony/wmwm](https://github.com/Zamony/wmwm) - Pure Go autotiling window manager
 - [kubernetes/dashboard](https://github.com/kubernetes/dashboard) - General-purpose web UI for Kubernetes clusters
@@ -337,6 +339,7 @@
 
 ## HTML 
 
+- [rammcodes/Dopefolio](https://github.com/rammcodes/Dopefolio) - Dopefolio 🔥 - Portfolio Template for Developers 🚀
 - [L04DB4L4NC3R/event-email-templates](https://github.com/L04DB4L4NC3R/event-email-templates) - 
 - [the-Electric-Tantra-Linux/awesome](https://github.com/the-Electric-Tantra-Linux/awesome) - the final form of the awesome wm c
 - [jltk/startpages](https://github.com/jltk/startpages) - Static browser frontpages.
@@ -670,6 +673,7 @@
 
 ## Lua 
 
+- [ishchow/nvim-deardiary](https://github.com/ishchow/nvim-deardiary) - Journaling plugin for NeoVim
 - [ciiqr/awesome](https://github.com/ciiqr/awesome) - My awesome rc.lua & related files
 - [MilesBHuff/AwesomeWM-Config](https://github.com/MilesBHuff/AwesomeWM-Config) - My config code for AwesomeWM
 - [francois2metz/pomodoro-awesome](https://github.com/francois2metz/pomodoro-awesome) - Pomodoro widget for the awesome WM
@@ -915,7 +919,6 @@
 - [sundowndev/hacker-roadmap](https://github.com/sundowndev/hacker-roadmap) - :pushpin: Your beginner pen-testing start guide. A guide for amateur pen testers and a collection of hacking tools, resources and references to practice ethical hacking and web security.
 - [balena-io-playground/awesome-balena](https://github.com/balena-io-playground/awesome-balena) - A curated list of helpful balena.io resources.
 - [jovanzers/jovanzers](https://github.com/jovanzers/jovanzers) - Don't just fork, star it! 👀
-- [Thomashighbaugh/Thomashighbaugh](https://github.com/Thomashighbaugh/Thomashighbaugh) - Profile ReadMe featuring my custom art
 - [AchrafIdir/SublimeText-3211-License-Key-](https://github.com/AchrafIdir/SublimeText-3211-License-Key-) - 
 - [Crelloc/c-style](https://github.com/Crelloc/c-style) - My favorite C programming practices.
 - [sindresorhus/css-in-readme-like-wat](https://github.com/sindresorhus/css-in-readme-like-wat) - Style your readme using CSS with this simple trick
@@ -1013,6 +1016,7 @@
 
 ## Python 
 
+- [kovidgoyal/bypy](https://github.com/kovidgoyal/bypy) - 
 - [chrissimpkins/codeface](https://github.com/chrissimpkins/codeface) - Typefaces for source code beautification
 - [cocuh/.dotfiles](https://github.com/cocuh/.dotfiles) - my awesome .dotfiles repository! wow!!
 - [PaddlePaddle/PaddleGAN](https://github.com/PaddlePaddle/PaddleGAN) - PaddlePaddle GAN library, including lots of interesting applications like First-Order motion transfer,  wav2lip, picture repair, image editing, photo2cartoon, image style transfer, and so on.
@@ -1076,6 +1080,7 @@
 - [bats3c/darkarmour](https://github.com/bats3c/darkarmour) - Windows AV Evasion
 - [loseys/Oblivion](https://github.com/loseys/Oblivion) - Data leak checker & OSINT Tool
 - [mxrch/GHunt](https://github.com/mxrch/GHunt) - 🕵️‍♂️ Investigate Google emails and documents.
+- [Thomashighbaugh/Thomashighbaugh](https://github.com/Thomashighbaugh/Thomashighbaugh) - Profile ReadMe featuring my custom art
 - [jrieke/traingenerator](https://github.com/jrieke/traingenerator) - 🧙 A web app to generate template code for machine learning
 - [evildevill/instahack](https://github.com/evildevill/instahack) - Best Tool For instagram OSINT & Bruteforce hacking Tool By Waseem Akram. Made in Python , Bash
 - [noob-hackers/lazybee](https://github.com/noob-hackers/lazybee) - Create Best Wordlist From Python Tool In Termux
@@ -1198,6 +1203,7 @@
 
 ## Shell 
 
+- [totoro-ghost/dotfiles](https://github.com/totoro-ghost/dotfiles) - My dotfiles.
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 - [dcchambers/note-keeper](https://github.com/dcchambers/note-keeper) - :notebook: A tiny bash tool for taking and organizing notes.
 - [Mangeshrex/dotfiles](https://github.com/Mangeshrex/dotfiles) - This repo of my dotfiles containing all the cli-tools or apps I use.
