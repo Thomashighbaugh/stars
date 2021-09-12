@@ -519,7 +519,6 @@
 - [Thomashighbaugh/project-dashboard](https://github.com/Thomashighbaugh/project-dashboard) - Curated list of projects displayed on site using iframes as a quick way to display my demonstrations to employers
 - [mathieudutour/gatsby-digital-garden](https://github.com/mathieudutour/gatsby-digital-garden) - 🌷 🌻 🌺 Create a digital garden with Gatsby
 - [Thomashighbaugh/resume](https://github.com/Thomashighbaugh/resume) - An HTML resume styled with Tailwind.css based on Universal Resume
-- [gregwolanski/eleventy-tailwindcss-alpinejs-starter](https://github.com/gregwolanski/eleventy-tailwindcss-alpinejs-starter) - 
 - [atapas/demolab](https://github.com/atapas/demolab) - Demolab is my fantasy project created to understand the power of JAMstack using JavaScript(Reactjs), API(Netlify and Aws) and pre-built Markup(Gatsby).
 - [atapas/theme-builder](https://github.com/atapas/theme-builder) - The theming system helps you in building a theme of your choice and apply it to test live. Why wait? Just give it a try.
 - [appium/appium](https://github.com/appium/appium) - :iphone: Automation for iOS, Android, and Windows Apps.
@@ -845,6 +844,7 @@
 ## Nunjucks 
 
 - [scottishstoater/eleventy-web-starter](https://github.com/scottishstoater/eleventy-web-starter) - Eleventy Web Starter is a lightweight Eleventy boilerplate utilising, ESBuild Tailwind and PostCSS.
+- [gregwolanski/eleventy-tailwindcss-alpinejs-starter](https://github.com/gregwolanski/eleventy-tailwindcss-alpinejs-starter) - 
 - [GoogleChromeLabs/quicklink](https://github.com/GoogleChromeLabs/quicklink) - ⚡️Faster subsequent page-loads by prefetching in-viewport links during idle time
 
 ## Objective-C 
