@@ -362,7 +362,6 @@
 - [Thomashighbaugh/Opitx-Docs-Site](https://github.com/Thomashighbaugh/Opitx-Docs-Site) - Documentation for Opitx: Minimalist Markdown Editor
 - [Thomashighbaugh/Hello-Class-Javascript](https://github.com/Thomashighbaugh/Hello-Class-Javascript) - A couple about me pages for a class in basic HTML5/CSS3/JS
 - [Thomashighbaugh/email-branding](https://github.com/Thomashighbaugh/email-branding) - The branded emails I use professionally and job searching, now built from scratch!
-- [Thomashighbaugh/Personal-Site](https://github.com/Thomashighbaugh/Personal-Site) - My portfolio site's new form and fresh branding
 - [hyphenc/startpage](https://github.com/hyphenc/startpage) - my startpage. made for 1080p desktops. the links cater to me, probably not to you.
 - [awesomeWM/awesome-www-backup-old](https://github.com/awesomeWM/awesome-www-backup-old) - Static mirror of the old website
 - [atlemo/SubtlePatterns](https://github.com/atlemo/SubtlePatterns) - All the patterns
@@ -490,6 +489,7 @@
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [Thomashighbaugh/Opitx](https://github.com/Thomashighbaugh/Opitx) - A Markdown Editor for Those Who Are Tired of Loosing Their Work
 - [Thomashighbaugh/resurgens-iv](https://github.com/Thomashighbaugh/resurgens-iv) - The Fourth Resurgens Portfolio Site. Featuring React!!!
+- [Thomashighbaugh/Personal-Site](https://github.com/Thomashighbaugh/Personal-Site) - My portfolio site's new form and fresh branding
 - [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [mikesprague/my-start-page](https://github.com/mikesprague/my-start-page) - Open source new tab extension
 - [netlify/netlify-cms](https://github.com/netlify/netlify-cms) - A Git-based CMS for Static Site Generators
@@ -1216,7 +1216,6 @@
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [smellslikekeenspirit/an-askreddit-list-of-compsci-books](https://github.com/smellslikekeenspirit/an-askreddit-list-of-compsci-books) - books and resources loved by r/learnprogramming community, compiled by me, a lurker who kept track
 - [koalagang/KAI](https://github.com/koalagang/KAI) - Koala's Artix Installer
-- [cemkeylan/vcarbs](https://github.com/cemkeylan/vcarbs) - Cem's Auto Rice Bootstrapping Scripts for Void Linux (mirror)
 - [void-linux/void-mklive](https://github.com/void-linux/void-mklive) - The Void Linux live image maker
 - [sinetoami/vpsm](https://github.com/sinetoami/vpsm) - vpsm - Void-Packages Sources Management wrapper for XBPS-SRC
 - [keithieopia/piu](https://github.com/keithieopia/piu) - Cross platform package manager wrapper
@@ -1252,7 +1251,7 @@
 - [dotnet/core](https://github.com/dotnet/core) - Home repository for .NET Core
 - [bats-core/bats-core](https://github.com/bats-core/bats-core) - Bash Automated Testing System
 - [kubernetes/examples](https://github.com/kubernetes/examples) - Kubernetes application example tutorials
-- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful personal server OS for a Raspberry Pi or any Linux machine
+- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful personal server OS for a Raspberry Pi or any Linux distro for running self-hosted apps
 - [kaldi-asr/kaldi](https://github.com/kaldi-asr/kaldi) - kaldi-asr/kaldi is the official location of the Kaldi project.
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [holman/dotfiles](https://github.com/holman/dotfiles) - @holman does dotfiles
