@@ -163,6 +163,7 @@
 
 ## CSS 
 
+- [FrenzyExists/dotfiles](https://github.com/FrenzyExists/dotfiles) - My dotfiles, is not much but is something
 - [ProgrammingFonts/ProgrammingFonts](https://github.com/ProgrammingFonts/ProgrammingFonts) - This is a collection of programming fonts,just share this with the programmers.Now there are 103 kinds of fantastic fonts!
 - [ArtemSmaznov/Dotfiles](https://github.com/ArtemSmaznov/Dotfiles) - A set of personalized dotfiles
 - [Tsuyoken/dotfiles](https://github.com/Tsuyoken/dotfiles) - Backup Dotfiles
@@ -420,6 +421,7 @@
 
 ## JavaScript 
 
+- [vivek9patel/vivek9patel.github.io](https://github.com/vivek9patel/vivek9patel.github.io) - Personal portfolio website of theme Ubuntu 20.04, made using NEXT.js & tailwind CSS
 - [nvni/next-tailwindcss](https://github.com/nvni/next-tailwindcss) - NextJs + Tailwind CSS
 - [feiruo/userChromeJS](https://github.com/feiruo/userChromeJS) - Firefox userChromeJS
 - [Nepeus/EnterTheMatrix](https://github.com/Nepeus/EnterTheMatrix) - The most faithful version of the Matrix rain.
@@ -794,7 +796,7 @@
 - [BlingCorp/bling](https://github.com/BlingCorp/bling) - Utilities for the awesome window manager
 - [mut-ex/awesome-wm-nice](https://github.com/mut-ex/awesome-wm-nice) - An Awesome WM module that add MacOS-like window decorations, with seamless titlebars, double click to maximize, and window shade feature
 - [manilarome/the-glorious-dotfiles](https://github.com/manilarome/the-glorious-dotfiles) - A glorified personal dot files
-- [rajshekhar26/dotfiles](https://github.com/rajshekhar26/dotfiles) - My dotfiles
+- [rajshekhar26/dotfiles](https://github.com/rajshekhar26/dotfiles) - My dotfiles.
 - [Eredarion/dotfiles](https://github.com/Eredarion/dotfiles) - ~!Dotfiles
 - [pltanton/net_widgets](https://github.com/pltanton/net_widgets) - Network widgets for Awesome WM
 - [WillPower3309/awesome-dotfiles](https://github.com/WillPower3309/awesome-dotfiles) - Dotfiles for awesome people using the awesomewm linux environment
@@ -844,7 +846,7 @@
 ## Nunjucks 
 
 - [scottishstoater/eleventy-web-starter](https://github.com/scottishstoater/eleventy-web-starter) - Eleventy Web Starter is a lightweight Eleventy boilerplate utilising, ESBuild Tailwind and PostCSS.
-- [gregwolanski/eleventy-tailwindcss-alpinejs-starter](https://github.com/gregwolanski/eleventy-tailwindcss-alpinejs-starter) - 
+- [gregwolanski/eleventy-tailwindcss-alpinejs-starter](https://github.com/gregwolanski/eleventy-tailwindcss-alpinejs-starter) - A starter repository showing how to build a website with the Eleventy, Tailwind CSS, and Alpine.js. Learn more: https://css-tricks.com/eleventy-starter-with-tailwind-css-alpine-js/
 - [GoogleChromeLabs/quicklink](https://github.com/GoogleChromeLabs/quicklink) - ⚡️Faster subsequent page-loads by prefetching in-viewport links during idle time
 
 ## Objective-C 
@@ -1169,6 +1171,7 @@
 
 ## Rust 
 
+- [MartinKavik/kavik.cz](https://github.com/MartinKavik/kavik.cz) - Personal website in Rust.
 - [elkowar/eww](https://github.com/elkowar/eww) - ElKowars wacky widgets
 - [Kintaro/wtftw](https://github.com/Kintaro/wtftw) - Window Tiling For The Win. A tiling window manager written in Rust
 - [perceptia/perceptia](https://github.com/perceptia/perceptia) - Dynamic window manager with support for Wayland
@@ -1180,7 +1183,7 @@
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [Misterio77/flavours](https://github.com/Misterio77/flavours) - 🎨💧 An easy to use base16 scheme manager/builder that integrates with any workflow.
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
-- [hecrj/iced](https://github.com/hecrj/iced) - A cross-platform GUI library for Rust, inspired by Elm
+- [iced-rs/iced](https://github.com/iced-rs/iced) - A cross-platform GUI library for Rust, inspired by Elm
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 
 ## SCSS 
