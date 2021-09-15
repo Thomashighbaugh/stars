@@ -935,7 +935,6 @@
 - [mehransab101/The-Linux-Command-Line_William-Shots](https://github.com/mehransab101/The-Linux-Command-Line_William-Shots) - The Linux Command Line Fourth Internet Edition William Shotts
 - [Thomashighbaugh/awesomewm](https://github.com/Thomashighbaugh/awesomewm) - A submodule of my dotfiles for Awesome Window Manager Related Config Files
 - [kylelobo/The-Documentation-Compendium](https://github.com/kylelobo/The-Documentation-Compendium) - 📢 Various README templates & tips on writing high-quality documentation that people want to read.
-- [brettkromkamp/awesome-knowledge-management](https://github.com/brettkromkamp/awesome-knowledge-management) - A curated list of amazingly awesome articles, people, applications, software libraries and projects related to the knowledge management space
 - [RichardLitt/meta-knowledge](https://github.com/RichardLitt/meta-knowledge) - 💡 A list of knowledge repositories
 - [NirantK/awesome-project-ideas](https://github.com/NirantK/awesome-project-ideas) - Curated list of Machine Learning, NLP, Vision, Recommender Systems Project Ideas
 - [bakkeby/patches](https://github.com/bakkeby/patches) - Collection of patches for dwm, st and dmenu
@@ -1018,6 +1017,9 @@
 
 ## Python 
 
+- [0xarman/Hack-Insta](https://github.com/0xarman/Hack-Insta) - 
+- [SusmithKrishnan/torghost](https://github.com/SusmithKrishnan/torghost) - TorGhost is an anonymization script. TorGhost redirects all internet traffic through SOCKS5 tor proxy. DNS requests are also redirected via tor, thus preventing DNSLeak. The scripts also disables unsafe packets exiting the system. Some packets like ping request can compromise your identity.
+- [mrprogrammer2938/Black-Tool](https://github.com/mrprogrammer2938/Black-Tool) - Install the tools and start  Attacking !
 - [kovidgoyal/bypy](https://github.com/kovidgoyal/bypy) - 
 - [chrissimpkins/codeface](https://github.com/chrissimpkins/codeface) - Typefaces for source code beautification
 - [cocuh/.dotfiles](https://github.com/cocuh/.dotfiles) - my awesome .dotfiles repository! wow!!
