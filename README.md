@@ -165,7 +165,7 @@
 
 - [FrenzyExists/dotfiles](https://github.com/FrenzyExists/dotfiles) - My dotfiles, is not much but is something
 - [ProgrammingFonts/ProgrammingFonts](https://github.com/ProgrammingFonts/ProgrammingFonts) - This is a collection of programming fonts,just share this with the programmers.Now there are 103 kinds of fantastic fonts!
-- [ArtemSmaznov/Dotfiles](https://github.com/ArtemSmaznov/Dotfiles) - A set of personalized dotfiles
+- [ArtemSmaznov/Dotfiles](https://github.com/ArtemSmaznov/Dotfiles) - A collection of personal dotfiles
 - [Tsuyoken/dotfiles](https://github.com/Tsuyoken/dotfiles) - Backup Dotfiles
 - [Thomashighbaugh/zeal--master](https://github.com/Thomashighbaugh/zeal--master) - 
 - [Mrcuve0/Aritim-Dark](https://github.com/Mrcuve0/Aritim-Dark) - A Dark theme for both KDE and GTK based DEs, deeply inspired by the Ayu Dark color palette
@@ -674,6 +674,7 @@
 
 ## Lua 
 
+- [AfoHT/taggrid](https://github.com/AfoHT/taggrid) - AwesomeWM extension providing a tag grid
 - [ishchow/nvim-deardiary](https://github.com/ishchow/nvim-deardiary) - Journaling plugin for NeoVim
 - [ciiqr/awesome](https://github.com/ciiqr/awesome) - My awesome rc.lua & related files
 - [MilesBHuff/AwesomeWM-Config](https://github.com/MilesBHuff/AwesomeWM-Config) - My config code for AwesomeWM
@@ -703,7 +704,7 @@
 - [MohamedIrfanAM/AwesomeWM](https://github.com/MohamedIrfanAM/AwesomeWM) - My Awesome window manager config
 - [troglobit/awesome-config](https://github.com/troglobit/awesome-config) - My awesome window manager configuration
 - [jaypei/hh-awesome](https://github.com/jaypei/hh-awesome) - A framework for Awesome WM config
-- [ArtemSmaznov/AwesomeWM](https://github.com/ArtemSmaznov/AwesomeWM) - Config for git version of AwesomeWM
+- [ArtemSmaznov/AwesomeWM](https://github.com/ArtemSmaznov/AwesomeWM) - Extremely customizable window manager written in Lua
 - [macunha1/awesomewm-memory-notifier](https://github.com/macunha1/awesomewm-memory-notifier) - Simple and minimalistic memory (RAM) pop-up notifier for AwesomeWM.
 - [apaulau/awesome-config](https://github.com/apaulau/awesome-config) - Awesome WM config
 - [alfunx/.dotfiles](https://github.com/alfunx/.dotfiles) - There's no place like ~ !
@@ -855,6 +856,7 @@
 
 ## Others 
 
+- [digmorepaka/thinkpad-firmware-patches](https://github.com/digmorepaka/thinkpad-firmware-patches) - Collection of ThinkPad UEFI patches.
 - [xexpanderx/Fluxbox-themes](https://github.com/xexpanderx/Fluxbox-themes) - Fluxbox theme collections
 - [nanotee/nvim-lua-guide](https://github.com/nanotee/nvim-lua-guide) - A guide to using Lua in Neovim
 - [Zheaoli/awesome-coins](https://github.com/Zheaoli/awesome-coins) - ₿ A guide (for humans!) to cryto-currencies and their algos.
@@ -1535,7 +1537,7 @@
 - [Shishqa/dotfiles-old](https://github.com/Shishqa/dotfiles-old) - 
 - [sainnhe/everforest](https://github.com/sainnhe/everforest) - 🌲 Comfortable & Pleasant Color Scheme for Vim
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
-- [mklan/dotfiles](https://github.com/mklan/dotfiles) - personal arch/bspwm/polybar config
+- [mklan/dotfiles](https://github.com/mklan/dotfiles) - personal GNU/Linux system configuration
 - [jaredallard/dotfiles](https://github.com/jaredallard/dotfiles) - These are my dotfiles. There are many like them, but these are mine.
 
 ## Vue 
