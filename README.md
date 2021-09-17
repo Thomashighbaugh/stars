@@ -63,6 +63,7 @@
 
 ## C 
 
+- [nullsecuritynet/tools](https://github.com/nullsecuritynet/tools) - Security and Hacking Tools, Exploits, Proof of Concepts, Shellcodes, Scripts.
 - [moetunes/Nextwm](https://github.com/moetunes/Nextwm) - snapwm is an easy to configure, dynamic, tiling window manager. Built on dminiwm with a desktop switcher, info bar and reloadable rc file.
 - [collinsmichael/spartan](https://github.com/collinsmichael/spartan) - Final Year Project - Multi-Tasking GUI based Operating System designed with usability in mind
 - [varmd/wayward](https://github.com/varmd/wayward) - Fast GTK shell and compositor for wayland and weston.
@@ -103,6 +104,7 @@
 - [LukeSmithxyz/dwmblocks](https://github.com/LukeSmithxyz/dwmblocks) - My status bar: my build of the modular dwmblocks
 - [ashish-yadav11/dwmblocks](https://github.com/ashish-yadav11/dwmblocks) - Rewrite of dwmblocks with added features including clickability, cursor hinting and color.
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
+- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 100 supported car makes and models.
 - [kaugm/mmwm](https://github.com/kaugm/mmwm) - Modern Minimalistic Window Manager
 - [salman-abedin/devour](https://github.com/salman-abedin/devour) - X11 window swallower
 - [baskerville/xtitle](https://github.com/baskerville/xtitle) - Outputs X window titles
@@ -141,7 +143,6 @@
 - [xournalpp/xournalpp](https://github.com/xournalpp/xournalpp) - Xournal++ is a handwriting notetaking software with PDF annotation support. Written in C++ with GTK3, supporting Linux (e.g. Ubuntu, Debian, Arch, SUSE), macOS and Windows 10. Supports pen input from devices such as Wacom Tablets.
 - [enkore/j4-dmenu-desktop](https://github.com/enkore/j4-dmenu-desktop) - A fast desktop menu
 - [lxqt/libqtxdg](https://github.com/lxqt/libqtxdg) - Qt implementation of freedesktop.org xdg specs
-- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 100 supported car makes and models.
 - [lxqt/pcmanfm-qt](https://github.com/lxqt/pcmanfm-qt) - File manager and desktop icon manager (Qt port of PCManFM and libfm)
 - [lxqt/lxqt-globalkeys](https://github.com/lxqt/lxqt-globalkeys) - Daemon used to register global keyboard shortcuts
 - [tsujan/FeatherPad](https://github.com/tsujan/FeatherPad) - Lightweight Qt Plain-Text Editor for Linux
@@ -310,6 +311,7 @@
 - [rhysd/notes-cli](https://github.com/rhysd/notes-cli) - Small markdown note taking CLI app playing nicely with your favorite editor and other CLI tools
 - [mickael-menu/zk](https://github.com/mickael-menu/zk) - A plain text note-taking assistant
 - [Zamony/wmwm](https://github.com/Zamony/wmwm) - Pure Go autotiling window manager
+- [tharsis/ethermint](https://github.com/tharsis/ethermint) - Ethermint is a scalable and interoperable Ethereum, built on Proof-of-Stake with fast-finality using the Cosmos SDK.
 - [kubernetes/dashboard](https://github.com/kubernetes/dashboard) - General-purpose web UI for Kubernetes clusters
 - [driusan/dewm](https://github.com/driusan/dewm) - A pure go autotiling window manager written with literate programming
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
@@ -433,7 +435,6 @@
 - [timothypholmes/startup-page](https://github.com/timothypholmes/startup-page) - A custom startup page for your browser.
 - [YouTransfer/YouTransfer](https://github.com/YouTransfer/YouTransfer) - The simple but elegant self-hosted file transfer & sharing solution
 - [LingDong-/fishdraw](https://github.com/LingDong-/fishdraw) - procedurally generated fish drawings
-- [tharsis/ethermint](https://github.com/tharsis/ethermint) - Ethermint is a scalable and interoperable Ethereum, built on Proof-of-Stake with fast-finality using the Cosmos SDK.
 - [ruslang02/atomos](https://github.com/ruslang02/atomos) - JS-based Linux desktop environment.
 - [trufflesuite/truffle](https://github.com/trufflesuite/truffle) - A tool for developing smart contracts. Crafted with the finest cacaos.
 - [gautamkrishnar/refined-github-feeds](https://github.com/gautamkrishnar/refined-github-feeds) - This browser extension enables you to filter the GitHub news feeds based on different event types.
@@ -770,7 +771,7 @@
 - [purhan/dotfiles](https://github.com/purhan/dotfiles) - 
 - [piotrklibert/awesome-config](https://github.com/piotrklibert/awesome-config) - Configuration and widgets for Awesome WM in Lua and MoonScript
 - [leafo/moonscript](https://github.com/leafo/moonscript) - :crescent_moon: A language that compiles to Lua
-- [projekt0n/github-nvim-theme](https://github.com/projekt0n/github-nvim-theme) - Github theme for Neovim, tmux, kitty, iTerm, Konsole, and Alacritty written in Lua
+- [projekt0n/github-nvim-theme](https://github.com/projekt0n/github-nvim-theme) - Github theme for Neovim, kitty, iTerm, Konsole, and Alacritty written in Lua
 - [diegosalazarCO/awesome-wm](https://github.com/diegosalazarCO/awesome-wm) - Configs for the Awesome Window Manager
 - [elenapan/archlabs-awesome](https://github.com/elenapan/archlabs-awesome) - AwesomeWM flavor for ArchLabs
 - [kotbaton/awesomewm-config](https://github.com/kotbaton/awesomewm-config) - My configuration for awesome WM
@@ -1019,6 +1020,7 @@
 
 ## Python 
 
+- [Naategh/PyCk](https://github.com/Naategh/PyCk) - A collection of useful Python hacking scripts for beginners
 - [0xarman/Hack-Insta](https://github.com/0xarman/Hack-Insta) - 
 - [SusmithKrishnan/torghost](https://github.com/SusmithKrishnan/torghost) - TorGhost is an anonymization script. TorGhost redirects all internet traffic through SOCKS5 tor proxy. DNS requests are also redirected via tor, thus preventing DNSLeak. The scripts also disables unsafe packets exiting the system. Some packets like ping request can compromise your identity.
 - [mrprogrammer2938/Black-Tool](https://github.com/mrprogrammer2938/Black-Tool) - Install the tools and start  Attacking !
@@ -1428,6 +1430,7 @@
 
 ## TypeScript 
 
+- [lailo/next-with-tailwindcss](https://github.com/lailo/next-with-tailwindcss) - NextJS with TypeScript and TailwindCSS (with dark theme switch)
 - [adonig/nextjs-starter-preact-tailwindcss](https://github.com/adonig/nextjs-starter-preact-tailwindcss) - A Next.js starter project coming with Preact and Tailwind CSS built-in.
 - [remorses/dokz](https://github.com/remorses/dokz) - Effortless documentation with Next.js and MDX
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
