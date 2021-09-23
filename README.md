@@ -37,6 +37,7 @@
   - [MoonScript](#moonscript)
   - [NSIS](#nsis)
   - [Nim](#nim)
+  - [Nix](#nix)
   - [Nunjucks](#nunjucks)
   - [Objective-C](#objective-c)
   - [Others](#others)
@@ -184,7 +185,7 @@
 - [solus-project/evopop-gtk-theme](https://github.com/solus-project/evopop-gtk-theme) - Modern Desktop Theme Suite
 - [creativetimofficial/tailwind-starter-kit](https://github.com/creativetimofficial/tailwind-starter-kit) - Tailwind Starter Kit a beautiful extension for TailwindCSS, Free and Open Source
 - [elenapan/dotfiles](https://github.com/elenapan/dotfiles) - There is no place like ~/
-- [owl4ce/dotfiles](https://github.com/owl4ce/dotfiles) - :cherry_blossom: Aesthetic OpenboxWM Environment. Completed setup, integrated, and high-performance. Read the README.md!
+- [owl4ce/dotfiles](https://github.com/owl4ce/dotfiles) - :cherry_blossom: Aesthetic OpenboxWM Environment
 - [Thomashighbaugh/electric-tantra-linux-iso](https://github.com/Thomashighbaugh/electric-tantra-linux-iso) - the files used to build Electric Tantra Linux, my iso demo of my dotfiles WIP
 - [Thomashighbaugh/firefox](https://github.com/Thomashighbaugh/firefox) - Firefox customizations, part of my dotfiles separated for my sanity
 - [obliviousofcraps/mf-dots](https://github.com/obliviousofcraps/mf-dots) - These are some of my ridiculously shit dotfiles that I use in my unproductive daily life.
@@ -532,7 +533,7 @@
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [thisisroi/roi-portfolio](https://github.com/thisisroi/roi-portfolio) - ✨ Portfolio site created using Nextjs.
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (August 2021)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (September 2021)
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across +900 social media \ websites (Detections are updated regularly)
 - [ohansemmanuel/react-hooks-cheatsheet](https://github.com/ohansemmanuel/react-hooks-cheatsheet) - 🦖 React hooks cheatsheet with live editable examples
 - [yTakkar/React-Instagram-Clone-2.0](https://github.com/yTakkar/React-Instagram-Clone-2.0) - A reactive Single-Page Instagram-Clone with some new features!! 💪📸👓 - No longer maintained.
@@ -850,6 +851,10 @@
 - [juancarlospaco/nim-chonker](https://github.com/juancarlospaco/nim-chonker) - Arch Linux Pacman Optimizer: Your Arch Linux is too fat, lets make it lightweight
 - [avahe-kellenberger/nimdow](https://github.com/avahe-kellenberger/nimdow) - A window manager written in Nim (In Development)
 
+## Nix 
+
+- [nix-community/nixos-generators](https://github.com/nix-community/nixos-generators) - Collection of image builders [maintainer=@Lassulus]
+
 ## Nunjucks 
 
 - [scottishstoater/eleventy-web-starter](https://github.com/scottishstoater/eleventy-web-starter) - Eleventy Web Starter is a lightweight Eleventy boilerplate utilising, ESBuild Tailwind and PostCSS.
@@ -862,6 +867,7 @@
 
 ## Others 
 
+- [thelearn-tech/Alpine-Linux-GUI](https://github.com/thelearn-tech/Alpine-Linux-GUI) - How to install GUI on Alpine Linux
 - [digmorepaka/thinkpad-firmware-patches](https://github.com/digmorepaka/thinkpad-firmware-patches) - Collection of ThinkPad UEFI patches.
 - [xexpanderx/Fluxbox-themes](https://github.com/xexpanderx/Fluxbox-themes) - Fluxbox theme collections
 - [nanotee/nvim-lua-guide](https://github.com/nanotee/nvim-lua-guide) - A guide to using Lua in Neovim
@@ -1219,6 +1225,12 @@
 
 ## Shell 
 
+- [keithieopia/piu](https://github.com/keithieopia/piu) - Cross platform package manager wrapper
+- [sineto/vpsm](https://github.com/sineto/vpsm) - vpsm - Void-Packages Sources Management wrapper for XBPS-SRC
+- [xbps-install/deployvoid](https://github.com/xbps-install/deployvoid) - sets up a void linux installation and installs stuff i want
+- [fabnicol/mkg](https://github.com/fabnicol/mkg) - Gentoo Linux automatic installer and bootable ISO maker.
+- [jcmdln/gein](https://github.com/jcmdln/gein) - GEntoo INstaller
+- [march-linux/march-overlay](https://github.com/march-linux/march-overlay) - march default system config
 - [shade-linux/soul](https://github.com/shade-linux/soul) - A dotfile manager
 - [linuxdotexe/nordic-wallpapers](https://github.com/linuxdotexe/nordic-wallpapers) - A collection of wallpapers that go well with the rices inspired by the Nord Colorscheme
 - [oracle/vagrant-projects](https://github.com/oracle/vagrant-projects) - Vagrant projects for Oracle products and other examples
@@ -1239,7 +1251,6 @@
 - [koalagang/KAI](https://github.com/koalagang/KAI) - Koala's Artix Installer
 - [void-linux/void-mklive](https://github.com/void-linux/void-mklive) - The Void Linux live image maker
 - [sinetoami/vpsm](https://github.com/sinetoami/vpsm) - vpsm - Void-Packages Sources Management wrapper for XBPS-SRC
-- [keithieopia/piu](https://github.com/keithieopia/piu) - Cross platform package manager wrapper
 - [bahamas10/vsv](https://github.com/bahamas10/vsv) - Manage and view runit services
 - [netzverweigerer/vpm](https://github.com/netzverweigerer/vpm) - vpm - An XBPS package management helper for VoidLinux
 - [ifreund/dotfiles](https://github.com/ifreund/dotfiles) - My configuration for void linux and river
@@ -1283,7 +1294,7 @@
 - [davatorium/rofi-scripts](https://github.com/davatorium/rofi-scripts) - Small scripts for use with rofi
 - [sgleizes/xsh](https://github.com/sgleizes/xsh) - A simple framework for shell configuration management.
 - [ODEX-TOS/packages](https://github.com/ODEX-TOS/packages) - Closely follow Arch Linux packages
-- [archcraft-os/archcraft-pkgs](https://github.com/archcraft-os/archcraft-pkgs) - // Repository : Compiled Packages
+- [archcraft-os/archcraft-pkgs](https://github.com/archcraft-os/archcraft-pkgs) - // Repository : Obsoleted
 - [Thomashighbaugh/arch_install](https://github.com/Thomashighbaugh/arch_install) - Menu-driven dialog driven installation script using dialog (looks like debian installation menu).
 - [luminusOS/mkluminus](https://github.com/luminusOS/mkluminus) - Script tool for creating Luminus image
 - [brinkOS/brinkOS-assets](https://github.com/brinkOS/brinkOS-assets) - Assets package for brinkOS
