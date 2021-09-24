@@ -1296,7 +1296,7 @@
 - [ODEX-TOS/packages](https://github.com/ODEX-TOS/packages) - Closely follow Arch Linux packages
 - [archcraft-os/archcraft-pkgs](https://github.com/archcraft-os/archcraft-pkgs) - // Repository : Obsoleted
 - [Thomashighbaugh/arch_install](https://github.com/Thomashighbaugh/arch_install) - Menu-driven dialog driven installation script using dialog (looks like debian installation menu).
-- [luminusOS/mkluminus](https://github.com/luminusOS/mkluminus) - Script tool for creating Luminus image
+- [luminusOS/mkluminus](https://github.com/luminusOS/mkluminus) - Script for creating Luminus OS ISO image. Forked and modified from original mkarchiso.
 - [brinkOS/brinkOS-assets](https://github.com/brinkOS/brinkOS-assets) - Assets package for brinkOS
 - [joestandring/dwm-bar](https://github.com/joestandring/dwm-bar) - A modular statusbar for dwm
 - [xero/glitchlock](https://github.com/xero/glitchlock) - a glitch art themed randomized lockscreen for linux
