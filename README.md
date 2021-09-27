@@ -683,6 +683,7 @@
 
 ## Lua 
 
+- [hoelzro/awesome-config](https://github.com/hoelzro/awesome-config) - My Awesome configuration
 - [ChocolateBread799/Awesomewm_Dots](https://github.com/ChocolateBread799/Awesomewm_Dots) - 
 - [optimizacija/neovim-config](https://github.com/optimizacija/neovim-config) - Modern NeoVim config for IDE-like development
 - [worron/awesome-config](https://github.com/worron/awesome-config) - Awesome WM config
