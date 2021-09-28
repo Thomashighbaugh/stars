@@ -349,7 +349,6 @@
 - [varadbhogayata/varadbhogayata.github.io](https://github.com/varadbhogayata/varadbhogayata.github.io) - My Portfolio - Personal Website
 - [rammcodes/Dopefolio](https://github.com/rammcodes/Dopefolio) - Dopefolio 🔥 - Portfolio Template for Developers 🚀
 - [L04DB4L4NC3R/event-email-templates](https://github.com/L04DB4L4NC3R/event-email-templates) - 
-- [the-Electric-Tantra-Linux/awesome](https://github.com/the-Electric-Tantra-Linux/awesome) - the final form of the awesome wm c
 - [jltk/startpages](https://github.com/jltk/startpages) - Static browser frontpages.
 - [iros/patternfills](https://github.com/iros/patternfills) - A collection of svg patterns and build scripts that allow utilizing them in svg, css and d3.
 - [grtcdr/linen](https://github.com/grtcdr/linen) - 🎨 A light, calm and champagne-like colorscheme.
@@ -683,6 +682,7 @@
 
 ## Lua 
 
+- [MrJakeSir/dots](https://github.com/MrJakeSir/dots) - My personal dotfiles for my linux system
 - [hoelzro/awesome-config](https://github.com/hoelzro/awesome-config) - My Awesome configuration
 - [ChocolateBread799/Awesomewm_Dots](https://github.com/ChocolateBread799/Awesomewm_Dots) - 
 - [optimizacija/neovim-config](https://github.com/optimizacija/neovim-config) - Modern NeoVim config for IDE-like development
@@ -706,6 +706,7 @@
 - [mpostaire/dotfiles](https://github.com/mpostaire/dotfiles) - 
 - [figsoda/dotfiles](https://github.com/figsoda/dotfiles) - My dotfiles (nixos + awesome)
 - [kkliebersbach/awesome-md-cfg](https://github.com/kkliebersbach/awesome-md-cfg) - Awesome WM configuration for multiple monitors, inspired by the Material Design guidelines.
+- [the-Electric-Tantra-Linux/awesome](https://github.com/the-Electric-Tantra-Linux/awesome) - the final form of the awesome wm c
 - [aidanharris/awesome-config](https://github.com/aidanharris/awesome-config) - My config files for the Awesome window manager
 - [jcrd/awesome-config](https://github.com/jcrd/awesome-config) - AwesomeWM configuration
 - [Ddorda/awesome](https://github.com/Ddorda/awesome) - My Awesome WM configuration
