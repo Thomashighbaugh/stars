@@ -6,6 +6,7 @@
 ## Contents
 
   - [Batchfile](#batchfile)
+  - [BitBake](#bitbake)
   - [C](#c)
   - [C#](#c#)
   - [C++](#c++)
@@ -62,6 +63,10 @@
 ## Batchfile 
 
 - [swagkarna/Defeat-Defender-V1.2](https://github.com/swagkarna/Defeat-Defender-V1.2) - Powerful batch script to dismantle complete windows defender protection and even bypass tamper protection ..Disable Windows-Defender Permanently....Hack windows. POC
+
+## BitBake 
+
+- [balena-os/meta-balena](https://github.com/balena-os/meta-balena) - A collection of Yocto layers used to build balenaOS images
 
 ## C 
 
@@ -170,6 +175,7 @@
 
 ## CSS 
 
+- [halfmoonui/halfmoon](https://github.com/halfmoonui/halfmoon) - Front-end framework with a built-in dark mode and full customizability using CSS variables; great for building dashboards and tools.
 - [FrenzyExists/dotfiles](https://github.com/FrenzyExists/dotfiles) - My dotfiles, is not much but is something
 - [ProgrammingFonts/ProgrammingFonts](https://github.com/ProgrammingFonts/ProgrammingFonts) - This is a collection of programming fonts,just share this with the programmers.Now there are 103 kinds of fantastic fonts!
 - [ArtemSmaznov/Dotfiles](https://github.com/ArtemSmaznov/Dotfiles) - A collection of personal dotfiles
@@ -207,6 +213,7 @@
 - [stonecrusher/simpleMenuWizard](https://github.com/stonecrusher/simpleMenuWizard) - Hide contextmenu items in Firefox Photon
 - [migueravila/SimpleFox](https://github.com/migueravila/SimpleFox) - 🦊 A Userstyle theme for Firefox minimalist and Keyboard centered.
 - [6gk/polka](https://github.com/6gk/polka) - 🐢 dotless files  (sponsored by https://git.io/kiwmi)
+- [archcraft-os/archcraft-os.github.io](https://github.com/archcraft-os/archcraft-os.github.io) - // Source : Website
 - [cacheiforindicium/dotfiles](https://github.com/cacheiforindicium/dotfiles) - SwayWM dotfiles
 - [iyzg/archived-dots](https://github.com/iyzg/archived-dots) - :large_blue_circle: The configs behind the eye candy
 - [Etesam913/slick-fox](https://github.com/Etesam913/slick-fox) - :fox_face: A firefox config that has rounded tabs and a url bar that can disappear when not selected on. It works with any theme.
@@ -315,11 +322,11 @@
 - [rhysd/notes-cli](https://github.com/rhysd/notes-cli) - Small markdown note taking CLI app playing nicely with your favorite editor and other CLI tools
 - [mickael-menu/zk](https://github.com/mickael-menu/zk) - A plain text note-taking assistant
 - [Zamony/wmwm](https://github.com/Zamony/wmwm) - Pure Go autotiling window manager
-- [tharsis/ethermint](https://github.com/tharsis/ethermint) - Ethermint is a scalable and interoperable Ethereum, built on Proof-of-Stake with fast-finality using the Cosmos SDK.
+- [tharsis/ethermint](https://github.com/tharsis/ethermint) - Ethermint is a scalable and interoperable Ethereum library, built on Proof-of-Stake with fast-finality using the Cosmos SDK.
 - [kubernetes/dashboard](https://github.com/kubernetes/dashboard) - General-purpose web UI for Kubernetes clusters
 - [driusan/dewm](https://github.com/driusan/dewm) - A pure go autotiling window manager written with literate programming
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
-- [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted newsletter and mailing list manager with a modern dashboard. Single binary app.
+- [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
 - [fission/fission](https://github.com/fission/fission) - Fast and Simple Serverless Functions for Kubernetes
 - [openshift/origin](https://github.com/openshift/origin) - Conformance test suite for OpenShift
 - [moby/moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
@@ -385,7 +392,6 @@
 - [mavroudisv/plain-academic](https://github.com/mavroudisv/plain-academic) - A truly simple website template for academics
 - [randal-sean-harrison/academic-website-template-bs3](https://github.com/randal-sean-harrison/academic-website-template-bs3) - A simple template for an academic website using Bootstrap
 - [bornmay/Responsive-Portfolio](https://github.com/bornmay/Responsive-Portfolio) - This is a Responsive Portfolio Website made with Love and Javascript; FEEL FREE TO COPY; NO COPYRIGHT ISSUE, in case of error ping me. Do follow me on github and star the repo
-- [archcraft-os/archcraft-os.github.io](https://github.com/archcraft-os/archcraft-os.github.io) - // Source : Website
 - [visualjerk/vue-cion-design-system](https://github.com/visualjerk/vue-cion-design-system) - CION - Design system boilerplate for Vue.js
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [realdavidops/xcvb](https://github.com/realdavidops/xcvb) - a super simple start page.
@@ -427,6 +433,7 @@
 
 ## JavaScript 
 
+- [AVS1508/AVS1508.github.io](https://github.com/AVS1508/AVS1508.github.io) - (work-in-progress) Personal Résumé Website developed using ReactJS and Bootstrap and hosted on Github Pages. Displays my web presence, story, work experience, education, projects, achievements, and contact information.
 - [nextapps-de/winbox](https://github.com/nextapps-de/winbox) - WinBox is a professional HTML5 window manager for the web: lightweight, outstanding performance, no dependencies, fully customizable, open source!
 - [Thomashighbaugh/React-Playgrounds](https://github.com/Thomashighbaugh/React-Playgrounds) - 
 - [theodorusclarence/theodorusclarence.com](https://github.com/theodorusclarence/theodorusclarence.com) - A personal website and a blog by Theodorus Clarence. Made using Next.js, Tailwindcss, MDX, and FaunaDB.
@@ -874,6 +881,7 @@
 
 ## Others 
 
+- [github/india](https://github.com/github/india) - GitHub resources and information for the developer community in India
 - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
 - [thelearn-tech/Alpine-Linux-GUI](https://github.com/thelearn-tech/Alpine-Linux-GUI) - How to install GUI on Alpine Linux
 - [digmorepaka/thinkpad-firmware-patches](https://github.com/digmorepaka/thinkpad-firmware-patches) - Collection of ThinkPad UEFI patches.
@@ -1039,6 +1047,7 @@
 
 ## Python 
 
+- [AcierP/CryptoChecker](https://github.com/AcierP/CryptoChecker) - A discord.py-based bitcoin confirmations checker and notifier.
 - [Schrodinger-Hat/ImageGoNord-pip](https://github.com/Schrodinger-Hat/ImageGoNord-pip) - A tool that can convert your rgb images to nordtheme palette
 - [Naategh/PyCk](https://github.com/Naategh/PyCk) - A collection of useful Python hacking scripts for beginners
 - [0xarman/Hack-Insta](https://github.com/0xarman/Hack-Insta) - 
@@ -1234,6 +1243,7 @@
 
 ## Shell 
 
+- [Cogitri/org.freedesktop.Extension.Cogitri](https://github.com/Cogitri/org.freedesktop.Extension.Cogitri) - A Flatpak Extension which includes the stuff I need for development in the VSCode Flatpak
 - [cyberkallan/inshackle-bot](https://github.com/cyberkallan/inshackle-bot) - Get unlimited followers on Instagram for free . Bot by cyber kallan
 - [keithieopia/piu](https://github.com/keithieopia/piu) - Cross platform package manager wrapper
 - [sineto/vpsm](https://github.com/sineto/vpsm) - vpsm - Void-Packages Sources Management wrapper for XBPS-SRC
