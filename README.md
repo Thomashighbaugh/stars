@@ -70,6 +70,8 @@
 
 ## C 
 
+- [qontinuum-dev/ly](https://github.com/qontinuum-dev/ly) - display manager with console UI
+- [yshui/picom](https://github.com/yshui/picom) - A lightweight compositor for X11
 - [phillbush/shod](https://github.com/phillbush/shod) - tabbed window manager that can tile windows inside floating containers
 - [psychon/lualock](https://github.com/psychon/lualock) - A screenlocker that's highly configurable in lua
 - [nullsecuritynet/tools](https://github.com/nullsecuritynet/tools) - Security and Hacking Tools, Exploits, Proof of Concepts, Shellcodes, Scripts.
@@ -635,7 +637,7 @@
 - [AhKi/oh-my-desk](https://github.com/AhKi/oh-my-desk) - web widget desktop application
 - [trevordmiller/playground-portfolio](https://github.com/trevordmiller/playground-portfolio) - Playground portfolio.
 - [carbon-design-system/gatsby-theme-carbon](https://github.com/carbon-design-system/gatsby-theme-carbon) - A Carbon inspired Gatsby theme
-- [zombieFox/nightTab](https://github.com/zombieFox/nightTab) - A neutral new tab page accented with a chosen colour. Customise the layout, style, background and bookmarks in nightTab.
+- [zombieFox/nightTab](https://github.com/zombieFox/nightTab) - A neutral new tab page accented with a chosen colour. Customise the layout, style, background and bookmarks with nightTab.
 - [verbose/verb](https://github.com/verbose/verb) - HEADS UP! Verb is going though a major transition, we've completely refactored everything from the ground up. If you're interested, please see the dev branch.
 - [kazuar/mook](https://github.com/kazuar/mook) - Markdown editor based on Electron and React
 - [fabiocolacio/Marker](https://github.com/fabiocolacio/Marker) - 🖊 A gtk3 markdown editor
@@ -881,6 +883,8 @@
 
 ## Others 
 
+- [python-engineer/ml-study-plan](https://github.com/python-engineer/ml-study-plan) - The Ultimate FREE Machine Learning Study Plan
+- [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
 - [tprasadtp/bhoomi-grub-theme](https://github.com/tprasadtp/bhoomi-grub-theme) - A Simple Grub2 Theme based on vimix
 - [github/india](https://github.com/github/india) - GitHub resources and information for the developer community in India
 - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
@@ -1580,7 +1584,7 @@
 - [Thomashighbaugh/vim](https://github.com/Thomashighbaugh/vim) - Vim configuration
 - [shapeshed/dotfiles](https://github.com/shapeshed/dotfiles) - dotfiles and config stuff
 - [skywind3000/vim-quickui](https://github.com/skywind3000/vim-quickui) - The missing UI extensions for Vim 8.2 (and NeoVim 0.4) !! :sunglasses:
-- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim distribution - The ultimate vim configuration
+- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim/neovim distribution - The ultimate vimrc
 - [ktonga/vim-follow-my-lead](https://github.com/ktonga/vim-follow-my-lead) - Vim plugin for showing all your &lt;Leader&gt; mappings in a readable table including the descriptions.
 - [mhinz/vim-galore](https://github.com/mhinz/vim-galore) - :mortar_board: All things Vim!
 - [matthewstrasiotto/dotfiles](https://github.com/matthewstrasiotto/dotfiles) - Modular :package: dotfile repo that uses dotbot profiles to make bootstrapping :zap: lighting fast, on (almost) any env.
