@@ -1053,6 +1053,7 @@
 
 ## Python 
 
+- [Rick-Lang/RickRoll-lang.github.io](https://github.com/Rick-Lang/RickRoll-lang.github.io) - The official website for rickroll-lang!!!
 - [AcierP/CryptoChecker](https://github.com/AcierP/CryptoChecker) - A discord.py-based bitcoin confirmations checker and notifier.
 - [Schrodinger-Hat/ImageGoNord-pip](https://github.com/Schrodinger-Hat/ImageGoNord-pip) - A tool that can convert your rgb images to nordtheme palette
 - [Naategh/PyCk](https://github.com/Naategh/PyCk) - A collection of useful Python hacking scripts for beginners
@@ -1211,6 +1212,7 @@
 
 ## Rust 
 
+- [rust-cv/cv](https://github.com/rust-cv/cv) - Rust CV mono-repo. Contains pure-Rust dependencies which attempt to encapsulate the capability of OpenCV, OpenMVG, and vSLAM frameworks in a cohesive set of APIs.
 - [sminez/penrose](https://github.com/sminez/penrose) - A library for writing an X11 tiling window manager
 - [MartinKavik/kavik.cz](https://github.com/MartinKavik/kavik.cz) - Personal website in Rust.
 - [elkowar/eww](https://github.com/elkowar/eww) - ElKowars wacky widgets
@@ -1249,6 +1251,9 @@
 
 ## Shell 
 
+- [dcloud-ca/voidLuksSetup](https://github.com/dcloud-ca/voidLuksSetup) - Bash script for installing Void Linux with disk encryption
+- [toluschr/xdeb](https://github.com/toluschr/xdeb) - XDEB - Convert deb (Debian) packages to xbps (Void Linux)
+- [project-trident/trident-installer](https://github.com/project-trident/trident-installer) - Graphical system install utility
 - [Cogitri/org.freedesktop.Extension.Cogitri](https://github.com/Cogitri/org.freedesktop.Extension.Cogitri) - A Flatpak Extension which includes the stuff I need for development in the VSCode Flatpak
 - [cyberkallan/inshackle-bot](https://github.com/cyberkallan/inshackle-bot) - Get unlimited followers on Instagram for free . Bot by cyber kallan
 - [keithieopia/piu](https://github.com/keithieopia/piu) - Cross platform package manager wrapper
