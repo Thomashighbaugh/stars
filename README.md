@@ -142,6 +142,7 @@
 
 ## C++ 
 
+- [derat/xsettingsd](https://github.com/derat/xsettingsd) - Provides settings to X11 applications via the XSETTINGS specification
 - [acidanthera/WhateverGreen](https://github.com/acidanthera/WhateverGreen) - Various patches necessary for certain ATI/AMD/Intel/Nvidia GPUs
 - [ehopperdietzel/CuarzoOS](https://github.com/ehopperdietzel/CuarzoOS) - CuarzoOS
 - [papyros/papyros-shell](https://github.com/papyros/papyros-shell) - :shell: The desktop shell for Papyros, built using QtQuick and QtCompositor as a compositor for Wayland.
@@ -1053,6 +1054,7 @@
 
 ## Python 
 
+- [pinry/pinry](https://github.com/pinry/pinry) - The open-source core of Pinry, a tiling image board system for people who want to save, tag, and share images, videos and webpages in an easy to skim through format.
 - [Rick-Lang/RickRoll-lang.github.io](https://github.com/Rick-Lang/RickRoll-lang.github.io) - The official website for rickroll-lang!!!
 - [AcierP/CryptoChecker](https://github.com/AcierP/CryptoChecker) - A discord.py-based bitcoin confirmations checker and notifier.
 - [Schrodinger-Hat/ImageGoNord-pip](https://github.com/Schrodinger-Hat/ImageGoNord-pip) - A tool that can convert your rgb images to nordtheme palette
