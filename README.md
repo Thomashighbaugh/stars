@@ -70,6 +70,7 @@
 
 ## C 
 
+- [gch1p/voidnsrun](https://github.com/gch1p/voidnsrun) - Run glibc binaries in musl libc Void Linux environment
 - [qontinuum-dev/ly](https://github.com/qontinuum-dev/ly) - display manager with console UI
 - [yshui/picom](https://github.com/yshui/picom) - A lightweight compositor for X11
 - [phillbush/shod](https://github.com/phillbush/shod) - tabbed window manager that can tile windows inside floating containers
@@ -436,6 +437,8 @@
 
 ## JavaScript 
 
+- [oddscenes/morning-briefing](https://github.com/oddscenes/morning-briefing) - An open source, local browser homepage app - with custom config and widgets
+- [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - :bathtub: Clean Code concepts adapted for JavaScript
 - [AVS1508/AVS1508.github.io](https://github.com/AVS1508/AVS1508.github.io) - (work-in-progress) Personal Résumé Website developed using ReactJS and Bootstrap and hosted on Github Pages. Displays my web presence, story, work experience, education, projects, achievements, and contact information.
 - [nextapps-de/winbox](https://github.com/nextapps-de/winbox) - WinBox is a professional HTML5 window manager for the web: lightweight, outstanding performance, no dependencies, fully customizable, open source!
 - [Thomashighbaugh/React-Playgrounds](https://github.com/Thomashighbaugh/React-Playgrounds) - 
@@ -1475,7 +1478,7 @@
 - [corbindavenport/creative-cloud-linux](https://github.com/corbindavenport/creative-cloud-linux) - PlayOnLinux install script for Adobe Creative Cloud
 - [Bash-it/bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
 - [YunoHost-Apps/staticwebapp_ynh](https://github.com/YunoHost-Apps/staticwebapp_ynh) - Minimal web application for static files (vhost)
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 1800+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, OSX, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 1900+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, OSX, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [theaquacadet/pillager](https://github.com/theaquacadet/pillager) - A wget script that makes pillaging websites much easier.
 - [na--/ebook-tools](https://github.com/na--/ebook-tools) - Shell scripts for organizing and managing ebook collections
 - [nextcloud/nextcloudpi](https://github.com/nextcloud/nextcloudpi) - 📦 Build code for NextcloudPi: Raspberry Pi, Odroid, Rock64, Docker, curl installer...
@@ -1486,6 +1489,8 @@
 
 ## TypeScript 
 
+- [KaterinaLupacheva/my-projects-dashboard](https://github.com/KaterinaLupacheva/my-projects-dashboard) - Next.js, Material UI, MongoDB Personal Dashboard with dev.to, GitHub, Twitter, and npm API integration.
+- [darekkay/dashboard](https://github.com/darekkay/dashboard) - Customizable personal dashboard and startpage
 - [kpollich/kylepollich.com](https://github.com/kpollich/kylepollich.com) - My personal blog built with Next.js and Tailwind CSS
 - [ixartz/Next-js-Blog-Boilerplate](https://github.com/ixartz/Next-js-Blog-Boilerplate) - 🚀 Nextjs Blog Boilerplate is starter code for your blog based on Next framework. ⚡️ Made with Nextjs, TypeScript, ESLint, Prettier, PostCSS, Tailwind CSS.
 - [abhishekbhardwaj/tailwind-react-next.js-typescript-eslint-jest-starter](https://github.com/abhishekbhardwaj/tailwind-react-next.js-typescript-eslint-jest-starter) - Starter template for building a project using React, Typescript, Next.js, Jest, TailwindCSS and ESLint.
@@ -1515,7 +1520,7 @@
 - [effector/effector](https://github.com/effector/effector) - The state manager ☄️
 - [mobxjs/mobx](https://github.com/mobxjs/mobx) - Simple, scalable state management.
 - [reduxjs/redux](https://github.com/reduxjs/redux) - Predictable state container for JavaScript apps
-- [sindresorhus/refined-github](https://github.com/sindresorhus/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
+- [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [iamvishnusankar/next-sitemap](https://github.com/iamvishnusankar/next-sitemap) - Sitemap generator for next.js. Generate sitemap(s) and robots.txt for all static/pre-rendered/dynamic/server-side pages.
 - [nandorojo/moti](https://github.com/nandorojo/moti) - 🐼  The React Native (+ Web) animation library, powered by Reanimated 2.
 - [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
