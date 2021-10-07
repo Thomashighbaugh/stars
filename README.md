@@ -36,7 +36,6 @@
   - [Markdown](#markdown)
   - [Matlab](#matlab)
   - [MoonScript](#moonscript)
-  - [NSIS](#nsis)
   - [Nim](#nim)
   - [Nix](#nix)
   - [Nunjucks](#nunjucks)
@@ -862,10 +861,6 @@
 - [hal-ullr/awesome-moonscript](https://github.com/hal-ullr/awesome-moonscript) - An awesome rc in MoonScript
 - [chase/awesome-config-moonscript](https://github.com/chase/awesome-config-moonscript) - An Awesome WM config using Moonscript
 
-## NSIS 
-
-- [aecreations/sync-clippings](https://github.com/aecreations/sync-clippings) - Helper application for Clippings
-
 ## Nim 
 
 - [juancarlospaco/nim-chonker](https://github.com/juancarlospaco/nim-chonker) - Arch Linux Pacman Optimizer: Your Arch Linux is too fat, lets make it lightweight
@@ -1327,6 +1322,7 @@
 - [brendangregg/perf-tools](https://github.com/brendangregg/perf-tools) - Performance analysis tools based on Linux perf_events (aka perf) and ftrace
 - [regolith-linux/regolith-ubuntu-iso-builder](https://github.com/regolith-linux/regolith-ubuntu-iso-builder) - 
 - [mvallim/live-custom-ubuntu-from-scratch](https://github.com/mvallim/live-custom-ubuntu-from-scratch) - This procedure shows how to create a bootable and installable Ubuntu Live (along with the automatic hardware detection and configuration) from scratch.
+- [aecreations/sync-clippings](https://github.com/aecreations/sync-clippings) - Helper application for Clippings
 - [davatorium/rofi-scripts](https://github.com/davatorium/rofi-scripts) - Small scripts for use with rofi
 - [sgleizes/xsh](https://github.com/sgleizes/xsh) - A simple framework for shell configuration management.
 - [ODEX-TOS/packages](https://github.com/ODEX-TOS/packages) - Closely follow Arch Linux packages
