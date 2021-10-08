@@ -116,7 +116,6 @@
 - [LukeSmithxyz/dwmblocks](https://github.com/LukeSmithxyz/dwmblocks) - My status bar: my build of the modular dwmblocks
 - [ashish-yadav11/dwmblocks](https://github.com/ashish-yadav11/dwmblocks) - Rewrite of dwmblocks with added features including clickability, cursor hinting and color.
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
-- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 100 supported car makes and models.
 - [kaugm/mmwm](https://github.com/kaugm/mmwm) - Modern Minimalistic Window Manager
 - [salman-abedin/devour](https://github.com/salman-abedin/devour) - X11 window swallower
 - [baskerville/xtitle](https://github.com/baskerville/xtitle) - Outputs X window titles
@@ -321,6 +320,7 @@
 
 ## Go 
 
+- [wailsapp/wails](https://github.com/wailsapp/wails) - Create desktop apps using Go and Web Technologies.
 - [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
 - [rhysd/notes-cli](https://github.com/rhysd/notes-cli) - Small markdown note taking CLI app playing nicely with your favorite editor and other CLI tools
 - [mickael-menu/zk](https://github.com/mickael-menu/zk) - A plain text note-taking assistant
@@ -694,6 +694,9 @@
 
 ## Lua 
 
+- [danielnehrig/nvim](https://github.com/danielnehrig/nvim) - neovim lua cfg
+- [tjdevries/express_line.nvim](https://github.com/tjdevries/express_line.nvim) - WIP: Statusline written in pure lua. Supports co-routines, functions and jobs.
+- [henriquehbr/nvim-startup.lua](https://github.com/henriquehbr/nvim-startup.lua) - Displays neovim startup time
 - [MrJakeSir/dots](https://github.com/MrJakeSir/dots) - My personal dotfiles for my linux system
 - [hoelzro/awesome-config](https://github.com/hoelzro/awesome-config) - My Awesome configuration
 - [ChocolateBread799/Awesomewm_Dots](https://github.com/ChocolateBread799/Awesomewm_Dots) - 
@@ -1149,6 +1152,7 @@
 - [PyTorchLightning/pytorch-lightning](https://github.com/PyTorchLightning/pytorch-lightning) - The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate.
 - [fennerm/flashfocus](https://github.com/fennerm/flashfocus) - Simple focus animations for tiling window managers.
 - [isyuck/dotfiles](https://github.com/isyuck/dotfiles) - dotfiles for my laptop
+- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 100 supported car makes and models.
 - [deviantfero/wpgtk](https://github.com/deviantfero/wpgtk) - :flower_playing_cards: a colorscheme, wallpaper and template manager for *nix
 - [tmux-python/tmuxp](https://github.com/tmux-python/tmuxp) - :computer: tmux session manager. built on libtmux
 - [vt-vl-lab/3d-photo-inpainting](https://github.com/vt-vl-lab/3d-photo-inpainting) - [CVPR 2020] 3D Photography using Context-aware Layered Depth Inpainting
@@ -1245,6 +1249,7 @@
 
 ## Scheme 
 
+- [lepisma/gimp-export-favicons](https://github.com/lepisma/gimp-export-favicons) - Gimp Script-Fu for exporting favicons as provided by http://www.favicomatic.com/
 - [Thomashighbaugh/electric-tantra-xfce4-branding](https://github.com/Thomashighbaugh/electric-tantra-xfce4-branding) - electric-tantra-xfce4-branding
 - [m2orris/GIMP-scripts](https://github.com/m2orris/GIMP-scripts) - Various scripts for GIMP
 - [pixlsus/registry.gimp.org_static](https://github.com/pixlsus/registry.gimp.org_static) - A wget backup of http://registry.gimp.org
@@ -1569,7 +1574,7 @@
 
 - [solus-project/budgie-desktop](https://github.com/solus-project/budgie-desktop) - I Tawt I Taw A Purdy Desktop
 - [ricotz/plank](https://github.com/ricotz/plank) - Stupidly simple.
-- [lainsce/quilter](https://github.com/lainsce/quilter) - Focus on your writing.
+- [lainsce/quilter](https://github.com/lainsce/quilter) - [DEPRECATED] Focus on your writing.
 - [elementary/installer](https://github.com/elementary/installer) - Installer front-end for Linux-based OSes
 - [UbuntuBudgie/budgie-extras](https://github.com/UbuntuBudgie/budgie-extras) - Additional Budgie Desktop enhancements for user experience
 - [GNOME/geary](https://github.com/GNOME/geary) - Read-only mirror of https://gitlab.gnome.org/GNOME/geary
