@@ -1128,7 +1128,6 @@
 - [mxrch/GHunt](https://github.com/mxrch/GHunt) - 🕵️‍♂️ Investigate Google emails and documents.
 - [Thomashighbaugh/Thomashighbaugh](https://github.com/Thomashighbaugh/Thomashighbaugh) - Profile ReadMe featuring my custom art
 - [jrieke/traingenerator](https://github.com/jrieke/traingenerator) - 🧙 A web app to generate template code for machine learning
-- [evildevill/instahack](https://github.com/evildevill/instahack) - Best Tool For instagram OSINT & Bruteforce hacking Tool By Waseem Akram. Made in Python , Bash
 - [noob-hackers/lazybee](https://github.com/noob-hackers/lazybee) - Create Best Wordlist From Python Tool In Termux
 - [th3unkn0n/osi.ig](https://github.com/th3unkn0n/osi.ig) - Information Gathering Instagram.
 - [beurtschipper/Depix](https://github.com/beurtschipper/Depix) - Recovers passwords from pixelized screenshots
@@ -1263,7 +1262,6 @@
 - [cyberkallan/inshackle-bot](https://github.com/cyberkallan/inshackle-bot) - Get unlimited followers on Instagram for free . Bot by cyber kallan
 - [keithieopia/piu](https://github.com/keithieopia/piu) - Cross platform package manager wrapper
 - [sineto/vpsm](https://github.com/sineto/vpsm) - vpsm - Void-Packages Sources Management wrapper for XBPS-SRC
-- [xbps-install/deployvoid](https://github.com/xbps-install/deployvoid) - sets up a void linux installation and installs stuff i want
 - [fabnicol/mkg](https://github.com/fabnicol/mkg) - Gentoo Linux automatic installer and bootable ISO maker.
 - [jcmdln/gein](https://github.com/jcmdln/gein) - GEntoo INstaller
 - [march-linux/march-overlay](https://github.com/march-linux/march-overlay) - march default system config
@@ -1345,7 +1343,7 @@
 - [Thomashighbaugh/bin](https://github.com/Thomashighbaugh/bin) - My collection of scripts, separated from my dotfiles for the sake of my sanity. I wrote some, I found some, I use some.
 - [foxlet/macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM) - Tools to set up a quick macOS VM in QEMU, accelerated by KVM.
 - [ShaneMcC/beeps](https://github.com/ShaneMcC/beeps) - Linux beep music
-- [mviereck/x11docker](https://github.com/mviereck/x11docker) - Run GUI applications and desktops in docker. Focus on security.
+- [mviereck/x11docker](https://github.com/mviereck/x11docker) - Run GUI applications and desktops in docker and podman containers. Focus on security.
 - [ivanilves/xiringuito](https://github.com/ivanilves/xiringuito) - SSH-based "VPN for poors"
 - [adi1090x/rofi](https://github.com/adi1090x/rofi) - A large collection of Rofi based custom Menu, Applets, Launchers & Powermenus.
 - [svgsalad/inkscape-svg-cheat](https://github.com/svgsalad/inkscape-svg-cheat) - Various cheatsheets made for Inkscape users. :memo:
@@ -1370,6 +1368,7 @@
 - [ByDog3r/FAQUE](https://github.com/ByDog3r/FAQUE) - 𝐅𝐀𝐐𝐔𝐄; IS A FAKE IDENTITY: SPOOF-EMAIL, THE PERFECT COMPANION FOR PHISHING.
 - [TheSpeedX/SDorker](https://github.com/TheSpeedX/SDorker) - SuperDorker gives you a huge list of websites for 0day attacks from Google Dorks
 - [htr-tech/unfollow-plus](https://github.com/htr-tech/unfollow-plus) - Automated Instagram Unfollower Bot
+- [evildevill/instahack](https://github.com/evildevill/instahack) - Best Tool For instagram Bruteforce hacking Tool By Waseem Akram. Made in Bash
 - [th3unkn0n/facebash-termux](https://github.com/th3unkn0n/facebash-termux) - Facebook BruteForce [ By Tor ] Tool For Termux.
 - [noob-hackers/infect](https://github.com/noob-hackers/infect) - Infect Any Android Device With Virus From Link In Termux
 - [noob-hackers/ighack](https://github.com/noob-hackers/ighack) - Hack Instagram From Termux With Help of Tor
