@@ -88,7 +88,6 @@
 - [facebook/zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
 - [openssl/openssl](https://github.com/openssl/openssl) - TLS/SSL and crypto library
 - [libgit2/libgit2](https://github.com/libgit2/libgit2) - A cross-platform, linkable library implementation of Git that you can use in your application.
-- [trezor/trezor-firmware](https://github.com/trezor/trezor-firmware) - :lock: Trezor Firmware Monorepo
 - [fluent/fluent-bit](https://github.com/fluent/fluent-bit) - Fast and Lightweight Logs and Metrics processor for Linux, BSD, OSX and Windows
 - [FreeRDP/FreeRDP](https://github.com/FreeRDP/FreeRDP) - FreeRDP is a free remote desktop protocol library and clients
 - [deadbok/eden-linux](https://github.com/deadbok/eden-linux) - Linux distribution build system
@@ -141,6 +140,7 @@
 
 ## C++ 
 
+- [Ashutosh249/Hacktoberfest-Beginners](https://github.com/Ashutosh249/Hacktoberfest-Beginners) - Raise Genuine PRs only. Your PRs will be accepted, keep patience. Star This Repo. You aren't allowed to Update README.md
 - [derat/xsettingsd](https://github.com/derat/xsettingsd) - Provides settings to X11 applications via the XSETTINGS specification
 - [acidanthera/WhateverGreen](https://github.com/acidanthera/WhateverGreen) - Various patches necessary for certain ATI/AMD/Intel/Nvidia GPUs
 - [ehopperdietzel/CuarzoOS](https://github.com/ehopperdietzel/CuarzoOS) - CuarzoOS
@@ -320,6 +320,7 @@
 
 ## Go 
 
+- [godarch/darch](https://github.com/godarch/darch) - A tool for building and booting stateless and immutable images, bare metal.
 - [yeasy/docker_practice](https://github.com/yeasy/docker_practice) - Learn and understand Docker technologies, with real DevOps practice!
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create desktop apps using Go and Web Technologies.
 - [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
@@ -696,6 +697,13 @@
 
 ## Lua 
 
+- [adelarsq/neoline.vim](https://github.com/adelarsq/neoline.vim) - Status Line for Neovim focused on beauty and performance ✅
+- [alvarosevilla95/luatab.nvim](https://github.com/alvarosevilla95/luatab.nvim) - Tabline lua plugin for neovim
+- [luarocks/luarocks](https://github.com/luarocks/luarocks) - LuaRocks is the package manager for the Lua programming language.
+- [kyazdani42/nvim-web-devicons](https://github.com/kyazdani42/nvim-web-devicons) - lua `fork` of vim-web-devicons for neovim
+- [wbthomason/packer.nvim](https://github.com/wbthomason/packer.nvim) - A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config
+- [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) - Find, Filter, Preview, Pick. All lua, all the time.
+- [hoob3rt/lualine.nvim](https://github.com/hoob3rt/lualine.nvim) - A blazing fast and easy to configure neovim statusline plugin written in pure lua.
 - [VapourNvim/VapourNvim](https://github.com/VapourNvim/VapourNvim) - A NeoVim config for THE ULTIMATE vim IDE-like experience.
 - [kristijanhusak/orgmode.nvim](https://github.com/kristijanhusak/orgmode.nvim) - Orgmode clone written in Lua for Neovim 0.5+.
 - [stevearc/aerial.nvim](https://github.com/stevearc/aerial.nvim) - Neovim plugin for a code outline window
@@ -1063,6 +1071,7 @@
 
 ## Python 
 
+- [flaport/home](https://github.com/flaport/home) - My Portable Linux Home Folder
 - [Bhupesh-V/til](https://github.com/Bhupesh-V/til) - Personal Wiki of Interesting things I learn every day at the intersection of software, life & stuff (My Second Brain 🧠️)
 - [0xAX/linux-insides](https://github.com/0xAX/linux-insides) - A little bit about a linux kernel
 - [pinry/pinry](https://github.com/pinry/pinry) - The open-source core of Pinry, a tiling image board system for people who want to save, tag, and share images, videos and webpages in an easy to skim through format.
@@ -1099,6 +1108,7 @@
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [great-expectations/great_expectations](https://github.com/great-expectations/great_expectations) - Always know what to expect from your data.
 - [PaddlePaddle/PaddleHub](https://github.com/PaddlePaddle/PaddleHub) - Awesome pre-trained models toolkit based on PaddlePaddle.(300+ models including Image, Text, Audio and Video with Easy Inference & Serving deployment)
+- [trezor/trezor-firmware](https://github.com/trezor/trezor-firmware) - :lock: Trezor Firmware Monorepo
 - [mpeterv/hererocks](https://github.com/mpeterv/hererocks) - Python script for installing Lua/LuaJIT and LuaRocks into a local directory
 - [whittlem/pycryptobot](https://github.com/whittlem/pycryptobot) - Python Crypto Bot
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
@@ -1266,6 +1276,10 @@
 
 ## Shell 
 
+- [Lolzen/void-live-customizer](https://github.com/Lolzen/void-live-customizer) - script to build a customized livecd of void linux using void-mklive
+- [ahmetozer/whitedoor](https://github.com/ahmetozer/whitedoor) - WhiteDoor Linux Distro Build Enviroment. It is based on LFS Book. It have a easy configuration functions to prepare environment easily
+- [Sharrisii/TAZ](https://github.com/Sharrisii/TAZ) - A slimmed down gentoo linux livecd/liveusb iso that allows to load different boot options and runs from RAM upon boot. A VCTLabs project.
+- [LinuxGuides-OS/LinuxGuidesOS](https://github.com/LinuxGuides-OS/LinuxGuidesOS) - LinuxGuides OS Hauptrepo
 - [IncredibleHacker/insta-hack](https://github.com/IncredibleHacker/insta-hack) - All in one Instagram hacking tool available (Insta information gathering, Insta brute force, Insta account banned)
 - [dcloud-ca/voidLuksSetup](https://github.com/dcloud-ca/voidLuksSetup) - Bash script for installing Void Linux with disk encryption
 - [toluschr/xdeb](https://github.com/toluschr/xdeb) - XDEB - Convert deb (Debian) packages to xbps (Void Linux)
