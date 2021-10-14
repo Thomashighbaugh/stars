@@ -438,6 +438,7 @@
 
 ## JavaScript 
 
+- [rahul-jha98/Artistify.ai](https://github.com/rahul-jha98/Artistify.ai) - Web-app to generate artistically styled images generated using Style Transfer Model running in the browser.
 - [mvximenko/flat-ui-colors](https://github.com/mvximenko/flat-ui-colors) - Clone of Flat UI Colors built with React.
 - [oddscenes/morning-briefing](https://github.com/oddscenes/morning-briefing) - An open source, local browser homepage app - with custom config and widgets
 - [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - :bathtub: Clean Code concepts adapted for JavaScript
@@ -697,6 +698,8 @@
 
 ## Lua 
 
+- [mnowotnik/noteflow.nvim](https://github.com/mnowotnik/noteflow.nvim) - Neovim plugin that streamlines taking notes
+- [Shadorain/shadovim](https://github.com/Shadorain/shadovim) - A neovim setup for the shadow warriors. Speed through the light with the power of shadovim built on the new Lua based neovim! With the highly overpowered native LSP, built in auto-completion, snippets, menus and so much more, you will unleash the power of a hundred million shadows!
 - [adelarsq/neoline.vim](https://github.com/adelarsq/neoline.vim) - Status Line for Neovim focused on beauty and performance ✅
 - [alvarosevilla95/luatab.nvim](https://github.com/alvarosevilla95/luatab.nvim) - Tabline lua plugin for neovim
 - [luarocks/luarocks](https://github.com/luarocks/luarocks) - LuaRocks is the package manager for the Lua programming language.
@@ -900,6 +903,7 @@
 
 ## Others 
 
+- [anmol098/anmol098](https://github.com/anmol098/anmol098) - If you are forking please do not forget to star the repo
 - [mvximenko/awesome-made-by-germans](https://github.com/mvximenko/awesome-made-by-germans) - 🇩🇪 The best open source projects that were made and mainly contributed by German developers
 - [mvximenko/awesome-made-by-japanese](https://github.com/mvximenko/awesome-made-by-japanese) - 🇯🇵 The best open source projects that were made and mainly contributed by Japanese developers
 - [python-engineer/ml-study-plan](https://github.com/python-engineer/ml-study-plan) - The Ultimate FREE Machine Learning Study Plan
@@ -1275,6 +1279,7 @@
 
 ## Shell 
 
+- [dhasirar/instax](https://github.com/dhasirar/instax) - instax is an tool to perform brute force attack against Instagram,(https://github.com/dhasirar/instax) by dhasirar under GNU LICENSE. WARNING! This tool was made for educational purposes! https://www.instagram.com/dhasirar/
 - [Lolzen/void-live-customizer](https://github.com/Lolzen/void-live-customizer) - script to build a customized livecd of void linux using void-mklive
 - [ahmetozer/whitedoor](https://github.com/ahmetozer/whitedoor) - WhiteDoor Linux Distro Build Enviroment. It is based on LFS Book. It have a easy configuration functions to prepare environment easily
 - [Sharrisii/TAZ](https://github.com/Sharrisii/TAZ) - A slimmed down gentoo linux livecd/liveusb iso that allows to load different boot options and runs from RAM upon boot. A VCTLabs project.
@@ -1613,6 +1618,7 @@
 
 ## Vim script 
 
+- [glepnir/dashboard-nvim](https://github.com/glepnir/dashboard-nvim) - vim dashboard
 - [ParallaxWave/blood_i3](https://github.com/ParallaxWave/blood_i3) - 
 - [s3rvac/dotfiles](https://github.com/s3rvac/dotfiles) - My configuration files for git, vim, tmux, bash, fluxbox, etc.
 - [and3rson/dotfiles](https://github.com/and3rson/dotfiles) - My configs: (neo)vim, sway, alacritty, tmux, bash, molokai colors and stolen dircolors.
