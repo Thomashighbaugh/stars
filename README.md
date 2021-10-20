@@ -438,6 +438,7 @@
 
 ## JavaScript 
 
+- [garywill/tabs-at-bottom](https://github.com/garywill/tabs-at-bottom) - Firefox tabbar at bottom of window, userchrome script
 - [MrOtherGuy/fx-autoconfig](https://github.com/MrOtherGuy/fx-autoconfig) - Load custom javascript in browser context
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 - [vuejs/vue](https://github.com/vuejs/vue) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
@@ -711,6 +712,8 @@
 
 ## Lua 
 
+- [ibhagwan/nvim-lua](https://github.com/ibhagwan/nvim-lua) - 
+- [elianiva/dotfiles](https://github.com/elianiva/dotfiles) - .
 - [Degete/nvim-config](https://github.com/Degete/nvim-config) - ⚙️ Neovim config files
 - [s1n7ax/nvim-window-picker](https://github.com/s1n7ax/nvim-window-picker) - This plugins prompts the user to pick a window and returns the window id of the picked window
 - [rafcamlet/nvim-luapad](https://github.com/rafcamlet/nvim-luapad) - Interactive real time neovim scratchpad for embedded lua engine - type and watch!
@@ -1290,6 +1293,7 @@
 
 ## Scheme 
 
+- [karlhof26/gimp-scheme](https://github.com/karlhof26/gimp-scheme) - Gimp Scheme scripts for Gimp 2.10.18 to 2.10.22
 - [tshatrov/scriptfu](https://github.com/tshatrov/scriptfu) - My Script-Fu scripts for GIMP
 - [lepisma/gimp-export-favicons](https://github.com/lepisma/gimp-export-favicons) - Gimp Script-Fu for exporting favicons as provided by http://www.favicomatic.com/
 - [Thomashighbaugh/electric-tantra-xfce4-branding](https://github.com/Thomashighbaugh/electric-tantra-xfce4-branding) - electric-tantra-xfce4-branding
@@ -1298,6 +1302,8 @@
 
 ## Shell 
 
+- [opsgang/alpine_build_scripts](https://github.com/opsgang/alpine_build_scripts) - ... collection of ash scripts to install various common pkgs.
+- [NTBBloodbath/dotfiles](https://github.com/NTBBloodbath/dotfiles) - /boot: No such file or directory
 - [dhasirar/instax](https://github.com/dhasirar/instax) - instax is an tool to perform brute force attack against Instagram,(https://github.com/dhasirar/instax) by dhasirar under GNU LICENSE. WARNING! This tool was made for educational purposes! https://www.instagram.com/dhasirar/
 - [Lolzen/void-live-customizer](https://github.com/Lolzen/void-live-customizer) - script to build a customized livecd of void linux using void-mklive
 - [ahmetozer/whitedoor](https://github.com/ahmetozer/whitedoor) - WhiteDoor Linux Distro Build Enviroment. It is based on LFS Book. It have a easy configuration functions to prepare environment easily
@@ -1527,7 +1533,7 @@
 - [corbindavenport/creative-cloud-linux](https://github.com/corbindavenport/creative-cloud-linux) - PlayOnLinux install script for Adobe Creative Cloud
 - [Bash-it/bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
 - [YunoHost-Apps/staticwebapp_ynh](https://github.com/YunoHost-Apps/staticwebapp_ynh) - Minimal web application for static files (vhost)
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 1900+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, OSX, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 1900+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [theaquacadet/pillager](https://github.com/theaquacadet/pillager) - A wget script that makes pillaging websites much easier.
 - [na--/ebook-tools](https://github.com/na--/ebook-tools) - Shell scripts for organizing and managing ebook collections
 - [nextcloud/nextcloudpi](https://github.com/nextcloud/nextcloudpi) - 📦 Build code for NextcloudPi: Raspberry Pi, Odroid, Rock64, Docker, curl installer...
