@@ -92,7 +92,6 @@
 - [deadbok/eden-linux](https://github.com/deadbok/eden-linux) - Linux distribution build system
 - [bats3c/shad0w](https://github.com/bats3c/shad0w) - A post exploitation framework designed to operate covertly on heavily monitored environments
 - [plasmoduck/modwm](https://github.com/plasmoduck/modwm) - MODWM - Modular Dynamic Window Manager
-- [raspberrypi/usbboot](https://github.com/raspberrypi/usbboot) - Raspberry Pi USB booting code, moved from tools repository
 - [instantOS/instantWM](https://github.com/instantOS/instantWM) - The window manager for instantOS
 - [mitchweaver/suckless](https://github.com/mitchweaver/suckless) - 🇸 Collection of http://suckless.org tools I use and my modifications for them.
 - [i3/i3status](https://github.com/i3/i3status) - Generates status bar to use with i3bar, dzen2 or xmobar
@@ -357,6 +356,7 @@
 
 ## HTML 
 
+- [fyne-io/developer.fyne.io](https://github.com/fyne-io/developer.fyne.io) - Fyne developer documentation website
 - [wezm/desktop.institute](https://github.com/wezm/desktop.institute) - Researching a better desktop environment
 - [varadbhogayata/varadbhogayata.github.io](https://github.com/varadbhogayata/varadbhogayata.github.io) - My Portfolio - Personal Website
 - [rammcodes/Dopefolio](https://github.com/rammcodes/Dopefolio) - Dopefolio 🔥 - Portfolio Template for Developers 🚀
@@ -712,6 +712,7 @@
 
 ## Lua 
 
+- [nvim-lua/popup.nvim](https://github.com/nvim-lua/popup.nvim) - [WIP] An implementation of the Popup API from vim in Neovim. Hope to upstream when complete
 - [ibhagwan/nvim-lua](https://github.com/ibhagwan/nvim-lua) - 
 - [elianiva/dotfiles](https://github.com/elianiva/dotfiles) - .
 - [Degete/nvim-config](https://github.com/Degete/nvim-config) - ⚙️ Neovim config files
@@ -924,6 +925,7 @@
 
 ## Others 
 
+- [bmorelli25/Become-A-Full-Stack-Web-Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer) - Free resources for learning Full Stack Web Development
 - [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
 - [baquer/GATE-and-CSE-Resources-for-Students](https://github.com/baquer/GATE-and-CSE-Resources-for-Students) - 📚 📖 📚CSE GATE Resources for GATE and CSE Aspirants 😎 😁 . Show your ❤️ by ⭐️⭐️
@@ -1077,6 +1079,7 @@
 
 ## PHP 
 
+- [dandelionmood/debrief](https://github.com/dandelionmood/debrief) - Debrief is an open-source, easy to use note-taking application crossed with a diary.
 - [Cesar-Hack-Gray/FotoSploit](https://github.com/Cesar-Hack-Gray/FotoSploit) - 
 - [ambroisemaupate/webfont-generator](https://github.com/ambroisemaupate/webfont-generator) - Subset and convert one or many OTF/TTF files in EOT, SVG, WOFF and WOFF2.
 - [thedevdojo/wave](https://github.com/thedevdojo/wave) - Wave - The Software as a Service Starter Kit, designed to help you build the SAAS of your dreams 🚀 💰
@@ -1169,6 +1172,7 @@
 - [trustedsec/ptf](https://github.com/trustedsec/ptf) - The Penetration Testers Framework (PTF) is a way for modular support for up-to-date tools.
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [Timvde/UserChromeManager](https://github.com/Timvde/UserChromeManager) - A small python script to manage your userChrome.css
+- [raspberrypi/usbboot](https://github.com/raspberrypi/usbboot) - Raspberry Pi USB booting code, moved from tools repository
 - [bats3c/darkarmour](https://github.com/bats3c/darkarmour) - Windows AV Evasion
 - [loseys/Oblivion](https://github.com/loseys/Oblivion) - Data leak checker & OSINT Tool
 - [mxrch/GHunt](https://github.com/mxrch/GHunt) - 🕵️‍♂️ Investigate Google emails and documents.
@@ -1302,6 +1306,8 @@
 
 ## Shell 
 
+- [lucidtanooki/kawaiki-grub2-themes](https://github.com/lucidtanooki/kawaiki-grub2-themes) - Modern Design theme for Grub2
+- [g0r60n/InstaShell](https://github.com/g0r60n/InstaShell) - InstaShell
 - [opsgang/alpine_build_scripts](https://github.com/opsgang/alpine_build_scripts) - ... collection of ash scripts to install various common pkgs.
 - [NTBBloodbath/dotfiles](https://github.com/NTBBloodbath/dotfiles) - /boot: No such file or directory
 - [dhasirar/instax](https://github.com/dhasirar/instax) - instax is an tool to perform brute force attack against Instagram,(https://github.com/dhasirar/instax) by dhasirar under GNU LICENSE. WARNING! This tool was made for educational purposes! https://www.instagram.com/dhasirar/
