@@ -446,7 +446,7 @@
 
 - [evolus/pencil](https://github.com/evolus/pencil) - The Pencil Project's unique mission is to build a free and opensource tool for making diagrams and GUI prototyping that everyone can use.
 - [john-smilga/node-express-course](https://github.com/john-smilga/node-express-course) - 
-- [garywill/tabs-at-bottom](https://github.com/garywill/tabs-at-bottom) - Firefox tabbar at bottom of window, userchrome script
+- [garywill/tabs-at-bottom](https://github.com/garywill/tabs-at-bottom) - Firefox tabbar at bottom of window, userchrome script 🪟
 - [MrOtherGuy/fx-autoconfig](https://github.com/MrOtherGuy/fx-autoconfig) - Load custom javascript in browser context
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 - [vuejs/vue](https://github.com/vuejs/vue) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
