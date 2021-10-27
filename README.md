@@ -573,7 +573,7 @@
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [thisisroi/roi-portfolio](https://github.com/thisisroi/roi-portfolio) - ✨ Portfolio site created using Nextjs.
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (September 2021)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (October 2021)
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across +900 social media \ websites (Detections are updated regularly)
 - [ohansemmanuel/react-hooks-cheatsheet](https://github.com/ohansemmanuel/react-hooks-cheatsheet) - 🦖 React hooks cheatsheet with live editable examples
 - [yTakkar/React-Instagram-Clone-2.0](https://github.com/yTakkar/React-Instagram-Clone-2.0) - A reactive Single-Page Instagram-Clone with some new features!! 💪📸👓 - No longer maintained.
@@ -750,7 +750,7 @@
 - [henriquehbr/nvim-startup.lua](https://github.com/henriquehbr/nvim-startup.lua) - Displays neovim startup time
 - [MrJakeSir/dots](https://github.com/MrJakeSir/dots) - My personal dotfiles for my linux system
 - [hoelzro/awesome-config](https://github.com/hoelzro/awesome-config) - My Awesome configuration
-- [ChocolateBread799/Awesomewm_Dots](https://github.com/ChocolateBread799/Awesomewm_Dots) - 
+- [ChocolateBread799/Awesomewm_Dotfile](https://github.com/ChocolateBread799/Awesomewm_Dotfile) - 
 - [optimizacija/neovim-config](https://github.com/optimizacija/neovim-config) - Modern NeoVim config for IDE-like development
 - [worron/awesome-config](https://github.com/worron/awesome-config) - Awesome WM config
 - [AfoHT/taggrid](https://github.com/AfoHT/taggrid) - AwesomeWM extension providing a tag grid
