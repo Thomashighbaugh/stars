@@ -69,6 +69,7 @@
 
 ## C 
 
+- [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [gch1p/voidnsrun](https://github.com/gch1p/voidnsrun) - Run glibc binaries in musl libc Void Linux environment
 - [qontinuum-dev/ly](https://github.com/qontinuum-dev/ly) - display manager with console UI
 - [yshui/picom](https://github.com/yshui/picom) - A lightweight compositor for X11
@@ -139,6 +140,7 @@
 
 ## C++ 
 
+- [SpencerCBrown/Triad](https://github.com/SpencerCBrown/Triad) - Robust and pleasant cross-platform note taking application.
 - [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 - [Ashutosh249/Hacktoberfest-Beginners](https://github.com/Ashutosh249/Hacktoberfest-Beginners) - Raise Genuine PRs only. Your PRs will be accepted, keep patience. Star This Repo. You aren't allowed to Update README.md
 - [derat/xsettingsd](https://github.com/derat/xsettingsd) - Provides settings to X11 applications via the XSETTINGS specification
@@ -172,6 +174,7 @@
 
 ## CMake 
 
+- [lirios/lirios](https://github.com/lirios/lirios) - :house: General issue tracking and wiki for Liri
 - [lxqt/lxqt-build-tools](https://github.com/lxqt/lxqt-build-tools) - Various packaging tools and scripts for LXQt applications
 
 ## CSS 
@@ -722,6 +725,34 @@
 
 ## Lua 
 
+- [windwp/nvim-autopairs](https://github.com/windwp/nvim-autopairs) - autopairs for neovim written by lua
+- [saadparwaiz1/cmp_luasnip](https://github.com/saadparwaiz1/cmp_luasnip) - luasnip completion source for nvim-cmp
+- [onsails/lspkind-nvim](https://github.com/onsails/lspkind-nvim) - vscode-like pictograms for neovim lsp completion items
+- [hrsh7th/cmp-path](https://github.com/hrsh7th/cmp-path) - nvim-cmp source for path
+- [hrsh7th/cmp-nvim-lua](https://github.com/hrsh7th/cmp-nvim-lua) - nvim-cmp source for nvim lua
+- [hrsh7th/nvim-cmp](https://github.com/hrsh7th/nvim-cmp) - A completion plugin for neovim coded in Lua.
+- [RishabhRD/popfix](https://github.com/RishabhRD/popfix) - Neovim lua API for highly extensible popup window
+- [nvim-lua/lsp-status.nvim](https://github.com/nvim-lua/lsp-status.nvim) - Utility functions for getting diagnostic status and progress messages from LSP servers, for use in the Neovim statusline
+- [jose-elias-alvarez/nvim-lsp-ts-utils](https://github.com/jose-elias-alvarez/nvim-lsp-ts-utils) - Utilities to improve the TypeScript development experience for Neovim's built-in LSP client.
+- [rmagatti/auto-session](https://github.com/rmagatti/auto-session) - A small automated session manager for Neovim
+- [nvim-treesitter/nvim-treesitter-refactor](https://github.com/nvim-treesitter/nvim-treesitter-refactor) - Refactor module for nvim-treesitter
+- [windwp/nvim-ts-autotag](https://github.com/windwp/nvim-ts-autotag) - Use treesitter to auto close and auto rename html tag
+- [weilbith/nvim-code-action-menu](https://github.com/weilbith/nvim-code-action-menu) - Pop-up menu for code actions to show meta-information and diff preview
+- [b3nj5m1n/kommentary](https://github.com/b3nj5m1n/kommentary) - Neovim commenting plugin, written in lua.
+- [norcalli/nvim-colorizer.lua](https://github.com/norcalli/nvim-colorizer.lua) - The fastest Neovim colorizer.
+- [AckslD/nvim-neoclip.lua](https://github.com/AckslD/nvim-neoclip.lua) - Clipboard manager neovim plugin with telescope integration
+- [folke/trouble.nvim](https://github.com/folke/trouble.nvim) - 🚦 A pretty diagnostics, references, telescope results, quickfix and location list to help you solve all the trouble your code is causing.
+- [kosayoda/nvim-lightbulb](https://github.com/kosayoda/nvim-lightbulb) - VSCode 💡 for neovim's built-in LSP.
+- [folke/which-key.nvim](https://github.com/folke/which-key.nvim) - 💥   Create key bindings that stick. WhichKey is a lua plugin for Neovim 0.5 that displays a popup with possible keybindings of the command you started typing.
+- [ray-x/lsp_signature.nvim](https://github.com/ray-x/lsp_signature.nvim) - LSP signature hint as you type
+- [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) - Quickstart configurations for the Nvim LSP client
+- [williamboman/nvim-lsp-installer](https://github.com/williamboman/nvim-lsp-installer) - Companion plugin for nvim-lspconfig that allows you to seamlessly install LSP servers locally with :LspInstall. (also supports Windows)
+- [kyazdani42/nvim-tree.lua](https://github.com/kyazdani42/nvim-tree.lua) - A file explorer tree for neovim written in lua
+- [kdheepak/tabline.nvim](https://github.com/kdheepak/tabline.nvim) - A "buffer and tab" tabline for neovim
+- [NTBBloodbath/galaxyline.nvim](https://github.com/NTBBloodbath/galaxyline.nvim) - neovim statusline plugin written in lua
+- [nekonako/xresources-nvim](https://github.com/nekonako/xresources-nvim) - 🎨 Neovim colorscheme based on your xresources color
+- [lewis6991/impatient.nvim](https://github.com/lewis6991/impatient.nvim) - Improve startup time for Neovim
+- [s1n7ax/nvim-comment-frame](https://github.com/s1n7ax/nvim-comment-frame) - Detects the language using treesitter and adds a comment block
 - [n3wborn/nvim](https://github.com/n3wborn/nvim) - My  own nvim &gt;=0.5 full-lua config
 - [kawaki-san/dotfiles](https://github.com/kawaki-san/dotfiles) - 
 - [koniu/awesome-configs](https://github.com/koniu/awesome-configs) - koniu's awesome config
@@ -1315,6 +1346,7 @@
 
 ## Scheme 
 
+- [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) - Nvim Treesitter configurations and abstraction layer
 - [karlhof26/gimp-scheme](https://github.com/karlhof26/gimp-scheme) - Gimp Scheme scripts for Gimp 2.10.18 to 2.10.22
 - [tshatrov/scriptfu](https://github.com/tshatrov/scriptfu) - My Script-Fu scripts for GIMP
 - [lepisma/gimp-export-favicons](https://github.com/lepisma/gimp-export-favicons) - Gimp Script-Fu for exporting favicons as provided by http://www.favicomatic.com/
@@ -1671,6 +1703,9 @@
 
 ## Vim script 
 
+- [sheerun/vim-polyglot](https://github.com/sheerun/vim-polyglot) - A solid language pack for Vim.
+- [lambdalisue/suda.vim](https://github.com/lambdalisue/suda.vim) - 🥪 An alternative sudo.vim for Vim and Neovim, limited support sudo in Windows
+- [vimwiki/vimwiki](https://github.com/vimwiki/vimwiki) - Personal Wiki for Vim
 - [abdullahalzubaer/Neovim-Setup](https://github.com/abdullahalzubaer/Neovim-Setup) - 
 - [chrispap-dev/dotfiles](https://github.com/chrispap-dev/dotfiles) - Collection of my config files for Linux. i3,alacritty,i3-blocks,vim and more
 - [glepnir/dashboard-nvim](https://github.com/glepnir/dashboard-nvim) - vim dashboard
@@ -1712,7 +1747,7 @@
 
 ## Zig 
 
-- [ifreund/river](https://github.com/ifreund/river) - A dynamic tiling Wayland compositor
+- [riverwm/river](https://github.com/riverwm/river) - A dynamic tiling Wayland compositor
 
 
 ## License
