@@ -104,7 +104,7 @@
 - [JLErvin/berry](https://github.com/JLErvin/berry) - :strawberry: A healthy, byte-sized window manager
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
 - [dylanaraps/sowm](https://github.com/dylanaraps/sowm) - An itsy bitsy floating window manager (220~ sloc!).
-- [karelzak/util-linux](https://github.com/karelzak/util-linux) - 
+- [util-linux/util-linux](https://github.com/util-linux/util-linux) - 
 - [systemd/systemd](https://github.com/systemd/systemd) - The systemd System and Service Manager
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET and TFTP. libcurl offers a myriad of powerful features
 - [buffet/kiwmi](https://github.com/buffet/kiwmi) - A fully programmable Wayland Compositor
@@ -367,6 +367,8 @@
 
 ## HTML 
 
+- [TedGoas/stacks-maizzle](https://github.com/TedGoas/stacks-maizzle) - Stack Overflow's email design system built using Maizzle
+- [chitru/newsletter](https://github.com/chitru/newsletter) - HTML Newsletter templates
 - [fyne-io/developer.fyne.io](https://github.com/fyne-io/developer.fyne.io) - Fyne developer documentation website
 - [wezm/desktop.institute](https://github.com/wezm/desktop.institute) - Researching a better desktop environment
 - [varadbhogayata/varadbhogayata.github.io](https://github.com/varadbhogayata/varadbhogayata.github.io) - My Portfolio - Personal Website
