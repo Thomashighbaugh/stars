@@ -143,7 +143,6 @@
 
 - [SpencerCBrown/Triad](https://github.com/SpencerCBrown/Triad) - Robust and pleasant cross-platform note taking application.
 - [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
-- [Ashutosh249/Hacktoberfest-Beginners](https://github.com/Ashutosh249/Hacktoberfest-Beginners) - Raise Genuine PRs only. Your PRs will be accepted, keep patience. Star This Repo. You aren't allowed to Update README.md
 - [derat/xsettingsd](https://github.com/derat/xsettingsd) - Provides settings to X11 applications via the XSETTINGS specification
 - [acidanthera/WhateverGreen](https://github.com/acidanthera/WhateverGreen) - Various patches necessary for certain ATI/AMD/Intel/Nvidia GPUs
 - [ehopperdietzel/CuarzoOS](https://github.com/ehopperdietzel/CuarzoOS) - CuarzoOS
@@ -475,7 +474,6 @@
 - [AVS1508/AVS1508.github.io](https://github.com/AVS1508/AVS1508.github.io) - (work-in-progress) Personal Résumé Website developed using ReactJS and Bootstrap and hosted on Github Pages. Displays my web presence, story, work experience, education, projects, achievements, and contact information.
 - [nextapps-de/winbox](https://github.com/nextapps-de/winbox) - WinBox is a professional HTML5 window manager for the web: lightweight, outstanding performance, no dependencies, fully customizable, open source!
 - [Thomashighbaugh/React-Playgrounds](https://github.com/Thomashighbaugh/React-Playgrounds) - 
-- [theodorusclarence/theodorusclarence.com](https://github.com/theodorusclarence/theodorusclarence.com) - A personal website and a blog by Theodorus Clarence. Made using Next.js, Tailwindcss, MDX, and FaunaDB.
 - [vivek9patel/vivek9patel.github.io](https://github.com/vivek9patel/vivek9patel.github.io) - Personal portfolio website of theme Ubuntu 20.04, made using NEXT.js & tailwind CSS
 - [nvni/next-tailwindcss](https://github.com/nvni/next-tailwindcss) - NextJs + Tailwind CSS
 - [feiruo/userChromeJS](https://github.com/feiruo/userChromeJS) - Firefox userChromeJS
@@ -862,6 +860,7 @@
 - [Quisl/Awesome-4.0-Config](https://github.com/Quisl/Awesome-4.0-Config) - My setup for the Awesome WM 4.0. This is meant to run on a Thinkpad T410
 - [Stebalien/awesomewm-config](https://github.com/Stebalien/awesomewm-config) - My AwesomeWM config files
 - [ndgnuh/awesome-config](https://github.com/ndgnuh/awesome-config) - Config set(s) for awesomewm
+- [and3rson/dotfiles](https://github.com/and3rson/dotfiles) - My configs: (neo)vim, sway, alacritty, tmux, bash, molokai colors and stolen dircolors.
 - [denstiny/awesome-config](https://github.com/denstiny/awesome-config) - awesome config file ,sava my config
 - [Nguyen-Hoang-Nam/nvim-dotfiles-kitty](https://github.com/Nguyen-Hoang-Nam/nvim-dotfiles-kitty) - NeoVim Configuration that makes me feel comfortable and pleasant
 - [Creator54/awesome](https://github.com/Creator54/awesome) - Some beautiful awesome configs gathered with some minor changes just switch git checkout $branch and reload(mod+shift+r) to enjoy a new layout. lazy to update README use mod+s instead
@@ -1621,6 +1620,7 @@
 - [ixartz/Next-js-Blog-Boilerplate](https://github.com/ixartz/Next-js-Blog-Boilerplate) - 🚀 Nextjs Blog Boilerplate is starter code for your blog based on Next framework. ⚡️ Made with Nextjs, TypeScript, ESLint, Prettier, PostCSS, Tailwind CSS.
 - [abhishekbhardwaj/tailwind-react-next.js-typescript-eslint-jest-starter](https://github.com/abhishekbhardwaj/tailwind-react-next.js-typescript-eslint-jest-starter) - Starter template for building a project using React, Typescript, Next.js, Jest, TailwindCSS and ESLint.
 - [jlifts/my-portfolio](https://github.com/jlifts/my-portfolio) - My portfolio site and blog made with React/NextJS, ESLint & Prettier, Typescript, NodeJS(Go in the future), and Ghost CMS for the blog. Display of my projects and skills.
+- [theodorusclarence/theodorusclarence.com](https://github.com/theodorusclarence/theodorusclarence.com) - A personal website and a blog by Theodorus Clarence, made using Next.js, TypeScript, Tailwind CSS, MDX Bundler, and FaunaDB.
 - [lailo/next-with-tailwindcss](https://github.com/lailo/next-with-tailwindcss) - NextJS with TypeScript and TailwindCSS (with dark theme switch)
 - [adonig/nextjs-starter-preact-tailwindcss](https://github.com/adonig/nextjs-starter-preact-tailwindcss) - A Next.js starter project coming with Preact and Tailwind CSS built-in.
 - [remorses/dokz](https://github.com/remorses/dokz) - Effortless documentation with Next.js and MDX
@@ -1722,7 +1722,6 @@
 - [glepnir/dashboard-nvim](https://github.com/glepnir/dashboard-nvim) - vim dashboard
 - [ParallaxWave/blood_i3](https://github.com/ParallaxWave/blood_i3) - 
 - [s3rvac/dotfiles](https://github.com/s3rvac/dotfiles) - My configuration files for git, vim, tmux, bash, fluxbox, etc.
-- [and3rson/dotfiles](https://github.com/and3rson/dotfiles) - My configs: (neo)vim, sway, alacritty, tmux, bash, molokai colors and stolen dircolors.
 - [wincent/corpus](https://github.com/wincent/corpus) - 📝 A note-management application
 - [antoniosarosi/dotfiles](https://github.com/antoniosarosi/dotfiles) - My dotfiles repo, here you can find all my window manager configs as well as documentation and a guide on how to make your own desktop environment.
 - [theniceboy/nvim](https://github.com/theniceboy/nvim) - The Ultimate NeoVim Config for Colemak Users
