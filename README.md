@@ -367,6 +367,7 @@
 
 ## HTML 
 
+- [mattlag/California-Gothic](https://github.com/mattlag/California-Gothic) - A typeface for California vexillographers
 - [TedGoas/stacks-maizzle](https://github.com/TedGoas/stacks-maizzle) - Stack Overflow's email design system built using Maizzle
 - [chitru/newsletter](https://github.com/chitru/newsletter) - HTML Newsletter templates
 - [fyne-io/developer.fyne.io](https://github.com/fyne-io/developer.fyne.io) - Fyne developer documentation website
@@ -790,7 +791,7 @@
 - [henriquehbr/nvim-startup.lua](https://github.com/henriquehbr/nvim-startup.lua) - Displays neovim startup time
 - [MrJakeSir/dots](https://github.com/MrJakeSir/dots) - My personal dotfiles for my linux system
 - [hoelzro/awesome-config](https://github.com/hoelzro/awesome-config) - My Awesome configuration
-- [ChocolateBread799/Awesomewm_Dotfile](https://github.com/ChocolateBread799/Awesomewm_Dotfile) - 
+- [ChocolateBread799/Awesomewm_Dotfile](https://github.com/ChocolateBread799/Awesomewm_Dotfile) - My Awesomewm dotfile
 - [optimizacija/neovim-config](https://github.com/optimizacija/neovim-config) - Modern NeoVim config for IDE-like development
 - [worron/awesome-config](https://github.com/worron/awesome-config) - Awesome WM config
 - [AfoHT/taggrid](https://github.com/AfoHT/taggrid) - AwesomeWM extension providing a tag grid
@@ -977,6 +978,7 @@
 
 ## Others 
 
+- [ibhagwan/picom-ibhagwan-template](https://github.com/ibhagwan/picom-ibhagwan-template) - Void Linux template file for xbps-src
 - [UbuntuBudgie/pocillo](https://github.com/UbuntuBudgie/pocillo) - Icon Theme for Ubuntu Budgie
 - [vascoalexander/gimp-brush-collection](https://github.com/vascoalexander/gimp-brush-collection) - A large Collection of "raw" Brushes for Gimp
 - [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes) - Full reference of LinkedIn answers 2021 for skill assessments, LinkedIn test, questions and answers (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, python, machine-learning, power-point) linkedin excel test lösungen, linkedin machine learning test
@@ -1156,6 +1158,7 @@
 
 ## Python 
 
+- [DedSecInside/Awesome-Scripts](https://github.com/DedSecInside/Awesome-Scripts) - A collection of awesome scripts from developers around the globe.
 - [flaport/home](https://github.com/flaport/home) - My Portable Linux Home Folder
 - [Bhupesh-V/til](https://github.com/Bhupesh-V/til) - Personal Wiki of Interesting things I learn every day at the intersection of software, life & stuff (My Second Brain 🧠️)
 - [0xAX/linux-insides](https://github.com/0xAX/linux-insides) - A little bit about a linux kernel
@@ -1363,6 +1366,7 @@
 
 ## Shell 
 
+- [Manas140/sh](https://github.com/Manas140/sh) - Collection Of My Sh Scripts.
 - [leahneukirchen/hrmpf](https://github.com/leahneukirchen/hrmpf) - hrmpf rescue system, built on Void Linux
 - [samsesh/SocialBox-Termux](https://github.com/samsesh/SocialBox-Termux) - SocialBox is a Bruteforce Attack Framework [ Facebook , Gmail , Instagram ,Twitter ] , Coded By Belahsan Ouerghi Edit By samsesh for termux on android
 - [UbuntuBudgie/Tela-icon-theme](https://github.com/UbuntuBudgie/Tela-icon-theme) - A flat colorful Design icon theme
@@ -1440,7 +1444,7 @@
 - [dotnet/core](https://github.com/dotnet/core) - Home repository for .NET Core
 - [bats-core/bats-core](https://github.com/bats-core/bats-core) - Bash Automated Testing System
 - [kubernetes/examples](https://github.com/kubernetes/examples) - Kubernetes application example tutorials
-- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful personal server OS for a Raspberry Pi or any Linux distro for running self-hosted apps
+- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful personal server OS for Raspberry Pi or any Linux distro for running self-hosted apps
 - [kaldi-asr/kaldi](https://github.com/kaldi-asr/kaldi) - kaldi-asr/kaldi is the official location of the Kaldi project.
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [holman/dotfiles](https://github.com/holman/dotfiles) - @holman does dotfiles
@@ -1620,7 +1624,7 @@
 - [ixartz/Next-js-Blog-Boilerplate](https://github.com/ixartz/Next-js-Blog-Boilerplate) - 🚀 Nextjs Blog Boilerplate is starter code for your blog based on Next framework. ⚡️ Made with Nextjs, TypeScript, ESLint, Prettier, PostCSS, Tailwind CSS.
 - [abhishekbhardwaj/tailwind-react-next.js-typescript-eslint-jest-starter](https://github.com/abhishekbhardwaj/tailwind-react-next.js-typescript-eslint-jest-starter) - Starter template for building a project using React, Typescript, Next.js, Jest, TailwindCSS and ESLint.
 - [jlifts/my-portfolio](https://github.com/jlifts/my-portfolio) - My portfolio site and blog made with React/NextJS, ESLint & Prettier, Typescript, NodeJS(Go in the future), and Ghost CMS for the blog. Display of my projects and skills.
-- [theodorusclarence/theodorusclarence.com](https://github.com/theodorusclarence/theodorusclarence.com) - A personal website and a blog by Theodorus Clarence, made using Next.js, TypeScript, Tailwind CSS, MDX Bundler, and FaunaDB.
+- [theodorusclarence/theodorusclarence.com](https://github.com/theodorusclarence/theodorusclarence.com) - A personal website and a blog by Theodorus Clarence, made using Next.js, TypeScript, Tailwind CSS, MDX Bundler, FaunaDB, and Preact.
 - [lailo/next-with-tailwindcss](https://github.com/lailo/next-with-tailwindcss) - NextJS with TypeScript and TailwindCSS (with dark theme switch)
 - [adonig/nextjs-starter-preact-tailwindcss](https://github.com/adonig/nextjs-starter-preact-tailwindcss) - A Next.js starter project coming with Preact and Tailwind CSS built-in.
 - [remorses/dokz](https://github.com/remorses/dokz) - Effortless documentation with Next.js and MDX
