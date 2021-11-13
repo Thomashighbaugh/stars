@@ -978,6 +978,7 @@
 
 ## Others 
 
+- [Python-World/Py-Resources](https://github.com/Python-World/Py-Resources) - A list of free resources to make learning Python easier.
 - [ibhagwan/picom-ibhagwan-template](https://github.com/ibhagwan/picom-ibhagwan-template) - Void Linux template file for xbps-src
 - [UbuntuBudgie/pocillo](https://github.com/UbuntuBudgie/pocillo) - Icon Theme for Ubuntu Budgie
 - [vascoalexander/gimp-brush-collection](https://github.com/vascoalexander/gimp-brush-collection) - A large Collection of "raw" Brushes for Gimp
@@ -1158,6 +1159,8 @@
 
 ## Python 
 
+- [Python-World/Python_and_the_Web](https://github.com/Python-World/Python_and_the_Web) - Build Bots, Scrape a website or use an API to solve a problem.
+- [Python-World/python-mini-projects](https://github.com/Python-World/python-mini-projects) - A collection of simple python mini projects to enhance your python skills
 - [DedSecInside/Awesome-Scripts](https://github.com/DedSecInside/Awesome-Scripts) - A collection of awesome scripts from developers around the globe.
 - [flaport/home](https://github.com/flaport/home) - My Portable Linux Home Folder
 - [Bhupesh-V/til](https://github.com/Bhupesh-V/til) - Personal Wiki of Interesting things I learn every day at the intersection of software, life & stuff (My Second Brain 🧠️)
