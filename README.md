@@ -1170,7 +1170,7 @@
 - [AcierP/CryptoChecker](https://github.com/AcierP/CryptoChecker) - A discord.py-based bitcoin confirmations checker and notifier.
 - [Schrodinger-Hat/ImageGoNord-pip](https://github.com/Schrodinger-Hat/ImageGoNord-pip) - A tool that can convert your rgb images to nordtheme palette
 - [Naategh/PyCk](https://github.com/Naategh/PyCk) - A collection of useful Python hacking scripts for beginners
-- [0xarman/Hack-Insta](https://github.com/0xarman/Hack-Insta) - 
+- [Stefin-Franklin/Hack-Insta](https://github.com/Stefin-Franklin/Hack-Insta) - 
 - [SusmithKrishnan/torghost](https://github.com/SusmithKrishnan/torghost) - TorGhost is an anonymization script. TorGhost redirects all internet traffic through SOCKS5 tor proxy. DNS requests are also redirected via tor, thus preventing DNSLeak. The scripts also disables unsafe packets exiting the system. Some packets like ping request can compromise your identity.
 - [mrprogrammer2938/Black-Tool](https://github.com/mrprogrammer2938/Black-Tool) - Install the tools and start  Attacking !
 - [kovidgoyal/bypy](https://github.com/kovidgoyal/bypy) - 
@@ -1370,6 +1370,7 @@
 
 ## Shell 
 
+- [the-Electric-Tantra-Linux/void-packages](https://github.com/the-Electric-Tantra-Linux/void-packages) - The Void source packages collection
 - [Manas140/sh](https://github.com/Manas140/sh) - Collection Of My Sh Scripts.
 - [leahneukirchen/hrmpf](https://github.com/leahneukirchen/hrmpf) - hrmpf rescue system, built on Void Linux
 - [samsesh/SocialBox-Termux](https://github.com/samsesh/SocialBox-Termux) - SocialBox is a Bruteforce Attack Framework [ Facebook , Gmail , Instagram ,Twitter ] , Coded By Belahsan Ouerghi Edit By samsesh for termux on android
