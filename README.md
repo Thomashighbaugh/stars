@@ -132,7 +132,7 @@
 ## C# # 
 
 - [microsoft/Git-Credential-Manager-Core](https://github.com/microsoft/Git-Credential-Manager-Core) - Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.
-- [dotnet-architecture/eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers) - Cross-platform .NET sample microservices and container based application that runs on Linux Windows and macOS. Powered by .NET 5, Docker Containers and Azure Kubernetes Services. Supports Visual Studio, VS for Mac and CLI based environments with Docker CLI, dotnet CLI, VS Code or any other code editor.
+- [dotnet-architecture/eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers) - Cross-platform .NET sample microservices and container based application that runs on Linux Windows and macOS. Powered by .NET 6, Docker Containers and Azure Kubernetes Services. Supports Visual Studio, VS for Mac and CLI based environments with Docker CLI, dotnet CLI, VS Code or any other code editor.
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [ElevenPaths/FOCA](https://github.com/ElevenPaths/FOCA) - Tool to find metadata and hidden information in the documents.
 - [ppy/osu](https://github.com/ppy/osu) - rhythm is just a *click* away!
