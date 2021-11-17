@@ -1361,7 +1361,7 @@
 ## Scheme 
 
 - [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) - Nvim Treesitter configurations and abstraction layer
-- [karlhof26/gimp-scheme](https://github.com/karlhof26/gimp-scheme) - Gimp Scheme scripts for Gimp 2.10.18 to 2.10.22
+- [karlhof26/gimp-scheme](https://github.com/karlhof26/gimp-scheme) - Gimp scripts for Gimp 2.10.22 plus
 - [tshatrov/scriptfu](https://github.com/tshatrov/scriptfu) - My Script-Fu scripts for GIMP
 - [lepisma/gimp-export-favicons](https://github.com/lepisma/gimp-export-favicons) - Gimp Script-Fu for exporting favicons as provided by http://www.favicomatic.com/
 - [Thomashighbaugh/electric-tantra-xfce4-branding](https://github.com/Thomashighbaugh/electric-tantra-xfce4-branding) - electric-tantra-xfce4-branding
