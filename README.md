@@ -131,7 +131,7 @@
 
 ## C# # 
 
-- [microsoft/Git-Credential-Manager-Core](https://github.com/microsoft/Git-Credential-Manager-Core) - Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.
+- [GitCredentialManager/git-credential-manager](https://github.com/GitCredentialManager/git-credential-manager) - Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.
 - [dotnet-architecture/eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers) - Cross-platform .NET sample microservices and container based application that runs on Linux Windows and macOS. Powered by .NET 6, Docker Containers and Azure Kubernetes Services. Supports Visual Studio, VS for Mac and CLI based environments with Docker CLI, dotnet CLI, VS Code or any other code editor.
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [ElevenPaths/FOCA](https://github.com/ElevenPaths/FOCA) - Tool to find metadata and hidden information in the documents.
@@ -452,6 +452,7 @@
 
 ## JavaScript 
 
+- [Sporif/firefox-quantum-userchromejs](https://github.com/Sporif/firefox-quantum-userchromejs) - Firefox Quantum-compatible custom javascript in browser context — no extension, userChromeJS replacement
 - [skygear-demo/skypad](https://github.com/skygear-demo/skypad) - Skypad
 - [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of diagrams.net
 - [evolus/pencil](https://github.com/evolus/pencil) - The Pencil Project's unique mission is to build a free and opensource tool for making diagrams and GUI prototyping that everyone can use.
@@ -861,7 +862,7 @@
 - [Quisl/Awesome-4.0-Config](https://github.com/Quisl/Awesome-4.0-Config) - My setup for the Awesome WM 4.0. This is meant to run on a Thinkpad T410
 - [Stebalien/awesomewm-config](https://github.com/Stebalien/awesomewm-config) - My AwesomeWM config files
 - [ndgnuh/awesome-config](https://github.com/ndgnuh/awesome-config) - Config set(s) for awesomewm
-- [and3rson/dotfiles](https://github.com/and3rson/dotfiles) - My configs: (neo)vim, sway, alacritty, tmux, bash, molokai colors and stolen dircolors.
+- [and3rson/dotfiles](https://github.com/and3rson/dotfiles) - My configs: (neo)vim+lua+lsp+treesitter, sway, alacritty, tmux, bash, molokai colors and stolen dircolors.
 - [denstiny/awesome-config](https://github.com/denstiny/awesome-config) - awesome config file ,sava my config
 - [Nguyen-Hoang-Nam/nvim-dotfiles-kitty](https://github.com/Nguyen-Hoang-Nam/nvim-dotfiles-kitty) - NeoVim Configuration that makes me feel comfortable and pleasant
 - [Creator54/awesome](https://github.com/Creator54/awesome) - Some beautiful awesome configs gathered with some minor changes just switch git checkout $branch and reload(mod+shift+r) to enjoy a new layout. lazy to update README use mod+s instead
