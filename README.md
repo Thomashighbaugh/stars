@@ -224,7 +224,6 @@
 - [Etesam913/slick-fox](https://github.com/Etesam913/slick-fox) - :fox_face: A firefox config that has rounded tabs and a url bar that can disappear when not selected on. It works with any theme.
 - [3r3bu5x9/Prismatic-Night](https://github.com/3r3bu5x9/Prismatic-Night) - A dark themed startpage and dark themes for Firefox and Linux inspired by Material design and Adapta.
 - [mil/keyfram](https://github.com/mil/keyfram) - Modular Sass animation library that makes compsing complex animations simple.
-- [SwiftyChicken/dotfiles](https://github.com/SwiftyChicken/dotfiles) - My dotfiles
 - [codebushi/gatsby-starter-forty](https://github.com/codebushi/gatsby-starter-forty) - Gatsby.js V2 starter template based on Forty, designed by HTML5 UP. Check out https://codebushi.com/gatsby-starters-and-themes/ for more Gatsby starters.
 - [codebushi/gatsby-starter-dimension](https://github.com/codebushi/gatsby-starter-dimension) - Gatsby.js V2 starter template based on Dimension, designed by HTML5 UP. Check out https://codebushi.com/gatsby-starters-and-themes/ for more Gatsby starters.
 - [akshat46/FlyingFox](https://github.com/akshat46/FlyingFox) - An opinionated set of configurations for firefox.
@@ -414,6 +413,7 @@
 - [visualjerk/vue-cion-design-system](https://github.com/visualjerk/vue-cion-design-system) - CION - Design system boilerplate for Vue.js
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [realdavidops/xcvb](https://github.com/realdavidops/xcvb) - a super simple start page.
+- [SwiftyChicken/dotfiles](https://github.com/SwiftyChicken/dotfiles) - My dotfiles
 - [jibolash/Eve](https://github.com/jibolash/Eve) - Ultra Minimal Single-page Jekyll Template for Building Personal Portfolio Websites
 - [kdrag0n/base16-kitty](https://github.com/kdrag0n/base16-kitty) - Base16 color scheme template for kitty
 - [DopestTech/Dev-Folio](https://github.com/DopestTech/Dev-Folio) - 🔥 A collection of Free Portfolio templates for developers.
@@ -452,6 +452,7 @@
 
 ## JavaScript 
 
+- [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
 - [pop-os/cosmic](https://github.com/pop-os/cosmic) - Computer Operating System Main Interface Components
 - [Sporif/firefox-quantum-userchromejs](https://github.com/Sporif/firefox-quantum-userchromejs) - Firefox Quantum-compatible custom javascript in browser context — no extension, userChromeJS replacement
 - [skygear-demo/skypad](https://github.com/skygear-demo/skypad) - Skypad
@@ -789,7 +790,7 @@
 - [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) - Find, Filter, Preview, Pick. All lua, all the time.
 - [nvim-lualine/lualine.nvim](https://github.com/nvim-lualine/lualine.nvim) - A blazing fast and easy to configure neovim statusline plugin written in pure lua.
 - [VapourNvim/VapourNvim](https://github.com/VapourNvim/VapourNvim) - A NeoVim config for THE ULTIMATE vim IDE-like experience.
-- [kristijanhusak/orgmode.nvim](https://github.com/kristijanhusak/orgmode.nvim) - Orgmode clone written in Lua for Neovim 0.5+.
+- [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode) - Orgmode clone written in Lua for Neovim 0.5+.
 - [stevearc/aerial.nvim](https://github.com/stevearc/aerial.nvim) - Neovim plugin for a code outline window
 - [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) - A small, documented, and featureful neovim starter config
 - [Kuroneer/awm_config](https://github.com/Kuroneer/awm_config) - My own configuration repository for AwesomeWM 4
@@ -820,7 +821,7 @@
 - [mpostaire/dotfiles](https://github.com/mpostaire/dotfiles) - 
 - [figsoda/dotfiles](https://github.com/figsoda/dotfiles) - My dotfiles (nixos + awesome)
 - [zkliebersbach/awesome-md-cfg](https://github.com/zkliebersbach/awesome-md-cfg) - Awesome WM configuration for multiple monitors, inspired by the Material Design guidelines.
-- [the-Electric-Tantra-Linux/awesome](https://github.com/the-Electric-Tantra-Linux/awesome) - the final form of the awesome wm
+- [the-Electric-Tantra-Linux/awesome](https://github.com/the-Electric-Tantra-Linux/awesome) - the flying spaghetti monster of code, an awesomewm config making awesomewm a DE tailored to my wants, needs and is skeudomorphic!
 - [aidanharris/awesome-config](https://github.com/aidanharris/awesome-config) - My config files for the Awesome window manager
 - [jcrd/awesome-config](https://github.com/jcrd/awesome-config) - AwesomeWM configuration
 - [Ddorda/awesome](https://github.com/Ddorda/awesome) - My Awesome WM configuration
@@ -1306,7 +1307,7 @@
 - [cmoscardi/lilite](https://github.com/cmoscardi/lilite) - Lilite: A Linux package installer
 - [scottslowe/learning-tools](https://github.com/scottslowe/learning-tools) - A collection of tools and files for learning new technologies
 - [deepgram/kur](https://github.com/deepgram/kur) - Descriptive Deep Learning
-- [ful1e5/Bibata_Cursor](https://github.com/ful1e5/Bibata_Cursor) - Material Based Cursors.
+- [ful1e5/Bibata_Cursor](https://github.com/ful1e5/Bibata_Cursor) - Opensource, compact, and material-designed cursor set.
 - [linuxmint/mint-y-icons](https://github.com/linuxmint/mint-y-icons) - The Mint-Y icon theme
 - [snwh/suru-icon-theme](https://github.com/snwh/suru-icon-theme) - The source of the Suru icon and cursor set
 - [snwh/paper-icon-theme](https://github.com/snwh/paper-icon-theme) - Paper Icon Theme
