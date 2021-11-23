@@ -19,7 +19,6 @@
   - [Elixir](#elixir)
   - [Emacs Lisp](#emacs-lisp)
   - [FreeMarker](#freemarker)
-  - [GLSL](#glsl)
   - [Go](#go)
   - [Groff](#groff)
   - [HCL](#hcl)
@@ -316,10 +315,6 @@
 ## FreeMarker 
 
 - [mozilla/send](https://github.com/mozilla/send) - Simple, private file sharing from the makers of Firefox
-
-## GLSL 
-
-- [mustaqimM/dotfiles](https://github.com/mustaqimM/dotfiles) - 
 
 ## Go 
 
@@ -819,6 +814,7 @@
 - [ibhagwan/dots](https://github.com/ibhagwan/dots) - dots
 - [jonaburg/awesome-dotfiles](https://github.com/jonaburg/awesome-dotfiles) - Purely an awesome dotfiles repo to sync my awesomewm environment across several machines
 - [mpostaire/dotfiles](https://github.com/mpostaire/dotfiles) - 
+- [mustaqimM/dotfiles](https://github.com/mustaqimM/dotfiles) - 
 - [figsoda/dotfiles](https://github.com/figsoda/dotfiles) - My dotfiles (nixos + awesome)
 - [zkliebersbach/awesome-md-cfg](https://github.com/zkliebersbach/awesome-md-cfg) - Awesome WM configuration for multiple monitors, inspired by the Material Design guidelines.
 - [the-Electric-Tantra-Linux/awesome](https://github.com/the-Electric-Tantra-Linux/awesome) - the flying spaghetti monster of code, an awesomewm config making awesomewm a DE tailored to my wants, needs and is skeudomorphic!
@@ -909,7 +905,7 @@
 - [streetturtle/awesome-buttons](https://github.com/streetturtle/awesome-buttons) - Button widget library for Awesome Window Manager
 - [hrsh7th/nvim-compe](https://github.com/hrsh7th/nvim-compe) - Auto completion Lua plugin for nvim
 - [raven2cz/awesomewm-config](https://github.com/raven2cz/awesomewm-config) - RAVEN2CZ: AwesomeWM Configuration, Libraries and Themes.
-- [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli as functional as an IDE while being very beautiful , blazing fast.
+- [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli as functional as an IDE while being very beautiful, blazing fast.
 - [pinpox/wallpaper-generator](https://github.com/pinpox/wallpaper-generator) - Generate wallpaper images from mathematical functions
 - [bioe007/awesome-revelation](https://github.com/bioe007/awesome-revelation) - Show all clients per screen in Awesome window manager
 - [Mofiqul/awesome-shell](https://github.com/Mofiqul/awesome-shell) - This is a collection of awesome wm configuration files
@@ -1170,6 +1166,7 @@
 
 ## Python 
 
+- [Gameye98/vbug](https://github.com/Gameye98/vbug) - virus maker
 - [Python-World/Python_and_the_Web](https://github.com/Python-World/Python_and_the_Web) - Build Bots, Scrape a website or use an API to solve a problem.
 - [Python-World/python-mini-projects](https://github.com/Python-World/python-mini-projects) - A collection of simple python mini projects to enhance your python skills
 - [DedSecInside/Awesome-Scripts](https://github.com/DedSecInside/Awesome-Scripts) - A collection of awesome scripts from developers around the globe.
@@ -1380,6 +1377,8 @@
 
 ## Shell 
 
+- [Tomas-M/linux-live](https://github.com/Tomas-M/linux-live) - Linux Live Kit
+- [saymoncoppi/xlunchr](https://github.com/saymoncoppi/xlunchr) - A simple xlunch modernization
 - [the-Electric-Tantra-Linux/void-packages](https://github.com/the-Electric-Tantra-Linux/void-packages) - The Void source packages collection
 - [Manas140/sh](https://github.com/Manas140/sh) - Collection Of My Sh Scripts.
 - [leahneukirchen/hrmpf](https://github.com/leahneukirchen/hrmpf) - hrmpf rescue system, built on Void Linux
@@ -1453,7 +1452,7 @@
 - [noob-hackers/hacklock](https://github.com/noob-hackers/hacklock) - Hack Android Pattern From Termux With This Tool
 - [Bhaviktutorials/T-Remix](https://github.com/Bhaviktutorials/T-Remix) - This Tool will Help to Customise Your Termux in such a way that you will Enjoy using Termux it will give you a morden look And it also haas feature of password, you can also set  Password on your Termux.
 - [intel/stacks](https://github.com/intel/stacks) - The System Stacks for Linux* OS are a collection of production ready docker images for Deep Learning, Media and Storage optimized for 2nd generation Intel® Xeon® Scalable Processors.
-- [getsentry/onpremise](https://github.com/getsentry/onpremise) - Sentry On-Premise setup
+- [getsentry/self-hosted](https://github.com/getsentry/self-hosted) - Sentry, feature-complete and packaged up for low-volume deployments and proofs-of-concept 👍
 - [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
 - [dotnet/core](https://github.com/dotnet/core) - Home repository for .NET Core
 - [bats-core/bats-core](https://github.com/bats-core/bats-core) - Bash Automated Testing System
