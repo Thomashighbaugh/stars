@@ -69,6 +69,7 @@
 
 ## C 
 
+- [bakkeby/dusk](https://github.com/bakkeby/dusk) - Just another fork of dwm
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [gch1p/voidnsrun](https://github.com/gch1p/voidnsrun) - Run glibc binaries in musl libc Void Linux environment
 - [qontinuum-dev/ly](https://github.com/qontinuum-dev/ly) - display manager with console UI
@@ -565,7 +566,7 @@
 - [jessarcher/tailwind-color-picker](https://github.com/jessarcher/tailwind-color-picker) - A simple color picker for easily tweaking your Tailwind color config
 - [dabit3/next.js-amplify-workshop](https://github.com/dabit3/next.js-amplify-workshop) - AWS Amplify Next.js workshop
 - [amiechen/genart](https://github.com/amiechen/genart) - code in, art out
-- [snowpackjs/snowpack](https://github.com/snowpackjs/snowpack) - ESM-powered frontend build tool. Instant, lightweight, unbundled development. ✌️
+- [withastro/snowpack](https://github.com/withastro/snowpack) - ESM-powered frontend build tool. Instant, lightweight, unbundled development. ✌️
 - [MaggieAppleton/digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners) - Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs
 - [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) - Show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project readme automatically using the RSS feed
 - [Thomashighbaugh/project-dashboard](https://github.com/Thomashighbaugh/project-dashboard) - Curated list of projects displayed on site using iframes as a quick way to display my demonstrations to employers
@@ -730,6 +731,7 @@
 
 ## Lua 
 
+- [lewis6991/spellsitter.nvim](https://github.com/lewis6991/spellsitter.nvim) - Treesitter powered spellchecker
 - [micro-hawk/awesomeWM](https://github.com/micro-hawk/awesomeWM) - My configuration for awesome window manager
 - [anhsirk0/awesome-config](https://github.com/anhsirk0/awesome-config) - My config for awesomewm
 - [cigneve/awesome-config](https://github.com/cigneve/awesome-config) - 
@@ -1377,6 +1379,7 @@
 
 ## Shell 
 
+- [zodd18/dotfiles](https://github.com/zodd18/dotfiles) - My bspwm dotfiles. Grab whatever you need! :)
 - [Tomas-M/linux-live](https://github.com/Tomas-M/linux-live) - Linux Live Kit
 - [saymoncoppi/xlunchr](https://github.com/saymoncoppi/xlunchr) - A simple xlunch modernization
 - [the-Electric-Tantra-Linux/void-packages](https://github.com/the-Electric-Tantra-Linux/void-packages) - The Void source packages collection
@@ -1452,7 +1455,7 @@
 - [noob-hackers/hacklock](https://github.com/noob-hackers/hacklock) - Hack Android Pattern From Termux With This Tool
 - [Bhaviktutorials/T-Remix](https://github.com/Bhaviktutorials/T-Remix) - This Tool will Help to Customise Your Termux in such a way that you will Enjoy using Termux it will give you a morden look And it also haas feature of password, you can also set  Password on your Termux.
 - [intel/stacks](https://github.com/intel/stacks) - The System Stacks for Linux* OS are a collection of production ready docker images for Deep Learning, Media and Storage optimized for 2nd generation Intel® Xeon® Scalable Processors.
-- [getsentry/self-hosted](https://github.com/getsentry/self-hosted) - Sentry, feature-complete and packaged up for low-volume deployments and proofs-of-concept 👍
+- [getsentry/self-hosted](https://github.com/getsentry/self-hosted) - Sentry, feature-complete and packaged up for low-volume deployments and proofs-of-concept
 - [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
 - [dotnet/core](https://github.com/dotnet/core) - Home repository for .NET Core
 - [bats-core/bats-core](https://github.com/bats-core/bats-core) - Bash Automated Testing System
@@ -1731,6 +1734,7 @@
 
 ## Vim script 
 
+- [russmatney/dotfiles](https://github.com/russmatney/dotfiles) - Doom Emacs, a few-years old vim config, tmux, i3, zsh, polybar
 - [klausweiss/dotfiles](https://github.com/klausweiss/dotfiles) - 
 - [sheerun/vim-polyglot](https://github.com/sheerun/vim-polyglot) - A solid language pack for Vim.
 - [lambdalisue/suda.vim](https://github.com/lambdalisue/suda.vim) - 🥪 An alternative sudo.vim for Vim and Neovim, limited support sudo in Windows
