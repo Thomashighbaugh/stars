@@ -319,6 +319,7 @@
 
 ## Go 
 
+- [nicolasmanic/tefter](https://github.com/nicolasmanic/tefter) - Simple memo book developed in Go
 - [blrsn/zentile](https://github.com/blrsn/zentile) - Automatic Tiling for EWMH Compliant Window Managers
 - [godarch/darch](https://github.com/godarch/darch) - A tool for building and booting stateless and immutable images, bare metal.
 - [yeasy/docker_practice](https://github.com/yeasy/docker_practice) - Learn and understand Docker technologies, with real DevOps practice!
@@ -448,6 +449,8 @@
 
 ## JavaScript 
 
+- [Splode/jin](https://github.com/Splode/jin) - A CLI app for taking simple notes without ever leaving the terminal.
+- [IonicaBizau/idea](https://github.com/IonicaBizau/idea) - :bulb: A lightweight CLI tool and module for keeping ideas in a safe place quick and easy.
 - [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
 - [pop-os/cosmic](https://github.com/pop-os/cosmic) - Computer Operating System Main Interface Components
 - [Sporif/firefox-quantum-userchromejs](https://github.com/Sporif/firefox-quantum-userchromejs) - Firefox Quantum-compatible custom javascript in browser context — no extension, userChromeJS replacement
@@ -587,7 +590,7 @@
 - [mmacneil/devfolio](https://github.com/mmacneil/devfolio) - A simple, responsive, single-page portfolio and resume for developers built with Bulma, Sass, Font Awesome and Flickity.
 - [officialputuid/toolsig](https://github.com/officialputuid/toolsig) - toolsig v4.0 (Instagram Tools, based NodeJS)
 - [deepjyoti30/startpage](https://github.com/deepjyoti30/startpage) - A minimal starpage for Chrome and Firefox
-- [arkenfox/user.js](https://github.com/arkenfox/user.js) - Firefox privacy, security and anti-fingerprinting: a comprehensive user.js template for configuration and hardening
+- [arkenfox/user.js](https://github.com/arkenfox/user.js) - Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening
 - [dfkt/firefox-tweaks](https://github.com/dfkt/firefox-tweaks) - Attempt to make Firefox suck less.
 - [h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
 - [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
@@ -731,6 +734,10 @@
 
 ## Lua 
 
+- [TorchedSammy/dotfiles](https://github.com/TorchedSammy/dotfiles) - 🌺
+- [MCotocel/nixdots](https://github.com/MCotocel/nixdots) - I have no idea what the hell I'm doing
+- [mpourismaiel/dotfiles](https://github.com/mpourismaiel/dotfiles) - dotfiles for my current setup
+- [rafcamlet/simple-wiki.nvim](https://github.com/rafcamlet/simple-wiki.nvim) - Simple note system via linking markdown files in wiki style
 - [lewis6991/spellsitter.nvim](https://github.com/lewis6991/spellsitter.nvim) - Treesitter powered spellchecker
 - [micro-hawk/awesomeWM](https://github.com/micro-hawk/awesomeWM) - My configuration for awesome window manager
 - [anhsirk0/awesome-config](https://github.com/anhsirk0/awesome-config) - My config for awesomewm
@@ -819,7 +826,6 @@
 - [mustaqimM/dotfiles](https://github.com/mustaqimM/dotfiles) - 
 - [figsoda/dotfiles](https://github.com/figsoda/dotfiles) - My dotfiles (nixos + awesome)
 - [zkliebersbach/awesome-md-cfg](https://github.com/zkliebersbach/awesome-md-cfg) - Awesome WM configuration for multiple monitors, inspired by the Material Design guidelines.
-- [the-Electric-Tantra-Linux/awesome](https://github.com/the-Electric-Tantra-Linux/awesome) - the flying spaghetti monster of code, an awesomewm config making awesomewm a DE tailored to my wants, needs and is skeudomorphic!
 - [aidanharris/awesome-config](https://github.com/aidanharris/awesome-config) - My config files for the Awesome window manager
 - [jcrd/awesome-config](https://github.com/jcrd/awesome-config) - AwesomeWM configuration
 - [Ddorda/awesome](https://github.com/Ddorda/awesome) - My Awesome WM configuration
@@ -1734,6 +1740,7 @@
 
 ## Vim script 
 
+- [Quiterion/dotfiles](https://github.com/Quiterion/dotfiles) - Dotfiles for my i3 Arch setup, uploaded for redundancy and easy installation on new machines
 - [russmatney/dotfiles](https://github.com/russmatney/dotfiles) - Doom Emacs, a few-years old vim config, tmux, i3, zsh, polybar
 - [klausweiss/dotfiles](https://github.com/klausweiss/dotfiles) - 
 - [sheerun/vim-polyglot](https://github.com/sheerun/vim-polyglot) - A solid language pack for Vim.
