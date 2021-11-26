@@ -200,7 +200,7 @@
 - [solus-project/evopop-gtk-theme](https://github.com/solus-project/evopop-gtk-theme) - Modern Desktop Theme Suite
 - [creativetimofficial/tailwind-starter-kit](https://github.com/creativetimofficial/tailwind-starter-kit) - Tailwind Starter Kit a beautiful extension for TailwindCSS, Free and Open Source
 - [elenapan/dotfiles](https://github.com/elenapan/dotfiles) - There is no place like ~/
-- [owl4ce/dotfiles](https://github.com/owl4ce/dotfiles) - :cherry_blossom: Aesthetic OpenboxWM Environment. Preparing Joyful Desktop v4
+- [owl4ce/dotfiles](https://github.com/owl4ce/dotfiles) - :cherry_blossom: Aesthetic OpenboxWM Environment. Deprecated, preparing Joyful Desktop v4
 - [Thomashighbaugh/electric-tantra-linux-iso](https://github.com/Thomashighbaugh/electric-tantra-linux-iso) - the files used to build Electric Tantra Linux, my iso demo of my dotfiles WIP
 - [Thomashighbaugh/firefox](https://github.com/Thomashighbaugh/firefox) - Firefox customizations, part of my dotfiles separated for my sanity
 - [obliviousofcraps/mf-dots](https://github.com/obliviousofcraps/mf-dots) - These are some of my ridiculously shit dotfiles that I use in my unproductive daily life.
@@ -319,6 +319,7 @@
 
 ## Go 
 
+- [post04/changeorg-bot](https://github.com/post04/changeorg-bot) - Program to automatically register change.org accounts and add signatures to petitions.
 - [nicolasmanic/tefter](https://github.com/nicolasmanic/tefter) - Simple memo book developed in Go
 - [blrsn/zentile](https://github.com/blrsn/zentile) - Automatic Tiling for EWMH Compliant Window Managers
 - [godarch/darch](https://github.com/godarch/darch) - A tool for building and booting stateless and immutable images, bare metal.
@@ -449,13 +450,13 @@
 
 ## JavaScript 
 
+- [piskelapp/piskel](https://github.com/piskelapp/piskel) - A simple web-based tool for Spriting and Pixel art.
 - [Splode/jin](https://github.com/Splode/jin) - A CLI app for taking simple notes without ever leaving the terminal.
 - [IonicaBizau/idea](https://github.com/IonicaBizau/idea) - :bulb: A lightweight CLI tool and module for keeping ideas in a safe place quick and easy.
 - [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
 - [pop-os/cosmic](https://github.com/pop-os/cosmic) - Computer Operating System Main Interface Components
 - [Sporif/firefox-quantum-userchromejs](https://github.com/Sporif/firefox-quantum-userchromejs) - Firefox Quantum-compatible custom javascript in browser context — no extension, userChromeJS replacement
 - [skygear-demo/skypad](https://github.com/skygear-demo/skypad) - Skypad
-- [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of diagrams.net
 - [evolus/pencil](https://github.com/evolus/pencil) - The Pencil Project's unique mission is to build a free and opensource tool for making diagrams and GUI prototyping that everyone can use.
 - [john-smilga/node-express-course](https://github.com/john-smilga/node-express-course) - 
 - [garywill/tabs-at-bottom](https://github.com/garywill/tabs-at-bottom) - Firefox tabbar at bottom of window, userchrome script 🪟
@@ -734,6 +735,13 @@
 
 ## Lua 
 
+- [Mange/dotfiles](https://github.com/Mange/dotfiles) - A collection of *NIX dotfiles for configuration
+- [sphaugh/awesome-xdg-config](https://github.com/sphaugh/awesome-xdg-config) - my awesomewm config files
+- [doronbehar/.config_awesome](https://github.com/doronbehar/.config_awesome) - My awesome configuration directory
+- [TechnicalDC/AwesomeOS](https://github.com/TechnicalDC/AwesomeOS) - 
+- [macunha1/aweswm](https://github.com/macunha1/aweswm) - AwesomeWM configuration supporting the greatest async best-practices from awful, with submodules (as a "package manager") for a fully modularized setup. Pure Lua implementation focused on performance
+- [Sam1431/NixSome](https://github.com/Sam1431/NixSome) - My Major Rice After a Long time
+- [pinpox/dotfiles-awesome](https://github.com/pinpox/dotfiles-awesome) - Configuration for the Awesome window manager
 - [TorchedSammy/dotfiles](https://github.com/TorchedSammy/dotfiles) - 🌺
 - [MCotocel/nixdots](https://github.com/MCotocel/nixdots) - I have no idea what the hell I'm doing
 - [mpourismaiel/dotfiles](https://github.com/mpourismaiel/dotfiles) - dotfiles for my current setup
@@ -976,6 +984,10 @@
 
 ## Nix 
 
+- [ivanbrennan/nixbox](https://github.com/ivanbrennan/nixbox) - NixOS configuration
+- [peel/dotfiles](https://github.com/peel/dotfiles) - well-tailored NixOS & nix-darwin dotfiles
+- [divnix/devos](https://github.com/divnix/devos) - NixOS Template
+- [terlar/nix-config](https://github.com/terlar/nix-config) - Configuration for NixOS and user home (dot files).
 - [nix-community/nixos-generators](https://github.com/nix-community/nixos-generators) - Collection of image builders [maintainer=@Lassulus]
 
 ## Nunjucks 
@@ -990,6 +1002,7 @@
 
 ## Others 
 
+- [dbb/subtle-patterns-gimp](https://github.com/dbb/subtle-patterns-gimp) - Subtle Patterns as individual, native GIMP .pat files
 - [kelyvin/Google-Messages-For-Desktop](https://github.com/kelyvin/Google-Messages-For-Desktop) - A "native-like" OS X, Windows, & Linux desktop app for Google Messages
 - [ReactNativeNews/React-Native-Apps](https://github.com/ReactNativeNews/React-Native-Apps) - Curated List of Open Source React Native Apps.  Curation curtesy of
 - [Python-World/Py-Resources](https://github.com/Python-World/Py-Resources) - A list of free resources to make learning Python easier.
@@ -1385,6 +1398,7 @@
 
 ## Shell 
 
+- [ExpertAnonymous/PhoneInfoga](https://github.com/ExpertAnonymous/PhoneInfoga) - PhoneInfoga is one of the most advanced tools to scan phone numbers using only free resources.
 - [zodd18/dotfiles](https://github.com/zodd18/dotfiles) - My bspwm dotfiles. Grab whatever you need! :)
 - [Tomas-M/linux-live](https://github.com/Tomas-M/linux-live) - Linux Live Kit
 - [saymoncoppi/xlunchr](https://github.com/saymoncoppi/xlunchr) - A simple xlunch modernization
@@ -1392,6 +1406,7 @@
 - [Manas140/sh](https://github.com/Manas140/sh) - Collection Of My Sh Scripts.
 - [leahneukirchen/hrmpf](https://github.com/leahneukirchen/hrmpf) - hrmpf rescue system, built on Void Linux
 - [samsesh/SocialBox-Termux](https://github.com/samsesh/SocialBox-Termux) - SocialBox is a Bruteforce Attack Framework [ Facebook , Gmail , Instagram ,Twitter ] , Coded By Belahsan Ouerghi Edit By samsesh for termux on android
+- [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of diagrams.net
 - [UbuntuBudgie/Tela-icon-theme](https://github.com/UbuntuBudgie/Tela-icon-theme) - A flat colorful Design icon theme
 - [termux/termux-packages](https://github.com/termux/termux-packages) - A build system and primary set of packages for Termux.
 - [aditya-shri/VPN](https://github.com/aditya-shri/VPN) - Personal vpn using v2ray and shadowsocks hosted on heroku
