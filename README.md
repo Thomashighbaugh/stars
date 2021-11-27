@@ -206,9 +206,11 @@
 - [obliviousofcraps/mf-dots](https://github.com/obliviousofcraps/mf-dots) - These are some of my ridiculously shit dotfiles that I use in my unproductive daily life.
 - [MrOtherGuy/firefox-csshacks](https://github.com/MrOtherGuy/firefox-csshacks) - Collection of userstyles affecting the browser
 - [mrmrs/colors](https://github.com/mrmrs/colors) - Smarter defaults for colors on the web.
+- [the-Electric-Tantra-Linux/Dhumavati-Theme](https://github.com/the-Electric-Tantra-Linux/Dhumavati-Theme) - At the intersections of OneDark and Palenight, Dhumavati a GTK3 theme that's part of the Electric Tantra suite. Featuring gradient styled progress bars & sliders, a dark but still tolerable in daylight UI & the Vice base16 color scheme (also by me)
 - [manilarome/blurredfox](https://github.com/manilarome/blurredfox) - A sleek, modern and elegant Firefox CSS theme
 - [Timvde/UserChrome-Tweaks](https://github.com/Timvde/UserChrome-Tweaks) - A community maintained repository of userChrome.css tweaks for Firefox
 - [necolas/normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets
+- [creio/dots](https://github.com/creio/dots) - Alex Creio dots
 - [AVS1508/My-Alternate-Portfolio-Website](https://github.com/AVS1508/My-Alternate-Portfolio-Website) - Portfolio Website generated using Jekyll, Sass, and Gulp.js, to showcase my web presence, résumé, story, & featured projects with a Particle.js aligned theme.
 - [godlyranchdressing/retrowave-theme](https://github.com/godlyranchdressing/retrowave-theme) - 
 - [TinyRaindrop/Firefox-UI-customization](https://github.com/TinyRaindrop/Firefox-UI-customization) - Changing Firefox UI with custom CSS
@@ -834,6 +836,7 @@
 - [mustaqimM/dotfiles](https://github.com/mustaqimM/dotfiles) - 
 - [figsoda/dotfiles](https://github.com/figsoda/dotfiles) - My dotfiles (nixos + awesome)
 - [zkliebersbach/awesome-md-cfg](https://github.com/zkliebersbach/awesome-md-cfg) - Awesome WM configuration for multiple monitors, inspired by the Material Design guidelines.
+- [the-Electric-Tantra-Linux/awesome](https://github.com/the-Electric-Tantra-Linux/awesome) - the flying spaghetti monster of code, an awesomewm config making awesomewm a DE tailored to my wants, needs and is skeudomorphic!
 - [aidanharris/awesome-config](https://github.com/aidanharris/awesome-config) - My config files for the Awesome window manager
 - [jcrd/awesome-config](https://github.com/jcrd/awesome-config) - AwesomeWM configuration
 - [Ddorda/awesome](https://github.com/Ddorda/awesome) - My Awesome WM configuration
@@ -984,6 +987,7 @@
 
 ## Nix 
 
+- [hlissner/dotfiles](https://github.com/hlissner/dotfiles) - And I say hey, what's going on?
 - [ivanbrennan/nixbox](https://github.com/ivanbrennan/nixbox) - NixOS configuration
 - [peel/dotfiles](https://github.com/peel/dotfiles) - well-tailored NixOS & nix-darwin dotfiles
 - [divnix/devos](https://github.com/divnix/devos) - NixOS Template
@@ -1378,7 +1382,6 @@
 - [prakhar1989/docker-curriculum](https://github.com/prakhar1989/docker-curriculum) - :dolphin: A comprehensive tutorial on getting started with Docker!
 - [Thomashighbaugh/Not-Another-Devlog](https://github.com/Thomashighbaugh/Not-Another-Devlog) - Final form of my devlog. Built with React, Gatsby, SASS, Bootstrap, FontAwesome and SpaceMacs!
 - [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
-- [the-Electric-Tantra-Linux/Dhumavati-Theme](https://github.com/the-Electric-Tantra-Linux/Dhumavati-Theme) - At the intersections of OneDark and Palenight, Dhumavati a GTK3 theme that's part of the Electric Tantra suite. Featuring gradient styled progress bars & sliders, a dark but still tolerable in daylight UI & the Vice base16 color scheme (also by me)
 - [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - My cheatsheets
 - [NCSU-Libraries/jekyll-academic](https://github.com/NCSU-Libraries/jekyll-academic) - 
 - [TeaGuns/odin](https://github.com/TeaGuns/odin) - A Jekyll help desk/knowledge base theme
@@ -1553,7 +1556,6 @@
 - [pi-hole/docker-pi-hole](https://github.com/pi-hole/docker-pi-hole) - Pi-hole in a docker container
 - [InBetweenNames/gentooLTO](https://github.com/InBetweenNames/gentooLTO) - A Gentoo Portage configuration for building with -O3, Graphite, and LTO optimizations
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
-- [creio/dots](https://github.com/creio/dots) - Alex Creio dots
 - [mdaffin/arch-pkgs](https://github.com/mdaffin/arch-pkgs) - Management repo for my Arch Linux systems. Mirror of https://gitlab.com/mdaffin/arch-pkgs
 - [Gictorbit/photoshopCClinux](https://github.com/Gictorbit/photoshopCClinux) - Photoshop CC v19  installer for Gnu/Linux
 - [brinkOS/brinkOS](https://github.com/brinkOS/brinkOS) - Arch based Linux distribution for Engineers
