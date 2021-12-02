@@ -321,6 +321,7 @@
 
 ## Go 
 
+- [nknorg/nkn](https://github.com/nknorg/nkn) - Official Go implementation of NKN full node.
 - [post04/changeorg-bot](https://github.com/post04/changeorg-bot) - Program to automatically register change.org accounts and add signatures to petitions.
 - [nicolasmanic/tefter](https://github.com/nicolasmanic/tefter) - Simple memo book developed in Go
 - [blrsn/zentile](https://github.com/blrsn/zentile) - Automatic Tiling for EWMH Compliant Window Managers
@@ -452,6 +453,7 @@
 
 ## JavaScript 
 
+- [Bacon-labs/website](https://github.com/Bacon-labs/website) - Home of Bacon Labs
 - [piskelapp/piskel](https://github.com/piskelapp/piskel) - A simple web-based tool for Spriting and Pixel art.
 - [Splode/jin](https://github.com/Splode/jin) - A CLI app for taking simple notes without ever leaving the terminal.
 - [IonicaBizau/idea](https://github.com/IonicaBizau/idea) - :bulb: A lightweight CLI tool and module for keeping ideas in a safe place quick and easy.
@@ -737,6 +739,7 @@
 
 ## Lua 
 
+- [gobolinux/gobo-awesome](https://github.com/gobolinux/gobo-awesome) - Awesome WM utilities for GoboLinux
 - [Calinix-Team/calinix-desktop-git](https://github.com/Calinix-Team/calinix-desktop-git) - 
 - [Mange/dotfiles](https://github.com/Mange/dotfiles) - A collection of *NIX dotfiles for configuration
 - [sphaugh/awesome-xdg-config](https://github.com/sphaugh/awesome-xdg-config) - my awesomewm config files
@@ -1297,7 +1300,7 @@
 - [PyTorchLightning/pytorch-lightning](https://github.com/PyTorchLightning/pytorch-lightning) - The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate.
 - [fennerm/flashfocus](https://github.com/fennerm/flashfocus) - Simple focus animations for tiling window managers.
 - [isyuck/dotfiles](https://github.com/isyuck/dotfiles) - dotfiles for my laptop
-- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 100 supported car makes and models.
+- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 150 supported car makes and models.
 - [deviantfero/wpgtk](https://github.com/deviantfero/wpgtk) - :flower_playing_cards: a colorscheme, wallpaper and template manager for *nix
 - [tmux-python/tmuxp](https://github.com/tmux-python/tmuxp) - :computer: tmux session manager. built on libtmux
 - [vt-vl-lab/3d-photo-inpainting](https://github.com/vt-vl-lab/3d-photo-inpainting) - [CVPR 2020] 3D Photography using Context-aware Layered Depth Inpainting
