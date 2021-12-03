@@ -888,7 +888,7 @@
 - [Quisl/Awesome-4.0-Config](https://github.com/Quisl/Awesome-4.0-Config) - My setup for the Awesome WM 4.0. This is meant to run on a Thinkpad T410
 - [Stebalien/awesomewm-config](https://github.com/Stebalien/awesomewm-config) - My AwesomeWM config files
 - [ndgnuh/awesome-config](https://github.com/ndgnuh/awesome-config) - Config set(s) for awesomewm
-- [and3rson/dotfiles](https://github.com/and3rson/dotfiles) - My configs: (neo)vim+lua+lsp+treesitter, sway, alacritty, tmux, bash, molokai colors and stolen dircolors.
+- [and3rson/dotfiles](https://github.com/and3rson/dotfiles) - My configs: (neo)vim+lua+lsp+treesitter, wayland (riverwm, yambar, sway, waybar), alacritty, tmux, bash, molokai colors and stolen dircolors.
 - [denstiny/awesome-config](https://github.com/denstiny/awesome-config) - awesome config file ,sava my config
 - [Nguyen-Hoang-Nam/nvim-dotfiles-kitty](https://github.com/Nguyen-Hoang-Nam/nvim-dotfiles-kitty) - NeoVim Configuration that makes me feel comfortable and pleasant
 - [Creator54/awesome](https://github.com/Creator54/awesome) - Some beautiful awesome configs gathered with some minor changes just switch git checkout $branch and reload(mod+shift+r) to enjoy a new layout. lazy to update README use mod+s instead
@@ -1441,7 +1441,7 @@
 - [shade-linux/soul](https://github.com/shade-linux/soul) - A dotfile manager
 - [oracle/vagrant-projects](https://github.com/oracle/vagrant-projects) - Vagrant projects for Oracle products and other examples
 - [ParallaxWave/dotfiles](https://github.com/ParallaxWave/dotfiles) - 
-- [TheRealKizu/dotfiles](https://github.com/TheRealKizu/dotfiles) - 🍚 my dootfiles on my daily driver.
+- [TheRealKizu/dotfiles](https://github.com/TheRealKizu/dotfiles) - 🍚 my dotfiles on my daily driver.
 - [totoro-ghost/dotfiles](https://github.com/totoro-ghost/dotfiles) - My dotfiles.
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 - [dcchambers/note-keeper](https://github.com/dcchambers/note-keeper) - :notebook: A tiny bash tool for taking and organizing notes.
@@ -1605,7 +1605,6 @@
 - [helixarch/debtap](https://github.com/helixarch/debtap) - A script for converting .deb packages into Arch Linux packages, focused on accuracy
 - [stark/siji](https://github.com/stark/siji) - An iconic bitmap font based on Stlarch with additional glyphs.
 - [LukeSmithxyz/lb](https://github.com/LukeSmithxyz/lb) - Blog & RSS system in less than 100 lines of shell script
-- [endeavouros-team/EndeavourOS-archiso](https://github.com/endeavouros-team/EndeavourOS-archiso) - Build EndeavourOS ISO
 - [eoli3n/dotfiles](https://github.com/eoli3n/dotfiles) - Sway acid dark
 - [MatMoul/archfi](https://github.com/MatMoul/archfi) - Arch Linux Fast Installer : tutorial installer
 - [LukeSmithxyz/LARBS](https://github.com/LukeSmithxyz/LARBS) - Luke's Auto-Rice Bootstrapping Scripts: Installation Scripts for My Arch Linux Meta-Distribution
