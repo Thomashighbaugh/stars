@@ -1668,7 +1668,7 @@
 - [ixartz/Next-js-Blog-Boilerplate](https://github.com/ixartz/Next-js-Blog-Boilerplate) - 🚀 Nextjs Blog Boilerplate is starter code for your blog based on Next framework. ⚡️ Made with Nextjs, TypeScript, ESLint, Prettier, PostCSS, Tailwind CSS.
 - [abhishekbhardwaj/tailwind-react-next.js-typescript-eslint-jest-starter](https://github.com/abhishekbhardwaj/tailwind-react-next.js-typescript-eslint-jest-starter) - Starter template for building a project using React, Typescript, Next.js, Jest, TailwindCSS and ESLint.
 - [jlifts/my-portfolio](https://github.com/jlifts/my-portfolio) - My portfolio site and blog made with React/NextJS, ESLint & Prettier, Typescript, NodeJS(Go in the future), and Ghost CMS for the blog. Display of my projects and skills.
-- [theodorusclarence/theodorusclarence.com](https://github.com/theodorusclarence/theodorusclarence.com) - A personal website and a blog by Theodorus Clarence, made using Next.js, TypeScript, Tailwind CSS, MDX Bundler, FaunaDB, and Preact.
+- [theodorusclarence/theodorusclarence.com](https://github.com/theodorusclarence/theodorusclarence.com) - 💠 Personal website and blog made using Next.js, TypeScript, Tailwind CSS, MDX Bundler, FaunaDB, and Preact.
 - [lailo/next-with-tailwindcss](https://github.com/lailo/next-with-tailwindcss) - NextJS with TypeScript and TailwindCSS (with dark theme switch)
 - [adonig/nextjs-starter-preact-tailwindcss](https://github.com/adonig/nextjs-starter-preact-tailwindcss) - A Next.js starter project coming with Preact and Tailwind CSS built-in.
 - [remorses/dokz](https://github.com/remorses/dokz) - Effortless documentation with Next.js and MDX
