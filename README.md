@@ -181,6 +181,7 @@
 
 ## CSS 
 
+- [andreasgrafen/cascade](https://github.com/andreasgrafen/cascade) - Firefox custom CSS based on Simplefox
 - [halfmoonui/halfmoon](https://github.com/halfmoonui/halfmoon) - Front-end framework with a built-in dark mode and full customizability using CSS variables; great for building dashboards and tools.
 - [FrenzyExists/dotfiles](https://github.com/FrenzyExists/dotfiles) - My chaotic dotfiles, it ain't much, but its honest work
 - [ProgrammingFonts/ProgrammingFonts](https://github.com/ProgrammingFonts/ProgrammingFonts) - This is a collection of programming fonts,just share this with the programmers.Now there are 103 kinds of fantastic fonts!
@@ -369,6 +370,7 @@
 
 ## HTML 
 
+- [TedGoas/Responsive-Email-XX](https://github.com/TedGoas/Responsive-Email-XX) - A few layout ideas for HTML email that adapt to small screens and respond to breakpoints.
 - [mattlag/California-Gothic](https://github.com/mattlag/California-Gothic) - A typeface for California vexillographers
 - [TedGoas/stacks-maizzle](https://github.com/TedGoas/stacks-maizzle) - Stack Overflow's email design system built using Maizzle
 - [chitru/newsletter](https://github.com/chitru/newsletter) - HTML Newsletter templates
@@ -561,7 +563,7 @@
 - [sintaxi/harp](https://github.com/sintaxi/harp) - Static Site Server/Generator with built-in preprocessing
 - [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
 - [react-static/react-static](https://github.com/react-static/react-static) - ⚛️ 🚀 A progressive static site generator for React.
-- [nuxt/nuxt.js](https://github.com/nuxt/nuxt.js) - The Intuitive Vue Framework
+- [nuxt/nuxt.js](https://github.com/nuxt/nuxt.js) - The Intuitive Vue(2) Framework
 - [hexojs/hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
 - [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - Build blazing fast, modern apps and websites with React
 - [11ty/eleventy](https://github.com/11ty/eleventy) - A simpler static site generator. An alternative to Jekyll. Transforms a directory of templates (of varying types) into HTML.
@@ -593,7 +595,7 @@
 - [thisisroi/roi-portfolio](https://github.com/thisisroi/roi-portfolio) - ✨ Portfolio site created using Nextjs.
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (December 2021)
-- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across +1000 social  (Detections are updated regularly by automated systems)
+- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across +1000 social media \ websites (Detections are updated regularly by automated systems)
 - [ohansemmanuel/react-hooks-cheatsheet](https://github.com/ohansemmanuel/react-hooks-cheatsheet) - 🦖 React hooks cheatsheet with live editable examples
 - [yTakkar/React-Instagram-Clone-2.0](https://github.com/yTakkar/React-Instagram-Clone-2.0) - A reactive Single-Page Instagram-Clone with some new features!! 💪📸👓 - No longer maintained.
 - [mmacneil/devfolio](https://github.com/mmacneil/devfolio) - A simple, responsive, single-page portfolio and resume for developers built with Bulma, Sass, Font Awesome and Flickity.
@@ -743,6 +745,7 @@
 
 ## Lua 
 
+- [cjpbirkbeck/dots](https://github.com/cjpbirkbeck/dots) - Dot files
 - [gobolinux/gobo-awesome](https://github.com/gobolinux/gobo-awesome) - Awesome WM utilities for GoboLinux
 - [Calinix-Team/calinix-desktop-git](https://github.com/Calinix-Team/calinix-desktop-git) - 
 - [Mange/dotfiles](https://github.com/Mange/dotfiles) - A collection of *NIX dotfiles for configuration
