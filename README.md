@@ -1203,6 +1203,7 @@
 
 ## Python 
 
+- [gnebbia/kb](https://github.com/gnebbia/kb) - A minimalist command line knowledge base manager
 - [PaulMcInnis/JobFunnel](https://github.com/PaulMcInnis/JobFunnel) - Scrape job websites into a single spreadsheet with no duplicates.
 - [tfeldmann/organize](https://github.com/tfeldmann/organize) - The file management automation tool.
 - [Gameye98/vbug](https://github.com/Gameye98/vbug) - virus maker
@@ -1669,6 +1670,7 @@
 
 ## TypeScript 
 
+- [pankod/refine](https://github.com/pankod/refine) - refine is a React-based framework for building data-intensive applications in no time ✨ It ships with Ant Design System, an enterprise-level UI toolkit.
 - [notemarks/notemarks](https://github.com/notemarks/notemarks) - A git based labeling app to manage notes, documents, and bookmarks.
 - [mvximenko/dunno](https://github.com/mvximenko/dunno) - Simplified version of IMDb built with React.
 - [KaterinaLupacheva/my-projects-dashboard](https://github.com/KaterinaLupacheva/my-projects-dashboard) - Next.js, Material UI, MongoDB Personal Dashboard with dev.to, GitHub, Twitter, and npm API integration.
