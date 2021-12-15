@@ -273,7 +273,7 @@
 - [lassekongo83/zuki-themes](https://github.com/lassekongo83/zuki-themes) - Themes for GTK, gnome-shell and more.
 - [mate-desktop/mate-themes](https://github.com/mate-desktop/mate-themes) - Official themes for the MATE desktop
 - [hrdwrrsk/adementary-theme](https://github.com/hrdwrrsk/adementary-theme) - A theme for GNOME/Budgie/Xfce/Cinnamon desktop with elementary-ish aesthetics.
-- [linuxdeepin/deepin-gtk-theme](https://github.com/linuxdeepin/deepin-gtk-theme) - mirrored from https://cr.deepin.io/#/admin/projects/deepin-gtk-theme
+- [linuxdeepin/deepin-gtk-theme](https://github.com/linuxdeepin/deepin-gtk-theme) - 
 - [bolimage/Ultimate-Maia](https://github.com/bolimage/Ultimate-Maia) - Easy On The Eyes Material design like Gnome theme.
 - [daniruiz/flat-remix-gtk](https://github.com/daniruiz/flat-remix-gtk) - Flat Remix is a GTK application theme inspired by material design. It is mostly flat using a colorful palette with some shadows, highlights, and gradients for some depth.
 - [daniruiz/flat-remix-css](https://github.com/daniruiz/flat-remix-css) - A lightweight CSS library that provides a set of predesigned elements useful for rapid web development. It follows a modern flat design using a colorful palette with some shadows, highlights, and gradients for some depth.
@@ -596,7 +596,7 @@
 - [thisisroi/roi-portfolio](https://github.com/thisisroi/roi-portfolio) - ✨ Portfolio site created using Nextjs.
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (December 2021)
-- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across +1000 social media \ websites (Detections are updated regularly by automated systems)
+- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across social media \ websites (Detections are updated regularly by automated systems)
 - [ohansemmanuel/react-hooks-cheatsheet](https://github.com/ohansemmanuel/react-hooks-cheatsheet) - 🦖 React hooks cheatsheet with live editable examples
 - [yTakkar/React-Instagram-Clone-2.0](https://github.com/yTakkar/React-Instagram-Clone-2.0) - A reactive Single-Page Instagram-Clone with some new features!! 💪📸👓 - No longer maintained.
 - [mmacneil/devfolio](https://github.com/mmacneil/devfolio) - A simple, responsive, single-page portfolio and resume for developers built with Bulma, Sass, Font Awesome and Flickity.
@@ -717,6 +717,7 @@
 
 - [geerlingguy/internet-pi](https://github.com/geerlingguy/internet-pi) - Raspberry Pi config for all things Internet.
 - [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) - Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker
+- [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
 
 ## Julia 
 
@@ -1343,7 +1344,6 @@
 - [rudrab/Shadow](https://github.com/rudrab/Shadow) - Flat icons; Beautiful Linux
 - [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
 - [gto76/python-cheatsheet](https://github.com/gto76/python-cheatsheet) - Comprehensive Python Cheatsheet
-- [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
 - [UbuntuBudgie/budgie-desktop-environment](https://github.com/UbuntuBudgie/budgie-desktop-environment) - Metapackage to install all components of the Ubuntu Budgie desktop environment
 - [cmoscardi/lilite](https://github.com/cmoscardi/lilite) - Lilite: A Linux package installer
 - [scottslowe/learning-tools](https://github.com/scottslowe/learning-tools) - A collection of tools and files for learning new technologies
