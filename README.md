@@ -1532,7 +1532,6 @@
 - [mviereck/x11docker](https://github.com/mviereck/x11docker) - Run GUI applications and desktops in docker and podman containers. Focus on security.
 - [ivanilves/xiringuito](https://github.com/ivanilves/xiringuito) - SSH-based "VPN for poors"
 - [adi1090x/rofi](https://github.com/adi1090x/rofi) - A large collection of Rofi based custom Menu, Applets, Launchers & Powermenus.
-- [svgsalad/inkscape-svg-cheat](https://github.com/svgsalad/inkscape-svg-cheat) - Various cheatsheets made for Inkscape users. :memo:
 - [archlive/archlive](https://github.com/archlive/archlive) - Custom Arch Linux Live ISO Image
 - [jreese/arch](https://github.com/jreese/arch) - Personal package repository for Arch Linux
 - [GhostWriters/DockSTARTer](https://github.com/GhostWriters/DockSTARTer) - DockSTARTer helps you get started with running apps in Docker.
