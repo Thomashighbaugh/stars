@@ -81,7 +81,7 @@
 - [nullsecuritynet/tools](https://github.com/nullsecuritynet/tools) - Security and Hacking Tools, Exploits, Proof of Concepts, Shellcodes, Scripts.
 - [moetunes/Nextwm](https://github.com/moetunes/Nextwm) - snapwm is an easy to configure, dynamic, tiling window manager. Built on dminiwm with a desktop switcher, info bar and reloadable rc file.
 - [collinsmichael/spartan](https://github.com/collinsmichael/spartan) - Final Year Project - Multi-Tasking GUI based Operating System designed with usability in mind
-- [varmd/wayward](https://github.com/varmd/wayward) - Fast GTK shell and compositor for wayland and weston.
+- [varmd/wayward](https://github.com/varmd/wayward) - Fast desktop shell for wayland and weston.
 - [inclement/vivarium](https://github.com/inclement/vivarium) - A dynamic tiling Wayland compositor using wlroots
 - [taiwins/taiwins](https://github.com/taiwins/taiwins) - taiwins, a modern wayland compositor
 - [nnoell/neurowm](https://github.com/nnoell/neurowm) - An extremely configurable, fast, dynamic tiling window manager for X
@@ -457,6 +457,7 @@
 
 ## JavaScript 
 
+- [masokky/instagram-tools](https://github.com/masokky/instagram-tools) - Node.JS Instagram Tools
 - [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
 - [Bacon-labs/website](https://github.com/Bacon-labs/website) - Home of Bacon Labs
 - [piskelapp/piskel](https://github.com/piskelapp/piskel) - A simple web-based tool for Spriting and Pixel art.
@@ -747,6 +748,8 @@
 
 ## Lua 
 
+- [xiyaowong/nvim-cursorword](https://github.com/xiyaowong/nvim-cursorword) - highlight the word under the cursor.
+- [UltiRequiem/UltiVim](https://github.com/UltiRequiem/UltiVim) - 🌕 A blazing fast and highly documented configuration to serve as a guide.
 - [Jim8Knopf/awesome](https://github.com/Jim8Knopf/awesome) - This will be my awesomeWM config file that fittes my need
 - [cjpbirkbeck/dots](https://github.com/cjpbirkbeck/dots) - Dot files
 - [gobolinux/gobo-awesome](https://github.com/gobolinux/gobo-awesome) - Awesome WM utilities for GoboLinux
@@ -1021,6 +1024,7 @@
 
 ## Others 
 
+- [dypsilon/frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) - Manually curated collection of resources for frontend web developers.
 - [ibhagwan/eth2-validator-guide](https://github.com/ibhagwan/eth2-validator-guide) - 
 - [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.
 - [dbb/subtle-patterns-gimp](https://github.com/dbb/subtle-patterns-gimp) - Subtle Patterns as individual, native GIMP .pat files
@@ -1356,6 +1360,7 @@
 
 ## Ruby 
 
+- [rails/rails](https://github.com/rails/rails) - Ruby on Rails
 - [18F/open-source-guide](https://github.com/18F/open-source-guide) - 18F’s Style guide for open source project documentation
 - [loomio/loomio](https://github.com/loomio/loomio) - Loomio helps people make decisions together
 - [jakubgarfield/instagram-scheduler](https://github.com/jakubgarfield/instagram-scheduler) - 📷  Beautiful way to get shadowbanned on Instagram by ⏰ scheduling your 🌁 photos.
@@ -1672,6 +1677,7 @@
 
 ## TypeScript 
 
+- [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [pankod/refine](https://github.com/pankod/refine) - refine is a React-based framework for building data-intensive applications in no time ✨ It ships with Ant Design System, an enterprise-level UI toolkit.
 - [notemarks/notemarks](https://github.com/notemarks/notemarks) - A git based labeling app to manage notes, documents, and bookmarks.
 - [mvximenko/dunno](https://github.com/mvximenko/dunno) - Simplified version of IMDb built with React.
