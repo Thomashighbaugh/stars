@@ -185,6 +185,7 @@
 
 ## CSS 
 
+- [23Bluemaster23/EdgeFox](https://github.com/23Bluemaster23/EdgeFox) - Is a userchrome that imitates (or attempts to imitate) the style of Microsoft's Edge Chromiun browser. is a project in development./Es un userchrome que imita (o intenta imitar) el estilo del navegador Edge Chromiun de Microsoft. es un proyecto en desarrollo.
 - [tortious/FrozenFox](https://github.com/tortious/FrozenFox) - A personal hodgepodge of css and js hacks to firefox that I personally enjoy. Strong emphasis on a blend of minimalism and functionality.
 - [tortious/MintyFox](https://github.com/tortious/MintyFox) - Customization of Firefox Quantum using userChrome, userContent, and various other files involving the userChrome.js hack that allows for uc.js docs to be incorporated.
 - [dannycolin/fx-compact-mode](https://github.com/dannycolin/fx-compact-mode) - A Compact Mode for Firefox Proton
@@ -1525,7 +1526,7 @@
 - [Fosstack/dotfiles](https://github.com/Fosstack/dotfiles) - Collection of dotfiles for my arch setup
 - [instantOS/iso](https://github.com/instantOS/iso) - Tools for creating a live iso of instantOS
 - [kotoko/voidlinux-iso-extra](https://github.com/kotoko/voidlinux-iso-extra) - Void (Linux) installation ISO with additional programs
-- [alealexpro100/linux_install](https://github.com/alealexpro100/linux_install) - Install various distros from Linux.
+- [alealexpro100/linux_install](https://github.com/alealexpro100/linux_install) - Easily install various Linux distributions without any package manager.
 - [diemol/cud](https://github.com/diemol/cud) - Set of scripts to set an Ubuntu desktop with VNC in the cloud
 - [guysoft/RealtimePi](https://github.com/guysoft/RealtimePi) - An out-of-the-box raspebrrypi/raspbian distro with a realtime kernel
 - [aferrero2707/gimp-plugins-collection](https://github.com/aferrero2707/gimp-plugins-collection) - 
