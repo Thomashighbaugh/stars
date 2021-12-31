@@ -476,6 +476,7 @@
 
 ## JavaScript 
 
+- [AveYo/fox](https://github.com/AveYo/fox) - Firefox stuff
 - [gregives/Twelvety](https://github.com/gregives/Twelvety) - An Eleventy starter project built to be fast
 - [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [epsylon/ufonet](https://github.com/epsylon/ufonet) - UFONet - Denial of Service Toolkit
@@ -881,7 +882,7 @@
 - [mpostaire/dotfiles](https://github.com/mpostaire/dotfiles) - 
 - [mustaqimM/dotfiles](https://github.com/mustaqimM/dotfiles) - 
 - [figsoda/dotfiles](https://github.com/figsoda/dotfiles) - My dotfiles (nixos + awesome)
-- [zkliebersbach/awesome-md-cfg](https://github.com/zkliebersbach/awesome-md-cfg) - Awesome WM configuration for multiple monitors, inspired by the Material Design guidelines.
+- [zliebersbach/awesome-md-cfg](https://github.com/zliebersbach/awesome-md-cfg) - Awesome WM configuration for multiple monitors, inspired by the Material Design guidelines.
 - [the-Electric-Tantra-Linux/awesome](https://github.com/the-Electric-Tantra-Linux/awesome) - the flying spaghetti monster of code, an awesomewm config making awesomewm a DE tailored to my wants, needs and is skeudomorphic!
 - [aidanharris/awesome-config](https://github.com/aidanharris/awesome-config) - My config files for the Awesome window manager
 - [jcrd/awesome-config](https://github.com/jcrd/awesome-config) - AwesomeWM configuration
@@ -1053,6 +1054,7 @@
 
 ## Others 
 
+- [nicholasglazer/anarchy-firefox](https://github.com/nicholasglazer/anarchy-firefox) - Anarchy is dark, clean and simple. It's oriented to enhance your web experience by emphasizing important parts to stay focused and at the same time relaxed. This theme is a part of my Linux configuration.
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [ShadowWhisperer/IPs](https://github.com/ShadowWhisperer/IPs) - IP block lists for: Malware, Hackers, Sniffers, etc..
 - [gilescope/cyberpunkfonts](https://github.com/gilescope/cyberpunkfonts) - Cyberpunk inspired fonts for coding
