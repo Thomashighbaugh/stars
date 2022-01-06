@@ -783,6 +783,11 @@
 
 ## Lua 
 
+- [notnew/awesome-frames](https://github.com/notnew/awesome-frames) - a emacs inspired layout for awesome window manager
+- [Drauthius/awesome-sharedtags](https://github.com/Drauthius/awesome-sharedtags) - Share and move tags on multiple screens when using the awesome window manager.
+- [berlam/awesome-switcher](https://github.com/berlam/awesome-switcher) - Switch clients in Awesome WM with the familiar preview functionality
+- [alpha2phi/dotfiles](https://github.com/alpha2phi/dotfiles) - Repository of dot files.
+- [Jonesad-ETSU/awesomewm-config](https://github.com/Jonesad-ETSU/awesomewm-config) - Hello, welcome to my awesome awesomewm config. Feel free to steal it for personal use :)
 - [CosmicNvim/cosmic-ui](https://github.com/CosmicNvim/cosmic-ui) - Cosmic-UI is a simple wrapper around specific vim functionality. Built in order to provide a quick and easy way to create a Cosmic UI experience with Neovim!
 - [doyousketch2/luakit_scripts](https://github.com/doyousketch2/luakit_scripts) - lua & css config for luakit browser
 - [StephenWattam/luakit-config](https://github.com/StephenWattam/luakit-config) - My luakit configuration
@@ -1303,7 +1308,7 @@
 - [Lifesgood123/unixpornposter](https://github.com/Lifesgood123/unixpornposter) - 
 - [demisto/content](https://github.com/demisto/content) - Demisto is now Cortex XSOAR. Automate and orchestrate your Security Operations with Cortex XSOAR's ever-growing Content Repository. Pull Requests are always welcome and highly appreciated!
 - [awesometoolbox/otf2ttf](https://github.com/awesometoolbox/otf2ttf) - Convert OpenType Font (OTF) to TrueType Font (TTF) format using fonttools.
-- [willmcgugan/rich](https://github.com/willmcgugan/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
+- [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [matplotlib/cheatsheets](https://github.com/matplotlib/cheatsheets) - Official Matplotlib cheat sheets
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
@@ -1463,6 +1468,7 @@
 
 ## SCSS 
 
+- [UbuntuBudgie/pocillo-gtk-theme](https://github.com/UbuntuBudgie/pocillo-gtk-theme) - GTK+ 3.22 & GTK+ 4 based theme for the Budgie Desktop that has Material Design elements and styled using the Arc colour palette
 - [Infamoustrey/outrun-css](https://github.com/Infamoustrey/outrun-css) - An epic css framework for cyberpunk websites
 - [prakhar1989/docker-curriculum](https://github.com/prakhar1989/docker-curriculum) - :dolphin: A comprehensive tutorial on getting started with Docker!
 - [Thomashighbaugh/Not-Another-Devlog](https://github.com/Thomashighbaugh/Not-Another-Devlog) - Final form of my devlog. Built with React, Gatsby, SASS, Bootstrap, FontAwesome and SpaceMacs!
@@ -1511,7 +1517,7 @@
 - [ahmetozer/whitedoor](https://github.com/ahmetozer/whitedoor) - WhiteDoor Linux Distro Build Enviroment. It is based on LFS Book. It have a easy configuration functions to prepare environment easily
 - [Sharrisii/TAZ](https://github.com/Sharrisii/TAZ) - A slimmed down gentoo linux livecd/liveusb iso that allows to load different boot options and runs from RAM upon boot. A VCTLabs project.
 - [LinuxGuides-OS/LinuxGuidesOS](https://github.com/LinuxGuides-OS/LinuxGuidesOS) - LinuxGuides OS Hauptrepo
-- [IncredibleHacker/insta-hack](https://github.com/IncredibleHacker/insta-hack) - All in one Instagram hacking tool available (Insta information gathering, Insta brute force, Insta account banned)
+- [IncredibleHacker/insta-hack](https://github.com/IncredibleHacker/insta-hack) - All in one Instagram hacking tool available (Insta information gathering, Insta brute force, Insta account auto repoter)
 - [dcloud-ca/voidLuksSetup](https://github.com/dcloud-ca/voidLuksSetup) - Bash script for installing Void Linux with disk encryption
 - [toluschr/xdeb](https://github.com/toluschr/xdeb) - XDEB - Convert deb (Debian) packages to xbps (Void Linux)
 - [project-trident/trident-installer](https://github.com/project-trident/trident-installer) - Graphical system install utility
