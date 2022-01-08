@@ -341,6 +341,7 @@
 
 ## Go 
 
+- [fyne-io/fynedesk](https://github.com/fyne-io/fynedesk) - A full desktop environment for Linux/Unix using Fyne
 - [codenotary/immudb](https://github.com/codenotary/immudb) - immudb - world’s fastest immutable database, built on a zero trust model
 - [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems
 - [KCarretto/paragon](https://github.com/KCarretto/paragon) - Red Team engagement platform with the goal of unifying offensive tools behind a simple UI
@@ -783,6 +784,9 @@
 
 ## Lua 
 
+- [amirulmenjeni/dotfiles](https://github.com/amirulmenjeni/dotfiles) - My linux desktop config and theme files.
+- [aregee/awesome-wm](https://github.com/aregee/awesome-wm) - System configs to restore my minimal functional Workflow
+- [Aire-One/awesome-AnimationFramework](https://github.com/Aire-One/awesome-AnimationFramework) - A Simple Animation Framework for the Awesome WM
 - [notnew/awesome-frames](https://github.com/notnew/awesome-frames) - a emacs inspired layout for awesome window manager
 - [Drauthius/awesome-sharedtags](https://github.com/Drauthius/awesome-sharedtags) - Share and move tags on multiple screens when using the awesome window manager.
 - [berlam/awesome-switcher](https://github.com/berlam/awesome-switcher) - Switch clients in Awesome WM with the familiar preview functionality
@@ -1071,6 +1075,7 @@
 
 ## Others 
 
+- [mehransab101/Learning-Pentesting-With-Python](https://github.com/mehransab101/Learning-Pentesting-With-Python) - Learning-Pentesting-With-Python
 - [OffcierCia/DeFi-Developer-Road-Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map) - DeFi Developer roadmap is a curated Ethereum Developer handbook which includes a list of the best tools for DApps, development resources and lifehacks.
 - [bregman-arie/system-design-notebook](https://github.com/bregman-arie/system-design-notebook) - Learn System Design step by step
 - [nicholasglazer/anarchy-firefox](https://github.com/nicholasglazer/anarchy-firefox) - Anarchy is dark, clean and simple. It's oriented to enhance your web experience by emphasizing important parts to stay focused and at the same time relaxed. This theme is a part of my Linux configuration.
@@ -1423,6 +1428,7 @@
 
 ## Ruby 
 
+- [0xsauby/yasuo](https://github.com/0xsauby/yasuo) - A ruby script that scans for vulnerable & exploitable 3rd-party web applications on a network
 - [rails/rails](https://github.com/rails/rails) - Ruby on Rails
 - [18F/open-source-guide](https://github.com/18F/open-source-guide) - 18F’s Style guide for open source project documentation
 - [loomio/loomio](https://github.com/loomio/loomio) - Loomio helps people make decisions together
