@@ -196,7 +196,7 @@
 - [andreasgrafen/cascade](https://github.com/andreasgrafen/cascade) - Firefox custom CSS based on Simplefox
 - [halfmoonui/halfmoon](https://github.com/halfmoonui/halfmoon) - Front-end framework with a built-in dark mode and full customizability using CSS variables; great for building dashboards and tools.
 - [FrenzyExists/dotfiles](https://github.com/FrenzyExists/dotfiles) - My chaotic dotfiles, it ain't much, but its honest work
-- [ProgrammingFonts/ProgrammingFonts](https://github.com/ProgrammingFonts/ProgrammingFonts) - This is a collection of programming fonts,just share this with the programmers.Now there are 106 kinds of fantastic fonts!
+- [ProgrammingFonts/ProgrammingFonts](https://github.com/ProgrammingFonts/ProgrammingFonts) - This is a collection of programming fonts,just share this with the programmers.Now there are 107 kinds of fantastic fonts!
 - [ArtemSmaznov/Dotfiles](https://github.com/ArtemSmaznov/Dotfiles) - A collection of personal dotfiles
 - [Tsuyoken/dotfiles](https://github.com/Tsuyoken/dotfiles) - Backup Dotfiles
 - [Thomashighbaugh/zeal--master](https://github.com/Thomashighbaugh/zeal--master) - 
@@ -342,6 +342,7 @@
 
 ## Go 
 
+- [OJ/gobuster](https://github.com/OJ/gobuster) - Directory/File, DNS and VHost busting tool written in Go
 - [fyne-io/fynedesk](https://github.com/fyne-io/fynedesk) - A full desktop environment for Linux/Unix using Fyne
 - [codenotary/immudb](https://github.com/codenotary/immudb) - immudb - immutable database based on zero trust, SQL and Key-Value, tamperproof, data change history
 - [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems
@@ -785,6 +786,7 @@
 
 ## Lua 
 
+- [mickael-menu/zk-nvim](https://github.com/mickael-menu/zk-nvim) - Neovim extension for zk
 - [amirulmenjeni/dotfiles](https://github.com/amirulmenjeni/dotfiles) - My linux desktop config and theme files.
 - [aregee/awesome-wm](https://github.com/aregee/awesome-wm) - System configs to restore my minimal functional Workflow
 - [Aire-One/awesome-AnimationFramework](https://github.com/Aire-One/awesome-AnimationFramework) - A Simple Animation Framework for the Awesome WM
@@ -1199,7 +1201,7 @@
 - [DFabric/dppm-packages-source](https://github.com/DFabric/dppm-packages-source) - Sources used to build the dppm packages
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
-- [iggredible/Learn-Vim](https://github.com/iggredible/Learn-Vim) - Learning Vim and Vimscript doesn't have to be hard. This is the guide that you're looking for.
+- [iggredible/Learn-Vim](https://github.com/iggredible/Learn-Vim) - Learning Vim and Vimscript doesn't have to be hard. This is the guide that you're looking for 📖
 - [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
 - [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
 - [aboelkassem/educative.io_courses](https://github.com/aboelkassem/educative.io_courses) - this is downloadings of all educative.io free student subscription courses as pdf from GitHub student pack
@@ -1429,6 +1431,7 @@
 
 ## Ruby 
 
+- [ruby/rake](https://github.com/ruby/rake) - A make-like build utility for Ruby.
 - [0xsauby/yasuo](https://github.com/0xsauby/yasuo) - A ruby script that scans for vulnerable & exploitable 3rd-party web applications on a network
 - [rails/rails](https://github.com/rails/rails) - Ruby on Rails
 - [18F/open-source-guide](https://github.com/18F/open-source-guide) - 18F’s Style guide for open source project documentation
@@ -1499,6 +1502,7 @@
 
 ## Shell 
 
+- [mthbernardes/sshLooter](https://github.com/mthbernardes/sshLooter) - Script to steal passwords from ssh.
 - [ossiozac/Raspberry-Pi-Zero-Rubber-Ducky-Duckberry-Pi](https://github.com/ossiozac/Raspberry-Pi-Zero-Rubber-Ducky-Duckberry-Pi) - A £10 Rubber Ducky USB HID! A USB device which emulates a keyboard and automates key entry.
 - [Valiev/almostontop](https://github.com/Valiev/almostontop) - almostontop zsh plugin
 - [LukeSmithxyz/mutt-wizard](https://github.com/LukeSmithxyz/mutt-wizard) - A system for automatically configuring mutt and isync with a simple interface and safe passwords
@@ -1756,6 +1760,7 @@
 
 ## TypeScript 
 
+- [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
 - [Bismuth-Forge/bismuth](https://github.com/Bismuth-Forge/bismuth) - KDE Plasma extension, that lets you tile your windows automatically and manage them via keyboard, just like in classical tiling window managers (i3, dwm or XMonad).
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [pankod/refine](https://github.com/pankod/refine) - refine is a React-based framework for building data-intensive applications in no time ✨ It ships with Ant Design System, an enterprise-level UI toolkit.
