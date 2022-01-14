@@ -72,6 +72,7 @@
 
 ## C 
 
+- [joestandring/dotfiles-void](https://github.com/joestandring/dotfiles-void) - My Void Linux dotfiles
 - [freddiev4/dailyprogrammerchallenges](https://github.com/freddiev4/dailyprogrammerchallenges) - Bank of challenges & solutions from r/dailyprogrammer for people learning to program
 - [addy-dclxvi/almighty-dotfiles](https://github.com/addy-dclxvi/almighty-dotfiles) - A dump repository of my dotfiles since the first time I learned ricing. So everything is really messy here.
 - [bakkeby/dusk](https://github.com/bakkeby/dusk) - Just another fork of dwm
@@ -342,6 +343,7 @@
 
 ## Go 
 
+- [jboursiquot/portscan](https://github.com/jboursiquot/portscan) - Port scanning examples to teach Go concurrency bounding
 - [OJ/gobuster](https://github.com/OJ/gobuster) - Directory/File, DNS and VHost busting tool written in Go
 - [fyne-io/fynedesk](https://github.com/fyne-io/fynedesk) - A full desktop environment for Linux/Unix using Fyne
 - [codenotary/immudb](https://github.com/codenotary/immudb) - immudb - immutable database based on zero trust, SQL and Key-Value, tamperproof, data change history
@@ -786,6 +788,7 @@
 
 ## Lua 
 
+- [onsails/diaglist.nvim](https://github.com/onsails/diaglist.nvim) - Live render workspace diagnostics in quickfix with current buf errors on top, buffer diagnostics in loclist
 - [mickael-menu/zk-nvim](https://github.com/mickael-menu/zk-nvim) - Neovim extension for zk
 - [amirulmenjeni/dotfiles](https://github.com/amirulmenjeni/dotfiles) - My linux desktop config and theme files.
 - [aregee/awesome-wm](https://github.com/aregee/awesome-wm) - System configs to restore my minimal functional Workflow
@@ -1078,6 +1081,7 @@
 
 ## Others 
 
+- [P1xt/p1xt-guides](https://github.com/P1xt/p1xt-guides) - Programming curricula
 - [mehransab101/Learning-Pentesting-With-Python](https://github.com/mehransab101/Learning-Pentesting-With-Python) - Learning-Pentesting-With-Python
 - [OffcierCia/DeFi-Developer-Road-Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map) - DeFi Developer roadmap is a curated Ethereum Developer handbook which includes a list of the best tools for DApps, development resources and lifehacks.
 - [bregman-arie/system-design-notebook](https://github.com/bregman-arie/system-design-notebook) - Learn System Design step by step
@@ -1453,6 +1457,7 @@
 
 ## Rust 
 
+- [terror/zk](https://github.com/terror/zk) - A note-taking tool based on the famous Zettelkasten method
 - [velas/velas-chain](https://github.com/velas/velas-chain) - 
 - [perfah/Rustland](https://github.com/perfah/Rustland) - A Wayland compositor written in Rust, hence the cool name
 - [solana-labs/solana](https://github.com/solana-labs/solana) - Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
@@ -1501,6 +1506,7 @@
 
 ## Shell 
 
+- [AndrewCopeland/zettelkasten](https://github.com/AndrewCopeland/zettelkasten) - Creating notes with the zettelkasten note taking method and storing all notes on github
 - [mthbernardes/sshLooter](https://github.com/mthbernardes/sshLooter) - Script to steal passwords from ssh.
 - [ossiozac/Raspberry-Pi-Zero-Rubber-Ducky-Duckberry-Pi](https://github.com/ossiozac/Raspberry-Pi-Zero-Rubber-Ducky-Duckberry-Pi) - A £10 Rubber Ducky USB HID! A USB device which emulates a keyboard and automates key entry.
 - [Valiev/almostontop](https://github.com/Valiev/almostontop) - almostontop zsh plugin
