@@ -1707,7 +1707,7 @@
 - [callmezatiel/zarch](https://github.com/callmezatiel/zarch) - The Ultimate Script For Arch Linux
 - [Thomashighbaugh/dotfiles](https://github.com/Thomashighbaugh/dotfiles) - Nevermind the bullocks, here's the dotfiles
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
-- [picodotdev/alis](https://github.com/picodotdev/alis) - Arch Linux Install Script (or alis) installs unattended, automated and customized Arch Linux system.
+- [picodotdev/alis](https://github.com/picodotdev/alis) - Arch Linux Install Script (or alis, also known as the Arch Linux executable installation guide and wiki) installs unattended, automated and customized Arch Linux system.
 - [pjeby/gollum-portable](https://github.com/pjeby/gollum-portable) - The fastest way to set up a new, dockerized gollum wiki
 - [helixarch/debtap](https://github.com/helixarch/debtap) - A script for converting .deb packages into Arch Linux packages, focused on accuracy
 - [stark/siji](https://github.com/stark/siji) - An iconic bitmap font based on Stlarch with additional glyphs.
