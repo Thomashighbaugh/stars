@@ -72,6 +72,7 @@
 
 ## C 
 
+- [wallace-aph/tiles-and-such](https://github.com/wallace-aph/tiles-and-such) - Archives of tilelable images/wallpapers
 - [joestandring/dotfiles-void](https://github.com/joestandring/dotfiles-void) - My Void Linux dotfiles
 - [freddiev4/dailyprogrammerchallenges](https://github.com/freddiev4/dailyprogrammerchallenges) - Bank of challenges & solutions from r/dailyprogrammer for people learning to program
 - [addy-dclxvi/almighty-dotfiles](https://github.com/addy-dclxvi/almighty-dotfiles) - A dump repository of my dotfiles since the first time I learned ricing. So everything is really messy here.
@@ -788,6 +789,12 @@
 
 ## Lua 
 
+- [abele/awesome-wm-config](https://github.com/abele/awesome-wm-config) - awesome-wm-config
+- [RikilG/Dotfiles](https://github.com/RikilG/Dotfiles) - There is no place like $HOME
+- [tdy/awesome](https://github.com/tdy/awesome) - Configs for awesomeWM
+- [hoelzro/obvious](https://github.com/hoelzro/obvious) - Widget library for the awesome window manager
+- [DanielFGray/dotfiles](https://github.com/DanielFGray/dotfiles) - personal repo of config files
+- [JavaCafe01/dotfiles](https://github.com/JavaCafe01/dotfiles) - My desktop configuration files
 - [onsails/diaglist.nvim](https://github.com/onsails/diaglist.nvim) - Live render workspace diagnostics in quickfix with current buf errors on top, buffer diagnostics in loclist
 - [mickael-menu/zk-nvim](https://github.com/mickael-menu/zk-nvim) - Neovim extension for zk
 - [amirulmenjeni/dotfiles](https://github.com/amirulmenjeni/dotfiles) - My linux desktop config and theme files.
@@ -1506,6 +1513,8 @@
 
 ## Shell 
 
+- [szorfein/dots](https://github.com/szorfein/dots) - Use chezmoi to install my dotfiles easily on Gentoo, Arch, Void and Debian.
+- [Tuurlijk/dotfiles](https://github.com/Tuurlijk/dotfiles) - Make the shell great again!
 - [Zaechus/artix-installer](https://github.com/Zaechus/artix-installer) - A simple installer for Artix Linux
 - [AndrewCopeland/zettelkasten](https://github.com/AndrewCopeland/zettelkasten) - Creating notes with the zettelkasten note taking method and storing all notes on github
 - [mthbernardes/sshLooter](https://github.com/mthbernardes/sshLooter) - Script to steal passwords from ssh.
@@ -1821,7 +1830,7 @@
 - [whoisryosuke/ryosuke-gatsby-blog](https://github.com/whoisryosuke/ryosuke-gatsby-blog) - Static PWA React-powered portfolio and blog built with GatsbyJS
 - [urbanogardun/monte-note](https://github.com/urbanogardun/monte-note) - Note taking application with a rich set of editing and management features
 - [taniarascia/takenote](https://github.com/taniarascia/takenote) - 📝  ‎ A web-based notes app for developers.
-- [vuejs/vue-next](https://github.com/vuejs/vue-next) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+- [vuejs/core](https://github.com/vuejs/core) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 - [material-shell/material-shell](https://github.com/material-shell/material-shell) - A modern desktop interface for Linux. Improve your user experience and get rid of the anarchy of traditional desktop workflows. Designed to simplify navigation and reduce the need to manipulate windows in order to improve productivity. It's meant to be 100% predictable and bring the benefits of tools coveted by professionals to everyone.
 - [philippetedajo/philippe.tedajo](https://github.com/philippetedajo/philippe.tedajo) - My personal portfolio.
 - [raunofreiberg/ui-playbook](https://github.com/raunofreiberg/ui-playbook) - The documented collection of UI components 🤓
