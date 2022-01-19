@@ -1087,6 +1087,7 @@
 
 ## Others 
 
+- [Trilokia/Trilokia](https://github.com/Trilokia/Trilokia) - 
 - [fwupd/firmware-lenovo](https://github.com/fwupd/firmware-lenovo) - Missing firmware for Lenovo Thinkpad hardware
 - [P1xt/p1xt-guides](https://github.com/P1xt/p1xt-guides) - Programming curricula
 - [mehransab101/Learning-Pentesting-With-Python](https://github.com/mehransab101/Learning-Pentesting-With-Python) - Learning-Pentesting-With-Python
