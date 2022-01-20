@@ -596,7 +596,7 @@
 - [cssinjs/jss](https://github.com/cssinjs/jss) - JSS is an authoring tool for CSS which uses JavaScript as a host language.
 - [Thomashighbaugh/cv-generator](https://github.com/Thomashighbaugh/cv-generator) - A quick cover letter generator, takes input in prompt boxes and outputs text that's easy to copy. For streamlining job applications.
 - [forwardemail/email-templates](https://github.com/forwardemail/email-templates) - :mailbox: Create, preview, and send custom email templates for Node.js. Highly configurable and supports automatic inline CSS, stylesheets, embedded images and fonts, and much more!
-- [Reactive-Resume/Reactive-Resume](https://github.com/Reactive-Resume/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
+- [Reactive-Resume/app](https://github.com/Reactive-Resume/app) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [Thomashighbaugh/Opitx](https://github.com/Thomashighbaugh/Opitx) - A Markdown Editor for Those Who Are Tired of Loosing Their Work
 - [Thomashighbaugh/resurgens-iv](https://github.com/Thomashighbaugh/resurgens-iv) - The Fourth Resurgens Portfolio Site. Featuring React!!!
 - [Thomashighbaugh/firefox](https://github.com/Thomashighbaugh/firefox) - Torturing Firefox with userchrome.js and userchrome.css for Mozilla's successive degradation of the browser window.
@@ -1087,6 +1087,7 @@
 
 ## Others 
 
+- [MartinHeinz/MartinHeinz](https://github.com/MartinHeinz/MartinHeinz) - My GitHub Profile README. Don't just fork, star it, so others can find it too! 👀
 - [Trilokia/Trilokia](https://github.com/Trilokia/Trilokia) - 
 - [fwupd/firmware-lenovo](https://github.com/fwupd/firmware-lenovo) - Missing firmware for Lenovo Thinkpad hardware
 - [P1xt/p1xt-guides](https://github.com/P1xt/p1xt-guides) - Programming curricula
@@ -1778,7 +1779,7 @@
 ## TypeScript 
 
 - [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
-- [Bismuth-Forge/bismuth](https://github.com/Bismuth-Forge/bismuth) - KDE Plasma extension, that lets you tile your windows automatically and manage them via keyboard, just like in classical tiling window managers (i3, dwm or XMonad).
+- [Bismuth-Forge/bismuth](https://github.com/Bismuth-Forge/bismuth) - KDE Plasma add-on, that tiles your windows automatically and lets you manage them via keyboard, similarly to i3, Sway or dwm.
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [pankod/refine](https://github.com/pankod/refine) - refine is a React-based framework for building data-intensive applications in no time ✨ It ships with Ant Design System, an enterprise-level UI toolkit.
 - [notemarks/notemarks](https://github.com/notemarks/notemarks) - A git based labeling app to manage notes, documents, and bookmarks.
