@@ -1087,6 +1087,7 @@
 
 ## Others 
 
+- [jnmcfly/awesome-startpage](https://github.com/jnmcfly/awesome-startpage) - This is a carefully compiled list of remarkable projects with the focus on startpages.
 - [MartinHeinz/MartinHeinz](https://github.com/MartinHeinz/MartinHeinz) - My GitHub Profile README. Don't just fork, star it, so others can find it too! 👀
 - [Trilokia/Trilokia](https://github.com/Trilokia/Trilokia) - 
 - [fwupd/firmware-lenovo](https://github.com/fwupd/firmware-lenovo) - Missing firmware for Lenovo Thinkpad hardware
