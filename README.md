@@ -344,6 +344,7 @@
 
 ## Go 
 
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [jboursiquot/portscan](https://github.com/jboursiquot/portscan) - Port scanning examples to teach Go concurrency bounding
 - [OJ/gobuster](https://github.com/OJ/gobuster) - Directory/File, DNS and VHost busting tool written in Go
 - [fyne-io/fynedesk](https://github.com/fyne-io/fynedesk) - A full desktop environment for Linux/Unix using Fyne
@@ -383,7 +384,7 @@
 - [OpenDiablo2/OpenDiablo2](https://github.com/OpenDiablo2/OpenDiablo2) - An open source re-implementation of Diablo 2
 - [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
 - [exercism/cli](https://github.com/exercism/cli) - A Go based command line tool for exercism.io.
-- [cmars/ormesh](https://github.com/cmars/ormesh) - onion-routed mesh
+- [cmars/ormesh](https://github.com/cmars/ormesh) - [UNMAINTAINED: Try https://github.com/cmars/oniongrok instead] onion-routed mesh
 - [meshbird/meshbird](https://github.com/meshbird/meshbird) - Distributed private networking
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
 
@@ -789,6 +790,8 @@
 
 ## Lua 
 
+- [DanCarzano/dotfiles](https://github.com/DanCarzano/dotfiles) - All my Dotfiles
+- [SeyZ/Awesome-WM-Configuration](https://github.com/SeyZ/Awesome-WM-Configuration) - My awesome configuration
 - [artart222/CodeArt](https://github.com/artart222/CodeArt) - Use NeoVim as general purpose IDE
 - [abele/awesome-wm-config](https://github.com/abele/awesome-wm-config) - awesome-wm-config
 - [RikilG/Dotfiles](https://github.com/RikilG/Dotfiles) - There is no place like $HOME
@@ -1594,7 +1597,7 @@
 - [Fosstack/dotfiles](https://github.com/Fosstack/dotfiles) - Collection of dotfiles for my arch setup
 - [instantOS/iso](https://github.com/instantOS/iso) - Tools for creating a live iso of instantOS
 - [kotoko/voidlinux-iso-extra](https://github.com/kotoko/voidlinux-iso-extra) - Void (Linux) installation ISO with additional programs
-- [alealexpro100/linux_install](https://github.com/alealexpro100/linux_install) - Easily install various Linux distributions without any package manager.
+- [alealexpro100/linux_install](https://github.com/alealexpro100/linux_install) - Install any distribution using only package mirror. Lightweight, easy-to-use and customizable.
 - [diemol/cud](https://github.com/diemol/cud) - Set of scripts to set an Ubuntu desktop with VNC in the cloud
 - [guysoft/RealtimePi](https://github.com/guysoft/RealtimePi) - An out-of-the-box raspebrrypi/raspbian distro with a realtime kernel
 - [aferrero2707/gimp-plugins-collection](https://github.com/aferrero2707/gimp-plugins-collection) - 
