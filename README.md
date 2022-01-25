@@ -1382,7 +1382,7 @@
 - [noob-hackers/lazybee](https://github.com/noob-hackers/lazybee) - Create Best Wordlist From Python Tool In Termux
 - [th3unkn0n/osi.ig](https://github.com/th3unkn0n/osi.ig) - Information Gathering Instagram.
 - [beurtschipper/Depix](https://github.com/beurtschipper/Depix) - Recovers passwords from pixelized screenshots
-- [crhenr/easy-shell](https://github.com/crhenr/easy-shell) - A pure Python script to easily get a reverse shell
+- [cristianzsh/easy-shell](https://github.com/cristianzsh/easy-shell) - A pure Python script to easily get a reverse shell
 - [initialstate/pi-process-dashboard](https://github.com/initialstate/pi-process-dashboard) - How to remotely monitor your Raspberry Pi processes and IP addresses
 - [dan-v/algo](https://github.com/dan-v/algo) - Set up a personal IPSEC VPN in the cloud
 - [virt-manager/virt-manager](https://github.com/virt-manager/virt-manager) - Desktop tool for managing virtual machines via libvirt
