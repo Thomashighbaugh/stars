@@ -52,6 +52,7 @@
   - [Ruby](#ruby)
   - [Rust](#rust)
   - [SCSS](#scss)
+  - [Scala](#scala)
   - [Scheme](#scheme)
   - [Shell](#shell)
   - [TeX](#tex)
@@ -780,6 +781,7 @@
 
 ## Kotlin 
 
+- [rektdeckard/iconpacktools](https://github.com/rektdeckard/iconpacktools) - A handy utility for Android icon pack creators to easily generate key assets and resources.
 - [osmanonurkoc/papirusadaptive](https://github.com/osmanonurkoc/papirusadaptive) - Famous Linux Icon theme port for android
 - [hadiyarajesh/insta-bot](https://github.com/hadiyarajesh/insta-bot) - Instagram automation library to perform likes, comments, follow, story viewing and much more.
 - [EmiyaSyahriel/CrossLauncher](https://github.com/EmiyaSyahriel/CrossLauncher) - XMB-like Android Launcher
@@ -1508,6 +1510,10 @@
 - [StarLabsLtd/StarLabsTheme](https://github.com/StarLabsLtd/StarLabsTheme) - Star Labs GNOME Shell and GTK Theme
 - [Thomashighbaugh/startpage](https://github.com/Thomashighbaugh/startpage) - Browser startpage written in Next.js for those not afraid of  serverless hosting.
 
+## Scala 
+
+- [47degrees/nine-cards-v2](https://github.com/47degrees/nine-cards-v2) - An Open Source Android Launcher built with Scala on Android
+
 ## Scheme 
 
 - [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) - Nvim Treesitter configurations and abstraction layer
@@ -1520,6 +1526,7 @@
 
 ## Shell 
 
+- [Fmstrat/winapps](https://github.com/Fmstrat/winapps) - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration.
 - [szorfein/dots](https://github.com/szorfein/dots) - Use chezmoi to install my dotfiles easily on Gentoo, Arch, Void and Debian.
 - [Tuurlijk/dotfiles](https://github.com/Tuurlijk/dotfiles) - Make the shell great again!
 - [Zaechus/artix-installer](https://github.com/Zaechus/artix-installer) - A simple installer for Artix Linux
