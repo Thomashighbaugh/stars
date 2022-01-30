@@ -227,7 +227,6 @@
 - [manilarome/blurredfox](https://github.com/manilarome/blurredfox) - A sleek, modern and elegant Firefox CSS theme
 - [Timvde/UserChrome-Tweaks](https://github.com/Timvde/UserChrome-Tweaks) - A community maintained repository of userChrome.css tweaks for Firefox
 - [necolas/normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets
-- [creio/dots](https://github.com/creio/dots) - Alex Creio dots
 - [AVS1508/My-Alternate-Portfolio-Website](https://github.com/AVS1508/My-Alternate-Portfolio-Website) - Portfolio Website generated using Jekyll, Sass, and Gulp.js, to showcase my web presence, résumé, story, & featured projects with a Particle.js aligned theme.
 - [godlyranchdressing/retrowave-theme](https://github.com/godlyranchdressing/retrowave-theme) - 
 - [TinyRaindrop/Firefox-UI-customization](https://github.com/TinyRaindrop/Firefox-UI-customization) - Changing Firefox UI with custom CSS
@@ -325,7 +324,6 @@
 ## Emacs Lisp 
 
 - [russmatney/dotfiles](https://github.com/russmatney/dotfiles) - Doom Emacs, a few-years old vim config, tmux, i3, zsh, polybar
-- [meain/dotfiles](https://github.com/meain/dotfiles) - If there is a shell, there is a way!
 - [BasicWolf/dotrc](https://github.com/BasicWolf/dotrc) - My Emacs, AwesomeWM, zsh, git and other configurations
 - [taylor-gl/dotfiles](https://github.com/taylor-gl/dotfiles) - My Gentoo config and setup guide [currently i3 and vanilla emacs]
 - [xinhaoyuan/my-config](https://github.com/xinhaoyuan/my-config) - all config files managed by GNU stow
@@ -345,6 +343,7 @@
 
 ## Go 
 
+- [xyproto/algernon](https://github.com/xyproto/algernon) - :tophat: Small self-contained pure-Go web server with Lua, Markdown, HTTP/2, QUIC, Redis and PostgreSQL support
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [jboursiquot/portscan](https://github.com/jboursiquot/portscan) - Port scanning examples to teach Go concurrency bounding
 - [OJ/gobuster](https://github.com/OJ/gobuster) - Directory/File, DNS and VHost busting tool written in Go
@@ -913,6 +912,7 @@
 - [Elv13/repetitive](https://github.com/Elv13/repetitive) - Repetitive tasks eradicator module for Awesome WM
 - [Elv13/collision](https://github.com/Elv13/collision) - A window management module for AwesomeWM
 - [lilydjwg/myawesomerc](https://github.com/lilydjwg/myawesomerc) - My Awesome WM config files
+- [meain/dotfiles](https://github.com/meain/dotfiles) - If there is a shell, there is a way!
 - [skbolton/titan](https://github.com/skbolton/titan) - My attempt at making dotfiles super portable
 - [tumurzakov/attachdrop](https://github.com/tumurzakov/attachdrop) - AwesomeWM Quake like windows management
 - [cyrobin/awesome-wm](https://github.com/cyrobin/awesome-wm) - My Awesome WM 3.4 configuration
@@ -1692,6 +1692,7 @@
 - [pi-hole/docker-pi-hole](https://github.com/pi-hole/docker-pi-hole) - Pi-hole in a docker container
 - [InBetweenNames/gentooLTO](https://github.com/InBetweenNames/gentooLTO) - A Gentoo Portage configuration for building with -O3, Graphite, and LTO optimizations
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
+- [creio/dots](https://github.com/creio/dots) - Alex Creio dots
 - [mdaffin/arch-pkgs](https://github.com/mdaffin/arch-pkgs) - Management repo for my Arch Linux systems. Mirror of https://gitlab.com/mdaffin/arch-pkgs
 - [Gictorbit/photoshopCClinux](https://github.com/Gictorbit/photoshopCClinux) - Photoshop CC v19  installer for Gnu/Linux
 - [brinkOS/brinkOS](https://github.com/brinkOS/brinkOS) - Arch based Linux distribution for Engineers
