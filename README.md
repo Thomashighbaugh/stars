@@ -791,6 +791,7 @@
 
 ## Lua 
 
+- [pettarin/awesome-config](https://github.com/pettarin/awesome-config) - My configuration file and theme for the awesome desktop manager
 - [DanCarzano/dotfiles](https://github.com/DanCarzano/dotfiles) - All my Dotfiles
 - [SeyZ/Awesome-WM-Configuration](https://github.com/SeyZ/Awesome-WM-Configuration) - My awesome configuration
 - [artart222/CodeArt](https://github.com/artart222/CodeArt) - Use NeoVim as general purpose IDE
@@ -1011,7 +1012,7 @@
 - [streetturtle/awesome-buttons](https://github.com/streetturtle/awesome-buttons) - Button widget library for Awesome Window Manager
 - [hrsh7th/nvim-compe](https://github.com/hrsh7th/nvim-compe) - Auto completion Lua plugin for nvim
 - [raven2cz/awesomewm-config](https://github.com/raven2cz/awesomewm-config) - RAVEN2CZ: AwesomeWM Configuration, Libraries and Themes.
-- [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli as functional as an IDE while being very beautiful, blazing fast.
+- [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli as functional as an IDE while being very beautiful, blazing fast startuptime ~ 0.05 secs
 - [pinpox/wallpaper-generator](https://github.com/pinpox/wallpaper-generator) - Generate wallpaper images from mathematical functions
 - [bioe007/awesome-revelation](https://github.com/bioe007/awesome-revelation) - Show all clients per screen in Awesome window manager
 - [Mofiqul/awesome-shell](https://github.com/Mofiqul/awesome-shell) - This is a collection of awesome wm configuration files
@@ -1328,7 +1329,7 @@
 - [ahmed2m/dotfiles](https://github.com/ahmed2m/dotfiles) - My own config dotfiles for qtile/kde/awesomewm on Arch based distros
 - [hummingbot/hummingbot](https://github.com/hummingbot/hummingbot) - Hummingbot is open source software that helps you build trading bots that run on any exchange or blockchain
 - [CryptoSignal/Crypto-Signal](https://github.com/CryptoSignal/Crypto-Signal) - Github.com/CryptoSignal - #1 Quant Trading & Technical Analysis Bot - 3,100+ stars, 900+ forks
-- [Rick-Lang/rickroll-lang](https://github.com/Rick-Lang/rickroll-lang) - Rick Roll Language is a rickroll based, process oriented, dynamic, strong, esoteric programming language. All of the keywords/statements are coming from Rick Astley's lyrics.
+- [Rick-Lang/rickroll-lang](https://github.com/Rick-Lang/rickroll-lang) - Rick Roll Language is a rickroll based, process oriented, dynamic, strong, esoteric programming language. All of the keywords/statements are coming from Rick Astley's lyrics. Discord server: https://discord.gg/yzZ3MfGZ8A
 - [heyzec/Inkscape-Extensions](https://github.com/heyzec/Inkscape-Extensions) - Some extensions for Inkscape
 - [akkana/gimp-plugins](https://github.com/akkana/gimp-plugins) - GIMP plug-ins, scripts and helpers
 - [Kirill-Bugaev/awesome-base16](https://github.com/Kirill-Bugaev/awesome-base16) - Base16 color schemes for Awesome WM
