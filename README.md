@@ -223,7 +223,6 @@
 - [obliviousofcraps/mf-dots](https://github.com/obliviousofcraps/mf-dots) - These are some of my ridiculously shit dotfiles that I use in my unproductive daily life.
 - [MrOtherGuy/firefox-csshacks](https://github.com/MrOtherGuy/firefox-csshacks) - Collection of userstyles affecting the browser
 - [mrmrs/colors](https://github.com/mrmrs/colors) - Smarter defaults for colors on the web.
-- [the-Electric-Tantra-Linux/Dhumavati-Theme](https://github.com/the-Electric-Tantra-Linux/Dhumavati-Theme) - At the intersections of OneDark and Palenight, Dhumavati a GTK3 theme that's part of the Electric Tantra suite. Featuring gradient styled progress bars & sliders, a dark but still tolerable in daylight UI & the Vice base16 color scheme (also by me)
 - [manilarome/blurredfox](https://github.com/manilarome/blurredfox) - A sleek, modern and elegant Firefox CSS theme
 - [Timvde/UserChrome-Tweaks](https://github.com/Timvde/UserChrome-Tweaks) - A community maintained repository of userChrome.css tweaks for Firefox
 - [necolas/normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets
@@ -1505,6 +1504,7 @@
 - [prakhar1989/docker-curriculum](https://github.com/prakhar1989/docker-curriculum) - :dolphin: A comprehensive tutorial on getting started with Docker!
 - [Thomashighbaugh/Not-Another-Devlog](https://github.com/Thomashighbaugh/Not-Another-Devlog) - Final form of my devlog. Built with React, Gatsby, SASS, Bootstrap, FontAwesome and SpaceMacs!
 - [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
+- [the-Electric-Tantra-Linux/Dhumavati-Theme](https://github.com/the-Electric-Tantra-Linux/Dhumavati-Theme) - At the intersections of OneDark and Palenight, Dhumavati a GTK3 theme that's part of the Electric Tantra suite. Featuring gradient styled progress bars & sliders, a dark but still tolerable in daylight UI & the Vice base16 color scheme (also by me)
 - [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - My cheatsheets
 - [NCSU-Libraries/jekyll-academic](https://github.com/NCSU-Libraries/jekyll-academic) - 
 - [TeaGuns/odin](https://github.com/TeaGuns/odin) - A Jekyll help desk/knowledge base theme
