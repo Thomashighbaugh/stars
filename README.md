@@ -342,6 +342,7 @@
 
 ## Go 
 
+- [athul/shelby](https://github.com/athul/shelby) - Shelby is a fast ⚡️ , lightweight ☁️ , minimal✨,  shell prompt written in Go.
 - [xyproto/algernon](https://github.com/xyproto/algernon) - :tophat: Small self-contained pure-Go web server with Lua, Markdown, HTTP/2, QUIC, Redis and PostgreSQL support
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [jboursiquot/portscan](https://github.com/jboursiquot/portscan) - Port scanning examples to teach Go concurrency bounding
@@ -516,7 +517,7 @@
 - [MrOtherGuy/fx-autoconfig](https://github.com/MrOtherGuy/fx-autoconfig) - Load custom javascript in browser context
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 - [vuejs/vue](https://github.com/vuejs/vue) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
-- [mui-org/material-ui](https://github.com/mui-org/material-ui) - MUI (formerly Material-UI) is the React UI library you always wanted. Follow your own design system, or start with Material Design.
+- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core (formerly Material UI) is the React UI library you always wanted. Follow your own design system, or start with Material Design.
 - [webpack/webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
 - [expressjs/express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
 - [chartjs/Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the &lt;canvas&gt; tag
@@ -791,6 +792,9 @@
 
 ## Lua 
 
+- [jazz-g/NeoPublic](https://github.com/jazz-g/NeoPublic) - Public Share of my dotfiles
+- [Jeremie1001/dotfiles](https://github.com/Jeremie1001/dotfiles) - 
+- [Kritiqual/AwesomeWM](https://github.com/Kritiqual/AwesomeWM) - My personal AwesomeWM config
 - [renerocksai/telekasten.nvim](https://github.com/renerocksai/telekasten.nvim) - A Neovim (lua) plugin for working with a markdown zettelkasten / wiki and mixing it with a journal, based on telescope.nvim
 - [madprops/awesome-setup](https://github.com/madprops/awesome-setup) - AwesomeWM config and widgets
 - [pettarin/awesome-config](https://github.com/pettarin/awesome-config) - My configuration file and theme for the awesome desktop manager
@@ -1038,7 +1042,7 @@
 - [WillPower3309/awesome-dotfiles](https://github.com/WillPower3309/awesome-dotfiles) - Dotfiles for awesome people using the awesomewm linux environment
 - [material-shell/material-awesome](https://github.com/material-shell/material-awesome) - Material and Mouse driven config for AwesomeWM 4.3
 - [alexander-yakushev/awesomerc](https://github.com/alexander-yakushev/awesomerc) - My awesome configuration
-- [Jguer/dotfiles](https://github.com/Jguer/dotfiles) - My tiling (awesomewm) configs
+- [Jguer/dotfiles](https://github.com/Jguer/dotfiles) - My tiling configs
 - [actionless/awesome_config](https://github.com/actionless/awesome_config) - config for AwesomeWM
 - [Elv13/radical](https://github.com/Elv13/radical) - An extensible menu subsystem for Awesome WM
 - [Elv13/tyrannical](https://github.com/Elv13/tyrannical) - Dynamic tagging configuration system for awesomeWM
