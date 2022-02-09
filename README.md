@@ -1539,6 +1539,7 @@
 
 ## Shell 
 
+- [regolith-linux/regolith-styles](https://github.com/regolith-linux/regolith-styles) - A convention for organizing Xresource-based theme data.
 - [VirenMohindra/Cover-Letter-Generator](https://github.com/VirenMohindra/Cover-Letter-Generator) - Bash script which takes in variables and outputs a pdf with personalized signature. Highly customizable.
 - [Fmstrat/winapps](https://github.com/Fmstrat/winapps) - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration.
 - [szorfein/dots](https://github.com/szorfein/dots) - Use chezmoi to install my dotfiles easily on Gentoo, Arch, Void and Debian.
@@ -1587,7 +1588,7 @@
 - [shade-linux/soul](https://github.com/shade-linux/soul) - A dotfile manager
 - [oracle/vagrant-projects](https://github.com/oracle/vagrant-projects) - Vagrant projects for Oracle products and other examples
 - [ParallaxWave/dotfiles](https://github.com/ParallaxWave/dotfiles) - 
-- [janleigh/dotfiles](https://github.com/janleigh/dotfiles) - 🍚 my personal configuration files.
+- [janleigh/dotfiles](https://github.com/janleigh/dotfiles) - My desktop configuration files.
 - [totoro-ghost/dotfiles](https://github.com/totoro-ghost/dotfiles) - My dotfiles.
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 - [dcchambers/note-keeper](https://github.com/dcchambers/note-keeper) - :notebook: A tiny bash tool for taking and organizing notes.
