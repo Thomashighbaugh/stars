@@ -1539,6 +1539,7 @@
 
 ## Shell 
 
+- [sstallion/vimwiki-skel](https://github.com/sstallion/vimwiki-skel) - Skeleton for seeding new Vimwiki instances
 - [regolith-linux/regolith-styles](https://github.com/regolith-linux/regolith-styles) - A convention for organizing Xresource-based theme data.
 - [VirenMohindra/Cover-Letter-Generator](https://github.com/VirenMohindra/Cover-Letter-Generator) - Bash script which takes in variables and outputs a pdf with personalized signature. Highly customizable.
 - [Fmstrat/winapps](https://github.com/Fmstrat/winapps) - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration.
@@ -1811,7 +1812,7 @@
 - [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
 - [Bismuth-Forge/bismuth](https://github.com/Bismuth-Forge/bismuth) - KDE Plasma add-on, that tiles your windows automatically and lets you manage them via keyboard, similarly to i3, Sway or dwm.
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
-- [pankod/refine](https://github.com/pankod/refine) - refine is a React-based framework for building data-intensive applications in no time ✨ It ships with Ant Design System, an enterprise-level UI toolkit.
+- [pankod/refine](https://github.com/pankod/refine) - refine is a React-based headless framework for building data-intensive applications in no time ✨ It ships with Ant Design System, an enterprise-level UI toolkit.
 - [notemarks/notemarks](https://github.com/notemarks/notemarks) - A git based labeling app to manage notes, documents, and bookmarks.
 - [mvximenko/dunno](https://github.com/mvximenko/dunno) - Simplified version of IMDb built with React.
 - [KaterinaLupacheva/my-projects-dashboard](https://github.com/KaterinaLupacheva/my-projects-dashboard) - Next.js, Material UI, MongoDB Personal Dashboard with dev.to, GitHub, Twitter, and npm API integration.
