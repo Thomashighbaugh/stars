@@ -879,7 +879,7 @@
 - [folke/which-key.nvim](https://github.com/folke/which-key.nvim) - 💥   Create key bindings that stick. WhichKey is a lua plugin for Neovim 0.5 that displays a popup with possible keybindings of the command you started typing.
 - [ray-x/lsp_signature.nvim](https://github.com/ray-x/lsp_signature.nvim) - LSP signature hint as you type
 - [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) - Quickstart configurations for the Nvim LSP client
-- [williamboman/nvim-lsp-installer](https://github.com/williamboman/nvim-lsp-installer) - Neovim plugin that allows you to seamlessly manage LSP servers locally with :LspInstall. With full Windows support!
+- [williamboman/nvim-lsp-installer](https://github.com/williamboman/nvim-lsp-installer) - Neovim plugin that allows you to seamlessly manage LSP servers with :LspInstall. With full Windows support!
 - [kyazdani42/nvim-tree.lua](https://github.com/kyazdani42/nvim-tree.lua) - A file explorer tree for neovim written in lua
 - [kdheepak/tabline.nvim](https://github.com/kdheepak/tabline.nvim) - A "buffer and tab" tabline for neovim
 - [NTBBloodbath/galaxyline.nvim](https://github.com/NTBBloodbath/galaxyline.nvim) - neovim statusline plugin written in lua
@@ -1008,7 +1008,6 @@
 - [Relz/awesome-wm-theme](https://github.com/Relz/awesome-wm-theme) - Awesome WM theme
 - [zandao/awesome-wm-theme](https://github.com/zandao/awesome-wm-theme) - Awesome WM theme
 - [momofor/dotfiles](https://github.com/momofor/dotfiles) - A collection of dotfiles I have gathered over the months all using the glorious nord color scheme.
-- [metaphysys/awm](https://github.com/metaphysys/awm) - Personal Awesome WM GNU/Linux files and config
 - [Caellian/NightSky](https://github.com/Caellian/NightSky) - My Awesome WM configuration script.
 - [warlock90000/awesome](https://github.com/warlock90000/awesome) - 
 - [flyboy14/awesomewm](https://github.com/flyboy14/awesomewm) - awesome-git + lua5.3(vicious/lain widgets, shifty, awesompd, xdg-menu and some useful custom functions)
