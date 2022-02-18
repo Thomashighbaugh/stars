@@ -479,6 +479,7 @@
 
 ## Java 
 
+- [NoticEditorTeam/NoticEditor](https://github.com/NoticEditorTeam/NoticEditor) - A hierarchical note editor with markdown support
 - [validator/validator](https://github.com/validator/validator) - Nu Html Checker – Helps you catch problems in your HTML/CSS/SVG
 - [zjkhiyori/hack-root](https://github.com/zjkhiyori/hack-root) - Android APP get root-level permissions without rooted system
 - [brucetieu/JobApplicationBot](https://github.com/brucetieu/JobApplicationBot) - An Indeed, Glassdoor, and LinkedIn job application Bot.
@@ -1113,6 +1114,8 @@
 
 ## Others 
 
+- [TheAutodidactDidact/ObsidianMD-MSS](https://github.com/TheAutodidactDidact/ObsidianMD-MSS) - Obsidian Markdown MSS Folder
+- [ChrisRfr/Win10XPE](https://github.com/ChrisRfr/Win10XPE) - Win10XPE is a Complete Project Based on Win10, Win11 Recovery Environment With Many Windows Features Added...
 - [jnmcfly/awesome-startpage](https://github.com/jnmcfly/awesome-startpage) - This is a carefully compiled list of remarkable projects with the focus on startpages.
 - [MartinHeinz/MartinHeinz](https://github.com/MartinHeinz/MartinHeinz) - My GitHub Profile README. Don't just fork, star it, so others can find it too! 👀
 - [Trilokia/Trilokia](https://github.com/Trilokia/Trilokia) - 
@@ -1330,7 +1333,7 @@
 - [Python-World/python-mini-projects](https://github.com/Python-World/python-mini-projects) - A collection of simple python mini projects to enhance your python skills
 - [DedSecInside/Awesome-Scripts](https://github.com/DedSecInside/Awesome-Scripts) - A collection of awesome scripts from developers around the globe.
 - [flaport/home](https://github.com/flaport/home) - My Portable Linux Home Folder
-- [Bhupesh-V/til](https://github.com/Bhupesh-V/til) - Personal Wiki of Interesting things I learn every day at the intersection of software, life & stuff (My Second Brain 🧠️)
+- [Bhupesh-V/til](https://github.com/Bhupesh-V/til) - Personal Wiki of Interesting things I learn every day at the intersection of software, life & stuff aka my second brain 🧠️
 - [0xAX/linux-insides](https://github.com/0xAX/linux-insides) - A little bit about a linux kernel
 - [pinry/pinry](https://github.com/pinry/pinry) - The open-source core of Pinry, a tiling image board system for people who want to save, tag, and share images, videos and webpages in an easy to skim through format.
 - [AcierP/CryptoChecker](https://github.com/AcierP/CryptoChecker) - A discord.py-based bitcoin confirmations checker and notifier.
