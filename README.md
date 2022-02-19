@@ -798,6 +798,7 @@
 
 ## Lua 
 
+- [himanshumehta1114/awesomeWM-Rofi-rice](https://github.com/himanshumehta1114/awesomeWM-Rofi-rice) - pls help
 - [dynamotn/awesome-config](https://github.com/dynamotn/awesome-config) - My customize configuration for awesomeWM, mirror from Gitlab
 - [itzmjauz/awesomesauce](https://github.com/itzmjauz/awesomesauce) - my awesomeWM config
 - [Anfid/dotawesome](https://github.com/Anfid/dotawesome) - Awesome WM configuration
