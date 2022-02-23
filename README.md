@@ -1799,7 +1799,7 @@
 - [linuxium/UbuntuLiveUSB](https://github.com/linuxium/UbuntuLiveUSB) - Scripts to create custom Ubuntu ISOs and multiboot LiveUSBs with the latest audio fixes for Intel platforms.
 - [kilbith/smi](https://github.com/kilbith/smi) - Simple Multiboot Integrator powered by GRUB
 - [thias/glim](https://github.com/thias/glim) - GRUB Live ISO Multiboot
-- [lilyinstarlight/mkusb](https://github.com/lilyinstarlight/mkusb) - a shell script to create ISO multiboot USB flash drives that support both legacy and EFI boot
+- [lilyinstarlight/mkusb](https://github.com/lilyinstarlight/mkusb) - A shell script to create ISO multiboot USB flash drives that support both legacy and EFI boot
 - [grm34/archboot](https://github.com/grm34/archboot) - 💠 Arch Linux Installer
 - [cbrnix/Newaita](https://github.com/cbrnix/Newaita) - Linux icon theme
 - [Thomashighbaugh/colt45gui](https://github.com/Thomashighbaugh/colt45gui) - Quickly Provision Your Linux Desktop With Useful Applications With a GUI Installer Menu
