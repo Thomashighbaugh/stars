@@ -404,6 +404,7 @@
 
 ## HTML 
 
+- [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links
 - [GitPublisher/support](https://github.com/GitPublisher/support) - Customer's support area
 - [TedGoas/Responsive-Email-XX](https://github.com/TedGoas/Responsive-Email-XX) - A few layout ideas for HTML email that adapt to small screens and respond to breakpoints.
 - [mattlag/California-Gothic](https://github.com/mattlag/California-Gothic) - A typeface for California vexillographers
@@ -800,6 +801,7 @@
 
 ## Lua 
 
+- [Jeremie1001/awesome-dotfiles](https://github.com/Jeremie1001/awesome-dotfiles) - 
 - [huytd/awesome-wm-config](https://github.com/huytd/awesome-wm-config) - 
 - [potamides/dotfiles](https://github.com/potamides/dotfiles) - My personal dotfiles for most of the programs I use on a daily basis.
 - [adwinying/dotfiles](https://github.com/adwinying/dotfiles) - dotfiles for the command line home
@@ -1362,7 +1364,7 @@
 - [ahmed2m/dotfiles](https://github.com/ahmed2m/dotfiles) - My own config dotfiles for qtile/kde/awesomewm on Arch based distros
 - [hummingbot/hummingbot](https://github.com/hummingbot/hummingbot) - Hummingbot is open source software that helps you build trading bots that run on any exchange or blockchain
 - [CryptoSignal/Crypto-Signal](https://github.com/CryptoSignal/Crypto-Signal) - Github.com/CryptoSignal - #1 Quant Trading & Technical Analysis Bot - 3,100+ stars, 900+ forks
-- [Rick-Lang/rickroll-lang](https://github.com/Rick-Lang/rickroll-lang) - Rick Roll Language is a rickroll based, process oriented, dynamic, strong, esoteric programming language. All of the keywords/statements are coming from Rick Astley's lyrics. Discord server: https://discord.gg/yzZ3MfGZ8A
+- [Rick-Lang/rickroll-lang](https://github.com/Rick-Lang/rickroll-lang) - Rickroll Language is a rickroll based, process oriented, dynamic, strong, esoteric programming language. All of the keywords/statements are coming from Rick Astley's lyrics. Discord server: https://discord.gg/yzZ3MfGZ8A
 - [heyzec/Inkscape-Extensions](https://github.com/heyzec/Inkscape-Extensions) - Some extensions for Inkscape
 - [akkana/gimp-plugins](https://github.com/akkana/gimp-plugins) - GIMP plug-ins, scripts and helpers
 - [Kirill-Bugaev/awesome-base16](https://github.com/Kirill-Bugaev/awesome-base16) - Base16 color schemes for Awesome WM
@@ -1565,6 +1567,7 @@
 
 ## Shell 
 
+- [moon-moon27/Dotfiles](https://github.com/moon-moon27/Dotfiles) - My dotfiles repo
 - [Mr-Destructive/crossposter](https://github.com/Mr-Destructive/crossposter) - Crosspost your articles to dev.to, codenewbie.org, medium.com and hashnode.com with a single shellscript
 - [sstallion/vimwiki-skel](https://github.com/sstallion/vimwiki-skel) - Skeleton for seeding new Vimwiki instances
 - [regolith-linux/regolith-styles](https://github.com/regolith-linux/regolith-styles) - A convention for organizing Xresource-based theme data.
