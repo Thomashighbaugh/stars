@@ -494,6 +494,8 @@
 
 ## JavaScript 
 
+- [terkelg/prompts](https://github.com/terkelg/prompts) - ❯ Lightweight, beautiful and user-friendly interactive prompts
+- [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces.
 - [carbon-app/carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
 - [0xGG/crossnote](https://github.com/0xGG/crossnote) - 📝 An interesting markdown note taking application
 - [DipankarHalder/vlogbook](https://github.com/DipankarHalder/vlogbook) - A blog MERN stack application (MongoDB, Express.js, React.js, Node.js, Next.js)
@@ -801,6 +803,9 @@
 
 ## Lua 
 
+- [brainfucksec/neovim-lua](https://github.com/brainfucksec/neovim-lua) - Neovim KISS configuration with Lua
+- [rxyhn/AwesomeWM-Dotfiles](https://github.com/rxyhn/AwesomeWM-Dotfiles) - My AwesomeWM Configuration Files ✨
+- [yurukute/dotfiles](https://github.com/yurukute/dotfiles) - 
 - [Jeremie1001/awesome-dotfiles](https://github.com/Jeremie1001/awesome-dotfiles) - 
 - [huytd/awesome-wm-config](https://github.com/huytd/awesome-wm-config) - 
 - [potamides/dotfiles](https://github.com/potamides/dotfiles) - My personal dotfiles for most of the programs I use on a daily basis.
@@ -1004,7 +1009,7 @@
 - [denstiny/awesome-config](https://github.com/denstiny/awesome-config) - awesome config file ,sava my config
 - [Nguyen-Hoang-Nam/nvim-dotfiles-kitty](https://github.com/Nguyen-Hoang-Nam/nvim-dotfiles-kitty) - NeoVim Configuration that makes me feel comfortable and pleasant
 - [Creator54/awesome](https://github.com/Creator54/awesome) - Some beautiful awesome configs gathered with some minor changes just switch git checkout $branch and reload(mod+shift+r) to enjoy a new layout. lazy to update README use mod+s instead
-- [Thomashighbaugh/nvim](https://github.com/Thomashighbaugh/nvim) - My constant companion in the world of Linux, incorporating the best ideas of other configuration with no desire to write config lock-in plugins or prefixes.
+- [Thomashighbaugh/nvim-forge](https://github.com/Thomashighbaugh/nvim-forge) - Lua-first NeoVim Configuration to Actually Make Using NeoVim a Powerful & Enjoyable Experience
 - [bunburya/awesomerc](https://github.com/bunburya/awesomerc) - My AwesomeWM configuration Lua files.
 - [shmilee/config-awesome](https://github.com/shmilee/config-awesome) - Awesome Window Manager Config Files
 - [shmilee/awesome-away](https://github.com/shmilee/awesome-away) - wallpapers, widgets and utilities for Awesome WM 4.x.
@@ -1106,7 +1111,7 @@
 - [hlissner/dotfiles](https://github.com/hlissner/dotfiles) - And I say hey, what's going on?
 - [ivanbrennan/nixbox](https://github.com/ivanbrennan/nixbox) - NixOS configuration
 - [peel/dotfiles](https://github.com/peel/dotfiles) - well-tailored NixOS & nix-darwin dotfiles
-- [divnix/devos](https://github.com/divnix/devos) - NixOS Template
+- [divnix/digga](https://github.com/divnix/digga) - A a flake utility library to craft shell-, home-, and hosts- environments.
 - [terlar/nix-config](https://github.com/terlar/nix-config) - Configuration for NixOS and user home (dot files).
 - [nix-community/nixos-generators](https://github.com/nix-community/nixos-generators) - Collection of image builders [maintainer=@Lassulus]
 
