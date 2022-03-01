@@ -428,6 +428,7 @@
 - [daattali/beautiful-jekyll](https://github.com/daattali/beautiful-jekyll) - ✨ Build a beautiful and simple website in literally minutes. Demo at https://beautifuljekyll.com
 - [github/training-kit](https://github.com/github/training-kit) - Open source courseware for Git and GitHub
 - [aave/aave-protocol](https://github.com/aave/aave-protocol) - Aave Protocol Version 1.0 - Decentralized Lending Pools
+- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful personal server OS for Raspberry Pi or any Linux distro for running self-hosted apps
 - [coreui/coreui-free-bootstrap-admin-template](https://github.com/coreui/coreui-free-bootstrap-admin-template) - Free Bootstrap 5 admin & dashboard template
 - [michelegera/tailwindcss-open-template](https://github.com/michelegera/tailwindcss-open-template) - 🛬 An implementation of the “Open” landing page template using Tailwind CSS Boilerplate.
 - [Thomashighbaugh/resurgens3](https://github.com/Thomashighbaugh/resurgens3) - Porfolio site of TLH. Resurgens 3
@@ -803,6 +804,10 @@
 
 ## Lua 
 
+- [Kirill-Bugaev/awesome-appwibar](https://github.com/Kirill-Bugaev/awesome-appwibar) - Application wibar for Awesome WM
+- [MArpogaus/awesome](https://github.com/MArpogaus/awesome) - 
+- [PlatyPew/format-installer.nvim](https://github.com/PlatyPew/format-installer.nvim) - Neovim plugin for managing formatters
+- [ellisonleao/carbon-now.nvim](https://github.com/ellisonleao/carbon-now.nvim) - Create beautiful code snippets directly from your neovim terminal
 - [brainfucksec/neovim-lua](https://github.com/brainfucksec/neovim-lua) - Neovim KISS configuration with Lua
 - [rxyhn/AwesomeWM-Dotfiles](https://github.com/rxyhn/AwesomeWM-Dotfiles) - My AwesomeWM Configuration Files ✨
 - [yurukute/dotfiles](https://github.com/yurukute/dotfiles) - 
@@ -958,7 +963,7 @@
 - [zliebersbach/awesome-md-cfg](https://github.com/zliebersbach/awesome-md-cfg) - Awesome WM configuration for multiple monitors, inspired by the Material Design guidelines.
 - [the-Electric-Tantra-Linux/awesome](https://github.com/the-Electric-Tantra-Linux/awesome) - the flying spaghetti monster of code, an awesomewm config making awesomewm a DE tailored to my wants, needs and is skeudomorphic!
 - [aidanharris/awesome-config](https://github.com/aidanharris/awesome-config) - My config files for the Awesome window manager
-- [jcrd/awesome-config](https://github.com/jcrd/awesome-config) - AwesomeWM configuration
+- [jcrd/awesome-config-deprecated](https://github.com/jcrd/awesome-config-deprecated) - AwesomeWM configuration
 - [Ddorda/awesome](https://github.com/Ddorda/awesome) - My Awesome WM configuration
 - [ckoparkar/awesome-wm-config](https://github.com/ckoparkar/awesome-wm-config) - Configuration files for Awesome WM.
 - [ruslansin/snsome](https://github.com/ruslansin/snsome) - This is my theme for awesomeWM 4.1+. I am trying to use it as my main WM and customize it for myself
@@ -1671,7 +1676,6 @@
 - [dotnet/core](https://github.com/dotnet/core) - Home repository for .NET Core
 - [bats-core/bats-core](https://github.com/bats-core/bats-core) - Bash Automated Testing System
 - [kubernetes/examples](https://github.com/kubernetes/examples) - Kubernetes application example tutorials
-- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful personal server OS for Raspberry Pi or any Linux distro for running self-hosted apps
 - [kaldi-asr/kaldi](https://github.com/kaldi-asr/kaldi) - kaldi-asr/kaldi is the official location of the Kaldi project.
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [holman/dotfiles](https://github.com/holman/dotfiles) - @holman does dotfiles
