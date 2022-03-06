@@ -232,7 +232,6 @@
 - [godlyranchdressing/retrowave-theme](https://github.com/godlyranchdressing/retrowave-theme) - 
 - [TinyRaindrop/Firefox-UI-customization](https://github.com/TinyRaindrop/Firefox-UI-customization) - Changing Firefox UI with custom CSS
 - [muckSponge/MaterialFox](https://github.com/muckSponge/MaterialFox) - A Material Design-inspired userChrome.css theme for Firefox
-- [Izheil/Quantum-Nox-Firefox-Dark-Full-Theme](https://github.com/Izheil/Quantum-Nox-Firefox-Dark-Full-Theme) - A customizable full dark theme for Firefox. You can also add extra functions using the CSS and JS files here apart from the theme.
 - [Zonnev/elementaryos-firefox-theme](https://github.com/Zonnev/elementaryos-firefox-theme) - This theme for Firefox supports all the window buttons layouts from Tweaks and it blends into the elementary OS user interface.
 - [stonecrusher/simpleMenuWizard](https://github.com/stonecrusher/simpleMenuWizard) - Hide contextmenu items in Firefox Photon
 - [migueravila/SimpleFox](https://github.com/migueravila/SimpleFox) - 🦊 A Userstyle theme for Firefox minimalist and Keyboard centered.
@@ -672,6 +671,7 @@
 - [proksh/atomize](https://github.com/proksh/atomize) - Design System for developers build on styled-components & React JS.
 - [DesignRevision/shards-react](https://github.com/DesignRevision/shards-react) - ⚛️A beautiful and modern React design system.
 - [dotiful/firefox-scripts](https://github.com/dotiful/firefox-scripts) - Custom tweaks and preferences for Firefox
+- [Izheil/Quantum-Nox-Firefox-Dark-Full-Theme](https://github.com/Izheil/Quantum-Nox-Firefox-Dark-Full-Theme) - A customizable full dark theme for Firefox. You can also add extra functions using the CSS and JS files here apart from the theme.
 - [ardiman/userChrome.js](https://github.com/ardiman/userChrome.js) - Skripte für die Firefox-Erweiterung userChromeJS
 - [xiaoxiaoflood/firefox-scripts](https://github.com/xiaoxiaoflood/firefox-scripts) - userChromeJS / autoconfig.js and extensions
 - [kbrsh/moon](https://github.com/kbrsh/moon) - 🌙 The minimal & fast library for functional user interfaces
