@@ -650,7 +650,7 @@
 - [thisisroi/roi-portfolio](https://github.com/thisisroi/roi-portfolio) - ✨ Portfolio site created using Nextjs.
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (February 2022)
-- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in +1000 social media \ websites
+- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in social media \ websites
 - [ohansemmanuel/react-hooks-cheatsheet](https://github.com/ohansemmanuel/react-hooks-cheatsheet) - 🦖 React hooks cheatsheet with live editable examples
 - [yTakkar/React-Instagram-Clone-2.0](https://github.com/yTakkar/React-Instagram-Clone-2.0) - A reactive Single-Page Instagram-Clone with some new features!! 💪📸👓 - No longer maintained.
 - [mmacneil/devfolio](https://github.com/mmacneil/devfolio) - A simple, responsive, single-page portfolio and resume for developers built with Bulma, Sass, Font Awesome and Flickity.
@@ -1215,6 +1215,7 @@
 - [logancyang/my-cs-degree](https://github.com/logancyang/my-cs-degree) - A CS degree with a focus on full-stack ML engineering, 2020
 - [thebrokenfinger/frontend-computer-science](https://github.com/thebrokenfinger/frontend-computer-science) - A list of Computer Science topics important for a Front-End Developer to learn   📝
 - [felipefialho/frontend-challenges](https://github.com/felipefialho/frontend-challenges) - :boom: Listing some playful open-source's challenges of companies to test your knowledge
+- [solus-project/budgie-desktop](https://github.com/solus-project/budgie-desktop) - I Tawt I Taw A Purdy Desktop
 - [SigurdMW/blitzjs-workshop](https://github.com/SigurdMW/blitzjs-workshop) - Blitzjs workshop for my Bouvet colleagues
 - [vasanthk/react-bits](https://github.com/vasanthk/react-bits) - ✨ React patterns, techniques, tips and tricks ✨
 - [CSwala/awesome-computer-science](https://github.com/CSwala/awesome-computer-science) - An awesome list of everything that exists in Computer Science and Related fields. A live preview of the list can be found at the below link -
@@ -1941,7 +1942,6 @@
 ## Vala 
 
 - [BlankOn/manokwari](https://github.com/BlankOn/manokwari) - Manokwari desktop shell for GNOME 3
-- [solus-project/budgie-desktop](https://github.com/solus-project/budgie-desktop) - I Tawt I Taw A Purdy Desktop
 - [ricotz/plank](https://github.com/ricotz/plank) - Stupidly simple.
 - [lainsce/quilter](https://github.com/lainsce/quilter) - [DEPRECATED] Focus on your writing.
 - [elementary/installer](https://github.com/elementary/installer) - Installer front-end for Linux-based OSes
