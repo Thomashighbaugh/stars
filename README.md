@@ -803,6 +803,7 @@
 
 ## Lua 
 
+- [budswa/nvim](https://github.com/budswa/nvim) - 
 - [ReekenX/awesome-configs](https://github.com/ReekenX/awesome-configs) - Personal Awesome WM (window manager) configurations with Holo theme.
 - [Theory-of-Everything/dotfiles](https://github.com/Theory-of-Everything/dotfiles) - My Linux System Dotfiles
 - [Kirill-Bugaev/awesome-appwibar](https://github.com/Kirill-Bugaev/awesome-appwibar) - Application wibar for Awesome WM
