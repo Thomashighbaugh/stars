@@ -608,7 +608,6 @@
 - [cssinjs/jss](https://github.com/cssinjs/jss) - JSS is an authoring tool for CSS which uses JavaScript as a host language.
 - [Thomashighbaugh/cv-generator](https://github.com/Thomashighbaugh/cv-generator) - A quick cover letter generator, takes input in prompt boxes and outputs text that's easy to copy. For streamlining job applications.
 - [forwardemail/email-templates](https://github.com/forwardemail/email-templates) - :mailbox: Create, preview, and send custom email templates for Node.js. Highly configurable and supports automatic inline CSS, stylesheets, embedded images and fonts, and much more!
-- [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [Thomashighbaugh/Opitx](https://github.com/Thomashighbaugh/Opitx) - A Markdown Editor for Those Who Are Tired of Loosing Their Work
 - [Thomashighbaugh/resurgens-iv](https://github.com/Thomashighbaugh/resurgens-iv) - The Fourth Resurgens Portfolio Site. Featuring React!!!
 - [Thomashighbaugh/firefox](https://github.com/Thomashighbaugh/firefox) - Torturing Firefox with userchrome.js and userchrome.css in response to Mozilla's successive degradation of the browser window.
@@ -1884,6 +1883,7 @@
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
 - [Charlie85270/tail-kit](https://github.com/Charlie85270/tail-kit) - Tail-kit is a free and open source components and templates kit fully coded with Tailwind css 2.0.
 - [windicss/windicss](https://github.com/windicss/windicss) - Next generation utility-first CSS framework.
+- [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [heysafronov/square-react-dashboard](https://github.com/heysafronov/square-react-dashboard) - 👨‍🎤 React Dashboard Template built with TypeScript
 - [framer/motion](https://github.com/framer/motion) - Open source, production-ready animation and gesture library for React
 - [Thomashighbaugh/Personal-Site](https://github.com/Thomashighbaugh/Personal-Site) - My portfolio site's new form and fresh branding
