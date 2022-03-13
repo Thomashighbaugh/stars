@@ -500,6 +500,7 @@
 
 ## JavaScript 
 
+- [codelitdev/courselit](https://github.com/codelitdev/courselit) - Create/Sell courses and info products, write blogs, host podcasts on your own branded website.
 - [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
 - [primer/octicons](https://github.com/primer/octicons) - A scalable set of icons handcrafted with &lt;3 by GitHub
 - [pcottle/learnGitBranching](https://github.com/pcottle/learnGitBranching) - An interactive git visualization and tutorial. Aspiring students of git can use this app to educate and challenge themselves towards mastery of git!
@@ -812,6 +813,7 @@
 
 ## Lua 
 
+- [jamestrew/nvim](https://github.com/jamestrew/nvim) - 
 - [MiaadTeam/lesvim](https://github.com/MiaadTeam/lesvim) - Nvim config focus on Javascript, Typescript, Rust and Lua -  🚀 💪 ( Fast and Powerfull ) - Deno and other typescript LSP working well together
 - [budswa/nvim](https://github.com/budswa/nvim) - 
 - [ReekenX/awesome-configs](https://github.com/ReekenX/awesome-configs) - Personal Awesome WM (window manager) configurations with Holo theme.
@@ -1853,6 +1855,7 @@
 
 ## Svelte 
 
+- [catchspider2002/svelte-svg-patterns](https://github.com/catchspider2002/svelte-svg-patterns) - Create seamless patterns in SVG to use as website backgrounds, header images, stationery design and package design
 - [EddieHubCommunity/good-first-issue-finder](https://github.com/EddieHubCommunity/good-first-issue-finder) - Issue-Crawler for Github based on Sveltekit
 
 ## TeX 
@@ -1862,6 +1865,7 @@
 
 ## TypeScript 
 
+- [theodorusclarence/ts-nextjs-tailwind-starter](https://github.com/theodorusclarence/ts-nextjs-tailwind-starter) - 🔋 Next.js + Tailwind CSS + TypeScript starter packed with useful development features
 - [vickOnRails/jobs.quest](https://github.com/vickOnRails/jobs.quest) - Open source, self-hosted job tracker. Manage all your job applications in one single place.
 - [Galax028/startpage](https://github.com/Galax028/startpage) - A minimalistic custom browser startpage that can be configured to your needs.
 - [sstawiarski/nextjs-portfolio-website](https://github.com/sstawiarski/nextjs-portfolio-website) - Personal portfolio website written using Next.js, TypeScript, and Tailwind CSS
@@ -2011,7 +2015,7 @@
 - [Litarvan/lightdm-webkit-theme-litarvan](https://github.com/Litarvan/lightdm-webkit-theme-litarvan) - Litarvan's LightDM HTML Theme
 - [Exauthor/lightdm-webkit-theme-osmos](https://github.com/Exauthor/lightdm-webkit-theme-osmos) - Osmos
 - [bencodezen/vuepress-blog-boilerplate](https://github.com/bencodezen/vuepress-blog-boilerplate) - An ever-evolving and opinionated dev environment for people who want to use VuePress to power their blogs.
-- [Alexeykhr/Social-Cleaner](https://github.com/Alexeykhr/Social-Cleaner) - Cleaning of any data (wall, documents, video, image, etc.) from various social networks with logs and preliminary verification
+- [o-khrushch/Social-Cleaner](https://github.com/o-khrushch/Social-Cleaner) - Cleaning of any data (wall, documents, video, image, etc.) from various social networks with logs and preliminary verification
 - [jarbun/downline](https://github.com/jarbun/downline) - Free cross-platform desktop app to download videos and music from YouTube and many other sites
 - [sdras/cssgridgenerator](https://github.com/sdras/cssgridgenerator) - 🧮 Generate basic CSS Grid code to make dynamic layouts!
 - [czytelny/backlog](https://github.com/czytelny/backlog) - Simple desktop app for storing lists of items (todo, tasks, backlog items)
