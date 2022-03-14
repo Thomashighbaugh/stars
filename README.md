@@ -194,6 +194,7 @@
 
 ## CSS 
 
+- [sadparadiseinhell/tea-green](https://github.com/sadparadiseinhell/tea-green) - Simple startpage with weather and to-do list features.
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [rockiger/awiki-react](https://github.com/rockiger/awiki-react) - A Zim inspired wiki with markdown syntax
 - [23Bluemaster23/EdgeFox](https://github.com/23Bluemaster23/EdgeFox) - Is a userchrome that imitates (or attempts to imitate) the style of Microsoft's Edge Chromiun browser. is a project in development./Es un userchrome que imita (o intenta imitar) el estilo del navegador Edge Chromiun de Microsoft. es un proyecto en desarrollo.
@@ -813,6 +814,7 @@
 
 ## Lua 
 
+- [vuki656/nvim-config](https://github.com/vuki656/nvim-config) - ⌨️ My Neovim configuration
 - [jamestrew/nvim](https://github.com/jamestrew/nvim) - 
 - [MiaadTeam/lesvim](https://github.com/MiaadTeam/lesvim) - Nvim config focus on Javascript, Typescript, Rust and Lua -  🚀 💪 ( Fast and Powerfull ) - Deno and other typescript LSP working well together
 - [budswa/nvim](https://github.com/budswa/nvim) - 
@@ -1160,7 +1162,7 @@
 - [bregman-arie/system-design-notebook](https://github.com/bregman-arie/system-design-notebook) - Learn System Design step by step
 - [nicholasglazer/anarchy-firefox](https://github.com/nicholasglazer/anarchy-firefox) - Anarchy is dark, clean and simple. It's oriented to enhance your web experience by emphasizing important parts to stay focused and at the same time relaxed. This theme is a part of my Linux configuration.
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
-- [ShadowWhisperer/IPs](https://github.com/ShadowWhisperer/IPs) - IP block lists for: Malware, Hackers, Sniffers, etc..
+- [ShadowWhisperer/IPs](https://github.com/ShadowWhisperer/IPs) - IP block lists for: Malware, Bots, Hackers, Sniffers, etc..
 - [gilescope/cyberpunkfonts](https://github.com/gilescope/cyberpunkfonts) - Cyberpunk inspired fonts for coding
 - [stephhappens/awesome-tools-for-junior-developers](https://github.com/stephhappens/awesome-tools-for-junior-developers) - A curated list of popular tools, tips and tricks for aspiring developers.
 - [dypsilon/frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) - Manually curated collection of resources for frontend web developers.
@@ -1865,6 +1867,9 @@
 
 ## TypeScript 
 
+- [pawelmalak/flame](https://github.com/pawelmalak/flame) - Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors.
+- [hood/homie](https://github.com/hood/homie) - A minimalistic personal dashboard.
+- [Thomashighbaugh/startpage-figma-balls-nextjs](https://github.com/Thomashighbaugh/startpage-figma-balls-nextjs) - A recreation of a startpage posted on Reddit without the source, so I rewrote it in Next.js + Tailwind for the open source community.
 - [theodorusclarence/ts-nextjs-tailwind-starter](https://github.com/theodorusclarence/ts-nextjs-tailwind-starter) - 🔋 Next.js + Tailwind CSS + TypeScript starter packed with useful development features
 - [vickOnRails/jobs.quest](https://github.com/vickOnRails/jobs.quest) - Open source, self-hosted job tracker. Manage all your job applications in one single place.
 - [Galax028/startpage](https://github.com/Galax028/startpage) - A minimalistic custom browser startpage that can be configured to your needs.
