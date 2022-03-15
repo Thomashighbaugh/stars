@@ -300,7 +300,7 @@
 
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Desktop app download link: https://github.com/logseq/logseq/releases, roadmap: https://trello.com/b/8txSM12G/roadmap
 - [penpot/penpot](https://github.com/penpot/penpot) - Penpot - The Open-Source design & prototyping platform
-- [mswift42/themecreator](https://github.com/mswift42/themecreator) - https://mswift42.github.io/themecreator/ create themes for intellij, textmate, atom, emacs, vim and gnome terminal.
+- [mswift42/themecreator](https://github.com/mswift42/themecreator) - https://mswift42.github.io/themecreator/ create themes for intellij, textmate, textadept, atom, emacs, vim and gnome terminal.
 
 ## CoffeeScript 
 
@@ -1260,6 +1260,7 @@
 - [sundowndev/hacker-roadmap](https://github.com/sundowndev/hacker-roadmap) - A collection of hacking tools, resources and references to practice ethical hacking.
 - [balena-io-playground/awesome-balena](https://github.com/balena-io-playground/awesome-balena) - A curated list of helpful balena.io resources.
 - [jovanzers/jovanzers](https://github.com/jovanzers/jovanzers) - Don't just fork, star it! 👀
+- [Thomashighbaugh/Thomashighbaugh](https://github.com/Thomashighbaugh/Thomashighbaugh) - Profile ReadMe featuring my custom art
 - [AchrafIdir/SublimeText-3211-License-Key-](https://github.com/AchrafIdir/SublimeText-3211-License-Key-) - 
 - [Crelloc/c-style](https://github.com/Crelloc/c-style) - My favorite C programming practices.
 - [sindresorhus/css-in-readme-like-wat](https://github.com/sindresorhus/css-in-readme-like-wat) - Style your readme using CSS with this simple trick
@@ -1445,7 +1446,6 @@
 - [bats3c/darkarmour](https://github.com/bats3c/darkarmour) - Windows AV Evasion
 - [loseys/Oblivion](https://github.com/loseys/Oblivion) - Data leak checker & OSINT Tool
 - [mxrch/GHunt](https://github.com/mxrch/GHunt) - 🕵️‍♂️ Offensive Google framework.
-- [Thomashighbaugh/Thomashighbaugh](https://github.com/Thomashighbaugh/Thomashighbaugh) - Profile ReadMe featuring my custom art
 - [jrieke/traingenerator](https://github.com/jrieke/traingenerator) - 🧙 A web app to generate template code for machine learning
 - [noob-hackers/lazybee](https://github.com/noob-hackers/lazybee) - Create Best Wordlist From Python Tool In Termux
 - [th3unkn0n/osi.ig](https://github.com/th3unkn0n/osi.ig) - Information Gathering Instagram.
