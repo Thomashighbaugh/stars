@@ -568,7 +568,6 @@
 - [YouTransfer/YouTransfer](https://github.com/YouTransfer/YouTransfer) - The simple but elegant self-hosted file transfer & sharing solution
 - [LingDong-/fishdraw](https://github.com/LingDong-/fishdraw) - procedurally generated fish drawings
 - [ruslang02/atomos](https://github.com/ruslang02/atomos) - JS-based Linux desktop environment.
-- [trufflesuite/truffle](https://github.com/trufflesuite/truffle) - A tool for developing smart contracts. Crafted with the finest cacaos.
 - [gautamkrishnar/refined-github-feeds](https://github.com/gautamkrishnar/refined-github-feeds) - This browser extension enables you to filter the GitHub news feeds based on different event types.
 - [basharovV/StumbleUponAwesome](https://github.com/basharovV/StumbleUponAwesome) - ⚡️A browser extension that takes you to a random site from one of the awesome curated lists. Like good ol' StumbleUpon, for developers, tech & science lovers.
 - [manojVivek/medium-unlimited](https://github.com/manojVivek/medium-unlimited) - A browser extension to read medium.com articles for free without membership.
@@ -827,6 +826,7 @@
 - [brainfucksec/neovim-lua](https://github.com/brainfucksec/neovim-lua) - Neovim KISS configuration with Lua
 - [rxyhn/AwesomeWM-Dotfiles](https://github.com/rxyhn/AwesomeWM-Dotfiles) - My AwesomeWM Configuration Files ✨
 - [yurukute/dotfiles](https://github.com/yurukute/dotfiles) - 
+- [moon-moon27/Dotfiles](https://github.com/moon-moon27/Dotfiles) - My dotfiles repo
 - [Jeremie1001/awesome-dotfiles](https://github.com/Jeremie1001/awesome-dotfiles) - 
 - [huytd/awesome-wm-config](https://github.com/huytd/awesome-wm-config) - 
 - [potamides/dotfiles](https://github.com/potamides/dotfiles) - My personal dotfiles for most of the programs I use on a daily basis.
@@ -1539,6 +1539,7 @@
 
 ## Rust 
 
+- [he-la/perspektiv](https://github.com/he-la/perspektiv) - A daemon for creating popups when you change monitor brightness, volume, etc.
 - [terror/zk](https://github.com/terror/zk) - A note-taking tool based on the famous Zettelkasten method
 - [velas/velas-chain](https://github.com/velas/velas-chain) - 
 - [perfah/Rustland](https://github.com/perfah/Rustland) - A Wayland compositor written in Rust, hence the cool name
@@ -1596,7 +1597,6 @@
 ## Shell 
 
 - [storagedaemon/dotfiles](https://github.com/storagedaemon/dotfiles) - 
-- [moon-moon27/Dotfiles](https://github.com/moon-moon27/Dotfiles) - My dotfiles repo
 - [Mr-Destructive/crossposter](https://github.com/Mr-Destructive/crossposter) - Crosspost your articles to dev.to, codenewbie.org, medium.com and hashnode.com with a single shellscript
 - [sstallion/vimwiki-skel](https://github.com/sstallion/vimwiki-skel) - Skeleton for seeding new Vimwiki instances
 - [regolith-linux/regolith-styles](https://github.com/regolith-linux/regolith-styles) - A convention for organizing Xresource-based theme data.
@@ -1891,6 +1891,7 @@
 - [adonig/nextjs-starter-preact-tailwindcss](https://github.com/adonig/nextjs-starter-preact-tailwindcss) - A Next.js starter project coming with Preact and Tailwind CSS built-in.
 - [remorses/dokz](https://github.com/remorses/dokz) - Effortless documentation with Next.js and MDX
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
+- [trufflesuite/truffle](https://github.com/trufflesuite/truffle) - A tool for developing smart contracts. Crafted with the finest cacaos.
 - [linnovate/mean](https://github.com/linnovate/mean) - The MEAN stack uses Mongo, Express, Angular(6) and Node for simple and scalable fullstack js applications
 - [nitin27may/mean-docker](https://github.com/nitin27may/mean-docker) - A Mean stack (Angular  13.1.1, Expressjs 4.17.1, MongoDB) jump start project with support of docker.
 - [saksmt/awesomewm.d.ts](https://github.com/saksmt/awesomewm.d.ts) - typescript typings for awesome-wm based on typescript-to-lua
