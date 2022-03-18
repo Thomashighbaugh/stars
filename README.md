@@ -813,6 +813,7 @@
 
 ## Lua 
 
+- [ii14/neopm](https://github.com/ii14/neopm) - Plugin manager for neovim, pre-alpha stage.
 - [vuki656/nvim-config](https://github.com/vuki656/nvim-config) - ⌨️ My Neovim configuration
 - [jamestrew/nvim](https://github.com/jamestrew/nvim) - 
 - [MiaadTeam/lesvim](https://github.com/MiaadTeam/lesvim) - Nvim config focus on Javascript, Typescript, Rust and Lua -  🚀 💪 ( Fast and Powerfull ) - Deno and other typescript LSP working well together
@@ -1516,6 +1517,7 @@
 
 ## Ruby 
 
+- [joelgrus/hackernews](https://github.com/joelgrus/hackernews) - There are way too many stories on Hacker News, and there's no option for "show me only the stories that Joel would like". So I built one. (Maybe "cobbled together" is more appropriate.)
 - [ruby/rake](https://github.com/ruby/rake) - A make-like build utility for Ruby.
 - [0xsauby/yasuo](https://github.com/0xsauby/yasuo) - A ruby script that scans for vulnerable & exploitable 3rd-party web applications on a network
 - [rails/rails](https://github.com/rails/rails) - Ruby on Rails
