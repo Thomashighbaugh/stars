@@ -346,6 +346,7 @@
 
 ## Go 
 
+- [muesli/beehive](https://github.com/muesli/beehive) - A flexible event/agent & automation system with lots of bees 🐝
 - [athul/shelby](https://github.com/athul/shelby) - Shelby is a fast ⚡️ , lightweight ☁️ , minimal✨,  shell prompt written in Go.
 - [xyproto/algernon](https://github.com/xyproto/algernon) - :tophat: Small self-contained pure-Go web server with Lua, Markdown, HTTP/2, QUIC, Redis and PostgreSQL support
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
