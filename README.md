@@ -139,7 +139,6 @@
 - [christophgysin/pasystray](https://github.com/christophgysin/pasystray) - PulseAudio system tray
 - [CristianHenzel/ClipIt](https://github.com/CristianHenzel/ClipIt) - ClipIt clipboard manager for GTK+
 - [conformal/spectrwm](https://github.com/conformal/spectrwm) - A small dynamic tiling window manager for X11.
-- [Embroidermodder/Embroidermodder](https://github.com/Embroidermodder/Embroidermodder) - Free machine embroidery software supporting a variety of formats.
 - [cfenollosa/os-tutorial](https://github.com/cfenollosa/os-tutorial) - How to create an OS from scratch
 
 ## C# # 
@@ -313,6 +312,7 @@
 
 ## Dockerfile 
 
+- [SuperSandro2000/docker-images](https://github.com/SuperSandro2000/docker-images) - All my docker images in one mono-repository with multi-arch support
 - [qeeqbox/docker-images](https://github.com/qeeqbox/docker-images) - Kali and Parrot OS docker images accessible via VNC, RDP and Web
 - [kir4h/docker-hackmyresume-all-themes](https://github.com/kir4h/docker-hackmyresume-all-themes) - Docker image that allows generating multiple resume output formats using hackmyresume and that comes with some JSON resume preinstalled themes
 - [nlhomme/archiso-builder](https://github.com/nlhomme/archiso-builder) - Build your own Arch Linux ISO made with 'archiso' using Docker
@@ -1493,10 +1493,10 @@
 - [crazzyfool/ansible-desktop-manjaro-i3](https://github.com/crazzyfool/ansible-desktop-manjaro-i3) - Ansible playbook with the purpose of configuring a fresh installation of Manjaro i3 Community Edition
 - [snwh/moka-icon-theme](https://github.com/snwh/moka-icon-theme) - Moka Icon Theme
 - [achembarpu/pockyt](https://github.com/achembarpu/pockyt) - Automate & manage your Pocket.com collection.
-- [UbuntuBudgie/experimental](https://github.com/UbuntuBudgie/experimental) - Tweaks for your budgie-desktop
 - [AdguardTeam/AdguardFilters](https://github.com/AdguardTeam/AdguardFilters) - AdGuard Content Blocking Filters
 - [kynikos/outspline](https://github.com/kynikos/outspline) - Extensible outliner and personal time organizer to manage todo lists, schedule tasks, remind events.
 - [syncloud/platform](https://github.com/syncloud/platform) - Run popular services on your device with one click
+- [Embroidermodder/Embroidermodder](https://github.com/Embroidermodder/Embroidermodder) - Free machine embroidery software supporting a variety of formats.
 - [zim-desktop-wiki/zim-desktop-wiki](https://github.com/zim-desktop-wiki/zim-desktop-wiki) - Main repository of the zim desktop wiki project
 - [UbuntuBudgie/window-shuffler](https://github.com/UbuntuBudgie/window-shuffler) - GUI and keyboard friendly window arranger for the budgie and mate desktop
 - [sundarnagarajan/bootutils](https://github.com/sundarnagarajan/bootutils) - Utilities to create bootable disks, remaster ISO images, make multiboot ISO images
@@ -1600,6 +1600,7 @@
 
 ## Shell 
 
+- [abhilesh/self-hosted_docker_setups](https://github.com/abhilesh/self-hosted_docker_setups) - A collection of my docker-compose files used to setup self-hosted services on Raspberry Pi 4 running 64-bit Raspberry Pi OS
 - [lane-brain/void-packages](https://github.com/lane-brain/void-packages) - The Void source packages collection
 - [the-Electric-Tantra-Linux/void-packages](https://github.com/the-Electric-Tantra-Linux/void-packages) - The Void source packages collection
 - [storagedaemon/dotfiles](https://github.com/storagedaemon/dotfiles) - 
@@ -1972,6 +1973,7 @@
 ## Vala 
 
 - [BlankOn/manokwari](https://github.com/BlankOn/manokwari) - Manokwari desktop shell for GNOME 3
+- [UbuntuBudgie/experimental](https://github.com/UbuntuBudgie/experimental) - Tweaks for your budgie-desktop
 - [ricotz/plank](https://github.com/ricotz/plank) - Stupidly simple.
 - [lainsce/quilter](https://github.com/lainsce/quilter) - [DEPRECATED] Focus on your writing.
 - [elementary/installer](https://github.com/elementary/installer) - Installer front-end for Linux-based OSes
