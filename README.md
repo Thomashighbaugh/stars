@@ -53,12 +53,14 @@
   - [Ruby](#ruby)
   - [Rust](#rust)
   - [SCSS](#scss)
+  - [SaltStack](#saltstack)
   - [Scala](#scala)
   - [Scheme](#scheme)
   - [Shell](#shell)
   - [Svelte](#svelte)
   - [TeX](#tex)
   - [TypeScript](#typescript)
+  - [VBA](#vba)
   - [Vala](#vala)
   - [Vim Snippet](#vim-snippet)
   - [Vim script](#vim-script)
@@ -78,7 +80,6 @@
 - [compilepeace/KAAL_BHAIRAV](https://github.com/compilepeace/KAAL_BHAIRAV) - -x-x-x-x- DO NOT RUN ON PRODUCTION MACHINE  -x-x-x-x-  An ELF virus capable of generating segment padded trojans.
 - [endaaman/tym](https://github.com/endaaman/tym) - Lua-configurable terminal emulator
 - [wallace-aph/tiles-and-such](https://github.com/wallace-aph/tiles-and-such) - Archives of tilelable images/wallpapers
-- [joestandring/dotfiles-void](https://github.com/joestandring/dotfiles-void) - My Void Linux dotfiles
 - [freddiev4/dailyprogrammerchallenges](https://github.com/freddiev4/dailyprogrammerchallenges) - Bank of challenges & solutions from r/dailyprogrammer for people learning to program
 - [addy-dclxvi/almighty-dotfiles](https://github.com/addy-dclxvi/almighty-dotfiles) - A dump repository of my dotfiles since the first time I learned ricing. So everything is really messy here.
 - [bakkeby/dusk](https://github.com/bakkeby/dusk) - Just another fork of dwm
@@ -86,7 +87,7 @@
 - [gch1p/voidnsrun](https://github.com/gch1p/voidnsrun) - Run glibc binaries in musl libc Void Linux environment
 - [qontinuum-dev/ly](https://github.com/qontinuum-dev/ly) - display manager with console UI
 - [yshui/picom](https://github.com/yshui/picom) - A lightweight compositor for X11
-- [phillbush/shod](https://github.com/phillbush/shod) - tabbed window manager that can tile windows inside floating containers
+- [phillbush/shod](https://github.com/phillbush/shod) - mouse-based window manager that can tile windows inside floating containers
 - [psychon/lualock](https://github.com/psychon/lualock) - A screenlocker that's highly configurable in lua
 - [nullsecuritynet/tools](https://github.com/nullsecuritynet/tools) - Security and Hacking Tools, Exploits, Proof of Concepts, Shellcodes, Scripts.
 - [moetunes/Nextwm](https://github.com/moetunes/Nextwm) - snapwm is an easy to configure, dynamic, tiling window manager. Built on dminiwm with a desktop switcher, info bar and reloadable rc file.
@@ -148,11 +149,12 @@
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [ElevenPaths/FOCA](https://github.com/ElevenPaths/FOCA) - Tool to find metadata and hidden information in the documents.
 - [ppy/osu](https://github.com/ppy/osu) - rhythm is just a *click* away!
-- [JasonStein/Notepads](https://github.com/JasonStein/Notepads) - A modern, lightweight text editor with a minimalist design.
+- [0x7c13/Notepads](https://github.com/0x7c13/Notepads) - A modern, lightweight text editor with a minimalist design.
 - [ohhsodead/FileMasta](https://github.com/ohhsodead/FileMasta) - A search application to explore, discover and share online files
 
 ## C++ 
 
+- [vaxerski/Hyprland](https://github.com/vaxerski/Hyprland) - Hyprland is a dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
 - [AHXR/ghost](https://github.com/AHXR/ghost) - :ghost: RAT (Remote Access Trojan) - Silent Botnet - Full Remote Command-Line Access - Download & Execute Programs - Spread Virus' & Malware
 - [maestron/botnets](https://github.com/maestron/botnets) - This is a collection of #botnet source codes, unorganized. For EDUCATIONAL PURPOSES ONLY
 - [SpencerCBrown/Triad](https://github.com/SpencerCBrown/Triad) - Robust and pleasant cross-platform note taking application.
@@ -193,6 +195,9 @@
 
 ## CSS 
 
+- [luximus-hunter/FireFix](https://github.com/luximus-hunter/FireFix) - Small fixes for the FireFox UI to make it more consistent
+- [Possibly-Matt/Firefox-UI-Fix](https://github.com/Possibly-Matt/Firefox-UI-Fix) - 🦊 I respect proton UI but I miss the panel icons!
+- [black7375/Firefox-UI-Fix](https://github.com/black7375/Firefox-UI-Fix) - 🦊 I respect proton UI and aim to improve it.
 - [K4zoku/dotfiles](https://github.com/K4zoku/dotfiles) - My personal linux configuration files (dotfiles)
 - [sadparadiseinhell/tea-green](https://github.com/sadparadiseinhell/tea-green) - Simple startpage with weather and to-do list features.
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
@@ -223,7 +228,7 @@
 - [solus-project/evopop-gtk-theme](https://github.com/solus-project/evopop-gtk-theme) - Modern Desktop Theme Suite
 - [creativetimofficial/tailwind-starter-kit](https://github.com/creativetimofficial/tailwind-starter-kit) - Tailwind Starter Kit a beautiful extension for TailwindCSS, Free and Open Source
 - [elenapan/dotfiles](https://github.com/elenapan/dotfiles) - There is no place like ~/
-- [owl4ce/dotfiles](https://github.com/owl4ce/dotfiles) - :cherry_blossom: Aesthetic OpenboxWM Environment. Deprecated, preparing Joyful Desktop v4. Consider installing!
+- [owl4ce/dotfiles](https://github.com/owl4ce/dotfiles) - :cherry_blossom: Aesthetic OpenboxWM Environment
 - [Thomashighbaugh/electric-tantra-linux-iso](https://github.com/Thomashighbaugh/electric-tantra-linux-iso) - the files used to build Electric Tantra Linux, my iso demo of my dotfiles WIP
 - [obliviousofcraps/mf-dots](https://github.com/obliviousofcraps/mf-dots) - These are some of my ridiculously shit dotfiles that I use in my unproductive daily life.
 - [MrOtherGuy/firefox-csshacks](https://github.com/MrOtherGuy/firefox-csshacks) - Collection of userstyles affecting the browser
@@ -347,6 +352,8 @@
 
 ## Go 
 
+- [caarlos0/fork-cleaner](https://github.com/caarlos0/fork-cleaner) - Quickly clean up unused forks on your github account.
+- [RistBS/Awesome-RedTeam-Cheatsheet](https://github.com/RistBS/Awesome-RedTeam-Cheatsheet) - Active Directory & Red-Team Cheat-Sheet in constant expansion.
 - [muesli/beehive](https://github.com/muesli/beehive) - A flexible event/agent & automation system with lots of bees 🐝
 - [athul/shelby](https://github.com/athul/shelby) - Shelby is a fast ⚡️ , lightweight ☁️ , minimal✨,  shell prompt written in Go.
 - [xyproto/algernon](https://github.com/xyproto/algernon) - :tophat: Small self-contained pure-Go web server with Lua, Markdown, HTTP/2, QUIC, Redis and PostgreSQL support
@@ -380,9 +387,9 @@
 - [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
 - [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt
 - [pinpox/base16-universal-manager](https://github.com/pinpox/base16-universal-manager) - A universal manager to set base16 themes for any supported application
+- [deepfence/SecretScanner](https://github.com/deepfence/SecretScanner) - :unlock: :unlock: Find secrets and passwords in container images and file systems :unlock: :unlock:
 - [upspin/upspin](https://github.com/upspin/upspin) - Upspin: A framework for naming everyone's everything.
 - [pkorobeinikov/scm](https://github.com/pkorobeinikov/scm) - scm is a tool that aims to keep your workspace to be strongly organized
-- [nikitavoloboev/knowledge](https://github.com/nikitavoloboev/knowledge) - Everything I know
 - [rabbitstack/fibratus](https://github.com/rabbitstack/fibratus) - A modern tool for the Windows kernel exploration and tracing
 - [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) - Git extension for versioning large files
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
@@ -399,6 +406,7 @@
 
 ## Groovy 
 
+- [gradle/gradle](https://github.com/gradle/gradle) - Adaptable, fast automation for all
 - [bregman-arie/devops-resources](https://github.com/bregman-arie/devops-resources) - DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP
 
 ## HCL 
@@ -407,6 +415,7 @@
 
 ## HTML 
 
+- [argyleink/gui-challenges](https://github.com/argyleink/gui-challenges) - Components from the YouTube show GUI Challenges: accessible, responsive, adaptive and cross browser components.
 - [vickOnRails/accessible-design-patterns](https://github.com/vickOnRails/accessible-design-patterns) - Learning Web Accessibility by building accessible components
 - [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links
 - [GitPublisher/support](https://github.com/GitPublisher/support) - Customer's support area
@@ -432,7 +441,7 @@
 - [daattali/beautiful-jekyll](https://github.com/daattali/beautiful-jekyll) - ✨ Build a beautiful and simple website in literally minutes. Demo at https://beautifuljekyll.com
 - [github/training-kit](https://github.com/github/training-kit) - Open source courseware for Git and GitHub
 - [aave/aave-protocol](https://github.com/aave/aave-protocol) - Aave Protocol Version 1.0 - Decentralized Lending Pools
-- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful personal server OS for Raspberry Pi or any Linux distro for running self-hosted apps
+- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful personal server OS for Raspberry Pi or any Linux distro for self-hosting everything
 - [coreui/coreui-free-bootstrap-admin-template](https://github.com/coreui/coreui-free-bootstrap-admin-template) - Free Bootstrap 5 admin & dashboard template
 - [michelegera/tailwindcss-open-template](https://github.com/michelegera/tailwindcss-open-template) - 🛬 An implementation of the “Open” landing page template using Tailwind CSS Boilerplate.
 - [Thomashighbaugh/resurgens3](https://github.com/Thomashighbaugh/resurgens3) - Porfolio site of TLH. Resurgens 3
@@ -476,6 +485,7 @@
 ## Hack 
 
 - [bhikandeshmukh/shark](https://github.com/bhikandeshmukh/shark) - Best Tool For Phishing, Future Of Phishing
+- [Cesar-Hack-Gray/FotoSploit](https://github.com/Cesar-Hack-Gray/FotoSploit) - 
 
 ## Haskell 
 
@@ -503,6 +513,9 @@
 
 ## JavaScript 
 
+- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 200+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
+- [svgdotjs/svg.js](https://github.com/svgdotjs/svg.js) - The lightweight library for manipulating and animating SVG
+- [mixu/nwm](https://github.com/mixu/nwm) - Tiling window manager for X11 written in Node.js
 - [ayushman-git/project-manager](https://github.com/ayushman-git/project-manager) - 
 - [codelitdev/courselit](https://github.com/codelitdev/courselit) - Create/Sell courses and info products, write blogs, host podcasts on your own branded website.
 - [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
@@ -542,7 +555,7 @@
 - [MrOtherGuy/fx-autoconfig](https://github.com/MrOtherGuy/fx-autoconfig) - Load custom javascript in browser context
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 - [vuejs/vue](https://github.com/vuejs/vue) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
-- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core (formerly Material UI) is the React UI library you always wanted. Follow your own design system, or start with Material Design.
+- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core (formerly Material-UI) is the React UI library you always wanted. Follow your own design system, or start with Material Design.
 - [webpack/webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
 - [expressjs/express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
 - [chartjs/Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the &lt;canvas&gt; tag
@@ -554,7 +567,7 @@
 - [oddscenes/morning-briefing](https://github.com/oddscenes/morning-briefing) - An open source, local browser homepage app - with custom config and widgets
 - [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - :bathtub: Clean Code concepts adapted for JavaScript
 - [github/india](https://github.com/github/india) - GitHub resources and information for the developer community in India
-- [AVS1508/AVS1508.github.io](https://github.com/AVS1508/AVS1508.github.io) - (work-in-progress) Personal Résumé Website developed using ReactJS and Bootstrap and hosted on Github Pages. Displays my web presence, story, work experience, education, projects, achievements, and contact information.
+- [AVS1508/AVS1508.github.io](https://github.com/AVS1508/AVS1508.github.io) - Personal Résumé Website developed using ReactJS and Bootstrap and hosted on Github Pages. Displays my web presence, story, work experience, education, projects, achievements, and contact information.
 - [nextapps-de/winbox](https://github.com/nextapps-de/winbox) - WinBox is a professional HTML5 window manager for the web: lightweight, outstanding performance, no dependencies, fully customizable, open source!
 - [Thomashighbaugh/React-Playgrounds](https://github.com/Thomashighbaugh/React-Playgrounds) - 
 - [vivek9patel/vivek9patel.github.io](https://github.com/vivek9patel/vivek9patel.github.io) - Personal portfolio website of theme Ubuntu 20.04, made using NEXT.js & tailwind CSS
@@ -648,11 +661,12 @@
 - [jessarcher/tailwind-color-picker](https://github.com/jessarcher/tailwind-color-picker) - A simple color picker for easily tweaking your Tailwind color config
 - [dabit3/next.js-amplify-workshop](https://github.com/dabit3/next.js-amplify-workshop) - AWS Amplify Next.js workshop
 - [amiechen/genart](https://github.com/amiechen/genart) - code in, art out
-- [withastro/snowpack](https://github.com/withastro/snowpack) - ESM-powered frontend build tool. Instant, lightweight, unbundled development. ✌️
+- [FredKSchott/snowpack](https://github.com/FredKSchott/snowpack) - ESM-powered frontend build tool. Instant, lightweight, unbundled development. ✌️
 - [MaggieAppleton/digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners) - Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs
 - [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) - Show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project readme automatically using the RSS feed
 - [Thomashighbaugh/project-dashboard](https://github.com/Thomashighbaugh/project-dashboard) - Curated list of projects displayed on site using iframes as a quick way to display my demonstrations to employers
 - [mathieudutour/gatsby-digital-garden](https://github.com/mathieudutour/gatsby-digital-garden) - 🌷 🌻 🌺 Create a digital garden with Gatsby
+- [nikitavoloboev/knowledge](https://github.com/nikitavoloboev/knowledge) - Everything I know
 - [Thomashighbaugh/resume](https://github.com/Thomashighbaugh/resume) - An HTML resume styled with Tailwind.css based on Universal Resume
 - [atapas/demolab](https://github.com/atapas/demolab) - Demolab is my fantasy project created to understand the power of JAMstack using JavaScript(Reactjs), API(Netlify and Aws) and pre-built Markup(Gatsby).
 - [atapas/theme-builder](https://github.com/atapas/theme-builder) - The theming system helps you in building a theme of your choice and apply it to test live. Why wait? Just give it a try.
@@ -662,12 +676,12 @@
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [thisisroi/roi-portfolio](https://github.com/thisisroi/roi-portfolio) - ✨ Portfolio site created using Nextjs.
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (February 2022)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (March 2022)
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in +1000 social media \ websites
 - [ohansemmanuel/react-hooks-cheatsheet](https://github.com/ohansemmanuel/react-hooks-cheatsheet) - 🦖 React hooks cheatsheet with live editable examples
 - [yTakkar/React-Instagram-Clone-2.0](https://github.com/yTakkar/React-Instagram-Clone-2.0) - A reactive Single-Page Instagram-Clone with some new features!! 💪📸👓 - No longer maintained.
 - [mmacneil/devfolio](https://github.com/mmacneil/devfolio) - A simple, responsive, single-page portfolio and resume for developers built with Bulma, Sass, Font Awesome and Flickity.
-- [officialputuid/toolsig](https://github.com/officialputuid/toolsig) - toolsig v4.0 (Instagram Tools, based NodeJS)
+- [officialputuid/toolsig](https://github.com/officialputuid/toolsig) - toolsig (Instagram Tools, based NodeJS)
 - [deepjyoti30/startpage](https://github.com/deepjyoti30/startpage) - A minimal starpage for Chrome and Firefox
 - [arkenfox/user.js](https://github.com/arkenfox/user.js) - Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening
 - [dfkt/firefox-tweaks](https://github.com/dfkt/firefox-tweaks) - Attempt to make Firefox suck less.
@@ -816,6 +830,12 @@
 
 ## Lua 
 
+- [creativenull/nvim-config](https://github.com/creativenull/nvim-config) - My neovim config in lua that I use to experiment new features and plugins
+- [deficient/volume-control](https://github.com/deficient/volume-control) - Volume control for awesome window manager
+- [tamton-aquib/nvim](https://github.com/tamton-aquib/nvim) - Personal neovim config
+- [saimoomedits/dotfiles](https://github.com/saimoomedits/dotfiles) - My AwesomeWM configuration files!! 🌪️ . (preparing for new design)
+- [niraj998/awesome](https://github.com/niraj998/awesome) - Dotfiles AwesomeWM
+- [tsjazil/dotfiles](https://github.com/tsjazil/dotfiles) - 🐈 Catppuccin Themed bspwm dotfiles
 - [ii14/neopm](https://github.com/ii14/neopm) - Plugin manager for neovim, pre-alpha stage.
 - [vuki656/nvim-config](https://github.com/vuki656/nvim-config) - ⌨️ My Neovim configuration
 - [jamestrew/nvim](https://github.com/jamestrew/nvim) - 
@@ -823,14 +843,13 @@
 - [budswa/nvim](https://github.com/budswa/nvim) - 
 - [ReekenX/awesome-configs](https://github.com/ReekenX/awesome-configs) - Personal Awesome WM (window manager) configurations with Holo theme.
 - [Theory-of-Everything/dotfiles](https://github.com/Theory-of-Everything/dotfiles) - My Linux System Dotfiles
-- [Kirill-Bugaev/awesome-appwibar](https://github.com/Kirill-Bugaev/awesome-appwibar) - Application wibar for Awesome WM
 - [MArpogaus/awesome](https://github.com/MArpogaus/awesome) - 
 - [PlatyPew/format-installer.nvim](https://github.com/PlatyPew/format-installer.nvim) - Neovim plugin for managing formatters
 - [ellisonleao/carbon-now.nvim](https://github.com/ellisonleao/carbon-now.nvim) - Create beautiful code snippets directly from your neovim terminal
 - [brainfucksec/neovim-lua](https://github.com/brainfucksec/neovim-lua) - Neovim KISS configuration with Lua
-- [rxyhn/AwesomeWM-Dotfiles](https://github.com/rxyhn/AwesomeWM-Dotfiles) - My AwesomeWM Configuration Files ✨
+- [rxyhn/dotfiles](https://github.com/rxyhn/dotfiles) - My awesomewm dotfiles for awesome people! ✨
 - [yurukute/dotfiles](https://github.com/yurukute/dotfiles) - 
-- [moon-moon27/Dotfiles](https://github.com/moon-moon27/Dotfiles) - My dotfiles repo
+- [pansy27/Dotfiles](https://github.com/pansy27/Dotfiles) - My dotfiles repo
 - [Jeremie1001/awesome-dotfiles](https://github.com/Jeremie1001/awesome-dotfiles) - 
 - [huytd/awesome-wm-config](https://github.com/huytd/awesome-wm-config) - 
 - [potamides/dotfiles](https://github.com/potamides/dotfiles) - My personal dotfiles for most of the programs I use on a daily basis.
@@ -846,11 +865,10 @@
 - [anihm136/dots](https://github.com/anihm136/dots) - Cross-distro dotfiles
 - [jazz-g/NeoPublic](https://github.com/jazz-g/NeoPublic) - Public Share of my dotfiles
 - [Jeremie1001/dotfiles](https://github.com/Jeremie1001/dotfiles) - 
-- [Kritiqual/AwesomeWM](https://github.com/Kritiqual/AwesomeWM) - My personal AwesomeWM config
 - [renerocksai/telekasten.nvim](https://github.com/renerocksai/telekasten.nvim) - A Neovim (lua) plugin for working with a markdown zettelkasten / wiki and mixing it with a journal, based on telescope.nvim
 - [madprops/awesome-setup](https://github.com/madprops/awesome-setup) - AwesomeWM config and widgets
 - [pettarin/awesome-config](https://github.com/pettarin/awesome-config) - My configuration file and theme for the awesome desktop manager
-- [DanCarzano/dotfiles](https://github.com/DanCarzano/dotfiles) - All my Dotfiles
+- [DanCarzano/dotfiles-awesomewm](https://github.com/DanCarzano/dotfiles-awesomewm) - All my Dotfiles
 - [SeyZ/Awesome-WM-Configuration](https://github.com/SeyZ/Awesome-WM-Configuration) - My awesome configuration
 - [artart222/CodeArt](https://github.com/artart222/CodeArt) - Use NeoVim as general purpose IDE
 - [abele/awesome-wm-config](https://github.com/abele/awesome-wm-config) - awesome-wm-config
@@ -900,7 +918,7 @@
 - [Manas140/dotfiles](https://github.com/Manas140/dotfiles) - Dotfiles
 - [windwp/nvim-autopairs](https://github.com/windwp/nvim-autopairs) - autopairs for neovim written by lua
 - [saadparwaiz1/cmp_luasnip](https://github.com/saadparwaiz1/cmp_luasnip) - luasnip completion source for nvim-cmp
-- [onsails/lspkind-nvim](https://github.com/onsails/lspkind-nvim) - vscode-like pictograms for neovim lsp completion items
+- [onsails/lspkind.nvim](https://github.com/onsails/lspkind.nvim) - vscode-like pictograms for neovim lsp completion items
 - [hrsh7th/cmp-path](https://github.com/hrsh7th/cmp-path) - nvim-cmp source for path
 - [hrsh7th/cmp-nvim-lua](https://github.com/hrsh7th/cmp-nvim-lua) - nvim-cmp source for nvim lua
 - [hrsh7th/nvim-cmp](https://github.com/hrsh7th/nvim-cmp) - A completion plugin for neovim coded in Lua.
@@ -926,7 +944,7 @@
 - [nekonako/xresources-nvim](https://github.com/nekonako/xresources-nvim) - 🎨 Neovim colorscheme based on your xresources color
 - [lewis6991/impatient.nvim](https://github.com/lewis6991/impatient.nvim) - Improve startup time for Neovim
 - [s1n7ax/nvim-comment-frame](https://github.com/s1n7ax/nvim-comment-frame) - Detects the language using treesitter and adds a comment block
-- [n3wborn/nvim](https://github.com/n3wborn/nvim) - My  own nvim &gt;=0.7 lua config
+- [n3wborn/nvim](https://github.com/n3wborn/nvim) - My own NVIM (&gt;= v0.8.0-dev) lua config
 - [kawaki-san/dotfiles](https://github.com/kawaki-san/dotfiles) - 
 - [koniu/awesome-configs](https://github.com/koniu/awesome-configs) - koniu's awesome config
 - [kurbel/awesome-config](https://github.com/kurbel/awesome-config) - configuration files for the awesome window manager (awesomewm)
@@ -977,7 +995,7 @@
 - [cyrobin/awesome-wm](https://github.com/cyrobin/awesome-wm) - My Awesome WM 3.4 configuration
 - [ibhagwan/dots](https://github.com/ibhagwan/dots) - dots
 - [jonaburg/awesome-dotfiles](https://github.com/jonaburg/awesome-dotfiles) - Purely an awesome dotfiles repo to sync my awesomewm environment across several machines
-- [mpostaire/dotfiles](https://github.com/mpostaire/dotfiles) - 
+- [mpostaire/dotfiles](https://github.com/mpostaire/dotfiles) - My dotfiles.
 - [mustaqimM/dotfiles](https://github.com/mustaqimM/dotfiles) - 
 - [figsoda/dotfiles](https://github.com/figsoda/dotfiles) - My dotfiles (nixos + awesome)
 - [zliebersbach/awesome-md-cfg](https://github.com/zliebersbach/awesome-md-cfg) - Awesome WM configuration for multiple monitors, inspired by the Material Design guidelines.
@@ -1108,6 +1126,7 @@
 
 ## Makefile 
 
+- [infectedmushi/android_device_oneplus_instantnoodle-dev](https://github.com/infectedmushi/android_device_oneplus_instantnoodle-dev) - TWRP tree Unified for OnePlus 8/8 Pro (instantnoodle, instantnoodlep)
 - [lyz-code/blue-book](https://github.com/lyz-code/blue-book) - My personal knowledge repository
 - [feroldi/ricing](https://github.com/feroldi/ricing) - a book about ricing unix-like systems
 - [docxy/website](https://github.com/docxy/website) - The website of Docxy.
@@ -1153,6 +1172,15 @@
 
 ## Others 
 
+- [dair-ai/ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses) - 📺  A place to discover the latest machine learning courses on YouTube.
+- [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
+- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A curated checklist of 300+ tips for protecting digital security and privacy in 2022
+- [arete/docker-latex](https://github.com/arete/docker-latex) - docker latex image based on glibc voidlinux
+- [SethStormR/Winter](https://github.com/SethStormR/Winter) - Winter icon set is based on WhiteSur, Bloom and Papirus icon set. Autumn is aimed for Deepin DE and elementary OS.
+- [im-yuria/My-Wallpapers](https://github.com/im-yuria/My-Wallpapers) - my wallpaper collection
+- [keithkeekw/Wallpaper](https://github.com/keithkeekw/Wallpaper) - All my wallpaper collection
+- [Blu3Jive001/Wallpapers](https://github.com/Blu3Jive001/Wallpapers) - The definitive collection of wallpapers: by Blu3Jive001
+- [DeusMalsith/wallpaper-collection](https://github.com/DeusMalsith/wallpaper-collection) - 
 - [dennyzhang/popular-github-template](https://github.com/dennyzhang/popular-github-template) - :green_book: Repo Template: Make Your GitHub Repos More Popular
 - [TheAutodidactDidact/ObsidianMD-MSS](https://github.com/TheAutodidactDidact/ObsidianMD-MSS) - Obsidian Markdown MSS Folder
 - [ChrisRfr/Win10XPE](https://github.com/ChrisRfr/Win10XPE) - Win10XPE is a Complete Project Based on Win10, Win11 Recovery Environment With Many Windows Features Added...
@@ -1196,7 +1224,7 @@
 - [tprasadtp/bhoomi-grub-theme](https://github.com/tprasadtp/bhoomi-grub-theme) - A Simple Grub2 Theme based on vimix
 - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
 - [thelearn-tech/Alpine-Linux-GUI](https://github.com/thelearn-tech/Alpine-Linux-GUI) - How to install GUI on Alpine Linux
-- [linuxdotexe/nordic-wallpapers](https://github.com/linuxdotexe/nordic-wallpapers) - A collection of wallpapers that go well with the rices inspired by the Nord Colorscheme
+- [linuxdotexe/nordic-wallpapers](https://github.com/linuxdotexe/nordic-wallpapers) - A collection of wallpapers that go well with the rices inspired by the Nord Colorscheme. Made with ImageGoNord by Schrödinger Hat.
 - [digmorepaka/thinkpad-firmware-patches](https://github.com/digmorepaka/thinkpad-firmware-patches) - Collection of ThinkPad UEFI patches.
 - [xexpanderx/Fluxbox-themes](https://github.com/xexpanderx/Fluxbox-themes) - Fluxbox theme collections
 - [nanotee/nvim-lua-guide](https://github.com/nanotee/nvim-lua-guide) - A guide to using Lua in Neovim
@@ -1335,9 +1363,9 @@
 
 ## PHP 
 
+- [DenverCoder1/Minimalistic-Wallpaper-Collection](https://github.com/DenverCoder1/Minimalistic-Wallpaper-Collection) - Minimalistic, flat art, and colorful, digital nature wallpapers and an API for randomly selecting them
 - [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) - PrestaShop is an Open Source e-commerce platform, committed to providing the best shopping cart experience for both merchants and customers.
 - [dandelionmood/debrief](https://github.com/dandelionmood/debrief) - Debrief is an open-source, easy to use note-taking application crossed with a diary.
-- [Cesar-Hack-Gray/FotoSploit](https://github.com/Cesar-Hack-Gray/FotoSploit) - 
 - [ambroisemaupate/webfont-generator](https://github.com/ambroisemaupate/webfont-generator) - Subset and convert one or many OTF/TTF files in EOT, SVG, WOFF and WOFF2.
 - [thedevdojo/wave](https://github.com/thedevdojo/wave) - Wave - The Software as a Service Starter Kit, designed to help you build the SAAS of your dreams 🚀 💰
 - [cavo789/marknotes](https://github.com/cavo789/marknotes) - 📝 You’re taking a lot of notes and need a solution to manage them i.e. put your knowledge base in one central place and being able to retrieve quickly information’s, display them nicely through the browser as a HTML page or a slideshow, export them in many file formats (docx, odt, pdf, txt, …).  Sensitive information’s can be encrypted and notes can be edited online. Online demo: https://www.marknotes.fr | Stay informed, follow us on Facebook: https://www.facebook.com/marknotes789
@@ -1359,10 +1387,11 @@
 
 ## Python 
 
+- [mikaelkall/HackingAllTheThings](https://github.com/mikaelkall/HackingAllTheThings) - My documentation and tools for learn ethical hacking.
 - [nicolomantini/LinkedIn-Easy-Apply-Bot](https://github.com/nicolomantini/LinkedIn-Easy-Apply-Bot) - Automate the application process on LinkedIn
 - [roddhjav/pass-import](https://github.com/roddhjav/pass-import) - A pass extension for importing data from most of the existing password manager.
-- [kirankoduru/gen-cover-letter](https://github.com/kirankoduru/gen-cover-letter) - Generating cover letters is easy as writing to a CSV file and a sample cover letter.
-- [archivy/archivy](https://github.com/archivy/archivy) - Archivy is a self-hosted knowledge repository that allows you to safely preserve useful content that contributes to your own personal, searchable and extendable wiki.
+- [eventuallyc0nsistent/gen-cover-letter](https://github.com/eventuallyc0nsistent/gen-cover-letter) - Generating cover letters is easy as writing to a CSV file and a sample cover letter.
+- [archivy/archivy](https://github.com/archivy/archivy) - Archivy is a self-hostable knowledge repository that allows you to learn and retain information in your own personal and extensible wiki.
 - [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [audibleblink/doxycannon](https://github.com/audibleblink/doxycannon) - A poorman's proxycannon and botnet, using docker, ovpn files, tor nodes, and dante socks5 proxies
 - [KCarretto/Arsenal](https://github.com/KCarretto/Arsenal) - Extensible Red Team Framework
@@ -1396,10 +1425,9 @@
 - [ahmed2m/dotfiles](https://github.com/ahmed2m/dotfiles) - My own config dotfiles for qtile/kde/awesomewm on Arch based distros
 - [hummingbot/hummingbot](https://github.com/hummingbot/hummingbot) - Hummingbot is open source software that helps you build trading bots that run on any exchange or blockchain
 - [CryptoSignal/Crypto-Signal](https://github.com/CryptoSignal/Crypto-Signal) - Github.com/CryptoSignal - #1 Quant Trading & Technical Analysis Bot - 3,100+ stars, 900+ forks
-- [Rick-Lang/rickroll-lang](https://github.com/Rick-Lang/rickroll-lang) - The Rickroll programming language is a rickroll based, process oriented, dynamic, strong, esoteric programming language. All of the keywords/statements are coming from Rick Astley's lyrics. Discord server: https://discord.gg/yzZ3MfGZ8A
+- [Rick-Lang/rickroll-lang](https://github.com/Rick-Lang/rickroll-lang) - The Rick Roll programming language is a rickroll based, process oriented, dynamic, strong, esoteric programming language. All of the keywords/statements are from Rick Astley's lyrics. Discord server: https://discord.gg/yzZ3MfGZ8A
 - [heyzec/Inkscape-Extensions](https://github.com/heyzec/Inkscape-Extensions) - Some extensions for Inkscape
 - [akkana/gimp-plugins](https://github.com/akkana/gimp-plugins) - GIMP plug-ins, scripts and helpers
-- [Kirill-Bugaev/awesome-base16](https://github.com/Kirill-Bugaev/awesome-base16) - Base16 color schemes for Awesome WM
 - [Thomashighbaugh/qtile](https://github.com/Thomashighbaugh/qtile) - I continue plummeting into the depts of Linux
 - [Lifesgood123/unixpornposter](https://github.com/Lifesgood123/unixpornposter) - 
 - [demisto/content](https://github.com/demisto/content) - Demisto is now Cortex XSOAR. Automate and orchestrate your Security Operations with Cortex XSOAR's ever-growing Content Repository. Pull Requests are always welcome and highly appreciated!
@@ -1442,7 +1470,6 @@
 - [dAYOShACKER505/AXOM-FB-HACK](https://github.com/dAYOShACKER505/AXOM-FB-HACK) - facebook hacking tool for termux or linux 2020
 - [seevik2580/ethereum-wallet-recovery](https://github.com/seevik2580/ethereum-wallet-recovery) - ethereum wallet recovery password multithread tool, baked from pyethrecover and pyethereum, for using keystore v3 json file to help recover your lost password if you know some phrases using both brute and wordlist technique, start + end words, whole ascii or just numbers
 - [rhelmstedter/Zettelkasten](https://github.com/rhelmstedter/Zettelkasten) - My personal zettelkasten.
-- [deepfence/SecretScanner](https://github.com/deepfence/SecretScanner) - Find secrets and passwords in container images and file systems
 - [trustedsec/ptf](https://github.com/trustedsec/ptf) - The Penetration Testers Framework (PTF) is a way for modular support for up-to-date tools.
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [Timvde/UserChromeManager](https://github.com/Timvde/UserChromeManager) - A small python script to manage your userChrome.css
@@ -1520,12 +1547,15 @@
 
 ## Ruby 
 
+- [capistrano/capistrano](https://github.com/capistrano/capistrano) - Remote multi-server automation tool
+- [chef/chef](https://github.com/chef/chef) - Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale
+- [puppetlabs/puppet](https://github.com/puppetlabs/puppet) - Server automation framework and application
 - [joelgrus/hackernews](https://github.com/joelgrus/hackernews) - There are way too many stories on Hacker News, and there's no option for "show me only the stories that Joel would like". So I built one. (Maybe "cobbled together" is more appropriate.)
 - [ruby/rake](https://github.com/ruby/rake) - A make-like build utility for Ruby.
 - [0xsauby/yasuo](https://github.com/0xsauby/yasuo) - A ruby script that scans for vulnerable & exploitable 3rd-party web applications on a network
 - [rails/rails](https://github.com/rails/rails) - Ruby on Rails
 - [18F/open-source-guide](https://github.com/18F/open-source-guide) - 18F’s Style guide for open source project documentation
-- [loomio/loomio](https://github.com/loomio/loomio) - Loomio helps people make decisions together
+- [loomio/loomio](https://github.com/loomio/loomio) - Loomio is a collaborative decision making tool
 - [jakubgarfield/instagram-scheduler](https://github.com/jakubgarfield/instagram-scheduler) - 📷  Beautiful way to get shadowbanned on Instagram by ⏰ scheduling your 🌁 photos.
 - [middleman/middleman](https://github.com/middleman/middleman) - Hand-crafted frontend development
 - [jekyll/jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
@@ -1544,6 +1574,7 @@
 
 ## Rust 
 
+- [sunface/rust-by-practice](https://github.com/sunface/rust-by-practice) - Learning Rust By Practice,  narrowing the gap between beginner and skilled-dev with challenging examples, exercises and projects.
 - [he-la/perspektiv](https://github.com/he-la/perspektiv) - A daemon for creating popups when you change monitor brightness, volume, etc.
 - [terror/zk](https://github.com/terror/zk) - A note-taking tool based on the famous Zettelkasten method
 - [velas/velas-chain](https://github.com/velas/velas-chain) - 
@@ -1566,12 +1597,11 @@
 - [Misterio77/flavours](https://github.com/Misterio77/flavours) - 🎨💧 An easy to use base16 scheme manager that integrates with any workflow.
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [iced-rs/iced](https://github.com/iced-rs/iced) - A cross-platform GUI library for Rust, inspired by Elm
-- [Graviton-Code-Editor/Graviton-App](https://github.com/Graviton-Code-Editor/Graviton-App) - 🚀 A modern-looking Code Editor
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 
 ## SCSS 
 
-- [phocus/gtk](https://github.com/phocus/gtk) - 
+- [phocus/gtk](https://github.com/phocus/gtk) - From scratch, clean and opinionated GTK3 implementation of the phocus color scheme.
 - [UbuntuBudgie/pocillo-gtk-theme](https://github.com/UbuntuBudgie/pocillo-gtk-theme) - GTK+ 3.22 & GTK+ 4 based theme for the Budgie Desktop that has Material Design elements and styled using the Arc colour palette
 - [Infamoustrey/outrun-css](https://github.com/Infamoustrey/outrun-css) - An epic css framework for cyberpunk websites
 - [prakhar1989/docker-curriculum](https://github.com/prakhar1989/docker-curriculum) - :dolphin: A comprehensive tutorial on getting started with Docker!
@@ -1584,6 +1614,10 @@
 - [mldangelo/personal-site](https://github.com/mldangelo/personal-site) - My personal website - built with React, React-Router, React-Snap for Static-Export, and GitHub Pages.
 - [StarLabsLtd/StarLabsTheme](https://github.com/StarLabsLtd/StarLabsTheme) - Star Labs GNOME Shell and GTK Theme
 - [Thomashighbaugh/startpage](https://github.com/Thomashighbaugh/startpage) - Browser startpage written in Next.js for those not afraid of  serverless hosting.
+
+## SaltStack 
+
+- [Noah-Huppert/linux-install](https://github.com/Noah-Huppert/linux-install) - Void installation
 
 ## Scala 
 
@@ -1601,6 +1635,19 @@
 
 ## Shell 
 
+- [Bugswriter/notflix](https://github.com/Bugswriter/notflix) - Notflix is a shell script to search and stream torrent.
+- [DebianDog/MakeLive](https://github.com/DebianDog/MakeLive) - How Create your own DebianLive from netinstall and also include porteus-boot style
+- [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
+- [isair/dotfiles](https://github.com/isair/dotfiles) - 🖥️  Backup your packages, apps, and configurations directly to git in the form of profiles. Set up any new machine using a profile in one line. Share profiles between multiple machines. Configure auto update, clean-up, and back-up. Works for all linux flavors, Mac OS, and Windows.
+- [angristan/wireguard-install](https://github.com/angristan/wireguard-install) - WireGuard VPN installer for Linux servers
+- [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
+- [zoltan-dulac/css3FontConverter](https://github.com/zoltan-dulac/css3FontConverter) - A shell script that can use other command line tools to produce @font-face compatible fonts in all browsers.  Works under Windows (using Cygwin), Mac OS X and Linux
+- [chimera-linux/chimera-live](https://github.com/chimera-linux/chimera-live) - Image creation tooling
+- [eoli3n/void-config](https://github.com/eoli3n/void-config) - Scripts and Ansible playbook to setup Void Linux on ZFS.
+- [Botspot/pi-apps](https://github.com/Botspot/pi-apps) - Raspberry Pi App Store for Open Source Projects
+- [LEV-Linux/LEV-mklive](https://github.com/LEV-Linux/LEV-mklive) - The LEV Linux live image maker
+- [xerolinux/kde_iso](https://github.com/xerolinux/kde_iso) - 
+- [niraj998/dotfiles](https://github.com/niraj998/dotfiles) - Collection of my dotfiles
 - [abhilesh/self-hosted_docker_setups](https://github.com/abhilesh/self-hosted_docker_setups) - A collection of my docker-compose files used to setup self-hosted services on Raspberry Pi 4 running 64-bit Raspberry Pi OS
 - [lane-brain/void-packages](https://github.com/lane-brain/void-packages) - The Void source packages collection
 - [the-Electric-Tantra-Linux/void-packages](https://github.com/the-Electric-Tantra-Linux/void-packages) - The Void source packages collection
@@ -1637,9 +1684,10 @@
 - [g0r60n/InstaShell](https://github.com/g0r60n/InstaShell) - InstaShell
 - [opsgang/alpine_build_scripts](https://github.com/opsgang/alpine_build_scripts) - ... collection of ash scripts to install various common pkgs.
 - [NTBBloodbath/dotfiles](https://github.com/NTBBloodbath/dotfiles) - /boot: No such file or directory
+- [chrispap-dev/dotfiles](https://github.com/chrispap-dev/dotfiles) - Collection of my config files i use in my Ubuntu daily driver
 - [dhasirar/instax](https://github.com/dhasirar/instax) - instax is an tool to perform brute force attack against Instagram,(https://github.com/dhasirar/instax) by dhasirar under GNU LICENSE. WARNING! This tool was made for educational purposes! https://www.instagram.com/dhasirar/
 - [Lolzen/void-live-customizer](https://github.com/Lolzen/void-live-customizer) - script to build a customized livecd of void linux using void-mklive
-- [ahmetozer/whitedoor](https://github.com/ahmetozer/whitedoor) - WhiteDoor Linux Distro Build Enviroment. It is based on LFS Book. It have a easy configuration functions to prepare environment easily
+- [ahmetozer/whitedoor](https://github.com/ahmetozer/whitedoor) - Experimental embed linux build with containers
 - [Sharrisii/TAZ](https://github.com/Sharrisii/TAZ) - A slimmed down gentoo linux livecd/liveusb iso that allows to load different boot options and runs from RAM upon boot. A VCTLabs project.
 - [LinuxGuides-OS/LinuxGuidesOS](https://github.com/LinuxGuides-OS/LinuxGuidesOS) - LinuxGuides OS Hauptrepo
 - [IncredibleHacker/insta-hack](https://github.com/IncredibleHacker/insta-hack) - All in one Instagram hacking tool available (Insta information gathering, Insta brute force, Insta account auto repoter)
@@ -1676,7 +1724,6 @@
 - [ifreund/dotfiles](https://github.com/ifreund/dotfiles) - My configuration for void linux and river
 - [rabbitinspace/abyss](https://github.com/rabbitinspace/abyss) - Another Void Linux bootstrap for UEFI systems written in Fish.
 - [leafhy/void-linux-installer](https://github.com/leafhy/void-linux-installer) - Bash script to install Void Linux
-- [joestandring/void-installer](https://github.com/joestandring/void-installer) - A script to apply settings at https://github.com/joestandring/dotfiles and various other changes to make a fresh Void Linux install similar to my personal install
 - [thomashoullier/voidlinux-install](https://github.com/thomashoullier/voidlinux-install) - Void Linux installation script.
 - [marciliocn/void-installer](https://github.com/marciliocn/void-installer) - Installer script as a alternative for default Void Linux installer.
 - [mobinmob/void-66-services](https://github.com/mobinmob/void-66-services) - 66 service frontends for voidlinux
@@ -1875,6 +1922,7 @@
 
 ## TypeScript 
 
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
 - [pawelmalak/flame](https://github.com/pawelmalak/flame) - Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors.
 - [hood/homie](https://github.com/hood/homie) - A minimalistic personal dashboard.
 - [Thomashighbaugh/startpage-figma-balls-nextjs](https://github.com/Thomashighbaugh/startpage-figma-balls-nextjs) - A recreation of a startpage posted on Reddit without the source, so I rewrote it in Next.js + Tailwind for the open source community.
@@ -1943,7 +1991,7 @@
 - [material-shell/material-shell](https://github.com/material-shell/material-shell) - A modern desktop interface for Linux. Improve your user experience and get rid of the anarchy of traditional desktop workflows. Designed to simplify navigation and reduce the need to manipulate windows in order to improve productivity. It's meant to be 100% predictable and bring the benefits of tools coveted by professionals to everyone.
 - [philippetedajo/philippe.tedajo](https://github.com/philippetedajo/philippe.tedajo) - My personal portfolio.
 - [raunofreiberg/ui-playbook](https://github.com/raunofreiberg/ui-playbook) - The documented collection of UI components 🤓
-- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
+- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS.
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - 📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!
 - [honkit/honkit](https://github.com/honkit/honkit) - :book: HonKit is building beautiful books using Markdown - Fork of GitBook
 - [peaceiris/actions-mdbook](https://github.com/peaceiris/actions-mdbook) - GitHub Actions for mdBook (rust-lang/mdBook) ⚡️ Setup mdBook quickly and build your site fast. Linux (Ubuntu), macOS, and Windows are supported.
@@ -1956,6 +2004,7 @@
 - [chronisp/gatsby-starter](https://github.com/chronisp/gatsby-starter) - Gatsby Starter for creating portfolio & blog.
 - [GPortfolio/GPortfolio](https://github.com/GPortfolio/GPortfolio) - Creating an automatic portfolio based on Github profile
 - [nomcopter/react-mosaic](https://github.com/nomcopter/react-mosaic) - A React tiling window manager
+- [Graviton-Code-Editor/Graviton-App](https://github.com/Graviton-Code-Editor/Graviton-App) - 🚀 A modern-looking Code Editor
 - [lodeapp/lode](https://github.com/lodeapp/lode) - A universal GUI for unit testing built with Electron and Vue.js
 - [kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit) - React Starter Kit — front-end starter kit using React, Relay, GraphQL, and JAM stack architecture
 - [async-labs/saas](https://github.com/async-labs/saas) - Build your own SaaS business with SaaS boilerplate. Productive stack: React, Material-UI, Next, MobX, WebSockets, Express, Node, Mongoose, MongoDB. Written with TypeScript.
@@ -1970,6 +2019,10 @@
 - [akveo/eva-icons](https://github.com/akveo/eva-icons) - A pack of more than 480 beautifully crafted Open Source icons. SVG, Sketch, Web Font and Animations support.
 - [streamich/libreact](https://github.com/streamich/libreact) - Collection of useful React components
 - [MicroPad/MicroPad-Electron](https://github.com/MicroPad/MicroPad-Electron) - The desktop app of https://github.com/MicroPad/MicroPad-Core
+
+## VBA 
+
+- [dragokas/hijackthis](https://github.com/dragokas/hijackthis) - A free utility that finds malware, adware and other security threats
 
 ## Vala 
 
@@ -1990,6 +2043,7 @@
 
 ## Vim script 
 
+- [zanshin/dotfiles](https://github.com/zanshin/dotfiles) - My dotfiles.
 - [quinoa42/dotfiles](https://github.com/quinoa42/dotfiles) - My dotfiles that set the world I live in
 - [nikvdp/neomux](https://github.com/nikvdp/neomux) - 
 - [Quiterion/dotfiles](https://github.com/Quiterion/dotfiles) - Dotfiles for my i3 Arch setup, uploaded for redundancy and easy installation on new machines
@@ -1998,7 +2052,6 @@
 - [lambdalisue/suda.vim](https://github.com/lambdalisue/suda.vim) - 🥪 An alternative sudo.vim for Vim and Neovim, limited support sudo in Windows
 - [vimwiki/vimwiki](https://github.com/vimwiki/vimwiki) - Personal Wiki for Vim
 - [abdullahalzubaer/Neovim-Setup](https://github.com/abdullahalzubaer/Neovim-Setup) - 
-- [chrispap-dev/dotfiles](https://github.com/chrispap-dev/dotfiles) - Collection of my config files for Linux. i3,alacritty,i3-blocks,vim and more
 - [glepnir/dashboard-nvim](https://github.com/glepnir/dashboard-nvim) - vim dashboard
 - [ParallaxWave/blood_i3](https://github.com/ParallaxWave/blood_i3) - 
 - [s3rvac/dotfiles](https://github.com/s3rvac/dotfiles) - My configuration files for git, vim, tmux, bash, fluxbox, etc.
@@ -2030,7 +2083,7 @@
 - [Litarvan/lightdm-webkit-theme-litarvan](https://github.com/Litarvan/lightdm-webkit-theme-litarvan) - Litarvan's LightDM HTML Theme
 - [Exauthor/lightdm-webkit-theme-osmos](https://github.com/Exauthor/lightdm-webkit-theme-osmos) - Osmos
 - [bencodezen/vuepress-blog-boilerplate](https://github.com/bencodezen/vuepress-blog-boilerplate) - An ever-evolving and opinionated dev environment for people who want to use VuePress to power their blogs.
-- [o-khrushch/Social-Cleaner](https://github.com/o-khrushch/Social-Cleaner) - Cleaning of any data (wall, documents, video, image, etc.) from various social networks with logs and preliminary verification
+- [oleksiikhr/Social-Cleaner](https://github.com/oleksiikhr/Social-Cleaner) - Cleaning of any data (wall, documents, video, image, etc.) from various social networks with logs and preliminary verification
 - [jarbun/downline](https://github.com/jarbun/downline) - Free cross-platform desktop app to download videos and music from YouTube and many other sites
 - [sdras/cssgridgenerator](https://github.com/sdras/cssgridgenerator) - 🧮 Generate basic CSS Grid code to make dynamic layouts!
 - [czytelny/backlog](https://github.com/czytelny/backlog) - Simple desktop app for storing lists of items (todo, tasks, backlog items)
