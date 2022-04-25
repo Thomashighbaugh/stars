@@ -830,6 +830,7 @@
 
 ## Lua 
 
+- [rebelot/dotfiles](https://github.com/rebelot/dotfiles) - my configuration files
 - [creativenull/nvim-config](https://github.com/creativenull/nvim-config) - My neovim config in lua that I use to experiment new features and plugins
 - [deficient/volume-control](https://github.com/deficient/volume-control) - Volume control for awesome window manager
 - [tamton-aquib/nvim](https://github.com/tamton-aquib/nvim) - Personal neovim config
@@ -1387,6 +1388,7 @@
 
 ## Python 
 
+- [NathanDuma/LinkedIn-Easy-Apply-Bot](https://github.com/NathanDuma/LinkedIn-Easy-Apply-Bot) - Automate LinkedIn Easy Apply job applications and answer application-specific questions.
 - [mikaelkall/HackingAllTheThings](https://github.com/mikaelkall/HackingAllTheThings) - My documentation and tools for learn ethical hacking.
 - [nicolomantini/LinkedIn-Easy-Apply-Bot](https://github.com/nicolomantini/LinkedIn-Easy-Apply-Bot) - Automate the application process on LinkedIn
 - [roddhjav/pass-import](https://github.com/roddhjav/pass-import) - A pass extension for importing data from most of the existing password manager.
@@ -1635,6 +1637,10 @@
 
 ## Shell 
 
+- [alansartorio/Custom-Artix-ISO](https://github.com/alansartorio/Custom-Artix-ISO) - 
+- [inmanturbo/alpine-iso-tweaks](https://github.com/inmanturbo/alpine-iso-tweaks) - 
+- [fvanniere/alpine-custom](https://github.com/fvanniere/alpine-custom) - Tools for building custom Alpine ISO with autoconfiguration from host
+- [jclab-joseph/test-alpine-live-iso](https://github.com/jclab-joseph/test-alpine-live-iso) - 
 - [Bugswriter/notflix](https://github.com/Bugswriter/notflix) - Notflix is a shell script to search and stream torrent.
 - [DebianDog/MakeLive](https://github.com/DebianDog/MakeLive) - How Create your own DebianLive from netinstall and also include porteus-boot style
 - [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
