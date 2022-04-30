@@ -77,6 +77,7 @@
 
 ## C 
 
+- [VeltOS/graphene-desktop](https://github.com/VeltOS/graphene-desktop) - The default desktop environment of VeltOS
 - [compilepeace/KAAL_BHAIRAV](https://github.com/compilepeace/KAAL_BHAIRAV) - -x-x-x-x- DO NOT RUN ON PRODUCTION MACHINE  -x-x-x-x-  An ELF virus capable of generating segment padded trojans.
 - [endaaman/tym](https://github.com/endaaman/tym) - Lua-configurable terminal emulator
 - [wallace-aph/tiles-and-such](https://github.com/wallace-aph/tiles-and-such) - Archives of tilelable images/wallpapers
@@ -1638,6 +1639,8 @@
 
 ## Shell 
 
+- [the-Electric-Tantra-Linux/electric-tantra-repo](https://github.com/the-Electric-Tantra-Linux/electric-tantra-repo) - A package repository for a self spun distro that demos my dotfiles.
+- [archlinux/archiso](https://github.com/archlinux/archiso) - Official archiso scripts Repository (read-only mirror)
 - [IBT-FMI/gebuilder](https://github.com/IBT-FMI/gebuilder) - Gentoo System and Image Builder
 - [alansartorio/Custom-Artix-ISO](https://github.com/alansartorio/Custom-Artix-ISO) - 
 - [inmanturbo/alpine-iso-tweaks](https://github.com/inmanturbo/alpine-iso-tweaks) - 
@@ -2008,7 +2011,7 @@
 - [kremalicious/blog](https://github.com/kremalicious/blog) - 🍭 My blog kremalicious.com built with Gatsby + TypeScript. Neat.
 - [herschel666/photoblog](https://github.com/herschel666/photoblog) - Goodbye Flickr …
 - [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) - Automatically deploy your project to GitHub Pages using GitHub Actions. This action can be configured to push your production-ready code into any branch you'd like.
-- [tinacms/tinacms](https://github.com/tinacms/tinacms) - Open source editor that brings visual editing into React websites. A developer-centric CMS to build contextual and intuitive editing experience without sacrificing code quality.
+- [tinacms/tinacms](https://github.com/tinacms/tinacms) - A headless CMS for Markdown
 - [ridedott/merge-me-action](https://github.com/ridedott/merge-me-action) - Automatically merges Pull Requests.
 - [chronisp/gatsby-starter](https://github.com/chronisp/gatsby-starter) - Gatsby Starter for creating portfolio & blog.
 - [GPortfolio/GPortfolio](https://github.com/GPortfolio/GPortfolio) - Creating an automatic portfolio based on Github profile
