@@ -354,6 +354,7 @@
 
 ## Go 
 
+- [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find credentials all over the place
 - [caarlos0/fork-cleaner](https://github.com/caarlos0/fork-cleaner) - Quickly clean up unused forks on your github account.
 - [RistBS/Awesome-RedTeam-Cheatsheet](https://github.com/RistBS/Awesome-RedTeam-Cheatsheet) - Active Directory & Red-Team Cheat-Sheet in constant expansion.
 - [muesli/beehive](https://github.com/muesli/beehive) - A flexible event/agent & automation system with lots of bees 🐝
@@ -1129,6 +1130,7 @@
 
 ## Makefile 
 
+- [pierres/archiso-manager](https://github.com/pierres/archiso-manager) - 
 - [infectedmushi/android_device_oneplus_instantnoodle-dev](https://github.com/infectedmushi/android_device_oneplus_instantnoodle-dev) - TWRP tree Unified for OnePlus 8/8 Pro (instantnoodle, instantnoodlep)
 - [lyz-code/blue-book](https://github.com/lyz-code/blue-book) - My personal knowledge repository
 - [feroldi/ricing](https://github.com/feroldi/ricing) - a book about ricing unix-like systems
@@ -1578,6 +1580,7 @@
 
 ## Rust 
 
+- [r-darwish/alma](https://github.com/r-darwish/alma) - Create Arch Linux based bootable USB drives
 - [sunface/rust-by-practice](https://github.com/sunface/rust-by-practice) - Learning Rust By Practice,  narrowing the gap between beginner and skilled-dev with challenging examples, exercises and projects.
 - [he-la/perspektiv](https://github.com/he-la/perspektiv) - A daemon for creating popups when you change monitor brightness, volume, etc.
 - [terror/zk](https://github.com/terror/zk) - A note-taking tool based on the famous Zettelkasten method
@@ -1639,6 +1642,7 @@
 
 ## Shell 
 
+- [rcarriga/dotfiles](https://github.com/rcarriga/dotfiles) - Just a simple dotfiles setup
 - [the-Electric-Tantra-Linux/electric-tantra-repo](https://github.com/the-Electric-Tantra-Linux/electric-tantra-repo) - A package repository for a self spun distro that demos my dotfiles.
 - [archlinux/archiso](https://github.com/archlinux/archiso) - Official archiso scripts Repository (read-only mirror)
 - [IBT-FMI/gebuilder](https://github.com/IBT-FMI/gebuilder) - Gentoo System and Image Builder
