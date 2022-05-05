@@ -65,6 +65,7 @@
   - [Vim Snippet](#vim-snippet)
   - [Vim script](#vim-script)
   - [Vue](#vue)
+  - [YAML](#yaml)
   - [Zig](#zig)
 
 ## Batchfile 
@@ -354,6 +355,8 @@
 
 ## Go 
 
+- [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features
+- [mudler/edgevpn](https://github.com/mudler/edgevpn) - :sailboat: The immutable, decentralized, statically built p2p VPN without any central server and automatic discovery! Create decentralized introspectable tunnels over p2p with shared tokens
 - [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find credentials all over the place
 - [caarlos0/fork-cleaner](https://github.com/caarlos0/fork-cleaner) - Quickly clean up unused forks on your github account.
 - [RistBS/Awesome-RedTeam-Cheatsheet](https://github.com/RistBS/Awesome-RedTeam-Cheatsheet) - Active Directory & Red-Team Cheat-Sheet in constant expansion.
@@ -518,6 +521,8 @@
 
 ## JavaScript 
 
+- [tuberry/shuzhi](https://github.com/tuberry/shuzhi) - Wallpaper generation extension for GNOME Shell, inspired by Jizhi
+- [tesserractmedia/entertainment-ayam](https://github.com/tesserractmedia/entertainment-ayam) - This is the Frontend Website of Entertainment Ayam a  sub-project and part of the Ayam Project ecosystem. This project's aim is to collect data on Hinduphobia being spread through entertainment mediums. No personal details are collected on this website. Here you report Hinduphobia and can also see the data in form of charts and graphs.
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 200+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [svgdotjs/svg.js](https://github.com/svgdotjs/svg.js) - The lightweight library for manipulating and animating SVG
 - [mixu/nwm](https://github.com/mixu/nwm) - Tiling window manager for X11 written in Node.js
@@ -833,6 +838,7 @@
 
 ## Lua 
 
+- [EdenEast/nyx](https://github.com/EdenEast/nyx) - ⚙️Nix[OS] Configuration
 - [jazz-g/shining-plum](https://github.com/jazz-g/shining-plum) - Dotfiles for r/unixporn
 - [fedepujol/move.nvim](https://github.com/fedepujol/move.nvim) - Gain the power to move lines and blocks and auto-indent them!
 - [BlackArch/blackarch-iso](https://github.com/BlackArch/blackarch-iso) - BlackArch Linux ISOs
@@ -1094,7 +1100,7 @@
 - [streetturtle/awesome-buttons](https://github.com/streetturtle/awesome-buttons) - Button widget library for Awesome Window Manager
 - [hrsh7th/nvim-compe](https://github.com/hrsh7th/nvim-compe) - Auto completion Lua plugin for nvim
 - [raven2cz/awesomewm-config](https://github.com/raven2cz/awesomewm-config) - RAVEN2CZ: AwesomeWM Configuration, Libraries and Themes.
-- [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime ~ 0.06 secs
+- [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime ~ 20ms to 70ms
 - [pinpox/wallpaper-generator](https://github.com/pinpox/wallpaper-generator) - Generate wallpaper images from mathematical functions
 - [bioe007/awesome-revelation](https://github.com/bioe007/awesome-revelation) - Show all clients per screen in Awesome window manager
 - [Mofiqul/awesome-shell](https://github.com/Mofiqul/awesome-shell) - This is a collection of awesome wm configuration files
@@ -1159,6 +1165,12 @@
 
 ## Nix 
 
+- [yurrriq/dotfiles](https://github.com/yurrriq/dotfiles) - My (semi-)literate dotfiles for Nix, Emacs, fish, etc, managed with home-manager and GNU Stow
+- [MayNiklas/nixos](https://github.com/MayNiklas/nixos) - My personal NixOS infrastructure
+- [colemickens/nixcfg](https://github.com/colemickens/nixcfg) - NixOS and Home-Manager configurations for all of my devices (desktop, Pinebook Pro, RPi4, cloud servers, etc). Like dotfiles, but way better. (née 'nixos-config')
+- [utdemir/dotfiles](https://github.com/utdemir/dotfiles) - Comprehensive configurations of my NixOS workstations and home server.
+- [LEXUGE/nixos](https://github.com/LEXUGE/nixos) - A fully automated replicable nixos configuration set
+- [davidtwco/veritas](https://github.com/davidtwco/veritas) - @davidtwco's personal mono-repo - containing the declarative configuration of servers, desktops and laptops - including dotfiles; a collection of packages; a static site generator and source of "davidtw.co".
 - [numtide/devshell](https://github.com/numtide/devshell) - Per project developer environments
 - [hlissner/dotfiles](https://github.com/hlissner/dotfiles) - And I say hey, what's going on?
 - [ivanbrennan/nixbox](https://github.com/ivanbrennan/nixbox) - NixOS configuration
@@ -1180,6 +1192,10 @@
 
 ## Others 
 
+- [technomada/cloud-from-scratch](https://github.com/technomada/cloud-from-scratch) - Build yourself a private self-hosted full-stack personal cloud system.
+- [gopalindians/awesome-hinduism](https://github.com/gopalindians/awesome-hinduism) - Awesome collection of Sanatana dharma(सनातन धर्म)
+- [ahkhalwai/Hidayah](https://github.com/ahkhalwai/Hidayah) - This repository extends the research of discovered Inventions that are already mentioned in the Scriptures. Example - Water cycle, Big Bang Theory, etc more than 1000 Inventions in last 100 to 400 years in the field of Science Successful but this invention mentions already 1400 years ago in Quran alone.
+- [nix-community/awesome-nix](https://github.com/nix-community/awesome-nix) - 😎 A curated list of the best resources in the Nix community [maintainer=@houstdav000]
 - [vandalsoul/grub-tweaks](https://github.com/vandalsoul/grub-tweaks) - Some GRUB tweaks 📚💡
 - [gurugio/lowlevelprogramming-university](https://github.com/gurugio/lowlevelprogramming-university) - How to be low-level programmer
 - [tborychowski/self-hosted-cookbook](https://github.com/tborychowski/self-hosted-cookbook) - A cookbook, for docker-compose based recipes, for self-hosted applications and services.
@@ -1224,7 +1240,7 @@
 - [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
 - [baquer/GATE-and-CSE-Resources-for-Students](https://github.com/baquer/GATE-and-CSE-Resources-for-Students) - 📚 📖 📚CSE GATE Resources for GATE and CSE Aspirants 😎 😁 . Show your ❤️ by ⭐️⭐️
-- [the-akira/Computer-Science-Resources](https://github.com/the-akira/Computer-Science-Resources) - A list of resources in different fields of Computer Science (multiple languages)
+- [the-akira/Computer-Science-Resources](https://github.com/the-akira/Computer-Science-Resources) - A list of resources in different fields of Computer Science
 - [amilajack/reading](https://github.com/amilajack/reading) - A list of computer-science readings I recommend
 - [tehtbl/awesome-note-taking](https://github.com/tehtbl/awesome-note-taking) - A curated list of awesome note-taking software.
 - [anmol098/anmol098](https://github.com/anmol098/anmol098) - If you are forking please do not forget to star the repo
@@ -1399,6 +1415,8 @@
 
 ## Python 
 
+- [justinwoo/mkgif](https://github.com/justinwoo/mkgif) - because ffmpeg commands are too annoying to remember, and bash scripts are annoying to manage.
+- [yakninja/mantra-generator](https://github.com/yakninja/mantra-generator) - Generates mantras in Sanskrit, allowing you to discover secret mantras
 - [NathanDuma/LinkedIn-Easy-Apply-Bot](https://github.com/NathanDuma/LinkedIn-Easy-Apply-Bot) - Automate LinkedIn Easy Apply job applications and answer application-specific questions.
 - [mikaelkall/HackingAllTheThings](https://github.com/mikaelkall/HackingAllTheThings) - My documentation and tools for learn ethical hacking.
 - [nicolomantini/LinkedIn-Easy-Apply-Bot](https://github.com/nicolomantini/LinkedIn-Easy-Apply-Bot) - Automate the application process on LinkedIn
@@ -1560,6 +1578,7 @@
 
 ## Ruby 
 
+- [juanjoSanz/aws-pentesting-lab](https://github.com/juanjoSanz/aws-pentesting-lab) - Pentesting lab with a Kali Linux instance accessible via ssh & wireguard VPN and with vulnerable instances in a private subnet
 - [capistrano/capistrano](https://github.com/capistrano/capistrano) - Remote multi-server automation tool
 - [chef/chef](https://github.com/chef/chef) - Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale
 - [puppetlabs/puppet](https://github.com/puppetlabs/puppet) - Server automation framework and application
@@ -1649,6 +1668,11 @@
 
 ## Shell 
 
+- [YodaEmbedding/dotfiles](https://github.com/YodaEmbedding/dotfiles) - Personal Linux configuration files (vim, i3, zsh, ...)
+- [rmayobre/scripted-selfhost](https://github.com/rmayobre/scripted-selfhost) - A collection of scripts, docker stacks, and general help with self hosting private services.
+- [martinbjeldbak/self-hosted](https://github.com/martinbjeldbak/self-hosted) - My docker-compose based self-hosted setup including media centre, dns, home automation, and more
+- [pivpn/pivpn](https://github.com/pivpn/pivpn) - The Simplest VPN installer, designed for Raspberry Pi
+- [StreisandEffect/streisand](https://github.com/StreisandEffect/streisand) - Streisand sets up a new server running your choice of WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge. It also generates custom instructions for all of these services. At the end of the run you are given an HTML file with instructions that can be shared with friends, family members, and fellow activists.
 - [cristianzsh/openbsd-selfhosted](https://github.com/cristianzsh/openbsd-selfhosted) - :blowfish: Shell script for self-hosting cloud, email, and git services
 - [rcarriga/dotfiles](https://github.com/rcarriga/dotfiles) - Just a simple dotfiles setup
 - [the-Electric-Tantra-Linux/electric-tantra-repo](https://github.com/the-Electric-Tantra-Linux/electric-tantra-repo) - A package repository for a self spun distro that demos my dotfiles.
@@ -1669,7 +1693,7 @@
 - [eoli3n/void-config](https://github.com/eoli3n/void-config) - Scripts and Ansible playbook to setup Void Linux on ZFS.
 - [Botspot/pi-apps](https://github.com/Botspot/pi-apps) - Raspberry Pi App Store for Open Source Projects
 - [LEV-Linux/LEV-mklive](https://github.com/LEV-Linux/LEV-mklive) - The LEV Linux live image maker
-- [xerolinux/kde_iso](https://github.com/xerolinux/kde_iso) - 
+- [xerolinux/xero_iso](https://github.com/xerolinux/xero_iso) - 
 - [niraj998/dotfiles](https://github.com/niraj998/dotfiles) - Collection of my dotfiles
 - [abhilesh/self-hosted_docker_setups](https://github.com/abhilesh/self-hosted_docker_setups) - A collection of my docker-compose files used to setup self-hosted services on Raspberry Pi 4 running 64-bit Raspberry Pi OS
 - [lane-brain/void-packages](https://github.com/lane-brain/void-packages) - The Void source packages collection
@@ -1944,6 +1968,7 @@
 
 ## TypeScript 
 
+- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
 - [anirudhvarma12/rabbit-hole-webext](https://github.com/anirudhvarma12/rabbit-hole-webext) - A Browser Extension to trace your Wikipedia Journeys
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
 - [pawelmalak/flame](https://github.com/pawelmalak/flame) - Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors.
@@ -2112,6 +2137,10 @@
 - [jarbun/downline](https://github.com/jarbun/downline) - Free cross-platform desktop app to download videos and music from YouTube and many other sites
 - [sdras/cssgridgenerator](https://github.com/sdras/cssgridgenerator) - 🧮 Generate basic CSS Grid code to make dynamic layouts!
 - [czytelny/backlog](https://github.com/czytelny/backlog) - Simple desktop app for storing lists of items (todo, tasks, backlog items)
+
+## YAML 
+
+- [trinib/AdGuard-WireGuard-Unbound-Cloudflare](https://github.com/trinib/AdGuard-WireGuard-Unbound-Cloudflare) - The ultimate self-hosted network security guide ─ Protection🔒 |  Privacy🔎 | Performance🚀 for your network 24/7🕛 Accessible anywhere🌏
 
 ## Zig 
 
