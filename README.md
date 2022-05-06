@@ -299,7 +299,7 @@
 - [mate-desktop/mate-themes](https://github.com/mate-desktop/mate-themes) - Official themes for the MATE desktop
 - [hrdwrrsk/adementary-theme](https://github.com/hrdwrrsk/adementary-theme) - A theme for GNOME/Budgie/Xfce/Cinnamon desktop with elementary-ish aesthetics.
 - [linuxdeepin/deepin-gtk-theme](https://github.com/linuxdeepin/deepin-gtk-theme) - 
-- [bolimage/Ultimate-Maia](https://github.com/bolimage/Ultimate-Maia) - Easy On The Eyes Material design like Gnome theme.
+- [bolimage/Ultimate-Maia](https://github.com/bolimage/Ultimate-Maia) - Easy On The Eyes Material design like Gtk theme.
 - [daniruiz/flat-remix-gtk](https://github.com/daniruiz/flat-remix-gtk) - Flat Remix is a GTK application theme inspired by material design. It is mostly flat using a colorful palette with some shadows, highlights, and gradients for some depth.
 - [daniruiz/flat-remix-css](https://github.com/daniruiz/flat-remix-css) - A lightweight CSS library that provides a set of predesigned elements useful for rapid web development. It follows a modern flat design using a colorful palette with some shadows, highlights, and gradients for some depth.
 - [Thomashighbaugh/resurgens-2](https://github.com/Thomashighbaugh/resurgens-2) - The second coming of the Resurgens Portfolio Site, not yet ready for production. New Features: Single Page, Responsive and with Javascript! Also Available at https://tlh-resurgens-v2.netlify.com/
@@ -421,6 +421,7 @@
 
 ## HTML 
 
+- [rmayobre/scripted-selfhost](https://github.com/rmayobre/scripted-selfhost) - A collection of scripts, docker stacks, and general help with self hosting private services.
 - [the-Electric-Tantra-Linux/electric-tantra-linux-iso](https://github.com/the-Electric-Tantra-Linux/electric-tantra-linux-iso) - 
 - [argyleink/gui-challenges](https://github.com/argyleink/gui-challenges) - Components from the YouTube show GUI Challenges: accessible, responsive, adaptive and cross browser components.
 - [vickOnRails/accessible-design-patterns](https://github.com/vickOnRails/accessible-design-patterns) - Learning Web Accessibility by building accessible components
@@ -1386,7 +1387,7 @@
 - [lauragift21/awesome-learning-resources](https://github.com/lauragift21/awesome-learning-resources) - 🔥 Awesome list of resources on Web Development.
 - [cjbarber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
 - [zziz/pwc](https://github.com/zziz/pwc) - Papers with code. Sorted by stars. Updated weekly.
-- [danistefanovic/build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - 🤓 Build your own (insert technology here)
+- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - 🤓 Build your own (insert technology here)
 
 ## PHP 
 
@@ -1669,7 +1670,6 @@
 ## Shell 
 
 - [YodaEmbedding/dotfiles](https://github.com/YodaEmbedding/dotfiles) - Personal Linux configuration files (vim, i3, zsh, ...)
-- [rmayobre/scripted-selfhost](https://github.com/rmayobre/scripted-selfhost) - A collection of scripts, docker stacks, and general help with self hosting private services.
 - [martinbjeldbak/self-hosted](https://github.com/martinbjeldbak/self-hosted) - My docker-compose based self-hosted setup including media centre, dns, home automation, and more
 - [pivpn/pivpn](https://github.com/pivpn/pivpn) - The Simplest VPN installer, designed for Raspberry Pi
 - [StreisandEffect/streisand](https://github.com/StreisandEffect/streisand) - Streisand sets up a new server running your choice of WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge. It also generates custom instructions for all of these services. At the end of the run you are given an HTML file with instructions that can be shared with friends, family members, and fellow activists.
