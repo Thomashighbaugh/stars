@@ -910,7 +910,7 @@
 - [Elv13/luakit-config](https://github.com/Elv13/luakit-config) - My luakit config
 - [LunarVim/Neovim-from-scratch](https://github.com/LunarVim/Neovim-from-scratch) - A Neovim config designed from scratch to be understandable
 - [luakit/luakit](https://github.com/luakit/luakit) - Fast, small, webkit based browser framework extensible by Lua.
-- [Allaman/nvim](https://github.com/Allaman/nvim) - My pure Lua based Neovim configuration focused on DevOps, Python and Golang
+- [Allaman/nvim](https://github.com/Allaman/nvim) - Straight forward and pure Lua based Neovim configuration for my work as DevOps/Cloud Engineer with batteries included for Python and Golang
 - [xiyaowong/nvim-cursorword](https://github.com/xiyaowong/nvim-cursorword) - highlight the word under the cursor.
 - [UltiRequiem/UltiVim](https://github.com/UltiRequiem/UltiVim) - 🌕 A blazing fast and highly documented configuration to serve as a guide.
 - [Jim8Knopf/awesome](https://github.com/Jim8Knopf/awesome) - This will be my awesomeWM config file that fittes my need
