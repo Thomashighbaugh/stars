@@ -402,6 +402,7 @@
 - [OpenDiablo2/OpenDiablo2](https://github.com/OpenDiablo2/OpenDiablo2) - An open source re-implementation of Diablo 2
 - [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
 - [exercism/cli](https://github.com/exercism/cli) - A Go based command line tool for exercism.io.
+- [syncloud/platform](https://github.com/syncloud/platform) - Run popular services on your device with one click
 - [cmars/ormesh](https://github.com/cmars/ormesh) - [UNMAINTAINED: Try https://github.com/cmars/oniongrok instead] onion-routed mesh
 - [meshbird/meshbird](https://github.com/meshbird/meshbird) - Distributed private networking
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
@@ -1385,7 +1386,7 @@
 - [lauragift21/awesome-learning-resources](https://github.com/lauragift21/awesome-learning-resources) - 🔥 Awesome list of resources on Web Development.
 - [cjbarber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
 - [zziz/pwc](https://github.com/zziz/pwc) - Papers with code. Sorted by stars. Updated weekly.
-- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - 🤓 Build your own (insert technology here)
+- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 
 ## PHP 
 
@@ -1553,7 +1554,6 @@
 - [achembarpu/pockyt](https://github.com/achembarpu/pockyt) - Automate & manage your Pocket.com collection.
 - [AdguardTeam/AdguardFilters](https://github.com/AdguardTeam/AdguardFilters) - AdGuard Content Blocking Filters
 - [kynikos/outspline](https://github.com/kynikos/outspline) - Extensible outliner and personal time organizer to manage todo lists, schedule tasks, remind events.
-- [syncloud/platform](https://github.com/syncloud/platform) - Run popular services on your device with one click
 - [Embroidermodder/Embroidermodder](https://github.com/Embroidermodder/Embroidermodder) - Free machine embroidery software supporting a variety of formats.
 - [zim-desktop-wiki/zim-desktop-wiki](https://github.com/zim-desktop-wiki/zim-desktop-wiki) - Main repository of the zim desktop wiki project
 - [UbuntuBudgie/window-shuffler](https://github.com/UbuntuBudgie/window-shuffler) - GUI and keyboard friendly window arranger for the budgie and mate desktop
@@ -2130,7 +2130,7 @@
 - [Exauthor/lightdm-webkit-theme-osmos](https://github.com/Exauthor/lightdm-webkit-theme-osmos) - Osmos
 - [bencodezen/vuepress-blog-boilerplate](https://github.com/bencodezen/vuepress-blog-boilerplate) - An ever-evolving and opinionated dev environment for people who want to use VuePress to power their blogs.
 - [oleksiikhr/Social-Cleaner](https://github.com/oleksiikhr/Social-Cleaner) - Cleaning of any data (wall, documents, video, image, etc.) from various social networks with logs and preliminary verification
-- [jarbun/downline](https://github.com/jarbun/downline) - Free cross-platform desktop app to download videos and music from YouTube and many other sites
+- [balkarjun/downline](https://github.com/balkarjun/downline) - Free cross-platform desktop app to download videos and music from YouTube and many other sites
 - [sdras/cssgridgenerator](https://github.com/sdras/cssgridgenerator) - 🧮 Generate basic CSS Grid code to make dynamic layouts!
 - [czytelny/backlog](https://github.com/czytelny/backlog) - Simple desktop app for storing lists of items (todo, tasks, backlog items)
 
