@@ -198,7 +198,6 @@
 
 ## CSS 
 
-- [saimoomedits/dotfiles](https://github.com/saimoomedits/dotfiles) - My AwesomeWM configuration files!! 🌪️ .
 - [luximus-hunter/FireFix](https://github.com/luximus-hunter/FireFix) - Small fixes for the FireFox UI to make it more consistent
 - [Possibly-Matt/Firefox-UI-Fix](https://github.com/Possibly-Matt/Firefox-UI-Fix) - 🦊 I respect proton UI but I miss the panel icons!
 - [black7375/Firefox-UI-Fix](https://github.com/black7375/Firefox-UI-Fix) - 🦊 I respect proton UI and aim to improve it.
@@ -568,7 +567,6 @@
 - [aminomancer/uc.css.js](https://github.com/aminomancer/uc.css.js) - A dark indigo CSS theme for Firefox and a large collection of privileged scripts to add new buttons, menus, and behaviors and eliminate nuisances. The theme is similar to other userChrome stylesheets,
 - [MrOtherGuy/fx-autoconfig](https://github.com/MrOtherGuy/fx-autoconfig) - Load custom javascript in browser context
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
-- [vuejs/vue](https://github.com/vuejs/vue) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 - [mui/material-ui](https://github.com/mui/material-ui) - MUI Core (formerly Material-UI) is the React UI library you always wanted. Follow your own design system, or start with Material Design.
 - [webpack/webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AM
 - [expressjs/express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
@@ -853,6 +851,7 @@
 - [creativenull/nvim-config](https://github.com/creativenull/nvim-config) - My neovim config in lua that I use to experiment new features and plugins
 - [deficient/volume-control](https://github.com/deficient/volume-control) - Volume control for awesome window manager
 - [tamton-aquib/nvim](https://github.com/tamton-aquib/nvim) - Personal neovim config
+- [saimoomedits/dotfiles](https://github.com/saimoomedits/dotfiles) - My AwesomeWM configuration files!! 🌪️ .
 - [niraj998/awesome](https://github.com/niraj998/awesome) - Dotfiles AwesomeWM
 - [tsjazil/dotfiles](https://github.com/tsjazil/dotfiles) - 🐈 Catppuccin Themed bspwm dotfiles
 - [ii14/neopm](https://github.com/ii14/neopm) - Plugin manager for neovim, pre-alpha stage.
@@ -1668,6 +1667,7 @@
 
 ## Shell 
 
+- [wfleming/gifcast](https://github.com/wfleming/gifcast) - X11 GIF screen recorder
 - [YodaEmbedding/dotfiles](https://github.com/YodaEmbedding/dotfiles) - Personal Linux configuration files (vim, i3, zsh, ...)
 - [martinbjeldbak/self-hosted](https://github.com/martinbjeldbak/self-hosted) - My docker-compose based self-hosted setup including media centre, dns, home automation, and more
 - [pivpn/pivpn](https://github.com/pivpn/pivpn) - The Simplest VPN installer, designed for Raspberry Pi
@@ -1981,6 +1981,7 @@
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [pankod/refine](https://github.com/pankod/refine) - A React-based framework for building internal tools, rapidly.
 - [notemarks/notemarks](https://github.com/notemarks/notemarks) - A git based labeling app to manage notes, documents, and bookmarks.
+- [vuejs/vue](https://github.com/vuejs/vue) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 - [mvximenko/dunno](https://github.com/mvximenko/dunno) - Simplified version of IMDb built with React.
 - [KaterinaLupacheva/my-projects-dashboard](https://github.com/KaterinaLupacheva/my-projects-dashboard) - Next.js, Material UI, MongoDB Personal Dashboard with dev.to, GitHub, Twitter, and npm API integration.
 - [darekkay/dashboard](https://github.com/darekkay/dashboard) - Customizable personal dashboard and startpage
