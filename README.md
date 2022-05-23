@@ -525,6 +525,7 @@
 
 ## JavaScript 
 
+- [Schneegans/Fly-Pie](https://github.com/Schneegans/Fly-Pie) - :pie: Fly-Pie is an innovative marking menu written as a GNOME Shell extension.
 - [tuberry/shuzhi](https://github.com/tuberry/shuzhi) - Wallpaper generation extension for GNOME Shell, inspired by Jizhi
 - [tesserractmedia/entertainment-ayam](https://github.com/tesserractmedia/entertainment-ayam) - This is the Frontend Website of Entertainment Ayam a  sub-project and part of the Ayam Project ecosystem. This project's aim is to collect data on Hinduphobia being spread through entertainment medium
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 200+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
@@ -1965,6 +1966,7 @@
 
 ## TypeScript 
 
+- [cosmoscout/tasty.js](https://github.com/cosmoscout/tasty.js) - 🍰 A delicious Pie- and Marking-Menu Framework written in TypeScript.
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
 - [anirudhvarma12/rabbit-hole-webext](https://github.com/anirudhvarma12/rabbit-hole-webext) - A Browser Extension to trace your Wikipedia Journeys
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
