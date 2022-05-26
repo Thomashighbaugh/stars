@@ -856,7 +856,7 @@
 - [creativenull/nvim-config](https://github.com/creativenull/nvim-config) - My neovim config in lua that I use to experiment new features and plugins
 - [deficient/volume-control](https://github.com/deficient/volume-control) - Volume control for awesome window manager
 - [tamton-aquib/nvim](https://github.com/tamton-aquib/nvim) - Personal neovim config
-- [saimoomedits/dotfiles](https://github.com/saimoomedits/dotfiles) - My AwesomeWM, Vscode, GTK, Neovim, Zathura and more configuration files!! .
+- [saimoomedits/dotfiles](https://github.com/saimoomedits/dotfiles) - The ArchLinux and AwesomeWM configs. 📂
 - [niraj998/awesome](https://github.com/niraj998/awesome) - Dotfiles AwesomeWM
 - [tsjazil/dotfiles](https://github.com/tsjazil/dotfiles) - 🐈 Catppuccin Themed bspwm dotfiles
 - [ii14/neopm](https://github.com/ii14/neopm) - Plugin manager for neovim, pre-alpha stage.
