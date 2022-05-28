@@ -846,6 +846,9 @@
 
 ## Lua 
 
+- [Crylia/crylia-theme](https://github.com/Crylia/crylia-theme) - A theme for AwesomeWM
+- [b0o/nvim-conf](https://github.com/b0o/nvim-conf) - Maddison's neovim configuration!
+- [ashincoder/StarVim](https://github.com/ashincoder/StarVim) - A neovim IDE which is beyond the moon 🌚
 - [Mike325/nvim](https://github.com/Mike325/nvim) - My personal lua configs for latest stable and nightly neovim
 - [vuki656/dotfiles](https://github.com/vuki656/dotfiles) - 🍚 Some nice dots
 - [Ham5andw1ch/AwesomeWM-Unity](https://github.com/Ham5andw1ch/AwesomeWM-Unity) - An attempt to recreate the Ubuntu Unity workflow in AwesomeWM
@@ -2097,6 +2100,7 @@
 
 ## Vim script 
 
+- [developersIndia/jarvim](https://github.com/developersIndia/jarvim) - A sensible IDE-like configuration for Neovim
 - [Ham5andw1ch/NewDots](https://github.com/Ham5andw1ch/NewDots) - Updated dotfiles since I'm too lazy to touch the old repo.
 - [zanshin/dotfiles](https://github.com/zanshin/dotfiles) - My dotfiles.
 - [quinoa42/dotfiles](https://github.com/quinoa42/dotfiles) - My dotfiles that set the world I live in
