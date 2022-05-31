@@ -170,6 +170,7 @@
 - [wmww/Hedgehog](https://github.com/wmww/Hedgehog) - C++ Wayland compositor
 - [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
 - [keshavbhatt/glate](https://github.com/keshavbhatt/glate) - Open Source Google Translator and TTS App for Linux Desktop
+- [and3rson/dotfiles](https://github.com/and3rson/dotfiles) - My configs: (neo)vim+lua+lsp+treesitter, wayland (riverwm, yambar, sway, waybar), alacritty, tmux, bash, molokai colors and stolen dircolors.
 - [xuanxuan0/DripLoader](https://github.com/xuanxuan0/DripLoader) - Evasive shellcode loader for bypassing event-based injection detection (PoC)
 - [AntiMicroX/antimicrox](https://github.com/AntiMicroX/antimicrox) - Graphical program used to map keyboard buttons and mouse controls to a gamepad. Useful for playing games with no gamepad support.
 - [monero-project/monero](https://github.com/monero-project/monero) - Monero: the secure, private, untraceable cryptocurrency
@@ -1077,7 +1078,6 @@
 - [Quisl/Awesome-4.0-Config](https://github.com/Quisl/Awesome-4.0-Config) - My setup for the Awesome WM 4.0. This is meant to run on a Thinkpad T410
 - [Stebalien/awesomewm-config](https://github.com/Stebalien/awesomewm-config) - My AwesomeWM config files
 - [ndgnuh/awesome-config](https://github.com/ndgnuh/awesome-config) - Config set(s) for awesomewm
-- [and3rson/dotfiles](https://github.com/and3rson/dotfiles) - My configs: (neo)vim+lua+lsp+treesitter, wayland (riverwm, yambar, sway, waybar), alacritty, tmux, bash, molokai colors and stolen dircolors.
 - [denstiny/awesome-config](https://github.com/denstiny/awesome-config) - awesome config file ,sava my config
 - [Nguyen-Hoang-Nam/nvim-dotfiles-kitty](https://github.com/Nguyen-Hoang-Nam/nvim-dotfiles-kitty) - NeoVim Configuration that makes me feel comfortable and pleasant
 - [Creator54/awesome](https://github.com/Creator54/awesome) - Some beautiful awesome configs gathered with some minor changes just switch git checkout $branch and reload(mod+shift+r) to enjoy a new layout. lazy to update README use mod+s instead
@@ -1587,6 +1587,7 @@
 
 ## Ruby 
 
+- [markevans/dragonfly](https://github.com/markevans/dragonfly) - A Ruby gem for on-the-fly processing - suitable for image uploading in Rails, Sinatra and much more!
 - [juanjoSanz/aws-pentesting-lab](https://github.com/juanjoSanz/aws-pentesting-lab) - Pentesting lab with a Kali Linux instance accessible via ssh & wireguard VPN and with vulnerable instances in a private subnet
 - [capistrano/capistrano](https://github.com/capistrano/capistrano) - Remote multi-server automation tool
 - [chef/chef](https://github.com/chef/chef) - Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale
@@ -1678,6 +1679,7 @@
 
 ## Shell 
 
+- [myspaghetti/macos-virtualbox](https://github.com/myspaghetti/macos-virtualbox) - Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox for Windows, Linux, and macOS
 - [oddlama/gentoo-install](https://github.com/oddlama/gentoo-install) - A gentoo installer with a TUI interface that supports systemd and OpenRC, EFI and BIOS, as well as variable disk layouts using ext4, zfs, btrfs, luks and mdraid.
 - [wfleming/gifcast](https://github.com/wfleming/gifcast) - X11 GIF screen recorder
 - [YodaEmbedding/dotfiles](https://github.com/YodaEmbedding/dotfiles) - Personal Linux configuration files (vim, i3, zsh, ...)
