@@ -200,6 +200,7 @@
 
 ## CSS 
 
+- [daniruiz/skeuos-gtk](https://github.com/daniruiz/skeuos-gtk) - 
 - [rochacbruno/dotfiles](https://github.com/rochacbruno/dotfiles) - My Environment Configurations
 - [princekrvert/Ravana](https://github.com/princekrvert/Ravana) - Phishing tool for termux .This includes many websites like facebook,Instagram,Twitter,google etc..
 - [luximus-hunter/FireFix](https://github.com/luximus-hunter/FireFix) - Small fixes for the FireFox UI to make it more consistent
@@ -696,7 +697,7 @@
 - [thisisroi/roi-portfolio](https://github.com/thisisroi/roi-portfolio) - ✨ Portfolio site created using Nextjs.
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (May 2022)
-- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in media \ websites
+- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
 - [ohansemmanuel/react-hooks-cheatsheet](https://github.com/ohansemmanuel/react-hooks-cheatsheet) - 🦖 React hooks cheatsheet with live editable examples
 - [Zavy86/WikiDocs](https://github.com/Zavy86/WikiDocs) - 📗 Just a databaseless markdown flat-file wiki engine..
 - [yTakkar/React-Instagram-Clone-2.0](https://github.com/yTakkar/React-Instagram-Clone-2.0) - A reactive Single-Page Instagram-Clone with some new features!! 💪📸👓 - No longer maintained.
@@ -849,6 +850,7 @@
 
 ## Lua 
 
+- [JavaCafe01/awesome-wallpaper](https://github.com/JavaCafe01/awesome-wallpaper) - 
 - [Crylia/crylia-theme](https://github.com/Crylia/crylia-theme) - A theme for AwesomeWM
 - [b0o/nvim-conf](https://github.com/b0o/nvim-conf) - Maddison's neovim configuration!
 - [ashincoder/StarVim](https://github.com/ashincoder/StarVim) - A neovim IDE which is beyond the moon 🌚
@@ -945,7 +947,6 @@
 - [anhsirk0/awesome-config](https://github.com/anhsirk0/awesome-config) - My config for awesomewm
 - [cigneve/awesome-config](https://github.com/cigneve/awesome-config) - 
 - [suconakh/awesome-awesome-rc](https://github.com/suconakh/awesome-awesome-rc) - Modularized AwesomeWM rc.lua
-- [Manas140/dotfiles](https://github.com/Manas140/dotfiles) - Dotfiles
 - [windwp/nvim-autopairs](https://github.com/windwp/nvim-autopairs) - autopairs for neovim written by lua
 - [saadparwaiz1/cmp_luasnip](https://github.com/saadparwaiz1/cmp_luasnip) - luasnip completion source for nvim-cmp
 - [onsails/lspkind.nvim](https://github.com/onsails/lspkind.nvim) - vscode-like pictograms for neovim lsp completion items
@@ -1213,7 +1214,7 @@
 - [gopalindians/awesome-hinduism](https://github.com/gopalindians/awesome-hinduism) - Awesome collection of Sanatana dharma(सनातन धर्म)
 - [ahkhalwai/Hidayah](https://github.com/ahkhalwai/Hidayah) - This repository extends the research of discovered Inventions that are already mentioned in the Scriptures. Example - Water cycle, Big Bang Theory, etc more than 1000 Inventions in last 100 to 400 yea
 - [nix-community/awesome-nix](https://github.com/nix-community/awesome-nix) - 😎 A curated list of the best resources in the Nix community [maintainer=@houstdav000]
-- [vandalsoul/grub-tweaks](https://github.com/vandalsoul/grub-tweaks) - Some GRUB tweaks 📚💡
+- [VandalByte/grub-tweaks](https://github.com/VandalByte/grub-tweaks) - Some GRUB tweaks 📚💡
 - [gurugio/lowlevelprogramming-university](https://github.com/gurugio/lowlevelprogramming-university) - How to be low-level programmer
 - [tborychowski/self-hosted-cookbook](https://github.com/tborychowski/self-hosted-cookbook) - A cookbook, for docker-compose based recipes, for self-hosted applications and services.
 - [dair-ai/ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses) - 📺  A place to discover the latest machine learning courses on YouTube.
@@ -1373,7 +1374,6 @@
 - [shuaibiyy/awesome-terraform](https://github.com/shuaibiyy/awesome-terraform) - Curated list of resources on HashiCorp's Terraform
 - [Artemmkin/infrastructure-as-code-tutorial](https://github.com/Artemmkin/infrastructure-as-code-tutorial) - Infrastructure As Code Tutorial. Covers Packer, Terraform, Ansible, Vagrant, Docker, Docker Compose, Kubernetes
 - [sindresorhus/awesome-electron](https://github.com/sindresorhus/awesome-electron) - Useful resources for creating apps with Electron
-- [AssetKid/raider-release](https://github.com/AssetKid/raider-release) - An Instagram download application for Windows, Mac & Linux
 - [storm119/Tilix-Themes](https://github.com/storm119/Tilix-Themes) - Theme for Tilix Terminal
 - [hmaverickadams/Beginner-Network-Pentesting](https://github.com/hmaverickadams/Beginner-Network-Pentesting) - Notes for Beginner Network Pentesting Course
 - [fP4rad0x/dotfiles](https://github.com/fP4rad0x/dotfiles) - My dotfiles for i3-gaps/bspwm
@@ -1680,6 +1680,8 @@
 
 ## Shell 
 
+- [ggzor/dotfiles](https://github.com/ggzor/dotfiles) - My dotfiles.
+- [intrntbrn/icon_customizer](https://github.com/intrntbrn/icon_customizer) - set custom icons for gui and terminal applications in awesomewm
 - [michaelgilch/arch-maker](https://github.com/michaelgilch/arch-maker) - My ArchLinux automated installer
 - [RoEdAl/al-rpi-eeprom](https://github.com/RoEdAl/al-rpi-eeprom) - Raspberry Pi4 boot EEPROM updater [Arch Linux package]
 - [Tavark/archlinux-arm-on-raspberry-pi4](https://github.com/Tavark/archlinux-arm-on-raspberry-pi4) - 
@@ -1738,6 +1740,7 @@
 - [zodd18/dotfiles](https://github.com/zodd18/dotfiles) - My bspwm dotfiles. Grab whatever you need! :)
 - [Tomas-M/linux-live](https://github.com/Tomas-M/linux-live) - Linux Live Kit
 - [saymoncoppi/xlunchr](https://github.com/saymoncoppi/xlunchr) - A simple xlunch modernization
+- [Manas140/dotfiles](https://github.com/Manas140/dotfiles) - Dotfiles
 - [Manas140/sh](https://github.com/Manas140/sh) - Collection Of My Sh Scripts.
 - [leahneukirchen/hrmpf](https://github.com/leahneukirchen/hrmpf) - hrmpf rescue system, built on Void Linux
 - [samsesh/SocialBox-Termux](https://github.com/samsesh/SocialBox-Termux) - SocialBox is a Bruteforce Attack Framework [ Facebook , Gmail , Instagram ,Twitter ] , Coded By Belahsan Ouerghi Edit By samsesh for termux on android
@@ -1885,7 +1888,7 @@
 - [Gictorbit/photoshopCClinux](https://github.com/Gictorbit/photoshopCClinux) - Photoshop CC v19  installer for Gnu/Linux
 - [brinkOS/brinkOS](https://github.com/brinkOS/brinkOS) - Arch based Linux distribution for Engineers
 - [ctlos/ctlosiso](https://github.com/ctlos/ctlosiso) - Ctlos Linux source. Arch based distro x86-64(64-bit).
-- [Coldsaga/dotfiles](https://github.com/Coldsaga/dotfiles) - Arch dotfiles and shell scripts for KDE Plasma and BSPWM.
+- [agostaxyz/dotfiles](https://github.com/agostaxyz/dotfiles) - Arch dotfiles and shell scripts for KDE Plasma and BSPWM.
 - [laurent85v/archuseriso](https://github.com/laurent85v/archuseriso) - Build Arch Linux iso images, create live usb drives, install on usb drives.
 - [kennystrawnmusic/TriggerLinux](https://github.com/kennystrawnmusic/TriggerLinux) - Break the grip of censorship
 - [maximbaz/dotfiles](https://github.com/maximbaz/dotfiles) - Configuration for Arch Linux, sway, kitty, kakoune, zsh and more + scripted installation guide
@@ -2016,7 +2019,7 @@
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
 - [trufflesuite/truffle](https://github.com/trufflesuite/truffle) - A tool for developing smart contracts. Crafted with the finest cacaos.
 - [linnovate/mean](https://github.com/linnovate/mean) - The MEAN stack uses Mongo, Express, Angular(6) and Node for simple and scalable fullstack js applications
-- [nitin27may/mean-docker](https://github.com/nitin27may/mean-docker) - A Mean stack (Angular  13.3.10, Expressjs 4.17.1, MongoDB) jump start project with support of docker.
+- [nitin27may/mean-docker](https://github.com/nitin27may/mean-docker) - A Mean stack (Angular  14.0.0, Expressjs 4.17.1, MongoDB) jump start project with support of docker.
 - [saksmt/awesomewm.d.ts](https://github.com/saksmt/awesomewm.d.ts) - typescript typings for awesome-wm based on typescript-to-lua
 - [Rixcy/community](https://github.com/Rixcy/community) - Community SaaS built using Blitzjs
 - [tsamantanis/react-glassmorphism](https://github.com/tsamantanis/react-glassmorphism) - A react UI component library for glassmorphic components
@@ -2113,7 +2116,7 @@
 - [developersIndia/jarvim](https://github.com/developersIndia/jarvim) - A sensible IDE-like configuration for Neovim
 - [Ham5andw1ch/NewDots](https://github.com/Ham5andw1ch/NewDots) - Updated dotfiles since I'm too lazy to touch the old repo.
 - [zanshin/dotfiles](https://github.com/zanshin/dotfiles) - My dotfiles.
-- [quinoa42/dotfiles](https://github.com/quinoa42/dotfiles) - My dotfiles that set the world I live in
+- [hiecaq/dotfiles](https://github.com/hiecaq/dotfiles) - My dotfiles that set the world I live in
 - [nikvdp/neomux](https://github.com/nikvdp/neomux) - 
 - [Quiterion/dotfiles](https://github.com/Quiterion/dotfiles) - Dotfiles for my i3 Arch setup, uploaded for redundancy and easy installation on new machines
 - [klausweiss/dotfiles](https://github.com/klausweiss/dotfiles) - 
@@ -2154,6 +2157,7 @@
 - [bencodezen/vuepress-blog-boilerplate](https://github.com/bencodezen/vuepress-blog-boilerplate) - An ever-evolving and opinionated dev environment for people who want to use VuePress to power their blogs.
 - [oleksiikhr/Social-Cleaner](https://github.com/oleksiikhr/Social-Cleaner) - Cleaning of any data (wall, documents, video, image, etc.) from various social networks with logs and preliminary verification
 - [balkarjun/downline](https://github.com/balkarjun/downline) - Free cross-platform desktop app to download videos and music from YouTube and many other sites
+- [AssetKid/raider](https://github.com/AssetKid/raider) - An Instagram download application for Windows, Mac & Linux
 - [sdras/cssgridgenerator](https://github.com/sdras/cssgridgenerator) - 🧮 Generate basic CSS Grid code to make dynamic layouts!
 - [czytelny/backlog](https://github.com/czytelny/backlog) - Simple desktop app for storing lists of items (todo, tasks, backlog items)
 
