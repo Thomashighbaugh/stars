@@ -78,6 +78,7 @@
 
 ## C 
 
+- [bagyoni/procedural-wallpapers](https://github.com/bagyoni/procedural-wallpapers) - A collection of wallpaper generators
 - [VeltOS/graphene-desktop](https://github.com/VeltOS/graphene-desktop) - The default desktop environment of VeltOS
 - [compilepeace/KAAL_BHAIRAV](https://github.com/compilepeace/KAAL_BHAIRAV) - -x-x-x-x- DO NOT RUN ON PRODUCTION MACHINE  -x-x-x-x-  An ELF virus capable of generating segment padded trojans.
 - [endaaman/tym](https://github.com/endaaman/tym) - Lua-configurable terminal emulator
@@ -360,6 +361,7 @@
 
 ## Go 
 
+- [maximumadmin/zramd](https://github.com/maximumadmin/zramd) - Automatically setup swap on zram ✨ with optional systemd support, a simpler alternative to zram-generator and systemd-swap
 - [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features
 - [mudler/edgevpn](https://github.com/mudler/edgevpn) - :sailboat: The immutable, decentralized, statically built p2p VPN without any central server and automatic discovery! Create decentralized introspectable tunnels over p2p with shared tokens
 - [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find credentials all over the place
@@ -850,6 +852,11 @@
 
 ## Lua 
 
+- [meriadec/awesome-efficient](https://github.com/meriadec/awesome-efficient) - Awesome WM 4 theme - Focused on elegance, minimalism & productivity
+- [intpl/awesome](https://github.com/intpl/awesome) - config dotfiles for AwesomeWM
+- [quintik/turbo-awesome](https://github.com/quintik/turbo-awesome) - AwesomeWM dotfiles
+- [nuxshed/dotfiles](https://github.com/nuxshed/dotfiles) - pls help
+- [Kasper24/KwesomeDE](https://github.com/Kasper24/KwesomeDE) - A desktop environment made in AwesomeWM
 - [JavaCafe01/awesome-wallpaper](https://github.com/JavaCafe01/awesome-wallpaper) - 
 - [Crylia/crylia-theme](https://github.com/Crylia/crylia-theme) - A theme for AwesomeWM
 - [b0o/nvim-conf](https://github.com/b0o/nvim-conf) - Maddison's neovim configuration!
@@ -933,7 +940,7 @@
 - [gobolinux/gobo-awesome](https://github.com/gobolinux/gobo-awesome) - Awesome WM utilities for GoboLinux
 - [Calinix-Team/calinix-desktop-git](https://github.com/Calinix-Team/calinix-desktop-git) - 
 - [Mange/dotfiles](https://github.com/Mange/dotfiles) - A collection of *NIX dotfiles for configuration
-- [sphaugh/awesome-xdg-config](https://github.com/sphaugh/awesome-xdg-config) - my awesomewm config files
+- [furrycatherder/awesome-xdg-config](https://github.com/furrycatherder/awesome-xdg-config) - my awesomewm config files
 - [doronbehar/.config_awesome](https://github.com/doronbehar/.config_awesome) - My awesome configuration directory
 - [TechnicalDC/AwesomeOS](https://github.com/TechnicalDC/AwesomeOS) - My Awesome Window Manager Configurations
 - [macunha1/aweswm](https://github.com/macunha1/aweswm) - AwesomeWM configuration supporting the greatest async best-practices from awful, with submodules (as a "package manager") for a fully modularized setup. Pure Lua implementation focused on performance
@@ -1508,7 +1515,7 @@
 - [getsentry/sentry](https://github.com/getsentry/sentry) - Sentry is cross-platform application monitoring, with a focus on error reporting.
 - [saltstack/salt](https://github.com/saltstack/salt) - Software to automate the management and configuration of any infrastructure or application at scale. Get access to the Salt software package repository here:
 - [bitsadmin/wesng](https://github.com/bitsadmin/wesng) - Windows Exploit Suggester - Next Generation
-- [horberlan/Follow-users-Github](https://github.com/horberlan/Follow-users-Github) - A automate tool to follow users on Github
+- [horberlan/Selenium-github-webdriver](https://github.com/horberlan/Selenium-github-webdriver) - A automate tool to follow users on Github
 - [aurblobs/aurblobs](https://github.com/aurblobs/aurblobs) - Automatically create binary repositories from AUR packages
 - [dAYOShACKER505/AXOM-FB-HACK](https://github.com/dAYOShACKER505/AXOM-FB-HACK) - facebook hacking tool for termux or linux 2020
 - [seevik2580/ethereum-wallet-recovery](https://github.com/seevik2580/ethereum-wallet-recovery) - ethereum wallet recovery password multithread tool, baked from pyethrecover and pyethereum, for using keystore v3 json file to help recover your lost password if you know some phrases using both brute
@@ -1680,6 +1687,10 @@
 
 ## Shell 
 
+- [mohkale/dotfiles](https://github.com/mohkale/dotfiles) - :house: is where the :heart: is :tada:
+- [johndovern/Arch-FDE](https://github.com/johndovern/Arch-FDE) - Bash script(s) for installing Arch Linux with full disk encryption via LVM on LUKS with ext4 formatting
+- [shagu/arch-install](https://github.com/shagu/arch-install) - A simple Archlinux install script
+- [sethigeet/shell-color-scripts](https://github.com/sethigeet/shell-color-scripts) - A collection of shell color scripts which draw some colored figure
 - [ggzor/dotfiles](https://github.com/ggzor/dotfiles) - My dotfiles.
 - [intrntbrn/icon_customizer](https://github.com/intrntbrn/icon_customizer) - set custom icons for gui and terminal applications in awesomewm
 - [michaelgilch/arch-maker](https://github.com/michaelgilch/arch-maker) - My ArchLinux automated installer
