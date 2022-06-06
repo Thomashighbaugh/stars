@@ -201,6 +201,8 @@
 
 ## CSS 
 
+- [alexhyett/linkinbio](https://github.com/alexhyett/linkinbio) - Link In Bio Page for Instagram, Twitter, Tumblr etc
+- [MM2-0/fdroid](https://github.com/MM2-0/fdroid) - 
 - [daniruiz/skeuos-gtk](https://github.com/daniruiz/skeuos-gtk) - 
 - [rochacbruno/dotfiles](https://github.com/rochacbruno/dotfiles) - My Environment Configurations
 - [princekrvert/Ravana](https://github.com/princekrvert/Ravana) - Phishing tool for termux .This includes many websites like facebook,Instagram,Twitter,google etc..
@@ -209,6 +211,7 @@
 - [black7375/Firefox-UI-Fix](https://github.com/black7375/Firefox-UI-Fix) - 🦊 I respect proton UI and aim to improve it.
 - [K4zoku/dotfiles](https://github.com/K4zoku/dotfiles) - My personal linux configuration files (dotfiles)
 - [sadparadiseinhell/tea-green](https://github.com/sadparadiseinhell/tea-green) - Simple startpage with weather and to-do list features.
+- [rxyhn/dotfiles](https://github.com/rxyhn/dotfiles) - My awesomewm dotfiles for awesome people! ✨
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [rockiger/awiki-react](https://github.com/rockiger/awiki-react) - A Zim inspired wiki with markdown syntax
 - [23Bluemaster23/EdgeFox](https://github.com/23Bluemaster23/EdgeFox) - Is a userchrome that imitates (or attempts to imitate) the style of Microsoft's Edge Chromiun browser. is a project in development./Es un userchrome que imita (o intenta imitar) el estilo del navegado
@@ -219,6 +222,7 @@
 - [andreasgrafen/cascade](https://github.com/andreasgrafen/cascade) - Firefox custom CSS based on Simplefox
 - [halfmoonui/halfmoon](https://github.com/halfmoonui/halfmoon) - Front-end framework with a built-in dark mode and full customizability using CSS variables; great for building dashboards and tools.
 - [FrenzyExists/dotfiles](https://github.com/FrenzyExists/dotfiles) - My chaotic dotfiles, it ain't much, but its honest work
+- [Mangeshrex/dotfiles](https://github.com/Mangeshrex/dotfiles) - :rice:  My minimal bspwm configurations for a beautiful workflow
 - [ProgrammingFonts/ProgrammingFonts](https://github.com/ProgrammingFonts/ProgrammingFonts) - This is a collection of programming fonts,just share this with the programmers.Now there are 106 kinds of fantastic fonts!
 - [Tsuyoken/dotfiles](https://github.com/Tsuyoken/dotfiles) - Backup Dotfiles
 - [Thomashighbaugh/zeal--master](https://github.com/Thomashighbaugh/zeal--master) - 
@@ -460,7 +464,7 @@
 - [daattali/beautiful-jekyll](https://github.com/daattali/beautiful-jekyll) - ✨ Build a beautiful and simple website in literally minutes. Demo at https://beautifuljekyll.com
 - [github/training-kit](https://github.com/github/training-kit) - Open source courseware for Git and GitHub
 - [aave/aave-protocol](https://github.com/aave/aave-protocol) - Aave Protocol Version 1.0 - Decentralized Lending Pools
-- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful personal server OS for Raspberry Pi or any Linux distro for self-hosting everything
+- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful personal server OS for self-hosting. Install on a Raspberry Pi or Ubuntu/Debian.
 - [coreui/coreui-free-bootstrap-admin-template](https://github.com/coreui/coreui-free-bootstrap-admin-template) - Free Bootstrap 5 admin & dashboard template
 - [michelegera/tailwindcss-open-template](https://github.com/michelegera/tailwindcss-open-template) - 🛬 An implementation of the “Open” landing page template using Tailwind CSS Boilerplate.
 - [Thomashighbaugh/resurgens3](https://github.com/Thomashighbaugh/resurgens3) - Porfolio site of TLH. Resurgens 3
@@ -533,6 +537,7 @@
 
 ## JavaScript 
 
+- [RizkyRajitha/linkin](https://github.com/RizkyRajitha/linkin) - Linkin is a customizable self hosted link tree platform.
 - [Schneegans/Fly-Pie](https://github.com/Schneegans/Fly-Pie) - :pie: Fly-Pie is an innovative marking menu written as a GNOME Shell extension.
 - [tuberry/shuzhi](https://github.com/tuberry/shuzhi) - Wallpaper generation extension for GNOME Shell, inspired by Jizhi
 - [tesserractmedia/entertainment-ayam](https://github.com/tesserractmedia/entertainment-ayam) - This is the Frontend Website of Entertainment Ayam a  sub-project and part of the Ayam Project ecosystem. This project's aim is to collect data on Hinduphobia being spread through entertainment medium
@@ -841,6 +846,7 @@
 
 ## Kotlin 
 
+- [MM2-0/Kvaesitso](https://github.com/MM2-0/Kvaesitso) - A FOSS Android launcher
 - [rektdeckard/iconpacktools](https://github.com/rektdeckard/iconpacktools) - A handy utility for Android icon pack creators to easily generate key assets and resources.
 - [osmanonurkoc/papirusadaptive](https://github.com/osmanonurkoc/papirusadaptive) - Famous Linux Icon theme port for android
 - [hadiyarajesh/insta-bot](https://github.com/hadiyarajesh/insta-bot) - Instagram automation library to perform likes, comments, follow, story viewing and much more.
@@ -886,7 +892,6 @@
 - [PlatyPew/format-installer.nvim](https://github.com/PlatyPew/format-installer.nvim) - Neovim plugin for managing formatters/linters
 - [ellisonleao/carbon-now.nvim](https://github.com/ellisonleao/carbon-now.nvim) - Create beautiful code snippets directly from your neovim terminal
 - [brainfucksec/neovim-lua](https://github.com/brainfucksec/neovim-lua) - Neovim KISS configuration with Lua
-- [rxyhn/dotfiles](https://github.com/rxyhn/dotfiles) - My awesomewm dotfiles for awesome people! ✨
 - [yurukute/dotfiles](https://github.com/yurukute/dotfiles) - 
 - [pansy27/Dotfiles](https://github.com/pansy27/Dotfiles) - My dotfiles repo
 - [Jeremie1001/awesome-dotfiles](https://github.com/Jeremie1001/awesome-dotfiles) - 
@@ -1409,6 +1414,7 @@
 
 ## PHP 
 
+- [mcreef/LinkEasy](https://github.com/mcreef/LinkEasy) - Minimalistic self-hosted "Linktree" or "LinkedIn Bio" alternative.
 - [DenverCoder1/Minimalistic-Wallpaper-Collection](https://github.com/DenverCoder1/Minimalistic-Wallpaper-Collection) - Minimalistic, flat art, and colorful, digital nature wallpapers and an API for randomly selecting them
 - [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) - PrestaShop is an Open Source e-commerce platform, committed to providing the best shopping cart experience for both merchants and customers.
 - [dandelionmood/debrief](https://github.com/dandelionmood/debrief) - Debrief is an open-source, easy to use note-taking application crossed with a diary.
@@ -1687,6 +1693,7 @@
 
 ## Shell 
 
+- [NNBnh/superb-bootstrap](https://github.com/NNBnh/superb-bootstrap) - 🅱️ OS dotfiles-manager framework that SuperB
 - [mohkale/dotfiles](https://github.com/mohkale/dotfiles) - :house: is where the :heart: is :tada:
 - [johndovern/Arch-FDE](https://github.com/johndovern/Arch-FDE) - Bash script(s) for installing Arch Linux with full disk encryption via LVM on LUKS with ext4 formatting
 - [shagu/arch-install](https://github.com/shagu/arch-install) - A simple Archlinux install script
@@ -1787,7 +1794,6 @@
 - [totoro-ghost/dotfiles](https://github.com/totoro-ghost/dotfiles) - My dotfiles.
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 - [dcchambers/note-keeper](https://github.com/dcchambers/note-keeper) - :notebook: A tiny bash tool for taking and organizing notes.
-- [Mangeshrex/dotfiles](https://github.com/Mangeshrex/dotfiles) - :rice:  My minimal bspwm configurations for a beautiful workflow
 - [stark/Color-Scripts](https://github.com/stark/Color-Scripts) - User contributed color scripts
 - [ciiqr/installer-void](https://github.com/ciiqr/installer-void) - void linux iso generator which includes my custom config (ciiqr/config)
 - [ciiqr/installer-ubuntu](https://github.com/ciiqr/installer-ubuntu) - preseed configs and related scripts for setting up ubuntu
