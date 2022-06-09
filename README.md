@@ -443,7 +443,6 @@
 - [argyleink/gui-challenges](https://github.com/argyleink/gui-challenges) - Components from the YouTube show GUI Challenges: accessible, responsive, adaptive and cross browser components.
 - [vickOnRails/accessible-design-patterns](https://github.com/vickOnRails/accessible-design-patterns) - Learning Web Accessibility by building accessible components
 - [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links
-- [GitPublisher/support](https://github.com/GitPublisher/support) - Customer's support area
 - [TedGoas/Responsive-Email-XX](https://github.com/TedGoas/Responsive-Email-XX) - A few layout ideas for HTML email that adapt to small screens and respond to breakpoints.
 - [mattlag/California-Gothic](https://github.com/mattlag/California-Gothic) - A typeface for California vexillographers
 - [TedGoas/stacks-maizzle](https://github.com/TedGoas/stacks-maizzle) - Stack Overflow's email design system built using Maizzle
@@ -707,7 +706,7 @@
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [thisisroi/roi-portfolio](https://github.com/thisisroi/roi-portfolio) - ✨ Portfolio site created using Nextjs.
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (May 2022)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (June 2022)
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
 - [ohansemmanuel/react-hooks-cheatsheet](https://github.com/ohansemmanuel/react-hooks-cheatsheet) - 🦖 React hooks cheatsheet with live editable examples
 - [Zavy86/WikiDocs](https://github.com/Zavy86/WikiDocs) - 📗 Just a databaseless markdown flat-file wiki engine..
@@ -850,6 +849,7 @@
 
 ## Kotlin 
 
+- [SimpleMobileTools/Simple-App-Launcher](https://github.com/SimpleMobileTools/Simple-App-Launcher) - A simple holder for favourite apps for quick & easy app launcher icon management
 - [MM2-0/Kvaesitso](https://github.com/MM2-0/Kvaesitso) - A FOSS Android launcher
 - [rektdeckard/iconpacktools](https://github.com/rektdeckard/iconpacktools) - A handy utility for Android icon pack creators to easily generate key assets and resources.
 - [osmanonurkoc/papirusadaptive](https://github.com/osmanonurkoc/papirusadaptive) - Famous Linux Icon theme port for android
@@ -984,7 +984,7 @@
 - [kosayoda/nvim-lightbulb](https://github.com/kosayoda/nvim-lightbulb) - VSCode 💡 for neovim's built-in LSP.
 - [folke/which-key.nvim](https://github.com/folke/which-key.nvim) - 💥   Create key bindings that stick. WhichKey is a lua plugin for Neovim 0.5 that displays a popup with possible keybindings of the command you started typing.
 - [ray-x/lsp_signature.nvim](https://github.com/ray-x/lsp_signature.nvim) - LSP signature hint as you type
-- [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) - Quickstart configurations for the Nvim LSP client
+- [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) - Quickstart configs for Nvim LSP
 - [williamboman/nvim-lsp-installer](https://github.com/williamboman/nvim-lsp-installer) - Neovim plugin that allow you to seamlessly manage LSP servers with :LspInstall. With full Windows support!
 - [kyazdani42/nvim-tree.lua](https://github.com/kyazdani42/nvim-tree.lua) - A file explorer tree for neovim written in lua
 - [kdheepak/tabline.nvim](https://github.com/kdheepak/tabline.nvim) - A "buffer and tab" tabline for neovim
@@ -1445,6 +1445,7 @@
 
 ## Python 
 
+- [chrisvaughn/imap-cleanup](https://github.com/chrisvaughn/imap-cleanup) - Python script to clean out unwanted email via IMAP
 - [unifyai/ivy](https://github.com/unifyai/ivy) - The Unified Machine Learning Framework
 - [mkdirlove/WI-TOOLKIT](https://github.com/mkdirlove/WI-TOOLKIT) - Hack WiFi in Termux ( ROOTED DEVICES ONLY)
 - [justinwoo/mkgif](https://github.com/justinwoo/mkgif) - because ffmpeg commands are too annoying to remember, and bash scripts are annoying to manage.
@@ -2010,6 +2011,7 @@
 
 ## TypeScript 
 
+- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - 📕 SiYuan is a local-first personal knowledge management system, supports fine-grained block-level reference, and Markdown WYSIWYG. 思源笔记是一款本地优先的个人知识管理系统， 支持细粒度块级引用和 Markdown 所见即所得。Roadmap https://githu
 - [0xNaut/web3-link-tree](https://github.com/0xNaut/web3-link-tree) - (🔗, 🌲) Web3 Link Tree is a free & open-source alternative to Linktree built with React.js, Next.js, Tailwind and Web3-React
 - [cosmoscout/tasty.js](https://github.com/cosmoscout/tasty.js) - 🍰 A delicious Pie- and Marking-Menu Framework written in TypeScript.
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
@@ -2173,6 +2175,7 @@
 
 ## Vue 
 
+- [SamirM-BE/ErasMail](https://github.com/SamirM-BE/ErasMail) - An open source tool for cleaning email boxes and saving the planet
 - [Schrodinger-Hat/ImageGoNord](https://github.com/Schrodinger-Hat/ImageGoNord) - A tool that can convert your rgb images to nordtheme palette
 - [Thomashighbaugh/vue](https://github.com/Thomashighbaugh/vue) - 
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
