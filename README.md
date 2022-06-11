@@ -158,6 +158,8 @@
 
 ## C++ 
 
+- [Nitrux/maui-shell](https://github.com/Nitrux/maui-shell) - Maui Shell is a convergent shell for desktops, tablets, and phones.
+- [cutefishos-ubuntu/fishui](https://github.com/cutefishos-ubuntu/fishui) - CutefishOS GUI library, based on Qt Quick.
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [skiftOS/skift](https://github.com/skiftOS/skift) - 🥑 The delightful operating system.
 - [vaxerski/Hyprland](https://github.com/vaxerski/Hyprland) - Hyprland is a dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
@@ -202,6 +204,7 @@
 
 ## CSS 
 
+- [AllJavi/dotfiles](https://github.com/AllJavi/dotfiles) - 
 - [EliverLara/Kripton](https://github.com/EliverLara/Kripton) - A dark theme with flat style for GNOME
 - [alexhyett/linkinbio](https://github.com/alexhyett/linkinbio) - Link In Bio Page for Instagram, Twitter, Tumblr etc
 - [MM2-0/fdroid](https://github.com/MM2-0/fdroid) - 
@@ -864,6 +867,18 @@
 
 ## Lua 
 
+- [Savecoders/dotfiles](https://github.com/Savecoders/dotfiles) - My dofiles in AwesomeWM
+- [jcrd/awesome-config](https://github.com/jcrd/awesome-config) - AwesomeWM config
+- [HeavyRain266/awesome](https://github.com/HeavyRain266/awesome) - Are we wayland yet?
+- [AhmedSaadi0/MyAwesomeConfig](https://github.com/AhmedSaadi0/MyAwesomeConfig) - 
+- [sebth/awesome-overlap](https://github.com/sebth/awesome-overlap) - Overlapping tiling layout for awesome window manager
+- [nwdamgaard/awesomewm-app-drawer](https://github.com/nwdamgaard/awesomewm-app-drawer) - A minimal .desktop launcher for Awesome Window Manager
+- [platinumthinker/awesome_config](https://github.com/platinumthinker/awesome_config) - config for awesome wm
+- [N3k0Ch4n/Another_dotfiles](https://github.com/N3k0Ch4n/Another_dotfiles) - Awesome's (not)Awesome Dotfiles
+- [atsepkov/awesome-zen](https://github.com/atsepkov/awesome-zen) - Set of widgets/tools for awesome WM for clutter-free environment
+- [GrayJack/configs](https://github.com/GrayJack/configs) - My linux configs files
+- [awesomeWM/awesome-www](https://github.com/awesomeWM/awesome-www) - Website of AwesomeWM
+- [Miusaky/awdots](https://github.com/Miusaky/awdots) - Collection of dotfiles for Awesome.
 - [nullchilly/dots](https://github.com/nullchilly/dots) - My home is awesome
 - [arsham/awesomewm-config](https://github.com/arsham/awesomewm-config) - Awesome Window Manager config
 - [frabjous/awesome](https://github.com/frabjous/awesome) - Dotfiles for awesomewm
@@ -1450,6 +1465,7 @@
 
 ## Python 
 
+- [Asocia/binary-clock-wallpaper](https://github.com/Asocia/binary-clock-wallpaper) - A python script to generate wallpaper that shows time in binary.
 - [chrisvaughn/imap-cleanup](https://github.com/chrisvaughn/imap-cleanup) - Python script to clean out unwanted email via IMAP
 - [unifyai/ivy](https://github.com/unifyai/ivy) - The Unified Machine Learning Framework
 - [mkdirlove/WI-TOOLKIT](https://github.com/mkdirlove/WI-TOOLKIT) - Hack WiFi in Termux ( ROOTED DEVICES ONLY)
