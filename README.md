@@ -204,6 +204,7 @@
 
 ## CSS 
 
+- [ricksdomein/Awesome-Theme](https://github.com/ricksdomein/Awesome-Theme) - Configs for my Arch-Linux setup.
 - [AllJavi/dotfiles](https://github.com/AllJavi/dotfiles) - 
 - [EliverLara/Kripton](https://github.com/EliverLara/Kripton) - A dark theme with flat style for GNOME
 - [alexhyett/linkinbio](https://github.com/alexhyett/linkinbio) - Link In Bio Page for Instagram, Twitter, Tumblr etc
@@ -251,6 +252,7 @@
 - [obliviousofcraps/mf-dots](https://github.com/obliviousofcraps/mf-dots) - These are some of my ridiculously shit dotfiles that I use in my unproductive daily life.
 - [MrOtherGuy/firefox-csshacks](https://github.com/MrOtherGuy/firefox-csshacks) - Collection of userstyles affecting the browser
 - [mrmrs/colors](https://github.com/mrmrs/colors) - Smarter defaults for colors on the web.
+- [the-Electric-Tantra-Linux/Dhumavati-Theme](https://github.com/the-Electric-Tantra-Linux/Dhumavati-Theme) - A Skeuos fork with the vice color scheme and select enhancements
 - [manilarome/blurredfox](https://github.com/manilarome/blurredfox) - A sleek, modern and elegant Firefox CSS theme
 - [Timvde/UserChrome-Tweaks](https://github.com/Timvde/UserChrome-Tweaks) - A community maintained repository of userChrome.css tweaks for Firefox
 - [necolas/normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets
@@ -493,7 +495,7 @@
 - [lokesh-krishna/dotfiles](https://github.com/lokesh-krishna/dotfiles) - My dotfiles
 - [mavroudisv/plain-academic](https://github.com/mavroudisv/plain-academic) - A truly simple website template for academics
 - [randal-sean-harrison/academic-website-template-bs3](https://github.com/randal-sean-harrison/academic-website-template-bs3) - A simple template for an academic website using Bootstrap
-- [bornmay/Portfolio-Website](https://github.com/bornmay/Portfolio-Website) - Free to use portfolio website. Dont forget to start. Thank you.
+- [mayhemantt/Portfolio-Website](https://github.com/mayhemantt/Portfolio-Website) - Free to use portfolio website. Dont forget to start. Thank you.
 - [visualjerk/vue-cion-design-system](https://github.com/visualjerk/vue-cion-design-system) - CION - Design system boilerplate for Vue.js
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [realdavidops/xcvb](https://github.com/realdavidops/xcvb) - a super simple start page.
@@ -870,6 +872,16 @@
 
 ## Lua 
 
+- [Mateus-Cavalcanti/awesomewm-dotfiles](https://github.com/Mateus-Cavalcanti/awesomewm-dotfiles) - My awesomewm dotfiles
+- [shaeinst/roshnivim](https://github.com/shaeinst/roshnivim) - light of sun, more than IDE
+- [jorenheit/awesome_alttab](https://github.com/jorenheit/awesome_alttab) - Familiar Alt-Tab functionality in Awesome WM (3.5.5)
+- [jorenheit/awesome_floattile](https://github.com/jorenheit/awesome_floattile) - Tiling in a floating environment for Awesome 3.5
+- [jorenheit/awesome_batterywidget](https://github.com/jorenheit/awesome_batterywidget) - Simple battery-widget from Awesome WM 3.5
+- [jorenheit/awesome_tagdrag](https://github.com/jorenheit/awesome_tagdrag) - Drag clients to other tags
+- [troglobit/awesome-redshift](https://github.com/troglobit/awesome-redshift) - Ryan Young's small, simple lua library for interfacing the Awesome window manager with redshift
+- [troglobit/awesome-light](https://github.com/troglobit/awesome-light) - Lua library for controlling screen and keyboard brightness from Awesome WM
+- [troglobit/awesome-plain](https://github.com/troglobit/awesome-plain) - Plain barebones AwesomeWM setup
+- [troglobit/awesome-switcher](https://github.com/troglobit/awesome-switcher) - Familiar Alt-Tab functionality in Awesome WM (3.5.5)
 - [Savecoders/dotfiles](https://github.com/Savecoders/dotfiles) - My dofiles in AwesomeWM
 - [jcrd/awesome-config](https://github.com/jcrd/awesome-config) - AwesomeWM config
 - [HeavyRain266/awesome](https://github.com/HeavyRain266/awesome) - Are we wayland yet?
@@ -877,7 +889,7 @@
 - [sebth/awesome-overlap](https://github.com/sebth/awesome-overlap) - Overlapping tiling layout for awesome window manager
 - [nwdamgaard/awesomewm-app-drawer](https://github.com/nwdamgaard/awesomewm-app-drawer) - A minimal .desktop launcher for Awesome Window Manager
 - [platinumthinker/awesome_config](https://github.com/platinumthinker/awesome_config) - config for awesome wm
-- [N3k0Ch4n/Another_dotfiles](https://github.com/N3k0Ch4n/Another_dotfiles) - Awesome's (not)Awesome Dotfiles
+- [N3k0Ch4n/Another_dotfiles](https://github.com/N3k0Ch4n/Another_dotfiles) - :rice: .Beras
 - [atsepkov/awesome-zen](https://github.com/atsepkov/awesome-zen) - Set of widgets/tools for awesome WM for clutter-free environment
 - [GrayJack/configs](https://github.com/GrayJack/configs) - My linux configs files
 - [awesomeWM/awesome-www](https://github.com/awesomeWM/awesome-www) - Website of AwesomeWM
@@ -1697,7 +1709,6 @@
 - [prakhar1989/docker-curriculum](https://github.com/prakhar1989/docker-curriculum) - :dolphin: A comprehensive tutorial on getting started with Docker!
 - [Thomashighbaugh/Not-Another-Devlog](https://github.com/Thomashighbaugh/Not-Another-Devlog) - Final form of my devlog. Built with React, Gatsby, SASS, Bootstrap, FontAwesome and SpaceMacs!
 - [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
-- [the-Electric-Tantra-Linux/Dhumavati-Theme](https://github.com/the-Electric-Tantra-Linux/Dhumavati-Theme) - At the intersections of OneDark and Palenight, Dhumavati a GTK3 theme that's part of the Electric Tantra suite. Featuring gradient styled progress bars & sliders, a dark but still tolerable in dayligh
 - [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - My cheatsheets
 - [NCSU-Libraries/jekyll-academic](https://github.com/NCSU-Libraries/jekyll-academic) - 
 - [TeaGuns/odin](https://github.com/TeaGuns/odin) - A Jekyll help desk/knowledge base theme
@@ -2033,11 +2044,13 @@
 
 ## TeX 
 
+- [benbrastmckie/.config](https://github.com/benbrastmckie/.config) - NeoVim configuration optimized for writing in LaTeX
 - [LukeSmithxyz/critique-of-reason](https://github.com/LukeSmithxyz/critique-of-reason) - Term paper on Rationality
 - [sysprog21/lkmpg](https://github.com/sysprog21/lkmpg) - The Linux Kernel Module Programming Guide (updated for 5.x kernels)
 
 ## TypeScript 
 
+- [react-icons/react-icons](https://github.com/react-icons/react-icons) - svg react icons of popular icon packs
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - 📕 SiYuan is a local-first personal knowledge management system, supports fine-grained block-level reference, and Markdown WYSIWYG. 思源笔记是一款本地优先的个人知识管理系统， 支持细粒度块级引用和 Markdown 所见即所得。Roadmap https://githu
 - [0xNaut/web3-link-tree](https://github.com/0xNaut/web3-link-tree) - (🔗, 🌲) Web3 Link Tree is a free & open-source alternative to Linktree built with React.js, Next.js, Tailwind and Web3-React
 - [cosmoscout/tasty.js](https://github.com/cosmoscout/tasty.js) - 🍰 A delicious Pie- and Marking-Menu Framework written in TypeScript.
