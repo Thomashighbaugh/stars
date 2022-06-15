@@ -78,6 +78,7 @@
 
 ## C 
 
+- [lealoureiro/awesome-pa-utility](https://github.com/lealoureiro/awesome-pa-utility) - Utility to listen for PulseAudio server changes and update AwesomeWM widgets.
 - [bagyoni/procedural-wallpapers](https://github.com/bagyoni/procedural-wallpapers) - A collection of wallpaper generators
 - [VeltOS/graphene-desktop](https://github.com/VeltOS/graphene-desktop) - The default desktop environment of VeltOS
 - [compilepeace/KAAL_BHAIRAV](https://github.com/compilepeace/KAAL_BHAIRAV) - -x-x-x-x- DO NOT RUN ON PRODUCTION MACHINE  -x-x-x-x-  An ELF virus capable of generating segment padded trojans.
@@ -547,6 +548,7 @@
 
 ## JavaScript 
 
+- [tailwindlabs/heroicons](https://github.com/tailwindlabs/heroicons) - A set of free MIT-licensed high-quality SVG icons for UI development.
 - [feathericons/feather](https://github.com/feathericons/feather) - Simply beautiful open source icons
 - [montoulieu/link-ent](https://github.com/montoulieu/link-ent) - 🌲 A free Linktree alternative built with Next.js and Tailwind.
 - [RizkyRajitha/linkin](https://github.com/RizkyRajitha/linkin) - Linkin is a customizable self hosted link tree platform.
@@ -872,6 +874,16 @@
 
 ## Lua 
 
+- [akosnad/dotfiles](https://github.com/akosnad/dotfiles) - Personal workflow/rice
+- [crater2150/awesome-modalbind](https://github.com/crater2150/awesome-modalbind) - Modal keybindings for awesomewm
+- [eyedeekay/awesome-network-manager](https://github.com/eyedeekay/awesome-network-manager) - Network Manager interface for Awesome WM
+- [intrntbrn/smart_borders](https://github.com/intrntbrn/smart_borders) - awesomewm full titlebar functionality without sacrificing space
+- [potamides/modalawesome](https://github.com/potamides/modalawesome) - Framework for modal, vi-like keybindings for the awesome window manager.
+- [datwaft/bubbly.nvim](https://github.com/datwaft/bubbly.nvim) - Bubbly statusline for neovim
+- [jedrzejboczar/possession.nvim](https://github.com/jedrzejboczar/possession.nvim) - Flexible session management for Neovim.
+- [folke/todo-comments.nvim](https://github.com/folke/todo-comments.nvim) - ✅  Highlight, list and search todo comments in your projects
+- [sudormrfbin/cheatsheet.nvim](https://github.com/sudormrfbin/cheatsheet.nvim) - A cheatsheet plugin for neovim with bundled cheatsheets for the editor, multiple vim plugins, nerd-fonts, regex, etc. with a Telescope fuzzy finder interface !
+- [mfussenegger/nvim-treehopper](https://github.com/mfussenegger/nvim-treehopper) - Region selection with hints on the AST nodes of a document powered by treesitter
 - [Mateus-Cavalcanti/awesomewm-dotfiles](https://github.com/Mateus-Cavalcanti/awesomewm-dotfiles) - My awesomewm dotfiles
 - [shaeinst/roshnivim](https://github.com/shaeinst/roshnivim) - light of sun, more than IDE
 - [jorenheit/awesome_alttab](https://github.com/jorenheit/awesome_alttab) - Familiar Alt-Tab functionality in Awesome WM (3.5.5)
@@ -1051,7 +1063,6 @@
 - [VapourNvim/VapourNvim](https://github.com/VapourNvim/VapourNvim) - A NeoVim config for THE ULTIMATE vim IDE-like experience.
 - [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode) - Orgmode clone written in Lua for Neovim 0.7+.
 - [stevearc/aerial.nvim](https://github.com/stevearc/aerial.nvim) - Neovim plugin for a code outline window
-- [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) - A small, documented, and featureful neovim starter config
 - [Kuroneer/awm_config](https://github.com/Kuroneer/awm_config) - My own configuration repository for AwesomeWM 4
 - [danielnehrig/nvim](https://github.com/danielnehrig/nvim) - neovim lua cfg
 - [tjdevries/express_line.nvim](https://github.com/tjdevries/express_line.nvim) - WIP: Statusline written in pure lua. Supports co-routines, functions and jobs.
@@ -1481,6 +1492,7 @@
 
 ## Python 
 
+- [alexpdr/apps-server](https://github.com/alexpdr/apps-server) - A container based home development server, just copy over dist.* files, set the .env and get rolling!
 - [Asocia/binary-clock-wallpaper](https://github.com/Asocia/binary-clock-wallpaper) - A python script to generate wallpaper that shows time in binary.
 - [chrisvaughn/imap-cleanup](https://github.com/chrisvaughn/imap-cleanup) - Python script to clean out unwanted email via IMAP
 - [unifyai/ivy](https://github.com/unifyai/ivy) - The Unified Machine Learning Framework
@@ -2050,6 +2062,7 @@
 
 ## TypeScript 
 
+- [ant-design/ant-design-icons](https://github.com/ant-design/ant-design-icons) - ⭐ Ant Design SVG Icons
 - [react-icons/react-icons](https://github.com/react-icons/react-icons) - svg react icons of popular icon packs
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - 📕 SiYuan is a local-first personal knowledge management system, supports fine-grained block-level reference, and Markdown WYSIWYG. 思源笔记是一款本地优先的个人知识管理系统， 支持细粒度块级引用和 Markdown 所见即所得。Roadmap https://githu
 - [0xNaut/web3-link-tree](https://github.com/0xNaut/web3-link-tree) - (🔗, 🌲) Web3 Link Tree is a free & open-source alternative to Linktree built with React.js, Next.js, Tailwind and Web3-React
