@@ -1611,7 +1611,7 @@
 - [Davide-sd/GIMP-style-transfer](https://github.com/Davide-sd/GIMP-style-transfer) - GIMP plugin that enable the style transfer functionality thanks to artificial intelligence algorithms
 - [fluix-dev/dotfiles](https://github.com/fluix-dev/dotfiles) - My dotfiles and colorschemes for sway and a variety of other programs.
 - [hijkzzz/prisma](https://github.com/hijkzzz/prisma) - Prisma
-- [PyTorchLightning/pytorch-lightning](https://github.com/PyTorchLightning/pytorch-lightning) - The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate.
+- [Lightning-AI/lightning](https://github.com/Lightning-AI/lightning) - The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate.
 - [fennerm/flashfocus](https://github.com/fennerm/flashfocus) - Simple focus animations for tiling window managers.
 - [isyuck/dotfiles](https://github.com/isyuck/dotfiles) - linux/osx
 - [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 150 supported car makes and models.
