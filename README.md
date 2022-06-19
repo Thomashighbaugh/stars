@@ -50,6 +50,7 @@
 - [Perl](#perl)
 - [PowerShell](#powershell)
 - [Python](#python)
+- [QML](#qml)
 - [Roff](#roff)
 - [Ruby](#ruby)
 - [Rust](#rust)
@@ -79,6 +80,7 @@
 
 ## C 
 
+- [hc0d3r/alfheim](https://github.com/hc0d3r/alfheim) - a linux process hacker tool
 - [lealoureiro/awesome-pa-utility](https://github.com/lealoureiro/awesome-pa-utility) - Utility to listen for PulseAudio server changes and update AwesomeWM widgets.
 - [bagyoni/procedural-wallpapers](https://github.com/bagyoni/procedural-wallpapers) - A collection of wallpaper generators
 - [VeltOS/graphene-desktop](https://github.com/VeltOS/graphene-desktop) - The default desktop environment of VeltOS
@@ -206,6 +208,7 @@
 
 ## CSS 
 
+- [Deathemonic/Aesthetic-GTK](https://github.com/Deathemonic/Aesthetic-GTK) - A gtk theme for rxyhn-dotfiles
 - [ricksdomein/Awesome-Theme](https://github.com/ricksdomein/Awesome-Theme) - Configs for my Arch-Linux setup.
 - [AllJavi/dotfiles](https://github.com/AllJavi/dotfiles) - 
 - [EliverLara/Kripton](https://github.com/EliverLara/Kripton) - A dark theme with flat style for GNOME
@@ -875,6 +878,7 @@
 
 ## Lua 
 
+- [ner0z/dotfiles](https://github.com/ner0z/dotfiles) - 🍚 rice
 - [akosnad/dotfiles](https://github.com/akosnad/dotfiles) - Personal workflow/rice
 - [crater2150/awesome-modalbind](https://github.com/crater2150/awesome-modalbind) - Modal keybindings for awesomewm
 - [eyedeekay/awesome-network-manager](https://github.com/eyedeekay/awesome-network-manager) - Network Manager interface for Awesome WM
@@ -1196,6 +1200,7 @@
 - [kpfromer/awesomewm-dotfiles](https://github.com/kpfromer/awesomewm-dotfiles) - Dotfiles for awesomewm.
 - [K4rakara/awestore](https://github.com/K4rakara/awestore) - Sveltes store API for AwesomeWM.
 - [archias-lnx/awesome-possum](https://github.com/archias-lnx/awesome-possum) - A lightweight and efficient pretty awesome-wm rice.
+- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim/neovim distribution - The ultimate vimrc
 - [jessarcher/dotfiles](https://github.com/jessarcher/dotfiles) - $HOME sweet $HOME
 - [BlingCorp/bling](https://github.com/BlingCorp/bling) - Utilities for the awesome window manager
 - [mut-ex/awesome-wm-nice](https://github.com/mut-ex/awesome-wm-nice) - An Awesome WM module that add MacOS-like window decorations, with seamless titlebars, double click to maximize, and window shade feature
@@ -1497,6 +1502,7 @@
 
 ## Python 
 
+- [victor7w7r/036raspberry](https://github.com/victor7w7r/036raspberry) - Configuration Scripts for Arch Linux/Raspberry OS Lite and Oracle for Raspberry Pi 4
 - [alexpdr/apps-server](https://github.com/alexpdr/apps-server) - A container based home development server, just copy over dist.* files, set the .env and get rolling!
 - [Asocia/binary-clock-wallpaper](https://github.com/Asocia/binary-clock-wallpaper) - A python script to generate wallpaper that shows time in binary.
 - [chrisvaughn/imap-cleanup](https://github.com/chrisvaughn/imap-cleanup) - Python script to clean out unwanted email via IMAP
@@ -1616,7 +1622,7 @@
 - [Davide-sd/GIMP-style-transfer](https://github.com/Davide-sd/GIMP-style-transfer) - GIMP plugin that enable the style transfer functionality thanks to artificial intelligence algorithms
 - [fluix-dev/dotfiles](https://github.com/fluix-dev/dotfiles) - My dotfiles and colorschemes for sway and a variety of other programs.
 - [hijkzzz/prisma](https://github.com/hijkzzz/prisma) - Prisma
-- [Lightning-AI/lightning](https://github.com/Lightning-AI/lightning) - Build high-performance AI models for state-of-the-art AI research, and deploy them with Lightning Apps (end-to-end ML systems).
+- [Lightning-AI/lightning](https://github.com/Lightning-AI/lightning) - Build high-performance AI models with PyTorch Lightning (organized PyTorch). Deploy models with Lightning Apps (organized Python to build end-to-end ML systems).
 - [fennerm/flashfocus](https://github.com/fennerm/flashfocus) - Simple focus animations for tiling window managers.
 - [isyuck/dotfiles](https://github.com/isyuck/dotfiles) - linux/osx
 - [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 150 supported car makes and models.
@@ -1655,6 +1661,10 @@
 - [snwh/suru-icon-theme](https://github.com/snwh/suru-icon-theme) - The source of the Suru icon and cursor set
 - [snwh/paper-icon-theme](https://github.com/snwh/paper-icon-theme) - Paper Icon Theme
 - [peppermintos/ice](https://github.com/peppermintos/ice) - Tool to create Chromium/Chrome/Firefox/Vivaldi SSBs in Peppermint OS.
+
+## QML 
+
+- [Calinix-Team/Calinix-Arch](https://github.com/Calinix-Team/Calinix-Arch) - CalinixOS Linux Distribution ISO Profiles
 
 ## Roff 
 
@@ -1753,6 +1763,8 @@
 
 ## Shell 
 
+- [BPN06/Arch-Linux-ARM-installer](https://github.com/BPN06/Arch-Linux-ARM-installer) - 
+- [andrewboring/alarm-images](https://github.com/andrewboring/alarm-images) - Arch Linux Arm Base Images for Raspberry Pi
 - [cbrnix/Newaita-reborn](https://github.com/cbrnix/Newaita-reborn) - Remaster Newaia icon theme
 - [Vaeralie/ArchLinux-Maintenance-Script](https://github.com/Vaeralie/ArchLinux-Maintenance-Script) - An all-in-one script that simplifies system maintenance on Arch Linux.
 - [yeyushengfan258/Honor-icon-theme-](https://github.com/yeyushengfan258/Honor-icon-theme-) - A colorful Design Rectangle icon theme for linux desktops
@@ -2071,7 +2083,7 @@
 
 - [ant-design/ant-design-icons](https://github.com/ant-design/ant-design-icons) - ⭐ Ant Design SVG Icons
 - [react-icons/react-icons](https://github.com/react-icons/react-icons) - svg react icons of popular icon packs
-- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - Build Your Eternal Digital Garden
+- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - 📕 SiYuan is a local-first personal knowledge management system, supports fine-grained block-level reference, and Markdown WYSIWYG. 思源笔记是一款本地优先的个人知识管理系统， 支持细粒度块级引用和 Markdown 所见即所得。Roadmap https://githu
 - [0xNaut/web3-link-tree](https://github.com/0xNaut/web3-link-tree) - (🔗, 🌲) Web3 Link Tree is a free & open-source alternative to Linktree built with React.js, Next.js, Tailwind and Web3-React
 - [cosmoscout/tasty.js](https://github.com/cosmoscout/tasty.js) - 🍰 A delicious Pie- and Marking-Menu Framework written in TypeScript.
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
@@ -2218,7 +2230,6 @@
 - [Thomashighbaugh/vim](https://github.com/Thomashighbaugh/vim) - Vim configuration
 - [shapeshed/dotfiles](https://github.com/shapeshed/dotfiles) - dotfiles and config stuff
 - [skywind3000/vim-quickui](https://github.com/skywind3000/vim-quickui) - The missing UI extensions for Vim 8.2 (and NeoVim 0.4) !! :sunglasses:
-- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim/neovim distribution - The ultimate vimrc
 - [ktonga/vim-follow-my-lead](https://github.com/ktonga/vim-follow-my-lead) - Vim plugin for showing all your &lt;Leader&gt; mappings in a readable table including the descriptions.
 - [mhinz/vim-galore](https://github.com/mhinz/vim-galore) - :mortar_board: All things Vim!
 - [matthewstrasiotto/dotfiles](https://github.com/matthewstrasiotto/dotfiles) - Modular :package: dotfile repo that uses dotbot profiles to make bootstrapping :zap: lighting fast, on (almost) any env.
