@@ -67,6 +67,7 @@
 - [Vim Snippet](#vim-snippet)
 - [Vim script](#vim-script)
 - [Vue](#vue)
+- [XSLT](#xslt)
 - [YAML](#yaml)
 - [Zig](#zig)
 
@@ -208,6 +209,10 @@
 
 ## CSS 
 
+- [Burakbo/NightlyFox](https://github.com/Burakbo/NightlyFox) - 🦊🌑 a pretty Firefox customization
+- [fontsource/fontsource](https://github.com/fontsource/fontsource) - Self-host Open Source fonts in neatly bundled NPM packages.
+- [johnpaulada/pandoc-markdown-book-template](https://github.com/johnpaulada/pandoc-markdown-book-template) - A template for creating epub books from markdown using pandoc.
+- [wikiti/pandoc-book-template](https://github.com/wikiti/pandoc-book-template) - A simple Pandoc template to build documents and ebooks.
 - [Deathemonic/Aesthetic-GTK](https://github.com/Deathemonic/Aesthetic-GTK) - A gtk theme for rxyhn-dotfiles
 - [ricksdomein/Awesome-Theme](https://github.com/ricksdomein/Awesome-Theme) - Configs for my Arch-Linux setup.
 - [AllJavi/dotfiles](https://github.com/AllJavi/dotfiles) - 
@@ -448,6 +453,7 @@
 
 ## HTML 
 
+- [StefanoCecere/markdown_pandoc_book_template](https://github.com/StefanoCecere/markdown_pandoc_book_template) - a template to create pdf/ePub/html/docx books by Markdown via Pandoc
 - [festackcode/dev-fonts](https://github.com/festackcode/dev-fonts) - 
 - [chriskempson/base16-builder](https://github.com/chriskempson/base16-builder) - Deprecated, not accepting PRs, please see Readme.
 - [rmayobre/scripted-selfhost](https://github.com/rmayobre/scripted-selfhost) - A collection of scripts, docker stacks, and general help with self hosting private services.
@@ -552,6 +558,7 @@
 
 ## JavaScript 
 
+- [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - 📝 Modern documentation format and toolchain using Git and Markdown
 - [tailwindlabs/heroicons](https://github.com/tailwindlabs/heroicons) - A set of free MIT-licensed high-quality SVG icons for UI development.
 - [feathericons/feather](https://github.com/feathericons/feather) - Simply beautiful open source icons
 - [montoulieu/link-ent](https://github.com/montoulieu/link-ent) - 🌲 A free Linktree alternative built with Next.js and Tailwind.
@@ -878,6 +885,10 @@
 
 ## Lua 
 
+- [cubetastic33/dotfiles](https://github.com/cubetastic33/dotfiles) - The dotfiles for my Linux setup
+- [jabuxas/dotfiles](https://github.com/jabuxas/dotfiles) - My dots.
+- [quantrancse/arch-dotfiles](https://github.com/quantrancse/arch-dotfiles) - A fork of elenapan/dotfiles that work on Arch
+- [ThemerCorp/themer.lua](https://github.com/ThemerCorp/themer.lua) - A simple, minimal highlighter plugin for neovim
 - [ner0z/dotfiles](https://github.com/ner0z/dotfiles) - 🍚 rice
 - [akosnad/dotfiles](https://github.com/akosnad/dotfiles) - Personal workflow/rice
 - [crater2150/awesome-modalbind](https://github.com/crater2150/awesome-modalbind) - Modal keybindings for awesomewm
@@ -1502,6 +1513,9 @@
 
 ## Python 
 
+- [vm03/payload_dumper](https://github.com/vm03/payload_dumper) - Android OTA payload dumper
+- [spinlud/py-linkedin-jobs-scraper](https://github.com/spinlud/py-linkedin-jobs-scraper) - 
+- [kraanzu/dooit](https://github.com/kraanzu/dooit) - A TUI todo manager
 - [victor7w7r/036raspberry](https://github.com/victor7w7r/036raspberry) - Configuration Scripts for Arch Linux/Raspberry OS Lite and Oracle for Raspberry Pi 4
 - [alexpdr/apps-server](https://github.com/alexpdr/apps-server) - A container based home development server, just copy over dist.* files, set the .env and get rolling!
 - [Asocia/binary-clock-wallpaper](https://github.com/Asocia/binary-clock-wallpaper) - A python script to generate wallpaper that shows time in binary.
@@ -1519,7 +1533,7 @@
 - [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [audibleblink/doxycannon](https://github.com/audibleblink/doxycannon) - A poorman's proxycannon and botnet, using docker, ovpn files, tor nodes, and dante socks5 proxies
 - [KCarretto/Arsenal](https://github.com/KCarretto/Arsenal) - Extensible Red Team Framework
-- [Taguar258/Raven-Storm](https://github.com/Taguar258/Raven-Storm) - Raven-Storm is a powerful DDoS toolkit for penetration tests, including attacks for several protocols written in python. Takedown many connections using several exotic and classic protocols.
+- [Tmpertor/Raven-Storm](https://github.com/Tmpertor/Raven-Storm) - Raven-Storm is a powerful DDoS toolkit for penetration tests, including attacks for several protocols written in python. Takedown many connections using several exotic and classic protocols.
 - [gnebbia/kb](https://github.com/gnebbia/kb) - A minimalist command line knowledge base manager
 - [PaulMcInnis/JobFunnel](https://github.com/PaulMcInnis/JobFunnel) - Scrape job websites into a single spreadsheet with no duplicates.
 - [tfeldmann/organize](https://github.com/tfeldmann/organize) - The file management automation tool.
@@ -1763,6 +1777,9 @@
 
 ## Shell 
 
+- [TermuxHackz/wifi-hacker](https://github.com/TermuxHackz/wifi-hacker) - Shell Script For Attacking Wireless Connections Using Built-In Kali Tools. Supports All Securities (WEP, WPS, WPA, WPA2)
+- [intrntbrn/awesomewm-vim-tmux-navigator](https://github.com/intrntbrn/awesomewm-vim-tmux-navigator) - Navigate seamlessly between system windows, vim splits and tmux panes by only using awesomewm navigation keybindings.
+- [GabrielTenma/dotfiles](https://github.com/GabrielTenma/dotfiles) - all of my config linux desktop - and useless file(s)
 - [BPN06/Arch-Linux-ARM-installer](https://github.com/BPN06/Arch-Linux-ARM-installer) - 
 - [andrewboring/alarm-images](https://github.com/andrewboring/alarm-images) - Arch Linux Arm Base Images for Raspberry Pi
 - [cbrnix/Newaita-reborn](https://github.com/cbrnix/Newaita-reborn) - Remaster Newaia icon theme
@@ -2257,6 +2274,10 @@
 - [AssetKid/raider](https://github.com/AssetKid/raider) - An Instagram download application for Windows, Mac & Linux
 - [sdras/cssgridgenerator](https://github.com/sdras/cssgridgenerator) - 🧮 Generate basic CSS Grid code to make dynamic layouts!
 - [czytelny/backlog](https://github.com/czytelny/backlog) - Simple desktop app for storing lists of items (todo, tasks, backlog items)
+
+## XSLT 
+
+- [oreillymedia/HTMLBook](https://github.com/oreillymedia/HTMLBook) - Let's write books in HTML!
 
 ## YAML 
 
