@@ -167,7 +167,7 @@
 - [cutefishos-ubuntu/fishui](https://github.com/cutefishos-ubuntu/fishui) - CutefishOS GUI library, based on Qt Quick.
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [skiftOS/skift](https://github.com/skiftOS/skift) - 🥑 The delightful operating system.
-- [vaxerski/Hyprland](https://github.com/vaxerski/Hyprland) - Hyprland is a dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
+- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is a dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
 - [AHXR/ghost](https://github.com/AHXR/ghost) - :ghost: RAT (Remote Access Trojan) - Silent Botnet - Full Remote Command-Line Access - Download & Execute Programs - Spread Virus' & Malware
 - [maestron/botnets](https://github.com/maestron/botnets) - This is a collection of #botnet source codes, unorganized. For EDUCATIONAL PURPOSES ONLY
 - [SpencerCBrown/Triad](https://github.com/SpencerCBrown/Triad) - Robust and pleasant cross-platform note taking application.
@@ -227,7 +227,6 @@
 - [black7375/Firefox-UI-Fix](https://github.com/black7375/Firefox-UI-Fix) - 🦊 I respect proton UI and aim to improve it.
 - [K4zoku/dotfiles](https://github.com/K4zoku/dotfiles) - My personal linux configuration files (dotfiles)
 - [sadparadiseinhell/tea-green](https://github.com/sadparadiseinhell/tea-green) - Simple startpage with weather and to-do list features.
-- [rxyhn/dotfiles](https://github.com/rxyhn/dotfiles) - My awesomewm dotfiles for awesome people! ✨
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [rockiger/awiki-react](https://github.com/rockiger/awiki-react) - A Zim inspired wiki with markdown syntax
 - [23Bluemaster23/EdgeFox](https://github.com/23Bluemaster23/EdgeFox) - Is a userchrome that imitates (or attempts to imitate) the style of Microsoft's Edge Chromiun browser. is a project in development./Es un userchrome que imita (o intenta imitar) el estilo del navegado
@@ -364,6 +363,7 @@
 ## Emacs Lisp 
 
 - [russmatney/dotfiles](https://github.com/russmatney/dotfiles) - Doom Emacs, a few-years old vim config, tmux, i3, zsh, polybar
+- [meain/dotfiles](https://github.com/meain/dotfiles) - If there is a shell, there is a way!
 - [BasicWolf/dotrc](https://github.com/BasicWolf/dotrc) - My Emacs, AwesomeWM, zsh, git and other configurations
 - [taylor-gl/dotfiles](https://github.com/taylor-gl/dotfiles) - My Gentoo config and setup guide [currently i3 and vanilla emacs]
 - [xinhaoyuan/my-config](https://github.com/xinhaoyuan/my-config) - all config files managed by GNU stow
@@ -959,6 +959,7 @@
 - [PlatyPew/format-installer.nvim](https://github.com/PlatyPew/format-installer.nvim) - Neovim plugin for managing formatters/linters
 - [ellisonleao/carbon-now.nvim](https://github.com/ellisonleao/carbon-now.nvim) - Create beautiful code snippets directly from your neovim terminal
 - [brainfucksec/neovim-lua](https://github.com/brainfucksec/neovim-lua) - Neovim KISS configuration with Lua
+- [rxyhn/dotfiles](https://github.com/rxyhn/dotfiles) - My awesomewm dotfiles for awesome people! ✨
 - [yurukute/dotfiles](https://github.com/yurukute/dotfiles) - 
 - [pansy27/Dotfiles](https://github.com/pansy27/Dotfiles) - My dotfiles repo
 - [Jeremie1001/awesome-dotfiles](https://github.com/Jeremie1001/awesome-dotfiles) - 
@@ -1099,7 +1100,6 @@
 - [Elv13/repetitive](https://github.com/Elv13/repetitive) - Repetitive tasks eradicator module for Awesome WM
 - [Elv13/collision](https://github.com/Elv13/collision) - A window management module for AwesomeWM
 - [lilydjwg/myawesomerc](https://github.com/lilydjwg/myawesomerc) - My Awesome WM config files
-- [meain/dotfiles](https://github.com/meain/dotfiles) - If there is a shell, there is a way!
 - [skbolton/titan](https://github.com/skbolton/titan) - My attempt at making dotfiles super portable
 - [tumurzakov/attachdrop](https://github.com/tumurzakov/attachdrop) - AwesomeWM Quake like windows management
 - [cyrobin/awesome-wm](https://github.com/cyrobin/awesome-wm) - My Awesome WM 3.4 configuration
@@ -2281,7 +2281,7 @@
 
 ## YAML 
 
-- [trinib/AdGuard-WireGuard-Unbound-Cloudflare](https://github.com/trinib/AdGuard-WireGuard-Unbound-Cloudflare) - The ultimate self-hosted network security guide ─ Protection🔒 |  Privacy🔎 | Performance🚀 for your network 24/7🕛 Accessible anywhere🌏
+- [trinib/AdGuard-WireGuard-Unbound-DNScrypt](https://github.com/trinib/AdGuard-WireGuard-Unbound-DNScrypt) - The ultimate self-hosted network security guide ─ Protection🔒 |  Privacy🔎 | Performance🚀 for your network 24/7🕛 Accessible anywhere🌏
 
 ## Zig 
 
