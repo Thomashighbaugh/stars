@@ -40,7 +40,6 @@
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [MoonScript](#moonscript)
-- [NSIS](#nsis)
 - [Nim](#nim)
 - [Nix](#nix)
 - [Nunjucks](#nunjucks)
@@ -55,6 +54,7 @@
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
+- [SQF](#sqf)
 - [SaltStack](#saltstack)
 - [Scala](#scala)
 - [Scheme](#scheme)
@@ -148,7 +148,6 @@
 - [christophgysin/pasystray](https://github.com/christophgysin/pasystray) - PulseAudio system tray
 - [CristianHenzel/ClipIt](https://github.com/CristianHenzel/ClipIt) - ClipIt clipboard manager for GTK+
 - [conformal/spectrwm](https://github.com/conformal/spectrwm) - A small dynamic tiling window manager for X11.
-- [Embroidermodder/Embroidermodder](https://github.com/Embroidermodder/Embroidermodder) - Free machine embroidery software supporting a variety of formats.
 - [cfenollosa/os-tutorial](https://github.com/cfenollosa/os-tutorial) - How to create an OS from scratch
 
 ## C# # 
@@ -227,6 +226,7 @@
 - [black7375/Firefox-UI-Fix](https://github.com/black7375/Firefox-UI-Fix) - 🦊 I respect proton UI and aim to improve it.
 - [K4zoku/dotfiles](https://github.com/K4zoku/dotfiles) - My personal linux configuration files (dotfiles)
 - [sadparadiseinhell/tea-green](https://github.com/sadparadiseinhell/tea-green) - Simple startpage with weather and to-do list features.
+- [rxyhn/dotfiles](https://github.com/rxyhn/dotfiles) - My awesomewm dotfiles for awesome people! ✨
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [rockiger/awiki-react](https://github.com/rockiger/awiki-react) - A Zim inspired wiki with markdown syntax
 - [23Bluemaster23/EdgeFox](https://github.com/23Bluemaster23/EdgeFox) - Is a userchrome that imitates (or attempts to imitate) the style of Microsoft's Edge Chromiun browser. is a project in development./Es un userchrome que imita (o intenta imitar) el estilo del navegado
@@ -917,7 +917,7 @@
 - [sebth/awesome-overlap](https://github.com/sebth/awesome-overlap) - Overlapping tiling layout for awesome window manager
 - [nwdamgaard/awesomewm-app-drawer](https://github.com/nwdamgaard/awesomewm-app-drawer) - A minimal .desktop launcher for Awesome Window Manager
 - [platinumthinker/awesome_config](https://github.com/platinumthinker/awesome_config) - config for awesome wm
-- [N3k0Ch4n/Another_dotfiles](https://github.com/N3k0Ch4n/Another_dotfiles) - :rice: .Beras
+- [N3k0Ch4n/dotRice](https://github.com/N3k0Ch4n/dotRice) - :rice: Open-Source Rice
 - [atsepkov/awesome-zen](https://github.com/atsepkov/awesome-zen) - Set of widgets/tools for awesome WM for clutter-free environment
 - [GrayJack/configs](https://github.com/GrayJack/configs) - My linux configs files
 - [awesomeWM/awesome-www](https://github.com/awesomeWM/awesome-www) - Website of AwesomeWM
@@ -959,7 +959,6 @@
 - [PlatyPew/format-installer.nvim](https://github.com/PlatyPew/format-installer.nvim) - Neovim plugin for managing formatters/linters
 - [ellisonleao/carbon-now.nvim](https://github.com/ellisonleao/carbon-now.nvim) - Create beautiful code snippets directly from your neovim terminal
 - [brainfucksec/neovim-lua](https://github.com/brainfucksec/neovim-lua) - Neovim KISS configuration with Lua
-- [rxyhn/dotfiles](https://github.com/rxyhn/dotfiles) - My awesomewm dotfiles for awesome people! ✨
 - [yurukute/dotfiles](https://github.com/yurukute/dotfiles) - 
 - [pansy27/Dotfiles](https://github.com/pansy27/Dotfiles) - My dotfiles repo
 - [Jeremie1001/awesome-dotfiles](https://github.com/Jeremie1001/awesome-dotfiles) - 
@@ -1255,10 +1254,6 @@
 - [hal-ullr/awesome-moonscript](https://github.com/hal-ullr/awesome-moonscript) - An awesome rc in MoonScript
 - [chase/awesome-config-moonscript](https://github.com/chase/awesome-config-moonscript) - An Awesome WM config using Moonscript
 
-## NSIS 
-
-- [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
-
 ## Nim 
 
 - [juancarlospaco/nim-chonker](https://github.com/juancarlospaco/nim-chonker) - Arch Linux Pacman Optimizer: Your Arch Linux is too fat, lets make it lightweight
@@ -1293,6 +1288,7 @@
 
 ## Others 
 
+- [archcraft-os/archcraft-hyprland](https://github.com/archcraft-os/archcraft-hyprland) - // Configuration : Hyprland
 - [ahmedtariq01/Cloud-DevOps-Learning-Resources](https://github.com/ahmedtariq01/Cloud-DevOps-Learning-Resources) - This repo includes Books and imp notes related to GCP, Azure, AWS, Docker, K8s, and DevOps. More, exam and interview prep notes.
 - [RMerl/asuswrt-merlin.ng](https://github.com/RMerl/asuswrt-merlin.ng) - Third party firmware for Asus routers (newer codebase)
 - [technomada/cloud-from-scratch](https://github.com/technomada/cloud-from-scratch) - Build yourself a private self-hosted full-stack personal cloud system.
@@ -1603,7 +1599,7 @@
 - [getsentry/sentry](https://github.com/getsentry/sentry) - Sentry is cross-platform application monitoring, with a focus on error reporting.
 - [saltstack/salt](https://github.com/saltstack/salt) - Software to automate the management and configuration of any infrastructure or application at scale. Get access to the Salt software package repository here:
 - [bitsadmin/wesng](https://github.com/bitsadmin/wesng) - Windows Exploit Suggester - Next Generation
-- [horberlan/Selenium-github-webdriver](https://github.com/horberlan/Selenium-github-webdriver) - A automate tool to follow users on Github
+- [horberlan/Selenium-github-webdriver](https://github.com/horberlan/Selenium-github-webdriver) - Using selenium webdriver on Github
 - [aurblobs/aurblobs](https://github.com/aurblobs/aurblobs) - Automatically create binary repositories from AUR packages
 - [dAYOShACKER505/AXOM-FB-HACK](https://github.com/dAYOShACKER505/AXOM-FB-HACK) - facebook hacking tool for termux or linux 2020
 - [seevik2580/ethereum-wallet-recovery](https://github.com/seevik2580/ethereum-wallet-recovery) - ethereum wallet recovery password multithread tool, baked from pyethrecover and pyethereum, for using keystore v3 json file to help recover your lost password if you know some phrases using both brute
@@ -1756,6 +1752,10 @@
 - [mldangelo/personal-site](https://github.com/mldangelo/personal-site) - My personal website - built with React, React-Router, React-Snap for Static-Export, and GitHub Pages.
 - [StarLabsLtd/StarLabsTheme](https://github.com/StarLabsLtd/StarLabsTheme) - Star Labs GNOME Shell and GTK Theme
 - [Thomashighbaugh/startpage](https://github.com/Thomashighbaugh/startpage) - Browser startpage written in Next.js for those not afraid of  serverless hosting.
+
+## SQF 
+
+- [Embroidermodder/Embroidermodder](https://github.com/Embroidermodder/Embroidermodder) - Free machine embroidery software supporting a variety of formats.
 
 ## SaltStack 
 
@@ -2159,6 +2159,7 @@
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [iamvishnusankar/next-sitemap](https://github.com/iamvishnusankar/next-sitemap) - Sitemap generator for next.js. Generate sitemap(s) and robots.txt for all static/pre-rendered/dynamic/server-side pages.
 - [nandorojo/moti](https://github.com/nandorojo/moti) - 🐼  The React Native (+ Web) animation library, powered by Reanimated 2.
+- [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
 - [vercel/commerce](https://github.com/vercel/commerce) - Next.js Commerce
 - [karlitos/KissMyResume](https://github.com/karlitos/KissMyResume) - Generate polished résumés and CVs in HTML, PDF,  MS Word and other formats and Keep It Simple.
 - [microsoft/fluentui](https://github.com/microsoft/fluentui) - Fluent UI web represents a collection of utilities, React components, and web components for building web applications.
