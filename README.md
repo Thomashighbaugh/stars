@@ -2282,7 +2282,7 @@
 
 ## YAML 
 
-- [trinib/AdGuard-WireGuard-Unbound-DNScrypt](https://github.com/trinib/AdGuard-WireGuard-Unbound-DNScrypt) - The ultimate self-hosted network security guide ─ Protection🔒 |  Privacy🔎 | Performance🚀 for your network 24/7🕛 Accessible anywhere🌏
+- [trinib/AdGuard-WireGuard-Unbound-DNScrypt](https://github.com/trinib/AdGuard-WireGuard-Unbound-DNScrypt) - The ultimate self-hosted network security guide ─ Protection |  Privacy | Performance for your network 24/7 Accessible anywhere
 
 ## Zig 
 
