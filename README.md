@@ -892,7 +892,7 @@
 - [elairavi/luavim](https://github.com/elairavi/luavim) - Luavim is a simple neovim configuration written in lua, aiming to provide a base config.
 - [ray-x/nvim](https://github.com/ray-x/nvim) - Blazing fast neovim setup with 140 plugins.
 - [nikbrunner/vin](https://github.com/nikbrunner/vin) - This is my personal NeoVim config on which I am working on from time to time, while learning about the whole universe of Vim and NeoVim.
-- [SingularisArt/Death.NeoVim](https://github.com/SingularisArt/Death.NeoVim) - A quick neovim setup.
+- [SingularisArt/DeathVim](https://github.com/SingularisArt/DeathVim) - A quick neovim setup.
 - [cubetastic33/dotfiles](https://github.com/cubetastic33/dotfiles) - The dotfiles for my Linux setup
 - [jabuxas/dotfiles](https://github.com/jabuxas/dotfiles) - My dots.
 - [quantrancse/arch-dotfiles](https://github.com/quantrancse/arch-dotfiles) - A fork of elenapan/dotfiles that work on Arch
@@ -2105,7 +2105,7 @@
 - [Shougo/ddc.vim](https://github.com/Shougo/ddc.vim) - Dark deno-powered completion framework for neovim/Vim8
 - [ant-design/ant-design-icons](https://github.com/ant-design/ant-design-icons) - ⭐ Ant Design SVG Icons
 - [react-icons/react-icons](https://github.com/react-icons/react-icons) - svg react icons of popular icon packs
-- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - 📕 SiYuan is a local-first personal knowledge management system, supports fine-grained block-level reference, and Markdown WYSIWYG. 思源笔记是一款本地优先的个人知识管理系统， 支持细粒度块级引用和 Markdown 所见即所得。Roadmap https://githu
+- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - SiYuan is a local-first personal knowledge management system, supports fine-grained block-level reference, and Markdown WYSIWYG. 思源笔记是一款本地优先的个人知识管理系统， 支持细粒度块级引用和 Markdown 所见即所得。Roadmap https://github.
 - [0xNaut/web3-link-tree](https://github.com/0xNaut/web3-link-tree) - (🔗, 🌲) Web3 Link Tree is a free & open-source alternative to Linktree built with React.js, Next.js, Tailwind and Web3-React
 - [cosmoscout/tasty.js](https://github.com/cosmoscout/tasty.js) - 🍰 A delicious Pie- and Marking-Menu Framework written in TypeScript.
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
