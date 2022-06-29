@@ -476,7 +476,6 @@
 - [LeaVerou/css3patterns](https://github.com/LeaVerou/css3patterns) - The popular CSS3 patterns gallery, now on Github :)
 - [freddiecabrera/freddiecabrera.github.io](https://github.com/freddiecabrera/freddiecabrera.github.io) - 
 - [choubari/Glassmorphism-Portfolio](https://github.com/choubari/Glassmorphism-Portfolio) - Glassmorphism Portfolio Website built with HTML&CSS based on @developedbyed tutorial.
-- [Thomashighbaugh/hugo](https://github.com/Thomashighbaugh/hugo) - 
 - [Thomashighbaugh/gitstars](https://github.com/Thomashighbaugh/gitstars) - Github Stars Repositories Manager
 - [Thomashighbaugh/html5-features](https://github.com/Thomashighbaugh/html5-features) - A quick demonstration of various html5 features.
 - [terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
@@ -619,7 +618,6 @@
 - [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - :bathtub: Clean Code concepts adapted for JavaScript
 - [AVS1508/AVS1508.github.io](https://github.com/AVS1508/AVS1508.github.io) - Personal Résumé Website developed using ReactJS and Bootstrap and hosted on Github Pages. Displays my web presence, story, work experience, education, projects, achievements, and contact information.
 - [nextapps-de/winbox](https://github.com/nextapps-de/winbox) - WinBox is a professional HTML5 window manager for the web: lightweight, outstanding performance, no dependencies, fully customizable, open source!
-- [Thomashighbaugh/React-Playgrounds](https://github.com/Thomashighbaugh/React-Playgrounds) - 
 - [vivek9patel/vivek9patel.github.io](https://github.com/vivek9patel/vivek9patel.github.io) - Personal portfolio website of theme Ubuntu 20.04, made using NEXT.js & tailwind CSS
 - [nvni/next-tailwindcss](https://github.com/nvni/next-tailwindcss) - NextJs + Tailwind CSS
 - [feiruo/userChromeJS](https://github.com/feiruo/userChromeJS) - Firefox userChromeJS
@@ -652,7 +650,6 @@
 - [pataar/starting-page](https://github.com/pataar/starting-page) - A custom starting page which has some useful features.
 - [Thomashighbaugh/mern-contact-keeper](https://github.com/Thomashighbaugh/mern-contact-keeper) - A contact keeper application built to explore the MERN stack
 - [Thomashighbaugh/preact](https://github.com/Thomashighbaugh/preact) - 
-- [Thomashighbaugh/Redux-React-Less-Starter-Page](https://github.com/Thomashighbaugh/Redux-React-Less-Starter-Page) - 
 - [devonChurch/ham-toastie](https://github.com/devonChurch/ham-toastie) - An SVG geometric pattern generator
 - [errozero/glitchatron](https://github.com/errozero/glitchatron) - Glitch Art Generator
 - [BilliMorgan/cryptocurrency-exchange](https://github.com/BilliMorgan/cryptocurrency-exchange) - The part of the crypto project. Build on React, Context API. Tested with Enzyme. For Chrome and Firefox only. In the rebuilding process now.
@@ -1295,6 +1292,7 @@
 
 ## Others 
 
+- [notion-enhancer/tweaks](https://github.com/notion-enhancer/tweaks) - a collection of user-submitted css/js tweaks for notion
 - [archcraft-os/archcraft-hyprland](https://github.com/archcraft-os/archcraft-hyprland) - // Configuration : Hyprland
 - [ahmedtariq01/Cloud-DevOps-Learning-Resources](https://github.com/ahmedtariq01/Cloud-DevOps-Learning-Resources) - This repo includes Books and imp notes related to GCP, Azure, AWS, Docker, K8s, and DevOps. More, exam and interview prep notes.
 - [RMerl/asuswrt-merlin.ng](https://github.com/RMerl/asuswrt-merlin.ng) - Third party firmware for Asus routers (newer codebase)
@@ -1570,7 +1568,6 @@
 - [Rick-Lang/rickroll-lang](https://github.com/Rick-Lang/rickroll-lang) - The Rick Roll programming language is a rickroll based, process oriented, dynamic, strong, esoteric programming language. All of the keywords/statements are from Rick Astley's lyrics. Discord server: 
 - [heyzec/Inkscape-Extensions](https://github.com/heyzec/Inkscape-Extensions) - Some extensions for Inkscape
 - [akkana/gimp-plugins](https://github.com/akkana/gimp-plugins) - GIMP plug-ins, scripts and helpers
-- [Thomashighbaugh/qtile](https://github.com/Thomashighbaugh/qtile) - I continue plummeting into the depts of Linux
 - [Lifesgood123/unixpornposter](https://github.com/Lifesgood123/unixpornposter) - 
 - [demisto/content](https://github.com/demisto/content) - Demisto is now Cortex XSOAR. Automate and orchestrate your Security Operations with Cortex XSOAR's ever-growing Content Repository. Pull Requests are always welcome and highly appreciated!
 - [awesometoolbox/otf2ttf](https://github.com/awesometoolbox/otf2ttf) - Convert OpenType Font (OTF) to TrueType Font (TTF) format using fonttools.
@@ -1781,6 +1778,11 @@
 
 ## Shell 
 
+- [marrobHD/proxmox-tools](https://github.com/marrobHD/proxmox-tools) - 📦 A collection of stuff that I and others wrote for Proxmox 📦
+- [alexanderepstein/Bash-Snippets](https://github.com/alexanderepstein/Bash-Snippets) - A collection of small bash scripts for heavy terminal users
+- [bensuperpc/scripts](https://github.com/bensuperpc/scripts) - Collection of useful scripts for Linux (git, docker, LUKS, Archlinux...)
+- [bensuperpc/docker-scripts](https://github.com/bensuperpc/docker-scripts) - Collection of useful scripts for docker
+- [Thomashighbaugh/color-scripts](https://github.com/Thomashighbaugh/color-scripts) - Shell Color Script Management Utility
 - [0xsamrath/.dotfiles](https://github.com/0xsamrath/.dotfiles) - My fish, alacritty, iterm2, tmux, nvim, tmux, discoss and zathura configs!
 - [TermuxHackz/wifi-hacker](https://github.com/TermuxHackz/wifi-hacker) - Shell Script For Attacking Wireless Connections Using Built-In Kali Tools. Supports All Securities (WEP, WPS, WPA, WPA2)
 - [intrntbrn/awesomewm-vim-tmux-navigator](https://github.com/intrntbrn/awesomewm-vim-tmux-navigator) - Navigate seamlessly between system windows, vim splits and tmux panes by only using awesomewm navigation keybindings.
@@ -2270,7 +2272,6 @@
 
 - [SamirM-BE/ErasMail](https://github.com/SamirM-BE/ErasMail) - An open source tool for cleaning email boxes and saving the planet
 - [Schrodinger-Hat/ImageGoNord](https://github.com/Schrodinger-Hat/ImageGoNord) - A tool that can convert your rgb images to nordtheme palette
-- [Thomashighbaugh/vue](https://github.com/Thomashighbaugh/vue) - 
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
 - [lostdesign/webgems](https://github.com/lostdesign/webgems) - A curated list of resources for devs and designers. Join me on devcord.com if you are up for a chit chat :)
 - [Litarvan/lightdm-webkit-theme-litarvan](https://github.com/Litarvan/lightdm-webkit-theme-litarvan) - Litarvan's LightDM HTML Theme
