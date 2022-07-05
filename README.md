@@ -81,6 +81,9 @@
 
 ## C 
 
+- [Arian8j2/picom-jonaburg-fix](https://github.com/Arian8j2/picom-jonaburg-fix) - fork of junaburg's picom fork with a patch for rounded corners and shadows
+- [jzbor/pademelon](https://github.com/jzbor/pademelon) - 
+- [pijulius/picom](https://github.com/pijulius/picom) - A lightweight compositor for X11
 - [dccsillag/picom](https://github.com/dccsillag/picom) - A lightweight compositor for X11
 - [hc0d3r/alfheim](https://github.com/hc0d3r/alfheim) - a linux process hacker tool
 - [lealoureiro/awesome-pa-utility](https://github.com/lealoureiro/awesome-pa-utility) - Utility to listen for PulseAudio server changes and update AwesomeWM widgets.
@@ -210,6 +213,8 @@
 
 ## CSS 
 
+- [nullgorithm/fonts](https://github.com/nullgorithm/fonts) - My font collection I use for my Windows machine.
+- [saminyasar004/fonts](https://github.com/saminyasar004/fonts) - Here I put all of my fonts that I use while I'm coding.
 - [Burakbo/NightlyFox](https://github.com/Burakbo/NightlyFox) - 🦊🌑 a pretty Firefox customization
 - [fontsource/fontsource](https://github.com/fontsource/fontsource) - Self-host Open Source fonts in neatly bundled NPM packages.
 - [johnpaulada/pandoc-markdown-book-template](https://github.com/johnpaulada/pandoc-markdown-book-template) - A template for creating epub books from markdown using pandoc.
@@ -458,7 +463,6 @@
 
 - [StefanoCecere/markdown_pandoc_book_template](https://github.com/StefanoCecere/markdown_pandoc_book_template) - a template to create pdf/ePub/html/docx books by Markdown via Pandoc
 - [festackcode/dev-fonts](https://github.com/festackcode/dev-fonts) - 
-- [chriskempson/base16-builder](https://github.com/chriskempson/base16-builder) - Deprecated, not accepting PRs, please see Readme.
 - [rmayobre/scripted-selfhost](https://github.com/rmayobre/scripted-selfhost) - A collection of scripts, docker stacks, and general help with self hosting private services.
 - [the-Electric-Tantra-Linux/electric-tantra-linux-iso](https://github.com/the-Electric-Tantra-Linux/electric-tantra-linux-iso) - 
 - [argyleink/gui-challenges](https://github.com/argyleink/gui-challenges) - Components from the YouTube show GUI Challenges: accessible, responsive, adaptive and cross browser components.
@@ -559,6 +563,8 @@
 
 ## JavaScript 
 
+- [notion-enhancer/desktop](https://github.com/notion-enhancer/desktop) - an enhancer/customiser for the all-in-one productivity workspace notion.so (app)
+- [Broomber/vice-city-menu](https://github.com/Broomber/vice-city-menu) - Trying to create a semblance of the main menu of the "Grand Theft Auto - Vice City" game.
 - [furcan/IconPicker](https://github.com/furcan/IconPicker) - Use the Font Awesome Icons (Font Awesome Free v5.11.2) in your HTML forms. (1544 icons)
 - [heysagnik/Linkees](https://github.com/heysagnik/Linkees) - Awesome Linktree clone made with React ⚛️
 - [4cm4k1/personal-website](https://github.com/4cm4k1/personal-website) - Personal website – made with Next.js, Preact, MDX, RMWC, & Vercel
@@ -688,7 +694,7 @@
 - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
 - [cssinjs/jss](https://github.com/cssinjs/jss) - JSS is an authoring tool for CSS which uses JavaScript as a host language.
 - [Thomashighbaugh/cv-generator](https://github.com/Thomashighbaugh/cv-generator) - A quick cover letter generator, takes input in prompt boxes and outputs text that's easy to copy. For streamlining job applications.
-- [forwardemail/email-templates](https://github.com/forwardemail/email-templates) - :mailbox: Create, preview, and send custom email templates for Node.js. Highly configurable and supports automatic inline CSS, stylesheets, embedded images and fonts, and much more!
+- [forwardemail/email-templates](https://github.com/forwardemail/email-templates) - :mailbox: Create, preview, and send custom email templates for Node.js. Highly configurable and supports automatic inline CSS, stylesheets, embedded images and fonts, and much more! Made for @forwarde
 - [Thomashighbaugh/play.tailwindcss.com](https://github.com/Thomashighbaugh/play.tailwindcss.com) - 
 - [Thomashighbaugh/Opitx](https://github.com/Thomashighbaugh/Opitx) - A Markdown Editor for Those Who Are Tired of Loosing Their Work
 - [Thomashighbaugh/resurgens-iv](https://github.com/Thomashighbaugh/resurgens-iv) - The Fourth Resurgens Portfolio Site. Featuring React!!!
@@ -884,7 +890,7 @@
 
 ## Latte 
 
-- [Blacksuan19/Dotfiles](https://github.com/Blacksuan19/Dotfiles) - various configurations for various packages
+- [Blacksuan19/Dotfiles](https://github.com/Blacksuan19/Dotfiles) - KDE Plasma for twm users.
 
 ## Less 
 
@@ -892,6 +898,8 @@
 
 ## Lua 
 
+- [bytes-chaser/neon-dream](https://github.com/bytes-chaser/neon-dream) - AwesomeWM setup
+- [manilarome/awesome-glorious-widgets](https://github.com/manilarome/awesome-glorious-widgets) - A stash of widgets I wrote while ricing
 - [davemackintosh/vex](https://github.com/davemackintosh/vex) - My first theme for @awesomeWM, minimal, simple.
 - [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins
 - [jaeheonji/nvim](https://github.com/jaeheonji/nvim) - Easy and IDE-like pre configured Neovim with Lua 🚀
@@ -1255,6 +1263,7 @@
 
 ## Makefile 
 
+- [japanese-goblinn/knowledge-base](https://github.com/japanese-goblinn/knowledge-base) - Collection of almost everything I know
 - [pierres/archiso-manager](https://github.com/pierres/archiso-manager) - 
 - [infectedmushi/android_device_oneplus_instantnoodle-dev](https://github.com/infectedmushi/android_device_oneplus_instantnoodle-dev) - TWRP tree Unified for OnePlus 8/8 Pro (instantnoodle, instantnoodlep)
 - [lyz-code/blue-book](https://github.com/lyz-code/blue-book) - My personal knowledge repository
@@ -1305,6 +1314,8 @@
 
 ## Others 
 
+- [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
+- [ltfred/code-font](https://github.com/ltfred/code-font) - 收录编程字体
 - [MCotocel/dotfiles](https://github.com/MCotocel/dotfiles) - There's no place like ~/
 - [dylanaraps/writing-a-tui-in-bash](https://github.com/dylanaraps/writing-a-tui-in-bash) - How to write a TUI in BASH
 - [addy-dclxvi/bitmap-font-collections](https://github.com/addy-dclxvi/bitmap-font-collections) - Custom bitmap fonts, based on M+, Tewi, Lemon, and Siji
@@ -1502,7 +1513,6 @@
 ## PHP 
 
 - [JulianPrieber/littlelink-custom](https://github.com/JulianPrieber/littlelink-custom) - LittleLink Custom is a fork of LittleLink Admin with a set goal of making the admin panel easier to use and setup, for inexperienced and first-time users, with the addition of many custom features the
-- [chriskempson/base16-builder-php](https://github.com/chriskempson/base16-builder-php) - A PHP implementation of a base16 builder
 - [mcreef/LinkEasy](https://github.com/mcreef/LinkEasy) - Minimalistic self-hosted "Linktree" or "LinkedIn Bio" alternative.
 - [DenverCoder1/Minimalistic-Wallpaper-Collection](https://github.com/DenverCoder1/Minimalistic-Wallpaper-Collection) - Minimalistic, flat art, and colorful, digital nature wallpapers and an API for randomly selecting them
 - [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) - PrestaShop is an Open Source e-commerce platform, committed to providing the best shopping cart experience for both merchants and customers.
@@ -1528,6 +1538,7 @@
 
 ## Python 
 
+- [openai/Video-Pre-Training](https://github.com/openai/Video-Pre-Training) - Video PreTraining (VPT): Learning to Act by Watching Unlabeled Online Videos
 - [MrPowerScripts/reddit-karma-farming-bot](https://github.com/MrPowerScripts/reddit-karma-farming-bot) - "Is karma really that important to you? Damn bro, you need a life" - YouTube Comment
 - [vm03/payload_dumper](https://github.com/vm03/payload_dumper) - Android OTA payload dumper
 - [spinlud/py-linkedin-jobs-scraper](https://github.com/spinlud/py-linkedin-jobs-scraper) - 
@@ -1558,7 +1569,7 @@
 - [Python-World/python-mini-projects](https://github.com/Python-World/python-mini-projects) - A collection of simple python mini projects to enhance your python skills
 - [DedSecInside/Awesome-Scripts](https://github.com/DedSecInside/Awesome-Scripts) - A collection of awesome scripts from developers around the globe.
 - [flaport/home](https://github.com/flaport/home) - My Portable Linux Home Folder
-- [Bhupesh-V/til](https://github.com/Bhupesh-V/til) - Personal Wiki of Interesting things I learn every day at the intersection of software, life & stuff aka my second brain 🧠️
+- [Bhupesh-V/til](https://github.com/Bhupesh-V/til) - Personal Wiki of Interesting things I learn every day at the intersection of software, life & stuff a.k.a my second brain 🧠️
 - [0xAX/linux-insides](https://github.com/0xAX/linux-insides) - A little bit about a linux kernel
 - [pinry/pinry](https://github.com/pinry/pinry) - Pinry, a tiling image board system for people who want to save, tag, and share images, videos and webpages in an easy to skim through format. It's open-source and self-hosted.
 - [AcierP/CryptoChecker](https://github.com/AcierP/CryptoChecker) - A discord.py-based bitcoin confirmations checker and notifier.
@@ -2107,6 +2118,7 @@
 
 ## Svelte 
 
+- [perfect-things/perfect-home](https://github.com/perfect-things/perfect-home) - firefox newtab/home replacement
 - [catchspider2002/svelte-svg-patterns](https://github.com/catchspider2002/svelte-svg-patterns) - Create seamless patterns in SVG to use as website backgrounds, header images, stationery design and package design
 - [EddieHubCommunity/good-first-issue-finder](https://github.com/EddieHubCommunity/good-first-issue-finder) - Issue-Crawler for Github based on Sveltekit
 
@@ -2251,6 +2263,7 @@
 
 ## Vim script 
 
+- [issadarkthing/artix-dotfiles](https://github.com/issadarkthing/artix-dotfiles) - My Artix linux dotfiles
 - [developersIndia/jarvim](https://github.com/developersIndia/jarvim) - A sensible IDE-like configuration for Neovim
 - [Ham5andw1ch/NewDots](https://github.com/Ham5andw1ch/NewDots) - Updated dotfiles since I'm too lazy to touch the old repo.
 - [zanshin/dotfiles](https://github.com/zanshin/dotfiles) - My dotfiles.
