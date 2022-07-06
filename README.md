@@ -81,6 +81,8 @@
 
 ## C 
 
+- [gch1p/alsa-volume-monitor](https://github.com/gch1p/alsa-volume-monitor) - 
+- [troglobit/xplugd](https://github.com/troglobit/xplugd) - Monitor, keyboard, and mouse plug/unplug helper for X
 - [Arian8j2/picom-jonaburg-fix](https://github.com/Arian8j2/picom-jonaburg-fix) - fork of junaburg's picom fork with a patch for rounded corners and shadows
 - [jzbor/pademelon](https://github.com/jzbor/pademelon) - 
 - [pijulius/picom](https://github.com/pijulius/picom) - A lightweight compositor for X11
@@ -369,6 +371,7 @@
 
 ## Emacs Lisp 
 
+- [shtwzrd/friar](https://github.com/shtwzrd/friar) - Emacs REPL for interacting with AwesomeWM
 - [willbush/system](https://github.com/willbush/system) - The system configuration of a professional yak shaver
 - [russmatney/dotfiles](https://github.com/russmatney/dotfiles) - Doom Emacs, a few-years old vim config, tmux, i3, zsh, polybar
 - [meain/dotfiles](https://github.com/meain/dotfiles) - If there is a shell, there is a way!
@@ -898,6 +901,17 @@
 
 ## Lua 
 
+- [iacchus/awesomewm-capslock-widget](https://github.com/iacchus/awesomewm-capslock-widget) - AwesomeWM widget that shows Caps_Lock status
+- [cool-cool-sweat/fenetre](https://github.com/cool-cool-sweat/fenetre) - awesome 4 wibar global titlebar with client title + controls/property indicators
+- [WillPower3309/awesome-widgets](https://github.com/WillPower3309/awesome-widgets) - A collection of various widgets I've developed for awesomewm
+- [stefano-m/awesome-connman_widget](https://github.com/stefano-m/awesome-connman_widget) - A widget for the Awesome Window Manager to monitor the network with Connman
+- [pouyanh/carrot](https://github.com/pouyanh/carrot) - Carrot awesomeWM personalization application
+- [Elv13/blind](https://github.com/Elv13/blind) - An pack of advanced themes for Awesome WM
+- [stefano-m/awesome-pulseaudio_widget](https://github.com/stefano-m/awesome-pulseaudio_widget) - PulseAudio widgtet for the Awesome Window Manager that uses DBus
+- [echuraev/keyboard_layout](https://github.com/echuraev/keyboard_layout) - Keyboard switcher for Awesome WM with additional layouts
+- [gvalkov/awesome-ezconfig](https://github.com/gvalkov/awesome-ezconfig) - Easier key and button setup for awesome wm
+- [berlam/awesome-upower-battery](https://github.com/berlam/awesome-upower-battery) - Battery widget for awesomewm using upower
+- [berlam/awesome-remember-geometry](https://github.com/berlam/awesome-remember-geometry) - Remember client location when switching between floating, tiling and maximized
 - [bytes-chaser/neon-dream](https://github.com/bytes-chaser/neon-dream) - AwesomeWM setup
 - [manilarome/awesome-glorious-widgets](https://github.com/manilarome/awesome-glorious-widgets) - A stash of widgets I wrote while ricing
 - [davemackintosh/vex](https://github.com/davemackintosh/vex) - My first theme for @awesomeWM, minimal, simple.
@@ -1314,6 +1328,7 @@
 
 ## Others 
 
+- [szorfein/unix-portfolio](https://github.com/szorfein/unix-portfolio) - Screenshots of my many themes (uncompressed)
 - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
 - [ltfred/code-font](https://github.com/ltfred/code-font) - 收录编程字体
 - [MCotocel/dotfiles](https://github.com/MCotocel/dotfiles) - There's no place like ~/
@@ -1742,6 +1757,7 @@
 
 ## Rust 
 
+- [wezm/bar](https://github.com/wezm/bar) - A bar that lives in the awesome window manager wibar
 - [SuperCuber/dotter](https://github.com/SuperCuber/dotter) - A dotfile manager and templater written in rust 🦀
 - [r-darwish/alma](https://github.com/r-darwish/alma) - Create Arch Linux based bootable USB drives
 - [sunface/rust-by-practice](https://github.com/sunface/rust-by-practice) - Learning Rust By Practice,  narrowing the gap between beginner and skilled-dev with challenging examples, exercises and projects.
@@ -1804,6 +1820,7 @@
 
 ## Shell 
 
+- [elw00d/awesome-deb-docker](https://github.com/elw00d/awesome-deb-docker) - Dockerfile that builds deb package (unofficial) with fresh awesomewm
 - [kstep/zsh-config](https://github.com/kstep/zsh-config) - 
 - [hoelzro/zsh-config](https://github.com/hoelzro/zsh-config) - My ZSH configuration
 - [marrobHD/proxmox-tools](https://github.com/marrobHD/proxmox-tools) - 📦 A collection of stuff that I and others wrote for Proxmox 📦
