@@ -540,7 +540,7 @@
 
 ## Haskell 
 
-- [srid/neuron](https://github.com/srid/neuron) - Future-proof note-taking and publishing based on Zettelkasten
+- [srid/neuron](https://github.com/srid/neuron) - Future-proof note-taking and publishing based on Zettelkasten (superseded by Emanote: https://github.com/srid/emanote)
 - [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 - [phuhl/linux_notification_center](https://github.com/phuhl/linux_notification_center) - A notification daemon/center for linux
@@ -901,6 +901,10 @@
 
 ## Lua 
 
+- [unusualpepe/awesome-systray-switcher](https://github.com/unusualpepe/awesome-systray-switcher) - Move the systray to the focused screen on awesome window manager
+- [minh-p/awesomewm-blue-cacti](https://github.com/minh-p/awesomewm-blue-cacti) - An awesomewm rice.
+- [polypoyo/awesome](https://github.com/polypoyo/awesome) - A pretty awesome awesome configuration
+- [sadmice/dotfiles](https://github.com/sadmice/dotfiles) - AwesomeWM dotfiles
 - [iacchus/awesomewm-capslock-widget](https://github.com/iacchus/awesomewm-capslock-widget) - AwesomeWM widget that shows Caps_Lock status
 - [cool-cool-sweat/fenetre](https://github.com/cool-cool-sweat/fenetre) - awesome 4 wibar global titlebar with client title + controls/property indicators
 - [WillPower3309/awesome-widgets](https://github.com/WillPower3309/awesome-widgets) - A collection of various widgets I've developed for awesomewm
@@ -1677,7 +1681,7 @@
 - [Davide-sd/GIMP-style-transfer](https://github.com/Davide-sd/GIMP-style-transfer) - GIMP plugin that enable the style transfer functionality thanks to artificial intelligence algorithms
 - [fluix-dev/dotfiles](https://github.com/fluix-dev/dotfiles) - My dotfiles and colorschemes for sway and a variety of other programs.
 - [hijkzzz/prisma](https://github.com/hijkzzz/prisma) - Prisma
-- [Lightning-AI/lightning](https://github.com/Lightning-AI/lightning) - Build high-performance AI models with PyTorch Lightning (organized PyTorch). Deploy models with Lightning Apps (organized Python to build end-to-end ML systems).
+- [Lightning-AI/lightning](https://github.com/Lightning-AI/lightning) - The most intuitive, flexible, way for researchers, ML engineers and data scientists to build models (with PyTorch) and ML systems for the ML lifecycle with an obsessive focus on flexibility and perfor
 - [fennerm/flashfocus](https://github.com/fennerm/flashfocus) - Simple focus animations for tiling window managers.
 - [isyuck/dotfiles](https://github.com/isyuck/dotfiles) - linux/osx
 - [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 150 supported car makes and models.
@@ -2154,7 +2158,7 @@
 - [ant-design/ant-design-icons](https://github.com/ant-design/ant-design-icons) - ⭐ Ant Design SVG Icons
 - [react-icons/react-icons](https://github.com/react-icons/react-icons) - svg react icons of popular icon packs
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - SiYuan is a local-first personal knowledge management system, supports fine-grained block-level reference, and Markdown WYSIWYG. 思源笔记是一款本地优先的个人知识管理系统， 支持细粒度块级引用和 Markdown 所见即所得。Roadmap https://github.
-- [0xNaut/web3-link-tree](https://github.com/0xNaut/web3-link-tree) - (🔗, 🌲) Web3 Link Tree is a free & open-source alternative to Linktree built with React.js, Next.js, Tailwind and Web3-React
+- [noahdotms/web3-link-tree](https://github.com/noahdotms/web3-link-tree) - (🔗, 🌲) Web3 Link Tree is a free & open-source alternative to Linktree built with React.js, Next.js, Tailwind and Web3-React
 - [cosmoscout/tasty.js](https://github.com/cosmoscout/tasty.js) - 🍰 A delicious Pie- and Marking-Menu Framework written in TypeScript.
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
 - [anirudhvarma12/rabbit-hole-webext](https://github.com/anirudhvarma12/rabbit-hole-webext) - A Browser Extension to trace your Wikipedia Journeys
