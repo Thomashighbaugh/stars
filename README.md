@@ -566,6 +566,8 @@
 
 ## JavaScript 
 
+- [DavidWells/advanced-markdown](https://github.com/DavidWells/advanced-markdown) - Learn about advanced markdown techniques
+- [DavidWells/markdown-magic](https://github.com/DavidWells/markdown-magic) - 💫  Automatically format markdown files using comment blocks. Update contents via custom transforms, external data sources & your source code.
 - [notion-enhancer/desktop](https://github.com/notion-enhancer/desktop) - an enhancer/customiser for the all-in-one productivity workspace notion.so (app)
 - [Broomber/vice-city-menu](https://github.com/Broomber/vice-city-menu) - Trying to create a semblance of the main menu of the "Grand Theft Auto - Vice City" game.
 - [furcan/IconPicker](https://github.com/furcan/IconPicker) - Use the Font Awesome Icons (Font Awesome Free v5.11.2) in your HTML forms. (1544 icons)
@@ -901,6 +903,9 @@
 
 ## Lua 
 
+- [RyaWcksn/Neko-Vim](https://github.com/RyaWcksn/Neko-Vim) - Neovim distribution, IDE wannabe
+- [bryant-the-coder/NvHack](https://github.com/bryant-the-coder/NvHack) - My personal Neovim config / NvHack entirely written in Lua
+- [tjdevries/config_manager](https://github.com/tjdevries/config_manager) - My configuration files and tools
 - [unusualpepe/awesome-systray-switcher](https://github.com/unusualpepe/awesome-systray-switcher) - Move the systray to the focused screen on awesome window manager
 - [minh-p/awesomewm-blue-cacti](https://github.com/minh-p/awesomewm-blue-cacti) - An awesomewm rice.
 - [polypoyo/awesome](https://github.com/polypoyo/awesome) - A pretty awesome awesome configuration
@@ -1824,6 +1829,7 @@
 
 ## Shell 
 
+- [jaromaz/MacintoshPi](https://github.com/jaromaz/MacintoshPi) - A small project that allows running full-screen versions of Apple's Mac OS 7, Mac OS 8 and Mac OS 9 with sound, active online connection and modem emulation under Raspberry Pi.
 - [simoniz0r/OpenDM](https://github.com/simoniz0r/OpenDM) - WIP - A simple GUI Display Manager written entirely in bash that uses xinit to start X sessions
 - [elw00d/awesome-deb-docker](https://github.com/elw00d/awesome-deb-docker) - Dockerfile that builds deb package (unofficial) with fresh awesomewm
 - [kstep/zsh-config](https://github.com/kstep/zsh-config) - 
