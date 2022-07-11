@@ -81,6 +81,7 @@
 
 ## C 
 
+- [ForgedTurbo/ThinkPad-Fan-Control](https://github.com/ForgedTurbo/ThinkPad-Fan-Control) - GUI App for Fan Speed Management on ThinkPad Laptops on Linux
 - [gch1p/alsa-volume-monitor](https://github.com/gch1p/alsa-volume-monitor) - 
 - [troglobit/xplugd](https://github.com/troglobit/xplugd) - Monitor, keyboard, and mouse plug/unplug helper for X
 - [Arian8j2/picom-jonaburg-fix](https://github.com/Arian8j2/picom-jonaburg-fix) - fork of junaburg's picom fork with a patch for rounded corners and shadows
@@ -736,7 +737,7 @@
 - [ankamsarav/demolab](https://github.com/ankamsarav/demolab) - Demolab is my fantasy project created to understand the power of JAMstack using JavaScript(Reactjs), API(Netlify and Aws) and pre-built Markup(Gatsby).
 - [atapas/demolab](https://github.com/atapas/demolab) - Demolab is my fantasy project created to understand the power of JAMstack using JavaScript(Reactjs), API(Netlify and Aws) and pre-built Markup(Gatsby).
 - [atapas/theme-builder](https://github.com/atapas/theme-builder) - The theming system helps you in building a theme of your choice and apply it to test live. Why wait? Just give it a try.
-- [appium/appium](https://github.com/appium/appium) - :iphone: Automation for iOS, Android, and Windows Apps.
+- [appium/appium](https://github.com/appium/appium) - Cross-platform automation framework for all kinds of your apps built on top of W3C WebDriver protocol
 - [balena-io-playground/raspberry-pineapple](https://github.com/balena-io-playground/raspberry-pineapple) - Build your own WiFi Pineapple, with Resin.io and a raspberry pi
 - [JoseRFelix/nextjs-starter-blog](https://github.com/JoseRFelix/nextjs-starter-blog) - Next.js template for creating a blog. Now with dark mode and Next.js 12 🎉
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
@@ -903,6 +904,8 @@
 
 ## Lua 
 
+- [edluffy/specs.nvim](https://github.com/edluffy/specs.nvim) - 👓 A fast and lightweight Neovim lua plugin to keep an eye on where your cursor has jumped.
+- [sidebar-nvim/sidebar.nvim](https://github.com/sidebar-nvim/sidebar.nvim) - A generic and modular lua sidebar for Neovim
 - [RyaWcksn/Neko-Vim](https://github.com/RyaWcksn/Neko-Vim) - Neovim distribution, IDE wannabe
 - [bryant-the-coder/NvHack](https://github.com/bryant-the-coder/NvHack) - My personal Neovim config / NvHack entirely written in Lua
 - [tjdevries/config_manager](https://github.com/tjdevries/config_manager) - My configuration files and tools
@@ -1216,7 +1219,7 @@
 - [crater2150/awesomerc](https://github.com/crater2150/awesomerc) - My AwesomeWM config
 - [notnew/awesome-scratch](https://github.com/notnew/awesome-scratch) - scratchpad windows for awesome wm
 - [crater2150/awesome-handy](https://github.com/crater2150/awesome-handy) - Popup programs for awesomewm
-- [legostax/dotfiles-old](https://github.com/legostax/dotfiles-old) - My dotfiles for my setup (AwesomeWM 4.2) and some future dreams
+- [tyrumus/dotfiles-old](https://github.com/tyrumus/dotfiles-old) - My dotfiles for my setup (AwesomeWM 4.2) and some future dreams
 - [Relz/awesome-wm-theme](https://github.com/Relz/awesome-wm-theme) - Awesome WM theme
 - [momofor/dotfiles](https://github.com/momofor/dotfiles) - A collection of dotfiles I have gathered over the months all using the glorious nord color scheme.
 - [Caellian/NightSky](https://github.com/Caellian/NightSky) - My Awesome WM configuration script.
@@ -1578,6 +1581,7 @@
 - [NathanDuma/LinkedIn-Easy-Apply-Bot](https://github.com/NathanDuma/LinkedIn-Easy-Apply-Bot) - Automate LinkedIn Easy Apply job applications and answer application-specific questions.
 - [mikaelkall/HackingAllTheThings](https://github.com/mikaelkall/HackingAllTheThings) - My documentation and tools for learn ethical hacking.
 - [nicolomantini/LinkedIn-Easy-Apply-Bot](https://github.com/nicolomantini/LinkedIn-Easy-Apply-Bot) - Automate the application process on LinkedIn
+- [Mr-Destructive/crossposter](https://github.com/Mr-Destructive/crossposter) - Crosspost your articles to dev.to, codenewbie.org, medium.com and hashnode.com with a single shellscript
 - [roddhjav/pass-import](https://github.com/roddhjav/pass-import) - A pass extension for importing data from most of the existing password manager.
 - [eventuallyc0nsistent/gen-cover-letter](https://github.com/eventuallyc0nsistent/gen-cover-letter) - Generating cover letters is easy as writing to a CSV file and a sample cover letter.
 - [archivy/archivy](https://github.com/archivy/archivy) - Archivy is a self-hostable knowledge repository that allows you to learn and retain information in your own personal and extensible wiki.
@@ -1892,7 +1896,6 @@
 - [lane-brain/void-packages](https://github.com/lane-brain/void-packages) - The Void source packages collection
 - [the-Electric-Tantra-Linux/void-packages](https://github.com/the-Electric-Tantra-Linux/void-packages) - Deprecated for the time being, since I have moved back to systemd-based Arch.
 - [storagedaemon/dotfiles](https://github.com/storagedaemon/dotfiles) - 
-- [Mr-Destructive/crossposter](https://github.com/Mr-Destructive/crossposter) - Crosspost your articles to dev.to, codenewbie.org, medium.com and hashnode.com with a single shellscript
 - [sstallion/vimwiki-skel](https://github.com/sstallion/vimwiki-skel) - Skeleton for seeding new Vimwiki instances
 - [regolith-linux/regolith-styles](https://github.com/regolith-linux/regolith-styles) - A convention for organizing Xresource-based theme data.
 - [VirenMohindra/Cover-Letter-Generator](https://github.com/VirenMohindra/Cover-Letter-Generator) - Bash script which takes in variables and outputs a pdf with personalized signature. Highly customizable.
