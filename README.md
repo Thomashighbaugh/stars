@@ -567,6 +567,7 @@
 
 ## JavaScript 
 
+- [paperwm/PaperWM](https://github.com/paperwm/PaperWM) - Tiled scrollable window management for Gnome Shell
 - [DavidWells/advanced-markdown](https://github.com/DavidWells/advanced-markdown) - Learn about advanced markdown techniques
 - [DavidWells/markdown-magic](https://github.com/DavidWells/markdown-magic) - 💫  Automatically format markdown files using comment blocks. Update contents via custom transforms, external data sources & your source code.
 - [notion-enhancer/desktop](https://github.com/notion-enhancer/desktop) - an enhancer/customiser for the all-in-one productivity workspace notion.so (app)
@@ -816,7 +817,7 @@
 - [mohannadsh/react-redux-boilerplate](https://github.com/mohannadsh/react-redux-boilerplate) - This is a boilerplate project with Reactjs, Reduc, SASS and Webpack installed, the boilerplate includes the initial structure that you are going to need in almost each project.
 - [ptrckmrgn/react-redux-starter](https://github.com/ptrckmrgn/react-redux-starter) - Simple React Redux template that includes Webpack, Babel, Sass, and basic structure/files.
 - [Lavitr/basic-react-redux-webpack4-boilerplate](https://github.com/Lavitr/basic-react-redux-webpack4-boilerplate) - Basic React-Webpack4 boilerplate with classic file structure  for React/Redux application .
-- [gabdorf/gabriel-adorf-portfolio](https://github.com/gabdorf/gabriel-adorf-portfolio) - Gabriel Adorf's personal website
+- [gabdorf/gatsby-portfolio](https://github.com/gabdorf/gatsby-portfolio) - A template for portolio pages
 - [singhkshitij/My-Landing-Page](https://github.com/singhkshitij/My-Landing-Page) - Minimal Portfolio Page Built with React
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
@@ -904,6 +905,8 @@
 
 ## Lua 
 
+- [larkery/awesome](https://github.com/larkery/awesome) - 
+- [Suyashtnt/dotfiles](https://github.com/Suyashtnt/dotfiles) - My personal dotfiles
 - [edluffy/specs.nvim](https://github.com/edluffy/specs.nvim) - 👓 A fast and lightweight Neovim lua plugin to keep an eye on where your cursor has jumped.
 - [sidebar-nvim/sidebar.nvim](https://github.com/sidebar-nvim/sidebar.nvim) - A generic and modular lua sidebar for Neovim
 - [RyaWcksn/Neko-Vim](https://github.com/RyaWcksn/Neko-Vim) - Neovim distribution, IDE wannabe
@@ -1340,6 +1343,7 @@
 
 ## Others 
 
+- [ReFUI/Artix-Linux-OpenRC-ZFS-iso](https://github.com/ReFUI/Artix-Linux-OpenRC-ZFS-iso) - This is simply a default Artix Linux iso with zfs-dkms installed on it  for ease of installation, linux kernel artix 8.5.3. Wanted to upload it so yall dont have to go through the hassle of installing
 - [szorfein/unix-portfolio](https://github.com/szorfein/unix-portfolio) - Screenshots of my many themes (uncompressed)
 - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
 - [ltfred/code-font](https://github.com/ltfred/code-font) - 收录编程字体
@@ -1581,7 +1585,7 @@
 - [NathanDuma/LinkedIn-Easy-Apply-Bot](https://github.com/NathanDuma/LinkedIn-Easy-Apply-Bot) - Automate LinkedIn Easy Apply job applications and answer application-specific questions.
 - [mikaelkall/HackingAllTheThings](https://github.com/mikaelkall/HackingAllTheThings) - My documentation and tools for learn ethical hacking.
 - [nicolomantini/LinkedIn-Easy-Apply-Bot](https://github.com/nicolomantini/LinkedIn-Easy-Apply-Bot) - Automate the application process on LinkedIn
-- [Mr-Destructive/crossposter](https://github.com/Mr-Destructive/crossposter) - Crosspost your articles to dev.to, codenewbie.org, medium.com and hashnode.com with a single shellscript
+- [Mr-Destructive/crossposter](https://github.com/Mr-Destructive/crossposter) - Crosspost your articles to dev.to, codenewbie.org, medium.com and hashnode.com with a single shellscript / python package
 - [roddhjav/pass-import](https://github.com/roddhjav/pass-import) - A pass extension for importing data from most of the existing password manager.
 - [eventuallyc0nsistent/gen-cover-letter](https://github.com/eventuallyc0nsistent/gen-cover-letter) - Generating cover letters is easy as writing to a CSV file and a sample cover letter.
 - [archivy/archivy](https://github.com/archivy/archivy) - Archivy is a self-hostable knowledge repository that allows you to learn and retain information in your own personal and extensible wiki.
@@ -1833,6 +1837,8 @@
 
 ## Shell 
 
+- [reisub0/artixBootstrap](https://github.com/reisub0/artixBootstrap) - Set up an opinionated artix Linux install in a jiffy
+- [ODEX-TOS/wm-debug](https://github.com/ODEX-TOS/wm-debug) - A simple script to make debugging window manager easier
 - [jaromaz/MacintoshPi](https://github.com/jaromaz/MacintoshPi) - A small project that allows running full-screen versions of Apple's Mac OS 7, Mac OS 8 and Mac OS 9 with sound, active online connection and modem emulation under Raspberry Pi.
 - [simoniz0r/OpenDM](https://github.com/simoniz0r/OpenDM) - WIP - A simple GUI Display Manager written entirely in bash that uses xinit to start X sessions
 - [elw00d/awesome-deb-docker](https://github.com/elw00d/awesome-deb-docker) - Dockerfile that builds deb package (unofficial) with fresh awesomewm
