@@ -81,6 +81,7 @@
 
 ## C 
 
+- [khuedoan/slock](https://github.com/khuedoan/slock) - Suckless simple X display locker fork with transparency effect
 - [ForgedTurbo/ThinkPad-Fan-Control](https://github.com/ForgedTurbo/ThinkPad-Fan-Control) - GUI App for Fan Speed Management on ThinkPad Laptops on Linux
 - [gch1p/alsa-volume-monitor](https://github.com/gch1p/alsa-volume-monitor) - 
 - [troglobit/xplugd](https://github.com/troglobit/xplugd) - Monitor, keyboard, and mouse plug/unplug helper for X
@@ -396,6 +397,7 @@
 
 ## Go 
 
+- [hack4impact-upenn/transcribe4all](https://github.com/hack4impact-upenn/transcribe4all) - Painless speech-to-text transcription
 - [maximumadmin/zramd](https://github.com/maximumadmin/zramd) - Automatically setup swap on zram ✨ with optional systemd support, a simpler alternative to zram-generator and systemd-swap
 - [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features
 - [mudler/edgevpn](https://github.com/mudler/edgevpn) - :sailboat: The immutable, decentralized, statically built p2p VPN without any central server and automatic discovery! Create decentralized introspectable tunnels over p2p with shared tokens
@@ -906,6 +908,7 @@
 
 ## Lua 
 
+- [JannikWibker/awesome-config](https://github.com/JannikWibker/awesome-config) - Awesome WM config
 - [larkery/awesome](https://github.com/larkery/awesome) - 
 - [Suyashtnt/dotfiles](https://github.com/Suyashtnt/dotfiles) - My personal dotfiles
 - [edluffy/specs.nvim](https://github.com/edluffy/specs.nvim) - 👓 A fast and lightweight Neovim lua plugin to keep an eye on where your cursor has jumped.
@@ -940,7 +943,6 @@
 - [nikbrunner/vin](https://github.com/nikbrunner/vin) - This is my personal NeoVim config on which I am working on from time to time, while learning about the whole universe of Vim and NeoVim.
 - [SingularisArt/DeathVim](https://github.com/SingularisArt/DeathVim) - A quick neovim setup.
 - [cubetastic33/dotfiles](https://github.com/cubetastic33/dotfiles) - The dotfiles for my Linux setup
-- [jabuxas/dotfiles](https://github.com/jabuxas/dotfiles) - My dots.
 - [quantrancse/arch-dotfiles](https://github.com/quantrancse/arch-dotfiles) - A fork of elenapan/dotfiles that work on Arch
 - [ThemerCorp/themer.lua](https://github.com/ThemerCorp/themer.lua) - A simple, minimal highlighter plugin for neovim
 - [ner0z/dotfiles](https://github.com/ner0z/dotfiles) - 🍚 rice
@@ -971,7 +973,7 @@
 - [sebth/awesome-overlap](https://github.com/sebth/awesome-overlap) - Overlapping tiling layout for awesome window manager
 - [nwdamgaard/awesomewm-app-drawer](https://github.com/nwdamgaard/awesomewm-app-drawer) - A minimal .desktop launcher for Awesome Window Manager
 - [platinumthinker/awesome_config](https://github.com/platinumthinker/awesome_config) - config for awesome wm
-- [N3k0Ch4n/dotRice](https://github.com/N3k0Ch4n/dotRice) - :rice: Probably my last rice..
+- [N3k0Ch4n/dotRice](https://github.com/N3k0Ch4n/dotRice) - :rice: Beras
 - [atsepkov/awesome-zen](https://github.com/atsepkov/awesome-zen) - Set of widgets/tools for awesome WM for clutter-free environment
 - [GrayJack/configs](https://github.com/GrayJack/configs) - My linux configs files
 - [awesomeWM/awesome-www](https://github.com/awesomeWM/awesome-www) - Website of AwesomeWM
@@ -1041,7 +1043,7 @@
 - [tdy/awesome](https://github.com/tdy/awesome) - Configs for awesomeWM
 - [hoelzro/obvious](https://github.com/hoelzro/obvious) - Widget library for the awesome window manager
 - [DanielFGray/dotfiles](https://github.com/DanielFGray/dotfiles) - personal repo of config files
-- [JavaCafe01/dotnix](https://github.com/JavaCafe01/dotnix) - My desktop and WSL configuration files
+- [JavaCafe01/dotfiles](https://github.com/JavaCafe01/dotfiles) - My desktop and WSL configuration files
 - [onsails/diaglist.nvim](https://github.com/onsails/diaglist.nvim) - Live render workspace diagnostics in quickfix with current buf errors on top, buffer diagnostics in loclist
 - [mickael-menu/zk-nvim](https://github.com/mickael-menu/zk-nvim) - Neovim extension for zk
 - [amirulmenjeni/dotfiles](https://github.com/amirulmenjeni/dotfiles) - My linux desktop config and theme files.
@@ -1570,6 +1572,7 @@
 
 ## Python 
 
+- [karthik558/DDoS-ATTACK](https://github.com/karthik558/DDoS-ATTACK) - A DDoS ATTACK SCRIPT | ONLY FOR EDUCATION PURPOSES | HACKING IS ILLEGAL
 - [openai/Video-Pre-Training](https://github.com/openai/Video-Pre-Training) - Video PreTraining (VPT): Learning to Act by Watching Unlabeled Online Videos
 - [MrPowerScripts/reddit-karma-farming-bot](https://github.com/MrPowerScripts/reddit-karma-farming-bot) - "Is karma really that important to you? Damn bro, you need a life" - YouTube Comment
 - [vm03/payload_dumper](https://github.com/vm03/payload_dumper) - Android OTA payload dumper
@@ -2134,7 +2137,7 @@
 - [kilbith/smi](https://github.com/kilbith/smi) - Simple Multiboot Integrator powered by GRUB
 - [thias/glim](https://github.com/thias/glim) - GRUB Live ISO Multiboot
 - [lilyinstarlight/mkusb](https://github.com/lilyinstarlight/mkusb) - A shell script to create ISO multiboot USB flash drives that support both legacy and EFI boot
-- [grm34/archboot](https://github.com/grm34/archboot) - 💠 Arch Linux Installer
+- [grm34/archboot](https://github.com/grm34/archboot) - 💠 Arch Linux Installer | No more maintained, please use https://github.com/archlinux/archinstall
 - [cbrnix/Newaita](https://github.com/cbrnix/Newaita) - Linux icon theme
 - [Thomashighbaugh/colt45gui](https://github.com/Thomashighbaugh/colt45gui) - Quickly Provision Your Linux Desktop With Useful Applications With a GUI Installer Menu
 - [dvilelaf/alfred](https://github.com/dvilelaf/alfred) - A script to install all your favourite applications and perform the most common tasks in GNU/Linux.
@@ -2168,6 +2171,7 @@
 
 ## TypeScript 
 
+- [abhijhacodes/linkhub](https://github.com/abhijhacodes/linkhub) - Share all your links with just one link &lt;3
 - [GypsyDangerous/OneLink](https://github.com/GypsyDangerous/OneLink) - 🔗 OneLink is a linktree and flowpage clone built with Nextjs, MongoDb, and GraphQL
 - [osmoscraft/osmosmemo](https://github.com/osmoscraft/osmosmemo) - Turn GitHub into a bookmark manager
 - [Shougo/ddc.vim](https://github.com/Shougo/ddc.vim) - Dark deno-powered completion framework for neovim/Vim8
