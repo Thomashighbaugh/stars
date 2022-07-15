@@ -224,7 +224,6 @@
 - [fontsource/fontsource](https://github.com/fontsource/fontsource) - Self-host Open Source fonts in neatly bundled NPM packages.
 - [johnpaulada/pandoc-markdown-book-template](https://github.com/johnpaulada/pandoc-markdown-book-template) - A template for creating epub books from markdown using pandoc.
 - [wikiti/pandoc-book-template](https://github.com/wikiti/pandoc-book-template) - A simple Pandoc template to build documents and ebooks.
-- [Deathemonic/Aesthetic-GTK](https://github.com/Deathemonic/Aesthetic-GTK) - A gtk theme for rxyhn-dotfiles
 - [ricksdomein/Awesome-Theme](https://github.com/ricksdomein/Awesome-Theme) - Configs for my Arch-Linux setup.
 - [AllJavi/dotfiles](https://github.com/AllJavi/dotfiles) - 
 - [EliverLara/Kripton](https://github.com/EliverLara/Kripton) - A dark theme with flat style for GNOME
@@ -496,7 +495,6 @@
 - [daattali/beautiful-jekyll](https://github.com/daattali/beautiful-jekyll) - ✨ Build a beautiful and simple website in literally minutes. Demo at https://beautifuljekyll.com
 - [github/training-kit](https://github.com/github/training-kit) - Open source courseware for Git and GitHub
 - [aave/aave-protocol](https://github.com/aave/aave-protocol) - Aave Protocol Version 1.0 - Decentralized Lending Pools
-- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful personal server OS for self-hosting. Install on a Raspberry Pi 4 or Ubuntu/Debian.
 - [coreui/coreui-free-bootstrap-admin-template](https://github.com/coreui/coreui-free-bootstrap-admin-template) - Free Bootstrap Admin & Dashboard Template
 - [michelegera/tailwindcss-open-template](https://github.com/michelegera/tailwindcss-open-template) - 🛬 An implementation of the “Open” landing page template using Tailwind CSS Boilerplate.
 - [Thomashighbaugh/resurgens3](https://github.com/Thomashighbaugh/resurgens3) - Porfolio site of TLH. Resurgens 3
@@ -578,7 +576,7 @@
 - [furcan/IconPicker](https://github.com/furcan/IconPicker) - Use the Font Awesome Icons (Font Awesome Free v5.11.2) in your HTML forms. (1544 icons)
 - [heysagnik/Linkees](https://github.com/heysagnik/Linkees) - Awesome Linktree clone made with React ⚛️
 - [4cm4k1/personal-website](https://github.com/4cm4k1/personal-website) - Personal website – made with Next.js, Preact, MDX, RMWC, & Vercel
-- [garywill/aboutconfig-menu](https://github.com/garywill/aboutconfig-menu) - Shortcuts to settings in about:config (universal), through a button on toolbar. Firefox userChrome script 🛠️
+- [garywill/aboutconfig-menu](https://github.com/garywill/aboutconfig-menu) - Shortcuts to settings in about:config (universal), through a button on toolbar. Firefox userChrome script (runs on ff102) 🛠️
 - [cliqz-oss/firefox-autoconfigs](https://github.com/cliqz-oss/firefox-autoconfigs) - 
 - [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - 📝 Modern documentation format and toolchain using Git and Markdown
 - [tailwindlabs/heroicons](https://github.com/tailwindlabs/heroicons) - A set of free MIT-licensed high-quality SVG icons for UI development.
@@ -624,7 +622,7 @@
 - [skygear-demo/skypad](https://github.com/skygear-demo/skypad) - Skypad
 - [evolus/pencil](https://github.com/evolus/pencil) - The Pencil Project's unique mission is to build a free and opensource tool for making diagrams and GUI prototyping that everyone can use.
 - [john-smilga/node-express-course](https://github.com/john-smilga/node-express-course) - 
-- [garywill/tabs-at-bottom](https://github.com/garywill/tabs-at-bottom) - Firefox tabbar at bottom of window, userchrome script 🪟
+- [garywill/tabs-at-bottom](https://github.com/garywill/tabs-at-bottom) - Firefox tabbar at bottom of window, userchrome script (runs on ff102) 🪟
 - [aminomancer/uc.css.js](https://github.com/aminomancer/uc.css.js) - A dark indigo CSS theme for Firefox and a large collection of privileged scripts to add new buttons, menus, and behaviors and eliminate nuisances. The theme is similar to other userChrome stylesheets,
 - [MrOtherGuy/fx-autoconfig](https://github.com/MrOtherGuy/fx-autoconfig) - Load custom javascript in browser context
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
@@ -977,7 +975,6 @@
 - [atsepkov/awesome-zen](https://github.com/atsepkov/awesome-zen) - Set of widgets/tools for awesome WM for clutter-free environment
 - [GrayJack/configs](https://github.com/GrayJack/configs) - My linux configs files
 - [awesomeWM/awesome-www](https://github.com/awesomeWM/awesome-www) - Website of AwesomeWM
-- [Miusaky/awdots](https://github.com/Miusaky/awdots) - Collection of dotfiles for Awesome.
 - [nullchilly/dots](https://github.com/nullchilly/dots) - My home is awesome
 - [arsham/awesomewm-config](https://github.com/arsham/awesomewm-config) - Awesome Window Manager config
 - [frabjous/awesome](https://github.com/frabjous/awesome) - Dotfiles for awesomewm
@@ -1370,7 +1367,6 @@
 - [arete/docker-latex](https://github.com/arete/docker-latex) - docker latex image based on glibc voidlinux
 - [SethStormR/Winter](https://github.com/SethStormR/Winter) - Winter icon set is based on WhiteSur, Bloom and Papirus icon set. Autumn is aimed for Deepin DE and elementary OS.
 - [im-yuria/My-Wallpapers](https://github.com/im-yuria/My-Wallpapers) - my wallpaper collection
-- [keithkeekw/Wallpaper](https://github.com/keithkeekw/Wallpaper) - All my wallpaper collection
 - [Blu3Jive001/Wallpapers](https://github.com/Blu3Jive001/Wallpapers) - The definitive collection of wallpapers: by Blu3Jive001
 - [DeusMalsith/wallpaper-collection](https://github.com/DeusMalsith/wallpaper-collection) - 
 - [dennyzhang/popular-github-template](https://github.com/dennyzhang/popular-github-template) - :green_book: Repo Template: Make Your GitHub Repos More Popular
@@ -1999,6 +1995,7 @@
 - [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
 - [bats-core/bats-core](https://github.com/bats-core/bats-core) - Bash Automated Testing System
 - [kubernetes/examples](https://github.com/kubernetes/examples) - Kubernetes application example tutorials
+- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful personal server OS for self-hosting. Install on a Raspberry Pi 4 or Ubuntu/Debian.
 - [kaldi-asr/kaldi](https://github.com/kaldi-asr/kaldi) - kaldi-asr/kaldi is the official location of the Kaldi project.
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [holman/dotfiles](https://github.com/holman/dotfiles) - @holman does dotfiles
