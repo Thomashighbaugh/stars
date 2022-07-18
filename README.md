@@ -1532,7 +1532,6 @@
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [pim-book/exercises](https://github.com/pim-book/exercises) - Solutions, discussions, and approaches to the exercises
 - [numixproject/numix-icon-theme-square](https://github.com/numixproject/numix-icon-theme-square) - Linux packaging for Numix Square
-- [zayronxio/Zafiro-icons](https://github.com/zayronxio/Zafiro-icons) - icon pack flat with light colors
 - [MilanAryal/web-development-resources](https://github.com/MilanAryal/web-development-resources) - A list of open source front-end tools and resources for web designers and developers.
 - [scribusproject/scribus-template-repository](https://github.com/scribusproject/scribus-template-repository) - Find relevant templates for different DTP projects
 - [lauragift21/awesome-learning-resources](https://github.com/lauragift21/awesome-learning-resources) - 🔥 Awesome list of resources on Web Development.
@@ -2145,6 +2144,7 @@
 - [numixproject/numix-cursor-theme](https://github.com/numixproject/numix-cursor-theme) - Numix cursor theme for Linux
 - [gusbemacbe/suru-plus](https://github.com/gusbemacbe/suru-plus) - Suru++ 25 — A cyberpunk, elegant, futuristic and Papirus-like third-party icons theme
 - [simoniz0r/spm](https://github.com/simoniz0r/spm) - spm is a simple commandline package manager written in bash
+- [zayronxio/Zafiro-icons](https://github.com/zayronxio/Zafiro-icons) - icon pack flat with light colors
 - [ohmybash/oh-my-bash](https://github.com/ohmybash/oh-my-bash) - A delightful community-driven framework for managing your bash configuration, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [corbindavenport/creative-cloud-linux](https://github.com/corbindavenport/creative-cloud-linux) - PlayOnLinux install script for Adobe Creative Cloud
 - [Bash-it/bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
