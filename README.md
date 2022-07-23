@@ -81,6 +81,7 @@
 
 ## C 
 
+- [BourgeoisBear/A-E-S-T-H-E-T-I-C](https://github.com/BourgeoisBear/A-E-S-T-H-E-T-I-C) - Makes your words more ＡＥＳＴＨＥＴＩＣ
 - [khuedoan/slock](https://github.com/khuedoan/slock) - Suckless simple X display locker fork with transparency effect
 - [ForgedTurbo/ThinkPad-Fan-Control](https://github.com/ForgedTurbo/ThinkPad-Fan-Control) - GUI App for Fan Speed Management on ThinkPad Laptops on Linux
 - [gch1p/alsa-volume-monitor](https://github.com/gch1p/alsa-volume-monitor) - 
@@ -553,6 +554,7 @@
 
 ## Java 
 
+- [NeoApplications/Neo-Launcher](https://github.com/NeoApplications/Neo-Launcher) - Free and Open Source Launcher.
 - [Neamar/KISS](https://github.com/Neamar/KISS) - Lightning fast, open-source, &lt; 200kb Android launcher
 - [siddhi-io/siddhi](https://github.com/siddhi-io/siddhi) - Stream Processing and Complex Event Processing Engine
 - [NoticEditorTeam/NoticEditor](https://github.com/NoticEditorTeam/NoticEditor) - A hierarchical note editor with markdown support
@@ -702,7 +704,7 @@
 - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
 - [cssinjs/jss](https://github.com/cssinjs/jss) - JSS is an authoring tool for CSS which uses JavaScript as a host language.
 - [Thomashighbaugh/cv-generator](https://github.com/Thomashighbaugh/cv-generator) - A quick cover letter generator, takes input in prompt boxes and outputs text that's easy to copy. For streamlining job applications.
-- [forwardemail/email-templates](https://github.com/forwardemail/email-templates) - :mailbox: Create, preview, and send custom email templates for Node.js. Highly configurable and supports automatic inline CSS, stylesheets, embedded images and fonts, and much more! Made for @forwarde
+- [forwardemail/email-templates](https://github.com/forwardemail/email-templates) - Create, preview (in the browser and in the iOS Simulator), and send custom email templates for Node.js. Highly configurable and supports automatic inline CSS, stylesheets, embedded images and fonts, a
 - [Thomashighbaugh/play.tailwindcss.com](https://github.com/Thomashighbaugh/play.tailwindcss.com) - 
 - [Thomashighbaugh/Opitx](https://github.com/Thomashighbaugh/Opitx) - A Markdown Editor for Those Who Are Tired of Loosing Their Work
 - [Thomashighbaugh/resurgens-iv](https://github.com/Thomashighbaugh/resurgens-iv) - The Fourth Resurgens Portfolio Site. Featuring React!!!
@@ -906,6 +908,7 @@
 
 ## Lua 
 
+- [pagankeymaster/KrakeNvim](https://github.com/pagankeymaster/KrakeNvim) - Blazing-slow and greasy Neovim configurations.
 - [CanKolay3499/CNvim](https://github.com/CanKolay3499/CNvim) - A lightweight Neovim config for web development
 - [JannikWibker/awesome-config](https://github.com/JannikWibker/awesome-config) - Awesome WM config
 - [larkery/awesome](https://github.com/larkery/awesome) - 
@@ -1839,6 +1842,7 @@
 
 ## Shell 
 
+- [pagankeymaster/dots.sh](https://github.com/pagankeymaster/dots.sh) - Bleeding-edge dots.
 - [reisub0/artixBootstrap](https://github.com/reisub0/artixBootstrap) - Set up an opinionated artix Linux install in a jiffy
 - [ODEX-TOS/wm-debug](https://github.com/ODEX-TOS/wm-debug) - A simple script to make debugging window manager easier
 - [jaromaz/MacintoshPi](https://github.com/jaromaz/MacintoshPi) - A small project that allows running full-screen versions of Apple's Mac OS 7, Mac OS 8 and Mac OS 9 with sound, active online connection and modem emulation under Raspberry Pi.
