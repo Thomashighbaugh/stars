@@ -172,6 +172,7 @@
 
 ## C++ 
 
+- [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
 - [Nitrux/maui-shell](https://github.com/Nitrux/maui-shell) - Maui Shell is a convergent shell for desktops, tablets, and phones.
 - [cutefishos-ubuntu/fishui](https://github.com/cutefishos-ubuntu/fishui) - CutefishOS GUI library, based on Qt Quick.
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
@@ -505,7 +506,7 @@
 - [Thomashighbaugh/Opitx-Docs-Site](https://github.com/Thomashighbaugh/Opitx-Docs-Site) - Documentation for Opitx: Minimalist Markdown Editor
 - [Thomashighbaugh/Hello-Class-Javascript](https://github.com/Thomashighbaugh/Hello-Class-Javascript) - A couple about me pages for a class in basic HTML5/CSS3/JS
 - [Thomashighbaugh/email-branding](https://github.com/Thomashighbaugh/email-branding) - The branded emails I use professionally and job searching, now built from scratch!
-- [hyphenc/startpage](https://github.com/hyphenc/startpage) - my startpage. made for 1080p desktops. the links cater to me, probably not to you.
+- [hyphenc/startpage](https://github.com/hyphenc/startpage) - my startpage. made for 1080p desktops.
 - [awesomeWM/awesome-www-backup-old](https://github.com/awesomeWM/awesome-www-backup-old) - Static mirror of the old website
 - [atlemo/SubtlePatterns](https://github.com/atlemo/SubtlePatterns) - All the patterns
 - [jasolisdev/.dotfiles](https://github.com/jasolisdev/.dotfiles) - 
@@ -1326,6 +1327,7 @@
 
 ## Nix 
 
+- [notusknot/dotfiles-nix](https://github.com/notusknot/dotfiles-nix) - Configuration files for my NixOS machine, declared by home-manager
 - [davegallant/nix-config](https://github.com/davegallant/nix-config) - nix configuration for multiple machines
 - [yurrriq/dotfiles](https://github.com/yurrriq/dotfiles) - My (semi-)literate dotfiles for Nix, Emacs, fish, etc, managed with home-manager and GNU Stow
 - [MayNiklas/nixos](https://github.com/MayNiklas/nixos) - My personal NixOS infrastructure
@@ -1583,6 +1585,7 @@
 
 ## Python 
 
+- [deter0/xborder](https://github.com/deter0/xborder) - Active window border replacement for window managers.
 - [nivalderramas/awesomePalettes](https://github.com/nivalderramas/awesomePalettes) - Color Scheme generator for awesomeWM
 - [rdxshubham/instagram-post-scheduler](https://github.com/rdxshubham/instagram-post-scheduler) - Schedule your Instagram Post.
 - [karthik558/DDoS-ATTACK](https://github.com/karthik558/DDoS-ATTACK) - A DDoS ATTACK SCRIPT | ONLY FOR EDUCATION PURPOSES | HACKING IS ILLEGAL
