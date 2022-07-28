@@ -1585,6 +1585,7 @@
 
 ## Python 
 
+- [bdusell/webfont-generator](https://github.com/bdusell/webfont-generator) - Locally convert fonts to web formats and generate CSS rules
 - [deter0/xborder](https://github.com/deter0/xborder) - Active window border replacement for window managers.
 - [nivalderramas/awesomePalettes](https://github.com/nivalderramas/awesomePalettes) - Color Scheme generator for awesomeWM
 - [rdxshubham/instagram-post-scheduler](https://github.com/rdxshubham/instagram-post-scheduler) - Schedule your Instagram Post.
