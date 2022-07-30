@@ -913,6 +913,7 @@
 
 ## Lua 
 
+- [JimmyCozza/bling](https://github.com/JimmyCozza/bling) - Utilities for the awesome window manager
 - [nivalderramas/awesome-config](https://github.com/nivalderramas/awesome-config) - Config files for awesomeWM
 - [nivalderramas/dotfiles](https://github.com/nivalderramas/dotfiles) - Personal dotfiles
 - [sioodmy/dotfiles](https://github.com/sioodmy/dotfiles) - 🌸 Catppuccin themed nixos configuration
