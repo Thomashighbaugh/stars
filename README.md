@@ -40,6 +40,7 @@
 - [MATLAB](#matlab)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
+- [Mathematica](#mathematica)
 - [MoonScript](#moonscript)
 - [Nim](#nim)
 - [Nix](#nix)
@@ -172,6 +173,7 @@
 
 ## C++ 
 
+- [CachyOS/New-Cli-Installer](https://github.com/CachyOS/New-Cli-Installer) - 
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
 - [Nitrux/maui-shell](https://github.com/Nitrux/maui-shell) - Maui Shell is a convergent shell for desktops, tablets, and phones.
 - [cutefishos-ubuntu/fishui](https://github.com/cutefishos-ubuntu/fishui) - CutefishOS GUI library, based on Qt Quick.
@@ -983,7 +985,7 @@
 - [sebth/awesome-overlap](https://github.com/sebth/awesome-overlap) - Overlapping tiling layout for awesome window manager
 - [nwdamgaard/awesomewm-app-drawer](https://github.com/nwdamgaard/awesomewm-app-drawer) - A minimal .desktop launcher for Awesome Window Manager
 - [platinumthinker/awesome_config](https://github.com/platinumthinker/awesome_config) - config for awesome wm
-- [N3k0Ch4n/MyRice](https://github.com/N3k0Ch4n/MyRice) - :rice: Beras
+- [rklyz/MyRice](https://github.com/rklyz/MyRice) - :rice: Beras
 - [atsepkov/awesome-zen](https://github.com/atsepkov/awesome-zen) - Set of widgets/tools for awesome WM for clutter-free environment
 - [GrayJack/configs](https://github.com/GrayJack/configs) - My linux configs files
 - [awesomeWM/awesome-www](https://github.com/awesomeWM/awesome-www) - Website of AwesomeWM
@@ -1251,7 +1253,7 @@
 - [purhan/dotfiles](https://github.com/purhan/dotfiles) - 
 - [piotrklibert/awesome-config](https://github.com/piotrklibert/awesome-config) - Configuration and widgets for Awesome WM in Lua and MoonScript
 - [leafo/moonscript](https://github.com/leafo/moonscript) - :crescent_moon: A language that compiles to Lua
-- [projekt0n/github-nvim-theme](https://github.com/projekt0n/github-nvim-theme) - Github's Neovim and Terminals themes (Unofficial Community-driven)
+- [projekt0n/github-nvim-theme](https://github.com/projekt0n/github-nvim-theme) - Github's Neovim and Terminals themes
 - [diegosalazarCO/awesome-wm](https://github.com/diegosalazarCO/awesome-wm) - Configs for the Awesome Window Manager
 - [elenapan/archlabs-awesome](https://github.com/elenapan/archlabs-awesome) - AwesomeWM flavor for ArchLabs
 - [kotbaton/awesomewm-config](https://github.com/kotbaton/awesomewm-config) - My configuration for awesome WM
@@ -1315,6 +1317,10 @@
 ## Markdown 
 
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
+
+## Mathematica 
+
+- [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 
 ## MoonScript 
 
@@ -1659,7 +1665,6 @@
 - [trezor/trezor-firmware](https://github.com/trezor/trezor-firmware) - :lock: Trezor Firmware Monorepo
 - [mpeterv/hererocks](https://github.com/mpeterv/hererocks) - Python script for installing Lua/LuaJIT and LuaRocks into a local directory
 - [whittlem/pycryptobot](https://github.com/whittlem/pycryptobot) - Python Crypto Bot
-- [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 - [AnwarMEQOR/Edu.Emails](https://github.com/AnwarMEQOR/Edu.Emails) - Edu.Emails: Automatically create .Edu emails.
 - [rmountjoy92/DashMachine](https://github.com/rmountjoy92/DashMachine) - Another web application bookmark dashboard, with fun features.
 - [tuxity/insta-unfollower](https://github.com/tuxity/insta-unfollower) - An Instagram script to unfollow accounts who don't follow-you-back
@@ -1987,7 +1992,7 @@
 - [stark/Color-Scripts](https://github.com/stark/Color-Scripts) - User contributed color scripts
 - [ciiqr/installer-void](https://github.com/ciiqr/installer-void) - void linux iso generator which includes my custom config (ciiqr/config)
 - [ciiqr/installer-ubuntu](https://github.com/ciiqr/installer-ubuntu) - preseed configs and related scripts for setting up ubuntu
-- [F33Z/instashell](https://github.com/F33Z/instashell) - Clone of instashell from thelinuxchoice
+- [itmefeez/instashell](https://github.com/itmefeez/instashell) - Clone of instashell from thelinuxchoice
 - [termuxprofessor/insfollow](https://github.com/termuxprofessor/insfollow) - Best Tool for Increase Instagram Follower.
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [koalagang/KAI](https://github.com/koalagang/KAI) - Koala's Artix Installer
