@@ -1598,7 +1598,6 @@
 - [vm03/payload_dumper](https://github.com/vm03/payload_dumper) - Android OTA payload dumper
 - [spinlud/py-linkedin-jobs-scraper](https://github.com/spinlud/py-linkedin-jobs-scraper) - 
 - [kraanzu/dooit](https://github.com/kraanzu/dooit) - A TUI todo manager
-- [victor7w7r/036raspberry](https://github.com/victor7w7r/036raspberry) - Configuration Scripts for Arch Linux/Raspberry OS Lite and Oracle for Raspberry Pi 4
 - [alexpdr/apps-server](https://github.com/alexpdr/apps-server) - A container based home development server, just copy over dist.* files, set the .env and get rolling!
 - [Asocia/binary-clock-wallpaper](https://github.com/Asocia/binary-clock-wallpaper) - A python script to generate wallpaper that shows time in binary.
 - [chrisvaughn/imap-cleanup](https://github.com/chrisvaughn/imap-cleanup) - Python script to clean out unwanted email via IMAP
@@ -1881,6 +1880,7 @@
 - [intrntbrn/awesomewm-vim-tmux-navigator](https://github.com/intrntbrn/awesomewm-vim-tmux-navigator) - Navigate seamlessly between system windows, vim splits and tmux panes by only using awesomewm navigation keybindings.
 - [GabrielTenma/dotfiles](https://github.com/GabrielTenma/dotfiles) - all of my config linux desktop - and useless file(s)
 - [BPN06/Arch-Linux-ARM-installer](https://github.com/BPN06/Arch-Linux-ARM-installer) - 
+- [victor7w7r/036raspberry](https://github.com/victor7w7r/036raspberry) - Configuration Scripts for Arch Linux/Raspberry OS Lite and Oracle for Raspberry Pi 4
 - [andrewboring/alarm-images](https://github.com/andrewboring/alarm-images) - Arch Linux Arm Base Images for Raspberry Pi
 - [cbrnix/Newaita-reborn](https://github.com/cbrnix/Newaita-reborn) - Remaster Newaia icon theme
 - [Vaeralie/ArchLinux-Maintenance-Script](https://github.com/Vaeralie/ArchLinux-Maintenance-Script) - An all-in-one script that simplifies system maintenance on Arch Linux.
