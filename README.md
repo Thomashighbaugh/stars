@@ -574,6 +574,7 @@
 
 ## JavaScript 
 
+- [rodydavis/material-icon-pack-stream-deck](https://github.com/rodydavis/material-icon-pack-stream-deck) - Material Design icons for the Stream Deck
 - [dharmx/dots.sh](https://github.com/dharmx/dots.sh) - Bleeding-edge dots.
 - [paperwm/PaperWM](https://github.com/paperwm/PaperWM) - Tiled scrollable window management for Gnome Shell
 - [DavidWells/advanced-markdown](https://github.com/DavidWells/advanced-markdown) - Learn about advanced markdown techniques
@@ -914,6 +915,14 @@
 
 ## Lua 
 
+- [8ware/awesome-infinite](https://github.com/8ware/awesome-infinite) - Access your Awesome tags on whichever screen you like
+- [lucifer1708/Awesomewm-Config-Dotfiles](https://github.com/lucifer1708/Awesomewm-Config-Dotfiles) - 
+- [serhez/dotfiles](https://github.com/serhez/dotfiles) - Configuration of my working environment.
+- [senchpimy/awesomewmconfig](https://github.com/senchpimy/awesomewmconfig) - 
+- [magalhaesh/awesome](https://github.com/magalhaesh/awesome) - My AwesomeWM configuration. Tried i3 but didn't like it, sorry.
+- [HashemRadaideh/awesome](https://github.com/HashemRadaideh/awesome) - Awesome window manager, a dynamic tiling wm, or floating? Personal Aweosme(wm) desktop enviroment configuration.
+- [ragu-manjegowda/config](https://github.com/ragu-manjegowda/config) - Profile Management with Git and Github
+- [jadnw/dotfiles](https://github.com/jadnw/dotfiles) - Configurations for Arch Linux setup with AwesomeWM
 - [JimmyCozza/bling](https://github.com/JimmyCozza/bling) - Utilities for the awesome window manager
 - [nivalderramas/awesome-config](https://github.com/nivalderramas/awesome-config) - Config files for awesomeWM
 - [nivalderramas/dotfiles](https://github.com/nivalderramas/dotfiles) - Personal dotfiles
@@ -1860,6 +1869,7 @@
 
 ## Shell 
 
+- [gusbemacbe/suru-plus-aspromauros](https://github.com/gusbemacbe/suru-plus-aspromauros) - A Suru++-like monochromatic icons theme for users of dark environments
 - [axyl-os/axyl-artix-iso](https://github.com/axyl-os/axyl-artix-iso) - Status: (Ready for Testing)
 - [Git-Fal7/artix-buildiso](https://github.com/Git-Fal7/artix-buildiso) - my buildisos for artix linux
 - [dovahkiin0424/artix-install](https://github.com/dovahkiin0424/artix-install) - Simple artix linux installer script. Just clone it and run the .sh file
