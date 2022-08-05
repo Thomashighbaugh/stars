@@ -2248,7 +2248,7 @@
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
 - [trufflesuite/truffle](https://github.com/trufflesuite/truffle) - A tool for developing smart contracts. Crafted with the finest cacaos.
 - [linnovate/mean](https://github.com/linnovate/mean) - The MEAN stack uses Mongo, Express, Angular(6) and Node for simple and scalable fullstack js applications
-- [nitin27may/mean-docker](https://github.com/nitin27may/mean-docker) - A Mean stack (Angular  14.0.0, Expressjs 4.17.1, MongoDB) jump start project with support of docker.
+- [nitin27may/mean-docker](https://github.com/nitin27may/mean-docker) - A Mean stack (Angular  14.1.1, Expressjs 4.17.1, MongoDB) jump start project with support of docker.
 - [saksmt/awesomewm.d.ts](https://github.com/saksmt/awesomewm.d.ts) - typescript typings for awesome-wm based on typescript-to-lua
 - [Rixcy/community](https://github.com/Rixcy/community) - Community SaaS built using Blitzjs
 - [tsamantanis/react-glassmorphism](https://github.com/tsamantanis/react-glassmorphism) - A react UI component library for glassmorphic components
