@@ -1037,7 +1037,7 @@
 - [PlatyPew/format-installer.nvim](https://github.com/PlatyPew/format-installer.nvim) - Neovim plugin for managing formatters/linters
 - [ellisonleao/carbon-now.nvim](https://github.com/ellisonleao/carbon-now.nvim) - Create beautiful code snippets directly from your neovim terminal
 - [brainfucksec/neovim-lua](https://github.com/brainfucksec/neovim-lua) - Neovim KISS configuration with Lua
-- [rxyhn/dotfiles](https://github.com/rxyhn/dotfiles) - My awesomewm dotfiles for awesome people! ✨
+- [rxyhn/yoru](https://github.com/rxyhn/yoru) - 夜 - Yoru | Aesthetic and Beautiful Awesome  Environment :first_quarter_moon:
 - [yurukute/dotfiles](https://github.com/yurukute/dotfiles) - 
 - [pansy27/Dotfiles](https://github.com/pansy27/Dotfiles) - My dotfiles repo
 - [Jeremie1001/awesome-dotfiles](https://github.com/Jeremie1001/awesome-dotfiles) - 
@@ -1808,6 +1808,7 @@
 
 ## Rust 
 
+- [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [wezm/bar](https://github.com/wezm/bar) - A bar that lives in the awesome window manager wibar
 - [SuperCuber/dotter](https://github.com/SuperCuber/dotter) - A dotfile manager and templater written in rust 🦀
 - [r-darwish/alma](https://github.com/r-darwish/alma) - Create Arch Linux based bootable USB drives
