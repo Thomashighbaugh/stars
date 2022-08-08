@@ -14,6 +14,7 @@
 - [CSS](#css)
 - [Clojure](#clojure)
 - [CoffeeScript](#coffeescript)
+- [Common Lisp](#common-lisp)
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
 - [Elixir](#elixir)
@@ -55,6 +56,7 @@
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
+- [SQF](#sqf)
 - [SaltStack](#saltstack)
 - [Scala](#scala)
 - [Scheme](#scheme)
@@ -158,7 +160,6 @@
 - [christophgysin/pasystray](https://github.com/christophgysin/pasystray) - PulseAudio system tray
 - [CristianHenzel/ClipIt](https://github.com/CristianHenzel/ClipIt) - ClipIt clipboard manager for GTK+
 - [conformal/spectrwm](https://github.com/conformal/spectrwm) - A small dynamic tiling window manager for X11.
-- [Embroidermodder/Embroidermodder](https://github.com/Embroidermodder/Embroidermodder) - Free machine embroidery software supporting a variety of formats.
 - [cfenollosa/os-tutorial](https://github.com/cfenollosa/os-tutorial) - How to create an OS from scratch
 
 ## C# # 
@@ -356,6 +357,10 @@
 ## CoffeeScript 
 
 - [glebm/gulp-webpack-react-bootstrap-sass-template](https://github.com/glebm/gulp-webpack-react-bootstrap-sass-template) - Web App Client Template: React. Sass, Coffee, JSX. Bootstrap for Sass. Compiled with Gulp and Webpack.
+
+## Common Lisp 
+
+- [atlas-engineer/nyxt](https://github.com/atlas-engineer/nyxt) - Nyxt - the hacker's power-browser.
 
 ## Dart 
 
@@ -576,6 +581,8 @@
 
 ## JavaScript 
 
+- [Keymorph/notes](https://github.com/Keymorph/notes) - A free note-taking web application.
+- [Keymorph/polywidget](https://github.com/Keymorph/polywidget) - A free web application with helpful widgets.
 - [rodydavis/material-icon-pack-stream-deck](https://github.com/rodydavis/material-icon-pack-stream-deck) - Material Design icons for the Stream Deck
 - [dharmx/dots.sh](https://github.com/dharmx/dots.sh) - Bleeding-edge dots.
 - [paperwm/PaperWM](https://github.com/paperwm/PaperWM) - Tiled scrollable window management for Gnome Shell
@@ -917,6 +924,11 @@
 
 ## Lua 
 
+- [VonHeikemen/dotfiles](https://github.com/VonHeikemen/dotfiles) - 
+- [glepnir/coman.nvim](https://github.com/glepnir/coman.nvim) - neovim plguin for comment and annotation
+- [JryChn/ModuleVim](https://github.com/JryChn/ModuleVim) - A NeoVim configuration
+- [leslie255/nvim-config](https://github.com/leslie255/nvim-config) - A pretty epic NeoVim setup
+- [ecosse3/nvim](https://github.com/ecosse3/nvim) - A non-minimal Neovim config built to work most efficiently with Frontend Development - React & Vue.js
 - [Veratil/awesome-retain](https://github.com/Veratil/awesome-retain) - Awesome Lua module for retaining tags and their layouts between restarts and screen adds/removes
 - [8ware/awesome-infinite](https://github.com/8ware/awesome-infinite) - Access your Awesome tags on whichever screen you like
 - [lucifer1708/Awesomewm-Config-Dotfiles](https://github.com/lucifer1708/Awesomewm-Config-Dotfiles) - 
@@ -925,7 +937,7 @@
 - [magalhaesh/awesome](https://github.com/magalhaesh/awesome) - My AwesomeWM configuration. Tried i3 but didn't like it, sorry.
 - [HashemRadaideh/awesome](https://github.com/HashemRadaideh/awesome) - Awesome window manager, a dynamic tiling wm, or floating? Personal Aweosme(wm) desktop enviroment configuration.
 - [ragu-manjegowda/config](https://github.com/ragu-manjegowda/config) - Profile Management with Git and Github
-- [jadnw/dotfiles](https://github.com/jadnw/dotfiles) - Configurations for Arch Linux setup with AwesomeWM
+- [jadnw/dotfiles1](https://github.com/jadnw/dotfiles1) - Configurations for Arch Linux setup with AwesomeWM
 - [JimmyCozza/bling](https://github.com/JimmyCozza/bling) - Utilities for the awesome window manager
 - [nivalderramas/awesome-config](https://github.com/nivalderramas/awesome-config) - Config files for awesomeWM
 - [nivalderramas/dotfiles](https://github.com/nivalderramas/dotfiles) - Personal dotfiles
@@ -1369,6 +1381,7 @@
 
 ## Others 
 
+- [Thomashighbaugh/Awesome-AwesomeWM-Modules-Widgets-And-Libraries](https://github.com/Thomashighbaugh/Awesome-AwesomeWM-Modules-Widgets-And-Libraries) - A community driven, not-so-curated list of projects you can bolt into your AwesomeWM Configuration
 - [s0md3v/be-a-hacker](https://github.com/s0md3v/be-a-hacker) - roadmap for being a self-taught hacker
 - [fnxln/artixzfs-iso](https://github.com/fnxln/artixzfs-iso) - 
 - [lucasviola/awesome-functional-programming](https://github.com/lucasviola/awesome-functional-programming) - :alien: A curated list of functional programming resources such as blog posts, communities, discussion topics, wikis and more.
@@ -1852,6 +1865,10 @@
 - [mldangelo/personal-site](https://github.com/mldangelo/personal-site) - My personal website - built with React, React-Router, React-Snap for Static-Export, and GitHub Pages.
 - [StarLabsLtd/StarLabsTheme](https://github.com/StarLabsLtd/StarLabsTheme) - Star Labs GNOME Shell and GTK Theme
 - [Thomashighbaugh/startpage](https://github.com/Thomashighbaugh/startpage) - Browser startpage written in Next.js for those not afraid of  serverless hosting.
+
+## SQF 
+
+- [Embroidermodder/Embroidermodder](https://github.com/Embroidermodder/Embroidermodder) - Free machine embroidery software supporting a variety of formats.
 
 ## SaltStack 
 
@@ -2346,6 +2363,7 @@
 
 ## Vim script 
 
+- [jdhao/nvim-config](https://github.com/jdhao/nvim-config) - A modern Neovim configuration with full battery for Python, C++, Markdown, LaTeX, and more...
 - [issadarkthing/artix-dotfiles](https://github.com/issadarkthing/artix-dotfiles) - My Artix linux dotfiles
 - [developersIndia/jarvim](https://github.com/developersIndia/jarvim) - A sensible IDE-like configuration for Neovim
 - [Ham5andw1ch/NewDots](https://github.com/Ham5andw1ch/NewDots) - Updated dotfiles since I'm too lazy to touch the old repo.
