@@ -56,7 +56,6 @@
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
-- [SQF](#sqf)
 - [SaltStack](#saltstack)
 - [Scala](#scala)
 - [Scheme](#scheme)
@@ -83,6 +82,8 @@
 
 ## C 
 
+- [jcs/sdorfehs](https://github.com/jcs/sdorfehs) - A tiling window manager
+- [sardemff7/wayhouse](https://github.com/sardemff7/wayhouse) - A Wayland compositor based on libweston and providing most of Wayland Wall protocols
 - [colinkeenan/silentcast](https://github.com/colinkeenan/silentcast) - Create silent mkv screencast and animated gif.
 - [BourgeoisBear/A-E-S-T-H-E-T-I-C](https://github.com/BourgeoisBear/A-E-S-T-H-E-T-I-C) - Makes your words more ＡＥＳＴＨＥＴＩＣ
 - [khuedoan/slock](https://github.com/khuedoan/slock) - Suckless simple X display locker fork with transparency effect
@@ -160,6 +161,7 @@
 - [christophgysin/pasystray](https://github.com/christophgysin/pasystray) - PulseAudio system tray
 - [CristianHenzel/ClipIt](https://github.com/CristianHenzel/ClipIt) - ClipIt clipboard manager for GTK+
 - [conformal/spectrwm](https://github.com/conformal/spectrwm) - A small dynamic tiling window manager for X11.
+- [Embroidermodder/Embroidermodder](https://github.com/Embroidermodder/Embroidermodder) - Free machine embroidery software supporting a variety of formats.
 - [cfenollosa/os-tutorial](https://github.com/cfenollosa/os-tutorial) - How to create an OS from scratch
 
 ## C# # 
@@ -350,6 +352,7 @@
 
 ## Clojure 
 
+- [Flexiana/notion-to-md](https://github.com/Flexiana/notion-to-md) - A tool for fetching Notion page trees, written in Clojure.
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Desktop app download link: https://github.com/logseq/logseq/releases, roadmap: https://trello.com/b/8txSM12G/roadmap
 - [penpot/penpot](https://github.com/penpot/penpot) - Penpot - The Open-Source design & prototyping platform
 - [mswift42/themecreator](https://github.com/mswift42/themecreator) - https://mswift42.github.io/themecreator/ create themes for intellij, textmate, textadept, atom, emacs, vim and gnome terminal.
@@ -365,6 +368,7 @@
 ## Dart 
 
 - [smartherd/DartTutorial](https://github.com/smartherd/DartTutorial) - Learn Dart Programming, its basics and Fundamentals from scratch.
+- [victor7w7r/036raspberry](https://github.com/victor7w7r/036raspberry) - Configuration Scripts for Arch Linux/Raspberry OS Lite for Raspberry Pi 4
 - [GitJournal/GitJournal](https://github.com/GitJournal/GitJournal) - Mobile first Note Taking integrated with Git
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 
@@ -554,6 +558,7 @@
 
 ## Haskell 
 
+- [abooij/sudbury](https://github.com/abooij/sudbury) - Haskell implementation of the wayland protocol
 - [srid/neuron](https://github.com/srid/neuron) - Future-proof note-taking and publishing based on Zettelkasten (superseded by Emanote: https://github.com/srid/emanote)
 - [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
@@ -581,6 +586,7 @@
 
 ## JavaScript 
 
+- [DanaMW/userChrome.js](https://github.com/DanaMW/userChrome.js) - Scripts for the Firefox extension userChromeJS
 - [Keymorph/notes](https://github.com/Keymorph/notes) - A free note-taking web application.
 - [Keymorph/polywidget](https://github.com/Keymorph/polywidget) - A free web application with helpful widgets.
 - [rodydavis/material-icon-pack-stream-deck](https://github.com/rodydavis/material-icon-pack-stream-deck) - Material Design icons for the Stream Deck
@@ -655,7 +661,7 @@
 - [oddscenes/morning-briefing](https://github.com/oddscenes/morning-briefing) - An open source, local browser homepage app - with custom config and widgets
 - [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - :bathtub: Clean Code concepts adapted for JavaScript
 - [AVS1508/AVS1508.github.io](https://github.com/AVS1508/AVS1508.github.io) - Personal Résumé Website developed using ReactJS and Bootstrap and hosted on Github Pages. Displays my web presence, story, work experience, education, projects, achievements, and contact information.
-- [nextapps-de/winbox](https://github.com/nextapps-de/winbox) - WinBox is a professional HTML5 window manager for the web: lightweight, outstanding performance, no dependencies, fully customizable, open source!
+- [nextapps-de/winbox](https://github.com/nextapps-de/winbox) - WinBox is a modern HTML5 window manager for the web: lightweight, outstanding performance, no dependencies, fully customizable, open source!
 - [vivek9patel/vivek9patel.github.io](https://github.com/vivek9patel/vivek9patel.github.io) - Personal portfolio website of theme Ubuntu 20.04, made using NEXT.js & tailwind CSS
 - [nvni/next-tailwindcss](https://github.com/nvni/next-tailwindcss) - NextJs + Tailwind CSS
 - [feiruo/userChromeJS](https://github.com/feiruo/userChromeJS) - Firefox userChromeJS
@@ -906,6 +912,7 @@
 
 ## Kotlin 
 
+- [udevbe/westford](https://github.com/udevbe/westford) - Westford Wayland Compositor
 - [Chooloo/koler](https://github.com/Chooloo/koler) - Just a phone app.
 - [SimpleMobileTools/Simple-App-Launcher](https://github.com/SimpleMobileTools/Simple-App-Launcher) - A simple holder for favourite apps for quick & easy app launcher icon management
 - [MM2-0/Kvaesitso](https://github.com/MM2-0/Kvaesitso) - A FOSS Android launcher
@@ -971,7 +978,7 @@
 - [manilarome/awesome-glorious-widgets](https://github.com/manilarome/awesome-glorious-widgets) - A stash of widgets I wrote while ricing
 - [davemackintosh/vex](https://github.com/davemackintosh/vex) - My first theme for @awesomeWM, minimal, simple.
 - [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins
-- [jaeheonji/nvim](https://github.com/jaeheonji/nvim) - Easy and IDE-like pre configured Neovim with Lua 🚀
+- [jaeheonji/nvim](https://github.com/jaeheonji/nvim) - Simple and extensible neovim config with awesome community plugins 🚀
 - [alohaia/nvimcfg](https://github.com/alohaia/nvimcfg) - My NeoVim configuration with built-in packer, written in Lua.
 - [Massolari/forem.nvim](https://github.com/Massolari/forem.nvim) - Neovim plugin to read, write and post articles on Forem platforms like dev.to
 - [elairavi/luavim](https://github.com/elairavi/luavim) - Luavim is a simple neovim configuration written in lua, aiming to provide a base config.
@@ -1381,6 +1388,10 @@
 
 ## Others 
 
+- [learn-anything/firefox-extensions](https://github.com/learn-anything/firefox-extensions) - Awesome Firefox Extensions
+- [brettkromkamp/awesome-knowledge-management](https://github.com/brettkromkamp/awesome-knowledge-management) - A curated list of amazingly awesome articles, people, applications, software libraries and projects related to the knowledge management space
+- [matthiasn/talk-transcripts](https://github.com/matthiasn/talk-transcripts) - Transcripts of Clojure-related talks
+- [spencerpauly/awesome-notion](https://github.com/spencerpauly/awesome-notion) - A curated list of awesome Notion related things.
 - [Thomashighbaugh/Awesome-AwesomeWM-Modules-Widgets-And-Libraries](https://github.com/Thomashighbaugh/Awesome-AwesomeWM-Modules-Widgets-And-Libraries) - A community driven, not-so-curated list of projects you can bolt into your AwesomeWM Configuration
 - [s0md3v/be-a-hacker](https://github.com/s0md3v/be-a-hacker) - roadmap for being a self-taught hacker
 - [fnxln/artixzfs-iso](https://github.com/fnxln/artixzfs-iso) - 
@@ -1517,7 +1528,7 @@
 - [karlhorky/learn-to-program](https://github.com/karlhorky/learn-to-program) - Educational resources to learn to program (Foundation in Web Development)
 - [sandoche/Colors-curated-links](https://github.com/sandoche/Colors-curated-links) - A curated list of tools to help you make the best color palettes
 - [sundowndev/hacker-roadmap](https://github.com/sundowndev/hacker-roadmap) - A collection of hacking tools, resources and references to practice ethical hacking.
-- [balena-io-playground/awesome-balena](https://github.com/balena-io-playground/awesome-balena) - A curated list of helpful balena.io resources.
+- [balena-community/awesome-balena](https://github.com/balena-community/awesome-balena) - A curated list of helpful balena community resources.
 - [jovanzers/jovanzers](https://github.com/jovanzers/jovanzers) - Don't just fork, star it! 👀
 - [Thomashighbaugh/Thomashighbaugh](https://github.com/Thomashighbaugh/Thomashighbaugh) - The thing you see when clicking on my username, of course.
 - [AchrafIdir/SublimeText-3211-License-Key-](https://github.com/AchrafIdir/SublimeText-3211-License-Key-) - 
@@ -1612,6 +1623,7 @@
 
 ## Python 
 
+- [qtile/qtile](https://github.com/qtile/qtile) - :cookie: A full-featured, hackable tiling window manager written and configured in Python (X11 + Wayland)
 - [betaboon/nerd-fonts-patcher](https://github.com/betaboon/nerd-fonts-patcher) - nerdfonts-patcher and glyph-sets. noone wants to download 2GB just to patch a font
 - [bdusell/webfont-generator](https://github.com/bdusell/webfont-generator) - Locally convert fonts to web formats and generate CSS rules
 - [deter0/xborder](https://github.com/deter0/xborder) - Active window border replacement for window managers.
@@ -1866,10 +1878,6 @@
 - [StarLabsLtd/StarLabsTheme](https://github.com/StarLabsLtd/StarLabsTheme) - Star Labs GNOME Shell and GTK Theme
 - [Thomashighbaugh/startpage](https://github.com/Thomashighbaugh/startpage) - Browser startpage written in Next.js for those not afraid of  serverless hosting.
 
-## SQF 
-
-- [Embroidermodder/Embroidermodder](https://github.com/Embroidermodder/Embroidermodder) - Free machine embroidery software supporting a variety of formats.
-
 ## SaltStack 
 
 - [Noah-Huppert/linux-install](https://github.com/Noah-Huppert/linux-install) - Void installation
@@ -1911,7 +1919,6 @@
 - [intrntbrn/awesomewm-vim-tmux-navigator](https://github.com/intrntbrn/awesomewm-vim-tmux-navigator) - Navigate seamlessly between system windows, vim splits and tmux panes by only using awesomewm navigation keybindings.
 - [GabrielTenma/dotfiles](https://github.com/GabrielTenma/dotfiles) - all of my config linux desktop - and useless file(s)
 - [BPN06/Arch-Linux-ARM-installer](https://github.com/BPN06/Arch-Linux-ARM-installer) - 
-- [victor7w7r/036raspberry](https://github.com/victor7w7r/036raspberry) - Configuration Scripts for Arch Linux/Raspberry OS Lite and Oracle for Raspberry Pi 4
 - [andrewboring/alarm-images](https://github.com/andrewboring/alarm-images) - Arch Linux Arm Base Images for Raspberry Pi
 - [cbrnix/Newaita-reborn](https://github.com/cbrnix/Newaita-reborn) - Remaster Newaia icon theme
 - [Vaeralie/ArchLinux-Maintenance-Script](https://github.com/Vaeralie/ArchLinux-Maintenance-Script) - An all-in-one script that simplifies system maintenance on Arch Linux.
@@ -2228,6 +2235,7 @@
 
 ## TypeScript 
 
+- [alekangelov/nt-dashboard](https://github.com/alekangelov/nt-dashboard) - A simple, fast and customizable dashboard for your new tab.
 - [abhijhacodes/linkhub](https://github.com/abhijhacodes/linkhub) - Share all your links with just one link &lt;3
 - [GypsyDangerous/OneLink](https://github.com/GypsyDangerous/OneLink) - 🔗 OneLink is a linktree and flowpage clone built with Nextjs, MongoDb, and GraphQL
 - [osmoscraft/osmosmemo](https://github.com/osmoscraft/osmosmemo) - Turn GitHub into a bookmark manager
@@ -2422,6 +2430,7 @@
 
 ## Zig 
 
+- [waycrate/NextWM](https://github.com/waycrate/NextWM) - Manual tiling wayland compositor. ( Work In Progress )
 - [riverwm/river](https://github.com/riverwm/river) - A dynamic tiling Wayland compositor
 
 
