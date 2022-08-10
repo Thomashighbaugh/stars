@@ -944,7 +944,6 @@
 - [magalhaesh/awesome](https://github.com/magalhaesh/awesome) - My AwesomeWM configuration. Tried i3 but didn't like it, sorry.
 - [HashemRadaideh/awesome](https://github.com/HashemRadaideh/awesome) - Awesome window manager, a dynamic tiling wm, or floating? Personal Aweosme(wm) desktop enviroment configuration.
 - [ragu-manjegowda/config](https://github.com/ragu-manjegowda/config) - Profile Management with Git and Github
-- [jadnw/dotfiles1](https://github.com/jadnw/dotfiles1) - Configurations for Arch Linux setup with AwesomeWM
 - [JimmyCozza/bling](https://github.com/JimmyCozza/bling) - Utilities for the awesome window manager
 - [nivalderramas/awesome-config](https://github.com/nivalderramas/awesome-config) - Config files for awesomeWM
 - [nivalderramas/dotfiles](https://github.com/nivalderramas/dotfiles) - Personal dotfiles
