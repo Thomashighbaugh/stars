@@ -587,8 +587,8 @@
 ## JavaScript 
 
 - [DanaMW/userChrome.js](https://github.com/DanaMW/userChrome.js) - Scripts for the Firefox extension userChromeJS
-- [Keymorph/notes](https://github.com/Keymorph/notes) - A note-taking web application.
-- [Keymorph/polywidget](https://github.com/Keymorph/polywidget) - A free web application with helpful widgets.
+- [keymorph/notes](https://github.com/keymorph/notes) - A note-taking web application.
+- [keymorph/polywidget](https://github.com/keymorph/polywidget) - A free web application with helpful widgets.
 - [rodydavis/material-icon-pack-stream-deck](https://github.com/rodydavis/material-icon-pack-stream-deck) - Material Design icons for the Stream Deck
 - [dharmx/dots.sh](https://github.com/dharmx/dots.sh) - Bleeding-edge dots.
 - [paperwm/PaperWM](https://github.com/paperwm/PaperWM) - Tiled scrollable window management for Gnome Shell
@@ -1851,7 +1851,7 @@
 - [perceptia/perceptia](https://github.com/perceptia/perceptia) - Dynamic window manager with support for Wayland
 - [Drakulix/fireplace](https://github.com/Drakulix/fireplace) - Modular wayland window manager written in rust
 - [dotenv-linter/dotenv-linter](https://github.com/dotenv-linter/dotenv-linter) - ⚡️Lightning-fast linter for .env files. Written in Rust 🦀
-- [rome/tools](https://github.com/rome/tools) - The Rome Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.
+- [rome/tools](https://github.com/rome/tools) - The Rome Toolchain. A formatter, linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [balena-os/wifi-connect](https://github.com/balena-os/wifi-connect) - Easy WiFi setup for Linux devices from your mobile phone or laptop
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
@@ -2246,7 +2246,7 @@
 - [cosmoscout/tasty.js](https://github.com/cosmoscout/tasty.js) - 🍰 A delicious Pie- and Marking-Menu Framework written in TypeScript.
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
 - [anirudhvarma12/rabbit-hole-webext](https://github.com/anirudhvarma12/rabbit-hole-webext) - A Browser Extension to trace your Wikipedia Journeys
-- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [pawelmalak/flame](https://github.com/pawelmalak/flame) - Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors.
 - [hood/homie](https://github.com/hood/homie) - A minimalistic personal dashboard.
 - [Thomashighbaugh/startpage-figma-balls-nextjs](https://github.com/Thomashighbaugh/startpage-figma-balls-nextjs) - A recreation of a startpage posted on Reddit without the source, so I rewrote it in Next.js + Tailwind for the open source community.
