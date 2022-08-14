@@ -952,7 +952,6 @@
 - [CanKolay3499/CNvim](https://github.com/CanKolay3499/CNvim) - A lightweight Neovim config for web development
 - [JannikWibker/awesome-config](https://github.com/JannikWibker/awesome-config) - Awesome WM config
 - [larkery/awesome](https://github.com/larkery/awesome) - 
-- [Suyashtnt/dotfiles](https://github.com/Suyashtnt/dotfiles) - My personal dotfiles
 - [edluffy/specs.nvim](https://github.com/edluffy/specs.nvim) - 👓 A fast and lightweight Neovim lua plugin to keep an eye on where your cursor has jumped.
 - [sidebar-nvim/sidebar.nvim](https://github.com/sidebar-nvim/sidebar.nvim) - A generic and modular lua sidebar for Neovim
 - [RyaWcksn/Neko-Vim](https://github.com/RyaWcksn/Neko-Vim) - Neovim distribution, IDE wannabe
@@ -2087,7 +2086,7 @@
 - [ShaneMcC/beeps](https://github.com/ShaneMcC/beeps) - Linux beep music
 - [mviereck/x11docker](https://github.com/mviereck/x11docker) - Run GUI applications and desktops in docker and podman containers. Focus on security.
 - [ivanilves/xiringuito](https://github.com/ivanilves/xiringuito) - SSH-based "VPN for poors"
-- [adi1090x/rofi](https://github.com/adi1090x/rofi) - A large collection of Rofi based custom Menu, Applets, Launchers & Powermenus.
+- [adi1090x/rofi](https://github.com/adi1090x/rofi) - A huge collection of Rofi based custom Applets, Launchers & Powermenus.
 - [archlive/archlive](https://github.com/archlive/archlive) - Custom Arch Linux Live ISO Image
 - [jreese/arch](https://github.com/jreese/arch) - Personal package repository for Arch Linux
 - [GhostWriters/DockSTARTer](https://github.com/GhostWriters/DockSTARTer) - DockSTARTer helps you get started with running apps in Docker.
