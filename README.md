@@ -256,6 +256,7 @@
 - [dannycolin/fx-compact-mode](https://github.com/dannycolin/fx-compact-mode) - A Compact Mode for Firefox Proton
 - [Godiesc/AlpenBlue](https://github.com/Godiesc/AlpenBlue) - Theme to blue lovers
 - [andreasgrafen/cascade](https://github.com/andreasgrafen/cascade) - Firefox custom CSS based on Simplefox
+- [aminomancer/uc.css.js](https://github.com/aminomancer/uc.css.js) - A dark indigo CSS theme for Firefox and a large collection of privileged scripts to add new buttons, menus, and behaviors and eliminate nuisances. The theme is similar to other userChrome stylesheets,
 - [halfmoonui/halfmoon](https://github.com/halfmoonui/halfmoon) - Front-end framework with a built-in dark mode and full customizability using CSS variables; great for building dashboards and tools.
 - [FrenzyExists/dotfiles](https://github.com/FrenzyExists/dotfiles) - My chaotic dotfiles, it ain't much, but its honest work
 - [ProgrammingFonts/ProgrammingFonts](https://github.com/ProgrammingFonts/ProgrammingFonts) - This is a collection of programming fonts,just share this with the programmers.Now there are 106 kinds of fantastic fonts!
@@ -586,6 +587,7 @@
 
 ## JavaScript 
 
+- [ibillingsley/HumbleNewTabPage](https://github.com/ibillingsley/HumbleNewTabPage) - New tab page extension for Chrome and Firefox
 - [DanaMW/userChrome.js](https://github.com/DanaMW/userChrome.js) - Scripts for the Firefox extension userChromeJS
 - [keymorph/notes](https://github.com/keymorph/notes) - A note-taking web application.
 - [keymorph/polywidget](https://github.com/keymorph/polywidget) - A free web application with helpful widgets.
@@ -646,7 +648,6 @@
 - [evolus/pencil](https://github.com/evolus/pencil) - The Pencil Project's unique mission is to build a free and opensource tool for making diagrams and GUI prototyping that everyone can use.
 - [john-smilga/node-express-course](https://github.com/john-smilga/node-express-course) - 
 - [garywill/tabs-at-bottom](https://github.com/garywill/tabs-at-bottom) - Firefox tabbar at bottom of window, userchrome script (runs on ff102) 🪟
-- [aminomancer/uc.css.js](https://github.com/aminomancer/uc.css.js) - A dark indigo CSS theme for Firefox and a large collection of privileged scripts to add new buttons, menus, and behaviors and eliminate nuisances. The theme is similar to other userChrome stylesheets,
 - [MrOtherGuy/fx-autoconfig](https://github.com/MrOtherGuy/fx-autoconfig) - Load custom javascript in browser context
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 - [mui/material-ui](https://github.com/mui/material-ui) - MUI Core is a collection of React UI libraries for shipping new features faster. Start with Material UI, our fully-loaded component library, or bring your own design system to our production-ready com
@@ -1194,7 +1195,6 @@
 - [Elv13/repetitive](https://github.com/Elv13/repetitive) - Repetitive tasks eradicator module for Awesome WM
 - [Elv13/collision](https://github.com/Elv13/collision) - A window management module for AwesomeWM
 - [lilydjwg/myawesomerc](https://github.com/lilydjwg/myawesomerc) - My Awesome WM config files
-- [skbolton/titan](https://github.com/skbolton/titan) - My attempt at making dotfiles super portable
 - [tumurzakov/attachdrop](https://github.com/tumurzakov/attachdrop) - AwesomeWM Quake like windows management
 - [cyrobin/awesome-wm](https://github.com/cyrobin/awesome-wm) - My Awesome WM 3.4 configuration
 - [ibhagwan/dots](https://github.com/ibhagwan/dots) - dots
@@ -1621,6 +1621,7 @@
 
 ## Python 
 
+- [kovidgoyal/kitty-themes](https://github.com/kovidgoyal/kitty-themes) - Themes for the kitty terminal emulator
 - [qtile/qtile](https://github.com/qtile/qtile) - :cookie: A full-featured, hackable tiling window manager written and configured in Python (X11 + Wayland)
 - [betaboon/nerd-fonts-patcher](https://github.com/betaboon/nerd-fonts-patcher) - nerdfonts-patcher and glyph-sets. noone wants to download 2GB just to patch a font
 - [bdusell/webfont-generator](https://github.com/bdusell/webfont-generator) - Locally convert fonts to web formats and generate CSS rules
@@ -1754,7 +1755,7 @@
 - [Lightning-AI/lightning](https://github.com/Lightning-AI/lightning) - The most intuitive, flexible, way for researchers, ML engineers and data scientists to build models (with PyTorch), research workflows and production pipelines with an obsessive focus on flexibility a
 - [fennerm/flashfocus](https://github.com/fennerm/flashfocus) - Simple focus animations for tiling window managers.
 - [isyuck/dotfiles](https://github.com/isyuck/dotfiles) - linux/osx
-- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 150 supported car makes and models.
+- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 200 supported car makes and models.
 - [deviantfero/wpgtk](https://github.com/deviantfero/wpgtk) - :flower_playing_cards: a colorscheme, wallpaper and template manager for *nix
 - [tmux-python/tmuxp](https://github.com/tmux-python/tmuxp) - :computer: tmux session manager. built on libtmux
 - [vt-vl-lab/3d-photo-inpainting](https://github.com/vt-vl-lab/3d-photo-inpainting) - [CVPR 2020] 3D Photography using Context-aware Layered Depth Inpainting
@@ -1798,6 +1799,7 @@
 
 ## Roff 
 
+- [oasislinux/oasis](https://github.com/oasislinux/oasis) - a small statically-linked linux system
 - [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 
 ## Ruby 
@@ -1879,6 +1881,7 @@
 ## SaltStack 
 
 - [Noah-Huppert/linux-install](https://github.com/Noah-Huppert/linux-install) - Void installation
+- [skbolton/titan](https://github.com/skbolton/titan) - My attempt at making dotfiles super portable
 
 ## Scala 
 
@@ -1896,6 +1899,7 @@
 
 ## Shell 
 
+- [rixon-cochi/Lucifer](https://github.com/rixon-cochi/Lucifer) - Instagram auto followers
 - [gusbemacbe/suru-plus-aspromauros](https://github.com/gusbemacbe/suru-plus-aspromauros) - A Suru++-like monochromatic icons theme for users of dark environments
 - [axyl-os/axyl-artix-iso](https://github.com/axyl-os/axyl-artix-iso) - Status: (Ready for Testing)
 - [Git-Fal7/artix-buildiso](https://github.com/Git-Fal7/artix-buildiso) - my buildisos for artix linux
@@ -2223,7 +2227,7 @@
 
 - [perfect-things/perfect-home](https://github.com/perfect-things/perfect-home) - firefox newtab/home replacement
 - [catchspider2002/svelte-svg-patterns](https://github.com/catchspider2002/svelte-svg-patterns) - Create seamless patterns in SVG to use as website backgrounds, header images, stationery design and package design
-- [EddieHubCommunity/good-first-issue-finder](https://github.com/EddieHubCommunity/good-first-issue-finder) - Issue-Crawler for Github based on Sveltekit
+- [EddieHubCommunity/good-first-issue-finder](https://github.com/EddieHubCommunity/good-first-issue-finder) - Issue-Crawler for GitHub based on Sveltekit
 
 ## TeX 
 
@@ -2233,6 +2237,7 @@
 
 ## TypeScript 
 
+- [withastro/astro](https://github.com/withastro/astro) - Build faster websites with Astro's next-gen island architecture 🏝✨
 - [alekangelov/nt-dashboard](https://github.com/alekangelov/nt-dashboard) - A simple, fast and customizable dashboard for your new tab.
 - [abhijhacodes/linkhub](https://github.com/abhijhacodes/linkhub) - Share all your links with just one link &lt;3
 - [GypsyDangerous/OneLink](https://github.com/GypsyDangerous/OneLink) - 🔗 OneLink is a linktree and flowpage clone built with Nextjs, MongoDb, and GraphQL
