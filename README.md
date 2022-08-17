@@ -225,6 +225,13 @@
 
 ## CSS 
 
+- [Rasmagoric/Firefox2022](https://github.com/Rasmagoric/Firefox2022) - A new look for your Firefox browser.
+- [QNetITQ/WaveFox](https://github.com/QNetITQ/WaveFox) - Flexible theme for manual customization.
+- [leadweedy/Firefox-Proton-Square](https://github.com/leadweedy/Firefox-Proton-Square) - Makes Firefox Proton UI square again
+- [te6-in/lepton-custom](https://github.com/te6-in/lepton-custom) - A macOS style theme for Firefox—forked from Lepton(Firefox-UI-Fix)
+- [refact0r/midnight-fox](https://github.com/refact0r/midnight-fox) - A clean and simple firefox userchrome theme
+- [marmmaz/FirefoxCSS](https://github.com/marmmaz/FirefoxCSS) - minimalFOX: my Firefox theme.
+- [PROxZIMA/Sweet-Pop](https://github.com/PROxZIMA/Sweet-Pop) - Sweet_Pop! Beautify, Customize Firefox. Minimalist animated oneliner theme for Firefox perfectly matching Sweet Dark.
 - [bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days) - 50+ mini web projects using HTML, CSS & JS
 - [ilham25/dotfiles-openbox](https://github.com/ilham25/dotfiles-openbox) - Here is my aether dotfiles openbox version
 - [zakuradev/dotfiles](https://github.com/zakuradev/dotfiles) - Awesome OpenboxWM Custom Environment!
@@ -1019,7 +1026,7 @@
 - [atsepkov/awesome-zen](https://github.com/atsepkov/awesome-zen) - Set of widgets/tools for awesome WM for clutter-free environment
 - [GrayJack/configs](https://github.com/GrayJack/configs) - My linux configs files
 - [awesomeWM/awesome-www](https://github.com/awesomeWM/awesome-www) - Website of AwesomeWM
-- [nullchilly/dots](https://github.com/nullchilly/dots) - My home is awesome
+- [nullchilly/nvim](https://github.com/nullchilly/nvim) - My home was awesome
 - [arsham/awesomewm-config](https://github.com/arsham/awesomewm-config) - Awesome Window Manager config
 - [frabjous/awesome](https://github.com/frabjous/awesome) - Dotfiles for awesomewm
 - [meriadec/awesome-efficient](https://github.com/meriadec/awesome-efficient) - Awesome WM 4 theme - Focused on elegance, minimalism & productivity
@@ -1900,6 +1907,7 @@
 
 ## Shell 
 
+- [jorgeloopzz/dotfiles](https://github.com/jorgeloopzz/dotfiles) - ❤️ My dotfiles repo, where you can find all my window managers and apps configurations.
 - [rixon-cochi/Lucifer](https://github.com/rixon-cochi/Lucifer) - Instagram auto followers
 - [gusbemacbe/suru-plus-aspromauros](https://github.com/gusbemacbe/suru-plus-aspromauros) - A Suru++-like monochromatic icons theme for users of dark environments
 - [axyl-os/axyl-artix-iso](https://github.com/axyl-os/axyl-artix-iso) - Status: (Ready for Testing)
