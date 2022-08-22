@@ -74,6 +74,7 @@
 
 ## Batchfile 
 
+- [AveYo/fox](https://github.com/AveYo/fox) - Firefox stuff
 - [swagkarna/Defeat-Defender-V1.2](https://github.com/swagkarna/Defeat-Defender-V1.2) - Powerful batch script to dismantle complete windows defender protection and even bypass tamper protection ..Disable Windows-Defender Permanently....Hack windows. POC
 
 ## BitBake 
@@ -634,7 +635,6 @@
 - [Merkoba/Msg](https://github.com/Merkoba/Msg) - A javascript library to create and manage highly customizable modal windows and popup messages
 - [rockiger/akiee](https://github.com/rockiger/akiee) - A Markdown-based task manager for hackers and people who build stuff.
 - [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
-- [AveYo/fox](https://github.com/AveYo/fox) - Firefox stuff
 - [gregives/Twelvety](https://github.com/gregives/Twelvety) - An Eleventy starter project built to be fast
 - [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [epsylon/ufonet](https://github.com/epsylon/ufonet) - UFONet - Denial of Service Toolkit
@@ -1417,7 +1417,7 @@
 - [RMerl/asuswrt-merlin.ng](https://github.com/RMerl/asuswrt-merlin.ng) - Third party firmware for Asus routers (newer codebase)
 - [technomada/cloud-from-scratch](https://github.com/technomada/cloud-from-scratch) - Build yourself a private self-hosted full-stack personal cloud system.
 - [gopalindians/awesome-hinduism](https://github.com/gopalindians/awesome-hinduism) - Awesome collection of Sanatana dharma(सनातन धर्म)
-- [ahkhalwai/Hidayah](https://github.com/ahkhalwai/Hidayah) - This repository extends the research of discovered Inventions that are already mentioned in the Scriptures. Example - Water cycle, Big Bang Theory, etc more than 1000 Inventions in last 100 to 400 yea
+- [ahkhalwai/Quran-and-Science](https://github.com/ahkhalwai/Quran-and-Science) - 
 - [nix-community/awesome-nix](https://github.com/nix-community/awesome-nix) - 😎 A curated list of the best resources in the Nix community [maintainer=@houstdav000]
 - [VandalByte/grub-tweaks](https://github.com/VandalByte/grub-tweaks) - Some GRUB tweaks 📚💡
 - [gurugio/lowlevelprogramming-university](https://github.com/gurugio/lowlevelprogramming-university) - How to be low-level programmer
@@ -2102,7 +2102,7 @@
 - [ivanilves/xiringuito](https://github.com/ivanilves/xiringuito) - SSH-based "VPN for poors"
 - [adi1090x/rofi](https://github.com/adi1090x/rofi) - A huge collection of Rofi based custom Applets, Launchers & Powermenus.
 - [archlive/archlive](https://github.com/archlive/archlive) - Custom Arch Linux Live ISO Image
-- [jreese/arch](https://github.com/jreese/arch) - Personal package repository for Arch Linux
+- [amyreese/arch](https://github.com/amyreese/arch) - Personal package repository for Arch Linux
 - [GhostWriters/DockSTARTer](https://github.com/GhostWriters/DockSTARTer) - DockSTARTer helps you get started with running apps in Docker.
 - [allyorbase/hackRPI-2016](https://github.com/allyorbase/hackRPI-2016) - Juice Jacking / Automatic Android Rooting based on Intel Edison using dirty c0w
 - [ASHWIN990/ADB-Toolkit](https://github.com/ASHWIN990/ADB-Toolkit) - ADB-Toolkit V2 for easy ADB tricks with many perks in all one. ENJOY!
