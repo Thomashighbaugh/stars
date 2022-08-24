@@ -1129,6 +1129,7 @@
 - [micro-hawk/awesomeWM](https://github.com/micro-hawk/awesomeWM) - My configuration for awesome window manager
 - [anhsirk0/awesome-config](https://github.com/anhsirk0/awesome-config) - My config for awesomewm
 - [suconakh/awesome-awesome-rc](https://github.com/suconakh/awesome-awesome-rc) - Modularized AwesomeWM rc.lua
+- [Manas140/dotfiles](https://github.com/Manas140/dotfiles) - Config files for my setup
 - [windwp/nvim-autopairs](https://github.com/windwp/nvim-autopairs) - autopairs for neovim written by lua
 - [saadparwaiz1/cmp_luasnip](https://github.com/saadparwaiz1/cmp_luasnip) - luasnip completion source for nvim-cmp
 - [onsails/lspkind.nvim](https://github.com/onsails/lspkind.nvim) - vscode-like pictograms for neovim lsp completion items
@@ -1999,7 +2000,6 @@
 - [zodd18/dotfiles](https://github.com/zodd18/dotfiles) - My bspwm dotfiles. Grab whatever you need! :)
 - [Tomas-M/linux-live](https://github.com/Tomas-M/linux-live) - Linux Live Kit
 - [saymoncoppi/xlunchr](https://github.com/saymoncoppi/xlunchr) - A simple xlunch modernization
-- [Manas140/dotfiles](https://github.com/Manas140/dotfiles) - Config files for my setup
 - [Manas140/sh](https://github.com/Manas140/sh) - Collection Of My Sh Scripts.
 - [leahneukirchen/hrmpf](https://github.com/leahneukirchen/hrmpf) - hrmpf rescue system, built on Void Linux
 - [samsesh/SocialBox-Termux](https://github.com/samsesh/SocialBox-Termux) - SocialBox is a Bruteforce Attack Framework [ Facebook , Gmail , Instagram ,Twitter ] , Coded By Belahsan Ouerghi Edit By samsesh for termux on android
