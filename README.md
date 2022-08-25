@@ -65,8 +65,8 @@
 - [TypeScript](#typescript)
 - [VBA](#vba)
 - [Vala](#vala)
+- [Vim Script](#vim-script)
 - [Vim Snippet](#vim-snippet)
-- [Vim script](#vim-script)
 - [Vue](#vue)
 - [XSLT](#xslt)
 - [YAML](#yaml)
@@ -1164,6 +1164,7 @@
 - [kurbel/awesome-config](https://github.com/kurbel/awesome-config) - configuration files for the awesome window manager (awesomewm)
 - [nvim-lua/popup.nvim](https://github.com/nvim-lua/popup.nvim) - [WIP] An implementation of the Popup API from vim in Neovim. Hope to upstream when complete
 - [ibhagwan/nvim-lua](https://github.com/ibhagwan/nvim-lua) - 
+- [NTBBloodbath/dotfiles](https://github.com/NTBBloodbath/dotfiles) - /boot: No such file or directory
 - [elianiva/dotfiles](https://github.com/elianiva/dotfiles) - .
 - [Degete/nvim-config](https://github.com/Degete/nvim-config) - ⚙️ Neovim config files
 - [s1n7ax/nvim-window-picker](https://github.com/s1n7ax/nvim-window-picker) - This plugins prompts the user to pick a window and returns the window id of the picked window
@@ -2010,7 +2011,6 @@
 - [lucidtanooki/kawaiki-grub2-themes](https://github.com/lucidtanooki/kawaiki-grub2-themes) - Modern Design theme for Grub2
 - [g0r60n/InstaShell](https://github.com/g0r60n/InstaShell) - InstaShell
 - [opsgang/alpine_build_scripts](https://github.com/opsgang/alpine_build_scripts) - ... collection of ash scripts to install various common pkgs.
-- [NTBBloodbath/dotfiles](https://github.com/NTBBloodbath/dotfiles) - /boot: No such file or directory
 - [chrispap-dev/dotfiles](https://github.com/chrispap-dev/dotfiles) - Collection of my config files i use in my Ubuntu daily driver
 - [dhasirar/instax](https://github.com/dhasirar/instax) - instax is an tool to perform brute force attack against Instagram,(https://github.com/dhasirar/instax) by dhasirar under GNU LICENSE. WARNING! This tool was made for educational purposes! https://www.
 - [Lolzen/void-live-customizer](https://github.com/Lolzen/void-live-customizer) - script to build a customized livecd of void linux using void-mklive
@@ -2382,15 +2382,10 @@
 - [elementary/appcenter](https://github.com/elementary/appcenter) - Pay-what-you-can app store for elementary OS
 - [nick92/Enso-OS](https://github.com/nick92/Enso-OS) - a simple OS designed for ageing computers
 
-## Vim Snippet 
-
-- [sahasatvik/dotfiles](https://github.com/sahasatvik/dotfiles) - My configuration and theme files
-
-## Vim script 
+## Vim Script 
 
 - [jdhao/nvim-config](https://github.com/jdhao/nvim-config) - A modern Neovim configuration with full battery for Python, C++, Markdown, LaTeX, and more...
 - [issadarkthing/artix-dotfiles](https://github.com/issadarkthing/artix-dotfiles) - My Artix linux dotfiles
-- [developersIndia/jarvim](https://github.com/developersIndia/jarvim) - A sensible IDE-like configuration for Neovim
 - [Ham5andw1ch/NewDots](https://github.com/Ham5andw1ch/NewDots) - Updated dotfiles since I'm too lazy to touch the old repo.
 - [zanshin/dotfiles](https://github.com/zanshin/dotfiles) - My dotfiles.
 - [hiecaq/dotfiles](https://github.com/hiecaq/dotfiles) - My dotfiles that set the world I live in
@@ -2421,6 +2416,10 @@
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [mklan/dotfiles](https://github.com/mklan/dotfiles) - personal GNU/Linux system configuration
 - [jaredallard/dotfiles](https://github.com/jaredallard/dotfiles) - These are my dotfiles. There are many like them, but these are mine.
+
+## Vim Snippet 
+
+- [sahasatvik/dotfiles](https://github.com/sahasatvik/dotfiles) - My configuration and theme files
 
 ## Vue 
 
