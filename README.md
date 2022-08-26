@@ -2274,7 +2274,7 @@
 - [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
 - [Bismuth-Forge/bismuth](https://github.com/Bismuth-Forge/bismuth) - KDE Plasma add-on, that tiles your windows automatically and lets you manage them via keyboard, similarly to i3, Sway or dwm.
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
-- [pankod/refine](https://github.com/pankod/refine) - A React-based framework for building internal tools, rapidly.
+- [pankod/refine](https://github.com/pankod/refine) - Build your React-based CRUD applications, without constraints.
 - [notemarks/notemarks](https://github.com/notemarks/notemarks) - A git based labeling app to manage notes, documents, and bookmarks.
 - [vuejs/vue](https://github.com/vuejs/vue) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 - [mvximenko/dunno](https://github.com/mvximenko/dunno) - Simplified version of IMDb built with React
