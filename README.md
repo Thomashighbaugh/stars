@@ -118,7 +118,7 @@
 - [inclement/vivarium](https://github.com/inclement/vivarium) - A dynamic tiling Wayland compositor using wlroots
 - [taiwins/taiwins](https://github.com/taiwins/taiwins) - taiwins, a modern wayland compositor
 - [nnoell/neurowm](https://github.com/nnoell/neurowm) - An extremely configurable, fast, dynamic tiling window manager for X
-- [johanmalm/jgmenu](https://github.com/johanmalm/jgmenu) - An X11 menu
+- [jgmenu/jgmenu](https://github.com/jgmenu/jgmenu) - An X11 menu
 - [kisslinux/repo](https://github.com/kisslinux/repo) - KISS Linux - Official Repositories
 - [way-cooler/way-cooler](https://github.com/way-cooler/way-cooler) - Wayland compositor for AwesomeWM
 - [audacity/audacity](https://github.com/audacity/audacity) - Audio Editor
