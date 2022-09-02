@@ -85,6 +85,7 @@
 
 - [jcs/sdorfehs](https://github.com/jcs/sdorfehs) - A tiling window manager
 - [sardemff7/wayhouse](https://github.com/sardemff7/wayhouse) - A Wayland compositor based on libweston and providing most of Wayland Wall protocols
+- [niutech/splitbrowser](https://github.com/niutech/splitbrowser) - Split Browser - a minimalistic, ultra-lightweight, open source web browser based on WebKit/Ultralight/native webview with split screen (tiled) view
 - [colinkeenan/silentcast](https://github.com/colinkeenan/silentcast) - Create silent mkv screencast and animated gif.
 - [BourgeoisBear/A-E-S-T-H-E-T-I-C](https://github.com/BourgeoisBear/A-E-S-T-H-E-T-I-C) - Makes your words more ＡＥＳＴＨＥＴＩＣ
 - [khuedoan/slock](https://github.com/khuedoan/slock) - Suckless simple X display locker fork with transparency effect
@@ -177,7 +178,6 @@
 
 ## C++ 
 
-- [niutech/splitbrowser](https://github.com/niutech/splitbrowser) - Split Browser - a minimalistic, ultra-lightweight, open source web browser based on WebKit/Ultralight/native webview with split screen (tiled) view
 - [CachyOS/New-Cli-Installer](https://github.com/CachyOS/New-Cli-Installer) - 
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
 - [Nitrux/maui-shell](https://github.com/Nitrux/maui-shell) - Maui Shell is a convergent shell for desktops, tablets, and phones.
@@ -487,7 +487,7 @@
 
 ## HCL 
 
-- [starise/ArchLinuxPi](https://github.com/starise/ArchLinuxPi) - Build and manage Arch Linux ARM on Raspberry Pi 4 via Packer & Ansible.
+- [starise/ArchLinuxPi](https://github.com/starise/ArchLinuxPi) - Build and deploy Arch Linux ARM on Raspberry Pi 4 via Packer & Ansible.
 - [chadgeary/cloudblock](https://github.com/chadgeary/cloudblock) - Cloudblock deploys secure ad-blocking and VPN for all devices. Text and video guides included! 6 supported cloud providers, plus Ubuntu and Raspberry Pi. Cloudblock deploys Wireguard VPN, Pi-Hole DNS 
 
 ## HTML 
@@ -606,7 +606,6 @@
 - [notion-enhancer/desktop](https://github.com/notion-enhancer/desktop) - an enhancer/customiser for the all-in-one productivity workspace notion.so (app)
 - [Broomber/vice-city-menu](https://github.com/Broomber/vice-city-menu) - Trying to create a semblance of the main menu of the "Grand Theft Auto - Vice City" game.
 - [furcan/IconPicker](https://github.com/furcan/IconPicker) - Use the Font Awesome Icons (Font Awesome Free v5.11.2) in your HTML forms. (1544 icons)
-- [heysagnik/Linkees](https://github.com/heysagnik/Linkees) - Awesome Linktree clone made with React ⚛️
 - [4cm4k1/personal-website](https://github.com/4cm4k1/personal-website) - Personal website – made with Next.js, Preact, MDX, RMWC, & Vercel
 - [garywill/aboutconfig-menu](https://github.com/garywill/aboutconfig-menu) - Shortcuts to settings in about:config (universal), through a button on toolbar. Firefox userChrome script (runs on ff102) 🛠️
 - [cliqz-oss/firefox-autoconfigs](https://github.com/cliqz-oss/firefox-autoconfigs) - 
@@ -1803,7 +1802,6 @@
 ## QML 
 
 - [Calinix-Team/Calinix-Arch](https://github.com/Calinix-Team/Calinix-Arch) - CalinixOS Linux Distribution ISO Profiles
-- [xerolinux/xero_iso](https://github.com/xerolinux/xero_iso) - The Official XeroLinux ISO Build Environment
 
 ## Roff 
 
@@ -1975,6 +1973,7 @@
 - [eoli3n/void-config](https://github.com/eoli3n/void-config) - Scripts and Ansible playbook to setup Void Linux on ZFS.
 - [Botspot/pi-apps](https://github.com/Botspot/pi-apps) - Raspberry Pi App Store for Open Source Projects
 - [LEV-Linux/LEV-mklive](https://github.com/LEV-Linux/LEV-mklive) - The LEV Linux live image maker
+- [xerolinux/xero_iso](https://github.com/xerolinux/xero_iso) - The Official XeroLinux ISO Build Environment
 - [niraj998/dotfiles](https://github.com/niraj998/dotfiles) - Collection of my dotfiles
 - [abhilesh/self-hosted_docker_setups](https://github.com/abhilesh/self-hosted_docker_setups) - A collection of my docker-compose files used to setup self-hosted services on Raspberry Pi 4 running 64-bit Raspberry Pi OS
 - [lane-brain/void-packages](https://github.com/lane-brain/void-packages) - The Void source packages collection
@@ -2006,7 +2005,7 @@
 - [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io
 - [UbuntuBudgie/Tela-icon-theme](https://github.com/UbuntuBudgie/Tela-icon-theme) - A flat colorful Design icon theme
 - [termux/termux-packages](https://github.com/termux/termux-packages) - A build system and primary set of packages for Termux.
-- [aditya-shri/VPN](https://github.com/aditya-shri/VPN) - Personal vpn using v2ray and shadowsocks hosted on heroku
+- [aditya-shri/VPN](https://github.com/aditya-shri/VPN) - Personal VPN using Shadowsocks and v2ray
 - [lucidtanooki/kawaiki-grub2-themes](https://github.com/lucidtanooki/kawaiki-grub2-themes) - Modern Design theme for Grub2
 - [g0r60n/InstaShell](https://github.com/g0r60n/InstaShell) - InstaShell
 - [opsgang/alpine_build_scripts](https://github.com/opsgang/alpine_build_scripts) - ... collection of ash scripts to install various common pkgs.
@@ -2253,6 +2252,7 @@
 - [alekangelov/nt-dashboard](https://github.com/alekangelov/nt-dashboard) - A simple, fast and customizable dashboard for your new tab.
 - [abhijhacodes/linkhub](https://github.com/abhijhacodes/linkhub) - Share all your links with just one link &lt;3
 - [GypsyDangerous/OneLink](https://github.com/GypsyDangerous/OneLink) - 🔗 OneLink is a linktree and flowpage clone built with Nextjs, MongoDb, and GraphQL
+- [heysagnik/Linkees](https://github.com/heysagnik/Linkees) - Awesome Linktree clone made with React ⚛️
 - [osmoscraft/osmosmemo](https://github.com/osmoscraft/osmosmemo) - Turn GitHub into a bookmark manager
 - [Shougo/ddc.vim](https://github.com/Shougo/ddc.vim) - Dark deno-powered completion framework for neovim/Vim8
 - [ant-design/ant-design-icons](https://github.com/ant-design/ant-design-icons) - ⭐ Ant Design SVG Icons
