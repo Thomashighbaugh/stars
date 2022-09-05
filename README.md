@@ -939,7 +939,7 @@
 
 - [HBlanqueto/nixdots](https://github.com/HBlanqueto/nixdots) - System configuration files ❄️
 - [VonHeikemen/dotfiles](https://github.com/VonHeikemen/dotfiles) - 
-- [glepnir/coman.nvim](https://github.com/glepnir/coman.nvim) - neovim plguin for comment and annotation
+- [glepnir/coman.nvim](https://github.com/glepnir/coman.nvim) - neovim plugin for comment and annotation
 - [JryChn/ModuleVim](https://github.com/JryChn/ModuleVim) - A NeoVim configuration
 - [leslie255/nvim-config](https://github.com/leslie255/nvim-config) - A pretty epic NeoVim setup
 - [ecosse3/nvim](https://github.com/ecosse3/nvim) - A non-minimal Neovim config built to work most efficiently with Frontend Development - React & Vue.js
