@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [Adblock Filter List](#adblock-filter-list)
 - [Batchfile](#batchfile)
 - [BitBake](#bitbake)
 - [C](#c)
@@ -71,6 +72,10 @@
 - [XSLT](#xslt)
 - [YAML](#yaml)
 - [Zig](#zig)
+
+## Adblock Filter List 
+
+- [AdguardTeam/AdguardFilters](https://github.com/AdguardTeam/AdguardFilters) - AdGuard Content Blocking Filters
 
 ## Batchfile 
 
@@ -943,6 +948,7 @@
 - [JryChn/ModuleVim](https://github.com/JryChn/ModuleVim) - A NeoVim configuration
 - [leslie255/nvim-config](https://github.com/leslie255/nvim-config) - A pretty epic NeoVim setup
 - [ecosse3/nvim](https://github.com/ecosse3/nvim) - A non-minimal Neovim config built to work most efficiently with Frontend Development - React & Vue.js
+- [jdhao/nvim-config](https://github.com/jdhao/nvim-config) - A modern Neovim configuration with full battery for Python, C++, Markdown, LaTeX, and more...
 - [Veratil/awesome-retain](https://github.com/Veratil/awesome-retain) - Awesome Lua module for retaining tags and their layouts between restarts and screen adds/removes
 - [8ware/awesome-infinite](https://github.com/8ware/awesome-infinite) - Access your Awesome tags on whichever screen you like
 - [lucifer1708/Awesomewm-Config-Dotfiles](https://github.com/lucifer1708/Awesomewm-Config-Dotfiles) - 
@@ -1782,7 +1788,6 @@
 - [crazzyfool/ansible-desktop-manjaro-i3](https://github.com/crazzyfool/ansible-desktop-manjaro-i3) - Ansible playbook with the purpose of configuring a fresh installation of Manjaro i3 Community Edition
 - [snwh/moka-icon-theme](https://github.com/snwh/moka-icon-theme) - Moka Icon Theme
 - [achembarpu/pockyt](https://github.com/achembarpu/pockyt) - Automate & manage your Pocket.com collection.
-- [AdguardTeam/AdguardFilters](https://github.com/AdguardTeam/AdguardFilters) - AdGuard Content Blocking Filters
 - [kynikos/outspline](https://github.com/kynikos/outspline) - Extensible outliner and personal time organizer to manage todo lists, schedule tasks, remind events.
 - [zim-desktop-wiki/zim-desktop-wiki](https://github.com/zim-desktop-wiki/zim-desktop-wiki) - Main repository of the zim desktop wiki project
 - [UbuntuBudgie/window-shuffler](https://github.com/UbuntuBudgie/window-shuffler) - GUI and keyboard friendly window arranger for the budgie and mate desktop
@@ -2384,7 +2389,6 @@
 
 ## Vim Script 
 
-- [jdhao/nvim-config](https://github.com/jdhao/nvim-config) - A modern Neovim configuration with full battery for Python, C++, Markdown, LaTeX, and more...
 - [issadarkthing/artix-dotfiles](https://github.com/issadarkthing/artix-dotfiles) - My Artix linux dotfiles
 - [Ham5andw1ch/NewDots](https://github.com/Ham5andw1ch/NewDots) - Updated dotfiles since I'm too lazy to touch the old repo.
 - [zanshin/dotfiles](https://github.com/zanshin/dotfiles) - My dotfiles.
