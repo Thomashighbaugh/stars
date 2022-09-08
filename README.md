@@ -568,7 +568,6 @@
 ## Hack 
 
 - [bhikandeshmukh/shark](https://github.com/bhikandeshmukh/shark) - Best Tool For Phishing, Future Of Phishing
-- [Cesar-Hack-Gray/FotoSploit](https://github.com/Cesar-Hack-Gray/FotoSploit) - 
 
 ## Haskell 
 
@@ -1711,7 +1710,6 @@
 - [mpeterv/hererocks](https://github.com/mpeterv/hererocks) - Python script for installing Lua/LuaJIT and LuaRocks into a local directory
 - [whittlem/pycryptobot](https://github.com/whittlem/pycryptobot) - Python Crypto Bot (PyCryptoBot)
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
-- [AnwarMEQOR/Edu.Emails](https://github.com/AnwarMEQOR/Edu.Emails) - Edu.Emails: Automatically create .Edu emails.
 - [rmountjoy92/DashMachine](https://github.com/rmountjoy92/DashMachine) - Another web application bookmark dashboard, with fun features.
 - [tuxity/insta-unfollower](https://github.com/tuxity/insta-unfollower) - An Instagram script to unfollow accounts who don't follow-you-back
 - [InstaPy/instapy-docker](https://github.com/InstaPy/instapy-docker) - 🐳 Docker config and documentation for running InstaPy with Docker
