@@ -741,7 +741,7 @@
 - [Thomashighbaugh/resurgens-iv](https://github.com/Thomashighbaugh/resurgens-iv) - The Fourth Resurgens Portfolio Site. Featuring React!!!
 - [mikesprague/my-start-page](https://github.com/mikesprague/my-start-page) - Open source new tab extension
 - [netlify/netlify-cms](https://github.com/netlify/netlify-cms) - A Git-based CMS for Static Site Generators
-- [sintaxi/harp](https://github.com/sintaxi/harp) - Static Site Server/Generator with built-in preprocessing
+- [sintaxi/harp](https://github.com/sintaxi/harp) - Static Web Server/Generator/Bundler
 - [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
 - [react-static/react-static](https://github.com/react-static/react-static) - ⚛️ 🚀 A progressive static site generator for React.
 - [nuxt/nuxt.js](https://github.com/nuxt/nuxt.js) - The Intuitive Vue(2) Framework
@@ -1476,7 +1476,6 @@
 - [henriquehbr/nvim-startup.lua](https://github.com/henriquehbr/nvim-startup.lua) - Displays neovim startup time
 - [python-engineer/ml-study-plan](https://github.com/python-engineer/ml-study-plan) - The Ultimate FREE Machine Learning Study Plan
 - [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
-- [tprasadtp/bhoomi-grub-theme](https://github.com/tprasadtp/bhoomi-grub-theme) - A Simple Grub2 Theme based on vimix
 - [github/india](https://github.com/github/india) - GitHub resources and information for the developer community in India
 - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
 - [thelearn-tech/Alpine-Linux-GUI](https://github.com/thelearn-tech/Alpine-Linux-GUI) - How to install GUI on Alpine Linux
@@ -2116,7 +2115,7 @@
 - [kisslinux/kiss](https://github.com/kisslinux/kiss) - KISS Linux - Package Manager
 - [instantOS/instantOS](https://github.com/instantOS/instantOS) - instantOS - the out of the Box distro for powerusers
 - [StarshipEngineer/OpenVPN-Setup](https://github.com/StarshipEngineer/OpenVPN-Setup) - Shell script to set up Raspberry Pi (TM) as an OpenVPN server
-- [endoffile78/void-installer](https://github.com/endoffile78/void-installer) - 
+- [jhert0/void-installer](https://github.com/jhert0/void-installer) - 
 - [obtekin/archlinuxarm-aarch64-rpi3](https://github.com/obtekin/archlinuxarm-aarch64-rpi3) - Archlinux on Rpi3
 - [b4skyx/dotfiles](https://github.com/b4skyx/dotfiles) - My personal linux dotfiles
 - [ByDog3r/FAQUE](https://github.com/ByDog3r/FAQUE) - 𝐅𝐀𝐐𝐔𝐄; IS A FAKE IDENTITY: SPOOF-EMAIL, THE PERFECT COMPANION FOR PHISHING.
