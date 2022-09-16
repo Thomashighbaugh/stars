@@ -63,6 +63,7 @@
 - [Shell](#shell)
 - [Svelte](#svelte)
 - [TeX](#tex)
+- [Twig](#twig)
 - [TypeScript](#typescript)
 - [VBA](#vba)
 - [Vala](#vala)
@@ -1389,7 +1390,6 @@
 
 ## Nunjucks 
 
-- [mattwaler/tea-stack](https://github.com/mattwaler/tea-stack) - A starter template for the TEA stack (Tailwind, Eleventy, Alpine).
 - [chrissy-dev/eleventy-web-starter](https://github.com/chrissy-dev/eleventy-web-starter) - Eleventy Web Starter is a lightweight Eleventy boilerplate utilising, ESBuild Tailwind and PostCSS.
 - [gregwolanski/eleventy-tailwindcss-alpinejs-starter](https://github.com/gregwolanski/eleventy-tailwindcss-alpinejs-starter) - As little code as possible. Learn more: https://css-tricks.com/eleventy-starter-with-tailwind-css-alpine-js/
 
@@ -2245,6 +2245,10 @@
 - [benbrastmckie/.config](https://github.com/benbrastmckie/.config) - NeoVim configuration optimized for writing in LaTeX
 - [LukeSmithxyz/critique-of-reason](https://github.com/LukeSmithxyz/critique-of-reason) - Term paper on Rationality
 - [sysprog21/lkmpg](https://github.com/sysprog21/lkmpg) - The Linux Kernel Module Programming Guide (updated for 5.x kernels)
+
+## Twig 
+
+- [mattwaler/tea-stack](https://github.com/mattwaler/tea-stack) - A starter template for the TEA stack (Tailwind, Eleventy, Alpine).
 
 ## TypeScript 
 
