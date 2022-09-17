@@ -2191,7 +2191,7 @@
 - [LukeSmithxyz/LARBS](https://github.com/LukeSmithxyz/LARBS) - Luke's Auto-Rice Bootstrapping Scripts: Installation Scripts for My Arch Linux Meta-Distribution
 - [ntcarlson/dotfiles](https://github.com/ntcarlson/dotfiles) - 
 - [ashinkarov/i3-extras](https://github.com/ashinkarov/i3-extras) - Repository to keep patches and extras for i3 window manager.
-- [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt) - :rocket::star: A Zsh prompt for Astronauts
+- [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt) - :rocket::star: Minimalistic, powerful and extremely customizable Zsh prompt
 - [Powerlevel9k/powerlevel9k](https://github.com/Powerlevel9k/powerlevel9k) - Powerlevel9k was a tool for building a beautiful and highly functional CLI, customized for you. P9k had a substantial impact on CLI UX, and its legacy is now continued by P10k.
 - [Nitrux/luv-icon-theme](https://github.com/Nitrux/luv-icon-theme) - Lüv is the spiritual successor to Flattr, a flat but complex icon theme for freedesktop environments.
 - [Decathlon/slate-builder-action](https://github.com/Decathlon/slate-builder-action) - GitHub Action to build Slate Documentation
