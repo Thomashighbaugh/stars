@@ -197,7 +197,7 @@
 - [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 - [derat/xsettingsd](https://github.com/derat/xsettingsd) - Provides settings to X11 applications via the XSETTINGS specification
 - [acidanthera/WhateverGreen](https://github.com/acidanthera/WhateverGreen) - Various patches necessary for certain ATI/AMD/Intel/Nvidia GPUs
-- [ehopperdietzel/CuarzoOS](https://github.com/ehopperdietzel/CuarzoOS) - CuarzoOS
+- [CuarzoSoftware/CuarzoOS](https://github.com/CuarzoSoftware/CuarzoOS) - CuarzoOS
 - [papyros/papyros-shell](https://github.com/papyros/papyros-shell) - :shell: The desktop shell for Papyros, built using QtQuick and QtCompositor as a compositor for Wayland.
 - [wmww/Hedgehog](https://github.com/wmww/Hedgehog) - C++ Wayland compositor
 - [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
@@ -1055,6 +1055,7 @@
 - [tamton-aquib/nvim](https://github.com/tamton-aquib/nvim) - Personal neovim config
 - [saimoomedits/dotfiles](https://github.com/saimoomedits/dotfiles) - The ArchLinux and AwesomeWM configs. 📂
 - [niraj998/awesome](https://github.com/niraj998/awesome) - Dotfiles AwesomeWM
+- [niraj998/dotfiles](https://github.com/niraj998/dotfiles) - Collection of my dotfiles
 - [tsjazil/dotfiles](https://github.com/tsjazil/dotfiles) - 🐈 Catppuccin Themed bspwm dotfiles
 - [ii14/neopm](https://github.com/ii14/neopm) - Plugin manager for neovim, pre-alpha stage.
 - [vuki656/nvim-config](https://github.com/vuki656/nvim-config) - ⌨️ My Neovim configuration
@@ -1976,7 +1977,6 @@
 - [eoli3n/void-config](https://github.com/eoli3n/void-config) - Scripts and Ansible playbook to setup Void Linux on ZFS.
 - [Botspot/pi-apps](https://github.com/Botspot/pi-apps) - Raspberry Pi App Store for Open Source Projects
 - [LEV-Linux/LEV-mklive](https://github.com/LEV-Linux/LEV-mklive) - The LEV Linux live image maker
-- [niraj998/dotfiles](https://github.com/niraj998/dotfiles) - Collection of my dotfiles
 - [abhilesh/self-hosted_docker_setups](https://github.com/abhilesh/self-hosted_docker_setups) - A collection of my docker-compose files used to setup self-hosted services on Raspberry Pi 4 running 64-bit Raspberry Pi OS
 - [lane-brain/void-packages](https://github.com/lane-brain/void-packages) - The Void source packages collection
 - [the-Electric-Tantra-Linux/void-packages](https://github.com/the-Electric-Tantra-Linux/void-packages) - Deprecated for the time being, since I have moved back to systemd-based Arch.
