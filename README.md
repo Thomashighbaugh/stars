@@ -563,6 +563,7 @@
 - [Jaredk3nt/homepage](https://github.com/Jaredk3nt/homepage) - Custom homepage for use locally in browser
 - [harrycresswell/ain-cards](https://github.com/harrycresswell/ain-cards) - A front end prototype for AIN cards
 - [Thomashighbaugh/RESURGENS-PORTFOLIO-HTML-CSS](https://github.com/Thomashighbaugh/RESURGENS-PORTFOLIO-HTML-CSS) - resurgens volume 1 still active as demo
+- [MicroPad/MicroPad-Electron](https://github.com/MicroPad/MicroPad-Electron) - The desktop app of https://github.com/MicroPad/MicroPad-Core
 - [sovereign/sovereign](https://github.com/sovereign/sovereign) - A set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more.
 
 ## Hack 
@@ -1032,7 +1033,6 @@
 - [awesomeWM/awesome-www](https://github.com/awesomeWM/awesome-www) - Website of AwesomeWM
 - [nullchilly/nvim](https://github.com/nullchilly/nvim) - My home was awesome
 - [arsham/awesomewm-config](https://github.com/arsham/awesomewm-config) - Awesome Window Manager config
-- [frabjous/awesome](https://github.com/frabjous/awesome) - Dotfiles for awesomewm
 - [meriadec/awesome-efficient](https://github.com/meriadec/awesome-efficient) - Awesome WM 4 theme - Focused on elegance, minimalism & productivity
 - [intpl/awesome](https://github.com/intpl/awesome) - config dotfiles for AwesomeWM
 - [quintik/turbo-awesome](https://github.com/quintik/turbo-awesome) - AwesomeWM dotfiles
@@ -1420,6 +1420,7 @@
 - [notion-enhancer/tweaks](https://github.com/notion-enhancer/tweaks) - a collection of user-submitted css/js tweaks for notion
 - [archcraft-os/archcraft-hyprland](https://github.com/archcraft-os/archcraft-hyprland) - // Configuration : Hyprland
 - [ahmedtariq01/Cloud-DevOps-Learning-Resources](https://github.com/ahmedtariq01/Cloud-DevOps-Learning-Resources) - This repo includes Books and imp notes related to GCP, Azure, AWS, Docker, K8s, and DevOps. More, exam and interview prep notes.
+- [frabjous/awesome](https://github.com/frabjous/awesome) - Dotfiles for awesomewm
 - [RMerl/asuswrt-merlin.ng](https://github.com/RMerl/asuswrt-merlin.ng) - Third party firmware for Asus routers (newer codebase)
 - [technomada/cloud-from-scratch](https://github.com/technomada/cloud-from-scratch) - Build yourself a private self-hosted full-stack personal cloud system.
 - [gopalindians/awesome-hinduism](https://github.com/gopalindians/awesome-hinduism) - Awesome collection of Sanatana dharma(सनातन धर्म)
@@ -2252,7 +2253,7 @@
 
 ## TypeScript 
 
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a developer in 2022
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Community effort to create roadmaps, guides and other educational content to help the developers get an idea about the software development landscape, learn and grow in their career.
 - [Thomashighbaugh/biolink](https://github.com/Thomashighbaugh/biolink) - A temporary solution for my linktree-alternative needs. Because its much easier to type out just one link than a dozen.
 - [withastro/astro](https://github.com/withastro/astro) - Build faster websites with Astro's next-gen island architecture 🏝✨
 - [alekangelov/nt-dashboard](https://github.com/alekangelov/nt-dashboard) - A simple, fast and customizable dashboard for your new tab.
@@ -2369,7 +2370,6 @@
 - [gpmer/gpm.js](https://github.com/gpmer/gpm.js) - :gem:Git Package Manager, make you manage the repository easier, Power by Typescript & Nodejs
 - [akveo/eva-icons](https://github.com/akveo/eva-icons) - A pack of more than 480 beautifully crafted Open Source icons. SVG, Sketch, Web Font and Animations support.
 - [streamich/libreact](https://github.com/streamich/libreact) - Collection of useful React components
-- [MicroPad/MicroPad-Electron](https://github.com/MicroPad/MicroPad-Electron) - The desktop app of https://github.com/MicroPad/MicroPad-Core
 
 ## VBA 
 
