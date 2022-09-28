@@ -944,7 +944,6 @@
 
 ## Lua 
 
-- [HBlanqueto/nixdots](https://github.com/HBlanqueto/nixdots) - System configuration files ❄️
 - [VonHeikemen/dotfiles](https://github.com/VonHeikemen/dotfiles) - 
 - [glepnir/coman.nvim](https://github.com/glepnir/coman.nvim) - neovim plugin for comment and annotation
 - [JryChn/ModuleVim](https://github.com/JryChn/ModuleVim) - A NeoVim configuration
@@ -1457,7 +1456,6 @@
 - [gilescope/cyberpunkfonts](https://github.com/gilescope/cyberpunkfonts) - Cyberpunk inspired fonts for coding
 - [stephhappens/awesome-tools-for-junior-developers](https://github.com/stephhappens/awesome-tools-for-junior-developers) - A curated list of popular tools, tips and tricks for aspiring developers.
 - [dypsilon/frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) - Manually curated collection of resources for frontend web developers.
-- [ibhagwan/eth2-validator-guide](https://github.com/ibhagwan/eth2-validator-guide) - 
 - [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.
 - [dbb/subtle-patterns-gimp](https://github.com/dbb/subtle-patterns-gimp) - Subtle Patterns as individual, native GIMP .pat files
 - [kelyvin/Google-Messages-For-Desktop](https://github.com/kelyvin/Google-Messages-For-Desktop) - A "native-like" OS X, Windows, & Linux desktop app for Google Messages
@@ -2260,7 +2258,7 @@
 
 ## TypeScript 
 
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Community effort to create roadmaps, guides and other educational content to help the developers get an idea about the software development landscape, learn and grow in their career.
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [Thomashighbaugh/biolink](https://github.com/Thomashighbaugh/biolink) - A temporary solution for my linktree-alternative needs. Because its much easier to type out just one link than a dozen.
 - [withastro/astro](https://github.com/withastro/astro) - Build faster websites with Astro's next-gen island architecture 🏝✨
 - [alekangelov/nt-dashboard](https://github.com/alekangelov/nt-dashboard) - A simple, fast and customizable dashboard for your new tab.
