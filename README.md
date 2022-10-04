@@ -716,7 +716,7 @@
 - [Etesam913/dragify](https://github.com/Etesam913/dragify) - :sparkles: An application that can be used to create a custom startpage through interactive tools like drag and drop
 - [coffee-dan/react-startpage](https://github.com/coffee-dan/react-startpage) - React.js based implementation of a startpage.
 - [wigxel/nextjs-tailwind-boilerplate](https://github.com/wigxel/nextjs-tailwind-boilerplate) - A boilerplate for NextJS, StyledComponents and Tailwindcss. Lint and Formatting enabled.
-- [Harvzor/start](https://github.com/Harvzor/start) - The start page for my browser.
+- [harvzor/start](https://github.com/harvzor/start) - The start page for my browser.
 - [ethereumbook/ethereumbook](https://github.com/ethereumbook/ethereumbook) - Mastering Ethereum, by Andreas M. Antonopoulos, Gavin Wood
 - [knockout/knockout](https://github.com/knockout/knockout) - Knockout makes it easier to create rich, responsive UIs with JavaScript
 - [usablica/intro.js](https://github.com/usablica/intro.js) - Lightweight, user-friendly onboarding tour library
@@ -1759,7 +1759,7 @@
 - [jayfk/statuspage](https://github.com/jayfk/statuspage) - A statuspage generator that lets you host your statuspage for free on Github.
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
-- [themix-project/oomox](https://github.com/themix-project/oomox) - Graphical application for generating different color variations of a  Materia and Oomox themes (GTK2, GTK3 and others), Archdroid, Gnome-Colors, Numix, Papirus, Suru++ icons, and terminal palette.
+- [themix-project/oomox](https://github.com/themix-project/oomox) - Graphical application for generating different color variations of Oomox (Numix-based) and Materia (ex-Flat-Plat) themes (GTK2, GTK3, Cinnamon, GNOME, Openbox, Xfwm), Archdroid, Gnome-Color, Numix, Pa
 - [wdbm/bochica](https://github.com/wdbm/bochica) - GNU Privacy Guard encryption-decryption graphical user interface
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 - [vvmnnnkv/nodejs-style-transfer](https://github.com/vvmnnnkv/nodejs-style-transfer) - Sample Node.js app for image style transfer using libtorchjs
@@ -1894,7 +1894,7 @@
 ## SaltStack 
 
 - [Noah-Huppert/linux-install](https://github.com/Noah-Huppert/linux-install) - Void installation
-- [skbolton/titan](https://github.com/skbolton/titan) - My attempt at making dotfiles super portable
+- [skbolton/titan](https://github.com/skbolton/titan) - Orlando's one call install
 
 ## Scala 
 
