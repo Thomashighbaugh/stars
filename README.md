@@ -1059,7 +1059,7 @@
 - [tsjazil/dotfiles](https://github.com/tsjazil/dotfiles) - 🐈 Catppuccin Themed bspwm dotfiles
 - [ii14/neopm](https://github.com/ii14/neopm) - Plugin manager for neovim, pre-alpha stage.
 - [vuki656/nvim-config](https://github.com/vuki656/nvim-config) - ⌨️ My Neovim configuration
-- [jamestrew/nvim](https://github.com/jamestrew/nvim) - 
+- [jamestrew/nvim](https://github.com/jamestrew/nvim) - BLAZINGLY typical, personal neovim config
 - [MiaadTeam/lesvim](https://github.com/MiaadTeam/lesvim) - Nvim config focus on Javascript, Typescript, Rust and Lua -  🚀 💪 ( Fast and Powerfull ) - Deno and other typescript LSP working well together
 - [budswa/nvim](https://github.com/budswa/nvim) - 
 - [ReekenX/awesome-configs](https://github.com/ReekenX/awesome-configs) - Personal Awesome WM (window manager) configurations with Holo theme.
