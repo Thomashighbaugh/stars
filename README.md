@@ -1521,6 +1521,7 @@
 - [Thomashighbaugh/stars](https://github.com/Thomashighbaugh/stars) - A curated list of my GitHub stars!
 - [zeikar/fairy-of-grass](https://github.com/zeikar/fairy-of-grass) - :octocat: Auto generating Github contributions everyday using Github Actions.
 - [neutralinojs/evaluation](https://github.com/neutralinojs/evaluation) - Neutralinojs vs Electron vs Nw.js
+- [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
 - [aniftyco/awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss) - 😎 Awesome things related to Tailwind CSS
 - [Lifka/hacking-resources](https://github.com/Lifka/hacking-resources) - Hacking resources and cheat sheets. References, tools, scripts, tutorials, and other resources that help offensive and defensive security professionals.
 - [mossailem/flappe](https://github.com/mossailem/flappe) - Flappe (Flat UI Colors Pallete for Inkscape) is collection of color pallete for Inkscape that inspired from Flat UI Colors Pallete.
@@ -2228,6 +2229,7 @@
 - [OrancheloTeam/oranchelo-icon-theme](https://github.com/OrancheloTeam/oranchelo-icon-theme) - :tangerine: Oranchelo icon theme by http://zayronxio.deviantart.com/
 - [tliron/install-gnome-themes](https://github.com/tliron/install-gnome-themes) - Script to install the latest versions of some fine GNOME 3 themes
 - [numixproject/numix-cursor-theme](https://github.com/numixproject/numix-cursor-theme) - Numix cursor theme for Linux
+- [ful1e5/Bibata_Cursor](https://github.com/ful1e5/Bibata_Cursor) - Opensource, compact, and material designed cursor set.
 - [gusbemacbe/suru-plus](https://github.com/gusbemacbe/suru-plus) - Suru++ 25 — A cyberpunk, elegant, futuristic and Papirus-like third-party icons theme
 - [simoniz0r/spm](https://github.com/simoniz0r/spm) - spm is a simple commandline package manager written in bash
 - [zayronxio/Zafiro-icons](https://github.com/zayronxio/Zafiro-icons) - icon pack flat with light colors
@@ -2371,7 +2373,6 @@
 - [digimezzo/knowte](https://github.com/digimezzo/knowte) - Cross platform note taking application
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
-- [ful1e5/Bibata_Cursor](https://github.com/ful1e5/Bibata_Cursor) - Opensource, compact, and material designed cursor set.
 - [nteract/nteract](https://github.com/nteract/nteract) - 📘 The interactive computing suite for you!  ✨
 - [gpmer/gpm.js](https://github.com/gpmer/gpm.js) - :gem:Git Package Manager, make you manage the repository easier, Power by Typescript & Nodejs
 - [akveo/eva-icons](https://github.com/akveo/eva-icons) - A pack of more than 480 beautifully crafted Open Source icons. SVG, Sketch, Web Font and Animations support.
@@ -2420,7 +2421,7 @@
 - [matthewstrasiotto/dotfiles](https://github.com/matthewstrasiotto/dotfiles) - Modular :package: dotfile repo that uses dotbot profiles to make bootstrapping :zap: lighting fast, on (almost) any env.
 - [Rigellute/rigel](https://github.com/Rigellute/rigel) - 🌌 Colorscheme for vim, terminal, vscode and slack - based on the star Rigel ✨.
 - [vim/vim](https://github.com/vim/vim) - The official Vim repository
-- [waltereikrem/DOTFILES](https://github.com/waltereikrem/DOTFILES) - my linux dotfiles / configs
+- [ellysaurus/DOTFILES](https://github.com/ellysaurus/DOTFILES) - my linux dotfiles / configs
 - [Shishqa/dotfiles-old](https://github.com/Shishqa/dotfiles-old) - 
 - [sainnhe/everforest](https://github.com/sainnhe/everforest) - 🌲 Comfortable & Pleasant Color Scheme for Vim
 - [Thomashighbaugh/base16-vice-scheme](https://github.com/Thomashighbaugh/base16-vice-scheme) - A color scheme for base16 enabling the use of blues on dark screens without eye pain, inspired by Miami Vice and used extensively in my dotfiles and elsewhere.
@@ -2436,7 +2437,6 @@
 
 - [SamirM-BE/ErasMail](https://github.com/SamirM-BE/ErasMail) - An open source tool for cleaning email boxes and saving the planet
 - [Schrodinger-Hat/ImageGoNord](https://github.com/Schrodinger-Hat/ImageGoNord) - A tool that can convert your rgb images to nordtheme palette
-- [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
 - [lostdesign/webgems](https://github.com/lostdesign/webgems) - A curated list of resources for devs and designers. Join me on devcord.com if you are up for a chit chat :)
 - [Litarvan/lightdm-webkit-theme-litarvan](https://github.com/Litarvan/lightdm-webkit-theme-litarvan) - Litarvan's LightDM HTML Theme
 - [Exauthor/lightdm-webkit-theme-osmos](https://github.com/Exauthor/lightdm-webkit-theme-osmos) - Osmos
