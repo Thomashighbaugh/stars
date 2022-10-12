@@ -171,6 +171,7 @@
 - [christophgysin/pasystray](https://github.com/christophgysin/pasystray) - PulseAudio system tray
 - [CristianHenzel/ClipIt](https://github.com/CristianHenzel/ClipIt) - ClipIt clipboard manager for GTK+
 - [conformal/spectrwm](https://github.com/conformal/spectrwm) - A small dynamic tiling window manager for X11.
+- [Embroidermodder/Embroidermodder](https://github.com/Embroidermodder/Embroidermodder) - Free machine embroidery software supporting a variety of formats.
 - [cfenollosa/os-tutorial](https://github.com/cfenollosa/os-tutorial) - How to create an OS from scratch
 
 ## C# # 
@@ -282,7 +283,6 @@
 - [mjshofy/glass-morphism-ui-card-design](https://github.com/mjshofy/glass-morphism-ui-card-design) - Learn to create a glass morphism UI card using HTML and CSS easily
 - [fcnoronha/WordArtBot](https://github.com/fcnoronha/WordArtBot) - 🎨 The WordArt generator bot for Telegram @bestWordArtBot
 - [aemi-dev/Fonts](https://github.com/aemi-dev/Fonts) - A curation of fonts from all over the world.
-- [IanLunn/Hover](https://github.com/IanLunn/Hover) - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in C
 - [braintree/jsdoc-template](https://github.com/braintree/jsdoc-template) - A clean, responsive documentation template with search and navigation highlighting for JSDoc 3
 - [tobiasahlin/SpinKit](https://github.com/tobiasahlin/SpinKit) - A collection of loading indicators animated with CSS
 - [saishmhatre47/Artist-Portfolio](https://github.com/saishmhatre47/Artist-Portfolio) - My Art Website.
@@ -1074,7 +1074,7 @@
 - [Jeremie1001/awesome-dotfiles](https://github.com/Jeremie1001/awesome-dotfiles) - 
 - [huytd/awesome-wm-config](https://github.com/huytd/awesome-wm-config) - 
 - [potamides/dotfiles](https://github.com/potamides/dotfiles) - My personal dotfiles for most of the programs I use on a daily basis.
-- [adwinying/dotfiles](https://github.com/adwinying/dotfiles) - dotfiles for the command line home
+- [adwinying/dotfiles](https://github.com/adwinying/dotfiles) - There's no place like ~/
 - [cstsunfu/.sea.nvim](https://github.com/cstsunfu/.sea.nvim) - 21st-century Neovim configure. Mainly implemented by lua.
 - [himanshumehta1114/awesomeWM-Rofi-rice](https://github.com/himanshumehta1114/awesomeWM-Rofi-rice) - pls help
 - [dynamotn/awesome-config](https://github.com/dynamotn/awesome-config) - My customize configuration for awesomeWM, mirror from Gitlab
@@ -1541,7 +1541,7 @@
 - [karlhorky/learn-to-program](https://github.com/karlhorky/learn-to-program) - Educational resources to learn to program (Foundation in Web Development)
 - [sandoche/Colors-curated-links](https://github.com/sandoche/Colors-curated-links) - A curated list of tools to help you make the best color palettes
 - [sundowndev/hacker-roadmap](https://github.com/sundowndev/hacker-roadmap) - A collection of hacking tools, resources and references to practice ethical hacking.
-- [balena-community/awesome-balena](https://github.com/balena-community/awesome-balena) - A curated list of helpful balena community resources.
+- [balena-labs-research/awesome-balena](https://github.com/balena-labs-research/awesome-balena) - A curated list of helpful balena community resources.
 - [jovanzers/jovanzers](https://github.com/jovanzers/jovanzers) - Don't just fork, star it! 👀
 - [Thomashighbaugh/Thomashighbaugh](https://github.com/Thomashighbaugh/Thomashighbaugh) - The thing you see when clicking on my username, of course.
 - [AchrafIdir/SublimeText-3211-License-Key-](https://github.com/AchrafIdir/SublimeText-3211-License-Key-) - 
@@ -1881,6 +1881,7 @@
 - [phocus/gtk](https://github.com/phocus/gtk) - From scratch, clean and opinionated GTK3 implementation of the phocus color scheme.
 - [UbuntuBudgie/pocillo-gtk-theme](https://github.com/UbuntuBudgie/pocillo-gtk-theme) - GTK+ 3.22 & GTK+ 4 based theme for the Budgie Desktop that has Material Design elements and styled using the Arc colour palette
 - [Infamoustrey/outrun-css](https://github.com/Infamoustrey/outrun-css) - An epic css framework for cyberpunk websites
+- [IanLunn/Hover](https://github.com/IanLunn/Hover) - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in C
 - [prakhar1989/docker-curriculum](https://github.com/prakhar1989/docker-curriculum) - :dolphin: A comprehensive tutorial on getting started with Docker!
 - [Thomashighbaugh/Not-Another-Devlog](https://github.com/Thomashighbaugh/Not-Another-Devlog) - Final form of my devlog. Built with React, Gatsby, SASS, Bootstrap, FontAwesome and SpaceMacs!
 - [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
@@ -1910,7 +1911,6 @@
 - [Thomashighbaugh/electric-tantra-xfce4-branding](https://github.com/Thomashighbaugh/electric-tantra-xfce4-branding) - electric-tantra-xfce4-branding
 - [m2orris/GIMP-scripts](https://github.com/m2orris/GIMP-scripts) - Various scripts for GIMP
 - [pixlsus/registry.gimp.org_static](https://github.com/pixlsus/registry.gimp.org_static) - A wget backup of http://registry.gimp.org
-- [Embroidermodder/Embroidermodder](https://github.com/Embroidermodder/Embroidermodder) - Free machine embroidery software supporting a variety of formats.
 
 ## Shell 
 
