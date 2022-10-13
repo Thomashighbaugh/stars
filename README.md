@@ -1040,7 +1040,7 @@
 - [Kasper24/KwesomeDE](https://github.com/Kasper24/KwesomeDE) - A desktop environment made in AwesomeWM
 - [JavaCafe01/awesome-wallpaper](https://github.com/JavaCafe01/awesome-wallpaper) - 
 - [Crylia/crylia-theme](https://github.com/Crylia/crylia-theme) - A theme for AwesomeWM
-- [b0o/nvim-conf](https://github.com/b0o/nvim-conf) - Maddison's neovim configuration!
+- [b0o/nvim-conf](https://github.com/b0o/nvim-conf) - :neovim: Maddison's neovim configuration!
 - [ashincoder/StarVim](https://github.com/ashincoder/StarVim) - A neovim IDE which is beyond the moon 🌚
 - [Mike325/nvim](https://github.com/Mike325/nvim) - My personal lua configs for latest stable and nightly neovim
 - [vuki656/dotfiles](https://github.com/vuki656/dotfiles) - 🍚 Some nice dots
@@ -1777,7 +1777,7 @@
 - [TheSpeedX/TBomb](https://github.com/TheSpeedX/TBomb) - This is a SMS And Call Bomber For Linux And Termux
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 - [marcoobaid/qtile](https://github.com/marcoobaid/qtile) - Qtile configuration based on Arch Linux
-- [base16-project/base16-qutebrowser](https://github.com/base16-project/base16-qutebrowser) - base16 themes for qutebrowser
+- [tinted-theming/base16-qutebrowser](https://github.com/tinted-theming/base16-qutebrowser) - base16 themes for qutebrowser
 - [foxmask/joplin-web](https://github.com/foxmask/joplin-web) - :snake: :books: Web application companion for Joplin
 - [InspectorMustache/base16-builder-python](https://github.com/InspectorMustache/base16-builder-python) - A base16 colorscheme builder for Python
 - [Anupam-dagar/Portfolio-Generator](https://github.com/Anupam-dagar/Portfolio-Generator) - HoxNox - Portfolios Made Easy, Generate portfolios in 3 easy steps
@@ -2179,7 +2179,7 @@
 - [archcraft-os/archcraft](https://github.com/archcraft-os/archcraft) - // Source : ISO
 - [Dhghomon/easy_rust](https://github.com/Dhghomon/easy_rust) - Rust explained using easy English
 - [tcode2k16/rofi-chrome](https://github.com/tcode2k16/rofi-chrome) - a browser extension for better tab navigation without injecting javascript code on every tab you open
-- [base16-project/base16-fzf](https://github.com/base16-project/base16-fzf) - base16 colorschemes for fzf
+- [tinted-theming/base16-fzf](https://github.com/tinted-theming/base16-fzf) - base16 colorschemes for fzf
 - [jeffscode/Makeiso](https://github.com/jeffscode/Makeiso) - Makeiso creates an Arch based ISO with CLI installer, duplicating the users Arch install for installation
 - [gsanhueza/ArchISOMaker](https://github.com/gsanhueza/ArchISOMaker) - A custom Arch Linux ISO Maker
 - [Hyzual/docker-gitit](https://github.com/Hyzual/docker-gitit) - Gitit wiki on Docker. Uses debian.
@@ -2272,7 +2272,7 @@
 - [ant-design/ant-design-icons](https://github.com/ant-design/ant-design-icons) - ⭐ Ant Design SVG Icons
 - [react-icons/react-icons](https://github.com/react-icons/react-icons) - svg react icons of popular icon packs
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - SiYuan is a local-first personal knowledge management system, supports fine-grained block-level reference, and Markdown WYSIWYG. 思源笔记是一款本地优先的个人知识管理系统， 支持细粒度块级引用和 Markdown 所见即所得。Roadmap https://github.
-- [noahdotms/web3-link-tree](https://github.com/noahdotms/web3-link-tree) - (🔗, 🌲) Web3 Link Tree is a free & open-source alternative to Linktree built with React.js, Next.js, Tailwind and Web3-React
+- [noahm-s/web3-link-tree](https://github.com/noahm-s/web3-link-tree) - (🔗, 🌲) Web3 Link Tree is a free & open-source alternative to Linktree built with React.js, Next.js, Tailwind and Web3-React
 - [cosmoscout/tasty.js](https://github.com/cosmoscout/tasty.js) - 🍰 A delicious Pie- and Marking-Menu Framework written in TypeScript.
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
 - [anirudhvarma12/rabbit-hole-webext](https://github.com/anirudhvarma12/rabbit-hole-webext) - A Browser Extension to trace your Wikipedia Journeys
