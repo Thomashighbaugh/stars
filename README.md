@@ -1040,7 +1040,7 @@
 - [Kasper24/KwesomeDE](https://github.com/Kasper24/KwesomeDE) - A desktop environment made in AwesomeWM
 - [JavaCafe01/awesome-wallpaper](https://github.com/JavaCafe01/awesome-wallpaper) - 
 - [Crylia/crylia-theme](https://github.com/Crylia/crylia-theme) - A theme for AwesomeWM
-- [b0o/nvim-conf](https://github.com/b0o/nvim-conf) - :neovim: Maddison's neovim configuration!
+- [b0o/nvim-conf](https://github.com/b0o/nvim-conf) - ☄ Maddison's neovim configuration!
 - [ashincoder/StarVim](https://github.com/ashincoder/StarVim) - A neovim IDE which is beyond the moon 🌚
 - [Mike325/nvim](https://github.com/Mike325/nvim) - My personal lua configs for latest stable and nightly neovim
 - [vuki656/dotfiles](https://github.com/vuki656/dotfiles) - 🍚 Some nice dots
@@ -2418,7 +2418,7 @@
 - [skywind3000/vim-quickui](https://github.com/skywind3000/vim-quickui) - The missing UI extensions for Vim 8.2 (and NeoVim 0.4) !! :sunglasses:
 - [ktonga/vim-follow-my-lead](https://github.com/ktonga/vim-follow-my-lead) - Vim plugin for showing all your &lt;Leader&gt; mappings in a readable table including the descriptions.
 - [mhinz/vim-galore](https://github.com/mhinz/vim-galore) - :mortar_board: All things Vim!
-- [matthewstrasiotto/dotfiles](https://github.com/matthewstrasiotto/dotfiles) - Modular :package: dotfile repo that uses dotbot profiles to make bootstrapping :zap: lighting fast, on (almost) any env.
+- [strazto/dotfiles](https://github.com/strazto/dotfiles) - Modular :package: dotfile repo that uses dotbot profiles to make bootstrapping :zap: lighting fast, on (almost) any env.
 - [Rigellute/rigel](https://github.com/Rigellute/rigel) - 🌌 Colorscheme for vim, terminal, vscode and slack - based on the star Rigel ✨.
 - [vim/vim](https://github.com/vim/vim) - The official Vim repository
 - [ellysaurus/DOTFILES](https://github.com/ellysaurus/DOTFILES) - my linux dotfiles / configs
