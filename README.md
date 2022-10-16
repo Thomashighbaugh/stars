@@ -2229,7 +2229,7 @@
 - [OrancheloTeam/oranchelo-icon-theme](https://github.com/OrancheloTeam/oranchelo-icon-theme) - :tangerine: Oranchelo icon theme by http://zayronxio.deviantart.com/
 - [tliron/install-gnome-themes](https://github.com/tliron/install-gnome-themes) - Script to install the latest versions of some fine GNOME 3 themes
 - [numixproject/numix-cursor-theme](https://github.com/numixproject/numix-cursor-theme) - Numix cursor theme for Linux
-- [ful1e5/Bibata_Cursor](https://github.com/ful1e5/Bibata_Cursor) - Opensource, compact, and material designed cursor set.
+- [ful1e5/Bibata_Cursor](https://github.com/ful1e5/Bibata_Cursor) - Open source, compact, and material designed cursor set.
 - [gusbemacbe/suru-plus](https://github.com/gusbemacbe/suru-plus) - Suru++ 25 — A cyberpunk, elegant, futuristic and Papirus-like third-party icons theme
 - [simoniz0r/spm](https://github.com/simoniz0r/spm) - spm is a simple commandline package manager written in bash
 - [zayronxio/Zafiro-icons](https://github.com/zayronxio/Zafiro-icons) - icon pack flat with light colors
@@ -2272,7 +2272,6 @@
 - [ant-design/ant-design-icons](https://github.com/ant-design/ant-design-icons) - ⭐ Ant Design SVG Icons
 - [react-icons/react-icons](https://github.com/react-icons/react-icons) - svg react icons of popular icon packs
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - SiYuan is a local-first personal knowledge management system, supports fine-grained block-level reference, and Markdown WYSIWYG. 思源笔记是一款本地优先的个人知识管理系统， 支持细粒度块级引用和 Markdown 所见即所得。Roadmap https://github.
-- [0xnaut/web3-link-tree](https://github.com/0xnaut/web3-link-tree) - (🔗, 🌲) Web3 Link Tree is a free & open-source alternative to Linktree built with React.js, Next.js, Tailwind and Web3-React
 - [cosmoscout/tasty.js](https://github.com/cosmoscout/tasty.js) - 🍰 A delicious Pie- and Marking-Menu Framework written in TypeScript.
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
 - [anirudhvarma12/rabbit-hole-webext](https://github.com/anirudhvarma12/rabbit-hole-webext) - A Browser Extension to trace your Wikipedia Journeys
