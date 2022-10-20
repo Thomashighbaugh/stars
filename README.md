@@ -776,7 +776,7 @@
 - [atapas/demolab](https://github.com/atapas/demolab) - Demolab is my fantasy project created to understand the power of JAMstack using JavaScript(Reactjs), API(Netlify and Aws) and pre-built Markup(Gatsby).
 - [atapas/theme-builder](https://github.com/atapas/theme-builder) - The theming system helps you in building a theme of your choice and apply it to test live. Why wait? Just give it a try.
 - [appium/appium](https://github.com/appium/appium) - Cross-platform automation framework for all kinds of your apps built on top of W3C WebDriver protocol
-- [balena-io-playground/raspberry-pineapple](https://github.com/balena-io-playground/raspberry-pineapple) - Build your own WiFi Pineapple, with Resin.io and a raspberry pi
+- [balena-io-experimental/raspberry-pineapple](https://github.com/balena-io-experimental/raspberry-pineapple) - Build your own WiFi Pineapple, with Resin.io and a raspberry pi
 - [JoseRFelix/nextjs-starter-blog](https://github.com/JoseRFelix/nextjs-starter-blog) - Next.js template for creating a blog. Now with dark mode and Next.js 12 🎉
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [thisisroi/roi-portfolio](https://github.com/thisisroi/roi-portfolio) - ✨ Portfolio site created using Nextjs.
@@ -993,7 +993,7 @@
 - [alohaia/nvimcfg](https://github.com/alohaia/nvimcfg) - My NeoVim configuration with built-in packer, written in Lua.
 - [Massolari/forem.nvim](https://github.com/Massolari/forem.nvim) - Neovim plugin to read, write and post articles on Forem platforms like dev.to
 - [elairavi/luavim](https://github.com/elairavi/luavim) - Luavim is a simple neovim configuration written in lua, aiming to provide a base config.
-- [ray-x/nvim](https://github.com/ray-x/nvim) - Blazing fast neovim setup with 140 plugins.
+- [ray-x/nvim](https://github.com/ray-x/nvim) - Blazing fast neovim setup with 150+ plugins.
 - [nikbrunner/vin](https://github.com/nikbrunner/vin) - This is my personal NeoVim config on which I am working on from time to time, while learning about the whole universe of Vim and NeoVim.
 - [SingularisArt/DeathVim](https://github.com/SingularisArt/DeathVim) - A quick neovim setup.
 - [cubetastic33/dotfiles](https://github.com/cubetastic33/dotfiles) - The dotfiles for my Linux setup
@@ -2287,7 +2287,7 @@
 - [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
 - [Bismuth-Forge/bismuth](https://github.com/Bismuth-Forge/bismuth) - KDE Plasma add-on, that tiles your windows automatically and lets you manage them via keyboard, similarly to i3, Sway or dwm.
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
-- [pankod/refine](https://github.com/pankod/refine) - Build your React-based CRUD applications, without constraints.
+- [refinedev/refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints.
 - [notemarks/notemarks](https://github.com/notemarks/notemarks) - A git based labeling app to manage notes, documents, and bookmarks.
 - [vuejs/vue](https://github.com/vuejs/vue) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 - [mvximenko/dunno](https://github.com/mvximenko/dunno) - Simplified version of IMDb built with React
