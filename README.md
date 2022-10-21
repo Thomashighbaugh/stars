@@ -723,7 +723,7 @@
 - [facebook/react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 - [rustysec/tidalwm](https://github.com/rustysec/tidalwm) - Simple and sane tiling window manager for Gnome Shell
 - [hacknug/tailwindcss-image-rendering](https://github.com/hacknug/tailwindcss-image-rendering) - Image-rendering utilities for Tailwind CSS.
-- [medyo/hackertab.dev](https://github.com/medyo/hackertab.dev) - Hackertab turns your New Tab page into a geeky one that keeps you as a developer updated with the best tools, news, jobs and events.
+- [medyo/hackertab.dev](https://github.com/medyo/hackertab.dev) - All developer news in one tab!
 - [alice0775/userChrome.js](https://github.com/alice0775/userChrome.js) - 
 - [Manjaro-WebDad/jde](https://github.com/Manjaro-WebDad/jde) - Linux desktop environment built with HTML5, CSS, JavaScript and Python.
 - [amit-07/mern-notes-app](https://github.com/amit-07/mern-notes-app) - Simple note maker app using the MERN stack
