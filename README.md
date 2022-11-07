@@ -1287,7 +1287,7 @@
 - [basaran/awesomewm-backham](https://github.com/basaran/awesomewm-backham) - automatically focus back to the previous client on minimize and close
 - [ChrisTitusTech/titus-awesome](https://github.com/ChrisTitusTech/titus-awesome) - Custom AwesomeWM Theme
 - [streetturtle/noobie](https://github.com/streetturtle/noobie) - Create a wibar widget for Awesome WM with no lua code!
-- [Maryll-castelino/awesomewm-dotfiles](https://github.com/Maryll-castelino/awesomewm-dotfiles) - My config files for awesomewm
+- [llyram/awesomewm-dotfiles](https://github.com/llyram/awesomewm-dotfiles) - My config files for awesomewm
 - [purhan/dotfiles](https://github.com/purhan/dotfiles) - 
 - [leafo/moonscript](https://github.com/leafo/moonscript) - :crescent_moon: A language that compiles to Lua
 - [projekt0n/github-nvim-theme](https://github.com/projekt0n/github-nvim-theme) - Github's Neovim themes
@@ -1305,7 +1305,7 @@
 - [Mofiqul/awesome-shell](https://github.com/Mofiqul/awesome-shell) - This is a collection of awesome wm configuration files
 - [ODEX-TOS/tos-desktop-environment](https://github.com/ODEX-TOS/tos-desktop-environment) - Home of TDE - The official desktop environment of TOS
 - [Mic92/awesome-dotfiles](https://github.com/Mic92/awesome-dotfiles) - Configuration files of the window manager awesome
-- [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - An IDE layer for Neovim with sane defaults. Completely free and community driven.
+- [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
 - [pw4ever/awesome-wm-config](https://github.com/pw4ever/awesome-wm-config) - awesome window manager config with persistent dynamic tagging
 - [the-Electric-Tantra-Linux/chhinamasta-icon-theme](https://github.com/the-Electric-Tantra-Linux/chhinamasta-icon-theme) - A Linux icon theme, cobbled together out of other icon themes and modified to fit into my base16 scheme' palette.
 - [drahenprofi/dotfiles](https://github.com/drahenprofi/dotfiles) - Arch Linux dotfiles
