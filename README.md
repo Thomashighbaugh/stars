@@ -244,6 +244,7 @@
 - [ilham25/dotfiles-openbox](https://github.com/ilham25/dotfiles-openbox) - Here is my aether dotfiles openbox version
 - [zakuradev/dotfiles](https://github.com/zakuradev/dotfiles) - Awesome OpenboxWM Custom Environment!
 - [zombieFox/voltTab](https://github.com/zombieFox/voltTab) - 
+- [japanese-goblinn/knowledge-base](https://github.com/japanese-goblinn/knowledge-base) - Collection of almost everything I know
 - [nullgorithm/fonts](https://github.com/nullgorithm/fonts) - My font collection I use for my Windows machine.
 - [saminyasar004/fonts](https://github.com/saminyasar004/fonts) - Here I put all of my fonts that I use while I'm coding.
 - [Burakbo/NightlyFox](https://github.com/Burakbo/NightlyFox) - 🦊🌑 a pretty Firefox customization
@@ -256,7 +257,6 @@
 - [alexhyett/linkinbio](https://github.com/alexhyett/linkinbio) - Link In Bio Page for Instagram, Twitter, Tumblr etc
 - [MM2-0/fdroid](https://github.com/MM2-0/fdroid) - 
 - [daniruiz/skeuos-gtk](https://github.com/daniruiz/skeuos-gtk) - 
-- [rochacbruno/dotfiles](https://github.com/rochacbruno/dotfiles) - My Environment Configurations
 - [princekrvert/Ravana](https://github.com/princekrvert/Ravana) - Phishing tool for termux .This includes many websites like facebook,Instagram,Twitter,google etc..
 - [luximus-hunter/FireFix](https://github.com/luximus-hunter/FireFix) - Small fixes for the FireFox UI to make it more consistent
 - [Possibly-Matt/Firefox-UI-Fix](https://github.com/Possibly-Matt/Firefox-UI-Fix) - 🦊 I respect proton UI but I miss the panel icons!
@@ -722,7 +722,6 @@
 - [facebook/react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 - [rustysec/tidalwm](https://github.com/rustysec/tidalwm) - Simple and sane tiling window manager for Gnome Shell
 - [hacknug/tailwindcss-image-rendering](https://github.com/hacknug/tailwindcss-image-rendering) - Image-rendering utilities for Tailwind CSS.
-- [medyo/hackertab.dev](https://github.com/medyo/hackertab.dev) - All developer news in one tab!
 - [alice0775/userChrome.js](https://github.com/alice0775/userChrome.js) - 
 - [Manjaro-WebDad/jde](https://github.com/Manjaro-WebDad/jde) - Linux desktop environment built with HTML5, CSS, JavaScript and Python.
 - [amit-07/mern-notes-app](https://github.com/amit-07/mern-notes-app) - Simple note maker app using the MERN stack
@@ -1344,7 +1343,6 @@
 
 ## Makefile 
 
-- [japanese-goblinn/knowledge-base](https://github.com/japanese-goblinn/knowledge-base) - Collection of almost everything I know
 - [pierres/archiso-manager](https://github.com/pierres/archiso-manager) - 
 - [infectedmushi/android_device_oneplus_instantnoodle-dev](https://github.com/infectedmushi/android_device_oneplus_instantnoodle-dev) - TWRP tree Unified for OnePlus 8/8 Pro (instantnoodle, instantnoodlep)
 - [lyz-code/blue-book](https://github.com/lyz-code/blue-book) - My personal knowledge repository
@@ -1956,6 +1954,7 @@
 - [archcraft-os/archcraft-openbox](https://github.com/archcraft-os/archcraft-openbox) - // Configuration : Openbox
 - [myspaghetti/macos-virtualbox](https://github.com/myspaghetti/macos-virtualbox) - Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox for Windows, Linux, and macOS
 - [oddlama/gentoo-install](https://github.com/oddlama/gentoo-install) - A gentoo installer with a TUI interface that supports systemd and OpenRC, EFI and BIOS, as well as variable disk layouts using ext4, zfs, btrfs, luks and mdraid.
+- [rochacbruno/dotfiles](https://github.com/rochacbruno/dotfiles) - My Environment Configurations
 - [wfleming/gifcast](https://github.com/wfleming/gifcast) - X11 GIF screen recorder
 - [YodaEmbedding/dotfiles](https://github.com/YodaEmbedding/dotfiles) - Personal Linux configuration files (vim, i3, zsh, ...)
 - [martinbjeldbak/self-hosted](https://github.com/martinbjeldbak/self-hosted) - My docker-compose based self-hosted setup including media centre, dns, home automation, and more
@@ -2310,6 +2309,7 @@
 - [PrettyCoffee/fluidity](https://github.com/PrettyCoffee/fluidity) - Fluidity - An accordion based startpage
 - [nixton9/HomePage](https://github.com/nixton9/HomePage) - HomePage app
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - A Markdown Editor for the 21st century.
+- [medyo/hackertab.dev](https://github.com/medyo/hackertab.dev) - All developer news in one tab!
 - [rfarine/art-portfolio](https://github.com/rfarine/art-portfolio) - raefarine.art
 - [Thomashighbaugh/startpage-zwei](https://github.com/Thomashighbaugh/startpage-zwei) - Second Implementation of a Startpage for my browser in Next.js using Typescript and Tailwind.css with Motion Animations and More
 - [notea-org/notea](https://github.com/notea-org/notea) - 📒 Self hosted note taking app stored on S3
