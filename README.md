@@ -1109,7 +1109,7 @@
 - [doyousketch2/luakit_scripts](https://github.com/doyousketch2/luakit_scripts) - lua & css config for luakit browser
 - [StephenWattam/luakit-config](https://github.com/StephenWattam/luakit-config) - My luakit configuration
 - [Elv13/luakit-config](https://github.com/Elv13/luakit-config) - My luakit config
-- [LunarVim/Neovim-from-scratch](https://github.com/LunarVim/Neovim-from-scratch) - A Neovim config designed from scratch to be understandable
+- [LunarVim/Neovim-from-scratch](https://github.com/LunarVim/Neovim-from-scratch) - 📚 A Neovim config designed from scratch to be understandable
 - [luakit/luakit](https://github.com/luakit/luakit) - Fast, small, webkit based browser framework extensible by Lua.
 - [Allaman/nvim](https://github.com/Allaman/nvim) - Straight forward and pure Lua based Neovim configuration for my work as DevOps/Cloud Engineer with batteries included for Python and Golang
 - [xiyaowong/nvim-cursorword](https://github.com/xiyaowong/nvim-cursorword) - highlight the word under the cursor.
@@ -1261,7 +1261,6 @@
 - [Quisl/Awesome-4.0-Config](https://github.com/Quisl/Awesome-4.0-Config) - My setup for the Awesome WM 4.0. This is meant to run on a Thinkpad T410
 - [Stebalien/awesomewm-config](https://github.com/Stebalien/awesomewm-config) - My AwesomeWM config files
 - [ndgnuh/awesome-config](https://github.com/ndgnuh/awesome-config) - Config set(s) for awesomewm
-- [denstiny/awesome-config](https://github.com/denstiny/awesome-config) - awesome config file ,sava my config
 - [Nguyen-Hoang-Nam/nvim-dotfiles-kitty](https://github.com/Nguyen-Hoang-Nam/nvim-dotfiles-kitty) - Neovim + Kitty = ❤️
 - [Creator54/awesome](https://github.com/Creator54/awesome) - Some beautiful awesome configs gathered with some minor changes just switch git checkout $branch and reload(mod+shift+r) to enjoy a new layout. lazy to update README use mod+s instead
 - [Thomashighbaugh/nvim-forge](https://github.com/Thomashighbaugh/nvim-forge) - Lua-first NeoVim Configuration to Actually Make Using NeoVim a Powerful & Enjoyable Experience
