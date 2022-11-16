@@ -843,7 +843,6 @@
 - [themerdev/themer](https://github.com/themerdev/themer) - 🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).
 - [Manoz/k-legrand.com](https://github.com/Manoz/k-legrand.com) - My website powered by Gatsby v2 ❤️
 - [nethruster/ptemplate](https://github.com/nethruster/ptemplate) - A personal website template that's not a pain in the ass to setup and use
-- [kremalicious/portfolio](https://github.com/kremalicious/portfolio) - 👔 Portfolio thingy, built with Gatsby
 - [caljrimmer/portfolio-redux-app](https://github.com/caljrimmer/portfolio-redux-app) - A portfolio template built with Redux and React
 - [HashemKhalifa/webpack-react-boilerplate](https://github.com/HashemKhalifa/webpack-react-boilerplate) - Minimal React 16 and Webpack 4 boilerplate with babel 7, using the new webpack-dev-server, react-hot-loader, CSS-Modules
 - [async-labs/builderbook](https://github.com/async-labs/builderbook) - Open source web application to learn JS stack: React, Material-UI, Next.js, Node.js, Express.js, Mongoose, MongoDB database.
@@ -1212,7 +1211,7 @@
 - [jonaburg/awesome-dotfiles](https://github.com/jonaburg/awesome-dotfiles) - Purely an awesome dotfiles repo to sync my awesomewm environment across several machines
 - [mpostaire/dotfiles](https://github.com/mpostaire/dotfiles) - My dotfiles.
 - [mustaqimM/dotfiles](https://github.com/mustaqimM/dotfiles) - 
-- [figsoda/dotfiles](https://github.com/figsoda/dotfiles) - (Almost fully) declarative NixOS system configuration ft. AwesomeWM and Neovim
+- [figsoda/cfg](https://github.com/figsoda/cfg) - NixOS configuration ft. awesome and neovim
 - [zliebersbach/awesome-md-cfg](https://github.com/zliebersbach/awesome-md-cfg) - Awesome WM configuration for multiple monitors, inspired by the Material Design guidelines.
 - [aidanharris/awesome-config](https://github.com/aidanharris/awesome-config) - My config files for the Awesome window manager
 - [jcrd/awesome-config-deprecated](https://github.com/jcrd/awesome-config-deprecated) - AwesomeWM configuration
@@ -1411,7 +1410,7 @@
 - [matthiasn/talk-transcripts](https://github.com/matthiasn/talk-transcripts) - Transcripts of Clojure-related talks
 - [spencerpauly/awesome-notion](https://github.com/spencerpauly/awesome-notion) - A curated list of awesome Notion related things.
 - [Thomashighbaugh/Awesome-AwesomeWM-Modules-Widgets-And-Libraries](https://github.com/Thomashighbaugh/Awesome-AwesomeWM-Modules-Widgets-And-Libraries) - A community driven, not-so-curated list of projects you can bolt into your AwesomeWM Configuration
-- [s0md3v/be-a-hacker](https://github.com/s0md3v/be-a-hacker) - roadmap for being a self-taught hacker
+- [s0md3v/be-a-hacker](https://github.com/s0md3v/be-a-hacker) - roadmap for becoming a self-taught hacker
 - [fnxln/artixzfs-iso](https://github.com/fnxln/artixzfs-iso) - 
 - [lucasviola/awesome-functional-programming](https://github.com/lucasviola/awesome-functional-programming) - :alien: A curated list of functional programming resources such as blog posts, communities, discussion topics, wikis and more.
 - [mozilla/protocol-assets](https://github.com/mozilla/protocol-assets) - Design assets for Protocol, Mozilla’s design system.
@@ -2368,6 +2367,7 @@
 - [nomcopter/react-mosaic](https://github.com/nomcopter/react-mosaic) - A React tiling window manager
 - [Graviton-Code-Editor/Graviton-App](https://github.com/Graviton-Code-Editor/Graviton-App) - 🚀 A modern-looking Code Editor
 - [lodeapp/lode](https://github.com/lodeapp/lode) - A universal GUI for unit testing built with Electron and Vue.js
+- [kremalicious/portfolio](https://github.com/kremalicious/portfolio) - 👔 Portfolio thingy
 - [kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit) - The web's most popular Jamstack front-end template (boilerplate) for building web applications with React
 - [async-labs/saas](https://github.com/async-labs/saas) - Build your own SaaS business with SaaS boilerplate. Productive stack: React, Material-UI, Next, MobX, WebSockets, Express, Node, Mongoose, MongoDB. Written with TypeScript.
 - [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
