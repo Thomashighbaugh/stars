@@ -233,6 +233,8 @@
 
 ## CSS 
 
+- [matthewelsom/Project-ScssPlaybook](https://github.com/matthewelsom/Project-ScssPlaybook) - 📕 A quick start playbook that includes a simplified Scss structure.
+- [oomphinc/scss-scaffold](https://github.com/oomphinc/scss-scaffold) - A starter SCSS package to keep our projects consistent.
 - [Rasmagoric/Firefox2022](https://github.com/Rasmagoric/Firefox2022) - A new look for your Firefox browser.
 - [QNetITQ/WaveFox](https://github.com/QNetITQ/WaveFox) - Flexible theme for manual customization.
 - [leadweedy/Firefox-Proton-Square](https://github.com/leadweedy/Firefox-Proton-Square) - Makes Firefox Proton UI square again
