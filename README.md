@@ -1162,7 +1162,7 @@
 - [nekonako/xresources-nvim](https://github.com/nekonako/xresources-nvim) - 🎨 Neovim colorscheme based on your xresources color
 - [lewis6991/impatient.nvim](https://github.com/lewis6991/impatient.nvim) - Improve startup time for Neovim
 - [s1n7ax/nvim-comment-frame](https://github.com/s1n7ax/nvim-comment-frame) - Detects the language using treesitter and adds a comment block
-- [n3wborn/nvim](https://github.com/n3wborn/nvim) - My own NVIM (&gt;= v0.8.0-dev) lua config
+- [n3wborn/nvim](https://github.com/n3wborn/nvim) - My own NVIM (&gt;= v0.9.0-dev) lua config
 - [kawaki-san/dotfiles](https://github.com/kawaki-san/dotfiles) - 
 - [koniu/awesome-configs](https://github.com/koniu/awesome-configs) - koniu's awesome config
 - [kurbel/awesome-config](https://github.com/kurbel/awesome-config) - configuration files for the awesome window manager (awesomewm)
@@ -2225,6 +2225,7 @@
 - [kilbith/smi](https://github.com/kilbith/smi) - Simple Multiboot Integrator powered by GRUB
 - [thias/glim](https://github.com/thias/glim) - GRUB Live ISO Multiboot
 - [lilyinstarlight/mkusb](https://github.com/lilyinstarlight/mkusb) - A shell script to create ISO multiboot USB flash drives that support both legacy and EFI boot
+- [jaredallard/dotfiles](https://github.com/jaredallard/dotfiles) - These are my dotfiles. There are many like them, but these are mine.
 - [grm34/archboot](https://github.com/grm34/archboot) - 💠 Arch Linux Installer | No more maintained, please use https://github.com/archlinux/archinstall
 - [cbrnix/Newaita](https://github.com/cbrnix/Newaita) - Linux icon theme
 - [Thomashighbaugh/colt45gui](https://github.com/Thomashighbaugh/colt45gui) - Quickly Provision Your Linux Desktop With Useful Applications With a GUI Installer Menu
@@ -2310,7 +2311,7 @@
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
 - [trufflesuite/truffle](https://github.com/trufflesuite/truffle) - A tool for developing smart contracts. Crafted with the finest cacaos.
 - [linnovate/mean](https://github.com/linnovate/mean) - The MEAN stack uses Mongo, Express, Angular(6) and Node for simple and scalable fullstack js applications
-- [nitin27may/mean-docker](https://github.com/nitin27may/mean-docker) - A Mean stack (Angular  14.2.2, Expressjs 4.17.1, MongoDB) jump start project with support of docker.
+- [nitin27may/mean-docker](https://github.com/nitin27may/mean-docker) - A Mean stack (Angular  15.0.0, Expressjs 4.17.1, MongoDB) jump start project with support of docker.
 - [saksmt/awesomewm.d.ts](https://github.com/saksmt/awesomewm.d.ts) - typescript typings for awesome-wm based on typescript-to-lua
 - [Rixcy/community](https://github.com/Rixcy/community) - Community SaaS built using Blitzjs
 - [tsamantanis/react-glassmorphism](https://github.com/tsamantanis/react-glassmorphism) - A react UI component library for glassmorphic components
@@ -2433,7 +2434,6 @@
 - [Thomashighbaugh/base16-vice-scheme](https://github.com/Thomashighbaugh/base16-vice-scheme) - A color scheme for base16 enabling the use of blues on dark screens without eye pain, inspired by Miami Vice and used extensively in my dotfiles and elsewhere.
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [mklan/dotfiles](https://github.com/mklan/dotfiles) - personal GNU/Linux system configuration
-- [jaredallard/dotfiles](https://github.com/jaredallard/dotfiles) - These are my dotfiles. There are many like them, but these are mine.
 
 ## Vim Snippet 
 
