@@ -18,7 +18,6 @@
 - [Common Lisp](#common-lisp)
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
-- [EJS](#ejs)
 - [Elixir](#elixir)
 - [Emacs Lisp](#emacs-lisp)
 - [Fennel](#fennel)
@@ -204,7 +203,7 @@
 - [wmww/Hedgehog](https://github.com/wmww/Hedgehog) - C++ Wayland compositor
 - [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
 - [keshavbhatt/glate](https://github.com/keshavbhatt/glate) - Open Source Google Translator and TTS App for Linux Desktop
-- [and3rson/dotfiles](https://github.com/and3rson/dotfiles) - My configs: (neo)vim+lua+lsp+treesitter, wayland (riverwm, yambar, sway, waybar), alacritty, tmux, bash, molokai colors and stolen dircolors.
+- [and3rson/dotfiles](https://github.com/and3rson/dotfiles) - My configs: (neo)vim+lua+lsp+treesitter, wayland (riverwm, yambar, sway, waybar), alacritty, tmux, bash, sonokai/molokai colors and stolen dircolors.
 - [xuanxuan0/DripLoader](https://github.com/xuanxuan0/DripLoader) - Evasive shellcode loader for bypassing event-based injection detection (PoC)
 - [AntiMicroX/antimicrox](https://github.com/AntiMicroX/antimicrox) - Graphical program used to map keyboard buttons and mouse controls to a gamepad. Useful for playing games with no gamepad support.
 - [monero-project/monero](https://github.com/monero-project/monero) - Monero: the secure, private, untraceable cryptocurrency
@@ -399,10 +398,6 @@
 - [vulhub/vulhub](https://github.com/vulhub/vulhub) - Pre-Built Vulnerable Environments Based on Docker-Compose
 - [jessfraz/dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
 - [linuxserver/docker-bookstack](https://github.com/linuxserver/docker-bookstack) - A Docker container for the BookStack documentation wiki
-
-## EJS 
-
-- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 
 ## Elixir 
 
@@ -631,6 +626,7 @@
 - [Schneegans/Fly-Pie](https://github.com/Schneegans/Fly-Pie) - :pie: Fly-Pie is an innovative marking menu written as a GNOME Shell extension.
 - [tuberry/shuzhi](https://github.com/tuberry/shuzhi) - Wallpaper generation extension for GNOME Shell, inspired by Jizhi
 - [tesserractmedia/entertainment-ayam](https://github.com/tesserractmedia/entertainment-ayam) - This is the Frontend Website of Entertainment Ayam a  sub-project and part of the Ayam Project ecosystem. This project's aim is to collect data on Hinduphobia being spread through entertainment medium
+- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [svgdotjs/svg.js](https://github.com/svgdotjs/svg.js) - The lightweight library for manipulating and animating SVG
 - [mixu/nwm](https://github.com/mixu/nwm) - Tiling window manager for X11 written in Node.js
 - [ayushman-git/project-manager](https://github.com/ayushman-git/project-manager) - 
@@ -964,7 +960,7 @@
 - [nivalderramas/awesome-config](https://github.com/nivalderramas/awesome-config) - Config files for awesomeWM
 - [nivalderramas/dotfiles](https://github.com/nivalderramas/dotfiles) - Personal dotfiles
 - [dharmx/KrakeNvim](https://github.com/dharmx/KrakeNvim) - Blazing-slow and greasy Neovim configurations.
-- [CanKolay3499/CNvim](https://github.com/CanKolay3499/CNvim) - A lightweight Neovim config for web development
+- [figsh34/CNvim](https://github.com/figsh34/CNvim) - A lightweight Neovim config for web development
 - [JannikWibker/awesome-config](https://github.com/JannikWibker/awesome-config) - Awesome WM config
 - [larkery/awesome](https://github.com/larkery/awesome) - 
 - [edluffy/specs.nvim](https://github.com/edluffy/specs.nvim) - 👓 A fast and lightweight Neovim lua plugin to keep an eye on where your cursor has jumped.
