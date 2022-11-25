@@ -181,6 +181,7 @@
 
 ## C# # 
 
+- [AlexWan/OsEngine](https://github.com/AlexWan/OsEngine) - Open Source algo trading platform
 - [GitCredentialManager/git-credential-manager](https://github.com/GitCredentialManager/git-credential-manager) - Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.
 - [dotnet-architecture/eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers) - Cross-platform .NET sample microservices and container based application that runs on Linux Windows and macOS. Powered by .NET 6, Docker Containers and Azure Kubernetes Services. Supports Visual Studi
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
@@ -191,6 +192,7 @@
 
 ## C++ 
 
+- [ctubio/Krypto-trading-bot](https://github.com/ctubio/Krypto-trading-bot) - Self-hosted crypto trading bot (automated high frequency market making) written in C++
 - [CachyOS/New-Cli-Installer](https://github.com/CachyOS/New-Cli-Installer) - 
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
 - [Nitrux/maui-shell](https://github.com/Nitrux/maui-shell) - Maui Shell is a convergent shell for desktops, tablets, and phones.
@@ -255,7 +257,7 @@
 - [japanese-goblinn/knowledge-base](https://github.com/japanese-goblinn/knowledge-base) - Collection of almost everything I know
 - [nullgorithm/fonts](https://github.com/nullgorithm/fonts) - My font collection I use for my Windows machine.
 - [saminyasar004/fonts](https://github.com/saminyasar004/fonts) - Here I put all of my fonts that I use while I'm coding.
-- [Burakbo/NightlyFox](https://github.com/Burakbo/NightlyFox) - 🦊🌑 a pretty Firefox customization
+- [0xBuro/NightlyFox](https://github.com/0xBuro/NightlyFox) - 🦊🌑 a pretty Firefox customization
 - [fontsource/fontsource](https://github.com/fontsource/fontsource) - Self-host Open Source fonts in neatly bundled NPM packages.
 - [johnpaulada/pandoc-markdown-book-template](https://github.com/johnpaulada/pandoc-markdown-book-template) - A template for creating epub books from markdown using pandoc.
 - [wikiti/pandoc-book-template](https://github.com/wikiti/pandoc-book-template) - A simple Pandoc template to build documents and ebooks.
@@ -434,6 +436,8 @@
 
 ## Go 
 
+- [stellar/kelp](https://github.com/stellar/kelp) - Kelp is a free and open-source trading bot for the Stellar DEX and 100+ centralized exchanges
+- [thrasher-corp/gocryptotrader](https://github.com/thrasher-corp/gocryptotrader) - A cryptocurrency trading bot and framework supporting multiple exchanges written in Golang.
 - [hack4impact-upenn/transcribe4all](https://github.com/hack4impact-upenn/transcribe4all) - Painless speech-to-text transcription
 - [maximumadmin/zramd](https://github.com/maximumadmin/zramd) - Automatically setup swap on zram ✨ with optional systemd support, a simpler alternative to zram-generator and systemd-swap
 - [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features
@@ -609,6 +613,10 @@
 
 ## JavaScript 
 
+- [Haehnchen/crypto-trading-bot](https://github.com/Haehnchen/crypto-trading-bot) - Cryptocurrency trading bot in javascript for Bitfinex, Bitmex, Binance, Bybit ... (public edition)
+- [Superalgos/Superalgos](https://github.com/Superalgos/Superalgos) - Free, open-source crypto trading bot, automated bitcoin / cryptocurrency trading software, algorithmic trading bots. Visually design your crypto trading bot, leveraging an integrated charting system, 
+- [askmike/gekko](https://github.com/askmike/gekko) - A bitcoin trading bot written in node - https://gekko.wizb.it/
+- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 - [ibillingsley/HumbleNewTabPage](https://github.com/ibillingsley/HumbleNewTabPage) - New tab page extension for Chrome and Firefox
 - [DanaMW/userChrome.js](https://github.com/DanaMW/userChrome.js) - Scripts for the Firefox extension userChromeJS
 - [keymorph/notes](https://github.com/keymorph/notes) - A note-taking web application.
@@ -1648,6 +1656,11 @@
 
 ## Python 
 
+- [kieran-mackle/AutoTrader](https://github.com/kieran-mackle/AutoTrader) - A Python-based development platform for automated trading systems - from backtesting to optimisation to livetrading.
+- [ivopetiz/algotrading](https://github.com/ivopetiz/algotrading) - Algorithmic trading framework for cryptocurrencies.
+- [Drakkar-Software/OctoBot](https://github.com/Drakkar-Software/OctoBot) - Cryptocurrency trading bot using technical analysis based strategy with an advanced web interface
+- [jesse-ai/jesse](https://github.com/jesse-ai/jesse) - An advanced crypto trading bot written in Python
+- [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
 - [kovidgoyal/kitty-themes](https://github.com/kovidgoyal/kitty-themes) - Themes for the kitty terminal emulator
 - [qtile/qtile](https://github.com/qtile/qtile) - :cookie: A full-featured, hackable tiling window manager written and configured in Python (X11 + Wayland)
 - [betaboon/nerd-fonts-patcher](https://github.com/betaboon/nerd-fonts-patcher) - nerdfonts-patcher and glyph-sets. noone wants to download 2GB just to patch a font
@@ -1859,6 +1872,7 @@
 
 ## Rust 
 
+- [wangzhe3224/awesome-systematic-trading](https://github.com/wangzhe3224/awesome-systematic-trading) - A curated list of insanely awesome libraries, packages and resources for systematic trading. Crypto, Stock, Futures, Options, CFDs, FX, and more | 量化交易 | 量化投资
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [wezm/bar](https://github.com/wezm/bar) - A bar that lives in the awesome window manager wibar
 - [SuperCuber/dotter](https://github.com/SuperCuber/dotter) - A dotfile manager and templater written in rust 🦀
@@ -2273,6 +2287,7 @@
 
 ## TypeScript 
 
+- [Ekliptor/WolfBot](https://github.com/Ekliptor/WolfBot) - Crypto currency trading bot written in TypeScript for NodeJS
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [Thomashighbaugh/biolink](https://github.com/Thomashighbaugh/biolink) - A temporary solution for my linktree-alternative needs. Because its much easier to type out just one link than a dozen.
 - [withastro/astro](https://github.com/withastro/astro) - Build faster websites with Astro's next-gen island architecture 🏝✨
