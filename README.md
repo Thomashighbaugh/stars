@@ -583,7 +583,7 @@
 ## Haskell 
 
 - [abooij/sudbury](https://github.com/abooij/sudbury) - Haskell implementation of the wayland protocol
-- [srid/neuron](https://github.com/srid/neuron) - Future-proof note-taking and publishing based on Zettelkasten (superseded by Emanote: https://github.com/srid/emanote)
+- [srid/neuron](https://github.com/srid/neuron) - Future-proof note-taking and publishing based on Zettelkasten (superseded by Emanote: https://github.com/EmaApps/emanote)
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 - [phuhl/linux_notification_center](https://github.com/phuhl/linux_notification_center) - A notification daemon/center for linux
 
@@ -831,7 +831,7 @@
 - [kautukkundan/Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates) - A collection of awesome readme templates to display on your profile
 - [beefproject/beef](https://github.com/beefproject/beef) - The Browser Exploitation Framework Project
 - [ClareBee/portfolio-site](https://github.com/ClareBee/portfolio-site) - Personal Portfolio Site in NextJS
-- [jolveradev/jolvera.dev](https://github.com/jolveradev/jolvera.dev) - Personal blog built with Next.js & Rebass
+- [j0lv3r4/jolvera.dev](https://github.com/j0lv3r4/jolvera.dev) - Personal blog built with Next.js & Rebass
 - [pacocoursey/paco](https://github.com/pacocoursey/paco) - personal website and blog
 - [pascalgn/automerge-action](https://github.com/pascalgn/automerge-action) - GitHub action to automatically merge pull requests that are ready
 - [Thomashighbaugh/crazy-wise-gatsby-starter](https://github.com/Thomashighbaugh/crazy-wise-gatsby-starter) - A Gatsby starter for holy fools, with tinaCMS integration and custom artwork
@@ -1095,7 +1095,6 @@
 - [lucc/awesome-config](https://github.com/lucc/awesome-config) - Configuration files for awesome WM
 - [zhangkun83/awesome-config](https://github.com/zhangkun83/awesome-config) - My own awesome-wm configuration
 - [JezerM/dotfiles](https://github.com/JezerM/dotfiles) - My dotfiles
-- [anihm136/dots](https://github.com/anihm136/dots) - Cross-distro dotfiles
 - [jazz-g/NeoPublic](https://github.com/jazz-g/NeoPublic) - Public Share of my dotfiles
 - [Jeremie1001/dotfiles](https://github.com/Jeremie1001/dotfiles) - 
 - [renerocksai/telekasten.nvim](https://github.com/renerocksai/telekasten.nvim) - A Neovim (lua) plugin for working with a markdown zettelkasten / wiki and mixing it with a journal, based on telescope.nvim
@@ -1109,7 +1108,7 @@
 - [tdy/awesome](https://github.com/tdy/awesome) - Configs for awesomeWM
 - [hoelzro/obvious](https://github.com/hoelzro/obvious) - Widget library for the awesome window manager
 - [DanielFGray/dotfiles](https://github.com/DanielFGray/dotfiles) - personal repo of config files
-- [JavaCafe01/dotfiles](https://github.com/JavaCafe01/dotfiles) - My desktop and WSL configuration files
+- [JavaCafe01/dotfiles](https://github.com/JavaCafe01/dotfiles) - My NixOS configuration files
 - [onsails/diaglist.nvim](https://github.com/onsails/diaglist.nvim) - Live render workspace diagnostics in quickfix with current buf errors on top, buffer diagnostics in loclist
 - [mickael-menu/zk-nvim](https://github.com/mickael-menu/zk-nvim) - Neovim extension for zk
 - [amirulmenjeni/dotfiles](https://github.com/amirulmenjeni/dotfiles) - My linux desktop config and theme files.
@@ -2013,6 +2012,7 @@
 - [lane-brain/void-packages](https://github.com/lane-brain/void-packages) - The Void source packages collection
 - [the-Electric-Tantra-Linux/void-packages](https://github.com/the-Electric-Tantra-Linux/void-packages) - Deprecated for the time being, since I have moved back to systemd-based Arch.
 - [storagedaemon/dotfiles](https://github.com/storagedaemon/dotfiles) - 
+- [anihm136/dots](https://github.com/anihm136/dots) - Cross-distro dotfiles
 - [sstallion/vimwiki-skel](https://github.com/sstallion/vimwiki-skel) - Skeleton for seeding new Vimwiki instances
 - [regolith-linux/regolith-styles](https://github.com/regolith-linux/regolith-styles) - A convention for organizing Xresource-based theme data.
 - [VirenMohindra/Cover-Letter-Generator](https://github.com/VirenMohindra/Cover-Letter-Generator) - Bash script which takes in variables and outputs a pdf with personalized signature. Highly customizable.
@@ -2325,7 +2325,7 @@
 - [ixartz/Next-js-Blog-Boilerplate](https://github.com/ixartz/Next-js-Blog-Boilerplate) - 🚀 Nextjs Blog Boilerplate is starter code for your blog based on Next framework. ⚡️ Made with Nextjs 12, TypeScript, ESLint, Prettier, PostCSS, Tailwind CSS 3.
 - [abhishekbhardwaj/tailwind-react-next.js-typescript-eslint-jest-starter](https://github.com/abhishekbhardwaj/tailwind-react-next.js-typescript-eslint-jest-starter) - Starter template for building a project using React, Typescript, Next.js, Jest, TailwindCSS and ESLint.
 - [jlifts/my-portfolio](https://github.com/jlifts/my-portfolio) - My portfolio site and blog made with React/NextJS, ESLint & Prettier, Typescript, NodeJS(Go in the future), and Ghost CMS for the blog. Display of my projects and skills.
-- [theodorusclarence/theodorusclarence.com](https://github.com/theodorusclarence/theodorusclarence.com) - 💠 Personal website and blog made using Next.js, TypeScript, Tailwind CSS, MDX Bundler, FaunaDB, and Preact.
+- [theodorusclarence/theodorusclarence.com](https://github.com/theodorusclarence/theodorusclarence.com) - 💠 Personal website and blog made using Next.js, TypeScript, Tailwind CSS, MDX Bundler, and Prisma with PostgreSQL
 - [lailo/next-with-tailwindcss](https://github.com/lailo/next-with-tailwindcss) - NextJS with TypeScript and TailwindCSS (with dark theme switch)
 - [adonig/nextjs-starter-preact-tailwindcss](https://github.com/adonig/nextjs-starter-preact-tailwindcss) - A Next.js starter project coming with Preact and Tailwind CSS built-in.
 - [remorses/dokz](https://github.com/remorses/dokz) - Effortless documentation with Next.js and MDX
