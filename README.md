@@ -48,6 +48,7 @@
 - [Mustache](#mustache)
 - [Nim](#nim)
 - [Nix](#nix)
+- [Nu](#nu)
 - [Nunjucks](#nunjucks)
 - [Objective-C](#objective-c)
 - [Others](#others)
@@ -96,6 +97,7 @@
 
 ## C 
 
+- [RogueMaster/flipperzero-firmware-wPlugins](https://github.com/RogueMaster/flipperzero-firmware-wPlugins) - Flipper Zero FW [ROGUEMASTER]
 - [jcs/sdorfehs](https://github.com/jcs/sdorfehs) - A tiling window manager
 - [sardemff7/wayhouse](https://github.com/sardemff7/wayhouse) - A Wayland compositor based on libweston and providing most of Wayland Wall protocols
 - [niutech/splitbrowser](https://github.com/niutech/splitbrowser) - Split Browser - a minimalistic, ultra-lightweight, open source web browser based on WebKit/Ultralight/native webview with split screen (tiled) view
@@ -1401,6 +1403,10 @@
 - [terlar/nix-config](https://github.com/terlar/nix-config) - Configuration for NixOS and user home (dot files).
 - [nix-community/nixos-generators](https://github.com/nix-community/nixos-generators) - Collection of image builders [maintainer=@Lassulus]
 
+## Nu 
+
+- [KSXGitHub/aur-packages-builder](https://github.com/KSXGitHub/aur-packages-builder) - Periodically build packages from the Arch User Repository and publish them to my personal pacman repo
+
 ## Nunjucks 
 
 - [chrissy-dev/eleventy-web-starter](https://github.com/chrissy-dev/eleventy-web-starter) - Eleventy Web Starter is a lightweight Eleventy boilerplate utilising, ESBuild Tailwind and PostCSS.
@@ -1545,7 +1551,6 @@
 - [mossailem/flappe](https://github.com/mossailem/flappe) - Flappe (Flat UI Colors Pallete for Inkscape) is collection of color pallete for Inkscape that inspired from Flat UI Colors Pallete.
 - [Robert-96/inkscape-templates](https://github.com/Robert-96/inkscape-templates) - A collection of SVG templates for Inkscape.
 - [Data4Democracy/ethics-resources](https://github.com/Data4Democracy/ethics-resources) - 
-- [KSXGitHub/aur-packages-builder](https://github.com/KSXGitHub/aur-packages-builder) - Periodically build packages from the Arch User Repository and publish them to my personal pacman repo
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [appacademy/welcome-to-open](https://github.com/appacademy/welcome-to-open) - Overview of App Academy Open
 - [HAX3RxD/report](https://github.com/HAX3RxD/report) - Auto Report Facebook Account
