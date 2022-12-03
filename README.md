@@ -438,6 +438,7 @@
 
 ## Go 
 
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [stellar/kelp](https://github.com/stellar/kelp) - Kelp is a free and open-source trading bot for the Stellar DEX and 100+ centralized exchanges
 - [thrasher-corp/gocryptotrader](https://github.com/thrasher-corp/gocryptotrader) - A cryptocurrency trading bot and framework supporting multiple exchanges written in Golang.
 - [hack4impact-upenn/transcribe4all](https://github.com/hack4impact-upenn/transcribe4all) - Painless speech-to-text transcription
@@ -958,6 +959,7 @@
 
 ## Lua 
 
+- [penguin-fyi/awesome-config](https://github.com/penguin-fyi/awesome-config) - Source files for penguin-desktop-awesome
 - [VonHeikemen/dotfiles](https://github.com/VonHeikemen/dotfiles) - 
 - [glepnir/coman.nvim](https://github.com/glepnir/coman.nvim) - neovim plugin for comment and annotation
 - [JryChn/ModuleVim](https://github.com/JryChn/ModuleVim) - A NeoVim configuration
@@ -1379,6 +1381,7 @@
 
 ## Nim 
 
+- [codic12/worm](https://github.com/codic12/worm) - A dynamic, tag-based window manager written in Nim
 - [juancarlospaco/nim-chonker](https://github.com/juancarlospaco/nim-chonker) - Arch Linux Pacman Optimizer: Your Arch Linux is too fat, lets make it lightweight
 - [avahe-kellenberger/nimdow](https://github.com/avahe-kellenberger/nimdow) - A window manager written in Nim (In Development)
 
@@ -1944,6 +1947,7 @@
 
 ## Shell 
 
+- [faisyl/alpine-runit](https://github.com/faisyl/alpine-runit) - Repo for the docker image of the same name.
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 - [lincheney/fzf-tab-completion](https://github.com/lincheney/fzf-tab-completion) - Tab completion using fzf
 - [jorgeloopzz/dotfiles](https://github.com/jorgeloopzz/dotfiles) - ❤️ My dotfiles repo, where you can find all my window managers and apps configurations.
