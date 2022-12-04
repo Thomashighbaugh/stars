@@ -2095,7 +2095,6 @@
 - [marciliocn/void-installer](https://github.com/marciliocn/void-installer) - Installer script as a alternative for default Void Linux installer.
 - [mobinmob/void-66-services](https://github.com/mobinmob/void-66-services) - 66 service frontends for voidlinux
 - [masoodskio/Void-Install](https://github.com/masoodskio/Void-Install) - Helper script for installing encrypted voidlinux
-- [starkers/void-mklive](https://github.com/starkers/void-mklive) - The Void Linux live image maker
 - [bhikandeshmukh/instarat](https://github.com/bhikandeshmukh/instarat) - best tool for instagram followers increasing
 - [Fosstack/dotfiles](https://github.com/Fosstack/dotfiles) - Collection of dotfiles for my arch setup
 - [instantOS/iso](https://github.com/instantOS/iso) - Tools for creating a live iso of instantOS
