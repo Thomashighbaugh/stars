@@ -631,7 +631,7 @@
 - [paperwm/PaperWM](https://github.com/paperwm/PaperWM) - Tiled scrollable window management for Gnome Shell
 - [DavidWells/advanced-markdown](https://github.com/DavidWells/advanced-markdown) - Learn about advanced markdown techniques
 - [DavidWells/markdown-magic](https://github.com/DavidWells/markdown-magic) - 💫  Automatically format markdown files using comment blocks. Update contents via custom transforms, external data sources & your source code.
-- [notion-enhancer/desktop](https://github.com/notion-enhancer/desktop) - an enhancer/customiser for the all-in-one productivity workspace notion.so (app)
+- [notion-enhancer/notion-enhancer](https://github.com/notion-enhancer/notion-enhancer) - an enhancer/customiser for the all-in-one productivity workspace notion.so
 - [Broomber/vice-city-menu](https://github.com/Broomber/vice-city-menu) - Trying to create a semblance of the main menu of the "Grand Theft Auto - Vice City" game.
 - [furcan/IconPicker](https://github.com/furcan/IconPicker) - Use the Font Awesome Icons (Font Awesome Free v5.11.2) in your HTML forms. (1544 icons)
 - [4cm4k1/personal-website](https://github.com/4cm4k1/personal-website) - Personal website – made with Next.js, Preact, MDX, RMWC, & Vercel
@@ -1062,7 +1062,6 @@
 - [b0o/nvim-conf](https://github.com/b0o/nvim-conf) - ☄ Maddison's Neovim configuration!
 - [ashincoder/StarVim](https://github.com/ashincoder/StarVim) - A neovim IDE which is beyond the moon 🌚
 - [Mike325/nvim](https://github.com/Mike325/nvim) - My personal lua configs for latest stable and nightly neovim
-- [vuki656/dotfiles](https://github.com/vuki656/dotfiles) - 🍚 Some nice dots
 - [Ham5andw1ch/AwesomeWM-Unity](https://github.com/Ham5andw1ch/AwesomeWM-Unity) - An attempt to recreate the Ubuntu Unity workflow in AwesomeWM
 - [EdenEast/nyx](https://github.com/EdenEast/nyx) - ⚙️Nix[OS] Configuration
 - [jazz-g/shining-plum](https://github.com/jazz-g/shining-plum) - Dotfiles for r/unixporn
