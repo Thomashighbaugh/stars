@@ -1916,6 +1916,7 @@
 
 ## SCSS 
 
+- [numixproject/numix-gtk-theme](https://github.com/numixproject/numix-gtk-theme) - A modern flat theme with a combination of light and dark elements.
 - [phocus/gtk](https://github.com/phocus/gtk) - From scratch, clean and opinionated GTK3 implementation of the phocus color scheme.
 - [UbuntuBudgie/pocillo-gtk-theme](https://github.com/UbuntuBudgie/pocillo-gtk-theme) - GTK+ 3.22 & GTK+ 4 based theme for the Budgie Desktop that has Material Design elements and styled using the Arc colour palette
 - [Infamoustrey/outrun-css](https://github.com/Infamoustrey/outrun-css) - An epic css framework for cyberpunk websites
@@ -1952,6 +1953,8 @@
 
 ## Shell 
 
+- [ideas-man/artix-wizard](https://github.com/ideas-man/artix-wizard) - A collection of install/setup/configuration scripts for quick and painless workstation/server environment deployment under Artix Linux.
+- [metis-os/metis-iso](https://github.com/metis-os/metis-iso) - // source code and iso of metis linux
 - [alvatip/Nordzy-icon](https://github.com/alvatip/Nordzy-icon) - Nordzy is a free and open source icon theme for Linux desktops using the Nord color palette from Arctic Ice Studio and based on WhiteSur and Numix Icon Theme.
 - [lsfratel/simple-artix-custom-iso-builder](https://github.com/lsfratel/simple-artix-custom-iso-builder) - A simple artix custom iso builder with config file
 - [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an 
