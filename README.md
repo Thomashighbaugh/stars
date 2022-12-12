@@ -983,6 +983,7 @@
 - [nivalderramas/dotfiles](https://github.com/nivalderramas/dotfiles) - Personal dotfiles
 - [dharmx/nvim](https://github.com/dharmx/nvim) - Blazing-slow and greasy Neovim configurations.
 - [CanKolay3499/CNvim](https://github.com/CanKolay3499/CNvim) - A lightweight Neovim config for web development
+- [Stardust-kyun/dotfiles](https://github.com/Stardust-kyun/dotfiles) - 🌸 - Personal Dotfiles
 - [JannikWibker/awesome-config](https://github.com/JannikWibker/awesome-config) - Awesome WM config
 - [larkery/awesome](https://github.com/larkery/awesome) - 
 - [edluffy/specs.nvim](https://github.com/edluffy/specs.nvim) - 👓 A fast and lightweight Neovim lua plugin to keep an eye on where your cursor has jumped.
@@ -1442,7 +1443,6 @@
 - [fnxln/artixzfs-iso](https://github.com/fnxln/artixzfs-iso) - 
 - [lucasviola/awesome-functional-programming](https://github.com/lucasviola/awesome-functional-programming) - :alien: A curated list of functional programming resources such as blog posts, communities, discussion topics, wikis and more.
 - [mozilla/protocol-assets](https://github.com/mozilla/protocol-assets) - Design assets for Protocol, Mozilla’s design system.
-- [Stardust-kyun/dotfiles](https://github.com/Stardust-kyun/dotfiles) - 🌸 - Personal Dotfiles
 - [ReFUI/Artix-Linux-OpenRC-ZFS-iso](https://github.com/ReFUI/Artix-Linux-OpenRC-ZFS-iso) - This is simply a default Artix Linux iso with zfs-dkms installed on it  for ease of installation, linux kernel artix 8.5.3. Wanted to upload it so yall dont have to go through the hassle of installing
 - [szorfein/unix-portfolio](https://github.com/szorfein/unix-portfolio) - Screenshots of my many themes (uncompressed)
 - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
@@ -2352,7 +2352,7 @@
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
 - [trufflesuite/truffle](https://github.com/trufflesuite/truffle) - A tool for developing smart contracts. Crafted with the finest cacaos.
 - [linnovate/mean](https://github.com/linnovate/mean) - The MEAN stack uses Mongo, Express, Angular(6) and Node for simple and scalable fullstack js applications
-- [nitin27may/mean-docker](https://github.com/nitin27may/mean-docker) - A Mean stack (Angular  15.0.0, Expressjs 4.17.1, MongoDB) jump start project with support of docker.
+- [nitin27may/mean-docker](https://github.com/nitin27may/mean-docker) - A Mean stack (Angular  15.0.3, Expressjs 4.17.1, MongoDB) jump start project with support of docker.
 - [saksmt/awesomewm.d.ts](https://github.com/saksmt/awesomewm.d.ts) - typescript typings for awesome-wm based on typescript-to-lua
 - [Rixcy/community](https://github.com/Rixcy/community) - Community SaaS built using Blitzjs
 - [tsamantanis/react-glassmorphism](https://github.com/tsamantanis/react-glassmorphism) - A react UI component library for glassmorphic components
