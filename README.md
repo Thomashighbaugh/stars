@@ -1667,6 +1667,7 @@
 
 ## Python 
 
+- [voider755/almh](https://github.com/voider755/almh) - Gives you a CLI menu with some common maintenance options inside an Arch Linux system
 - [sh1n3sec/WiCrackFi](https://github.com/sh1n3sec/WiCrackFi) - Python Script to help/automate the WiFi hacking exercises.
 - [opsdisk/pagodo](https://github.com/opsdisk/pagodo) - pagodo (Passive Google Dork) - Automate Google Hacking Database scraping and searching
 - [kieran-mackle/AutoTrader](https://github.com/kieran-mackle/AutoTrader) - A Python-based development platform for automated trading systems - from backtesting to optimisation to livetrading.
@@ -1954,6 +1955,7 @@
 
 ## Shell 
 
+- [gavinlyonsrepo/cylon](https://github.com/gavinlyonsrepo/cylon) - A CLI TUI menu driven bash shell script supporting updates, maintenance,  and system checks for an Arch based Linux distro
 - [xchwarze/wifi-pineapple-cloner](https://github.com/xchwarze/wifi-pineapple-cloner) - Clone WiFi Pineapple NANO/TETRA in generic hardware
 - [ideas-man/artix-wizard](https://github.com/ideas-man/artix-wizard) - A collection of install/setup/configuration scripts for quick and painless workstation/server environment deployment under Artix Linux.
 - [metis-os/metis-iso](https://github.com/metis-os/metis-iso) - // source code and iso of metis linux
