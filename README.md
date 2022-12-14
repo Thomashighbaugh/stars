@@ -98,6 +98,7 @@
 
 ## C 
 
+- [dimaglushkov/dotfiles](https://github.com/dimaglushkov/dotfiles) - configs and scripts
 - [RogueMaster/flipperzero-firmware-wPlugins](https://github.com/RogueMaster/flipperzero-firmware-wPlugins) - Flipper Zero FW [ROGUEMASTER]
 - [jcs/sdorfehs](https://github.com/jcs/sdorfehs) - A tiling window manager
 - [sardemff7/wayhouse](https://github.com/sardemff7/wayhouse) - A Wayland compositor based on libweston and providing most of Wayland Wall protocols
@@ -962,6 +963,7 @@
 
 ## Lua 
 
+- [jcrd/awesome-launch](https://github.com/jcrd/awesome-launch) - AwesomeWM library for launching clients with single instance IDs
 - [Aproxia-dev/.dotfiles](https://github.com/Aproxia-dev/.dotfiles) - 🌸   𝘼𝙞𝙣'𝙩 𝙣𝙤 𝙥𝙡𝙖𝙘𝙚 𝙡𝙞𝙠𝙚 ~/   🏡
 - [penguin-fyi/awesome-config](https://github.com/penguin-fyi/awesome-config) - Source files for penguin-desktop-awesome
 - [VonHeikemen/dotfiles](https://github.com/VonHeikemen/dotfiles) - 
@@ -1060,6 +1062,7 @@
 - [nuxshed/dotfiles](https://github.com/nuxshed/dotfiles) - pls help
 - [Kasper24/KwesomeDE](https://github.com/Kasper24/KwesomeDE) - A desktop environment made in AwesomeWM
 - [JavaCafe01/awesome-wallpaper](https://github.com/JavaCafe01/awesome-wallpaper) - 
+- [rochacbruno/dotfiles](https://github.com/rochacbruno/dotfiles) - My Environment Configurations
 - [Crylia/crylia-theme](https://github.com/Crylia/crylia-theme) - A theme for AwesomeWM
 - [b0o/nvim-conf](https://github.com/b0o/nvim-conf) - ☄ Maddison's Neovim configuration!
 - [ashincoder/StarVim](https://github.com/ashincoder/StarVim) - A neovim IDE which is beyond the moon 🌚
@@ -2006,7 +2009,6 @@
 - [archcraft-os/archcraft-openbox](https://github.com/archcraft-os/archcraft-openbox) - // Configuration : Openbox
 - [myspaghetti/macos-virtualbox](https://github.com/myspaghetti/macos-virtualbox) - Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox for Windows, Linux, and macOS
 - [oddlama/gentoo-install](https://github.com/oddlama/gentoo-install) - A gentoo installer with a TUI interface that supports systemd and OpenRC, EFI and BIOS, as well as variable disk layouts using ext4, zfs, btrfs, luks and mdraid.
-- [rochacbruno/dotfiles](https://github.com/rochacbruno/dotfiles) - My Environment Configurations
 - [wfleming/gifcast](https://github.com/wfleming/gifcast) - X11 GIF screen recorder
 - [YodaEmbedding/dotfiles](https://github.com/YodaEmbedding/dotfiles) - Personal Linux configuration files (vim, i3, zsh, ...)
 - [martinbjeldbak/self-hosted](https://github.com/martinbjeldbak/self-hosted) - My docker-compose based self-hosted setup including media centre, dns, home automation, and more
