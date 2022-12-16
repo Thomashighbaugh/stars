@@ -515,6 +515,7 @@
 
 ## HTML 
 
+- [henrylawson/photish-montage](https://github.com/henrylawson/photish-montage) - A demo site of Photish
 - [themagicalmammal/dotfiles](https://github.com/themagicalmammal/dotfiles) - @themagicalmammal does dotfiles
 - [StefanoCecere/markdown_pandoc_book_template](https://github.com/StefanoCecere/markdown_pandoc_book_template) - a template to create pdf/ePub/html/docx books by Markdown via Pandoc
 - [festackcode/dev-fonts](https://github.com/festackcode/dev-fonts) - 
@@ -1859,6 +1860,7 @@
 
 ## Ruby 
 
+- [henrylawson/photish](https://github.com/henrylawson/photish) - Fast, simple, configurable photo portfolio website generator
 - [markevans/dragonfly](https://github.com/markevans/dragonfly) - A Ruby gem for on-the-fly processing - suitable for image uploading in Rails, Sinatra and much more!
 - [juanjoSanz/aws-pentesting-lab](https://github.com/juanjoSanz/aws-pentesting-lab) - Pentesting lab with a Kali Linux instance accessible via ssh & wireguard VPN and with vulnerable instances in a private subnet
 - [capistrano/capistrano](https://github.com/capistrano/capistrano) - Remote multi-server automation tool
@@ -1958,6 +1960,8 @@
 
 ## Shell 
 
+- [Mizosu97/mizOS](https://github.com/Mizosu97/mizOS) - mizOS installation scripts
+- [0TrashPanda/install-script-artix](https://github.com/0TrashPanda/install-script-artix) - 
 - [gavinlyonsrepo/cylon](https://github.com/gavinlyonsrepo/cylon) - A CLI TUI menu driven bash shell script supporting updates, maintenance,  and system checks for an Arch based Linux distro
 - [xchwarze/wifi-pineapple-cloner](https://github.com/xchwarze/wifi-pineapple-cloner) - Clone WiFi Pineapple NANO/TETRA in generic hardware
 - [ideas-man/artix-wizard](https://github.com/ideas-man/artix-wizard) - A collection of install/setup/configuration scripts for quick and painless workstation/server environment deployment under Artix Linux.
@@ -2288,7 +2292,7 @@
 - [corbindavenport/creative-cloud-linux](https://github.com/corbindavenport/creative-cloud-linux) - PlayOnLinux install script for Adobe Creative Cloud
 - [Bash-it/bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
 - [YunoHost-Apps/staticwebapp_ynh](https://github.com/YunoHost-Apps/staticwebapp_ynh) - Minimal web application for static files (vhost)
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,100+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [theaquacadet/pillager](https://github.com/theaquacadet/pillager) - A wget script that makes pillaging websites much easier.
 - [na--/ebook-tools](https://github.com/na--/ebook-tools) - Shell scripts for organizing and managing ebook collections
 - [nextcloud/nextcloudpi](https://github.com/nextcloud/nextcloudpi) - 📦 Build code for NextcloudPi: Raspberry Pi, Odroid, Rock64, Docker, curl installer...
