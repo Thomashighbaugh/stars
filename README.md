@@ -259,8 +259,6 @@
 - [ilham25/dotfiles-openbox](https://github.com/ilham25/dotfiles-openbox) - Here is my aether dotfiles openbox version
 - [zakuradev/dotfiles](https://github.com/zakuradev/dotfiles) - Awesome OpenboxWM Custom Environment!
 - [zombieFox/voltTab](https://github.com/zombieFox/voltTab) - 
-- [japanese-goblinn/knowledge-base](https://github.com/japanese-goblinn/knowledge-base) - Collection of almost everything I know
-- [notion-enhancer/notion-enhancer](https://github.com/notion-enhancer/notion-enhancer) - an enhancer/customiser for the all-in-one productivity workspace notion.so
 - [nullgorithm/fonts](https://github.com/nullgorithm/fonts) - My font collection I use for my Windows machine.
 - [saminyasar004/fonts](https://github.com/saminyasar004/fonts) - Here I put all of my fonts that I use while I'm coding.
 - [0xBuro/NightlyFox](https://github.com/0xBuro/NightlyFox) - 🦊🌑 a pretty Firefox customization
@@ -621,6 +619,7 @@
 
 ## JavaScript 
 
+- [k4ds3/FactImageGen](https://github.com/k4ds3/FactImageGen) - A web-based tool for generating fact images for Instagram
 - [Haehnchen/crypto-trading-bot](https://github.com/Haehnchen/crypto-trading-bot) - Cryptocurrency trading bot in javascript for Bitfinex, Bitmex, Binance, Bybit ... (public edition)
 - [Superalgos/Superalgos](https://github.com/Superalgos/Superalgos) - Free, open-source crypto trading bot, automated bitcoin / cryptocurrency trading software, algorithmic trading bots. Visually design your crypto trading bot, leveraging an integrated charting system, 
 - [askmike/gekko](https://github.com/askmike/gekko) - A bitcoin trading bot written in node - https://gekko.wizb.it/
@@ -634,6 +633,7 @@
 - [paperwm/PaperWM](https://github.com/paperwm/PaperWM) - Tiled scrollable window management for Gnome Shell
 - [DavidWells/advanced-markdown](https://github.com/DavidWells/advanced-markdown) - Learn about advanced markdown techniques
 - [DavidWells/markdown-magic](https://github.com/DavidWells/markdown-magic) - 💫  Automatically format markdown files using comment blocks. Update contents via custom transforms, external data sources & your source code.
+- [notion-enhancer/notion-enhancer](https://github.com/notion-enhancer/notion-enhancer) - an enhancer/customiser for the all-in-one productivity workspace notion.so
 - [Broomber/vice-city-menu](https://github.com/Broomber/vice-city-menu) - Trying to create a semblance of the main menu of the "Grand Theft Auto - Vice City" game.
 - [furcan/IconPicker](https://github.com/furcan/IconPicker) - Use the Font Awesome Icons (Font Awesome Free v5.11.2) in your HTML forms. (1544 icons)
 - [4cm4k1/personal-website](https://github.com/4cm4k1/personal-website) - Personal website – made with Next.js, Preact, MDX, RMWC, & Vercel
@@ -923,7 +923,7 @@
 ## Jinja 
 
 - [geerlingguy/internet-pi](https://github.com/geerlingguy/internet-pi) - Raspberry Pi config for all things Internet.
-- [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) - Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker
+- [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) - 🐳 Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker
 - [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
 
 ## Julia 
@@ -1375,6 +1375,7 @@
 
 ## Markdown 
 
+- [japanese-goblinn/knowledge-base](https://github.com/japanese-goblinn/knowledge-base) - Collection of almost everything I know
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 
 ## MoonScript 
