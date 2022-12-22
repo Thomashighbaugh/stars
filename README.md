@@ -967,6 +967,7 @@
 
 ## Lua 
 
+- [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal nvim configuration
 - [jcrd/awesome-dovetail](https://github.com/jcrd/awesome-dovetail) - AwesomeWM layout featuring two visible tiled clients
 - [jcrd/awesome-launch](https://github.com/jcrd/awesome-launch) - AwesomeWM library for launching clients with single instance IDs
 - [Aproxia-dev/.dotfiles](https://github.com/Aproxia-dev/.dotfiles) - 🌸   𝘼𝙞𝙣'𝙩 𝙣𝙤 𝙥𝙡𝙖𝙘𝙚 𝙡𝙞𝙠𝙚 ~/   🏡
