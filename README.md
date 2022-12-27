@@ -125,7 +125,6 @@
 - [bakkeby/dusk](https://github.com/bakkeby/dusk) - Just another fork of dwm
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [gch1p/voidnsrun](https://github.com/gch1p/voidnsrun) - Run glibc binaries in musl libc Void Linux environment
-- [qontinuum-dev/ly](https://github.com/qontinuum-dev/ly) - display manager with console UI
 - [yshui/picom](https://github.com/yshui/picom) - A lightweight compositor for X11
 - [phillbush/shod](https://github.com/phillbush/shod) - mouse-based window manager that can tile windows inside floating containers
 - [psychon/lualock](https://github.com/psychon/lualock) - A screenlocker that's highly configurable in lua
