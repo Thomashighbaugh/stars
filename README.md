@@ -440,6 +440,8 @@
 
 ## Go 
 
+- [hellojukay/dl-talebook](https://github.com/hellojukay/dl-talebook) - Downloading books from talebook server。从 talebook 服务器下载电子书。
+- [bookstairs/bookhunter](https://github.com/bookstairs/bookhunter) - A download tools for clawing the ebooks from internets.
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [stellar/kelp](https://github.com/stellar/kelp) - Kelp is a free and open-source trading bot for the Stellar DEX and 100+ centralized exchanges
 - [thrasher-corp/gocryptotrader](https://github.com/thrasher-corp/gocryptotrader) - A cryptocurrency trading bot and framework supporting multiple exchanges written in Golang.
@@ -603,6 +605,7 @@
 
 ## Java 
 
+- [RipMeApp/ripme](https://github.com/RipMeApp/ripme) - Downloads albums in bulk
 - [NeoApplications/Neo-Launcher](https://github.com/NeoApplications/Neo-Launcher) - Free and Open Source Launcher.
 - [Neamar/KISS](https://github.com/Neamar/KISS) - Lightning fast, open-source, &lt; 200kb Android launcher
 - [siddhi-io/siddhi](https://github.com/siddhi-io/siddhi) - Stream Processing and Complex Event Processing Engine
@@ -619,6 +622,12 @@
 
 ## JavaScript 
 
+- [runningcheese/RunningCheese-Firefox](https://github.com/runningcheese/RunningCheese-Firefox) - A Graceful and Powerful Customized Firefox
+- [tkhquang/userChrome.js](https://github.com/tkhquang/userChrome.js) - userChrome.js for Firefox
+- [hanacchi/RestoreFirefoxJS](https://github.com/hanacchi/RestoreFirefoxJS) - userChromeJS scripts to restore Firefox features that have been removed or changed
+- [leohu1/My-UserChrome](https://github.com/leohu1/My-UserChrome) - My UserChrome Css and Script
+- [benzBrake/FirefoxCustomize](https://github.com/benzBrake/FirefoxCustomize) - Ryan 收集的 Firefox 个性化相关资源
+- [thinkswell/javascript-mini-projects](https://github.com/thinkswell/javascript-mini-projects) - Awesome Collection of amazing javascript mini-projects.
 - [pahefu/web-glitch-this](https://github.com/pahefu/web-glitch-this) - Web version of the Glitch-This cli-program made by TotallyNotChase
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first.
 - [k4ds3/FactImageGen](https://github.com/k4ds3/FactImageGen) - A web-based tool for generating fact images for Instagram
@@ -934,6 +943,7 @@
 
 ## Jupyter Notebook 
 
+- [pythonspaces/awesome-resources](https://github.com/pythonspaces/awesome-resources) - Free Learning Resources
 - [aamini/introtodeeplearning](https://github.com/aamini/introtodeeplearning) - Lab Materials for MIT 6.S191: Introduction to Deep Learning
 - [benyaminahmed/nft-image-generator](https://github.com/benyaminahmed/nft-image-generator) - 
 - [hooram/ownphotos](https://github.com/hooram/ownphotos) - Self hosted alternative to Google Photos
@@ -1433,6 +1443,10 @@
 
 ## Others 
 
+- [Zeyad-Azima/Offensive-Resources](https://github.com/Zeyad-Azima/Offensive-Resources) - A Huge Learning Resources with Labs For Offensive Security Players
+- [Correia-jpv/fucking-awesome](https://github.com/Correia-jpv/fucking-awesome) - 😎 Awesome lists about all kinds of interesting topics. With repository stars⭐ and forks🍴
+- [Correia-jpv/fucking-Awesome-Hacking](https://github.com/Correia-jpv/fucking-Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers. With repository stars⭐ and forks🍴
+- [unicodeveloper/resources-i-like](https://github.com/unicodeveloper/resources-i-like) - :books::100: Collection of learning resources i like
 - [infosecn1nja/Red-Teaming-Toolkit](https://github.com/infosecn1nja/Red-Teaming-Toolkit) - This repository contains cutting-edge open-source security tools (OST) for a red teamer and threat hunter.
 - [AlphaTechnolog/dotfiles](https://github.com/AlphaTechnolog/dotfiles) - A repository that contains a collection of various rices that i made over the time
 - [sushiwushi/bug-bounty-dorks](https://github.com/sushiwushi/bug-bounty-dorks) - List of Google Dorks for sites that have responsible disclosure program / bug bounty program
@@ -1967,6 +1981,7 @@
 
 ## Shell 
 
+- [mikeroyal/Developer-Handbook](https://github.com/mikeroyal/Developer-Handbook) - Developer-Handbook
 - [Mizosu97/mizOS](https://github.com/Mizosu97/mizOS) - mizOS installation scripts
 - [0TrashPanda/install-script-artix](https://github.com/0TrashPanda/install-script-artix) - 
 - [gavinlyonsrepo/cylon](https://github.com/gavinlyonsrepo/cylon) - A CLI TUI menu driven bash shell script supporting updates, maintenance,  and system checks for an Arch based Linux distro
@@ -1975,7 +1990,7 @@
 - [metis-os/metis-iso](https://github.com/metis-os/metis-iso) - // source code and iso of metis linux
 - [alvatip/Nordzy-icon](https://github.com/alvatip/Nordzy-icon) - Nordzy is a free and open source icon theme for Linux desktops using the Nord color palette from Arctic Ice Studio and based on WhiteSur and Numix Icon Theme.
 - [lsfratel/simple-artix-custom-iso-builder](https://github.com/lsfratel/simple-artix-custom-iso-builder) - A simple artix custom iso builder with config file
-- [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an 
+- [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - I am using this repository to document my journey learning about DevOps. I began this process on January 1, 2022, and plan to continue until March 31. I will be dedicating one hour each day, including
 - [faisyl/alpine-runit](https://github.com/faisyl/alpine-runit) - Repo for the docker image of the same name.
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 - [lincheney/fzf-tab-completion](https://github.com/lincheney/fzf-tab-completion) - Tab completion using fzf
@@ -2092,7 +2107,7 @@
 - [project-trident/trident-installer](https://github.com/project-trident/trident-installer) - Graphical system install utility
 - [Cogitri/org.freedesktop.Extension.Cogitri](https://github.com/Cogitri/org.freedesktop.Extension.Cogitri) - A Flatpak Extension which includes the stuff I need for development in the VSCode Flatpak
 - [cyberkallan/inshackle-bot](https://github.com/cyberkallan/inshackle-bot) - Get unlimited followers on Instagram for free . Bot by cyber kallan
-- [keithieopia/piu](https://github.com/keithieopia/piu) - Cross platform package manager wrapper
+- [beyondmeh/piu](https://github.com/beyondmeh/piu) - Cross platform package manager wrapper
 - [sineto/vpsm](https://github.com/sineto/vpsm) - vpsm - Void-Packages Sources Management wrapper for XBPS-SRC
 - [fabnicol/mkg](https://github.com/fabnicol/mkg) - Gentoo Linux automatic installer and bootable ISO maker.
 - [jcmdln/gein](https://github.com/jcmdln/gein) - GEntoo INstaller
