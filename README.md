@@ -1783,7 +1783,7 @@
 - [lucidrains/x-transformers](https://github.com/lucidrains/x-transformers) - A simple but complete full-attention transformer with a set of promising experimental features from various papers
 - [noob-hackers/ipdrone](https://github.com/noob-hackers/ipdrone) - Track Location With Live Address And Accuracy In Termux
 - [Shpota/github-activity-generator](https://github.com/Shpota/github-activity-generator) - A script that helps generate a rich GitHub Contribution Graph for your account 🤖
-- [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - A list of awesome applications, software, tools and other materials for Linux distros.
+- [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - A list of awesome Linux softwares!
 - [archlinux/archinstall](https://github.com/archlinux/archinstall) - Arch Linux installer - guided, templates etc.
 - [opparco/PaintsChainer-Gimp](https://github.com/opparco/PaintsChainer-Gimp) - PaintsChainer GIMP 2.8 plug-in
 - [Nyrt/deepdream-gimp](https://github.com/Nyrt/deepdream-gimp) - Gimp Plugin for Deep Dream
@@ -1981,6 +1981,7 @@
 
 ## Shell 
 
+- [Bhaviktutorials/shark](https://github.com/Bhaviktutorials/shark) - Future Of Phishing With less delay
 - [mikeroyal/Developer-Handbook](https://github.com/mikeroyal/Developer-Handbook) - Developer-Handbook
 - [Mizosu97/mizOS](https://github.com/Mizosu97/mizOS) - mizOS installation scripts
 - [0TrashPanda/install-script-artix](https://github.com/0TrashPanda/install-script-artix) - 
