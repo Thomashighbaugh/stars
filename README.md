@@ -99,7 +99,7 @@
 ## C 
 
 - [dimaglushkov/dotfiles](https://github.com/dimaglushkov/dotfiles) - configs and scripts
-- [RogueMaster/flipperzero-firmware-wPlugins](https://github.com/RogueMaster/flipperzero-firmware-wPlugins) - Flipper Zero FW [ROGUEMASTER]
+- [RogueMaster/flipperzero-firmware-wPlugins](https://github.com/RogueMaster/flipperzero-firmware-wPlugins) - RogueMaster FlipperZero Firmware
 - [jcs/sdorfehs](https://github.com/jcs/sdorfehs) - A tiling window manager
 - [sardemff7/wayhouse](https://github.com/sardemff7/wayhouse) - A Wayland compositor based on libweston and providing most of Wayland Wall protocols
 - [niutech/splitbrowser](https://github.com/niutech/splitbrowser) - Split Browser - a minimalistic, ultra-lightweight, open source web browser based on WebKit/Ultralight/native webview with split screen (tiled) view
@@ -266,7 +266,7 @@
 - [johnpaulada/pandoc-markdown-book-template](https://github.com/johnpaulada/pandoc-markdown-book-template) - A template for creating epub books from markdown using pandoc.
 - [wikiti/pandoc-book-template](https://github.com/wikiti/pandoc-book-template) - A simple Pandoc template to build documents and ebooks.
 - [ricksdomein/Awesome-Theme](https://github.com/ricksdomein/Awesome-Theme) - Configs for my Arch-Linux setup.
-- [AllJavi/dotfiles](https://github.com/AllJavi/dotfiles) - 
+- [AllJavi/dotfiles](https://github.com/AllJavi/dotfiles) - Just another awesome gruvbox dotfiles
 - [EliverLara/Kripton](https://github.com/EliverLara/Kripton) - A dark theme with flat style for GNOME
 - [alexhyett/linkinbio](https://github.com/alexhyett/linkinbio) - Link In Bio Page for Instagram, Twitter, Tumblr etc
 - [MM2-0/fdroid](https://github.com/MM2-0/fdroid) - 
@@ -413,6 +413,7 @@
 
 ## Elixir 
 
+- [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based VPN server and firewall
 - [aerosol/wb](https://github.com/aerosol/wb) - Writer's Block - personal wiki engine
 
 ## Emacs Lisp 
@@ -440,6 +441,7 @@
 
 ## Go 
 
+- [evan-buss/openbooks](https://github.com/evan-buss/openbooks) - Search and Download eBooks
 - [hellojukay/dl-talebook](https://github.com/hellojukay/dl-talebook) - Downloading books from talebook server。从 talebook 服务器下载电子书。
 - [bookstairs/bookhunter](https://github.com/bookstairs/bookhunter) - A download tools for clawing the ebooks from internets.
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
@@ -1690,6 +1692,7 @@
 
 ## Python 
 
+- [NoahCardoza/audiobookcup-dl](https://github.com/NoahCardoza/audiobookcup-dl) - Download audiobooks from audiobookcup.com
 - [ianling/glitchgen](https://github.com/ianling/glitchgen) - Randomly generates glitch pattern images
 - [voider755/almh](https://github.com/voider755/almh) - Gives you a CLI menu with some common maintenance options inside an Arch Linux system
 - [sh1n3sec/WiCrackFi](https://github.com/sh1n3sec/WiCrackFi) - Python Script to help/automate the WiFi hacking exercises.
@@ -1783,7 +1786,7 @@
 - [lucidrains/x-transformers](https://github.com/lucidrains/x-transformers) - A simple but complete full-attention transformer with a set of promising experimental features from various papers
 - [noob-hackers/ipdrone](https://github.com/noob-hackers/ipdrone) - Track Location With Live Address And Accuracy In Termux
 - [Shpota/github-activity-generator](https://github.com/Shpota/github-activity-generator) - A script that helps generate a rich GitHub Contribution Graph for your account 🤖
-- [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - A list of awesome Linux softwares!
+- [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - 🐧 A list of awesome Linux softwares
 - [archlinux/archinstall](https://github.com/archlinux/archinstall) - Arch Linux installer - guided, templates etc.
 - [opparco/PaintsChainer-Gimp](https://github.com/opparco/PaintsChainer-Gimp) - PaintsChainer GIMP 2.8 plug-in
 - [Nyrt/deepdream-gimp](https://github.com/Nyrt/deepdream-gimp) - Gimp Plugin for Deep Dream
@@ -1981,6 +1984,7 @@
 
 ## Shell 
 
+- [n0rad/dockerfiles](https://github.com/n0rad/dockerfiles) - My dockerfiles
 - [Bhaviktutorials/shark](https://github.com/Bhaviktutorials/shark) - Future Of Phishing With less delay
 - [mikeroyal/Developer-Handbook](https://github.com/mikeroyal/Developer-Handbook) - Developer-Handbook
 - [Mizosu97/mizOS](https://github.com/Mizosu97/mizOS) - mizOS installation scripts
@@ -2482,7 +2486,7 @@
 - [Ham5andw1ch/NewDots](https://github.com/Ham5andw1ch/NewDots) - Updated dotfiles since I'm too lazy to touch the old repo.
 - [zanshin/dotfiles](https://github.com/zanshin/dotfiles) - My dotfiles.
 - [hiecaq/dotfiles](https://github.com/hiecaq/dotfiles) - My dotfiles that set the world I live in
-- [nikvdp/neomux](https://github.com/nikvdp/neomux) - 
+- [nikvdp/neomux](https://github.com/nikvdp/neomux) - Control Neovim from shells running inside Neovim.
 - [Quiterion/dotfiles](https://github.com/Quiterion/dotfiles) - Dotfiles for my i3 Arch setup, uploaded for redundancy and easy installation on new machines
 - [klausweiss/dotfiles](https://github.com/klausweiss/dotfiles) - 
 - [sheerun/vim-polyglot](https://github.com/sheerun/vim-polyglot) - A solid language pack for Vim.
