@@ -98,6 +98,7 @@
 
 ## C 
 
+- [mini-rose/rose](https://github.com/mini-rose/rose) - Minimalist browser based on webkit2.
 - [dimaglushkov/dotfiles](https://github.com/dimaglushkov/dotfiles) - configs and scripts
 - [RogueMaster/flipperzero-firmware-wPlugins](https://github.com/RogueMaster/flipperzero-firmware-wPlugins) - RogueMaster FlipperZero Firmware
 - [jcs/sdorfehs](https://github.com/jcs/sdorfehs) - A tiling window manager
@@ -179,7 +180,6 @@
 - [christophgysin/pasystray](https://github.com/christophgysin/pasystray) - PulseAudio system tray
 - [CristianHenzel/ClipIt](https://github.com/CristianHenzel/ClipIt) - ClipIt clipboard manager for GTK+
 - [conformal/spectrwm](https://github.com/conformal/spectrwm) - A small dynamic tiling window manager for X11.
-- [Embroidermodder/Embroidermodder](https://github.com/Embroidermodder/Embroidermodder) - Free machine embroidery software supporting a variety of formats.
 - [cfenollosa/os-tutorial](https://github.com/cfenollosa/os-tutorial) - How to create an OS from scratch
 
 ## C# # 
@@ -231,6 +231,7 @@
 - [diasurgical/devilutionX](https://github.com/diasurgical/devilutionX) - Diablo build for modern operating systems
 - [pbek/QOwnNotes](https://github.com/pbek/QOwnNotes) - QOwnNotes is a plain-text file notepad and todo-list manager with markdown support and Nextcloud / ownCloud integration.
 - [robotology/yarp](https://github.com/robotology/yarp) - YARP - Yet Another Robot Platform
+- [Embroidermodder/Embroidermodder](https://github.com/Embroidermodder/Embroidermodder) - Free machine embroidery software supporting a variety of formats.
 - [lxqt/lxqt-panel](https://github.com/lxqt/lxqt-panel) - The LXQt desktop panel
 - [unetbootin/unetbootin](https://github.com/unetbootin/unetbootin) - UNetbootin installs Linux/BSD distributions to a partition or USB drive
 - [hannesschulze/conecto](https://github.com/hannesschulze/conecto) - Integrate your Android-phone with your PC - a GTK client for KDEConnect.
@@ -978,6 +979,7 @@
 
 ## Lua 
 
+- [wxxxcxx/awesome](https://github.com/wxxxcxx/awesome) - Awesome WM Configuration
 - [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal nvim configuration
 - [jcrd/awesome-dovetail](https://github.com/jcrd/awesome-dovetail) - AwesomeWM layout featuring two visible tiled clients
 - [jcrd/awesome-launch](https://github.com/jcrd/awesome-launch) - AwesomeWM library for launching clients with single instance IDs
@@ -1914,6 +1916,7 @@
 
 ## Rust 
 
+- [Start9Labs/embassy-os](https://github.com/Start9Labs/embassy-os) - Browser-based, graphical operating system for a personal server.
 - [jamestthompson3/tendril-wiki](https://github.com/jamestthompson3/tendril-wiki) - Personal knowledge management tool
 - [foresterre/sic](https://github.com/foresterre/sic) - 🦜 Accessible image processing and conversion from the terminal. Front-end for image-rs/image.
 - [wangzhe3224/awesome-systematic-trading](https://github.com/wangzhe3224/awesome-systematic-trading) - A curated list of insanely awesome libraries, packages and resources for systematic trading. Crypto, Stock, Futures, Options, CFDs, FX, and more | 量化交易 | 量化投资
@@ -1985,6 +1988,13 @@
 
 ## Shell 
 
+- [ivan-hc/AM-Application-Manager](https://github.com/ivan-hc/AM-Application-Manager) - Install, update and manage AppImage packages and official standalone apps for GNU / Linux, with an ever-growing AUR-inspired database, scripts to manage AppImage builder tools and templates to create 
+- [metis-os/metis-sideload](https://github.com/metis-os/metis-sideload) - // Ofiicial installer for @metis-os
+- [metis-os/metis-recon](https://github.com/metis-os/metis-recon) - pkgs: reconnaissance tools gathered in one piece for @metis-os
+- [Athena-OS/athena-iso](https://github.com/Athena-OS/athena-iso) - Athena is a Arch Linux-based distro focused on Cybersecurity. Learn, practice and enjoy with any hacking tool!
+- [archon-linux/archon-iso](https://github.com/archon-linux/archon-iso) - 
+- [SeveredinTwain/nemesis](https://github.com/SeveredinTwain/nemesis) - Custom Linux ISO Build
+- [wenerme/alpine-image](https://github.com/wenerme/alpine-image) - AlpineLinux pre-build disk images
 - [n0rad/dockerfiles](https://github.com/n0rad/dockerfiles) - My dockerfiles
 - [Bhaviktutorials/shark](https://github.com/Bhaviktutorials/shark) - Future Of Phishing With less delay
 - [mikeroyal/Developer-Handbook](https://github.com/mikeroyal/Developer-Handbook) - Developer-Handbook
@@ -2395,7 +2405,7 @@
 - [PrettyCoffee/fluidity](https://github.com/PrettyCoffee/fluidity) - Fluidity - An accordion based startpage
 - [nixton9/HomePage](https://github.com/nixton9/HomePage) - HomePage app
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - A Markdown Editor for the 21st century.
-- [medyo/hackertab.dev](https://github.com/medyo/hackertab.dev) - A Chrome & Firefox extension to discover the best developer news in one tab!
+- [medyo/hackertab.dev](https://github.com/medyo/hackertab.dev) - A Chrome 🌐 & Firefox 🦊 extension to discover the best developer news and tools in one tab!
 - [rfarine/art-portfolio](https://github.com/rfarine/art-portfolio) - raefarine.art
 - [Thomashighbaugh/startpage-zwei](https://github.com/Thomashighbaugh/startpage-zwei) - Second Implementation of a Startpage for my browser in Next.js using Typescript and Tailwind.css with Motion Animations and More
 - [notea-org/notea](https://github.com/notea-org/notea) - 📒 Self hosted note taking app stored on S3
