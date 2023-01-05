@@ -1015,7 +1015,6 @@
 - [unusualpepe/awesome-systray-switcher](https://github.com/unusualpepe/awesome-systray-switcher) - Move the systray to the focused screen on awesome window manager
 - [minh-p/awesomewm-blue-cacti](https://github.com/minh-p/awesomewm-blue-cacti) - An awesomewm rice.
 - [polypoyo/awesome](https://github.com/polypoyo/awesome) - A pretty awesome awesome configuration
-- [sadmice/dotfiles](https://github.com/sadmice/dotfiles) - AwesomeWM dotfiles
 - [iacchus/awesomewm-capslock-widget](https://github.com/iacchus/awesomewm-capslock-widget) - AwesomeWM widget that shows Caps_Lock status
 - [cool-cool-sweat/fenetre](https://github.com/cool-cool-sweat/fenetre) - awesome 4 wibar global titlebar with client title + controls/property indicators
 - [WillPower3309/awesome-widgets](https://github.com/WillPower3309/awesome-widgets) - A collection of various widgets I've developed for awesomewm
