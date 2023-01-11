@@ -2012,6 +2012,7 @@
 
 ## Shell 
 
+- [salkin-mada/lsparu](https://github.com/salkin-mada/lsparu) - fzf cli for paru
 - [oem/dotfiles](https://github.com/oem/dotfiles) - system configuration, including vim
 - [frozendark01/docker-compose-templates](https://github.com/frozendark01/docker-compose-templates) - Docker Compose application templates for homeserver setup
 - [dylanaraps/pure-sh-bible](https://github.com/dylanaraps/pure-sh-bible) - 📖 A collection of pure POSIX sh alternatives to external processes.
@@ -2131,7 +2132,7 @@
 - [void-linux/void-packages](https://github.com/void-linux/void-packages) - The Void source packages collection
 - [zdykstra/fuzzypkg](https://github.com/zdykstra/fuzzypkg) - 
 - [ExpertAnonymous/PhoneInfoga](https://github.com/ExpertAnonymous/PhoneInfoga) - PhoneInfoga is one of the most advanced tools to scan phone numbers using only free resources.
-- [zodd18/dotfiles](https://github.com/zodd18/dotfiles) - My bspwm dotfiles. Grab whatever you need! :)
+- [zoddDev/dotfiles](https://github.com/zoddDev/dotfiles) - My bspwm dotfiles. Get whatever you need! :)
 - [Tomas-M/linux-live](https://github.com/Tomas-M/linux-live) - Linux Live Kit
 - [saymoncoppi/xlunchr](https://github.com/saymoncoppi/xlunchr) - A simple xlunch modernization
 - [Manas140/sh](https://github.com/Manas140/sh) - Collection Of My Sh Scripts.
