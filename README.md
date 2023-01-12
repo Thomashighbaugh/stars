@@ -637,6 +637,9 @@
 
 ## JavaScript 
 
+- [bgoonz/Markdown-Templates](https://github.com/bgoonz/Markdown-Templates) - 
+- [ollelauribostrom/rebus](https://github.com/ollelauribostrom/rebus) - 🌟 👣 Take your first steps as an open source contributor
+- [blocklistproject/Lists](https://github.com/blocklistproject/Lists) - Primary Block Lists
 - [Magic-wei/obsidian_wiki_template](https://github.com/Magic-wei/obsidian_wiki_template) - A personal wiki or note-taking system template based on Obsidian.
 - [kaiwalyakoparkar/Full-Stack-Development-Learning-Path](https://github.com/kaiwalyakoparkar/Full-Stack-Development-Learning-Path) - This repo contains all the things which I practice while learning the Full-stack web development
 - [octokatherine/readme.so](https://github.com/octokatherine/readme.so) - An online drag-and-drop editor to easily build READMEs
@@ -1021,7 +1024,6 @@
 - [nivalderramas/awesome-config](https://github.com/nivalderramas/awesome-config) - Config files for awesomeWM
 - [nivalderramas/dotfiles](https://github.com/nivalderramas/dotfiles) - Personal dotfiles
 - [dharmx/nvim](https://github.com/dharmx/nvim) - Blazing-slow and greasy Neovim configurations.
-- [CanKolay3499/CNvim](https://github.com/CanKolay3499/CNvim) - A lightweight Neovim config for web development
 - [Stardust-kyun/dotfiles](https://github.com/Stardust-kyun/dotfiles) - 🌸 - Personal Dotfiles
 - [JannikWibker/awesome-config](https://github.com/JannikWibker/awesome-config) - Awesome WM config
 - [larkery/awesome](https://github.com/larkery/awesome) - 
@@ -1465,6 +1467,8 @@
 
 ## Others 
 
+- [miloszkowal/codex_vitae](https://github.com/miloszkowal/codex_vitae) - A statement of beliefs. A personal manifesto. A guide.
+- [pengdonna/codex_vitae](https://github.com/pengdonna/codex_vitae) - Evolving book of beliefs
 - [b0o/awesome-by-example](https://github.com/b0o/awesome-by-example) - 😎 A curated list of example-based learning resources.
 - [brootware/awesome-cyber-security-university](https://github.com/brootware/awesome-cyber-security-university) - 🎓 Because Education should be free. Contributions welcome! 🕵️
 - [kbariotis/templates](https://github.com/kbariotis/templates) - A set of standard document templates.
@@ -1492,6 +1496,7 @@
 - [fnxln/artixzfs-iso](https://github.com/fnxln/artixzfs-iso) - 
 - [lucasviola/awesome-functional-programming](https://github.com/lucasviola/awesome-functional-programming) - :alien: A curated list of functional programming resources such as blog posts, communities, discussion topics, wikis and more.
 - [mozilla/protocol-assets](https://github.com/mozilla/protocol-assets) - Design assets for Protocol, Mozilla’s design system.
+- [CanKolay3499/CNvim](https://github.com/CanKolay3499/CNvim) - A lightweight Neovim config for web development
 - [ReFUI/Artix-Linux-OpenRC-ZFS-iso](https://github.com/ReFUI/Artix-Linux-OpenRC-ZFS-iso) - This is simply a default Artix Linux iso with zfs-dkms installed on it  for ease of installation, linux kernel artix 8.5.3. Wanted to upload it so yall dont have to go through the hassle of installing
 - [szorfein/unix-portfolio](https://github.com/szorfein/unix-portfolio) - Screenshots of my many themes (uncompressed)
 - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
@@ -1602,7 +1607,6 @@
 - [neutralinojs/evaluation](https://github.com/neutralinojs/evaluation) - Neutralinojs vs Electron vs Nw.js
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
 - [aniftyco/awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss) - 😎 Awesome things related to Tailwind CSS
-- [the-Electric-Tantra-Linux/chhinamasta-icon-theme](https://github.com/the-Electric-Tantra-Linux/chhinamasta-icon-theme) - A Linux Icon Theme that's mostly white and monoshaped, except for the folder icons.
 - [Lifka/hacking-resources](https://github.com/Lifka/hacking-resources) - Hacking resources and cheat sheets. References, tools, scripts, tutorials, and other resources that help offensive and defensive security professionals.
 - [mossailem/flappe](https://github.com/mossailem/flappe) - Flappe (Flat UI Colors Pallete for Inkscape) is collection of color pallete for Inkscape that inspired from Flat UI Colors Pallete.
 - [Robert-96/inkscape-templates](https://github.com/Robert-96/inkscape-templates) - A collection of SVG templates for Inkscape.
@@ -1716,6 +1720,7 @@
 
 ## Python 
 
+- [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
 - [Phoenix124/scribd-downloader](https://github.com/Phoenix124/scribd-downloader) - 
 - [NoahCardoza/audiobookcup-dl](https://github.com/NoahCardoza/audiobookcup-dl) - Download audiobooks from audiobookcup.com
 - [ianling/glitchgen](https://github.com/ianling/glitchgen) - Randomly generates glitch pattern images
@@ -2012,6 +2017,11 @@
 
 ## Shell 
 
+- [1N3/Sn1per](https://github.com/1N3/Sn1per) - Attack Surface Management Platform | Sn1perSecurity LLC
+- [docker-library/official-images](https://github.com/docker-library/official-images) - Primary source of truth for the Docker "Official Images" program
+- [offa/android-foss](https://github.com/offa/android-foss) - A list of Free and Open Source Software (FOSS) for Android – saving Freedom and Privacy.
+- [8483/notes](https://github.com/8483/notes) - Full-stack web development notes.
+- [ZetaOverlord/ZOAP-Artix-PostInstall](https://github.com/ZetaOverlord/ZOAP-Artix-PostInstall) - Post Installation Script for Artix
 - [salkin-mada/lsparu](https://github.com/salkin-mada/lsparu) - fzf cli for paru
 - [oem/dotfiles](https://github.com/oem/dotfiles) - system configuration, including vim
 - [frozendark01/docker-compose-templates](https://github.com/frozendark01/docker-compose-templates) - Docker Compose application templates for homeserver setup
@@ -2226,6 +2236,7 @@
 - [xero/glitchlock](https://github.com/xero/glitchlock) - a glitch art themed randomized lockscreen for linux
 - [MichaIng/DietPi](https://github.com/MichaIng/DietPi) - Lightweight justice for your single-board computer!
 - [androidmalware/android_hid](https://github.com/androidmalware/android_hid) - Use Android as Rubber Ducky against another Android device
+- [the-Electric-Tantra-Linux/chhinamasta-icon-theme](https://github.com/the-Electric-Tantra-Linux/chhinamasta-icon-theme) - A Linux Icon Theme that's mostly white and monoshaped, except for the folder icons.
 - [Thomashighbaugh/electric-tantra-pkgbuilds](https://github.com/Thomashighbaugh/electric-tantra-pkgbuilds) - PKGBUILDs used in the Electric Tantra Repo
 - [Thomashighbaugh/zsh](https://github.com/Thomashighbaugh/zsh) - my zsh configuration in its modular glory
 - [Thomashighbaugh/bin](https://github.com/Thomashighbaugh/bin) - My collection of scripts, separated from my dotfiles for the sake of my sanity. I wrote some, I found some, I use some.
@@ -2386,6 +2397,7 @@
 
 ## TypeScript 
 
+- [rubenwardy/renewedtab](https://github.com/rubenwardy/renewedtab) - A mirror for the Renewed Tab repository: https://gitlab.com/rubenwardy/renewedtab/
 - [fand/MDMT](https://github.com/fand/MDMT) - 💊Markdown Document Template💊
 - [pieroproietti/penguins-eggs](https://github.com/pieroproietti/penguins-eggs) - On the road of Remastersys, Refracta, Systemback and father Knoppix!
 - [TechSquidTV/Shoutify](https://github.com/TechSquidTV/Shoutify) - An open source, self-hosted, and entirely free solution to social media management.
@@ -2567,6 +2579,7 @@
 
 ## Vue 
 
+- [karakanb/devo](https://github.com/karakanb/devo) - A Chrome and Firefox extension that displays GitHub Trending, Hacker News, Product Hunt and Designer News on every new tab.
 - [SamirM-BE/ErasMail](https://github.com/SamirM-BE/ErasMail) - An open source tool for cleaning email boxes and saving the planet
 - [Schrodinger-Hat/ImageGoNord](https://github.com/Schrodinger-Hat/ImageGoNord) - A tool that can convert your rgb images to nordtheme palette
 - [lostdesign/webgems](https://github.com/lostdesign/webgems) - A curated list of resources for devs and designers. Join me on devcord.com if you are up for a chit chat :)
