@@ -404,7 +404,7 @@
 ## Dart 
 
 - [smartherd/DartTutorial](https://github.com/smartherd/DartTutorial) - Learn Dart Programming, its basics and Fundamentals from scratch.
-- [victor7w7r/036raspberry](https://github.com/victor7w7r/036raspberry) - Configuration Scripts for Arch Linux/Raspberry OS Lite for Raspberry Pi 4
+- [victor7w7r/036raspberry](https://github.com/victor7w7r/036raspberry) - Configuration for Arch Linux/Raspberry OS Lite for Raspberry Pi 4
 - [GitJournal/GitJournal](https://github.com/GitJournal/GitJournal) - Mobile first Note Taking integrated with Git
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 
@@ -523,7 +523,7 @@
 
 ## HCL 
 
-- [starise/ArchLinuxPi](https://github.com/starise/ArchLinuxPi) - Build and deploy Arch Linux ARM on Raspberry Pi 4 via Packer & Ansible.
+- [starise/archlinux-server](https://github.com/starise/archlinux-server) - Build Arch Linux with Packer & deploy, manage via Ansible.
 - [chadgeary/cloudblock](https://github.com/chadgeary/cloudblock) - Cloudblock deploys secure ad-blocking and VPN for all devices. Text and video guides included! 6 supported cloud providers, plus Ubuntu and Raspberry Pi. Cloudblock deploys Wireguard VPN, Pi-Hole DNS 
 
 ## HTML 
