@@ -449,6 +449,7 @@
 
 ## Go 
 
+- [curusarn/resh](https://github.com/curusarn/resh) - Rich Enhanced Shell History - Contextual shell history for zsh and bash
 - [inancgumus/learngo](https://github.com/inancgumus/learngo) - ❤️ 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes. 🚀 Learn Go by fixing 1000+ tiny programs.
 - [mozilla/sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets
 - [evan-buss/openbooks](https://github.com/evan-buss/openbooks) - Search and Download eBooks
@@ -636,6 +637,7 @@
 
 ## JavaScript 
 
+- [keshavgbpecdelhi/Web-Development](https://github.com/keshavgbpecdelhi/Web-Development) - Here you will find different web development mini projects which are made up of HTML, CSS & little bit of JavaScript. Do you have any such small project which is not already in the List!? 😄
 - [zero-to-mastery/JS_Fun_Practice](https://github.com/zero-to-mastery/JS_Fun_Practice) - A list of small & fun functional programming exercises in JavaScript
 - [bgoonz/Markdown-Templates](https://github.com/bgoonz/Markdown-Templates) - 
 - [ollelauribostrom/rebus](https://github.com/ollelauribostrom/rebus) - 🌟 👣 Take your first steps as an open source contributor
@@ -977,6 +979,7 @@
 
 ## Kotlin 
 
+- [iamrasel/lunar-launcher](https://github.com/iamrasel/lunar-launcher) - Feature rich android home with minimal look.
 - [udevbe/westford](https://github.com/udevbe/westford) - Westford Wayland Compositor
 - [Chooloo/koler](https://github.com/Chooloo/koler) - Just a phone app.
 - [SimpleMobileTools/Simple-App-Launcher](https://github.com/SimpleMobileTools/Simple-App-Launcher) - A simple holder for favourite apps for quick & easy app launcher icon management
@@ -996,6 +999,16 @@
 
 ## Lua 
 
+- [garado/awesome-keynav](https://github.com/garado/awesome-keynav) - a library for navigating awesomewm widgets with the keyboard
+- [wimstefan/dotfiles](https://github.com/wimstefan/dotfiles) - My personal dotfiles
+- [xlucn/dotfiles](https://github.com/xlucn/dotfiles) - Linux configuration files (dotfiles) and some useful scripts
+- [latipun7/dotfiles](https://github.com/latipun7/dotfiles) - 🏡 Home sweet ~/.
+- [Gwynsav/gwdawful](https://github.com/Gwynsav/gwdawful) - Literally the most gwdawful AwesomeWM configuration around.
+- [gabrielfrimodig/dotfiles](https://github.com/gabrielfrimodig/dotfiles) - 
+- [hnbnh/dotfiles](https://github.com/hnbnh/dotfiles) - my personal ~/dotfiles
+- [duclos-cavalcanti/dotfiles](https://github.com/duclos-cavalcanti/dotfiles) - Configuration files for my linux system.
+- [sachnr/awesomewm-dotfiles](https://github.com/sachnr/awesomewm-dotfiles) - awesomewm dotfiles
+- [AlphaTechnolog/nixdots](https://github.com/AlphaTechnolog/nixdots) - My NixOS Configuration! Flakes + Home Manager + Nix = Power
 - [polarmutex/awesome-flake](https://github.com/polarmutex/awesome-flake) - my awesome wm config as a nixos flake
 - [oem/arachne.nvim](https://github.com/oem/arachne.nvim) - A minimal note-taking system for neovim
 - [phaazon/mind.nvim](https://github.com/phaazon/mind.nvim) - The power of trees at your fingertips.
@@ -1752,7 +1765,7 @@
 - [spinlud/py-linkedin-jobs-scraper](https://github.com/spinlud/py-linkedin-jobs-scraper) - 
 - [kraanzu/dooit](https://github.com/kraanzu/dooit) - A TUI todo manager
 - [adapdr/apps-server](https://github.com/adapdr/apps-server) - A container based home development server, just copy over dist.* files, set the .env and get rolling!
-- [sahinakkayadev/binary-clock-wallpaper](https://github.com/sahinakkayadev/binary-clock-wallpaper) - A python script to generate wallpaper that shows time in binary.
+- [sahinakkaya/binary-clock-wallpaper](https://github.com/sahinakkaya/binary-clock-wallpaper) - A python script to generate wallpaper that shows time in binary.
 - [chrisvaughn/imap-cleanup](https://github.com/chrisvaughn/imap-cleanup) - Python script to clean out unwanted email via IMAP
 - [unifyai/ivy](https://github.com/unifyai/ivy) - The Unified Machine Learning Framework
 - [mkdirlove/WI-TOOLKIT](https://github.com/mkdirlove/WI-TOOLKIT) - Hack WiFi in Termux ( ROOTED DEVICES ONLY)
@@ -1802,7 +1815,7 @@
 - [Rick-Lang/rickroll-lang](https://github.com/Rick-Lang/rickroll-lang) - The Rick Roll programming language is a rickroll based, process oriented, dynamic, strong, esoteric programming language. All of the keywords/statements are from Rick Astley's lyrics. Discord server: 
 - [heyzec/Inkscape-Extensions](https://github.com/heyzec/Inkscape-Extensions) - Some extensions for Inkscape
 - [akkana/gimp-plugins](https://github.com/akkana/gimp-plugins) - GIMP plug-ins, scripts and helpers
-- [Lifesgood123/unixpornposter](https://github.com/Lifesgood123/unixpornposter) - 
+- [0x3444ac53/unixpornposter](https://github.com/0x3444ac53/unixpornposter) - 
 - [demisto/content](https://github.com/demisto/content) - Demisto is now Cortex XSOAR. Automate and orchestrate your Security Operations with Cortex XSOAR's ever-growing Content Repository. Pull Requests are always welcome and highly appreciated!
 - [awesometoolbox/otf2ttf](https://github.com/awesometoolbox/otf2ttf) - Convert OpenType Font (OTF) to TrueType Font (TTF) format using fonttools.
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
