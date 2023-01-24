@@ -2536,7 +2536,7 @@
 - [browniebroke/gatsby-image-gallery](https://github.com/browniebroke/gatsby-image-gallery) - Very basic gallery grid based on gatsby-image
 - [kremalicious/blog](https://github.com/kremalicious/blog) - 🍭 My blog kremalicious.com built with Gatsby + TypeScript. Neat.
 - [herschel666/photoblog](https://github.com/herschel666/photoblog) - Goodbye Flickr …
-- [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) - Automatically deploy your project to GitHub Pages using GitHub Actions. This action can be configured to push your production-ready code into any branch you'd like.
+- [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) - 🚀 Automatically deploy your project to GitHub Pages using GitHub Actions. This action can be configured to push your production-ready code into any branch you'd like.
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - A headless CMS for Markdown
 - [ridedott/merge-me-action](https://github.com/ridedott/merge-me-action) - Automatically merges Pull Requests.
 - [chronisp/gatsby-starter](https://github.com/chronisp/gatsby-starter) - Gatsby Starter for creating portfolio & blog.
