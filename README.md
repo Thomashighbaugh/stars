@@ -1016,7 +1016,7 @@
 - [xlucn/dotfiles](https://github.com/xlucn/dotfiles) - Linux configuration files (dotfiles) and some useful scripts
 - [latipun7/dotfiles](https://github.com/latipun7/dotfiles) - 🏡 Home sweet ~/.
 - [Gwynsav/gwdawful](https://github.com/Gwynsav/gwdawful) - Literally the most gwdawful AwesomeWM configuration around.
-- [gabrielfrimodig/dotfiles](https://github.com/gabrielfrimodig/dotfiles) - 
+- [gabrielfrimodig/dotfiles](https://github.com/gabrielfrimodig/dotfiles) - There's no place like ~ !
 - [hnbnh/dotfiles](https://github.com/hnbnh/dotfiles) - my personal ~/dotfiles
 - [duclos-cavalcanti/dotfiles](https://github.com/duclos-cavalcanti/dotfiles) - Configuration files for my linux system.
 - [sachnr/awesomewm-dotfiles](https://github.com/sachnr/awesomewm-dotfiles) - awesomewm dotfiles
