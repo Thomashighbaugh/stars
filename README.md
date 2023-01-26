@@ -530,6 +530,7 @@
 
 ## HTML 
 
+- [adevade/color-scheme-generator](https://github.com/adevade/color-scheme-generator) - When you just need some UI colors, fast.
 - [parikshit223933/Coding-Ninjas-Full-Stack-Web-Development](https://github.com/parikshit223933/Coding-Ninjas-Full-Stack-Web-Development) - It contains all the files I created during the MERN full stack web development course with coding ninjas
 - [mozilla/policy-templates](https://github.com/mozilla/policy-templates) - Policy Templates for Firefox
 - [henrylawson/photish-montage](https://github.com/henrylawson/photish-montage) - A demo site of Photish
@@ -1458,6 +1459,11 @@
 
 ## Nix 
 
+- [gvolpe/nix-config](https://github.com/gvolpe/nix-config) - :space_invader: NixOS configuration
+- [Zaechus/nixos-config](https://github.com/Zaechus/nixos-config) - My NixOS + home-manager config and installer
+- [97nomad/nixos-config](https://github.com/97nomad/nixos-config) - 
+- [storvik/nix-config](https://github.com/storvik/nix-config) - My nix configuration
+- [kanwren/nixfiles](https://github.com/kanwren/nixfiles) - My NixOS configurations and other Nix files :snowflake:
 - [rxyhn/dotfiles](https://github.com/rxyhn/dotfiles) - :snowflake: Configuration For The Best Declarative Linux Distro, NixOS!
 - [pta2002/nixvim](https://github.com/pta2002/nixvim) - Configure Neovim with Nix!
 - [LEXUGE/flake](https://github.com/LEXUGE/flake) - Deterministic Configurations
