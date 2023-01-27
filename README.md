@@ -103,6 +103,7 @@
 
 ## C 
 
+- [jovanlanik/gtklock](https://github.com/jovanlanik/gtklock) - GTK-based lockscreen for Wayland
 - [mini-rose/rose](https://github.com/mini-rose/rose) - Minimalist browser based on webkit2.
 - [dimaglushkov/dotfiles](https://github.com/dimaglushkov/dotfiles) - configs and scripts
 - [RogueMaster/flipperzero-firmware-wPlugins](https://github.com/RogueMaster/flipperzero-firmware-wPlugins) - RogueMaster Flipper Zero Firmware
@@ -200,6 +201,7 @@
 
 ## C++ 
 
+- [nwg-piotr/nwg-launchers](https://github.com/nwg-piotr/nwg-launchers) - GTK-based launchers: application grid, button bar, dmenu for sway and other window managers
 - [CachyOS/cachyos-calamares](https://github.com/CachyOS/cachyos-calamares) - 
 - [PL-V/Firefox-WebInject](https://github.com/PL-V/Firefox-WebInject) - Firefox webInjector capable of injecting codes into webpages using a mitmproxy.
 - [ctubio/Krypto-trading-bot](https://github.com/ctubio/Krypto-trading-bot) - Self-hosted crypto trading bot (automated high frequency market making) written in C++
@@ -640,6 +642,7 @@
 
 ## JavaScript 
 
+- [kryptokinght/react-extension-boilerplate](https://github.com/kryptokinght/react-extension-boilerplate) - :rocket: Modern React boilerplate for Firefox and Chrome extensions.
 - [keshavgbpecdelhi/Web-Development](https://github.com/keshavgbpecdelhi/Web-Development) - Here you will find different web development mini projects which are made up of HTML, CSS & little bit of JavaScript. Do you have any such small project which is not already in the List!? 😄
 - [zero-to-mastery/JS_Fun_Practice](https://github.com/zero-to-mastery/JS_Fun_Practice) - A list of small & fun functional programming exercises in JavaScript
 - [bgoonz/Markdown-Templates](https://github.com/bgoonz/Markdown-Templates) - 
@@ -1459,6 +1462,7 @@
 
 ## Nix 
 
+- [cole-h/nixos-config](https://github.com/cole-h/nixos-config) - My flakes-powered NixOS configuration
 - [gvolpe/nix-config](https://github.com/gvolpe/nix-config) - :space_invader: NixOS configuration
 - [Zaechus/nixos-config](https://github.com/Zaechus/nixos-config) - My NixOS + home-manager config and installer
 - [97nomad/nixos-config](https://github.com/97nomad/nixos-config) - 
@@ -1951,7 +1955,7 @@
 
 ## Ruby 
 
-- [CachyOS/CachyOS-Settings](https://github.com/CachyOS/CachyOS-Settings) - 
+- [CachyOS/CachyOS-Settings](https://github.com/CachyOS/CachyOS-Settings) - Settings used for CachyOS
 - [henrylawson/photish](https://github.com/henrylawson/photish) - Fast, simple, configurable photo portfolio website generator
 - [markevans/dragonfly](https://github.com/markevans/dragonfly) - A Ruby gem for on-the-fly processing - suitable for image uploading in Rails, Sinatra and much more!
 - [juanjoSanz/aws-pentesting-lab](https://github.com/juanjoSanz/aws-pentesting-lab) - Pentesting lab with a Kali Linux instance accessible via ssh & wireguard VPN and with vulnerable instances in a private subnet
@@ -2439,6 +2443,9 @@
 
 ## TypeScript 
 
+- [uriSecfi/scaffolding-templates](https://github.com/uriSecfi/scaffolding-templates) - 
+- [shadcn/ui](https://github.com/shadcn/ui) - Beautifully designed components built with Radix UI and Tailwind CSS.
+- [0l1v3rr/react-todo](https://github.com/0l1v3rr/react-todo) - ✔️ A sortable to-do list with labels and meter statistics.
 - [rubenwardy/renewedtab](https://github.com/rubenwardy/renewedtab) - A mirror for the Renewed Tab repository: https://gitlab.com/rubenwardy/renewedtab/
 - [fand/MDMT](https://github.com/fand/MDMT) - 💊Markdown Document Template💊
 - [pieroproietti/penguins-eggs](https://github.com/pieroproietti/penguins-eggs) - On the road of Remastersys, Refracta, Systemback and father Knoppix!
