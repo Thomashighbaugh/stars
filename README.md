@@ -642,6 +642,7 @@
 
 ## JavaScript 
 
+- [benphelps/homepage](https://github.com/benphelps/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [kryptokinght/react-extension-boilerplate](https://github.com/kryptokinght/react-extension-boilerplate) - :rocket: Modern React boilerplate for Firefox and Chrome extensions.
 - [keshavgbpecdelhi/Web-Development](https://github.com/keshavgbpecdelhi/Web-Development) - Here you will find different web development mini projects which are made up of HTML, CSS & little bit of JavaScript. Do you have any such small project which is not already in the List!? 😄
 - [zero-to-mastery/JS_Fun_Practice](https://github.com/zero-to-mastery/JS_Fun_Practice) - A list of small & fun functional programming exercises in JavaScript
@@ -1004,6 +1005,8 @@
 
 ## Lua 
 
+- [chadcat5207/nvide](https://github.com/chadcat5207/nvide) - a blazingly bad neovim config
+- [chadcat5207/dots.sh](https://github.com/chadcat5207/dots.sh) - dots for people who are hot
 - [enziaki/ArchConfig](https://github.com/enziaki/ArchConfig) - A short Arch basic install script that installs some packages.
 - [Tell396/awesome](https://github.com/Tell396/awesome) - My AwesomeWM config
 - [jadnw/dotfiles](https://github.com/jadnw/dotfiles) - My 2022 dotfiles for Arch Jet workstation
@@ -2427,6 +2430,7 @@
 
 ## Svelte 
 
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative.
 - [perfect-things/perfect-home](https://github.com/perfect-things/perfect-home) - firefox newtab/home replacement
 - [catchspider2002/svelte-svg-patterns](https://github.com/catchspider2002/svelte-svg-patterns) - Create seamless patterns in SVG to use as website backgrounds, header images, stationery design and package design
 - [EddieHubCommunity/good-first-issue-finder](https://github.com/EddieHubCommunity/good-first-issue-finder) - Issue-Crawler for GitHub based on Sveltekit
@@ -2443,6 +2447,8 @@
 
 ## TypeScript 
 
+- [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
+- [brianlovin/briOS](https://github.com/brianlovin/briOS) - My personal website.
 - [uriSecfi/scaffolding-templates](https://github.com/uriSecfi/scaffolding-templates) - 
 - [shadcn/ui](https://github.com/shadcn/ui) - Beautifully designed components built with Radix UI and Tailwind CSS.
 - [0l1v3rr/react-todo](https://github.com/0l1v3rr/react-todo) - ✔️ A sortable to-do list with labels and meter statistics.
