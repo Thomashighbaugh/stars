@@ -122,6 +122,7 @@
 - [dccsillag/picom](https://github.com/dccsillag/picom) - A lightweight compositor for X11
 - [hc0d3r/alfheim](https://github.com/hc0d3r/alfheim) - a linux process hacker tool
 - [lealoureiro/awesome-pa-utility](https://github.com/lealoureiro/awesome-pa-utility) - Utility to listen for PulseAudio server changes and update AwesomeWM widgets.
+- [nullchilly/CatNvim](https://github.com/nullchilly/CatNvim) - C at Nvim
 - [bagyoni/procedural-wallpapers](https://github.com/bagyoni/procedural-wallpapers) - A collection of wallpaper generators
 - [VeltOS/graphene-desktop](https://github.com/VeltOS/graphene-desktop) - The default desktop environment of VeltOS
 - [compilepeace/KAAL_BHAIRAV](https://github.com/compilepeace/KAAL_BHAIRAV) - -x-x-x-x- DO NOT RUN ON PRODUCTION MACHINE  -x-x-x-x-  An ELF virus capable of generating segment padded trojans.
@@ -253,6 +254,7 @@
 
 ## CSS 
 
+- [L4ki/Aura-Plasma-Themes](https://github.com/L4ki/Aura-Plasma-Themes) - Aura Themes For Plasma Desktop
 - [vinceliuice/Matcha-gtk-theme](https://github.com/vinceliuice/Matcha-gtk-theme) - Matcha is a flat Design theme for GTK 3, GTK 2 and Gnome-Shell
 - [BloodyHell619/Firefox-Theme-DarkMatter](https://github.com/BloodyHell619/Firefox-Theme-DarkMatter) - 
 - [avahe-kellenberger/dotfiles](https://github.com/avahe-kellenberger/dotfiles) - Personal dotfiles for my multiple systems.
@@ -611,7 +613,7 @@
 ## Haskell 
 
 - [abooij/sudbury](https://github.com/abooij/sudbury) - Haskell implementation of the wayland protocol
-- [srid/neuron](https://github.com/srid/neuron) - Future-proof note-taking and publishing based on Zettelkasten (superseded by Emanote: https://github.com/EmaApps/emanote)
+- [srid/neuron](https://github.com/srid/neuron) - Future-proof note-taking and publishing based on Zettelkasten (superseded by Emanote: https://github.com/srid/emanote)
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 - [phuhl/linux_notification_center](https://github.com/phuhl/linux_notification_center) - A notification daemon/center for linux
 
@@ -642,6 +644,7 @@
 
 ## JavaScript 
 
+- [NoiSek/Aether](https://github.com/NoiSek/Aether) - A sleek ArchLinux login manager for lightdm-webkit. ( lightdm-webkit-theme-aether )
 - [vercel/nextjs-portfolio-starter](https://github.com/vercel/nextjs-portfolio-starter) - Easily create a portfolio with Next.js and Markdown.
 - [benphelps/homepage](https://github.com/benphelps/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [kryptokinght/react-extension-boilerplate](https://github.com/kryptokinght/react-extension-boilerplate) - :rocket: Modern React boilerplate for Firefox and Chrome extensions.
@@ -661,7 +664,7 @@
 - [thinkswell/javascript-mini-projects](https://github.com/thinkswell/javascript-mini-projects) - Awesome Collection of amazing javascript mini-projects.
 - [pahefu/web-glitch-this](https://github.com/pahefu/web-glitch-this) - Web version of the Glitch-This cli-program made by TotallyNotChase
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first.
-- [k4ds3/FactImageGen](https://github.com/k4ds3/FactImageGen) - A web-based tool for generating fact images for Instagram
+- [JonasDoesThings/FactImageGen](https://github.com/JonasDoesThings/FactImageGen) - A web-based tool for generating fact images for Instagram
 - [Haehnchen/crypto-trading-bot](https://github.com/Haehnchen/crypto-trading-bot) - Cryptocurrency trading bot in javascript for Bitfinex, Bitmex, Binance, Bybit ... (public edition)
 - [Superalgos/Superalgos](https://github.com/Superalgos/Superalgos) - Free, open-source crypto trading bot, automated bitcoin / cryptocurrency trading software, algorithmic trading bots. Visually design your crypto trading bot, leveraging an integrated charting system, 
 - [askmike/gekko](https://github.com/askmike/gekko) - A bitcoin trading bot written in node - https://gekko.wizb.it/
@@ -1006,6 +1009,7 @@
 
 ## Lua 
 
+- [SystematicError/Dotfiles](https://github.com/SystematicError/Dotfiles) - 💻 My collection of programs and configurations for the linux desktop
 - [chadcat5207/nvide](https://github.com/chadcat5207/nvide) - a blazingly bad neovim config
 - [chadcat5207/dots.sh](https://github.com/chadcat5207/dots.sh) - dots for people who are hot
 - [enziaki/ArchConfig](https://github.com/enziaki/ArchConfig) - A short Arch basic install script that installs some packages.
@@ -1124,7 +1128,6 @@
 - [atsepkov/awesome-zen](https://github.com/atsepkov/awesome-zen) - Set of widgets/tools for awesome WM for clutter-free environment
 - [GrayJack/configs](https://github.com/GrayJack/configs) - My linux configs files
 - [awesomeWM/awesome-www](https://github.com/awesomeWM/awesome-www) - Website of AwesomeWM
-- [nullchilly/nvim](https://github.com/nullchilly/nvim) - My home was awesome
 - [arsham/awesomewm-config](https://github.com/arsham/awesomewm-config) - Awesome Window Manager config
 - [frabjous/awesome](https://github.com/frabjous/awesome) - Dotfiles for awesomewm
 - [meriadec/awesome-efficient](https://github.com/meriadec/awesome-efficient) - Awesome WM 4 theme - Focused on elegance, minimalism & productivity
@@ -1294,7 +1297,7 @@
 - [worron/awesome-config](https://github.com/worron/awesome-config) - Awesome WM config
 - [AfoHT/taggrid](https://github.com/AfoHT/taggrid) - AwesomeWM extension providing a tag grid
 - [ishchow/nvim-deardiary](https://github.com/ishchow/nvim-deardiary) - Journaling plugin for NeoVim
-- [ciiqr/awesome](https://github.com/ciiqr/awesome) - My awesome rc.lua & related files
+- [ciiqr/awesome](https://github.com/ciiqr/awesome) - my awesome rc.lua & related files
 - [MilesBHuff/AwesomeWM-Config](https://github.com/MilesBHuff/AwesomeWM-Config) - My config code for AwesomeWM
 - [francois2metz/pomodoro-awesome](https://github.com/francois2metz/pomodoro-awesome) - Pomodoro widget for the awesome WM
 - [wheatdog/awesome-termgrp](https://github.com/wheatdog/awesome-termgrp) - A saner tmux and awesomeWM integration
@@ -1466,6 +1469,7 @@
 
 ## Nix 
 
+- [nix-community/nur-combined](https://github.com/nix-community/nur-combined) - A repository of NUR that combines all repositories [maintainer=@Mic92]
 - [wiltaylor/dotfiles](https://github.com/wiltaylor/dotfiles) - My personal dotfiles
 - [cole-h/nixos-config](https://github.com/cole-h/nixos-config) - My flakes-powered NixOS configuration
 - [gvolpe/nix-config](https://github.com/gvolpe/nix-config) - :space_invader: NixOS configuration
@@ -2065,6 +2069,7 @@
 
 ## Shell 
 
+- [emmett1/lfs-scripts](https://github.com/emmett1/lfs-scripts) - Automated script to build Multilib LFS system + livecd
 - [phisch/giph](https://github.com/phisch/giph) - simple video (gif, webm, mp4) recorder
 - [VentGrey/Epitaph](https://github.com/VentGrey/Epitaph) - Epitaph is a leftwm theme designed for users transitioning from a DE to LeftWM.
 - [hellocatfood/jpg-glitch-pattern-generator](https://github.com/hellocatfood/jpg-glitch-pattern-generator) - Automatically generate patterns that exploit compression in jpgs
