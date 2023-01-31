@@ -1014,7 +1014,7 @@
 - [chadcat5207/dots.sh](https://github.com/chadcat5207/dots.sh) - dots for people who are hot
 - [enziaki/ArchConfig](https://github.com/enziaki/ArchConfig) - A short Arch basic install script that installs some packages.
 - [Tell396/awesome](https://github.com/Tell396/awesome) - My AwesomeWM config
-- [jadnw/dotfiles](https://github.com/jadnw/dotfiles) - My 2022 dotfiles for Arch Jet workstation
+- [dangminhngo/dotfiles](https://github.com/dangminhngo/dotfiles) - My 2022 dotfiles for Arch Jet workstation
 - [Cyan903/awesome-shortcut-json](https://github.com/Cyan903/awesome-shortcut-json) - Plugin for awesomewm that allows for shortcuts to be stored in json format.
 - [vastamaki/awesomewm](https://github.com/vastamaki/awesomewm) - Awesome wm config files
 - [adsworth/awesomewm_config](https://github.com/adsworth/awesomewm_config) - my configuration for the awesome tiling window manager
