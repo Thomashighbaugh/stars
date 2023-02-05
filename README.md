@@ -203,10 +203,10 @@
 ## C++ 
 
 - [nwg-piotr/nwg-launchers](https://github.com/nwg-piotr/nwg-launchers) - GTK-based launchers: application grid, button bar, dmenu for sway and other window managers
-- [CachyOS/cachyos-calamares](https://github.com/CachyOS/cachyos-calamares) - 
+- [CachyOS/cachyos-calamares](https://github.com/CachyOS/cachyos-calamares) - CachyOS Calamares
 - [PL-V/Firefox-WebInject](https://github.com/PL-V/Firefox-WebInject) - Firefox webInjector capable of injecting codes into webpages using a mitmproxy.
 - [ctubio/Krypto-trading-bot](https://github.com/ctubio/Krypto-trading-bot) - Self-hosted crypto trading bot (automated high frequency market making) written in C++
-- [CachyOS/New-Cli-Installer](https://github.com/CachyOS/New-Cli-Installer) - 
+- [CachyOS/New-Cli-Installer](https://github.com/CachyOS/New-Cli-Installer) - CachyOS CLI Installer
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
 - [Nitrux/maui-shell](https://github.com/Nitrux/maui-shell) - Maui Shell is a convergent shell for desktops, tablets, and phones.
 - [cutefishos-ubuntu/fishui](https://github.com/cutefishos-ubuntu/fishui) - CutefishOS GUI library, based on Qt Quick.
@@ -529,11 +529,12 @@
 
 ## HCL 
 
-- [starise/archlinux-server](https://github.com/starise/archlinux-server) - Build Arch Linux with Packer & deploy, manage via Ansible.
+- [starise/ArchLinuxPi](https://github.com/starise/ArchLinuxPi) - Build Arch Linux with Packer & deploy, manage via Ansible.
 - [chadgeary/cloudblock](https://github.com/chadgeary/cloudblock) - Cloudblock deploys secure ad-blocking and VPN for all devices. Text and video guides included! 6 supported cloud providers, plus Ubuntu and Raspberry Pi. Cloudblock deploys Wireguard VPN, Pi-Hole DNS 
 
 ## HTML 
 
+- [leemunroe/responsive-html-email-template](https://github.com/leemunroe/responsive-html-email-template) - A free simple responsive HTML email template
 - [adevade/color-scheme-generator](https://github.com/adevade/color-scheme-generator) - When you just need some UI colors, fast.
 - [parikshit223933/Coding-Ninjas-Full-Stack-Web-Development](https://github.com/parikshit223933/Coding-Ninjas-Full-Stack-Web-Development) - It contains all the files I created during the MERN full stack web development course with coding ninjas
 - [mozilla/policy-templates](https://github.com/mozilla/policy-templates) - Policy Templates for Firefox
@@ -1009,6 +1010,7 @@
 
 ## Lua 
 
+- [Aire-One/awesome-slot](https://github.com/Aire-One/awesome-slot) - A declarative API to connect signals for the AwesomeWM
 - [SystematicError/Dotfiles](https://github.com/SystematicError/Dotfiles) - 💻 My collection of programs and configurations for the linux desktop
 - [chadcat5207/nvide](https://github.com/chadcat5207/nvide) - a blazingly bad neovim config
 - [chadcat5207/dots.sh](https://github.com/chadcat5207/dots.sh) - dots for people who are hot
@@ -1774,6 +1776,9 @@
 
 ## Python 
 
+- [ultrafunkamsterdam/undetected-chromedriver](https://github.com/ultrafunkamsterdam/undetected-chromedriver) - Custom Selenium Chromedriver | Zero-Config | Passes ALL bot mitigation systems (like Distil / Imperva/ Datadadome / CloudFlare IUAM)
+- [joelbarmettlerUZH/auto-tinder](https://github.com/joelbarmettlerUZH/auto-tinder) - 🖖 Train an artificial intelligence to play tinder for you
+- [fbessez/Tinder](https://github.com/fbessez/Tinder) - Official November 2019 Documentation for Tinder's API (wrapper included)
 - [kiddae/ImageColorizer](https://github.com/kiddae/ImageColorizer) - Make any wallpaper fit any terminal colorscheme.
 - [wodsuz/EasyApplyJobsBot](https://github.com/wodsuz/EasyApplyJobsBot) - A python bot to automatically apply all Linkedin,Glassdoor, etc Easy Apply jobs based on your preferances
 - [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
@@ -2500,7 +2505,7 @@
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [refinedev/refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints.
 - [notemarks/notemarks](https://github.com/notemarks/notemarks) - A git based labeling app to manage notes, documents, and bookmarks.
-- [vuejs/vue](https://github.com/vuejs/vue) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+- [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
 - [mvximenko/dunno](https://github.com/mvximenko/dunno) - Simplified version of IMDb built with React
 - [KaterinaLupacheva/my-projects-dashboard](https://github.com/KaterinaLupacheva/my-projects-dashboard) - Next.js, Material UI, MongoDB Personal Dashboard with dev.to, GitHub, Twitter, and npm API integration.
 - [darekkay/dashboard](https://github.com/darekkay/dashboard) - Customizable personal dashboard and startpage
