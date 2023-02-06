@@ -2257,7 +2257,7 @@
 - [koalagang/KAI](https://github.com/koalagang/KAI) - Koala's Artix Installer
 - [void-linux/void-mklive](https://github.com/void-linux/void-mklive) - The Void Linux live image maker
 - [sinetoami/vpsm](https://github.com/sinetoami/vpsm) - vpsm - Void-Packages Sources Management wrapper for XBPS-SRC
-- [bahamas10/vsv](https://github.com/bahamas10/vsv) - Manage and view runit services
+- [bahamas10/bash-vsv](https://github.com/bahamas10/bash-vsv) - Manage and view runit services
 - [netzverweigerer/vpm](https://github.com/netzverweigerer/vpm) - vpm - An XBPS package management helper for VoidLinux
 - [ifreund/dotfiles](https://github.com/ifreund/dotfiles) - My configuration for void linux and river
 - [rabbitinspace/abyss](https://github.com/rabbitinspace/abyss) - Another Void Linux bootstrap for UEFI systems written in Fish.
