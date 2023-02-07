@@ -104,7 +104,6 @@
 ## C 
 
 - [jovanlanik/gtklock](https://github.com/jovanlanik/gtklock) - GTK-based lockscreen for Wayland
-- [mini-rose/rose](https://github.com/mini-rose/rose) - Minimalist browser based on webkit2.
 - [dimaglushkov/dotfiles](https://github.com/dimaglushkov/dotfiles) - configs and scripts
 - [RogueMaster/flipperzero-firmware-wPlugins](https://github.com/RogueMaster/flipperzero-firmware-wPlugins) - RogueMaster Flipper Zero Firmware
 - [jcs/sdorfehs](https://github.com/jcs/sdorfehs) - A tiling window manager
@@ -658,6 +657,7 @@
 - [Magic-wei/obsidian_wiki_template](https://github.com/Magic-wei/obsidian_wiki_template) - A personal wiki or note-taking system template based on Obsidian.
 - [kaiwalyakoparkar/Full-Stack-Development-Learning-Path](https://github.com/kaiwalyakoparkar/Full-Stack-Development-Learning-Path) - This repo contains all the things which I practice while learning the Full-stack web development
 - [octokatherine/readme.so](https://github.com/octokatherine/readme.so) - An online drag-and-drop editor to easily build READMEs
+- [mini-rose/rose](https://github.com/mini-rose/rose) - Minimalist browser based on webkit2.
 - [runningcheese/RunningCheese-Firefox](https://github.com/runningcheese/RunningCheese-Firefox) - A Graceful and Powerful Customized Firefox
 - [tkhquang/userChrome.js](https://github.com/tkhquang/userChrome.js) - userChrome.js for Firefox
 - [hanacchi/RestoreFirefoxJS](https://github.com/hanacchi/RestoreFirefoxJS) - userChromeJS scripts to restore Firefox features that have been removed or changed
@@ -1010,6 +1010,11 @@
 
 ## Lua 
 
+- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) - Neovim config for the lazy
+- [CharlesChiuGit/nvimdots.lua](https://github.com/CharlesChiuGit/nvimdots.lua) - Lazy AF neovim config, well structured in lua.
+- [folke/dot](https://github.com/folke/dot) - ☕️   My Dot Files
+- [ayamir/nvimdots](https://github.com/ayamir/nvimdots) - A well configured and structured Neovim.
+- [ChristianChiarulli/nvim](https://github.com/ChristianChiarulli/nvim) - My neovim config
 - [Aire-One/awesome-slot](https://github.com/Aire-One/awesome-slot) - A declarative API to connect signals for the AwesomeWM
 - [SystematicError/Dotfiles](https://github.com/SystematicError/Dotfiles) - 💻 My collection of programs and configurations for the linux desktop
 - [chadcat5207/nvide](https://github.com/chadcat5207/nvide) - a blazingly bad neovim config
@@ -1196,7 +1201,7 @@
 - [tdy/awesome](https://github.com/tdy/awesome) - Configs for awesomeWM
 - [hoelzro/obvious](https://github.com/hoelzro/obvious) - Widget library for the awesome window manager
 - [DanielFGray/dotfiles](https://github.com/DanielFGray/dotfiles) - personal repo of config files
-- [JavaCafe01/dotfiles](https://github.com/JavaCafe01/dotfiles) - My NixOS configuration files
+- [JavaCafe01/frostedflakes](https://github.com/JavaCafe01/frostedflakes) - My NixOS configuration files w/ Nix Flakes
 - [onsails/diaglist.nvim](https://github.com/onsails/diaglist.nvim) - Live render workspace diagnostics in quickfix with current buf errors on top, buffer diagnostics in loclist
 - [mickael-menu/zk-nvim](https://github.com/mickael-menu/zk-nvim) - Neovim extension for zk
 - [amirulmenjeni/dotfiles](https://github.com/amirulmenjeni/dotfiles) - My linux desktop config and theme files.
@@ -1472,6 +1477,8 @@
 
 ## Nix 
 
+- [Misterio77/nix-config](https://github.com/Misterio77/nix-config) - Personal nixos and home-manager configurations.
+- [mrkuz/nixos](https://github.com/mrkuz/nixos) - My NixOS configuration.
 - [justinwoo/nix-shorts](https://github.com/justinwoo/nix-shorts) - A collection of short notes about Nix, down to what is immediately needed for users.
 - [adomixaszvers/dotfiles-nix](https://github.com/adomixaszvers/dotfiles-nix) - 
 - [teto/home](https://github.com/teto/home) - Configurations
