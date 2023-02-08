@@ -1010,6 +1010,7 @@
 
 ## Lua 
 
+- [xinhaoyuan/awexygen](https://github.com/xinhaoyuan/awexygen) - 
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) - Neovim config for the lazy
 - [CharlesChiuGit/nvimdots.lua](https://github.com/CharlesChiuGit/nvimdots.lua) - Lazy AF neovim config, well structured in lua.
 - [folke/dot](https://github.com/folke/dot) - ☕️   My Dot Files
@@ -1477,6 +1478,7 @@
 
 ## Nix 
 
+- [fortuneteller2k/nixpkgs-f2k](https://github.com/fortuneteller2k/nixpkgs-f2k) - my personal package repository (binary cache included!)
 - [Misterio77/nix-config](https://github.com/Misterio77/nix-config) - Personal nixos and home-manager configurations.
 - [mrkuz/nixos](https://github.com/mrkuz/nixos) - My NixOS configuration.
 - [justinwoo/nix-shorts](https://github.com/justinwoo/nix-shorts) - A collection of short notes about Nix, down to what is immediately needed for users.
@@ -1490,7 +1492,7 @@
 - [97nomad/nixos-config](https://github.com/97nomad/nixos-config) - 
 - [storvik/nix-config](https://github.com/storvik/nix-config) - My nix configuration
 - [kanwren/nixfiles](https://github.com/kanwren/nixfiles) - My NixOS configurations and other Nix files :snowflake:
-- [rxyhn/dotfiles](https://github.com/rxyhn/dotfiles) - :snowflake: Configuration For The Best Declarative Linux Distro, NixOS!
+- [rxyhn/yuki](https://github.com/rxyhn/yuki) - 雪 - Yuki | Snowflake  :snowflake:
 - [pta2002/nixvim](https://github.com/pta2002/nixvim) - Configure Neovim with Nix!
 - [LEXUGE/flake](https://github.com/LEXUGE/flake) - Deterministic Configurations
 - [Misterio77/nix-starter-configs](https://github.com/Misterio77/nix-starter-configs) - Simple and documented config templates to help you get started with NixOS + home-manager + flakes. All the boilerplate you need!
