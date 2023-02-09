@@ -407,7 +407,6 @@
 ## Dart 
 
 - [smartherd/DartTutorial](https://github.com/smartherd/DartTutorial) - Learn Dart Programming, its basics and Fundamentals from scratch.
-- [victor7w7r/036raspberry](https://github.com/victor7w7r/036raspberry) - Configuration for Arch Linux/Raspberry OS Lite for Raspberry Pi 4
 - [GitJournal/GitJournal](https://github.com/GitJournal/GitJournal) - Mobile first Note Taking integrated with Git
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 
