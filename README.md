@@ -103,6 +103,7 @@
 
 ## C 
 
+- [ArtsyMacaw/wlogout](https://github.com/ArtsyMacaw/wlogout) - A wayland based logout menu
 - [jovanlanik/gtklock](https://github.com/jovanlanik/gtklock) - GTK-based lockscreen for Wayland
 - [dimaglushkov/dotfiles](https://github.com/dimaglushkov/dotfiles) - configs and scripts
 - [RogueMaster/flipperzero-firmware-wPlugins](https://github.com/RogueMaster/flipperzero-firmware-wPlugins) - RogueMaster Flipper Zero Firmware
@@ -201,6 +202,7 @@
 
 ## C++ 
 
+- [dasJ/spotifywm](https://github.com/dasJ/spotifywm) - Set Spotify's WM_NAME before opening the window
 - [nwg-piotr/nwg-launchers](https://github.com/nwg-piotr/nwg-launchers) - GTK-based launchers: application grid, button bar, dmenu for sway and other window managers
 - [CachyOS/cachyos-calamares](https://github.com/CachyOS/cachyos-calamares) - CachyOS Calamares
 - [PL-V/Firefox-WebInject](https://github.com/PL-V/Firefox-WebInject) - Firefox webInjector capable of injecting codes into webpages using a mitmproxy.
@@ -975,6 +977,7 @@
 
 ## Jupyter Notebook 
 
+- [dosanjos44/FC-Python-Tutorials](https://github.com/dosanjos44/FC-Python-Tutorials) - Collection of tutorials and resources from fcpython.com
 - [pythonspaces/awesome-resources](https://github.com/pythonspaces/awesome-resources) - Free Learning Resources
 - [aamini/introtodeeplearning](https://github.com/aamini/introtodeeplearning) - Lab Materials for MIT 6.S191: Introduction to Deep Learning
 - [benyaminahmed/nft-image-generator](https://github.com/benyaminahmed/nft-image-generator) - 
@@ -1009,6 +1012,13 @@
 
 ## Lua 
 
+- [dmun/awesome](https://github.com/dmun/awesome) - Config for the awesome window manager
+- [michaelbeaumont/awesome-sesh](https://github.com/michaelbeaumont/awesome-sesh) - Awesome WM Sessions
+- [michaelbeaumont/awesome-yubikey-notify](https://github.com/michaelbeaumont/awesome-yubikey-notify) - Naughty notifications + yubikey-touch-detector
+- [michaelbeaumont/awesome-leader](https://github.com/michaelbeaumont/awesome-leader) - Leader key for Awesome WM
+- [michaelbeaumont/awesome-leaved](https://github.com/michaelbeaumont/awesome-leaved) - Layout for AwesomeWM based on i3 and arranging clients into containers
+- [zarkone/hand-tiler](https://github.com/zarkone/hand-tiler) - Awesome WM manual tiling extension. It's simular to Aero Snap in windows and Grid plugin in Compiz
+- [RobSis/treesome](https://github.com/RobSis/treesome) - Tree-based tiling layout for Awesome Window Manager.
 - [xinhaoyuan/awexygen](https://github.com/xinhaoyuan/awexygen) - 
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) - Neovim config for the lazy
 - [CharlesChiuGit/nvimdots.lua](https://github.com/CharlesChiuGit/nvimdots.lua) - Lazy AF neovim config, well structured in lua.
@@ -1113,7 +1123,7 @@
 - [datwaft/bubbly.nvim](https://github.com/datwaft/bubbly.nvim) - Bubbly statusline for neovim
 - [jedrzejboczar/possession.nvim](https://github.com/jedrzejboczar/possession.nvim) - Flexible session management for Neovim.
 - [folke/todo-comments.nvim](https://github.com/folke/todo-comments.nvim) - ✅  Highlight, list and search todo comments in your projects
-- [sudormrfbin/cheatsheet.nvim](https://github.com/sudormrfbin/cheatsheet.nvim) - A cheatsheet plugin for neovim with bundled cheatsheets for the editor, multiple vim plugins, nerd-fonts, regex, etc. with a Telescope fuzzy finder interface !
+- [sudormrfbin/cheatsheet.nvim](https://github.com/sudormrfbin/cheatsheet.nvim) - A cheatsheet plugin for neovim with bundled cheatsheets for the editor, multiple vim plugins, nerd-fonts, regex, etc. with a Telescope fuzzy finder interface!
 - [mfussenegger/nvim-treehopper](https://github.com/mfussenegger/nvim-treehopper) - Region selection with hints on the AST nodes of a document powered by treesitter
 - [Abstract-IDE/Abstract](https://github.com/Abstract-IDE/Abstract) - neovim as an IDE
 - [jorenheit/awesome_alttab](https://github.com/jorenheit/awesome_alttab) - Familiar Alt-Tab functionality in Awesome WM (3.5.5)
@@ -1477,6 +1487,16 @@
 
 ## Nix 
 
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection
+- [montchr/dotfield](https://github.com/montchr/dotfield) - All I see is little dots – some are smeared, and some are spots.
+- [jtojnar/nixfiles](https://github.com/jtojnar/nixfiles) - Nix configuration for the machines I manage.
+- [balsoft/nixos-config](https://github.com/balsoft/nixos-config) - Mirror of https://code.balsoft.ru/balsoft/nixos-config
+- [KubqoA/dotfiles](https://github.com/KubqoA/dotfiles) - My NixOS dotfiles
+- [RicArch97/nixos-config](https://github.com/RicArch97/nixos-config) - Personal NixOS configuration using flakes and home-manager.
+- [NobbZ/nixos-config](https://github.com/NobbZ/nixos-config) - 
+- [viperML/dotfiles](https://github.com/viperML/dotfiles) - Personal configuration files for my PC
+- [gytis-ivaskevicius/flake-utils-plus](https://github.com/gytis-ivaskevicius/flake-utils-plus) - Use Nix flakes without any fluff.
+- [Lewdovico/dotfiles](https://github.com/Lewdovico/dotfiles) - My flake configuration for NixOS
 - [fortuneteller2k/nixpkgs-f2k](https://github.com/fortuneteller2k/nixpkgs-f2k) - my personal package repository (binary cache included!)
 - [Misterio77/nix-config](https://github.com/Misterio77/nix-config) - Personal nixos and home-manager configurations.
 - [mrkuz/nixos](https://github.com/mrkuz/nixos) - My NixOS configuration.
@@ -1528,6 +1548,7 @@
 
 ## Others 
 
+- [rose-pine/gtk](https://github.com/rose-pine/gtk) - Soho vibes for GTK
 - [nas5w/100-days-of-code-frontend](https://github.com/nas5w/100-days-of-code-frontend) - Curriculum for learning front-end development during #100DaysOfCode.
 - [dahliaOS/releases](https://github.com/dahliaOS/releases) - dahliaOS ISO releases
 - [periklis/awesome-nixos](https://github.com/periklis/awesome-nixos) - Curated list of resources on NixOS, Nix, NixPkgs and NixOps.
@@ -1784,6 +1805,7 @@
 
 ## Python 
 
+- [nwg-piotr/nwg-panel](https://github.com/nwg-piotr/nwg-panel) - GTK3-based panel for sway window manager
 - [ultrafunkamsterdam/undetected-chromedriver](https://github.com/ultrafunkamsterdam/undetected-chromedriver) - Custom Selenium Chromedriver | Zero-Config | Passes ALL bot mitigation systems (like Distil / Imperva/ Datadadome / CloudFlare IUAM)
 - [joelbarmettlerUZH/auto-tinder](https://github.com/joelbarmettlerUZH/auto-tinder) - 🖖 Train an artificial intelligence to play tinder for you
 - [fbessez/Tinder](https://github.com/fbessez/Tinder) - Official November 2019 Documentation for Tinder's API (wrapper included)
@@ -2087,6 +2109,7 @@
 
 ## Shell 
 
+- [k-vernooy/dotfiles](https://github.com/k-vernooy/dotfiles) - An organizational repository for my dotfiles and scripts
 - [emmett1/lfs-scripts](https://github.com/emmett1/lfs-scripts) - Automated script to build Multilib LFS system + livecd
 - [phisch/giph](https://github.com/phisch/giph) - simple video (gif, webm, mp4) recorder
 - [VentGrey/Epitaph](https://github.com/VentGrey/Epitaph) - Epitaph is a leftwm theme designed for users transitioning from a DE to LeftWM.
