@@ -1012,6 +1012,16 @@
 
 ## Lua 
 
+- [ellisonleao/neovimfiles](https://github.com/ellisonleao/neovimfiles) - My Neovim configuration written in Lua
+- [dtr2300/nvim](https://github.com/dtr2300/nvim) - Neovim configuration
+- [harrisoncramer/nvim](https://github.com/harrisoncramer/nvim) - My personal Neovim configuration.
+- [uggedal/nvim-config](https://github.com/uggedal/nvim-config) - Neovim config
+- [LunarVim/nvim-basic-ide](https://github.com/LunarVim/nvim-basic-ide) - 🪨 This is my attempt at a basic stable starting point for a Neovim IDE.
+- [cseickel/dotfiles](https://github.com/cseickel/dotfiles) - 
+- [dragove/nvim](https://github.com/dragove/nvim) - config for neovim
+- [meuter/nvim](https://github.com/meuter/nvim) - nvim config
+- [glepnir/dope](https://github.com/glepnir/dope) - a modern structure neovim config template write in lua
+- [glepnir/nvim](https://github.com/glepnir/nvim) - neovim configuration written in lua
 - [dmun/awesome](https://github.com/dmun/awesome) - Config for the awesome window manager
 - [michaelbeaumont/awesome-sesh](https://github.com/michaelbeaumont/awesome-sesh) - Awesome WM Sessions
 - [michaelbeaumont/awesome-yubikey-notify](https://github.com/michaelbeaumont/awesome-yubikey-notify) - Naughty notifications + yubikey-touch-detector
@@ -1487,6 +1497,10 @@
 
 ## Nix 
 
+- [gautaz/phoenix](https://github.com/gautaz/phoenix) - Because I want my Nix workspaces to rise from their ashes
+- [wiltaylor/nix-iso](https://github.com/wiltaylor/nix-iso) - My collection of custom NixOS ISO files.
+- [LongerHV/nixos-configuration](https://github.com/LongerHV/nixos-configuration) - 
+- [cleverca22/not-os](https://github.com/cleverca22/not-os) - An operating system generator, based on NixOS, that, given a config, outputs a small (47 MB), read-only squashfs for a runit-based operating system, with support for iPXE and signed boot.
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection
 - [montchr/dotfield](https://github.com/montchr/dotfield) - All I see is little dots – some are smeared, and some are spots.
 - [jtojnar/nixfiles](https://github.com/jtojnar/nixfiles) - Nix configuration for the machines I manage.
@@ -1805,6 +1819,7 @@
 
 ## Python 
 
+- [adfaure/nix_configuration](https://github.com/adfaure/nix_configuration) - 
 - [nwg-piotr/nwg-panel](https://github.com/nwg-piotr/nwg-panel) - GTK3-based panel for sway window manager
 - [ultrafunkamsterdam/undetected-chromedriver](https://github.com/ultrafunkamsterdam/undetected-chromedriver) - Custom Selenium Chromedriver | Zero-Config | Passes ALL bot mitigation systems (like Distil / Imperva/ Datadadome / CloudFlare IUAM)
 - [joelbarmettlerUZH/auto-tinder](https://github.com/joelbarmettlerUZH/auto-tinder) - 🖖 Train an artificial intelligence to play tinder for you
@@ -2109,6 +2124,7 @@
 
 ## Shell 
 
+- [greglaurent/nixos-iso](https://github.com/greglaurent/nixos-iso) - Custom NixOS ISO
 - [k-vernooy/dotfiles](https://github.com/k-vernooy/dotfiles) - An organizational repository for my dotfiles and scripts
 - [emmett1/lfs-scripts](https://github.com/emmett1/lfs-scripts) - Automated script to build Multilib LFS system + livecd
 - [phisch/giph](https://github.com/phisch/giph) - simple video (gif, webm, mp4) recorder
