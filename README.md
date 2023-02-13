@@ -1012,6 +1012,8 @@
 
 ## Lua 
 
+- [blueyed/awesome-cyclefocus](https://github.com/blueyed/awesome-cyclefocus) - Alt-Tab for the awesome window manager (and more)
+- [colbell/awesome-wm](https://github.com/colbell/awesome-wm) - Awesome Window Manager Configuration
 - [ellisonleao/neovimfiles](https://github.com/ellisonleao/neovimfiles) - My Neovim configuration written in Lua
 - [dtr2300/nvim](https://github.com/dtr2300/nvim) - Neovim configuration
 - [harrisoncramer/nvim](https://github.com/harrisoncramer/nvim) - My personal Neovim configuration.
@@ -1469,7 +1471,7 @@
 ## Makefile 
 
 - [pierres/archiso-manager](https://github.com/pierres/archiso-manager) - 
-- [the-deepongi/android_device_oneplus_instantnoodle-dev](https://github.com/the-deepongi/android_device_oneplus_instantnoodle-dev) - TWRP tree Unified for OnePlus 8/8 Pro (instantnoodle, instantnoodlep)
+- [infectedmushi/android_device_oneplus_instantnoodle-dev](https://github.com/infectedmushi/android_device_oneplus_instantnoodle-dev) - TWRP tree Unified for OnePlus 8/8 Pro (instantnoodle, instantnoodlep)
 - [lyz-code/blue-book](https://github.com/lyz-code/blue-book) - My personal knowledge repository
 - [feroldi/ricing](https://github.com/feroldi/ricing) - a book about ricing unix-like systems
 - [docxy/website](https://github.com/docxy/website) - The website of Docxy.
@@ -1497,6 +1499,8 @@
 
 ## Nix 
 
+- [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config) - Flake-based Nix / NixOS configuration for MacOS, x86, and VMs ✨
+- [kanashimia/nixos-config](https://github.com/kanashimia/nixos-config) - Configuration of my nixos systems.
 - [gautaz/phoenix](https://github.com/gautaz/phoenix) - Because I want my Nix workspaces to rise from their ashes
 - [wiltaylor/nix-iso](https://github.com/wiltaylor/nix-iso) - My collection of custom NixOS ISO files.
 - [LongerHV/nixos-configuration](https://github.com/LongerHV/nixos-configuration) - 
@@ -1819,6 +1823,7 @@
 
 ## Python 
 
+- [fsquillace/pycious](https://github.com/fsquillace/pycious) - Simple and efficient widget library for the awesome window manager written in Python
 - [adfaure/nix_configuration](https://github.com/adfaure/nix_configuration) - 
 - [nwg-piotr/nwg-panel](https://github.com/nwg-piotr/nwg-panel) - GTK3-based panel for sway window manager
 - [ultrafunkamsterdam/undetected-chromedriver](https://github.com/ultrafunkamsterdam/undetected-chromedriver) - Custom Selenium Chromedriver | Zero-Config | Passes ALL bot mitigation systems (like Distil / Imperva/ Datadadome / CloudFlare IUAM)
@@ -1845,7 +1850,7 @@
 - [deter0/xborder](https://github.com/deter0/xborder) - Active window border replacement for window managers.
 - [nivalderramas/awesomePalettes](https://github.com/nivalderramas/awesomePalettes) - Color Scheme generator for awesomeWM
 - [rdxshubham/instagram-post-scheduler](https://github.com/rdxshubham/instagram-post-scheduler) - Schedule your Instagram Post.
-- [karthik558/DDoS-ATTACK](https://github.com/karthik558/DDoS-ATTACK) - A DDoS ATTACK SCRIPT | ONLY FOR EDUCATION PURPOSES | HACKING IS ILLEGAL
+- [karthik558/DDoS-ATTACK](https://github.com/karthik558/DDoS-ATTACK) - A script for simulating a DDoS attack, intended solely for educational purposes. Note that hacking is illegal. 📎
 - [openai/Video-Pre-Training](https://github.com/openai/Video-Pre-Training) - Video PreTraining (VPT): Learning to Act by Watching Unlabeled Online Videos
 - [MrPowerScripts/reddit-karma-farming-bot](https://github.com/MrPowerScripts/reddit-karma-farming-bot) - "Is karma really that important to you? Damn bro, you need a life" - YouTube Comment
 - [vm03/payload_dumper](https://github.com/vm03/payload_dumper) - Android OTA payload dumper
@@ -2128,7 +2133,7 @@
 - [k-vernooy/dotfiles](https://github.com/k-vernooy/dotfiles) - An organizational repository for my dotfiles and scripts
 - [emmett1/lfs-scripts](https://github.com/emmett1/lfs-scripts) - Automated script to build Multilib LFS system + livecd
 - [phisch/giph](https://github.com/phisch/giph) - simple video (gif, webm, mp4) recorder
-- [VentGrey/Epitaph](https://github.com/VentGrey/Epitaph) - Epitaph is a leftwm theme designed for users transitioning from a DE to LeftWM.
+- [VentGrey/Epitaph](https://github.com/VentGrey/Epitaph) - Epitaph is a leftwm theme designed for prog-rock loving users transitioning from a DE to LeftWM.
 - [hellocatfood/jpg-glitch-pattern-generator](https://github.com/hellocatfood/jpg-glitch-pattern-generator) - Automatically generate patterns that exploit compression in jpgs
 - [Alfheim-Software-Initiative/alfheim_script](https://github.com/Alfheim-Software-Initiative/alfheim_script) - This is the script used to build Alfheim Linux, an Arch based Linux Operating System.
 - [raspi-alpine/builder](https://github.com/raspi-alpine/builder) - Mirror of Raspberry PI Alpine Linux Image Builder
