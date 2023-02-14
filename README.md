@@ -103,6 +103,7 @@
 
 ## C 
 
+- [Nooo37/pinsel](https://github.com/Nooo37/pinsel) - Minimal screenshot annotation tool with lua config
 - [ArtsyMacaw/wlogout](https://github.com/ArtsyMacaw/wlogout) - A wayland based logout menu
 - [jovanlanik/gtklock](https://github.com/jovanlanik/gtklock) - GTK-based lockscreen for Wayland
 - [dimaglushkov/dotfiles](https://github.com/dimaglushkov/dotfiles) - configs and scripts
