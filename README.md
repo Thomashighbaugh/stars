@@ -647,6 +647,7 @@
 
 ## JavaScript 
 
+- [dortania/OpenCore-Install-Guide](https://github.com/dortania/OpenCore-Install-Guide) - Repo for the OpenCore Install Guide
 - [ran-dall/codex](https://github.com/ran-dall/codex) - Mirror of Randall's Codex 📜
 - [atesgoral/put.io.starry.night](https://github.com/atesgoral/put.io.starry.night) - The Starry Night animation in put.io's hero banner
 - [NoiSek/Aether](https://github.com/NoiSek/Aether) - A sleek ArchLinux login manager for lightdm-webkit. ( lightdm-webkit-theme-aether )
@@ -1439,6 +1440,7 @@
 - [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
 - [pw4ever/awesome-wm-config](https://github.com/pw4ever/awesome-wm-config) - awesome window manager config with persistent dynamic tagging
 - [drahenprofi/dotfiles](https://github.com/drahenprofi/dotfiles) - Arch Linux dotfiles
+- [nathanielevan/dotfiles](https://github.com/nathanielevan/dotfiles) - Linux configuration files
 - [xinhaoyuan/layout-machi](https://github.com/xinhaoyuan/layout-machi) - AwesomeWM manual layout with an interactive editor
 - [Nooo37/dots](https://github.com/Nooo37/dots) - My dotfiles
 - [leafo/gifine](https://github.com/leafo/gifine) - Quickly record and edit gifs and videos of your desktop
@@ -1504,6 +1506,7 @@
 
 ## Nix 
 
+- [lourkeur/distro](https://github.com/lourkeur/distro) - My own GNU/Linux Distribution
 - [nix-community/NixNG](https://github.com/nix-community/NixNG) - A linux distribution based on Nix [maintainer=@MagicRB]
 - [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config) - Flake-based Nix / NixOS configuration for MacOS, x86, and VMs ✨
 - [kanashimia/nixos-config](https://github.com/kanashimia/nixos-config) - Configuration of my nixos systems.
@@ -2063,6 +2066,7 @@
 
 ## Rust 
 
+- [evestera/svg-halftone](https://github.com/evestera/svg-halftone) - Tool for converting raster images to SVG halftone patterns
 - [mikeroyal/Linux-Guide](https://github.com/mikeroyal/Linux-Guide) - Linux Guide. Learn about Linux Hardware vendors, Linux in the Cloud, Desktop Environments, Window Mangers, Linux Distributions, Linux Security, Graphics (AMD/NVIDIA/Intel ARC), and Software Apps.
 - [sharkdp/vivid](https://github.com/sharkdp/vivid) - A themeable LS_COLORS generator with a rich filetype datebase
 - [Start9Labs/embassy-os](https://github.com/Start9Labs/embassy-os) - Browser-based, graphical operating system for a personal server.
@@ -2369,7 +2373,6 @@
 - [Thomashighbaugh/electric-tantra-pkgbuilds](https://github.com/Thomashighbaugh/electric-tantra-pkgbuilds) - PKGBUILDs used in the Electric Tantra Repo
 - [Thomashighbaugh/zsh](https://github.com/Thomashighbaugh/zsh) - my zsh configuration in its modular glory
 - [Thomashighbaugh/bin](https://github.com/Thomashighbaugh/bin) - My collection of scripts, separated from my dotfiles for the sake of my sanity. I wrote some, I found some, I use some.
-- [nathanielevan/dotfiles](https://github.com/nathanielevan/dotfiles) - Linux configuration files
 - [foxlet/macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM) - Tools to set up a quick macOS VM in QEMU, accelerated by KVM.
 - [ShaneMcC/beeps](https://github.com/ShaneMcC/beeps) - Linux beep music
 - [mviereck/x11docker](https://github.com/mviereck/x11docker) - Run GUI applications and desktops in docker and podman containers. Focus on security.
