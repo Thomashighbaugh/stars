@@ -256,6 +256,7 @@
 
 ## CSS 
 
+- [shvedes/dotfiles](https://github.com/shvedes/dotfiles) - Minimalistic BSPWM dotfiles
 - [mehedirm6244/My_XFCE_dotties](https://github.com/mehedirm6244/My_XFCE_dotties) - My shitty dotfiles for Xfce
 - [L4ki/Aura-Plasma-Themes](https://github.com/L4ki/Aura-Plasma-Themes) - Aura Themes For Plasma Desktop
 - [vinceliuice/Matcha-gtk-theme](https://github.com/vinceliuice/Matcha-gtk-theme) - Matcha is a flat Design theme for GTK 3, GTK 2 and Gnome-Shell
@@ -647,6 +648,7 @@
 
 ## JavaScript 
 
+- [jpetitcolas/ascii-art-converter](https://github.com/jpetitcolas/ascii-art-converter) - Convert any image into pure ASCII art using some JavaScript
 - [dortania/OpenCore-Install-Guide](https://github.com/dortania/OpenCore-Install-Guide) - Repo for the OpenCore Install Guide
 - [ran-dall/codex](https://github.com/ran-dall/codex) - Mirror of Randall's Codex 📜
 - [atesgoral/put.io.starry.night](https://github.com/atesgoral/put.io.starry.night) - The Starry Night animation in put.io's hero banner
@@ -1016,6 +1018,9 @@
 
 ## Lua 
 
+- [cjnucette/nvim.lazy](https://github.com/cjnucette/nvim.lazy) - nvim using lazy.nvim plugin manager
+- [joelazar/nvim-config](https://github.com/joelazar/nvim-config) - My neovim config
+- [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config) - A personalized and simple configuration.
 - [Nooo37/farbig](https://github.com/Nooo37/farbig) - Colorscheme collection
 - [blueyed/awesome-cyclefocus](https://github.com/blueyed/awesome-cyclefocus) - Alt-Tab for the awesome window manager (and more)
 - [colbell/awesome-wm](https://github.com/colbell/awesome-wm) - Awesome Window Manager Configuration
@@ -1048,7 +1053,6 @@
 - [chadcat5207/dots.sh](https://github.com/chadcat5207/dots.sh) - dots for people who are hot
 - [enziaki/ArchConfig](https://github.com/enziaki/ArchConfig) - A short Arch basic install script that installs some packages.
 - [Tell396/awesome](https://github.com/Tell396/awesome) - My AwesomeWM config
-- [dangminhngo/dotfiles](https://github.com/dangminhngo/dotfiles) - My 2022 dotfiles for Arch Jet workstation
 - [Cyan903/awesome-shortcut-json](https://github.com/Cyan903/awesome-shortcut-json) - Plugin for awesomewm that allows for shortcuts to be stored in json format.
 - [vastamaki/awesomewm](https://github.com/vastamaki/awesomewm) - Awesome wm config files
 - [adsworth/awesomewm_config](https://github.com/adsworth/awesomewm_config) - my configuration for the awesome tiling window manager
@@ -1440,7 +1444,6 @@
 - [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
 - [pw4ever/awesome-wm-config](https://github.com/pw4ever/awesome-wm-config) - awesome window manager config with persistent dynamic tagging
 - [drahenprofi/dotfiles](https://github.com/drahenprofi/dotfiles) - Arch Linux dotfiles
-- [nathanielevan/dotfiles](https://github.com/nathanielevan/dotfiles) - Linux configuration files
 - [xinhaoyuan/layout-machi](https://github.com/xinhaoyuan/layout-machi) - AwesomeWM manual layout with an interactive editor
 - [Nooo37/dots](https://github.com/Nooo37/dots) - My dotfiles
 - [leafo/gifine](https://github.com/leafo/gifine) - Quickly record and edit gifs and videos of your desktop
@@ -2141,6 +2144,7 @@
 
 ## Shell 
 
+- [okitavera/dotfiles](https://github.com/okitavera/dotfiles) - All of my configuration files that currently used includes zsh, urxvt, awesomewm, and others
 - [varlesh/volantes-cursors](https://github.com/varlesh/volantes-cursors) - Cursor Theme
 - [greglaurent/nixos-iso](https://github.com/greglaurent/nixos-iso) - Custom NixOS ISO
 - [k-vernooy/dotfiles](https://github.com/k-vernooy/dotfiles) - An organizational repository for my dotfiles and scripts
@@ -2373,6 +2377,7 @@
 - [Thomashighbaugh/electric-tantra-pkgbuilds](https://github.com/Thomashighbaugh/electric-tantra-pkgbuilds) - PKGBUILDs used in the Electric Tantra Repo
 - [Thomashighbaugh/zsh](https://github.com/Thomashighbaugh/zsh) - my zsh configuration in its modular glory
 - [Thomashighbaugh/bin](https://github.com/Thomashighbaugh/bin) - My collection of scripts, separated from my dotfiles for the sake of my sanity. I wrote some, I found some, I use some.
+- [nathanielevan/dotfiles](https://github.com/nathanielevan/dotfiles) - Linux configuration files
 - [foxlet/macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM) - Tools to set up a quick macOS VM in QEMU, accelerated by KVM.
 - [ShaneMcC/beeps](https://github.com/ShaneMcC/beeps) - Linux beep music
 - [mviereck/x11docker](https://github.com/mviereck/x11docker) - Run GUI applications and desktops in docker and podman containers. Focus on security.
