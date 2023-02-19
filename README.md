@@ -1346,7 +1346,6 @@
 - [lilydjwg/myawesomerc](https://github.com/lilydjwg/myawesomerc) - My Awesome WM config files
 - [tumurzakov/attachdrop](https://github.com/tumurzakov/attachdrop) - AwesomeWM Quake like windows management
 - [cyrobin/awesome-wm](https://github.com/cyrobin/awesome-wm) - My Awesome WM 3.4 configuration
-- [ibhagwan/dots](https://github.com/ibhagwan/dots) - dots
 - [jonaburg/awesome-dotfiles](https://github.com/jonaburg/awesome-dotfiles) - Purely an awesome dotfiles repo to sync my awesomewm environment across several machines
 - [mpostaire/dotfiles](https://github.com/mpostaire/dotfiles) - My dotfiles.
 - [mustaqimM/dotfiles](https://github.com/mustaqimM/dotfiles) - 
@@ -2029,6 +2028,7 @@
 
 ## QML 
 
+- [L4ki/Shiny-Plasma-Themes](https://github.com/L4ki/Shiny-Plasma-Themes) - Shiny Plasma Themes For Plasma Desktop
 - [Calinix-Team/Calinix-Arch](https://github.com/Calinix-Team/Calinix-Arch) - CalinixOS Linux Distribution ISO Profiles
 - [xerolinux/xero_iso](https://github.com/xerolinux/xero_iso) - The Official XeroLinux ISO Build Environment
 
@@ -2146,6 +2146,7 @@
 
 ## Shell 
 
+- [DrgnFireYellow/notenote](https://github.com/DrgnFireYellow/notenote) - The zsh plugin for taking notes.
 - [okitavera/dotfiles](https://github.com/okitavera/dotfiles) - All of my configuration files that currently used includes zsh, urxvt, awesomewm, and others
 - [varlesh/volantes-cursors](https://github.com/varlesh/volantes-cursors) - Cursor Theme
 - [greglaurent/nixos-iso](https://github.com/greglaurent/nixos-iso) - Custom NixOS ISO
@@ -2324,6 +2325,7 @@
 - [ciiqr/installer-ubuntu](https://github.com/ciiqr/installer-ubuntu) - preseed configs and related scripts for setting up ubuntu
 - [itmefeez/instashell](https://github.com/itmefeez/instashell) - Clone of instashell from thelinuxchoice
 - [termuxprofessor/insfollow](https://github.com/termuxprofessor/insfollow) - Best Tool for Increase Instagram Follower.
+- [ibhagwan/dots](https://github.com/ibhagwan/dots) - dots
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [koalagang/KAI](https://github.com/koalagang/KAI) - Koala's Artix Installer
 - [void-linux/void-mklive](https://github.com/void-linux/void-mklive) - The Void Linux live image maker
