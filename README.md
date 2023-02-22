@@ -256,6 +256,7 @@
 
 ## CSS 
 
+- [Aylur/dotfiles](https://github.com/Aylur/dotfiles) - 
 - [shvedes/dotfiles](https://github.com/shvedes/dotfiles) - Minimalistic BSPWM dotfiles
 - [mehedirm6244/My_XFCE_dotties](https://github.com/mehedirm6244/My_XFCE_dotties) - My shitty dotfiles for Xfce
 - [L4ki/Aura-Plasma-Themes](https://github.com/L4ki/Aura-Plasma-Themes) - Aura Themes For Plasma Desktop
@@ -647,6 +648,7 @@
 
 ## JavaScript 
 
+- [zloirock/core-js](https://github.com/zloirock/core-js) - Standard Library
 - [jpetitcolas/ascii-art-converter](https://github.com/jpetitcolas/ascii-art-converter) - Convert any image into pure ASCII art using some JavaScript
 - [dortania/OpenCore-Install-Guide](https://github.com/dortania/OpenCore-Install-Guide) - Repo for the OpenCore Install Guide
 - [ran-dall/codex](https://github.com/ran-dall/codex) - Mirror of Randall's Codex 📜
@@ -1837,6 +1839,7 @@
 
 ## Python 
 
+- [EndeavourOS-Community-Editions/qtile](https://github.com/EndeavourOS-Community-Editions/qtile) - setup for Qtile EOS-CE
 - [fsquillace/pycious](https://github.com/fsquillace/pycious) - Simple and efficient widget library for the awesome window manager written in Python
 - [adfaure/nix_configuration](https://github.com/adfaure/nix_configuration) - 
 - [nwg-piotr/nwg-panel](https://github.com/nwg-piotr/nwg-panel) - GTK3-based panel for sway window manager
@@ -2541,6 +2544,7 @@
 
 ## TypeScript 
 
+- [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, Gitlab, GitHub and Open Project.
 - [davidarroyo1234/InstagramUnfollowers](https://github.com/davidarroyo1234/InstagramUnfollowers) - Check if people follows you back on Instagram.
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 - [brianlovin/briOS](https://github.com/brianlovin/briOS) - My personal website.
