@@ -648,6 +648,7 @@
 
 ## JavaScript 
 
+- [leungwensen/svg-icon](https://github.com/leungwensen/svg-icon) - An ultimate SVG icons collection DONE RIGHT, with over 10,000 SVG icons out of the box.
 - [zloirock/core-js](https://github.com/zloirock/core-js) - Standard Library
 - [jpetitcolas/ascii-art-converter](https://github.com/jpetitcolas/ascii-art-converter) - Convert any image into pure ASCII art using some JavaScript
 - [dortania/OpenCore-Install-Guide](https://github.com/dortania/OpenCore-Install-Guide) - Repo for the OpenCore Install Guide
@@ -1020,6 +1021,7 @@
 
 ## Lua 
 
+- [RaphaeleL/nvim](https://github.com/RaphaeleL/nvim) - ⚙️  My Neovim Configuration
 - [phaazon/config](https://github.com/phaazon/config) - My main configuration files
 - [cjnucette/nvim.lazy](https://github.com/cjnucette/nvim.lazy) - nvim using lazy.nvim plugin manager
 - [joelazar/nvim-config](https://github.com/joelazar/nvim-config) - My neovim config
@@ -1615,7 +1617,6 @@
 - [fnxln/artixzfs-iso](https://github.com/fnxln/artixzfs-iso) - 
 - [lucasviola/awesome-functional-programming](https://github.com/lucasviola/awesome-functional-programming) - :alien: A curated list of functional programming resources such as blog posts, communities, discussion topics, wikis and more.
 - [mozilla/protocol-assets](https://github.com/mozilla/protocol-assets) - Design assets for Protocol, Mozilla’s design system.
-- [CanKolay3499/CNvim](https://github.com/CanKolay3499/CNvim) - A lightweight Neovim config for web development
 - [ReFUI/Artix-Linux-OpenRC-ZFS-iso](https://github.com/ReFUI/Artix-Linux-OpenRC-ZFS-iso) - This is simply a default Artix Linux iso with zfs-dkms installed on it  for ease of installation, linux kernel artix 8.5.3. Wanted to upload it so yall dont have to go through the hassle of installing
 - [szorfein/unix-portfolio](https://github.com/szorfein/unix-portfolio) - Screenshots of my many themes (uncompressed)
 - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
@@ -1779,7 +1780,7 @@
 - [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:
 - [Jaredk3nt/laserwave](https://github.com/Jaredk3nt/laserwave) - A retro outrun / cyberpunk inspired VS Code theme
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
-- [blaCCkHatHacEEkr/PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) - Learn ethical hacking.Learn about reconnaissance,windows/linux hacking,attacking web technologies,and pen testing wireless networks.Resources for learning malware analysis and reverse engineering.
+- [blaCCkHatHacEEkr/PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) - articles
 - [epidrome/awesome-cv-templates](https://github.com/epidrome/awesome-cv-templates) - :page_facing_up: A curated list of awesome CV and resume templates
 - [bundestag/gesetze](https://github.com/bundestag/gesetze) - Bundesgesetze und -verordnungen
 - [hobby-kube/guide](https://github.com/hobby-kube/guide) - Kubernetes clusters for the hobbyist.
@@ -2150,6 +2151,7 @@
 
 ## Shell 
 
+- [fariasmateuss/favicon-generator](https://github.com/fariasmateuss/favicon-generator) - Bash Script to generate favicons in multiple sizes (.ico and .png)
 - [DrgnFireYellow/notenote](https://github.com/DrgnFireYellow/notenote) - The zsh plugin for taking notes.
 - [okitavera/dotfiles](https://github.com/okitavera/dotfiles) - All of my configuration files that currently used includes zsh, urxvt, awesomewm, and others
 - [varlesh/volantes-cursors](https://github.com/varlesh/volantes-cursors) - Cursor Theme
@@ -2544,6 +2546,7 @@
 
 ## TypeScript 
 
+- [edgarlr/magazine](https://github.com/edgarlr/magazine) - Next.js Digital Magazine Starter Kit
 - [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, Gitlab, GitHub and Open Project.
 - [davidarroyo1234/InstagramUnfollowers](https://github.com/davidarroyo1234/InstagramUnfollowers) - Check if people follows you back on Instagram.
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
