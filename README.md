@@ -648,6 +648,7 @@
 
 ## JavaScript 
 
+- [replicate/inpainter](https://github.com/replicate/inpainter) - A web GUI built with Next.js for inpainting with Stable Diffusion using the Replicate API.
 - [leungwensen/svg-icon](https://github.com/leungwensen/svg-icon) - An ultimate SVG icons collection DONE RIGHT, with over 10,000 SVG icons out of the box.
 - [zloirock/core-js](https://github.com/zloirock/core-js) - Standard Library
 - [jpetitcolas/ascii-art-converter](https://github.com/jpetitcolas/ascii-art-converter) - Convert any image into pure ASCII art using some JavaScript
@@ -1512,6 +1513,9 @@
 
 ## Nix 
 
+- [kclejeune/system](https://github.com/kclejeune/system) - Declarative system configurations using nixOS, nix-darwin, and home-manager
+- [reckenrode/nixos-configs](https://github.com/reckenrode/nixos-configs) - My NixOS and nix-darwin configs
+- [ZilchOS/core](https://github.com/ZilchOS/core) - ZilchOS Core, a decidedly tiny Nix-based distro to play with
 - [GTrunSec/nixos-flk](https://github.com/GTrunSec/nixos-flk) - highly structured NixOS configuration based on devos
 - [thiagokokada/nix-configs](https://github.com/thiagokokada/nix-configs) - My Nix{OS} configuration files
 - [lourkeur/distro](https://github.com/lourkeur/distro) - My own GNU/Linux Distribution
@@ -2546,6 +2550,7 @@
 
 ## TypeScript 
 
+- [folke/polydock](https://github.com/folke/polydock) - ✨ A shiny and hackable application dock
 - [edgarlr/magazine](https://github.com/edgarlr/magazine) - Next.js Digital Magazine Starter Kit
 - [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, Gitlab, GitHub and Open Project.
 - [davidarroyo1234/InstagramUnfollowers](https://github.com/davidarroyo1234/InstagramUnfollowers) - Check if people follows you back on Instagram.
