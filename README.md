@@ -416,6 +416,7 @@
 
 ## Dockerfile 
 
+- [Herrox/instapy-docker](https://github.com/Herrox/instapy-docker) - 🐳 Docker config and documentation for running InstaPy with Docker
 - [travisboss/Jefe-Lists](https://github.com/travisboss/Jefe-Lists) - A list of allowlists and denylists converted to adblock style syntax
 - [icewind1991/archiso-builder](https://github.com/icewind1991/archiso-builder) - Docker image for building customized archiso images
 - [SuperSandro2000/docker-images](https://github.com/SuperSandro2000/docker-images) - All my docker images in one mono-repository with multi-arch support
@@ -458,7 +459,7 @@
 ## Go 
 
 - [cheshire137/gen-svgo-pattern](https://github.com/cheshire137/gen-svgo-pattern) - Generate Go code to create SVG patterns from a given SVG image.
-- [curusarn/resh](https://github.com/curusarn/resh) - Rich Enhanced Shell History - Contextual shell history for zsh and bash
+- [curusarn/resh](https://github.com/curusarn/resh) - REcycle SHell - Contextual shell history for zsh and bash
 - [inancgumus/learngo](https://github.com/inancgumus/learngo) - ❤️ 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes. 🚀 Learn Go by fixing 1000+ tiny programs.
 - [mozilla/sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets
 - [evan-buss/openbooks](https://github.com/evan-buss/openbooks) - Search and Download eBooks
@@ -647,6 +648,7 @@
 
 ## JavaScript 
 
+- [akashdoppalapudi/akashdoppalapudi-portfolio](https://github.com/akashdoppalapudi/akashdoppalapudi-portfolio) - A Next.js project for my portfolio website
 - [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
 - [sambeevors/tailwindcss-neumorphism](https://github.com/sambeevors/tailwindcss-neumorphism) - Generate soft UI CSS code using tailwindcss
 - [replicate/inpainter](https://github.com/replicate/inpainter) - A web GUI built with Next.js for inpainting with Stable Diffusion using the Replicate API.
@@ -920,7 +922,6 @@
 - [algokun/the404blog](https://github.com/algokun/the404blog) - An OpenSource Fully Working Blog built with GatsbyJS
 - [blahsd/snwe](https://github.com/blahsd/snwe) - 🚀 Extensible, customisable, menubar replacement for macOS/UNIX.
 - [luqin/systemjs-starter-kit](https://github.com/luqin/systemjs-starter-kit) - ES6 Modules starter project that uses Gulp, Babel, SystemJS, React, react-router, react-bootstrap, ECharts, three.js
-- [themerdev/themer](https://github.com/themerdev/themer) - 🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).
 - [Manoz/k-legrand.com](https://github.com/Manoz/k-legrand.com) - My website powered by Gatsby v2 ❤️
 - [nethruster/ptemplate](https://github.com/nethruster/ptemplate) - A personal website template that's not a pain in the ass to setup and use
 - [caljrimmer/portfolio-redux-app](https://github.com/caljrimmer/portfolio-redux-app) - A portfolio template built with Redux and React
@@ -1515,6 +1516,18 @@
 
 ## Nix 
 
+- [kittywitch/nixfiles](https://github.com/kittywitch/nixfiles) - kat's configuration flake
+- [thexyno/nixos-config](https://github.com/thexyno/nixos-config) - my nixos/nix-darwin configurations
+- [mayflower/nixexprs](https://github.com/mayflower/nixexprs) - Public, Opinionated Mayflower NixOS Modules/Packages and other Expressions
+- [jethrokuan/nix](https://github.com/jethrokuan/nix) - NixOS configuration with Nix flakes
+- [ners/NixOS](https://github.com/ners/NixOS) - A feature-rich NixOS configuration that can double as a learning resource.
+- [pimeys/nixos](https://github.com/pimeys/nixos) - NixOS Configuration
+- [ghuntley/dotfiles-nixos](https://github.com/ghuntley/dotfiles-nixos) - source drop as reference for others on how to setup nixos and share configs between multiple machines
+- [Ericson2314/nixos-configuration](https://github.com/Ericson2314/nixos-configuration) - Much better than a .dotfiles repo
+- [snowfallorg/lib](https://github.com/snowfallorg/lib) - Unified configuration for systems, packages, modules, shells, templates, and more with Nix Flakes.
+- [pinpox/nixos](https://github.com/pinpox/nixos) - My NixOS Configurations
+- [jluttine/nixos-configuration](https://github.com/jluttine/nixos-configuration) - Personal NixOS configuration
+- [functionalops/nix-cookbook](https://github.com/functionalops/nix-cookbook) - A cookbook of snippets that show you how you can accomplish common tasks using the Nix expression language
 - [the-nix-way/dev-templates](https://github.com/the-nix-way/dev-templates) - Dev environments for numerous languages based on Nix flakes [maintainer=@lucperkins]
 - [wagdav/homelab](https://github.com/wagdav/homelab) - Because at home you keep devopsing
 - [jakehamilton/config](https://github.com/jakehamilton/config) - One Nix flake to rule them all.
@@ -1592,6 +1605,7 @@
 
 ## Others 
 
+- [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns.
 - [mzoyinda/Tech-Newbies](https://github.com/mzoyinda/Tech-Newbies) - Tech-Newbies is an open source project for beginners in tech to find entry level jobs with (0-2)years experience, internships, bootcamps, free courses and many more....
 - [hugo53/awesome-RemoteWork](https://github.com/hugo53/awesome-RemoteWork) - Resources for remote workers: approaches, hiring page, remote life and more.
 - [Syndrizzle/hotfiles](https://github.com/Syndrizzle/hotfiles) - 🏠 A collection of personal configuration files for various rices I have made.
@@ -1824,6 +1838,7 @@
 
 ## PHP 
 
+- [Ademking/InstaPoster](https://github.com/Ademking/InstaPoster) - 🖼 Instagram Auto-Posting BOT - Post Automatically to instagram
 - [mcreef/LinkEasy](https://github.com/mcreef/LinkEasy) - Minimalistic self-hosted "Linktree" or "LinkedIn Bio" alternative.
 - [DenverCoder1/minimalistic-wallpaper-collection](https://github.com/DenverCoder1/minimalistic-wallpaper-collection) - Minimalistic, flat art, and colorful, digital nature wallpapers and an API for randomly selecting them
 - [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) - PrestaShop is the universal open-source software platform to build your e-commerce solution.
@@ -2557,6 +2572,7 @@
 
 ## TypeScript 
 
+- [smakosh/next-portfolio-dev](https://github.com/smakosh/next-portfolio-dev) - A portfolio for developers (Next js version)
 - [harshgoel05/another-portfolio](https://github.com/harshgoel05/another-portfolio) - An eye-catching developer Portfolio, Built on NextJS.
 - [NuroDev/nuro.dev](https://github.com/NuroDev/nuro.dev) - 🌿  Personal Portfolio
 - [antfu/starter-vscode](https://github.com/antfu/starter-vscode) - Starter template for VS Code Extension
@@ -2681,6 +2697,7 @@
 - [nomcopter/react-mosaic](https://github.com/nomcopter/react-mosaic) - A React tiling window manager
 - [Graviton-Code-Editor/Graviton-App](https://github.com/Graviton-Code-Editor/Graviton-App) - 🚀 A modern-looking Code Editor
 - [lodeapp/lode](https://github.com/lodeapp/lode) - A universal GUI for unit testing built with Electron and Vue.js
+- [themerdev/themer](https://github.com/themerdev/themer) - 🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).
 - [kremalicious/portfolio](https://github.com/kremalicious/portfolio) - 👔 Portfolio thingy
 - [kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit) - The web's most popular Jamstack front-end template (boilerplate) for building web applications with React
 - [async-labs/saas](https://github.com/async-labs/saas) - Build your own SaaS business with SaaS boilerplate. Productive stack: React, Material-UI, Next, MobX, WebSockets, Express, Node, Mongoose, MongoDB. Written with TypeScript.
@@ -2715,6 +2732,7 @@
 
 ## Vim Script 
 
+- [Arkham/dotfiles.nix](https://github.com/Arkham/dotfiles.nix) - Dotfiles super-powered by Nix and home-manager
 - [thezeroalpha/dotfiles](https://github.com/thezeroalpha/dotfiles) - My personal shell configs and stuff
 - [issadarkthing/artix-dotfiles](https://github.com/issadarkthing/artix-dotfiles) - My Artix linux dotfiles
 - [Ham5andw1ch/NewDots](https://github.com/Ham5andw1ch/NewDots) - Updated dotfiles since I'm too lazy to touch the old repo.
