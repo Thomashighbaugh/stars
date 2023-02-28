@@ -260,6 +260,7 @@
 - [shvedes/dotfiles](https://github.com/shvedes/dotfiles) - Minimalistic BSPWM dotfiles
 - [mehedirm6244/My_XFCE_dotties](https://github.com/mehedirm6244/My_XFCE_dotties) - My shitty dotfiles for Xfce
 - [L4ki/Aura-Plasma-Themes](https://github.com/L4ki/Aura-Plasma-Themes) - Aura Themes For Plasma Desktop
+- [chadcat5207/dots.sh](https://github.com/chadcat5207/dots.sh) - dots for people who are hot
 - [vinceliuice/Matcha-gtk-theme](https://github.com/vinceliuice/Matcha-gtk-theme) - Matcha is a flat Design theme for GTK 3, GTK 2 and Gnome-Shell
 - [BloodyHell619/Firefox-Theme-DarkMatter](https://github.com/BloodyHell619/Firefox-Theme-DarkMatter) - 
 - [avahe-kellenberger/dotfiles](https://github.com/avahe-kellenberger/dotfiles) - Personal dotfiles for my multiple systems.
@@ -459,7 +460,7 @@
 ## Go 
 
 - [cheshire137/gen-svgo-pattern](https://github.com/cheshire137/gen-svgo-pattern) - Generate Go code to create SVG patterns from a given SVG image.
-- [curusarn/resh](https://github.com/curusarn/resh) - REcycle SHell - Contextual shell history for zsh and bash
+- [curusarn/resh](https://github.com/curusarn/resh) - RESH - Contextual shell history for zsh and bash
 - [inancgumus/learngo](https://github.com/inancgumus/learngo) - ❤️ 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes. 🚀 Learn Go by fixing 1000+ tiny programs.
 - [mozilla/sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets
 - [evan-buss/openbooks](https://github.com/evan-buss/openbooks) - Search and Download eBooks
@@ -616,6 +617,7 @@
 
 ## Haskell 
 
+- [srid/emanote](https://github.com/srid/emanote) - Emanate a structured view of your plain-text notes
 - [abooij/sudbury](https://github.com/abooij/sudbury) - Haskell implementation of the wayland protocol
 - [srid/neuron](https://github.com/srid/neuron) - Future-proof note-taking and publishing based on Zettelkasten (superseded by Emanote: https://github.com/srid/emanote)
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
@@ -648,6 +650,10 @@
 
 ## JavaScript 
 
+- [spencerlepine/github-api-react](https://github.com/spencerlepine/github-api-react) - React app that displays a selected users GitHub repositories, using GitHub REST API.
+- [arifszn/blog.js](https://github.com/arifszn/blog.js) - JavaScript client to get recent blog posts from popular blogging platforms.
+- [arifszn/gitprofile](https://github.com/arifszn/gitprofile) - 🚀 Create a dynamic portfolio by just providing your GitHub username.
+- [maizzle/framework](https://github.com/maizzle/framework) - Quickly build HTML emails with utility-first CSS.
 - [akashdoppalapudi/akashdoppalapudi-portfolio](https://github.com/akashdoppalapudi/akashdoppalapudi-portfolio) - A Next.js project for my portfolio website
 - [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
 - [sambeevors/tailwindcss-neumorphism](https://github.com/sambeevors/tailwindcss-neumorphism) - Generate soft UI CSS code using tailwindcss
@@ -1059,7 +1065,6 @@
 - [Aire-One/awesome-slot](https://github.com/Aire-One/awesome-slot) - A declarative API to connect signals for the AwesomeWM
 - [SystematicError/Dotfiles](https://github.com/SystematicError/Dotfiles) - 💻 My collection of programs and configurations for the linux desktop
 - [chadcat5207/nvide](https://github.com/chadcat5207/nvide) - a blazingly bad neovim config
-- [chadcat5207/dots.sh](https://github.com/chadcat5207/dots.sh) - dots for people who are hot
 - [enziaki/ArchConfig](https://github.com/enziaki/ArchConfig) - A short Arch basic install script that installs some packages.
 - [Tell396/awesome](https://github.com/Tell396/awesome) - My AwesomeWM config
 - [Cyan903/awesome-shortcut-json](https://github.com/Cyan903/awesome-shortcut-json) - Plugin for awesomewm that allows for shortcuts to be stored in json format.
@@ -1240,7 +1245,6 @@
 - [tdy/awesome](https://github.com/tdy/awesome) - Configs for awesomeWM
 - [hoelzro/obvious](https://github.com/hoelzro/obvious) - Widget library for the awesome window manager
 - [DanielFGray/dotfiles](https://github.com/DanielFGray/dotfiles) - personal repo of config files
-- [JavaCafe01/frostedflakes](https://github.com/JavaCafe01/frostedflakes) - My NixOS configuration files w/ Nix Flakes
 - [onsails/diaglist.nvim](https://github.com/onsails/diaglist.nvim) - Live render workspace diagnostics in quickfix with current buf errors on top, buffer diagnostics in loclist
 - [mickael-menu/zk-nvim](https://github.com/mickael-menu/zk-nvim) - Neovim extension for zk
 - [amirulmenjeni/dotfiles](https://github.com/amirulmenjeni/dotfiles) - My linux desktop config and theme files.
@@ -1420,7 +1424,7 @@
 - [crater2150/awesome-handy](https://github.com/crater2150/awesome-handy) - Popup programs for awesomewm
 - [tyrumus/dotfiles-old](https://github.com/tyrumus/dotfiles-old) - My dotfiles for my setup (AwesomeWM 4.2) and some future dreams
 - [Relz/awesome-wm-theme](https://github.com/Relz/awesome-wm-theme) - Awesome WM theme
-- [momofor/dotfiles](https://github.com/momofor/dotfiles) - A collection of dotfiles I have gathered over the months all using the glorious nord color scheme.
+- [momofor/dotfiles](https://github.com/momofor/dotfiles) - My dotfiles. All using the glorious catppuccin machiatto theme.
 - [Caellian/NightSky](https://github.com/Caellian/NightSky) - My Awesome WM configuration script.
 - [warlock90000/awesome](https://github.com/warlock90000/awesome) - 
 - [flyboy14/awesomewm](https://github.com/flyboy14/awesomewm) - awesome-git + lua5.3(vicious/lain widgets, shifty, awesompd, xdg-menu and some useful custom functions)
@@ -1516,6 +1520,9 @@
 
 ## Nix 
 
+- [pupbrained/nix-config](https://github.com/pupbrained/nix-config) - Personal NixOS dotfiles/configuration
+- [AmeerTaweel/dotfiles](https://github.com/AmeerTaweel/dotfiles) - My personal dotfiles configuration for NixOS using flakes
+- [jpreagan/nixos-config](https://github.com/jpreagan/nixos-config) - ❄ My system configuration files using NixOS, nix-darwin, and home-manager.
 - [kittywitch/nixfiles](https://github.com/kittywitch/nixfiles) - kat's configuration flake
 - [thexyno/nixos-config](https://github.com/thexyno/nixos-config) - my nixos/nix-darwin configurations
 - [mayflower/nixexprs](https://github.com/mayflower/nixexprs) - Public, Opinionated Mayflower NixOS Modules/Packages and other Expressions
@@ -1582,6 +1589,7 @@
 - [utdemir/dotfiles-nix](https://github.com/utdemir/dotfiles-nix) - Comprehensive configurations of my NixOS workstations and home server.
 - [LEXUGE/nixos](https://github.com/LEXUGE/nixos) - A fully automated replicable nixos configuration set
 - [davidtwco/veritas](https://github.com/davidtwco/veritas) - @davidtwco's personal mono-repo - containing the declarative configuration of servers, desktops and laptops - including dotfiles; a collection of packages; a static site generator and source of "david
+- [JavaCafe01/frostedflakes](https://github.com/JavaCafe01/frostedflakes) - My NixOS configuration files w/ Nix Flakes
 - [numtide/devshell](https://github.com/numtide/devshell) - Per project developer environments
 - [hlissner/dotfiles](https://github.com/hlissner/dotfiles) - And I say hey, what's going on?
 - [ivanbrennan/nixbox](https://github.com/ivanbrennan/nixbox) - NixOS configuration
@@ -1866,6 +1874,7 @@
 
 ## Python 
 
+- [avgupta456/github-trends](https://github.com/avgupta456/github-trends) - 🚀 Level up your GitHub profile readme with customizable cards including LOC statistics!
 - [EndeavourOS-Community-Editions/qtile](https://github.com/EndeavourOS-Community-Editions/qtile) - setup for Qtile EOS-CE
 - [fsquillace/pycious](https://github.com/fsquillace/pycious) - Simple and efficient widget library for the awesome window manager written in Python
 - [adfaure/nix_configuration](https://github.com/adfaure/nix_configuration) - 
@@ -2103,6 +2112,7 @@
 
 - [evestera/svg-halftone](https://github.com/evestera/svg-halftone) - Tool for converting raster images to SVG halftone patterns
 - [mikeroyal/Linux-Guide](https://github.com/mikeroyal/Linux-Guide) - Linux Guide. Learn about Linux Hardware vendors, Linux in the Cloud, Desktop Environments, Window Mangers, Linux Distributions, Linux Security, Graphics (AMD/NVIDIA/Intel ARC), and Software Apps.
+- [VentGrey/Epitaph](https://github.com/VentGrey/Epitaph) - Epitaph is a leftwm theme designed for prog-rock loving users transitioning from a DE to LeftWM.
 - [sharkdp/vivid](https://github.com/sharkdp/vivid) - A themeable LS_COLORS generator with a rich filetype datebase
 - [Start9Labs/embassy-os](https://github.com/Start9Labs/embassy-os) - Browser-based, graphical operating system for a personal server.
 - [jamestthompson3/tendril-wiki](https://github.com/jamestthompson3/tendril-wiki) - Personal knowledge management tool
@@ -2177,6 +2187,7 @@
 
 ## Shell 
 
+- [samthepacman/IdempotentDots](https://github.com/samthepacman/IdempotentDots) - dots configured after setting up NixOS on tmpfs
 - [fariasmateuss/favicon-generator](https://github.com/fariasmateuss/favicon-generator) - Bash Script to generate favicons in multiple sizes (.ico and .png)
 - [DrgnFireYellow/notenote](https://github.com/DrgnFireYellow/notenote) - The zsh plugin for taking notes.
 - [okitavera/dotfiles](https://github.com/okitavera/dotfiles) - All of my configuration files that currently used includes zsh, urxvt, awesomewm, and others
@@ -2185,7 +2196,6 @@
 - [k-vernooy/dotfiles](https://github.com/k-vernooy/dotfiles) - An organizational repository for my dotfiles and scripts
 - [emmett1/lfs-scripts](https://github.com/emmett1/lfs-scripts) - Automated script to build Multilib LFS system + livecd
 - [phisch/giph](https://github.com/phisch/giph) - simple video (gif, webm, mp4) recorder
-- [VentGrey/Epitaph](https://github.com/VentGrey/Epitaph) - Epitaph is a leftwm theme designed for prog-rock loving users transitioning from a DE to LeftWM.
 - [hellocatfood/jpg-glitch-pattern-generator](https://github.com/hellocatfood/jpg-glitch-pattern-generator) - Automatically generate patterns that exploit compression in jpgs
 - [Alfheim-Software-Initiative/alfheim_script](https://github.com/Alfheim-Software-Initiative/alfheim_script) - This is the script used to build Alfheim Linux, an Arch based Linux Operating System.
 - [raspi-alpine/builder](https://github.com/raspi-alpine/builder) - Mirror of Raspberry PI Alpine Linux Image Builder
@@ -2562,6 +2572,7 @@
 
 ## TeX 
 
+- [trigaten/Learn_Prompting](https://github.com/trigaten/Learn_Prompting) - 
 - [benbrastmckie/.config](https://github.com/benbrastmckie/.config) - NeoVim configuration optimized for writing in LaTeX
 - [LukeSmithxyz/critique-of-reason](https://github.com/LukeSmithxyz/critique-of-reason) - Term paper on Rationality
 - [sysprog21/lkmpg](https://github.com/sysprog21/lkmpg) - The Linux Kernel Module Programming Guide (updated for 5.x kernels)
@@ -2572,6 +2583,8 @@
 
 ## TypeScript 
 
+- [jpreagan/jpreagan.com](https://github.com/jpreagan/jpreagan.com) - ✨ My personal website built with Next.js
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted memo hub with knowledge management and social networking.
 - [smakosh/next-portfolio-dev](https://github.com/smakosh/next-portfolio-dev) - A portfolio for developers (Next js version)
 - [harshgoel05/another-portfolio](https://github.com/harshgoel05/another-portfolio) - An eye-catching developer Portfolio, Built on NextJS.
 - [NuroDev/nuro.dev](https://github.com/NuroDev/nuro.dev) - 🌿  Personal Portfolio
