@@ -39,7 +39,6 @@
 - [Julia](#julia)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
-- [Latte](#latte)
 - [Less](#less)
 - [Lua](#lua)
 - [MATLAB](#matlab)
@@ -203,6 +202,7 @@
 
 ## C++ 
 
+- [luabind/luabind](https://github.com/luabind/luabind) - 
 - [dasJ/spotifywm](https://github.com/dasJ/spotifywm) - Set Spotify's WM_NAME before opening the window
 - [nwg-piotr/nwg-launchers](https://github.com/nwg-piotr/nwg-launchers) - GTK-based launchers: application grid, button bar, dmenu for sway and other window managers
 - [CachyOS/cachyos-calamares](https://github.com/CachyOS/cachyos-calamares) - CachyOS Calamares
@@ -831,7 +831,7 @@
 - [Thomashighbaugh/Opitx](https://github.com/Thomashighbaugh/Opitx) - A Markdown Editor for Those Who Are Tired of Loosing Their Work
 - [Thomashighbaugh/resurgens-iv](https://github.com/Thomashighbaugh/resurgens-iv) - The Fourth Resurgens Portfolio Site. Featuring React!!!
 - [mikesprague/my-start-page](https://github.com/mikesprague/my-start-page) - Open source new tab extension
-- [netlify/netlify-cms](https://github.com/netlify/netlify-cms) - A Git-based CMS for Static Site Generators
+- [decaporg/decap-cms](https://github.com/decaporg/decap-cms) - A Git-based CMS for Static Site Generators
 - [sintaxi/harp](https://github.com/sintaxi/harp) - Static Web Server/Generator/Bundler
 - [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
 - [react-static/react-static](https://github.com/react-static/react-static) - ⚛️ 🚀 A progressive static site generator for React.
@@ -1019,10 +1019,6 @@
 - [osmanonurkoc/papirusadaptive](https://github.com/osmanonurkoc/papirusadaptive) - Famous Linux Icon theme port for android
 - [hadiyarajesh/insta-bot](https://github.com/hadiyarajesh/insta-bot) - Instagram automation library to perform likes, comments, follow, story viewing and much more.
 - [EmiyaSyahriel/CrossLauncher](https://github.com/EmiyaSyahriel/CrossLauncher) - XMB-like Android Launcher
-
-## Latte 
-
-- [Blacksuan19/Dotfiles](https://github.com/Blacksuan19/Dotfiles) - KDE Plasma for twm users.
 
 ## Less 
 
@@ -1613,6 +1609,8 @@
 
 ## Others 
 
+- [groepl/Obsidian-Templates](https://github.com/groepl/Obsidian-Templates) - A repository containing templates and scripts for #Obsidian to support the #Zettelkasten method for note-taking.
+- [KaleabTessera/Research-Paper-Reading-Template](https://github.com/KaleabTessera/Research-Paper-Reading-Template) - A markdown template for taking notes to summarize research papers.
 - [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns.
 - [mzoyinda/Tech-Newbies](https://github.com/mzoyinda/Tech-Newbies) - Tech-Newbies is an open source project for beginners in tech to find entry level jobs with (0-2)years experience, internships, bootcamps, free courses and many more....
 - [hugo53/awesome-RemoteWork](https://github.com/hugo53/awesome-RemoteWork) - Resources for remote workers: approaches, hiring page, remote life and more.
@@ -2545,6 +2543,7 @@
 - [cbrnix/Newaita](https://github.com/cbrnix/Newaita) - Linux icon theme
 - [Thomashighbaugh/colt45gui](https://github.com/Thomashighbaugh/colt45gui) - Quickly Provision Your Linux Desktop With Useful Applications With a GUI Installer Menu
 - [dvilelaf/alfred](https://github.com/dvilelaf/alfred) - A script to install all your favourite applications and perform the most common tasks in GNU/Linux.
+- [Blacksuan19/Dotfiles](https://github.com/Blacksuan19/Dotfiles) - KDE Plasma for twm users.
 - [vinceliuice/Tela-icon-theme](https://github.com/vinceliuice/Tela-icon-theme) - A flat colorful Design icon theme
 - [powerline/fonts](https://github.com/powerline/fonts) - Patched fonts for Powerline users.
 - [OrancheloTeam/oranchelo-icon-theme](https://github.com/OrancheloTeam/oranchelo-icon-theme) - :tangerine: Oranchelo icon theme by http://zayronxio.deviantart.com/
