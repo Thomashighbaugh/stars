@@ -121,7 +121,6 @@
 - [pijulius/picom](https://github.com/pijulius/picom) - A lightweight compositor for X11
 - [dccsillag/picom](https://github.com/dccsillag/picom) - A lightweight compositor for X11
 - [hc0d3r/alfheim](https://github.com/hc0d3r/alfheim) - a linux process hacker tool
-- [lealoureiro/awesome-pa-utility](https://github.com/lealoureiro/awesome-pa-utility) - Utility to listen for PulseAudio server changes and update AwesomeWM widgets.
 - [nullchilly/CatNvim](https://github.com/nullchilly/CatNvim) - C at Nvim
 - [bagyoni/procedural-wallpapers](https://github.com/bagyoni/procedural-wallpapers) - A collection of wallpaper generators
 - [VeltOS/graphene-desktop](https://github.com/VeltOS/graphene-desktop) - The default desktop environment of VeltOS
@@ -1519,6 +1518,10 @@
 
 ## Nix 
 
+- [RaubJo/hive](https://github.com/RaubJo/hive) - 
+- [MagicRB/NixNG](https://github.com/MagicRB/NixNG) - 
+- [rvolosatovs/infrastructure](https://github.com/rvolosatovs/infrastructure) - Private NixOps network infrastructure
+- [puffnfresh/nix-files](https://github.com/puffnfresh/nix-files) - My NixOS configuration and custom Nix derivations.
 - [pupbrained/nix-config](https://github.com/pupbrained/nix-config) - Personal NixOS dotfiles/configuration
 - [AmeerTaweel/dotfiles](https://github.com/AmeerTaweel/dotfiles) - My personal dotfiles configuration for NixOS using flakes
 - [jpreagan/nixos-config](https://github.com/jpreagan/nixos-config) - ❄ My system configuration files using NixOS, nix-darwin, and home-manager.
@@ -1875,6 +1878,7 @@
 
 ## Python 
 
+- [microsoft/unilm](https://github.com/microsoft/unilm) - Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities
 - [avgupta456/github-trends](https://github.com/avgupta456/github-trends) - 🚀 Level up your GitHub profile readme with customizable cards including LOC statistics!
 - [EndeavourOS-Community-Editions/qtile](https://github.com/EndeavourOS-Community-Editions/qtile) - setup for Qtile EOS-CE
 - [fsquillace/pycious](https://github.com/fsquillace/pycious) - Simple and efficient widget library for the awesome window manager written in Python
@@ -2488,7 +2492,7 @@
 - [solidnerd/docker-bookstack](https://github.com/solidnerd/docker-bookstack) - BookStack in a container
 - [filiparag/wikiman](https://github.com/filiparag/wikiman) - Wikiman is an offline search engine for manual pages, Arch Wiki, Gentoo Wiki and other documentation.
 - [wafflepie/dotfiles](https://github.com/wafflepie/dotfiles) - 🧰 Handcrafted dotfiles for web developers running Fedora, macOS, or Ubuntu for WSL. Ridiculously easy to set up, maintain, and extend.
-- [DonyaOS/Donya](https://github.com/DonyaOS/Donya) - Donya is an Operating system. Yet Another Linux distro built using a package management system.
+- [DonyaOS/Donya](https://github.com/DonyaOS/Donya) - Donya is an Operating System. Yet Another Linux distro built using a package management system.
 - [adi1090x/plymouth-themes](https://github.com/adi1090x/plymouth-themes) - A hugh collection (80+) of plymouth themes ported from android bootanimations
 - [6gk/fet.sh](https://github.com/6gk/fet.sh) - 🐢 a fetch written in posix shell without any external commands  (sponsored by https://git.io/kiwmi)
 - [LukeSmithxyz/voidrice](https://github.com/LukeSmithxyz/voidrice) - My dotfiles (deployed by LARBS)
