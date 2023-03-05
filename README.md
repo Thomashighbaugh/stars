@@ -21,6 +21,7 @@
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
 - [Elixir](#elixir)
+- [Elm](#elm)
 - [Emacs Lisp](#emacs-lisp)
 - [Fennel](#fennel)
 - [FreeMarker](#freemarker)
@@ -105,7 +106,7 @@
 - [Nooo37/pinsel](https://github.com/Nooo37/pinsel) - Minimal screenshot annotation tool with lua config
 - [ArtsyMacaw/wlogout](https://github.com/ArtsyMacaw/wlogout) - A wayland based logout menu
 - [jovanlanik/gtklock](https://github.com/jovanlanik/gtklock) - GTK-based lockscreen for Wayland
-- [dimaglushkov/dotfiles](https://github.com/dimaglushkov/dotfiles) - configs and scripts
+- [dimaglushkov/dotfiles](https://github.com/dimaglushkov/dotfiles) - arch linux configs and scripts
 - [RogueMaster/flipperzero-firmware-wPlugins](https://github.com/RogueMaster/flipperzero-firmware-wPlugins) - RogueMaster Flipper Zero Firmware
 - [jcs/sdorfehs](https://github.com/jcs/sdorfehs) - A tiling window manager
 - [sardemff7/wayhouse](https://github.com/sardemff7/wayhouse) - A Wayland compositor based on libweston and providing most of Wayland Wall protocols
@@ -255,6 +256,7 @@
 
 ## CSS 
 
+- [khaneliman/dotfiles](https://github.com/khaneliman/dotfiles) - Multi platform and desktop environment dotfiles for developers.
 - [Aylur/dotfiles](https://github.com/Aylur/dotfiles) - 
 - [shvedes/dotfiles](https://github.com/shvedes/dotfiles) - Minimalistic BSPWM dotfiles
 - [mehedirm6244/My_XFCE_dotties](https://github.com/mehedirm6244/My_XFCE_dotties) - My shitty dotfiles for Xfce
@@ -431,6 +433,10 @@
 
 - [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based VPN server and firewall
 - [aerosol/wb](https://github.com/aerosol/wb) - Writer's Block - personal wiki engine
+
+## Elm 
+
+- [NixOS/nixos-search](https://github.com/NixOS/nixos-search) - Search NixOS packages and options
 
 ## Emacs Lisp 
 
@@ -1026,6 +1032,9 @@
 
 ## Lua 
 
+- [Ramzi-B/awesome-brainwork](https://github.com/Ramzi-B/awesome-brainwork) - Awesome WM custom themes
+- [WillianPaiva/awesome-wm](https://github.com/WillianPaiva/awesome-wm) - 
+- [garado/cozy](https://github.com/garado/cozy) - a practical + productive setup
 - [mariod8/policromia](https://github.com/mariod8/policromia) - AwesomeWM dotfiles 🦜
 - [JayJaySea/dotfiles](https://github.com/JayJaySea/dotfiles) - 
 - [kosorin/awesome-rice](https://github.com/kosorin/awesome-rice) - (Yet another) Config for Awesome window manager.
@@ -1061,9 +1070,9 @@
 - [ayamir/nvimdots](https://github.com/ayamir/nvimdots) - A well configured and structured Neovim.
 - [ChristianChiarulli/nvim](https://github.com/ChristianChiarulli/nvim) - My neovim config
 - [Aire-One/awesome-slot](https://github.com/Aire-One/awesome-slot) - A declarative API to connect signals for the AwesomeWM
-- [SystematicError/Dotfiles](https://github.com/SystematicError/Dotfiles) - 💻 My collection of programs and configurations for the linux desktop
+- [SystematicError/dotfiles](https://github.com/SystematicError/dotfiles) - 💻 My collection of programs and configurations for the linux desktop
 - [chadcat5207/nvide](https://github.com/chadcat5207/nvide) - a blazingly bad neovim config
-- [enziaki/ArchConfig](https://github.com/enziaki/ArchConfig) - A short Arch basic install script that installs some packages.
+- [enziaki/ArchConfig](https://github.com/enziaki/ArchConfig) - A basic install and configuration script for Arch and Debian
 - [Tell396/awesome](https://github.com/Tell396/awesome) - My AwesomeWM config
 - [Cyan903/awesome-shortcut-json](https://github.com/Cyan903/awesome-shortcut-json) - Plugin for awesomewm that allows for shortcuts to be stored in json format.
 - [vastamaki/awesomewm](https://github.com/vastamaki/awesomewm) - Awesome wm config files
@@ -1518,6 +1527,7 @@
 
 ## Nix 
 
+- [starcraft66/os-config](https://github.com/starcraft66/os-config) - My personal OS configuration files for Darwin and Linux using Nix, NixOS, nix-darwin and home-manager
 - [RaubJo/hive](https://github.com/RaubJo/hive) - 
 - [MagicRB/NixNG](https://github.com/MagicRB/NixNG) - 
 - [rvolosatovs/infrastructure](https://github.com/rvolosatovs/infrastructure) - Private NixOps network infrastructure
