@@ -261,7 +261,6 @@
 - [shvedes/dotfiles](https://github.com/shvedes/dotfiles) - Minimalistic BSPWM dotfiles
 - [mehedirm6244/My_XFCE_dotties](https://github.com/mehedirm6244/My_XFCE_dotties) - My shitty dotfiles for Xfce
 - [L4ki/Aura-Plasma-Themes](https://github.com/L4ki/Aura-Plasma-Themes) - Aura Themes For Plasma Desktop
-- [chadcat5207/dots.sh](https://github.com/chadcat5207/dots.sh) - dots for people who are hot
 - [vinceliuice/Matcha-gtk-theme](https://github.com/vinceliuice/Matcha-gtk-theme) - Matcha is a flat Design theme for GTK 3, GTK 2 and Gnome-Shell
 - [BloodyHell619/Firefox-Theme-DarkMatter](https://github.com/BloodyHell619/Firefox-Theme-DarkMatter) - 
 - [avahe-kellenberger/dotfiles](https://github.com/avahe-kellenberger/dotfiles) - Personal dotfiles for my multiple systems.
@@ -1032,6 +1031,10 @@
 
 ## Lua 
 
+- [devclyde/awchad-awesome](https://github.com/devclyde/awchad-awesome) - awesomewm for awchad
+- [devclyde/awesome-emmylua](https://github.com/devclyde/awesome-emmylua) - Hand rewriting all the awesome documentation with EmmyLua support
+- [f1zm0/Hypervim](https://github.com/f1zm0/Hypervim) - modular configuration that extends Neovim into a modern code editor with IDE-like features
+- [lgi-devs/lgi](https://github.com/lgi-devs/lgi) - Dynamic Lua binding to GObject libraries using GObject-Introspection
 - [Ramzi-B/awesome-brainwork](https://github.com/Ramzi-B/awesome-brainwork) - Awesome WM custom themes
 - [WillianPaiva/awesome-wm](https://github.com/WillianPaiva/awesome-wm) - 
 - [garado/cozy](https://github.com/garado/cozy) - a practical + productive setup
@@ -1527,6 +1530,8 @@
 
 ## Nix 
 
+- [NixOS/nixos-artwork](https://github.com/NixOS/nixos-artwork) - Nix related artwork
+- [astro/microvm.nix](https://github.com/astro/microvm.nix) - NixOS MicroVMs
 - [starcraft66/os-config](https://github.com/starcraft66/os-config) - My personal OS configuration files for Darwin and Linux using Nix, NixOS, nix-darwin and home-manager
 - [RaubJo/hive](https://github.com/RaubJo/hive) - 
 - [MagicRB/NixNG](https://github.com/MagicRB/NixNG) - 
@@ -1581,6 +1586,7 @@
 - [teto/home](https://github.com/teto/home) - Configurations
 - [nix-community/nur-combined](https://github.com/nix-community/nur-combined) - A repository of NUR that combines all repositories [maintainer=@Mic92]
 - [wiltaylor/dotfiles](https://github.com/wiltaylor/dotfiles) - My personal dotfiles
+- [chadcat5207/dots.nix](https://github.com/chadcat5207/dots.nix) - dots for people who are ~~hot~~ cold
 - [cole-h/nixos-config](https://github.com/cole-h/nixos-config) - My flakes-powered NixOS configuration
 - [gvolpe/nix-config](https://github.com/gvolpe/nix-config) - :space_invader: NixOS configuration
 - [Zaechus/nixos-config](https://github.com/Zaechus/nixos-config) - My NixOS + home-manager config and installer
@@ -2493,7 +2499,7 @@
 - [agostaxyz/dotfiles](https://github.com/agostaxyz/dotfiles) - Arch dotfiles and shell scripts for KDE Plasma and BSPWM.
 - [laurent85v/archuseriso](https://github.com/laurent85v/archuseriso) - Scripts for building ISO images and making bootable USB drives
 - [kennystrawnmusic/TriggerLinux](https://github.com/kennystrawnmusic/TriggerLinux) - Break the grip of censorship
-- [maximbaz/dotfiles](https://github.com/maximbaz/dotfiles) - Configuration for Arch Linux, sway, kitty, kakoune, zsh and more + scripted installation guide
+- [maximbaz/dotfiles](https://github.com/maximbaz/dotfiles) - Configuration for Arch Linux, Hyprland, kitty, kakoune, zsh and more + scripted installation guide
 - [paperwork/paperwork](https://github.com/paperwork/paperwork) - Paperwork - OpenSource note-taking & archiving alternative to Evernote, Microsoft OneNote & Google Keep
 - [wstam88/rofi-fontawesome](https://github.com/wstam88/rofi-fontawesome) - fontawesome icon list for rofi dmenu
 - [cdown/clipmenu](https://github.com/cdown/clipmenu) - Clipboard management using dmenu
