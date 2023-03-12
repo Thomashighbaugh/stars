@@ -465,7 +465,7 @@
 
 - [ssleert/zfxtop](https://github.com/ssleert/zfxtop) - [WIP] fetch top for gen Z with X written by bubbletea enjoyer
 - [cheshire137/gen-svgo-pattern](https://github.com/cheshire137/gen-svgo-pattern) - Generate Go code to create SVG patterns from a given SVG image.
-- [curusarn/resh](https://github.com/curusarn/resh) - RESH - Contextual shell history for zsh and bash
+- [curusarn/resh](https://github.com/curusarn/resh) - RESH ❯ Contextual shell history for zsh and bash
 - [inancgumus/learngo](https://github.com/inancgumus/learngo) - ❤️ 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes. 🚀 Learn Go by fixing 1000+ tiny programs.
 - [mozilla/sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets
 - [evan-buss/openbooks](https://github.com/evan-buss/openbooks) - Search and Download eBooks
@@ -1075,7 +1075,7 @@
 - [ChristianChiarulli/nvim](https://github.com/ChristianChiarulli/nvim) - My neovim config
 - [Aire-One/awesome-slot](https://github.com/Aire-One/awesome-slot) - A declarative API to connect signals for the AwesomeWM
 - [SystematicError/dotfiles](https://github.com/SystematicError/dotfiles) - 💻 My collection of programs and configurations for the linux desktop
-- [chadcat5207/nvide](https://github.com/chadcat5207/nvide) - a blazingly bad neovim config
+- [chadcat7/kodo](https://github.com/chadcat7/kodo) - a blazingly bad neovim config
 - [enziaki/ArchConfig](https://github.com/enziaki/ArchConfig) - A basic install and configuration script for Arch and Debian
 - [Tell396/awesome](https://github.com/Tell396/awesome) - My AwesomeWM config
 - [Cyan903/awesome-shortcut-json](https://github.com/Cyan903/awesome-shortcut-json) - Plugin for awesomewm that allows for shortcuts to be stored in json format.
@@ -1531,6 +1531,8 @@
 
 ## Nix 
 
+- [rapgru/nixos-config](https://github.com/rapgru/nixos-config) - 
+- [ymatsiuk/nixos-config](https://github.com/ymatsiuk/nixos-config) - Dell XPS 13 NixOS and home-manager configuration
 - [NixOS/nixos-artwork](https://github.com/NixOS/nixos-artwork) - Nix related artwork
 - [astro/microvm.nix](https://github.com/astro/microvm.nix) - NixOS MicroVMs
 - [starcraft66/os-config](https://github.com/starcraft66/os-config) - My personal OS configuration files for Darwin and Linux using Nix, NixOS, nix-darwin and home-manager
@@ -1587,7 +1589,7 @@
 - [teto/home](https://github.com/teto/home) - Configurations
 - [nix-community/nur-combined](https://github.com/nix-community/nur-combined) - A repository of NUR that combines all repositories [maintainer=@Mic92]
 - [wiltaylor/dotfiles](https://github.com/wiltaylor/dotfiles) - My personal dotfiles
-- [chadcat5207/dots.nix](https://github.com/chadcat5207/dots.nix) - dots for people who are ~~hot~~ cold
+- [chadcat7/fuyu](https://github.com/chadcat7/fuyu) - nix dotfiles for chilly people
 - [cole-h/nixos-config](https://github.com/cole-h/nixos-config) - My flakes-powered NixOS configuration
 - [gvolpe/nix-config](https://github.com/gvolpe/nix-config) - :space_invader: NixOS configuration
 - [Zaechus/nixos-config](https://github.com/Zaechus/nixos-config) - My NixOS + home-manager config and installer
