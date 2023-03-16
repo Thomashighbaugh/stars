@@ -656,6 +656,8 @@
 
 ## JavaScript 
 
+- [FirefoxBar/WebExt-build-tool](https://github.com/FirefoxBar/WebExt-build-tool) - A tool to build webextension
+- [dupontjoy/userChrome.js-Collections-](https://github.com/dupontjoy/userChrome.js-Collections-) - UC scripts collections, include UC scripts I don't use for now and UC scripts collected from others' sharing. Just for me to find them easily in the future.
 - [Aylur/gnome-extensions](https://github.com/Aylur/gnome-extensions) - gnome extension
 - [spencerlepine/github-api-react](https://github.com/spencerlepine/github-api-react) - React app that displays a selected users GitHub repositories, using GitHub REST API.
 - [arifszn/blog.js](https://github.com/arifszn/blog.js) - JavaScript client to get recent blog posts from popular blogging platforms.
@@ -1126,7 +1128,7 @@
 - [ragu-manjegowda/config](https://github.com/ragu-manjegowda/config) - Profile Management with Git and Github
 - [JimmyCozza/bling](https://github.com/JimmyCozza/bling) - Utilities for the awesome window manager
 - [nivalderramas/awesome-config](https://github.com/nivalderramas/awesome-config) - Config files for awesomeWM
-- [nivalderramas/dotfiles](https://github.com/nivalderramas/dotfiles) - Personal dotfiles
+- [nivalderramas/dotfiles_old](https://github.com/nivalderramas/dotfiles_old) - Personal dotfiles
 - [dharmx/nvim](https://github.com/dharmx/nvim) - Blazingly fast SHUTTHEFUCKUP.
 - [Stardust-kyun/dotfiles](https://github.com/Stardust-kyun/dotfiles) - 🌸 - Personal Dotfiles
 - [JannikWibker/awesome-config](https://github.com/JannikWibker/awesome-config) - Awesome WM config
@@ -2214,6 +2216,8 @@
 
 ## Shell 
 
+- [nitsky/config](https://github.com/nitsky/config) - 
+- [OleMussmann/Nix-Package-Search](https://github.com/OleMussmann/Nix-Package-Search) - Cache the nix package list, query and sort by relevance
 - [juminai/bspdots](https://github.com/juminai/bspdots) - 
 - [samthepacman/IdempotentDots](https://github.com/samthepacman/IdempotentDots) - dots configured after setting up NixOS on tmpfs
 - [fariasmateuss/favicon-generator](https://github.com/fariasmateuss/favicon-generator) - Bash Script to generate favicons in multiple sizes (.ico and .png)
@@ -2421,7 +2425,7 @@
 - [guysoft/RealtimePi](https://github.com/guysoft/RealtimePi) - An out-of-the-box raspebrrypi/raspbian distro with a realtime kernel
 - [aferrero2707/gimp-plugins-collection](https://github.com/aferrero2707/gimp-plugins-collection) - 
 - [Thomashighbaugh/vimwiki_skel](https://github.com/Thomashighbaugh/vimwiki_skel) - A blank vimwiki wiki for purposes of copying later, using Markdown, when a new wiki is needed for whatever reason.
-- [the-Electric-Tantra-Linux/Bhairava-Grub-Theme](https://github.com/the-Electric-Tantra-Linux/Bhairava-Grub-Theme) - Personal Grub Bootloader Theme
+- [Sanatana-Linux/Bhairava-Grub-Theme](https://github.com/Sanatana-Linux/Bhairava-Grub-Theme) - Personal Grub Bootloader Theme
 - [noob-hackers/hacklock](https://github.com/noob-hackers/hacklock) - Hack Android Pattern From Termux With This Tool
 - [Bhaviktutorials/T-Remix](https://github.com/Bhaviktutorials/T-Remix) - This Tool will Help to Customise Your Termux in such a way that you will Enjoy using Termux it will give you a morden look And it also haas feature of password, you can also set  Password on your Term
 - [intel/stacks](https://github.com/intel/stacks) - The System Stacks for Linux* OS are a collection of production ready docker images for Deep Learning, Media and Storage optimized for 2nd generation Intel® Xeon® Scalable Processors.
