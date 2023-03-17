@@ -1035,6 +1035,8 @@
 
 ## Lua 
 
+- [rszamszur/nixos-config](https://github.com/rszamszur/nixos-config) - My nixos configuration
+- [SaintRyoh/rabbithole](https://github.com/SaintRyoh/rabbithole) - An Awesome WM config that allows you to dynamically nest virtual desktops
 - [LudoPinelli/comment-box.nvim](https://github.com/LudoPinelli/comment-box.nvim) - :sparkles: Clarify and beautify your comments using boxes and lines.
 - [devclyde/awchad-awesome](https://github.com/devclyde/awchad-awesome) - awesomewm for awchad
 - [devclyde/awesome-emmylua](https://github.com/devclyde/awesome-emmylua) - Hand rewriting all the awesome documentation with EmmyLua support
@@ -1075,7 +1077,6 @@
 - [xinhaoyuan/awexygen](https://github.com/xinhaoyuan/awexygen) - 
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) - Neovim config for the lazy
 - [CharlesChiuGit/nvimdots.lua](https://github.com/CharlesChiuGit/nvimdots.lua) - Lazy AF neovim config, well structured in lua.
-- [folke/dot](https://github.com/folke/dot) - ☕️   My Dot Files
 - [ayamir/nvimdots](https://github.com/ayamir/nvimdots) - A well configured and structured Neovim.
 - [ChristianChiarulli/nvim](https://github.com/ChristianChiarulli/nvim) - My neovim config
 - [Aire-One/awesome-slot](https://github.com/Aire-One/awesome-slot) - A declarative API to connect signals for the AwesomeWM
@@ -1159,7 +1160,7 @@
 - [alohaia/nvimcfg](https://github.com/alohaia/nvimcfg) - My NeoVim configuration with built-in packer, written in Lua.
 - [Massolari/forem.nvim](https://github.com/Massolari/forem.nvim) - Neovim plugin to read, write and post articles on Forem platforms like dev.to
 - [elairavi/luavim](https://github.com/elairavi/luavim) - Luavim is a simple neovim configuration written in lua, aiming to provide a base config.
-- [ray-x/nvim](https://github.com/ray-x/nvim) - Blazing fast neovim setup with 150+ plugins.
+- [ray-x/nvim](https://github.com/ray-x/nvim) - Blazing fast neovim setup with 180+ plugins.
 - [nikbrunner/vin](https://github.com/nikbrunner/vin) - This is my personal NeoVim config on which I am working on from time to time, while learning about the whole universe of Vim and NeoVim.
 - [SingularisArt/DeathVim](https://github.com/SingularisArt/DeathVim) - A quick neovim setup.
 - [cubetastic33/dotfiles](https://github.com/cubetastic33/dotfiles) - The dotfiles for my Linux setup
@@ -1536,6 +1537,7 @@
 
 ## Nix 
 
+- [con-f-use/dotfiles](https://github.com/con-f-use/dotfiles) - My NixOS dotfiles
 - [rapgru/nixos-config](https://github.com/rapgru/nixos-config) - 
 - [ymatsiuk/nixos-config](https://github.com/ymatsiuk/nixos-config) - Dell XPS 13 NixOS and home-manager configuration
 - [NixOS/nixos-artwork](https://github.com/NixOS/nixos-artwork) - Nix related artwork
@@ -1902,6 +1904,7 @@
 
 ## Python 
 
+- [promptslab/Awesome-Prompt-Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) - This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM etc
 - [microsoft/unilm](https://github.com/microsoft/unilm) - Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities
 - [avgupta456/github-trends](https://github.com/avgupta456/github-trends) - 🚀 Level up your GitHub profile readme with customizable cards including LOC statistics!
 - [EndeavourOS-Community-Editions/qtile](https://github.com/EndeavourOS-Community-Editions/qtile) - setup for Qtile EOS-CE
@@ -2226,6 +2229,7 @@
 - [varlesh/volantes-cursors](https://github.com/varlesh/volantes-cursors) - Cursor Theme
 - [greglaurent/nixos-iso](https://github.com/greglaurent/nixos-iso) - Custom NixOS ISO
 - [k-vernooy/dotfiles](https://github.com/k-vernooy/dotfiles) - An organizational repository for my dotfiles and scripts
+- [folke/dot](https://github.com/folke/dot) - ☕️   My Dot Files
 - [emmett1/lfs-scripts](https://github.com/emmett1/lfs-scripts) - Automated script to build Multilib LFS system + livecd
 - [phisch/giph](https://github.com/phisch/giph) - simple video (gif, webm, mp4) recorder
 - [hellocatfood/jpg-glitch-pattern-generator](https://github.com/hellocatfood/jpg-glitch-pattern-generator) - Automatically generate patterns that exploit compression in jpgs
