@@ -640,6 +640,7 @@
 ## Java 
 
 - [RipMeApp/ripme](https://github.com/RipMeApp/ripme) - Downloads albums in bulk
+- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 - [NeoApplications/Neo-Launcher](https://github.com/NeoApplications/Neo-Launcher) - Free and Open Source Launcher.
 - [Neamar/KISS](https://github.com/Neamar/KISS) - Lightning fast, open-source, &lt; 200kb Android launcher
 - [siddhi-io/siddhi](https://github.com/siddhi-io/siddhi) - Stream Processing and Complex Event Processing Engine
@@ -698,7 +699,6 @@
 - [Haehnchen/crypto-trading-bot](https://github.com/Haehnchen/crypto-trading-bot) - Cryptocurrency trading bot in javascript for Bitfinex, Bitmex, Binance, Bybit ... (public edition)
 - [Superalgos/Superalgos](https://github.com/Superalgos/Superalgos) - Free, open-source crypto trading bot, automated bitcoin / cryptocurrency trading software, algorithmic trading bots. Visually design your crypto trading bot, leveraging an integrated charting system, 
 - [askmike/gekko](https://github.com/askmike/gekko) - A bitcoin trading bot written in node - https://gekko.wizb.it/
-- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 - [ibillingsley/HumbleNewTabPage](https://github.com/ibillingsley/HumbleNewTabPage) - New tab page extension for Chrome and Firefox
 - [DanaMW/userChrome.js](https://github.com/DanaMW/userChrome.js) - Scripts for the Firefox extension userChromeJS
 - [keymorph/notes](https://github.com/keymorph/notes) - A note-taking web application.
@@ -1035,6 +1035,7 @@
 
 ## Lua 
 
+- [camilof99/dotfiles-awesome](https://github.com/camilof99/dotfiles-awesome) - 
 - [rszamszur/nixos-config](https://github.com/rszamszur/nixos-config) - My nixos configuration
 - [SaintRyoh/rabbithole](https://github.com/SaintRyoh/rabbithole) - An Awesome WM config that allows you to dynamically nest virtual desktops
 - [LudoPinelli/comment-box.nvim](https://github.com/LudoPinelli/comment-box.nvim) - :sparkles: Clarify and beautify your comments using boxes and lines.
@@ -1053,7 +1054,7 @@
 - [phaazon/config](https://github.com/phaazon/config) - My main configuration files
 - [cjnucette/nvim.lazy](https://github.com/cjnucette/nvim.lazy) - nvim using lazy.nvim plugin manager
 - [joelazar/nvim-config](https://github.com/joelazar/nvim-config) - My neovim config
-- [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config) - A genaralized, personalized and simple configuration.
+- [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config) - A genaralized, personalized, and simple configuration.
 - [Nooo37/farbig](https://github.com/Nooo37/farbig) - Colorscheme collection
 - [blueyed/awesome-cyclefocus](https://github.com/blueyed/awesome-cyclefocus) - Alt-Tab for the awesome window manager (and more)
 - [colbell/awesome-wm](https://github.com/colbell/awesome-wm) - Awesome Window Manager Configuration
@@ -1640,6 +1641,7 @@
 
 ## Others 
 
+- [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
 - [groepl/Obsidian-Templates](https://github.com/groepl/Obsidian-Templates) - A repository containing templates and scripts for #Obsidian to support the #Zettelkasten method for note-taking.
 - [KaleabTessera/Research-Paper-Reading-Template](https://github.com/KaleabTessera/Research-Paper-Reading-Template) - A markdown template for taking notes to summarize research papers.
 - [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns.
