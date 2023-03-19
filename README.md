@@ -2256,7 +2256,7 @@
 - [ivan-hc/AM-Application-Manager](https://github.com/ivan-hc/AM-Application-Manager) - Install, update and manage AppImage packages and official standalone apps for GNU / Linux, with an ever-growing AUR-inspired database, scripts to manage AppImage builder tools and templates to create 
 - [metis-os/metis-sideload](https://github.com/metis-os/metis-sideload) - // Ofiicial installer for @metis-os
 - [metis-os/metis-recon](https://github.com/metis-os/metis-recon) - REPO: recon, reconnaissance tools gathered in one piece for @metis-os
-- [Athena-OS/athena-iso](https://github.com/Athena-OS/athena-iso) - Athena is a Arch Linux-based distro focused on Cybersecurity. Learn, practice and enjoy with any hacking tool!
+- [Athena-OS/athena-iso](https://github.com/Athena-OS/athena-iso) - Athena is an Arch Linux-based distro focused on Cybersecurity. Learn, practice and enjoy with any hacking tool!
 - [archon-linux/archon-iso](https://github.com/archon-linux/archon-iso) - 
 - [SeveredinTwain/nemesis](https://github.com/SeveredinTwain/nemesis) - Custom Linux ISO Build
 - [wenerme/alpine-image](https://github.com/wenerme/alpine-image) - AlpineLinux pre-build disk images
