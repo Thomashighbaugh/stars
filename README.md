@@ -105,7 +105,6 @@
 
 - [Mange/rofi-emoji](https://github.com/Mange/rofi-emoji) - Emoji selector plugin for Rofi
 - [Nooo37/pinsel](https://github.com/Nooo37/pinsel) - Minimal screenshot annotation tool with lua config
-- [NorinaMadoka/dotfiles](https://github.com/NorinaMadoka/dotfiles) - My flake configuration for NixOS
 - [ArtsyMacaw/wlogout](https://github.com/ArtsyMacaw/wlogout) - A wayland based logout menu
 - [jovanlanik/gtklock](https://github.com/jovanlanik/gtklock) - GTK-based lockscreen for Wayland
 - [mini-rose/rose](https://github.com/mini-rose/rose) - Minimalist browser based on webkit2.
@@ -548,6 +547,7 @@
 ## HTML 
 
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
+- [SaintRyoh/rabbithole](https://github.com/SaintRyoh/rabbithole) - An Awesome WM config that allows you to dynamically nest virtual desktops
 - [leemunroe/responsive-html-email-template](https://github.com/leemunroe/responsive-html-email-template) - A free simple responsive HTML email template
 - [adevade/color-scheme-generator](https://github.com/adevade/color-scheme-generator) - When you just need some UI colors, fast.
 - [parikshit223933/Coding-Ninjas-Full-Stack-Web-Development](https://github.com/parikshit223933/Coding-Ninjas-Full-Stack-Web-Development) - It contains all the files I created during the MERN full stack web development course with coding ninjas
@@ -1037,7 +1037,6 @@
 ## Lua 
 
 - [camilof99/dotfiles-awesome](https://github.com/camilof99/dotfiles-awesome) - 
-- [SaintRyoh/rabbithole](https://github.com/SaintRyoh/rabbithole) - An Awesome WM config that allows you to dynamically nest virtual desktops
 - [LudoPinelli/comment-box.nvim](https://github.com/LudoPinelli/comment-box.nvim) - :sparkles: Clarify and beautify your comments using boxes and lines.
 - [devclyde/awchad-awesome](https://github.com/devclyde/awchad-awesome) - awesomewm for awchad
 - [devclyde/awesome-emmylua](https://github.com/devclyde/awesome-emmylua) - Hand rewriting all the awesome documentation with EmmyLua support
@@ -1588,6 +1587,7 @@
 - [NobbZ/nixos-config](https://github.com/NobbZ/nixos-config) - 
 - [viperML/dotfiles](https://github.com/viperML/dotfiles) - Personal configuration files for my PC
 - [gytis-ivaskevicius/flake-utils-plus](https://github.com/gytis-ivaskevicius/flake-utils-plus) - Use Nix flakes without any fluff.
+- [NorinaMadoka/dotfiles](https://github.com/NorinaMadoka/dotfiles) - My flake configuration for NixOS
 - [fortuneteller2k/nixpkgs-f2k](https://github.com/fortuneteller2k/nixpkgs-f2k) - my personal package repository (binary cache included!)
 - [Misterio77/nix-config](https://github.com/Misterio77/nix-config) - Personal nixos and home-manager configurations.
 - [mrkuz/nixos](https://github.com/mrkuz/nixos) - My NixOS configuration.
@@ -2284,7 +2284,7 @@
 - [axyl-os/axyl-artix-iso](https://github.com/axyl-os/axyl-artix-iso) - Status: (Ready for Testing)
 - [Git-Fal7/artix-buildiso](https://github.com/Git-Fal7/artix-buildiso) - my buildisos for artix linux
 - [dovahkiin0424/artix-install](https://github.com/dovahkiin0424/artix-install) - Simple artix linux installer script. Just clone it and run the .sh file
-- [reisub0/artixBootstrap](https://github.com/reisub0/artixBootstrap) - Set up an opinionated artix Linux install in a jiffy
+- [ereduled/artixBootstrap](https://github.com/ereduled/artixBootstrap) - Set up an opinionated artix Linux install in a jiffy
 - [ODEX-TOS/wm-debug](https://github.com/ODEX-TOS/wm-debug) - A simple script to make debugging window manager easier
 - [jaromaz/MacintoshPi](https://github.com/jaromaz/MacintoshPi) - MacintoshPi is a project that allows running full-screen versions of Apple's Mac OS 7, Mac OS 8 and Mac OS 9 with sound, active online connection and modem emulation under Raspberry Pi.
 - [simoniz0r/OpenDM](https://github.com/simoniz0r/OpenDM) - WIP - A simple GUI Display Manager written entirely in bash that uses xinit to start X sessions
