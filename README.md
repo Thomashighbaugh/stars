@@ -1128,7 +1128,6 @@
 - [serhez/dotfiles](https://github.com/serhez/dotfiles) - Configuration of my working environment.
 - [senchpimy/awesomewmconfig](https://github.com/senchpimy/awesomewmconfig) - 
 - [magalhaesh/awesome](https://github.com/magalhaesh/awesome) - My AwesomeWM configuration. Tried i3 but didn't like it, sorry.
-- [HashemRadaideh/awesome](https://github.com/HashemRadaideh/awesome) - Awesome window manager, a dynamic tiling wm, or floating? Personal Aweosme(wm) desktop enviroment configuration.
 - [ragu-manjegowda/config](https://github.com/ragu-manjegowda/config) - Profile Management with Git and Github
 - [JimmyCozza/bling](https://github.com/JimmyCozza/bling) - Utilities for the awesome window manager
 - [nivalderramas/awesome-config](https://github.com/nivalderramas/awesome-config) - Config files for awesomeWM
@@ -1332,7 +1331,7 @@
 - [nekonako/xresources-nvim](https://github.com/nekonako/xresources-nvim) - 🎨 Neovim colorscheme based on your xresources color
 - [lewis6991/impatient.nvim](https://github.com/lewis6991/impatient.nvim) - Improve startup time for Neovim
 - [s1n7ax/nvim-comment-frame](https://github.com/s1n7ax/nvim-comment-frame) - Detects the language using treesitter and adds a comment block
-- [n3wborn/nvim](https://github.com/n3wborn/nvim) - My own NVIM (&gt;= v0.9.0-dev-1315+g3a4db8154) lua config
+- [n3wborn/nvim](https://github.com/n3wborn/nvim) - My own NVIM (&gt;=v0.10.0-dev-17+g6801befcc) lua config
 - [koniu/awesome-configs](https://github.com/koniu/awesome-configs) - koniu's awesome config
 - [kurbel/awesome-config](https://github.com/kurbel/awesome-config) - configuration files for the awesome window manager (awesomewm)
 - [nvim-lua/popup.nvim](https://github.com/nvim-lua/popup.nvim) - [WIP] An implementation of the Popup API from vim in Neovim. Hope to upstream when complete
