@@ -1071,7 +1071,7 @@
 - [cseickel/dotfiles](https://github.com/cseickel/dotfiles) - 
 - [dragove/nvim](https://github.com/dragove/nvim) - config for neovim
 - [meuter/nvim](https://github.com/meuter/nvim) - nvim config
-- [glepnir/dope](https://github.com/glepnir/dope) - a modern structure neovim config template write in lua
+- [nvimdev/dope](https://github.com/nvimdev/dope) - a modern structure neovim config template write in lua
 - [glepnir/nvim](https://github.com/glepnir/nvim) - neovim configuration written in lua
 - [dmun/awesome](https://github.com/dmun/awesome) - Config for the awesome window manager
 - [michaelbeaumont/awesome-sesh](https://github.com/michaelbeaumont/awesome-sesh) - Awesome WM Sessions
@@ -1120,7 +1120,7 @@
 - [Aproxia-dev/.dotfiles](https://github.com/Aproxia-dev/.dotfiles) - 🌸   𝘼𝙞𝙣'𝙩 𝙣𝙤 𝙥𝙡𝙖𝙘𝙚 𝙡𝙞𝙠𝙚 ~/   🏡
 - [penguin-fyi/awesome-config](https://github.com/penguin-fyi/awesome-config) - Source files for penguin-desktop-awesome
 - [VonHeikemen/dotfiles](https://github.com/VonHeikemen/dotfiles) - 
-- [glepnir/coman.nvim](https://github.com/glepnir/coman.nvim) - neovim plugin for comment and annotation
+- [nvimdev/coman.nvim](https://github.com/nvimdev/coman.nvim) - neovim plugin for comment and annotation
 - [JryChn/ModuleVim](https://github.com/JryChn/ModuleVim) - A NeoVim configuration
 - [leslie255/nvim-config](https://github.com/leslie255/nvim-config) - A pretty epic NeoVim setup
 - [ecosse3/nvim](https://github.com/ecosse3/nvim) - A non-minimal Neovim config built to work most efficiently with Frontend Development - React & Vue.js
@@ -1347,7 +1347,7 @@
 - [nvim-telescope/telescope-packer.nvim](https://github.com/nvim-telescope/telescope-packer.nvim) - A Telescope extension that provides extra functionality for Packer.nvim
 - [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg) - Modernity meets insane extensibility. The future of organizing your life in Neovim.
 - [mnowotnik/noteflow.nvim](https://github.com/mnowotnik/noteflow.nvim) - Neovim plugin that streamlines taking notes
-- [glepnir/dashboard-nvim](https://github.com/glepnir/dashboard-nvim) - vim dashboard
+- [nvimdev/dashboard-nvim](https://github.com/nvimdev/dashboard-nvim) - vim dashboard
 - [Shadorain/shadovim](https://github.com/Shadorain/shadovim) - A neovim setup for the shadow warriors. Speed through the light with the power of shadovim built on the new Lua based neovim! With the highly overpowered native LSP, built in auto-completion, snippets
 - [adelarsq/neoline.vim](https://github.com/adelarsq/neoline.vim) - Status Line for Neovim focused on beauty and performance ✅🖤💙💛
 - [alvarosevilla95/luatab.nvim](https://github.com/alvarosevilla95/luatab.nvim) - Tabline lua plugin for neovim
