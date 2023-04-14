@@ -1718,6 +1718,7 @@
 - [im-yuria/My-Wallpapers](https://github.com/im-yuria/My-Wallpapers) - my wallpaper collection
 - [Blu3Jive001/Wallpapers](https://github.com/Blu3Jive001/Wallpapers) - The definitive collection of wallpapers: by Blu3Jive001
 - [DeusMalsith/wallpaper-collection](https://github.com/DeusMalsith/wallpaper-collection) - 
+- [abhilesh/self-hosted_docker_setups](https://github.com/abhilesh/self-hosted_docker_setups) - A collection of my docker-compose files used to setup self-hosted services on Raspberry Pi 4 running 64-bit Raspberry Pi OS
 - [dennyzhang/popular-github-template](https://github.com/dennyzhang/popular-github-template) - :green_book: Repo Template: Make Your GitHub Repos More Popular
 - [TheAutodidactDidact/ObsidianMD-MSS](https://github.com/TheAutodidactDidact/ObsidianMD-MSS) - Obsidian Markdown MSS Folder
 - [ChrisRfr/Win10XPE](https://github.com/ChrisRfr/Win10XPE) - Win10XPE is a Complete Project Based on Win10, Win11 Recovery Environment With Many Windows Features Added...
@@ -2236,6 +2237,7 @@
 
 ## Shell 
 
+- [KreitinnSoftware/SamFlasher-Tool](https://github.com/KreitinnSoftware/SamFlasher-Tool) - A simple tool to flash rom to samsung devices, based on heimdall
 - [nitsky/config](https://github.com/nitsky/config) - 
 - [OleMussmann/Nix-Package-Search](https://github.com/OleMussmann/Nix-Package-Search) - Cache the nix package list, query and sort by relevance
 - [samthepacman/IdempotentDots](https://github.com/samthepacman/IdempotentDots) - dots configured after setting up NixOS on tmpfs
@@ -2356,7 +2358,6 @@
 - [eoli3n/void-config](https://github.com/eoli3n/void-config) - Scripts and Ansible playbook to setup Void Linux on ZFS.
 - [Botspot/pi-apps](https://github.com/Botspot/pi-apps) - Raspberry Pi App Store for Open Source Projects
 - [LEV-Linux/LEV-mklive](https://github.com/LEV-Linux/LEV-mklive) - The LEV Linux live image maker
-- [abhilesh/self-hosted_docker_setups](https://github.com/abhilesh/self-hosted_docker_setups) - A collection of my docker-compose files used to setup self-hosted services on Raspberry Pi 4 running 64-bit Raspberry Pi OS
 - [lane-brain/void-packages](https://github.com/lane-brain/void-packages) - The Void source packages collection
 - [the-Electric-Tantra-Linux/void-packages](https://github.com/the-Electric-Tantra-Linux/void-packages) - Deprecated for the time being, since I have moved back to systemd-based Arch.
 - [storagedaemon/dotfiles](https://github.com/storagedaemon/dotfiles) - 
