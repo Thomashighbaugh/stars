@@ -258,6 +258,9 @@
 
 ## CSS 
 
+- [Myagko/dotfiles](https://github.com/Myagko/dotfiles) - 
+- [Soft-Bred/Brave-Fox](https://github.com/Soft-Bred/Brave-Fox) - Firefox Stylesheet To Add Brave-Like Elements
+- [ayushhroyy/elegantfox](https://github.com/ayushhroyy/elegantfox) - firefox themed context and bookmark menus
 - [EgoAlpha/prompt-in-context-learning](https://github.com/EgoAlpha/prompt-in-context-learning) - Awesome resources for in-context learning and prompt engineering: Mastery of the LLMs such as ChatGPT, GPT-3, and FlanT5, with up-to-date and cutting-edge updates.
 - [siduck/dotfiles](https://github.com/siduck/dotfiles) - dotfiles for my beautiful rices!
 - [khaneliman/dotfiles](https://github.com/khaneliman/dotfiles) - Multi platform and desktop environment dotfiles for developers.
@@ -453,6 +456,7 @@
 - [carlosal1015/dune-archiso](https://github.com/carlosal1015/dune-archiso) - 
 - [doomemacs/doomemacs](https://github.com/doomemacs/doomemacs) - An Emacs framework for the stubborn martian hacker
 - [denisse-dev/dotfiles](https://github.com/denisse-dev/dotfiles) - :dragon_face: My Arch Linux config [i3-gaps + i3blocks + Zsh + Spacemacs + Rofi + Alacritty + Neofetch]
+- [SwiftyChicken/dotfiles](https://github.com/SwiftyChicken/dotfiles) - My dotfiles
 - [syl20bnr/spacemacs](https://github.com/syl20bnr/spacemacs) - A community-driven Emacs distribution - The best editor is neither Emacs nor Vim,  it's Emacs *and* Vim!
 - [masasam/dotfiles](https://github.com/masasam/dotfiles) - My dotfiles based on Makefile
 
@@ -1644,6 +1648,7 @@
 
 ## Others 
 
+- [tinted-theming/base16-schemes](https://github.com/tinted-theming/base16-schemes) - All the color schemes for use in base16 packages
 - [rynst/awesome-llm-engineering](https://github.com/rynst/awesome-llm-engineering) - 💻 An awesome & curated list of resources for large language model engineering (application layer: prompt engineering, fine tuning, etc.) [ Work In Progress, feel free to contribute! ]
 - [DukeLuo/awesome-awesome-prompts](https://github.com/DukeLuo/awesome-awesome-prompts) - An awesome list for collecting awesome lists related to prompt engineering.
 - [microsoft/prompt-engineering](https://github.com/microsoft/prompt-engineering) - Learn how to use AI models with prompt engineering
@@ -2284,7 +2289,7 @@
 - [gavinlyonsrepo/cylon](https://github.com/gavinlyonsrepo/cylon) - A CLI TUI menu driven bash shell script supporting updates, maintenance,  and system checks for an Arch based Linux distro
 - [xchwarze/wifi-pineapple-cloner](https://github.com/xchwarze/wifi-pineapple-cloner) - Clone WiFi Pineapple NANO/TETRA in generic hardware
 - [ideas-man/artix-wizard](https://github.com/ideas-man/artix-wizard) - A collection of install/setup/configuration scripts for quick and painless workstation/server environment deployment under Artix Linux.
-- [metis-os/metis-iso](https://github.com/metis-os/metis-iso) - // source code and iso of metis linux
+- [metis-os/metis-iso](https://github.com/metis-os/metis-iso) - 🐧☄️  source code and iso of metis linux
 - [alvatip/Nordzy-icon](https://github.com/alvatip/Nordzy-icon) - Nordzy is a free and open source icon theme for Linux desktops using the Nord color palette from Arctic Ice Studio and based on WhiteSur and Numix Icon Theme.
 - [lsfratel/simple-artix-custom-iso-builder](https://github.com/lsfratel/simple-artix-custom-iso-builder) - A simple artix custom iso builder with config file
 - [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - I am using this repository to document my journey learning about DevOps. I began this process on January 1, 2022, and plan to continue until March 31. I will be dedicating one hour each day, including
@@ -2547,7 +2552,6 @@
 - [mfaerevaag/wd](https://github.com/mfaerevaag/wd) - :rocket: Jump to custom directories in zsh
 - [MichaelAquilina/zsh-you-should-use](https://github.com/MichaelAquilina/zsh-you-should-use) - 📎 ZSH plugin that reminds you to use existing aliases for commands you just typed
 - [geometry-zsh/geometry](https://github.com/geometry-zsh/geometry) - geometry is a minimal, fully customizable and composable zsh prompt theme
-- [SwiftyChicken/dotfiles](https://github.com/SwiftyChicken/dotfiles) - My dotfiles
 - [altercation/archblocks](https://github.com/altercation/archblocks) - Arch Linux Modular Install Script
 - [archcraft-os/archcraft](https://github.com/archcraft-os/archcraft) - // Source : ISO
 - [Dhghomon/easy_rust](https://github.com/Dhghomon/easy_rust) - Rust explained using easy English
