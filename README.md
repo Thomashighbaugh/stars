@@ -258,6 +258,7 @@
 
 ## CSS 
 
+- [elkowar/dots-of-war](https://github.com/elkowar/dots-of-war) - My dotfiles, mostly. This is the wild west. don't expect to understand this mess. Don't try to understand this mess. This serves as a good way to backup my configs, nothing more.
 - [Myagko/dotfiles](https://github.com/Myagko/dotfiles) - 
 - [Soft-Bred/Brave-Fox](https://github.com/Soft-Bred/Brave-Fox) - Firefox Stylesheet To Add Brave-Like Elements
 - [ayushhroyy/elegantfox](https://github.com/ayushhroyy/elegantfox) - firefox themed context and bookmark menus
@@ -855,7 +856,7 @@
 - [react-static/react-static](https://github.com/react-static/react-static) - ⚛️ 🚀 A progressive static site generator for React.
 - [hexojs/hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
 - [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The fastest frontend for the headless web. Build modern websites with React.
-- [11ty/eleventy](https://github.com/11ty/eleventy) - A simpler static site generator. An alternative to Jekyll. Transforms a directory of templates (of varying types) into HTML.
+- [11ty/eleventy](https://github.com/11ty/eleventy) - A simpler site generator. Transforms a directory of templates (of varying types) into HTML.
 - [get-alex/alex](https://github.com/get-alex/alex) - Catch insensitive, inconsiderate writing
 - [softvar/enhanced-github](https://github.com/softvar/enhanced-github) - :rocket: Browser extension to display size of each file, download link and copy file contents directly to the clipboard
 - [harshjv/github-repo-size](https://github.com/harshjv/github-repo-size) - 🚀 Chrome extension to display repository size on GitHub
@@ -1648,6 +1649,7 @@
 
 ## Others 
 
+- [Vitor238/DX](https://github.com/Vitor238/DX) - Squircle icon theme for Linux (WIP)
 - [tinted-theming/base16-schemes](https://github.com/tinted-theming/base16-schemes) - All the color schemes for use in base16 packages
 - [rynst/awesome-llm-engineering](https://github.com/rynst/awesome-llm-engineering) - 💻 An awesome & curated list of resources for large language model engineering (application layer: prompt engineering, fine tuning, etc.) [ Work In Progress, feel free to contribute! ]
 - [DukeLuo/awesome-awesome-prompts](https://github.com/DukeLuo/awesome-awesome-prompts) - An awesome list for collecting awesome lists related to prompt engineering.
@@ -1868,7 +1870,6 @@
 - [sindresorhus/awesome-electron](https://github.com/sindresorhus/awesome-electron) - Useful resources for creating apps with Electron
 - [storm119/Tilix-Themes](https://github.com/storm119/Tilix-Themes) - Theme for Tilix Terminal
 - [hmaverickadams/Beginner-Network-Pentesting](https://github.com/hmaverickadams/Beginner-Network-Pentesting) - Notes for Beginner Network Pentesting Course
-- [fP4rad0x/dotfiles](https://github.com/fP4rad0x/dotfiles) - My dotfiles for i3-gaps/bspwm
 - [EliverLara/candy-icons](https://github.com/EliverLara/candy-icons) - :lollipop: Sweet gradient icons
 - [daniruiz/flat-remix](https://github.com/daniruiz/flat-remix) - Flat Remix is an icon theme inspired by material design. It is mostly flat using a colorful palette with some shadows, highlights, and gradients for some depth.
 - [christopherkade/awesome-dev-websites](https://github.com/christopherkade/awesome-dev-websites) - 📄 A curated list of awesome developer personal websites
