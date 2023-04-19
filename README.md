@@ -222,7 +222,7 @@
 - [maestron/botnets](https://github.com/maestron/botnets) - This is a collection of #botnet source codes, unorganized. For EDUCATIONAL PURPOSES ONLY
 - [SpencerCBrown/Triad](https://github.com/SpencerCBrown/Triad) - Robust and pleasant cross-platform note taking application.
 - [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
-- [derat/xsettingsd](https://github.com/derat/xsettingsd) - Provides settings to X11 applications via the XSETTINGS specification
+- [derat/xsettingsd](https://github.com/derat/xsettingsd) - Moved to codeberg.org/derat/xsettingsd
 - [acidanthera/WhateverGreen](https://github.com/acidanthera/WhateverGreen) - Various patches necessary for certain ATI/AMD/Intel/Nvidia GPUs
 - [papyros/papyros-shell](https://github.com/papyros/papyros-shell) - :shell: The desktop shell for Papyros, built using QtQuick and QtCompositor as a compositor for Wayland.
 - [wmww/Hedgehog](https://github.com/wmww/Hedgehog) - C++ Wayland compositor
@@ -2122,7 +2122,6 @@
 
 - [L4ki/Shiny-Plasma-Themes](https://github.com/L4ki/Shiny-Plasma-Themes) - Shiny Plasma Themes For Plasma Desktop
 - [Calinix-Team/Calinix-Arch](https://github.com/Calinix-Team/Calinix-Arch) - CalinixOS Linux Distribution ISO Profiles
-- [xerolinux/xero_iso](https://github.com/xerolinux/xero_iso) - The Official XeroLinux ISO Build Environment
 
 ## Roff 
 
@@ -2363,6 +2362,7 @@
 - [eoli3n/void-config](https://github.com/eoli3n/void-config) - Scripts and Ansible playbook to setup Void Linux on ZFS.
 - [Botspot/pi-apps](https://github.com/Botspot/pi-apps) - Raspberry Pi App Store for Open Source Projects
 - [LEV-Linux/LEV-mklive](https://github.com/LEV-Linux/LEV-mklive) - The LEV Linux live image maker
+- [xerolinux/xero_iso](https://github.com/xerolinux/xero_iso) - The Official XeroLinux ISO Build Environment
 - [lane-brain/void-packages](https://github.com/lane-brain/void-packages) - The Void source packages collection
 - [the-Electric-Tantra-Linux/void-packages](https://github.com/the-Electric-Tantra-Linux/void-packages) - Deprecated for the time being, since I have moved back to systemd-based Arch.
 - [storagedaemon/dotfiles](https://github.com/storagedaemon/dotfiles) - 
