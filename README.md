@@ -265,6 +265,7 @@
 - [EgoAlpha/prompt-in-context-learning](https://github.com/EgoAlpha/prompt-in-context-learning) - Awesome resources for in-context learning and prompt engineering: Mastery of the LLMs such as ChatGPT, GPT-3, and FlanT5, with up-to-date and cutting-edge updates.
 - [siduck/dotfiles](https://github.com/siduck/dotfiles) - dotfiles for my beautiful rices!
 - [khaneliman/dotfiles](https://github.com/khaneliman/dotfiles) - Multi platform and desktop environment dotfiles for developers.
+- [shvedes/dotfiles](https://github.com/shvedes/dotfiles) - My own pretty minimalist dotfiles
 - [mehedirm6244/My_XFCE_dotties](https://github.com/mehedirm6244/My_XFCE_dotties) - My shitty dotfiles for Xfce
 - [L4ki/Aura-Plasma-Themes](https://github.com/L4ki/Aura-Plasma-Themes) - Aura Themes For Plasma Desktop
 - [vinceliuice/Matcha-gtk-theme](https://github.com/vinceliuice/Matcha-gtk-theme) - Matcha is a flat Design theme for GTK 3, GTK 2 and Gnome-Shell
@@ -1545,6 +1546,14 @@
 
 ## Nix 
 
+- [archer-65/nix-dotfiles](https://github.com/archer-65/nix-dotfiles) - NixOS Configuration
+- [nixified-ai/flake](https://github.com/nixified-ai/flake) - A Nix flake for many AI projects
+- [colemickens/stable-diffusion-flake](https://github.com/colemickens/stable-diffusion-flake) - 
+- [gbtb/nix-stable-diffusion](https://github.com/gbtb/nix-stable-diffusion) - Flake for running SD on NixOS
+- [kalbasit/soxincfg](https://github.com/kalbasit/soxincfg) - Soxin configuration
+- [johnae/world](https://github.com/johnae/world) - NixOS configuration
+- [rasendubi/dotfiles](https://github.com/rasendubi/dotfiles) - My dotfiles
+- [Jomik/dotfiles](https://github.com/Jomik/dotfiles) - Repository for my dotfiles
 - [con-f-use/dotfiles](https://github.com/con-f-use/dotfiles) - My NixOS dotfiles
 - [rszamszur/nixos-config](https://github.com/rszamszur/nixos-config) - My nixos configuration
 - [rapgru/nixos-config](https://github.com/rapgru/nixos-config) - 
@@ -2130,7 +2139,6 @@
 
 ## Ruby 
 
-- [CachyOS/CachyOS-Settings](https://github.com/CachyOS/CachyOS-Settings) - Settings used for CachyOS
 - [henrylawson/photish](https://github.com/henrylawson/photish) - Fast, simple, configurable photo portfolio website generator
 - [markevans/dragonfly](https://github.com/markevans/dragonfly) - A Ruby gem for on-the-fly processing - suitable for image uploading in Rails, Sinatra and much more!
 - [juanjoSanz/aws-pentesting-lab](https://github.com/juanjoSanz/aws-pentesting-lab) - Pentesting lab with a Kali Linux instance accessible via ssh & wireguard VPN and with vulnerable instances in a private subnet
@@ -2241,13 +2249,13 @@
 
 ## Shell 
 
+- [cmcculloh/GitScripts](https://github.com/cmcculloh/GitScripts) - Makes Git a little more user friendly and a little more user safe (idiot proof)
 - [KreitinnSoftware/SamFlasher-Tool](https://github.com/KreitinnSoftware/SamFlasher-Tool) - A simple tool to flash rom to samsung devices, based on heimdall
 - [nitsky/config](https://github.com/nitsky/config) - 
 - [OleMussmann/Nix-Package-Search](https://github.com/OleMussmann/Nix-Package-Search) - Cache the nix package list, query and sort by relevance
 - [samthepacman/IdempotentDots](https://github.com/samthepacman/IdempotentDots) - dots configured after setting up NixOS on tmpfs
 - [fariasmateuss/favicon-generator](https://github.com/fariasmateuss/favicon-generator) - Bash Script to generate favicons in multiple sizes (.ico and .png)
 - [DrgnFireYellow/notenote](https://github.com/DrgnFireYellow/notenote) - The zsh plugin for taking notes.
-- [shvedes/dotfiles](https://github.com/shvedes/dotfiles) - My own pretty minimalist dotfiles
 - [okitavera/dotfiles](https://github.com/okitavera/dotfiles) - All of my configuration files that currently used includes zsh, urxvt, awesomewm, and others
 - [varlesh/volantes-cursors](https://github.com/varlesh/volantes-cursors) - Cursor Theme
 - [greglaurent/nixos-iso](https://github.com/greglaurent/nixos-iso) - Custom NixOS ISO
@@ -2274,6 +2282,7 @@
 - [noctuid/dotfiles](https://github.com/noctuid/dotfiles) - Mouseless Workflow (WIP)
 - [CachyOS/CachyOS-Live-ISO](https://github.com/CachyOS/CachyOS-Live-ISO) - 
 - [CachyOS/CachyOS-Browser-Common](https://github.com/CachyOS/CachyOS-Browser-Common) - 
+- [CachyOS/CachyOS-Settings](https://github.com/CachyOS/CachyOS-Settings) - Settings used for CachyOS
 - [ivan-hc/AM-Application-Manager](https://github.com/ivan-hc/AM-Application-Manager) - Install, update and manage AppImage packages and official standalone apps for GNU / Linux, with an ever-growing AUR-inspired database, scripts to manage AppImage builder tools and templates to create 
 - [metis-os/metis-sideload](https://github.com/metis-os/metis-sideload) - // Ofiicial installer for @metis-os
 - [metis-os/repo-recon](https://github.com/metis-os/repo-recon) - REPO: recon, reconnaissance tools gathered in one piece for @metis-os
