@@ -189,7 +189,6 @@
 - [christophgysin/pasystray](https://github.com/christophgysin/pasystray) - PulseAudio system tray
 - [CristianHenzel/ClipIt](https://github.com/CristianHenzel/ClipIt) - ClipIt clipboard manager for GTK+
 - [conformal/spectrwm](https://github.com/conformal/spectrwm) - A small dynamic tiling window manager for X11.
-- [Embroidermodder/Embroidermodder](https://github.com/Embroidermodder/Embroidermodder) - Free machine embroidery software supporting a variety of formats.
 - [cfenollosa/os-tutorial](https://github.com/cfenollosa/os-tutorial) - How to create an OS from scratch
 
 ## C# # 
@@ -245,6 +244,7 @@
 - [diasurgical/devilutionX](https://github.com/diasurgical/devilutionX) - Diablo build for modern operating systems
 - [pbek/QOwnNotes](https://github.com/pbek/QOwnNotes) - QOwnNotes is a plain-text file notepad and todo-list manager with markdown support and Nextcloud / ownCloud integration.
 - [robotology/yarp](https://github.com/robotology/yarp) - YARP - Yet Another Robot Platform
+- [Embroidermodder/Embroidermodder](https://github.com/Embroidermodder/Embroidermodder) - Free machine embroidery software supporting a variety of formats.
 - [lxqt/lxqt-panel](https://github.com/lxqt/lxqt-panel) - The LXQt desktop panel
 - [unetbootin/unetbootin](https://github.com/unetbootin/unetbootin) - UNetbootin installs Linux/BSD distributions to a partition or USB drive
 - [hannesschulze/conecto](https://github.com/hannesschulze/conecto) - Integrate your Android-phone with your PC - a GTK client for KDEConnect.
@@ -258,6 +258,7 @@
 
 ## CSS 
 
+- [ranmaru22/firefox-vertical-tabs](https://github.com/ranmaru22/firefox-vertical-tabs) - Vertical tabs for Firefox, inspired by Edge.
 - [elkowar/dots-of-war](https://github.com/elkowar/dots-of-war) - My dotfiles, mostly. This is the wild west. don't expect to understand this mess. Don't try to understand this mess. This serves as a good way to backup my configs, nothing more.
 - [Myagko/dotfiles](https://github.com/Myagko/dotfiles) - 
 - [Soft-Bred/Brave-Fox](https://github.com/Soft-Bred/Brave-Fox) - Firefox Stylesheet To Add Brave-Like Elements
@@ -265,6 +266,7 @@
 - [EgoAlpha/prompt-in-context-learning](https://github.com/EgoAlpha/prompt-in-context-learning) - Awesome resources for in-context learning and prompt engineering: Mastery of the LLMs such as ChatGPT, GPT-3, and FlanT5, with up-to-date and cutting-edge updates.
 - [siduck/dotfiles](https://github.com/siduck/dotfiles) - dotfiles for my beautiful rices!
 - [khaneliman/dotfiles](https://github.com/khaneliman/dotfiles) - Multi platform and desktop environment dotfiles for developers.
+- [Sanatana-Linux/nixos-config](https://github.com/Sanatana-Linux/nixos-config) - Immutable, reproducible, aesthetic, all-encompassing.
 - [shvedes/dotfiles](https://github.com/shvedes/dotfiles) - My own pretty minimalist dotfiles
 - [mehedirm6244/My_XFCE_dotties](https://github.com/mehedirm6244/My_XFCE_dotties) - My shitty dotfiles for Xfce
 - [L4ki/Aura-Plasma-Themes](https://github.com/L4ki/Aura-Plasma-Themes) - Aura Themes For Plasma Desktop
@@ -555,9 +557,9 @@
 
 ## HTML 
 
+- [Amitabha37377/HomePage](https://github.com/Amitabha37377/HomePage) - 
 - [ryangrose/easy-pandoc-templates](https://github.com/ryangrose/easy-pandoc-templates) - A collection of portable pandoc templates with no dependencies
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
-- [SaintRyoh/rabbithole](https://github.com/SaintRyoh/rabbithole) - An Awesome WM config that allows you to dynamically nest virtual desktops
 - [leemunroe/responsive-html-email-template](https://github.com/leemunroe/responsive-html-email-template) - A free simple responsive HTML email template
 - [adevade/color-scheme-generator](https://github.com/adevade/color-scheme-generator) - When you just need some UI colors, fast.
 - [parikshit223933/Coding-Ninjas-Full-Stack-Web-Development](https://github.com/parikshit223933/Coding-Ninjas-Full-Stack-Web-Development) - It contains all the files I created during the MERN full stack web development course with coding ninjas
@@ -671,6 +673,7 @@
 
 ## JavaScript 
 
+- [darktrojan/newtabtools](https://github.com/darktrojan/newtabtools) - New Tab Tools add-on for Firefox and Chrome
 - [socioboard/Socioboard-5.0](https://github.com/socioboard/Socioboard-5.0) - Socioboard is world's first and open source Social Technology Enabler. Socioboard Core is our flagship product.
 - [FirefoxBar/WebExt-build-tool](https://github.com/FirefoxBar/WebExt-build-tool) - A tool to build webextension
 - [dupontjoy/userChrome.js-Collections-](https://github.com/dupontjoy/userChrome.js-Collections-) - UC scripts collections, include UC scripts I don't use for now and UC scripts collected from others' sharing. Just for me to find them easily in the future.
@@ -1047,6 +1050,7 @@
 ## Lua 
 
 - [camilof99/dotfiles-awesome](https://github.com/camilof99/dotfiles-awesome) - 
+- [SaintRyoh/rabbithole](https://github.com/SaintRyoh/rabbithole) - An Awesome WM config that allows you to dynamically nest virtual desktops
 - [LudoPinelli/comment-box.nvim](https://github.com/LudoPinelli/comment-box.nvim) - :sparkles: Clarify and beautify your comments using boxes and lines.
 - [devclyde/awchad-awesome](https://github.com/devclyde/awchad-awesome) - awesomewm for awchad
 - [devclyde/awesome-emmylua](https://github.com/devclyde/awesome-emmylua) - Hand rewriting all the awesome documentation with EmmyLua support
@@ -1657,6 +1661,7 @@
 
 ## Others 
 
+- [meetpateltech/AI-Infinity](https://github.com/meetpateltech/AI-Infinity) - A set of AI tools that will help you explore the infinite possibilities of AI.
 - [Vitor238/DX](https://github.com/Vitor238/DX) - Squircle icon theme for Linux (WIP)
 - [tinted-theming/base16-schemes](https://github.com/tinted-theming/base16-schemes) - All the color schemes for use in base16 packages
 - [rynst/awesome-llm-engineering](https://github.com/rynst/awesome-llm-engineering) - 💻 An awesome & curated list of resources for large language model engineering (application layer: prompt engineering, fine tuning, etc.) [ Work In Progress, feel free to contribute! ]
@@ -2139,6 +2144,7 @@
 
 ## Ruby 
 
+- [CachyOS/CachyOS-Settings](https://github.com/CachyOS/CachyOS-Settings) - Settings used for CachyOS
 - [henrylawson/photish](https://github.com/henrylawson/photish) - Fast, simple, configurable photo portfolio website generator
 - [markevans/dragonfly](https://github.com/markevans/dragonfly) - A Ruby gem for on-the-fly processing - suitable for image uploading in Rails, Sinatra and much more!
 - [juanjoSanz/aws-pentesting-lab](https://github.com/juanjoSanz/aws-pentesting-lab) - Pentesting lab with a Kali Linux instance accessible via ssh & wireguard VPN and with vulnerable instances in a private subnet
@@ -2249,6 +2255,7 @@
 
 ## Shell 
 
+- [dnordstrom/dotfiles](https://github.com/dnordstrom/dotfiles) - Flake-based NixOS configuration used on Dell XPS laptop and Ryzen 7 desktop.
 - [cmcculloh/GitScripts](https://github.com/cmcculloh/GitScripts) - Makes Git a little more user friendly and a little more user safe (idiot proof)
 - [KreitinnSoftware/SamFlasher-Tool](https://github.com/KreitinnSoftware/SamFlasher-Tool) - A simple tool to flash rom to samsung devices, based on heimdall
 - [nitsky/config](https://github.com/nitsky/config) - 
@@ -2282,7 +2289,6 @@
 - [noctuid/dotfiles](https://github.com/noctuid/dotfiles) - Mouseless Workflow (WIP)
 - [CachyOS/CachyOS-Live-ISO](https://github.com/CachyOS/CachyOS-Live-ISO) - 
 - [CachyOS/CachyOS-Browser-Common](https://github.com/CachyOS/CachyOS-Browser-Common) - 
-- [CachyOS/CachyOS-Settings](https://github.com/CachyOS/CachyOS-Settings) - Settings used for CachyOS
 - [ivan-hc/AM-Application-Manager](https://github.com/ivan-hc/AM-Application-Manager) - Install, update and manage AppImage packages and official standalone apps for GNU / Linux, with an ever-growing AUR-inspired database, scripts to manage AppImage builder tools and templates to create 
 - [metis-os/metis-sideload](https://github.com/metis-os/metis-sideload) - // Ofiicial installer for @metis-os
 - [metis-os/repo-recon](https://github.com/metis-os/repo-recon) - REPO: recon, reconnaissance tools gathered in one piece for @metis-os
@@ -2344,7 +2350,7 @@
 - [RoEdAl/al-rpi-eeprom](https://github.com/RoEdAl/al-rpi-eeprom) - Raspberry Pi4 boot EEPROM updater [Arch Linux package]
 - [Tavark/archlinux-arm-on-raspberry-pi4](https://github.com/Tavark/archlinux-arm-on-raspberry-pi4) - 
 - [archcraft-os/archcraft-openbox](https://github.com/archcraft-os/archcraft-openbox) - // Configuration : Openbox
-- [myspaghetti/macos-virtualbox](https://github.com/myspaghetti/macos-virtualbox) - Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox for Windows, Linux, and macOS
+- [myspaghetti/macos-virtualbox](https://github.com/myspaghetti/macos-virtualbox) - Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox on x86 CPUs for Windows, Linux, and macOS
 - [oddlama/gentoo-install](https://github.com/oddlama/gentoo-install) - A gentoo installer with a TUI interface that supports systemd and OpenRC, EFI and BIOS, as well as variable disk layouts using ext4, zfs, btrfs, luks and mdraid.
 - [wfleming/gifcast](https://github.com/wfleming/gifcast) - X11 GIF screen recorder
 - [YodaEmbedding/dotfiles](https://github.com/YodaEmbedding/dotfiles) - Personal Linux configuration files (vim, i3, zsh, ...)
