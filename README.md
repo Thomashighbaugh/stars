@@ -1052,6 +1052,7 @@
 
 ## Lua 
 
+- [redshifttt/dotfiles](https://github.com/redshifttt/dotfiles) - all my dotfiles
 - [camilof99/dotfiles-awesome](https://github.com/camilof99/dotfiles-awesome) - 
 - [SaintRyoh/rabbithole](https://github.com/SaintRyoh/rabbithole) - An Awesome WM config that allows you to dynamically nest virtual desktops
 - [LudoPinelli/comment-box.nvim](https://github.com/LudoPinelli/comment-box.nvim) - :sparkles: Clarify and beautify your comments using boxes and lines.
@@ -1553,6 +1554,8 @@
 
 ## Nix 
 
+- [sebastiant/dotfiles](https://github.com/sebastiant/dotfiles) - 
+- [Nekroze/vms.nix](https://github.com/Nekroze/vms.nix) - NixOS module for QEMU VM's using a similar interface to nixos-containers.
 - [Gerschtli/nix-config](https://github.com/Gerschtli/nix-config) - A collection of my system configs and dotfiles
 - [Baitinq/nixos-config](https://github.com/Baitinq/nixos-config) - My Personal Nix/NixOS Configuration.
 - [superherointj/NixNG](https://github.com/superherointj/NixNG) - A linux distribution based on Nix [maintainer=@MagicRB]
@@ -1947,6 +1950,7 @@
 
 ## Python 
 
+- [MarcVillain/EmailGenerator](https://github.com/MarcVillain/EmailGenerator) - Generate random emails with ease.
 - [paulpierre/informer](https://github.com/paulpierre/informer) - A Telegram Mass Surveillance Bot in Python
 - [promptslab/Promptify](https://github.com/promptslab/Promptify) - Prompt Engineering | Use GPT or other prompt based models to get structured output. Join our discord for Prompt-Engineering, LLMs and other latest research
 - [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API
@@ -2267,6 +2271,7 @@
 
 ## Shell 
 
+- [spider-linux/spiderlinux](https://github.com/spider-linux/spiderlinux) - Spider Linux is a modern, independent, free and open-source Linux distribution.
 - [dnordstrom/dotfiles](https://github.com/dnordstrom/dotfiles) - Flake-based NixOS configuration used on Dell XPS laptop and Ryzen 7 desktop.
 - [cmcculloh/GitScripts](https://github.com/cmcculloh/GitScripts) - Makes Git a little more user friendly and a little more user safe (idiot proof)
 - [KreitinnSoftware/SamFlasher-Tool](https://github.com/KreitinnSoftware/SamFlasher-Tool) - A simple tool to flash rom to samsung devices, based on heimdall
