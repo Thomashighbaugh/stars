@@ -1052,6 +1052,7 @@
 
 ## Lua 
 
+- [pablonoya/awesomewm-configuration](https://github.com/pablonoya/awesomewm-configuration) - My personal AwesomeWM configuration
 - [redshifttt/dotfiles](https://github.com/redshifttt/dotfiles) - all my dotfiles
 - [camilof99/dotfiles-awesome](https://github.com/camilof99/dotfiles-awesome) - 
 - [SaintRyoh/rabbithole](https://github.com/SaintRyoh/rabbithole) - An Awesome WM config that allows you to dynamically nest virtual desktops
@@ -1304,6 +1305,7 @@
 - [gobolinux/gobo-awesome](https://github.com/gobolinux/gobo-awesome) - Awesome WM utilities for GoboLinux
 - [Calinix-Team/calinix-desktop-git](https://github.com/Calinix-Team/calinix-desktop-git) - 
 - [Mange/dotfiles](https://github.com/Mange/dotfiles) - A collection of *NIX dotfiles for configuration
+- [ivanbrennan/nixbox](https://github.com/ivanbrennan/nixbox) - NixOS configuration
 - [furrycatherder/awesome-xdg-config](https://github.com/furrycatherder/awesome-xdg-config) - my awesomewm config files
 - [doronbehar/.config_awesome](https://github.com/doronbehar/.config_awesome) - My awesome configuration directory
 - [TechnicalDC/AwesomeOS](https://github.com/TechnicalDC/AwesomeOS) - My Awesome Window Manager Configurations
@@ -1554,6 +1556,15 @@
 
 ## Nix 
 
+- [bbigras/nix-config](https://github.com/bbigras/nix-config) - My personal nix config
+- [tudurom/dotfiles](https://github.com/tudurom/dotfiles) - My small loan of configuration files and scripts - based on NixOS
+- [iAmMrinal0/nix-config](https://github.com/iAmMrinal0/nix-config) - Configuration and dotfiles used on NixOS with home-manager
+- [gytis-ivaskevicius/nixfiles](https://github.com/gytis-ivaskevicius/nixfiles) - My kick-ass NixOS systems configurations!!
+- [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers
+- [cab404/home](https://github.com/cab404/home) - My NixOS configuration
+- [aaronjanse/dotfiles](https://github.com/aaronjanse/dotfiles) - My dotfiles as a Nix flake
+- [tejing1/nixos-config](https://github.com/tejing1/nixos-config) - Tejing's personal NixOS configuration flake
+- [jordanisaacs/dotfiles](https://github.com/jordanisaacs/dotfiles) - My NixOS dotfiles for desktops and servers
 - [sebastiant/dotfiles](https://github.com/sebastiant/dotfiles) - 
 - [Nekroze/vms.nix](https://github.com/Nekroze/vms.nix) - NixOS module for QEMU VM's using a similar interface to nixos-containers.
 - [Gerschtli/nix-config](https://github.com/Gerschtli/nix-config) - A collection of my system configs and dotfiles
@@ -1652,7 +1663,6 @@
 - [davidtwco/veritas](https://github.com/davidtwco/veritas) - @davidtwco's personal mono-repo - containing the declarative configuration of servers, desktops and laptops - including dotfiles; a collection of packages; a static site generator and source of "david
 - [numtide/devshell](https://github.com/numtide/devshell) - Per project developer environments
 - [hlissner/dotfiles](https://github.com/hlissner/dotfiles) - And I say hey, what's going on?
-- [ivanbrennan/nixbox](https://github.com/ivanbrennan/nixbox) - NixOS configuration
 - [peel/dotfiles](https://github.com/peel/dotfiles) - well-tailored NixOS & nix-darwin dotfiles
 - [divnix/digga](https://github.com/divnix/digga) - A flake utility library to craft shell-, home-, and hosts- environments.
 - [terlar/nix-config](https://github.com/terlar/nix-config) - Configuration for NixOS and user home (dot files).
@@ -1673,6 +1683,7 @@
 
 ## Others 
 
+- [Amitabha37377/Awesome_Dotfiles](https://github.com/Amitabha37377/Awesome_Dotfiles) - 
 - [andrewzn69/dotfiles](https://github.com/andrewzn69/dotfiles) - all my dotfiles in one repo
 - [chucklarge/html-resume-template](https://github.com/chucklarge/html-resume-template) - 
 - [meetpateltech/AI-Infinity](https://github.com/meetpateltech/AI-Infinity) - A set of AI tools that will help you explore the infinite possibilities of AI.
@@ -1950,6 +1961,7 @@
 
 ## Python 
 
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - decentralising the Ai Industry, just some language model api's...
 - [MarcVillain/EmailGenerator](https://github.com/MarcVillain/EmailGenerator) - Generate random emails with ease.
 - [paulpierre/informer](https://github.com/paulpierre/informer) - A Telegram Mass Surveillance Bot in Python
 - [promptslab/Promptify](https://github.com/promptslab/Promptify) - Prompt Engineering | Use GPT or other prompt based models to get structured output. Join our discord for Prompt-Engineering, LLMs and other latest research
@@ -2124,7 +2136,6 @@
 - [foxmask/joplin-web](https://github.com/foxmask/joplin-web) - :snake: :books: Web application companion for Joplin
 - [InspectorMustache/base16-builder-python](https://github.com/InspectorMustache/base16-builder-python) - A base16 colorscheme builder for Python
 - [Anupam-dagar/Portfolio-Generator](https://github.com/Anupam-dagar/Portfolio-Generator) - HoxNox - Portfolios Made Easy, Generate portfolios in 3 easy steps
-- [Algorithm79/Dotfiles_i3](https://github.com/Algorithm79/Dotfiles_i3) - Configuration files for i3wm
 - [firecat53/networkmanager-dmenu](https://github.com/firecat53/networkmanager-dmenu) - Control NetworkManager via dmenu
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [montagdude/awesome-appmenu](https://github.com/montagdude/awesome-appmenu) - Tool to create a menu of installed applications for the awesome window manager
@@ -2271,6 +2282,8 @@
 
 ## Shell 
 
+- [emmett1/linuxliveiso](https://github.com/emmett1/linuxliveiso) - scripts to build linux live iso
+- [pandoraxdn/nixos-configuration](https://github.com/pandoraxdn/nixos-configuration) - 
 - [spider-linux/spiderlinux](https://github.com/spider-linux/spiderlinux) - Spider Linux is a modern, independent, free and open-source Linux distribution.
 - [dnordstrom/dotfiles](https://github.com/dnordstrom/dotfiles) - Flake-based NixOS configuration used on Dell XPS laptop and Ryzen 7 desktop.
 - [cmcculloh/GitScripts](https://github.com/cmcculloh/GitScripts) - Makes Git a little more user friendly and a little more user safe (idiot proof)
@@ -2593,6 +2606,7 @@
 - [Hyzual/docker-gitit](https://github.com/Hyzual/docker-gitit) - Gitit wiki on Docker. Uses debian.
 - [neeasade/dotfiles](https://github.com/neeasade/dotfiles) - garden
 - [phR0ze/cyberlinux](https://github.com/phR0ze/cyberlinux) - Arch Linux based distro for power users that desire full customization, performance and automation
+- [Algorithm79/Dotfiles_i3](https://github.com/Algorithm79/Dotfiles_i3) - Configuration files for i3wm
 - [callmezatiel/zarch](https://github.com/callmezatiel/zarch) - The Ultimate Script For Arch Linux
 - [Thomashighbaugh/dotfiles](https://github.com/Thomashighbaugh/dotfiles) - Nevermind the bullocks, here's the dotfiles
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
@@ -2691,7 +2705,6 @@
 - [brianlovin/briOS](https://github.com/brianlovin/briOS) - My personal website.
 - [uriSecfi/scaffolding-templates](https://github.com/uriSecfi/scaffolding-templates) - 
 - [shadcn/ui](https://github.com/shadcn/ui) - Beautifully designed components built with Radix UI and Tailwind CSS.
-- [0l1v3rr/react-todo](https://github.com/0l1v3rr/react-todo) - ✔️ A sortable to-do list with labels and meter statistics.
 - [rubenwardy/renewedtab](https://github.com/rubenwardy/renewedtab) - A mirror for the Renewed Tab repository: https://gitlab.com/rubenwardy/renewedtab/
 - [fand/MDMT](https://github.com/fand/MDMT) - 💊Markdown Document Template💊
 - [pieroproietti/penguins-eggs](https://github.com/pieroproietti/penguins-eggs) - On the road of Remastersys, Refracta, Systemback and father Knoppix!
