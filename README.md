@@ -557,6 +557,9 @@
 
 ## HTML 
 
+- [maizzle/starter-emailoctopus](https://github.com/maizzle/starter-emailoctopus) - Original EmailOctopus templates, rebuilt with Tailwind CSS in Maizzle.
+- [maizzle/starter-litmus](https://github.com/maizzle/starter-litmus) - Litmus email templates starter for Maizzle.
+- [maizzle/starter-postmark](https://github.com/maizzle/starter-postmark) - A Maizzle starter based on Postmark's transactional email templates.
 - [Amitabha37377/HomePage](https://github.com/Amitabha37377/HomePage) - 
 - [ryangrose/easy-pandoc-templates](https://github.com/ryangrose/easy-pandoc-templates) - A collection of portable pandoc templates with no dependencies
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
@@ -1052,6 +1055,9 @@
 
 ## Lua 
 
+- [jcrd/awesome-ez](https://github.com/jcrd/awesome-ez) - AwesomeWM library for simplifying key and button binding definitions
+- [vincentbernat/awesome-configuration](https://github.com/vincentbernat/awesome-configuration) - My ~/.config/awesome directory
+- [gnomengineer/StartView](https://github.com/gnomengineer/StartView) - 
 - [pablonoya/awesomewm-configuration](https://github.com/pablonoya/awesomewm-configuration) - My personal AwesomeWM configuration
 - [redshifttt/dotfiles](https://github.com/redshifttt/dotfiles) - all my dotfiles
 - [camilof99/dotfiles-awesome](https://github.com/camilof99/dotfiles-awesome) - 
@@ -1683,6 +1689,7 @@
 
 ## Others 
 
+- [Fausto-Korpsvart/Tokyo-Night-GTK-Theme](https://github.com/Fausto-Korpsvart/Tokyo-Night-GTK-Theme) - A GTK theme based on the Tokyo Night colour palette.
 - [Amitabha37377/Awesome_Dotfiles](https://github.com/Amitabha37377/Awesome_Dotfiles) - 
 - [andrewzn69/dotfiles](https://github.com/andrewzn69/dotfiles) - all my dotfiles in one repo
 - [chucklarge/html-resume-template](https://github.com/chucklarge/html-resume-template) - 
@@ -2171,7 +2178,6 @@
 
 ## Ruby 
 
-- [CachyOS/CachyOS-Settings](https://github.com/CachyOS/CachyOS-Settings) - Settings used for CachyOS
 - [henrylawson/photish](https://github.com/henrylawson/photish) - Fast, simple, configurable photo portfolio website generator
 - [markevans/dragonfly](https://github.com/markevans/dragonfly) - A Ruby gem for on-the-fly processing - suitable for image uploading in Rails, Sinatra and much more!
 - [juanjoSanz/aws-pentesting-lab](https://github.com/juanjoSanz/aws-pentesting-lab) - Pentesting lab with a Kali Linux instance accessible via ssh & wireguard VPN and with vulnerable instances in a private subnet
@@ -2319,6 +2325,7 @@
 - [noctuid/dotfiles](https://github.com/noctuid/dotfiles) - Mouseless Workflow (WIP)
 - [CachyOS/CachyOS-Live-ISO](https://github.com/CachyOS/CachyOS-Live-ISO) - 
 - [CachyOS/CachyOS-Browser-Common](https://github.com/CachyOS/CachyOS-Browser-Common) - 
+- [CachyOS/CachyOS-Settings](https://github.com/CachyOS/CachyOS-Settings) - Settings used for CachyOS
 - [ivan-hc/AM-Application-Manager](https://github.com/ivan-hc/AM-Application-Manager) - Install, update and manage AppImage packages and official standalone apps for GNU / Linux, with an ever-growing AUR-inspired database, scripts to manage AppImage builder tools and templates to create 
 - [metis-os/metis-sideload](https://github.com/metis-os/metis-sideload) - // Ofiicial installer for @metis-os
 - [metis-os/repo-recon](https://github.com/metis-os/repo-recon) - REPO: recon, reconnaissance tools gathered in one piece for @metis-os
@@ -2688,6 +2695,7 @@
 
 ## TypeScript 
 
+- [jasonruesch/jasonruesch](https://github.com/jasonruesch/jasonruesch) - My personal portfolio web app
 - [JezerM/nody-greeter](https://github.com/JezerM/nody-greeter) - LightDM greeter that allows to create wonderful themes with web technologies. Made in Node.js
 - [InterwebAlchemy/obsidian-ai-research-assistant](https://github.com/InterwebAlchemy/obsidian-ai-research-assistant) - Prompt Engineering Research Tool for AI APIs
 - [jpreagan/jpreagan.com](https://github.com/jpreagan/jpreagan.com) - ✨ My personal website built with Next.js
