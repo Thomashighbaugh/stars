@@ -258,6 +258,7 @@
 
 ## CSS 
 
+- [Phantas0s/sharetoall](https://github.com/Phantas0s/sharetoall) - This was meant to offer a free service similar to Buffer / Hootsuite
 - [Godiesc/firefox-gx](https://github.com/Godiesc/firefox-gx) - Firefox Theme CSS to Opera GX Lovers
 - [ranmaru22/firefox-vertical-tabs](https://github.com/ranmaru22/firefox-vertical-tabs) - Vertical tabs for Firefox, inspired by Edge.
 - [elkowar/dots-of-war](https://github.com/elkowar/dots-of-war) - My dotfiles, mostly. This is the wild west. don't expect to understand this mess. Don't try to understand this mess. This serves as a good way to backup my configs, nothing more.
@@ -676,6 +677,7 @@
 
 ## JavaScript 
 
+- [nypublicradio/audiogram](https://github.com/nypublicradio/audiogram) - Turn audio into a shareable video.
 - [overdodactyl/ShadowFox](https://github.com/overdodactyl/ShadowFox) - A universal dark theme for Firefox
 - [WebPraktikos/universal-resume](https://github.com/WebPraktikos/universal-resume) - Minimal and formal résumé (CV) website template for print, mobile, and desktop. https://bit.ly/ur_demo
 - [sandstorm-io/sandstorm](https://github.com/sandstorm-io/sandstorm) - Sandstorm is a self-hostable web productivity suite. It's implemented as a security-hardened web app package manager.
@@ -1228,7 +1230,7 @@
 - [mhmoooods/turbo-awesome](https://github.com/mhmoooods/turbo-awesome) - AwesomeWM dotfiles
 - [nuxshed/dotfiles](https://github.com/nuxshed/dotfiles) - pls help
 - [Kasper24/KwesomeDE](https://github.com/Kasper24/KwesomeDE) - A desktop environment made in AwesomeWM
-- [JavaCafe01/awesome-wallpaper](https://github.com/JavaCafe01/awesome-wallpaper) - 
+- [javacafe01/awesome-wallpaper](https://github.com/javacafe01/awesome-wallpaper) - 
 - [rochacbruno/dotfiles](https://github.com/rochacbruno/dotfiles) - My Environment Configurations
 - [Crylia/crylia-theme](https://github.com/Crylia/crylia-theme) - A theme for AwesomeWM
 - [b0o/nvim-conf](https://github.com/b0o/nvim-conf) - ☄ Maddison's Neovim configuration!
@@ -1286,7 +1288,7 @@
 - [tdy/awesome](https://github.com/tdy/awesome) - Configs for awesomeWM
 - [hoelzro/obvious](https://github.com/hoelzro/obvious) - Widget library for the awesome window manager
 - [DanielFGray/dotfiles](https://github.com/DanielFGray/dotfiles) - personal repo of config files
-- [JavaCafe01/awesome](https://github.com/JavaCafe01/awesome) - configuration files for AwesomeWM
+- [javacafe01/awesome](https://github.com/javacafe01/awesome) - configuration files for AwesomeWM
 - [onsails/diaglist.nvim](https://github.com/onsails/diaglist.nvim) - Live render workspace diagnostics in quickfix with current buf errors on top, buffer diagnostics in loclist
 - [mickael-menu/zk-nvim](https://github.com/mickael-menu/zk-nvim) - Neovim extension for zk
 - [amirulmenjeni/dotfiles](https://github.com/amirulmenjeni/dotfiles) - My linux desktop config and theme files.
@@ -1968,6 +1970,7 @@
 
 ## Python 
 
+- [impshum/Multi-Quote](https://github.com/impshum/Multi-Quote) - Social Quote Generator Bot
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - decentralising the Ai Industry, just some language model api's...
 - [MarcVillain/EmailGenerator](https://github.com/MarcVillain/EmailGenerator) - Generate random emails with ease.
 - [paulpierre/informer](https://github.com/paulpierre/informer) - A Telegram Mass Surveillance Bot in Python
@@ -2758,7 +2761,7 @@
 - [lailo/next-with-tailwindcss](https://github.com/lailo/next-with-tailwindcss) - NextJS with TypeScript and TailwindCSS (with dark theme switch)
 - [adonig/nextjs-starter-preact-tailwindcss](https://github.com/adonig/nextjs-starter-preact-tailwindcss) - A Next.js starter project coming with Preact and Tailwind CSS built-in.
 - [remorses/dokz](https://github.com/remorses/dokz) - Effortless documentation with Next.js and MDX
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite is a backend platform for developing Web, Mobile, and Flutter applications. Built with the open source community and optimized for developer experience in the coding languages you love.
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
 - [trufflesuite/truffle](https://github.com/trufflesuite/truffle) - A tool for developing smart contracts. Crafted with the finest cacaos.
 - [linnovate/mean](https://github.com/linnovate/mean) - The MEAN stack uses Mongo, Express, Angular(6) and Node for simple and scalable fullstack js applications
