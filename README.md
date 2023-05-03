@@ -435,7 +435,7 @@
 - [SuperSandro2000/docker-images](https://github.com/SuperSandro2000/docker-images) - All my docker images in one mono-repository with multi-arch support
 - [qeeqbox/docker-images](https://github.com/qeeqbox/docker-images) - Kali and Parrot OS docker images accessible via VNC, RDP and Web
 - [kir4h/docker-hackmyresume-all-themes](https://github.com/kir4h/docker-hackmyresume-all-themes) - Docker image that allows generating multiple resume output formats using hackmyresume and that comes with some JSON resume preinstalled themes
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (April 2023)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (May 2023)
 - [nlhomme/archiso-builder](https://github.com/nlhomme/archiso-builder) - Build your own Arch Linux ISO made with 'archiso' using Docker
 - [vulhub/vulhub](https://github.com/vulhub/vulhub) - Pre-Built Vulnerable Environments Based on Docker-Compose
 - [jessfraz/dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
