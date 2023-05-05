@@ -204,6 +204,7 @@
 
 ## C++ 
 
+- [cp-algorithms/cp-algorithms](https://github.com/cp-algorithms/cp-algorithms) - Algorithm and data structure articles for https://cp-algorithms.com (based on http://e-maxx.ru)
 - [luabind/luabind](https://github.com/luabind/luabind) - 
 - [dasJ/spotifywm](https://github.com/dasJ/spotifywm) - Set Spotify's WM_NAME before opening the window
 - [nwg-piotr/nwg-launchers](https://github.com/nwg-piotr/nwg-launchers) - GTK-based launchers: application grid, button bar, dmenu for sway and other window managers
@@ -258,6 +259,7 @@
 
 ## CSS 
 
+- [Vertecedoc4545/DeMorkeNorskeRamnen-GnomeShell-Theme](https://github.com/Vertecedoc4545/DeMorkeNorskeRamnen-GnomeShell-Theme) - 
 - [Phantas0s/sharetoall](https://github.com/Phantas0s/sharetoall) - This was meant to offer a free service similar to Buffer / Hootsuite
 - [Godiesc/firefox-gx](https://github.com/Godiesc/firefox-gx) - Firefox Theme CSS to Opera GX Lovers
 - [ranmaru22/firefox-vertical-tabs](https://github.com/ranmaru22/firefox-vertical-tabs) - Vertical tabs for Firefox, inspired by Edge.
@@ -677,6 +679,8 @@
 
 ## JavaScript 
 
+- [ferrislucas/promptr](https://github.com/ferrislucas/promptr) - Promptr is a CLI tool that makes it easy to apply GPT's code change recommendations with a single command. With Promptr, you can quickly refactor code, implement classes to pass tests, and experiment 
+- [timqian/openprompt.co](https://github.com/timqian/openprompt.co) - Create. Use. Share. ChatGPT prompts
 - [nypublicradio/audiogram](https://github.com/nypublicradio/audiogram) - Turn audio into a shareable video.
 - [overdodactyl/ShadowFox](https://github.com/overdodactyl/ShadowFox) - A universal dark theme for Firefox
 - [WebPraktikos/universal-resume](https://github.com/WebPraktikos/universal-resume) - Minimal and formal résumé (CV) website template for print, mobile, and desktop. https://bit.ly/ur_demo
@@ -1057,6 +1061,8 @@
 
 ## Lua 
 
+- [cufta22/dotfiles](https://github.com/cufta22/dotfiles) - [AwesomeWM] Outer Wilds - change branch for old rices
+- [ormai/dotfiles](https://github.com/ormai/dotfiles) - ormai's dotfiles
 - [jcrd/awesome-ez](https://github.com/jcrd/awesome-ez) - AwesomeWM library for simplifying key and button binding definitions
 - [vincentbernat/awesome-configuration](https://github.com/vincentbernat/awesome-configuration) - My ~/.config/awesome directory
 - [gnomengineer/StartView](https://github.com/gnomengineer/StartView) - 
@@ -1564,6 +1570,7 @@
 
 ## Nix 
 
+- [javacafe01/dotnix](https://github.com/javacafe01/dotnix) - configuration files for Nix(OS)
 - [bbigras/nix-config](https://github.com/bbigras/nix-config) - My personal nix config
 - [tudurom/dotfiles](https://github.com/tudurom/dotfiles) - My small loan of configuration files and scripts - based on NixOS
 - [iAmMrinal0/nix-config](https://github.com/iAmMrinal0/nix-config) - Configuration and dotfiles used on NixOS with home-manager
@@ -1691,6 +1698,12 @@
 
 ## Others 
 
+- [jesselau76/GPT-Prompts](https://github.com/jesselau76/GPT-Prompts) - Useful GPT Prompts
+- [filipecalegario/awesome-generative-ai](https://github.com/filipecalegario/awesome-generative-ai) - A curated list of Generative AI tools, works, models, and references
+- [OpenMindClub/awesome-chatgpt](https://github.com/OpenMindClub/awesome-chatgpt) - ⚡ Everything about ChatGPT
+- [jtmuller5/The-HustleGPT-Challenge](https://github.com/jtmuller5/The-HustleGPT-Challenge) - Building Startups with an AI Co-Founder
+- [sw-yx/ai-notes](https://github.com/sw-yx/ai-notes) - notes for software engineers getting up to speed on new AI developments. Serves as datastore for https://latent.space writing, and product brainstorming, but has cleaned up canonical references under 
+- [PKUFlyingPig/Self-learning-Computer-Science](https://github.com/PKUFlyingPig/Self-learning-Computer-Science) - the resources I use to learn computer science in my spare time
 - [Fausto-Korpsvart/Tokyo-Night-GTK-Theme](https://github.com/Fausto-Korpsvart/Tokyo-Night-GTK-Theme) - A GTK theme based on the Tokyo Night colour palette.
 - [Amitabha37377/Awesome_Dotfiles](https://github.com/Amitabha37377/Awesome_Dotfiles) - 
 - [andrewzn69/dotfiles](https://github.com/andrewzn69/dotfiles) - all my dotfiles in one repo
@@ -1970,6 +1983,8 @@
 
 ## Python 
 
+- [poloclub/diffusiondb](https://github.com/poloclub/diffusiondb) - A large-scale text-to-image prompt gallery dataset based on Stable Diffusion
+- [chiefdinkan/dotfiles](https://github.com/chiefdinkan/dotfiles) - Dotfiles for ZoidBerg
 - [impshum/Multi-Quote](https://github.com/impshum/Multi-Quote) - Social Quote Generator Bot
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - decentralising the Ai Industry, just some language model api's...
 - [MarcVillain/EmailGenerator](https://github.com/MarcVillain/EmailGenerator) - Generate random emails with ease.
@@ -1982,7 +1997,7 @@
 - [EndeavourOS-Community-Editions/qtile](https://github.com/EndeavourOS-Community-Editions/qtile) - setup for Qtile EOS-CE
 - [fsquillace/pycious](https://github.com/fsquillace/pycious) - Simple and efficient widget library for the awesome window manager written in Python
 - [adfaure/nix_configuration](https://github.com/adfaure/nix_configuration) - 
-- [nwg-piotr/nwg-panel](https://github.com/nwg-piotr/nwg-panel) - GTK3-based panel for sway window manager
+- [nwg-piotr/nwg-panel](https://github.com/nwg-piotr/nwg-panel) - GTK3-based panel for sway and Hyprland Wayland compositors
 - [ultrafunkamsterdam/undetected-chromedriver](https://github.com/ultrafunkamsterdam/undetected-chromedriver) - Custom Selenium Chromedriver | Zero-Config | Passes ALL bot mitigation systems (like Distil / Imperva/ Datadadome / CloudFlare IUAM)
 - [joelbarmettlerUZH/auto-tinder](https://github.com/joelbarmettlerUZH/auto-tinder) - 🖖 Train an artificial intelligence to play tinder for you
 - [fbessez/Tinder](https://github.com/fbessez/Tinder) - Official November 2019 Documentation for Tinder's API (wrapper included)
@@ -2181,6 +2196,7 @@
 
 ## Ruby 
 
+- [mattnigh/ChatGPT3-Free-Prompt-List](https://github.com/mattnigh/ChatGPT3-Free-Prompt-List) - A free guide for learning to create ChatGPT3 Prompts
 - [henrylawson/photish](https://github.com/henrylawson/photish) - Fast, simple, configurable photo portfolio website generator
 - [markevans/dragonfly](https://github.com/markevans/dragonfly) - A Ruby gem for on-the-fly processing - suitable for image uploading in Rails, Sinatra and much more!
 - [juanjoSanz/aws-pentesting-lab](https://github.com/juanjoSanz/aws-pentesting-lab) - Pentesting lab with a Kali Linux instance accessible via ssh & wireguard VPN and with vulnerable instances in a private subnet
@@ -2291,6 +2307,7 @@
 
 ## Shell 
 
+- [nrdxp/nrdos](https://github.com/nrdxp/nrdos) - My NixOS configuration for work and play
 - [emmett1/linuxliveiso](https://github.com/emmett1/linuxliveiso) - scripts to build linux live iso
 - [pandoraxdn/nixos-configuration](https://github.com/pandoraxdn/nixos-configuration) - 
 - [spider-linux/spiderlinux](https://github.com/spider-linux/spiderlinux) - Spider Linux is a modern, independent, free and open-source Linux distribution.
@@ -2341,7 +2358,7 @@
 - [mikeroyal/Developer-Handbook](https://github.com/mikeroyal/Developer-Handbook) - Developer-Handbook
 - [Mizosu97/mizOS](https://github.com/Mizosu97/mizOS) - mizOS installation scripts
 - [0TrashPanda/install-script-artix](https://github.com/0TrashPanda/install-script-artix) - 
-- [gavinlyonsrepo/cylon](https://github.com/gavinlyonsrepo/cylon) - A CLI TUI menu driven bash shell script supporting updates, maintenance,  and system checks for an Arch based Linux distro
+- [gavinlyonsrepo/cylon](https://github.com/gavinlyonsrepo/cylon) - A Terminal user interface for maintaining an Arch Linux distribution.
 - [xchwarze/wifi-pineapple-cloner](https://github.com/xchwarze/wifi-pineapple-cloner) - Clone WiFi Pineapple NANO/TETRA in generic hardware
 - [ideas-man/artix-wizard](https://github.com/ideas-man/artix-wizard) - A collection of install/setup/configuration scripts for quick and painless workstation/server environment deployment under Artix Linux.
 - [metis-os/metis-iso](https://github.com/metis-os/metis-iso) - 🐧☄️  source code and iso of metis linux
@@ -2416,7 +2433,7 @@
 - [chimera-linux/chimera-live](https://github.com/chimera-linux/chimera-live) - Image creation tooling
 - [eoli3n/void-config](https://github.com/eoli3n/void-config) - Scripts and Ansible playbook to setup Void Linux on ZFS.
 - [Botspot/pi-apps](https://github.com/Botspot/pi-apps) - Raspberry Pi App Store for Open Source Projects
-- [LEV-Linux/LEV-mklive](https://github.com/LEV-Linux/LEV-mklive) - The LEV Linux live image maker
+- [lev-linux/mklive](https://github.com/lev-linux/mklive) - The LEV Linux live image maker
 - [xerolinux/xero_iso](https://github.com/xerolinux/xero_iso) - The Official XeroLinux ISO Build Environment
 - [lane-brain/void-packages](https://github.com/lane-brain/void-packages) - The Void source packages collection
 - [the-Electric-Tantra-Linux/void-packages](https://github.com/the-Electric-Tantra-Linux/void-packages) - Deprecated for the time being, since I have moved back to systemd-based Arch.
@@ -2698,6 +2715,7 @@
 
 ## TypeScript 
 
+- [avitorio/outstatic](https://github.com/avitorio/outstatic) - Outstatic - A static CMS for Next.js
 - [jasonruesch/jasonruesch](https://github.com/jasonruesch/jasonruesch) - My personal portfolio web app
 - [JezerM/nody-greeter](https://github.com/JezerM/nody-greeter) - LightDM greeter that allows to create wonderful themes with web technologies. Made in Node.js
 - [InterwebAlchemy/obsidian-ai-research-assistant](https://github.com/InterwebAlchemy/obsidian-ai-research-assistant) - Prompt Engineering Research Tool for AI APIs
@@ -2900,6 +2918,7 @@
 
 ## Vue 
 
+- [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [karakanb/devo](https://github.com/karakanb/devo) - A Chrome and Firefox extension that displays GitHub Trending, Hacker News, Product Hunt and Designer News on every new tab.
 - [SamirM-BE/ErasMail](https://github.com/SamirM-BE/ErasMail) - An open source tool for cleaning email boxes and saving the planet
 - [Schrodinger-Hat/ImageGoNord](https://github.com/Schrodinger-Hat/ImageGoNord) - A tool that can convert your rgb images to nordtheme palette
