@@ -259,6 +259,7 @@
 
 ## CSS 
 
+- [MatthewCash/firefox-mods](https://github.com/MatthewCash/firefox-mods) - Firefox CSS and JS Mods
 - [Vertecedoc4545/DeMorkeNorskeRamnen-GnomeShell-Theme](https://github.com/Vertecedoc4545/DeMorkeNorskeRamnen-GnomeShell-Theme) - 
 - [Phantas0s/sharetoall](https://github.com/Phantas0s/sharetoall) - This was meant to offer a free service similar to Buffer / Hootsuite
 - [Godiesc/firefox-gx](https://github.com/Godiesc/firefox-gx) - Firefox Theme CSS to Opera GX Lovers
@@ -679,6 +680,8 @@
 
 ## JavaScript 
 
+- [fuyu0425/firefox-tweaks](https://github.com/fuyu0425/firefox-tweaks) - My FireFox Tweaks
+- [nonoroazoro/firefox](https://github.com/nonoroazoro/firefox) - Customized Extensions, Scripts, UserChromeJS and Rules of Firefox.
 - [ferrislucas/promptr](https://github.com/ferrislucas/promptr) - Promptr is a CLI tool that makes it easy to apply GPT's code change recommendations with a single command. With Promptr, you can quickly refactor code, implement classes to pass tests, and experiment 
 - [timqian/openprompt.co](https://github.com/timqian/openprompt.co) - Create. Use. Share. ChatGPT prompts
 - [nypublicradio/audiogram](https://github.com/nypublicradio/audiogram) - Turn audio into a shareable video.
@@ -1027,6 +1030,7 @@
 
 ## Jupyter Notebook 
 
+- [ShockTroopa14/xNord-VPN-Version-2023](https://github.com/ShockTroopa14/xNord-VPN-Version-2023) - NordVPN is the gateway to a secure and private access to the internet. It works by enveloping all of your online activities in a layer of encryption, while also hiding information about your virtual l
 - [ratthachat/prompt_engineering](https://github.com/ratthachat/prompt_engineering) - Prompt Engineering
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
 - [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - InvokeAI is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The s
@@ -1061,6 +1065,7 @@
 
 ## Lua 
 
+- [MobSenpai/dotfiles](https://github.com/MobSenpai/dotfiles) - ❄ Configuration For The Best Declarative Linux Distro, NixOS!
 - [cufta22/dotfiles](https://github.com/cufta22/dotfiles) - [AwesomeWM] Outer Wilds - change branch for old rices
 - [ormai/dotfiles](https://github.com/ormai/dotfiles) - ormai's dotfiles
 - [jcrd/awesome-ez](https://github.com/jcrd/awesome-ez) - AwesomeWM library for simplifying key and button binding definitions
@@ -1362,7 +1367,7 @@
 - [nekonako/xresources-nvim](https://github.com/nekonako/xresources-nvim) - 🎨 Neovim colorscheme based on your xresources color
 - [lewis6991/impatient.nvim](https://github.com/lewis6991/impatient.nvim) - Improve startup time for Neovim
 - [s1n7ax/nvim-comment-frame](https://github.com/s1n7ax/nvim-comment-frame) - Detects the language using treesitter and adds a comment block
-- [n3wborn/nvim](https://github.com/n3wborn/nvim) - My own NVIM (&gt;=v0.10.0-dev-17+g6801befcc) lua config
+- [n3wborn/nvim](https://github.com/n3wborn/nvim) - My own NVIM (&gt;=v0.10.0-dev-242+g22170efb4) lua config
 - [koniu/awesome-configs](https://github.com/koniu/awesome-configs) - koniu's awesome config
 - [kurbel/awesome-config](https://github.com/kurbel/awesome-config) - configuration files for the awesome window manager (awesomewm)
 - [nvim-lua/popup.nvim](https://github.com/nvim-lua/popup.nvim) - [WIP] An implementation of the Popup API from vim in Neovim. Hope to upstream when complete
@@ -1570,6 +1575,10 @@
 
 ## Nix 
 
+- [c0c0n3/nixie](https://github.com/c0c0n3/nixie) - Personal, micro distro built on NixOS
+- [redcode-labs/RedNixOS](https://github.com/redcode-labs/RedNixOS) - NixOS-based 'distro' for cybersecurity enthusiasts
+- [kittywitch/infrastructure](https://github.com/kittywitch/infrastructure) - Personal infrastructure repository
+- [barrucadu/nixfiles](https://github.com/barrucadu/nixfiles) - My NixOS configuration and assorted other crap.
 - [javacafe01/dotnix](https://github.com/javacafe01/dotnix) - configuration files for Nix(OS)
 - [bbigras/nix-config](https://github.com/bbigras/nix-config) - My personal nix config
 - [tudurom/dotfiles](https://github.com/tudurom/dotfiles) - My small loan of configuration files and scripts - based on NixOS
@@ -1983,6 +1992,7 @@
 
 ## Python 
 
+- [AnonymousMeerkat/relinux](https://github.com/AnonymousMeerkat/relinux) - A free and open-source Linux distro creation toolkit
 - [poloclub/diffusiondb](https://github.com/poloclub/diffusiondb) - A large-scale text-to-image prompt gallery dataset based on Stable Diffusion
 - [chiefdinkan/dotfiles](https://github.com/chiefdinkan/dotfiles) - Dotfiles for ZoidBerg
 - [impshum/Multi-Quote](https://github.com/impshum/Multi-Quote) - Social Quote Generator Bot
@@ -2307,6 +2317,7 @@
 
 ## Shell 
 
+- [Distroshare/distroshare-ubuntu-imager](https://github.com/Distroshare/distroshare-ubuntu-imager) - Creates an installable live CD from an installed Ubuntu or derivative distribution
 - [nrdxp/nrdos](https://github.com/nrdxp/nrdos) - My NixOS configuration for work and play
 - [emmett1/linuxliveiso](https://github.com/emmett1/linuxliveiso) - scripts to build linux live iso
 - [pandoraxdn/nixos-configuration](https://github.com/pandoraxdn/nixos-configuration) - 
@@ -2715,6 +2726,8 @@
 
 ## TypeScript 
 
+- [JakeStanger/next-gallery](https://github.com/JakeStanger/next-gallery) - Web gallery built with nextjs
+- [steven-tey/precedent](https://github.com/steven-tey/precedent) - An opinionated collection of components, hooks, and utilities for your Next.js project.
 - [avitorio/outstatic](https://github.com/avitorio/outstatic) - Outstatic - A static CMS for Next.js
 - [jasonruesch/jasonruesch](https://github.com/jasonruesch/jasonruesch) - My personal portfolio web app
 - [JezerM/nody-greeter](https://github.com/JezerM/nody-greeter) - LightDM greeter that allows to create wonderful themes with web technologies. Made in Node.js
