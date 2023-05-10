@@ -681,6 +681,7 @@
 
 ## JavaScript 
 
+- [neptunian/react-photo-gallery](https://github.com/neptunian/react-photo-gallery) - React Photo Gallery
 - [TomorrowWontExist/FullstackMassiveNFTDevelopment](https://github.com/TomorrowWontExist/FullstackMassiveNFTDevelopment) - Instructional Walkthrough video of how to create and launch your own 10k NFT collection without any Coding or Crypto knowledge.
 - [fuyu0425/firefox-tweaks](https://github.com/fuyu0425/firefox-tweaks) - My FireFox Tweaks
 - [nonoroazoro/firefox](https://github.com/nonoroazoro/firefox) - Customized Extensions, Scripts, UserChromeJS and Rules of Firefox.
@@ -1077,7 +1078,6 @@
 - [pablonoya/awesomewm-configuration](https://github.com/pablonoya/awesomewm-configuration) - My personal AwesomeWM configuration
 - [redshifttt/dotfiles](https://github.com/redshifttt/dotfiles) - all my dotfiles
 - [camilof99/dotfiles-awesome](https://github.com/camilof99/dotfiles-awesome) - 
-- [SaintRyoh/rabbithole](https://github.com/SaintRyoh/rabbithole) - An Awesome WM config that allows you to dynamically nest virtual desktops
 - [LudoPinelli/comment-box.nvim](https://github.com/LudoPinelli/comment-box.nvim) - :sparkles: Clarify and beautify your comments using boxes and lines.
 - [devclyde/awchad-awesome](https://github.com/devclyde/awchad-awesome) - awesomewm for awchad
 - [devclyde/awesome-emmylua](https://github.com/devclyde/awesome-emmylua) - Hand rewriting all the awesome documentation with EmmyLua support
@@ -1994,6 +1994,7 @@
 
 ## Python 
 
+- [hwyue/deep_nude](https://github.com/hwyue/deep_nude) - 
 - [AnonymousMeerkat/relinux](https://github.com/AnonymousMeerkat/relinux) - A free and open-source Linux distro creation toolkit
 - [poloclub/diffusiondb](https://github.com/poloclub/diffusiondb) - A large-scale text-to-image prompt gallery dataset based on Stable Diffusion
 - [chiefdinkan/dotfiles](https://github.com/chiefdinkan/dotfiles) - Dotfiles for ZoidBerg
@@ -2516,7 +2517,6 @@
 - [void-linux/void-mklive](https://github.com/void-linux/void-mklive) - The Void Linux live image maker
 - [sinetoami/vpsm](https://github.com/sinetoami/vpsm) - vpsm - Void-Packages Sources Management wrapper for XBPS-SRC
 - [bahamas10/bash-vsv](https://github.com/bahamas10/bash-vsv) - Manage and view runit services
-- [netzverweigerer/vpm](https://github.com/netzverweigerer/vpm) - vpm - An XBPS package management helper for VoidLinux
 - [ifreund/dotfiles](https://github.com/ifreund/dotfiles) - My configuration for void linux and river
 - [rabbitinspace/abyss](https://github.com/rabbitinspace/abyss) - Another Void Linux bootstrap for UEFI systems written in Fish.
 - [leafhy/void-linux-installer](https://github.com/leafhy/void-linux-installer) - Bash script to install Void Linux
@@ -2727,6 +2727,9 @@
 
 ## TypeScript 
 
+- [kborling/nft-gallery](https://github.com/kborling/nft-gallery) - NFT Gallery Example using OpenSea API
+- [lingo3d/example-react-nft-gallery](https://github.com/lingo3d/example-react-nft-gallery) - 
+- [OriAmir/React-Responsive-Gallery](https://github.com/OriAmir/React-Responsive-Gallery) - Simple and responsive gallery for react
 - [JakeStanger/next-gallery](https://github.com/JakeStanger/next-gallery) - Web gallery built with nextjs
 - [steven-tey/precedent](https://github.com/steven-tey/precedent) - An opinionated collection of components, hooks, and utilities for your Next.js project.
 - [avitorio/outstatic](https://github.com/avitorio/outstatic) - Outstatic - A static CMS for Next.js
