@@ -132,7 +132,6 @@
 - [nullchilly/CatNvim](https://github.com/nullchilly/CatNvim) - C at Nvim
 - [bagyoni/procedural-wallpapers](https://github.com/bagyoni/procedural-wallpapers) - A collection of wallpaper generators
 - [VeltOS/graphene-desktop](https://github.com/VeltOS/graphene-desktop) - The default desktop environment of VeltOS
-- [lev-linux/mklive](https://github.com/lev-linux/mklive) - The LEV Linux live image maker
 - [compilepeace/KAAL_BHAIRAV](https://github.com/compilepeace/KAAL_BHAIRAV) - -x-x-x-x- DO NOT RUN ON PRODUCTION MACHINE  -x-x-x-x-  An ELF virus capable of generating segment padded trojans.
 - [endaaman/tym](https://github.com/endaaman/tym) - Lua-configurable terminal emulator
 - [wallace-aph/tiles-and-such](https://github.com/wallace-aph/tiles-and-such) - Archives of tilelable images/wallpapers
@@ -408,7 +407,6 @@
 - [mate-desktop/mate-themes](https://github.com/mate-desktop/mate-themes) - Official themes for the MATE desktop
 - [hrdwrrsk/adementary-theme](https://github.com/hrdwrrsk/adementary-theme) - A theme for GNOME/Budgie/Xfce/Cinnamon desktop with elementary-ish aesthetics.
 - [linuxdeepin/deepin-gtk-theme](https://github.com/linuxdeepin/deepin-gtk-theme) - 
-- [bolimage/Ultimate-Maia](https://github.com/bolimage/Ultimate-Maia) - Easy On The Eyes Material design like Gtk theme.
 - [daniruiz/flat-remix-gtk](https://github.com/daniruiz/flat-remix-gtk) - Flat Remix is a GTK application theme inspired by material design. It is mostly flat using a colorful palette with some shadows, highlights, and gradients for some depth.
 - [daniruiz/flat-remix-css](https://github.com/daniruiz/flat-remix-css) - A lightweight CSS library that provides a set of predesigned elements useful for rapid web development. It follows a modern flat design using a colorful palette with some shadows, highlights, and grad
 - [Thomashighbaugh/resurgens-2](https://github.com/Thomashighbaugh/resurgens-2) - The second coming of the Resurgens Portfolio Site, not yet ready for production. New Features: Single Page, Responsive and with Javascript! Also Available at https://tlh-resurgens-v2.netlify.com/
@@ -667,6 +665,7 @@
 
 ## Java 
 
+- [tanjeffreyz/github-statistics](https://github.com/tanjeffreyz/github-statistics) - GitHub stat tracker that uses GraphQL to retrieve both public and private user statistics, which can then be displayed on profile READMEs
 - [PaperMC/Paper](https://github.com/PaperMC/Paper) - High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies
 - [RipMeApp/ripme](https://github.com/RipMeApp/ripme) - Downloads albums in bulk
 - [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
@@ -2452,6 +2451,7 @@
 - [chimera-linux/chimera-live](https://github.com/chimera-linux/chimera-live) - Image creation tooling
 - [eoli3n/void-config](https://github.com/eoli3n/void-config) - Scripts and Ansible playbook to setup Void Linux on ZFS.
 - [Botspot/pi-apps](https://github.com/Botspot/pi-apps) - Raspberry Pi App Store for Open Source Projects
+- [lev-linux/mklive](https://github.com/lev-linux/mklive) - The LEV Linux live image maker
 - [xerolinux/xero_iso](https://github.com/xerolinux/xero_iso) - The Official XeroLinux ISO Build Environment
 - [lane-brain/void-packages](https://github.com/lane-brain/void-packages) - The Void source packages collection
 - [the-Electric-Tantra-Linux/void-packages](https://github.com/the-Electric-Tantra-Linux/void-packages) - Deprecated for the time being, since I have moved back to systemd-based Arch.
@@ -2621,7 +2621,7 @@
 - [brinkOS/brinkOS](https://github.com/brinkOS/brinkOS) - Arch based Linux distribution for Engineers
 - [ctlos/ctlosiso](https://github.com/ctlos/ctlosiso) - Ctlos Linux source. Arch based distro x86-64(64-bit).
 - [agostaxyz/dotfiles](https://github.com/agostaxyz/dotfiles) - Arch dotfiles and shell scripts for KDE Plasma and BSPWM.
-- [laurent85v/archuseriso](https://github.com/laurent85v/archuseriso) - Set of scripts for creating bootable disk images of Arch Linux and installing an Arch Linux system to an external USB disk or thumb drive.
+- [laurent85v/archuseriso](https://github.com/laurent85v/archuseriso) - Set of scripts for creating bootable disk images of Arch Linux and installing an Arch Linux system on an external USB disk or thumb drive.
 - [kennystrawnmusic/TriggerLinux](https://github.com/kennystrawnmusic/TriggerLinux) - Break the grip of censorship
 - [maximbaz/dotfiles](https://github.com/maximbaz/dotfiles) - Configuration for Arch Linux, Hyprland, kitty, kakoune, zsh and more + scripted installation guide
 - [paperwork/paperwork](https://github.com/paperwork/paperwork) - Paperwork - OpenSource note-taking & archiving alternative to Evernote, Microsoft OneNote & Google Keep
