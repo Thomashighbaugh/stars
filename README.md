@@ -799,7 +799,6 @@
 - [aminomancer/uc.css.js](https://github.com/aminomancer/uc.css.js) - A dark indigo CSS theme for Firefox and a large collection of privileged scripts to add new buttons, menus, and behaviors and eliminate nuisances. The theme is similar to other userChrome stylesheets,
 - [MrOtherGuy/fx-autoconfig](https://github.com/MrOtherGuy/fx-autoconfig) - Load custom javascript in browser context
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
-- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
 - [webpack/webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AM
 - [expressjs/express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
 - [chartjs/Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the &lt;canvas&gt; tag
@@ -2252,7 +2251,7 @@
 - [mikeroyal/Linux-Guide](https://github.com/mikeroyal/Linux-Guide) - Linux Guide. Learn about Linux Hardware vendors, Linux in the Cloud, Desktop Environments, Window Mangers, Linux Distributions, Linux Security, Graphics (AMD/NVIDIA/Intel ARC), and Software Apps.
 - [VentGrey/Epitaph](https://github.com/VentGrey/Epitaph) - Epitaph is a leftwm theme designed for prog-rock loving users transitioning from a DE to LeftWM.
 - [sharkdp/vivid](https://github.com/sharkdp/vivid) - A themeable LS_COLORS generator with a rich filetype datebase
-- [Start9Labs/embassy-os](https://github.com/Start9Labs/embassy-os) - Browser-based, graphical operating system for a personal server.
+- [Start9Labs/start-os](https://github.com/Start9Labs/start-os) - Browser-based, graphical operating system for a personal server.
 - [jamestthompson3/tendril-wiki](https://github.com/jamestthompson3/tendril-wiki) - Personal knowledge management tool
 - [foresterre/sic](https://github.com/foresterre/sic) - 🦜 Accessible image processing and conversion from the terminal. Front-end for image-rs/image.
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
@@ -2792,6 +2791,7 @@
 - [refinedev/refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints.
 - [notemarks/notemarks](https://github.com/notemarks/notemarks) - A git based labeling app to manage notes, documents, and bookmarks.
 - [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
+- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
 - [mvximenko/dunno](https://github.com/mvximenko/dunno) - Simplified version of IMDb built with React
 - [KaterinaLupacheva/my-projects-dashboard](https://github.com/KaterinaLupacheva/my-projects-dashboard) - Next.js, Material UI, MongoDB Personal Dashboard with dev.to, GitHub, Twitter, and npm API integration.
 - [darekkay/dashboard](https://github.com/darekkay/dashboard) - Customizable personal dashboard and startpage
