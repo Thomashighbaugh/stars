@@ -108,7 +108,7 @@
 - [Nooo37/pinsel](https://github.com/Nooo37/pinsel) - Minimal screenshot annotation tool with lua config
 - [ArtsyMacaw/wlogout](https://github.com/ArtsyMacaw/wlogout) - A wayland based logout menu
 - [jovanlanik/gtklock](https://github.com/jovanlanik/gtklock) - GTK-based lockscreen for Wayland
-- [mini-rose/rose](https://github.com/mini-rose/rose) - Minimalist browser based on webkit2.
+- [mini-rose/rose-browser](https://github.com/mini-rose/rose-browser) - Minimalist browser based on webkit2.
 - [dimaglushkov/dotfiles](https://github.com/dimaglushkov/dotfiles) - arch linux configs and scripts
 - [RogueMaster/flipperzero-firmware-wPlugins](https://github.com/RogueMaster/flipperzero-firmware-wPlugins) - RogueMaster Flipper Zero Firmware
 - [jcs/sdorfehs](https://github.com/jcs/sdorfehs) - A tiling window manager
