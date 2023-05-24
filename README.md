@@ -23,6 +23,7 @@
 - [Elixir](#elixir)
 - [Elm](#elm)
 - [Emacs Lisp](#emacs-lisp)
+- [F#](#f#)
 - [Fennel](#fennel)
 - [FreeMarker](#freemarker)
 - [Go](#go)
@@ -205,6 +206,7 @@
 
 ## C++ 
 
+- [vnotex/vnote](https://github.com/vnotex/vnote) - A pleasant note-taking platform.
 - [cp-algorithms/cp-algorithms](https://github.com/cp-algorithms/cp-algorithms) - Algorithm and data structure articles for https://cp-algorithms.com (based on http://e-maxx.ru)
 - [luabind/luabind](https://github.com/luabind/luabind) - 
 - [dasJ/spotifywm](https://github.com/dasJ/spotifywm) - Set Spotify's WM_NAME before opening the window
@@ -470,6 +472,10 @@
 - [syl20bnr/spacemacs](https://github.com/syl20bnr/spacemacs) - A community-driven Emacs distribution - The best editor is neither Emacs nor Vim,  it's Emacs *and* Vim!
 - [masasam/dotfiles](https://github.com/masasam/dotfiles) - My dotfiles based on Makefile
 
+## F# # 
+
+- [artempyanykh/marksman](https://github.com/artempyanykh/marksman) - Write Markdown with code assist and intelligence in the comfort of your favourite editor.
+
 ## Fennel 
 
 - [samueltwallace/awesomewm](https://github.com/samueltwallace/awesomewm) - awesomewm config in fennel
@@ -684,6 +690,9 @@
 
 ## JavaScript 
 
+- [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
+- [Laverna/laverna](https://github.com/Laverna/laverna) - Laverna is a JavaScript note taking application with Markdown editor and encryption support. Consider it like open source alternative to Evernote.
+- [zadam/trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
 - [dezgo-com/example-nodejs-simple](https://github.com/dezgo-com/example-nodejs-simple) - Minimal examples on how to use Dezgo's text2image / image2image / inpainting endpoints with NodeJS
 - [sunner/ChatALL](https://github.com/sunner/ChatALL) - Concurrently chat with ChatGPT, Bing Chat, bard, Alpaca, Vincuna, Claude, ChatGLM, MOSS, iFlytek Spark, ERNIE and more, discover the best answers
 - [GopalSaraf/Spotify_Crack_For_MacOS-Windows-Linux](https://github.com/GopalSaraf/Spotify_Crack_For_MacOS-Windows-Linux) - Spotify crack for MacOS, Windows and Linux
@@ -1073,6 +1082,7 @@
 
 ## Lua 
 
+- [Nooo37/glome](https://github.com/Nooo37/glome) - WIP
 - [2nthony/dotfiles](https://github.com/2nthony/dotfiles) - My personal dotfiles, neovim(typescript), fish, zellij, etc.
 - [folke/lazy.nvim](https://github.com/folke/lazy.nvim) - 💤 A modern plugin manager for Neovim
 - [MobSenpai/dotfiles](https://github.com/MobSenpai/dotfiles) - ❄ Configuration For The Best Declarative Linux Distro, NixOS!
@@ -1583,6 +1593,18 @@
 
 ## Nix 
 
+- [plmercereau/NixOS](https://github.com/plmercereau/NixOS) - NixOS config for servers in the field
+- [573/NixOS](https://github.com/573/NixOS) - MSF OCB NixOS config
+- [dawidd6/nix](https://github.com/dawidd6/nix) - :snowflake: NixOS and home-manager configurations
+- [chaotic-cx/nyx](https://github.com/chaotic-cx/nyx) - Flake-compatible Nixpkgs overlay for bleeding-edge and unreleased packages. The first child of Chaos. ❄️
+- [tensorush/My-NixOS-Flake](https://github.com/tensorush/My-NixOS-Flake) - :snowflake: My current NixOS configuration wrapped into a Nix Flake.
+- [nicekoishi/dotfiles](https://github.com/nicekoishi/dotfiles) - my NixOS dotfiles, do what you want
+- [pogobanane/dotfiles](https://github.com/pogobanane/dotfiles) - My dotfiles. Mostly NixOS config.
+- [Zumorica/GradientOS](https://github.com/Zumorica/GradientOS) - Flake for NixOS system configurations
+- [oddlama/nix-config](https://github.com/oddlama/nix-config) - ❄️ My nix config and dotfiles
+- [numtide/flake-utils](https://github.com/numtide/flake-utils) - Pure Nix flake utility functions
+- [fortuneteller2k/nix-config](https://github.com/fortuneteller2k/nix-config) - NixOS/nix-darwin configuration (also on WSL)
+- [rummik/nixos-config](https://github.com/rummik/nixos-config) - My NixOS/Nix-Darwin + home-manager configs
 - [nekowinston/dotfiles](https://github.com/nekowinston/dotfiles) - ❄️ mi casa es tu casa
 - [MatthiasBenaets/nixos-config](https://github.com/MatthiasBenaets/nixos-config) - My Personal Nix, NixOS and Nix-Darwin System Configuration Flake
 - [Ruixi-rebirth/flakes](https://github.com/Ruixi-rebirth/flakes) - My presonal NixOS config
@@ -2008,6 +2030,8 @@
 
 ## Python 
 
+- [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl) - Collect your thoughts and notes without leaving the command line.
+- [xyven1/nixos-configuration](https://github.com/xyven1/nixos-configuration) - 
 - [jbuchermn/newm](https://github.com/jbuchermn/newm) - Wayland compositor
 - [new92/IGFollowersIncreaser](https://github.com/new92/IGFollowersIncreaser) - Script for increasing the number of followers at an Instagram account
 - [EvilDrPorkChop/OpenSea-NFT-Creator](https://github.com/EvilDrPorkChop/OpenSea-NFT-Creator) - A collection of python scripts which help you programatically create PNGs or GIFs and their Metadata in bulk with custom rarity rates, upload them to OpenSea & list them for sale.
@@ -2347,6 +2371,7 @@
 
 ## Shell 
 
+- [WillPower3309/nixos-config](https://github.com/WillPower3309/nixos-config) - My personal nixos config
 - [erikarvstedt/extra-container](https://github.com/erikarvstedt/extra-container) - Run declarative NixOS containers without full system rebuilds
 - [hpb0412/dotfiles](https://github.com/hpb0412/dotfiles) - My dot files collection over the time
 - [Distroshare/distroshare-ubuntu-imager](https://github.com/Distroshare/distroshare-ubuntu-imager) - Creates an installable live CD from an installed Ubuntu or derivative distribution
@@ -2757,6 +2782,7 @@
 
 ## TypeScript 
 
+- [foambubble/foam](https://github.com/foambubble/foam) - A personal knowledge management and sharing system for VSCode
 - [joaosilvalopes/linkedin-easy-apply-bot](https://github.com/joaosilvalopes/linkedin-easy-apply-bot) - 
 - [rupali-codes/LinksHub](https://github.com/rupali-codes/LinksHub) - LinksHub aims to provide developers with access to a wide range of free resources and tools that they can use in their work. These resources include links to free software, libraries, frameworks, and 
 - [rafasegat/opensea-nft-react-gallery](https://github.com/rafasegat/opensea-nft-react-gallery) - OpenSea NFT Gallery with filtering, sorting and other features.
