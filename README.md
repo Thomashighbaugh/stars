@@ -1082,6 +1082,8 @@
 
 ## Lua 
 
+- [SoumyajitTech/AwesomeWM](https://github.com/SoumyajitTech/AwesomeWM) - This is my config for awesome window manager
+- [andOrlando/awesome-widgets](https://github.com/andOrlando/awesome-widgets) - A collection of a couple custom-made awesome widgets that (kinda) work in isolation so you can just grab
 - [Nooo37/glome](https://github.com/Nooo37/glome) - WIP
 - [2nthony/dotfiles](https://github.com/2nthony/dotfiles) - My personal dotfiles, neovim(typescript), fish, zellij, etc.
 - [folke/lazy.nvim](https://github.com/folke/lazy.nvim) - 💤 A modern plugin manager for Neovim
@@ -1102,7 +1104,7 @@
 - [Ramzi-B/awesome-brainwork](https://github.com/Ramzi-B/awesome-brainwork) - Awesome WM custom themes
 - [WillianPaiva/awesome-wm](https://github.com/WillianPaiva/awesome-wm) - 
 - [garado/cozy](https://github.com/garado/cozy) - a practical + productive setup
-- [mariv1k/policromia](https://github.com/mariv1k/policromia) - AwesomeWM dotfiles 🦜
+- [mariv1k/policromia](https://github.com/mariv1k/policromia) - Lightweight Aesthetic AwesomeWM Dotfiles 🦜
 - [JayJaySea/dotfiles](https://github.com/JayJaySea/dotfiles) - 
 - [jpreagan/nixos-config](https://github.com/jpreagan/nixos-config) - ❄ My system configuration files using NixOS, nix-darwin, and home-manager.
 - [kosorin/awesome-rice](https://github.com/kosorin/awesome-rice) - (Yet another) Config for Awesome window manager.
@@ -1593,6 +1595,10 @@
 
 ## Nix 
 
+- [bqv/rc](https://github.com/bqv/rc) - Structured system configuration (I moved from NixOS to GuixSD)
+- [srid/nixos-config](https://github.com/srid/nixos-config) - KISS NixOS configuration based on Flakes & flake-parts (supports macOS too)
+- [pantharshit00/nixos](https://github.com/pantharshit00/nixos) - Personal NixOS configuration using Nix Flakes and Nix Unstable 21.05
+- [dep-sys/nixos-zfs-installer](https://github.com/dep-sys/nixos-zfs-installer) - Install NixOS via kexec on hetzners hcloud - dedicated servers planned
 - [plmercereau/NixOS](https://github.com/plmercereau/NixOS) - NixOS config for servers in the field
 - [573/NixOS](https://github.com/573/NixOS) - MSF OCB NixOS config
 - [dawidd6/nix](https://github.com/dawidd6/nix) - :snowflake: NixOS and home-manager configurations
@@ -1745,6 +1751,7 @@
 
 ## Others 
 
+- [devclyde/awcooler](https://github.com/devclyde/awcooler) - 
 - [Maks-s/sd-akashic](https://github.com/Maks-s/sd-akashic) - A compendium of informations regarding Stable Diffusion (SD)
 - [kavun/free-vpn](https://github.com/kavun/free-vpn) - A list of free VPN services
 - [jesselau76/GPT-Prompts](https://github.com/jesselau76/GPT-Prompts) - Useful GPT Prompts
@@ -2030,6 +2037,7 @@
 
 ## Python 
 
+- [toolleeo/cli-apps](https://github.com/toolleeo/cli-apps) - The largest Awesome Curated list of CLI/TUI applications with source data organized into CSV files
 - [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl) - Collect your thoughts and notes without leaving the command line.
 - [xyven1/nixos-configuration](https://github.com/xyven1/nixos-configuration) - 
 - [jbuchermn/newm](https://github.com/jbuchermn/newm) - Wayland compositor
@@ -2290,6 +2298,8 @@
 
 ## Rust 
 
+- [zzhgithub/juner_os](https://github.com/zzhgithub/juner_os) - Rust developed OS based on blog_os Trying a repl environment running in kernel state lisp developed based on mal implementation
+- [rusty-ferris-club/backpack](https://github.com/rusty-ferris-club/backpack) - 🎒 CLI to create starters from repos + Templates 🤖 + Actions 🚀
 - [yaxitech/ragenix](https://github.com/yaxitech/ragenix) - age-encrypted secrets for NixOS; drop-in replacement for agenix
 - [astro/deadnix](https://github.com/astro/deadnix) - Scan Nix files for dead code
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
@@ -2371,6 +2381,8 @@
 
 ## Shell 
 
+- [benvonh/.flakes](https://github.com/benvonh/.flakes) - Nix flake config
+- [a-schaefers/themelios](https://github.com/a-schaefers/themelios) - Bootstrap a zfs-on-root NixOS configuration in one command. Themelios automates the entire installation process using any NixOS livedisk with an internet connection and your git repo. Themelios is fle
 - [WillPower3309/nixos-config](https://github.com/WillPower3309/nixos-config) - My personal nixos config
 - [erikarvstedt/extra-container](https://github.com/erikarvstedt/extra-container) - Run declarative NixOS containers without full system rebuilds
 - [hpb0412/dotfiles](https://github.com/hpb0412/dotfiles) - My dot files collection over the time
@@ -2415,7 +2427,7 @@
 - [CachyOS/CachyOS-Browser-Common](https://github.com/CachyOS/CachyOS-Browser-Common) - 
 - [ivan-hc/AM-Application-Manager](https://github.com/ivan-hc/AM-Application-Manager) - Install, update and manage AppImage packages and official standalone apps for GNU / Linux, with an ever-growing AUR-inspired database, scripts to manage AppImage builder tools and templates to create 
 - [metis-os/metis-sideload](https://github.com/metis-os/metis-sideload) - // Ofiicial installer for @metis-os
-- [metis-os/repo-recon](https://github.com/metis-os/repo-recon) - REPO: recon, Hacking tools gathered in one piece for @metis-os
+- [metis-os/repo-recon](https://github.com/metis-os/repo-recon) - 📦 Repository: recon, Hacking tools // pkgs
 - [Athena-OS/athena-iso](https://github.com/Athena-OS/athena-iso) - Athena is an Arch Linux-based distro focused on Cybersecurity. Learn, practice and enjoy with any hacking tool!
 - [archon-linux/archon-iso](https://github.com/archon-linux/archon-iso) - 
 - [SeveredinTwain/nemesis](https://github.com/SeveredinTwain/nemesis) - Custom Linux ISO Build
