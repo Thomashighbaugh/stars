@@ -354,7 +354,6 @@
 - [stonecrusher/simpleMenuWizard](https://github.com/stonecrusher/simpleMenuWizard) - Hide contextmenu items in Firefox Photon
 - [migueravila/SimpleFox](https://github.com/migueravila/SimpleFox) - 🦊 A Userstyle theme for Firefox minimalist and Keyboard centered.
 - [6gk/polka](https://github.com/6gk/polka) - 🐢 dotless files  (sponsored by https://git.io/kiwmi)
-- [archcraft-os/archcraft-os.github.io](https://github.com/archcraft-os/archcraft-os.github.io) - // Source : Website
 - [cacheiforindicium/dotfiles](https://github.com/cacheiforindicium/dotfiles) - SwayWM dotfiles
 - [iyzg/archived-dots](https://github.com/iyzg/archived-dots) - :large_blue_circle: The configs behind the eye candy
 - [Etesam913/slick-fox](https://github.com/Etesam913/slick-fox) - :fox_face: A firefox config that has rounded tabs and a url bar that can disappear when not selected on. It works with any theme.
@@ -632,6 +631,7 @@
 - [mavroudisv/plain-academic](https://github.com/mavroudisv/plain-academic) - A truly simple website template for academics
 - [randal-sean-harrison/academic-website-template-bs3](https://github.com/randal-sean-harrison/academic-website-template-bs3) - A simple template for an academic website using Bootstrap
 - [mayhemantt/Portfolio-Website](https://github.com/mayhemantt/Portfolio-Website) - Free to use portfolio website. Dont forget to start. Thank you.
+- [archcraft-os/archcraft-os.github.io](https://github.com/archcraft-os/archcraft-os.github.io) - // Source : Website
 - [visualjerk/vue-cion-design-system](https://github.com/visualjerk/vue-cion-design-system) - CION - Design system boilerplate for Vue.js
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [realdavidops/xcvb](https://github.com/realdavidops/xcvb) - a super simple start page.
@@ -1087,7 +1087,6 @@
 - [Nooo37/glome](https://github.com/Nooo37/glome) - WIP
 - [2nthony/dotfiles](https://github.com/2nthony/dotfiles) - My personal dotfiles, neovim(typescript), fish, zellij, etc.
 - [folke/lazy.nvim](https://github.com/folke/lazy.nvim) - 💤 A modern plugin manager for Neovim
-- [MobSenpai/dotfiles](https://github.com/MobSenpai/dotfiles) - ❄ Configuration For The Best Declarative Linux Distro, NixOS!
 - [cufta22/dotfiles](https://github.com/cufta22/dotfiles) - [AwesomeWM] Outer Wilds - change branch for old rices
 - [ormai/dotfiles](https://github.com/ormai/dotfiles) - ormai's dotfiles
 - [jcrd/awesome-ez](https://github.com/jcrd/awesome-ez) - AwesomeWM library for simplifying key and button binding definitions
@@ -1320,7 +1319,7 @@
 - [tdy/awesome](https://github.com/tdy/awesome) - Configs for awesomeWM
 - [hoelzro/obvious](https://github.com/hoelzro/obvious) - Widget library for the awesome window manager
 - [DanielFGray/dotfiles](https://github.com/DanielFGray/dotfiles) - personal repo of config files
-- [javacafe01/awesome](https://github.com/javacafe01/awesome) - configuration files for AwesomeWM
+- [javacafe01/awesome-config](https://github.com/javacafe01/awesome-config) - configuration files for AwesomeWM
 - [onsails/diaglist.nvim](https://github.com/onsails/diaglist.nvim) - Live render workspace diagnostics in quickfix with current buf errors on top, buffer diagnostics in loclist
 - [mickael-menu/zk-nvim](https://github.com/mickael-menu/zk-nvim) - Neovim extension for zk
 - [amirulmenjeni/dotfiles](https://github.com/amirulmenjeni/dotfiles) - My linux desktop config and theme files.
@@ -1595,6 +1594,12 @@
 
 ## Nix 
 
+- [NotAShelf/nyx](https://github.com/NotAShelf/nyx) - A shot at creating the ultimate NixOS configuration
+- [ncfavier/config](https://github.com/ncfavier/config) - My NixOS configurations
+- [foo-dogsquared/nixos-config](https://github.com/foo-dogsquared/nixos-config) - Aiming to be the most overkill NixOS config in the whole wide world.
+- [Kranzes/nix-config](https://github.com/Kranzes/nix-config) - Nix configurations
+- [mitchellh/nixos-config](https://github.com/mitchellh/nixos-config) - My NixOS configurations.
+- [hudcouto/nix-config](https://github.com/hudcouto/nix-config) - New dotfiles using NixOS + Home Manager + Flakes
 - [bqv/rc](https://github.com/bqv/rc) - Structured system configuration (I moved from NixOS to GuixSD)
 - [srid/nixos-config](https://github.com/srid/nixos-config) - KISS NixOS configuration based on Flakes & flake-parts (supports macOS too)
 - [pantharshit00/nixos](https://github.com/pantharshit00/nixos) - Personal NixOS configuration using Nix Flakes and Nix Unstable 21.05
@@ -1606,7 +1611,7 @@
 - [tensorush/My-NixOS-Flake](https://github.com/tensorush/My-NixOS-Flake) - :snowflake: My current NixOS configuration wrapped into a Nix Flake.
 - [nicekoishi/dotfiles](https://github.com/nicekoishi/dotfiles) - my NixOS dotfiles, do what you want
 - [pogobanane/dotfiles](https://github.com/pogobanane/dotfiles) - My dotfiles. Mostly NixOS config.
-- [Zumorica/GradientOS](https://github.com/Zumorica/GradientOS) - Flake for NixOS system configurations
+- [Zumorica/GradientOS](https://github.com/Zumorica/GradientOS) - Flake for multiple NixOS system configurations
 - [oddlama/nix-config](https://github.com/oddlama/nix-config) - ❄️ My nix config and dotfiles
 - [numtide/flake-utils](https://github.com/numtide/flake-utils) - Pure Nix flake utility functions
 - [fortuneteller2k/nix-config](https://github.com/fortuneteller2k/nix-config) - NixOS/nix-darwin configuration (also on WSL)
@@ -1619,10 +1624,10 @@
 - [myme/dotfiles](https://github.com/myme/dotfiles) - My collection of dotfiles
 - [etu/nixconfig](https://github.com/etu/nixconfig) - My NixOS config
 - [c0c0n3/nixie](https://github.com/c0c0n3/nixie) - Personal, micro distro built on NixOS
+- [MobSenpai/dotfiles](https://github.com/MobSenpai/dotfiles) - ❄ Configuration For The Best Declarative Linux Distro, NixOS!
 - [redcode-labs/RedNixOS](https://github.com/redcode-labs/RedNixOS) - NixOS-based 'distro' for cybersecurity enthusiasts
 - [kittywitch/infrastructure](https://github.com/kittywitch/infrastructure) - Personal infrastructure repository
 - [barrucadu/nixfiles](https://github.com/barrucadu/nixfiles) - My NixOS configuration and assorted other crap.
-- [javacafe01/nix-config](https://github.com/javacafe01/nix-config) - configuration files for Nix(OS)
 - [bbigras/nix-config](https://github.com/bbigras/nix-config) - My personal nix config
 - [tudurom/dotfiles](https://github.com/tudurom/dotfiles) - My small loan of configuration files and scripts - based on NixOS
 - [iAmMrinal0/nix-config](https://github.com/iAmMrinal0/nix-config) - Configuration and dotfiles used on NixOS with home-manager
@@ -2381,7 +2386,7 @@
 
 ## Shell 
 
-- [benvonh/.flakes](https://github.com/benvonh/.flakes) - Nix flake config
+- [benvonh/.flake](https://github.com/benvonh/.flake) - Nix flake configurations for NixOS and Home Manager
 - [a-schaefers/themelios](https://github.com/a-schaefers/themelios) - Bootstrap a zfs-on-root NixOS configuration in one command. Themelios automates the entire installation process using any NixOS livedisk with an internet connection and your git repo. Themelios is fle
 - [WillPower3309/nixos-config](https://github.com/WillPower3309/nixos-config) - My personal nixos config
 - [erikarvstedt/extra-container](https://github.com/erikarvstedt/extra-container) - Run declarative NixOS containers without full system rebuilds
