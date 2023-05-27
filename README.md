@@ -71,10 +71,10 @@
 - [TeX](#tex)
 - [Twig](#twig)
 - [TypeScript](#typescript)
-- [VBA](#vba)
 - [Vala](#vala)
 - [Vim Script](#vim-script)
 - [Vim Snippet](#vim-snippet)
+- [Visual Basic 6.0](#visual-basic-6.0)
 - [Vue](#vue)
 - [XSLT](#xslt)
 - [YAML](#yaml)
@@ -262,6 +262,7 @@
 
 ## CSS 
 
+- [rafaelmardojai/firefox-gnome-theme](https://github.com/rafaelmardojai/firefox-gnome-theme) - A GNOME👣 theme for Firefox🔥
 - [Darkkal44/Cozytile](https://github.com/Darkkal44/Cozytile) - A Cozy rice ❃
 - [Thomashighbaugh/gpt_notebook](https://github.com/Thomashighbaugh/gpt_notebook) - Notes from my exploration of the manifold possibilities enabled by ChatGPT and LLMs as part of my learning Prompt Engineering and its underlying technologies
 - [MatthewCash/firefox-mods](https://github.com/MatthewCash/firefox-mods) - Firefox CSS and JS Mods
@@ -1594,6 +1595,7 @@
 
 ## Nix 
 
+- [dmadisetti/.dots](https://github.com/dmadisetti/.dots) - just my .dotfiles
 - [NotAShelf/nyx](https://github.com/NotAShelf/nyx) - A shot at creating the ultimate NixOS configuration
 - [ncfavier/config](https://github.com/ncfavier/config) - My NixOS configurations
 - [foo-dogsquared/nixos-config](https://github.com/foo-dogsquared/nixos-config) - Aiming to be the most overkill NixOS config in the whole wide world.
@@ -1652,7 +1654,6 @@
 - [johnae/world](https://github.com/johnae/world) - NixOS configuration
 - [rasendubi/dotfiles](https://github.com/rasendubi/dotfiles) - My dotfiles
 - [Jomik/dotfiles](https://github.com/Jomik/dotfiles) - Repository for my dotfiles
-- [con-f-use/dotfiles](https://github.com/con-f-use/dotfiles) - My NixOS dotfiles
 - [rszamszur/nixos-config](https://github.com/rszamszur/nixos-config) - My nixos configuration
 - [rapgru/nixos-config](https://github.com/rapgru/nixos-config) - 
 - [ymatsiuk/nixos-config](https://github.com/ymatsiuk/nixos-config) - Dell XPS 13 NixOS and home-manager configuration
@@ -2116,7 +2117,7 @@
 - [eventuallyc0nsistent/gen-cover-letter](https://github.com/eventuallyc0nsistent/gen-cover-letter) - Generating cover letters is easy as writing to a CSV file and a sample cover letter.
 - [archivy/archivy](https://github.com/archivy/archivy) - Archivy is a self-hostable knowledge repository that allows you to learn and retain information in your own personal and extensible wiki.
 - [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / TypeScript / Python / C# / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
 - [audibleblink/doxycannon](https://github.com/audibleblink/doxycannon) - A poorman's proxycannon and botnet, using docker, ovpn files, tor nodes, and dante socks5 proxies
 - [KCarretto/Arsenal](https://github.com/KCarretto/Arsenal) - Extensible Red Team Framework
 - [Tmpertor/Raven-Storm](https://github.com/Tmpertor/Raven-Storm) - Raven-Storm is a powerful DDoS toolkit for penetration tests, including attacks for several protocols written in python. Takedown many connections using several exotic and classic protocols.
@@ -2956,10 +2957,6 @@
 - [akveo/eva-icons](https://github.com/akveo/eva-icons) - A pack of more than 480 beautifully crafted Open Source icons. SVG, Sketch, Web Font and Animations support.
 - [streamich/libreact](https://github.com/streamich/libreact) - Collection of useful React components
 
-## VBA 
-
-- [dragokas/hijackthis](https://github.com/dragokas/hijackthis) - A free utility that finds malware, adware and other security threats
-
 ## Vala 
 
 - [BlankOn/manokwari](https://github.com/BlankOn/manokwari) - Manokwari desktop shell for GNOME 3
@@ -3011,6 +3008,10 @@
 ## Vim Snippet 
 
 - [sahasatvik/dotfiles](https://github.com/sahasatvik/dotfiles) - My configuration and theme files
+
+## Visual Basic 6.0 
+
+- [dragokas/hijackthis](https://github.com/dragokas/hijackthis) - A free utility that finds malware, adware and other security threats
 
 ## Vue 
 
