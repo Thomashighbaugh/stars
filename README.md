@@ -1321,7 +1321,6 @@
 - [tdy/awesome](https://github.com/tdy/awesome) - Configs for awesomeWM
 - [hoelzro/obvious](https://github.com/hoelzro/obvious) - Widget library for the awesome window manager
 - [DanielFGray/dotfiles](https://github.com/DanielFGray/dotfiles) - personal repo of config files
-- [javacafe01/awesome-config](https://github.com/javacafe01/awesome-config) - configuration files for AwesomeWM
 - [onsails/diaglist.nvim](https://github.com/onsails/diaglist.nvim) - Live render workspace diagnostics in quickfix with current buf errors on top, buffer diagnostics in loclist
 - [mickael-menu/zk-nvim](https://github.com/mickael-menu/zk-nvim) - Neovim extension for zk
 - [amirulmenjeni/dotfiles](https://github.com/amirulmenjeni/dotfiles) - My linux desktop config and theme files.
@@ -1596,6 +1595,8 @@
 
 ## Nix 
 
+- [srid/rust-nix-template](https://github.com/srid/rust-nix-template) - Rust project template with Nix (Flakes) and VSCode support
+- [juliosueiras-nix/nix-security](https://github.com/juliosueiras-nix/nix-security) - Nix/NixOS security tool collections
 - [frogamic/nix-machines](https://github.com/frogamic/nix-machines) - 
 - [justinrubek/nixos-configs](https://github.com/justinrubek/nixos-configs) - My 'dotfiles'. A collection of nixos configurations and other declarative infrastructure for my personal computing infrastructure
 - [dmadisetti/.dots](https://github.com/dmadisetti/.dots) - just my .dotfiles
@@ -2392,6 +2393,7 @@
 
 ## Shell 
 
+- [jacg/nix-starters](https://github.com/jacg/nix-starters) - Templates for getting started with Nix: home-manager, Rust projects, Python projects, C++ projects, etc.
 - [benvonh/.flake](https://github.com/benvonh/.flake) - Nix flake configurations for NixOS and Home Manager
 - [a-schaefers/themelios](https://github.com/a-schaefers/themelios) - Bootstrap a zfs-on-root NixOS configuration in one command. Themelios automates the entire installation process using any NixOS livedisk with an internet connection and your git repo. Themelios is fle
 - [WillPower3309/nixos-config](https://github.com/WillPower3309/nixos-config) - My personal nixos config
