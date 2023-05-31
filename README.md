@@ -824,7 +824,7 @@
 - [AVS1508/AVS1508.github.io](https://github.com/AVS1508/AVS1508.github.io) - Personal Résumé Website developed using ReactJS and Bootstrap and hosted on Github Pages. Displays my web presence, story, work experience, education, projects, achievements, and contact information.
 - [nextapps-de/winbox](https://github.com/nextapps-de/winbox) - WinBox is a modern HTML5 window manager for the web: lightweight, outstanding performance, no dependencies, fully customizable, open source!
 - [abhishekbhardwaj/tailwind-react-next.js-typescript-eslint-jest-starter](https://github.com/abhishekbhardwaj/tailwind-react-next.js-typescript-eslint-jest-starter) - Starter template for building a project using React, Typescript, Next.js, Jest, TailwindCSS and ESLint.
-- [vivek9patel/vivek9patel.github.io](https://github.com/vivek9patel/vivek9patel.github.io) - Personal portfolio website of theme Ubuntu 20.04, made using NEXT.js & tailwind CSS
+- [vivek9patel/vivek9patel.github.io](https://github.com/vivek9patel/vivek9patel.github.io) - Personal portfolio website simulating Ubuntu 20.04, made using NEXT.js & tailwind CSS
 - [feiruo/userChromeJS](https://github.com/feiruo/userChromeJS) - Firefox userChromeJS
 - [luismoralesarg/EnterTheMatrix](https://github.com/luismoralesarg/EnterTheMatrix) - The most faithful version of the Matrix rain.
 - [interactivethings/catalog](https://github.com/interactivethings/catalog) - Create living style guides using Markdown or React
@@ -1084,6 +1084,8 @@
 
 ## Lua 
 
+- [eylles/dash-widgets](https://github.com/eylles/dash-widgets) - widgets for awesomewm
+- [theCode-Breaker/awesome-dots](https://github.com/theCode-Breaker/awesome-dots) - awesomewm
 - [Sanatana-Linux/nixos-awesomewm](https://github.com/Sanatana-Linux/nixos-awesomewm) - submodule of my nixos configuration containing my awesomewm configuration
 - [SoumyajitTech/AwesomeWM](https://github.com/SoumyajitTech/AwesomeWM) - This is my config for awesome window manager
 - [andOrlando/awesome-widgets](https://github.com/andOrlando/awesome-widgets) - A collection of a couple custom-made awesome widgets that (kinda) work in isolation so you can just grab
@@ -1701,7 +1703,7 @@
 - [wiltaylor/nix-iso](https://github.com/wiltaylor/nix-iso) - My collection of custom NixOS ISO files.
 - [LongerHV/nixos-configuration](https://github.com/LongerHV/nixos-configuration) - 
 - [cleverca22/not-os](https://github.com/cleverca22/not-os) - An operating system generator, based on NixOS, that, given a config, outputs a small (47 MB), read-only squashfs for a runit-based operating system, with support for iPXE and signed boot.
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
 - [montchr/dotfield](https://github.com/montchr/dotfield) - All I see is little dots – some are smeared, and some are spots.
 - [jtojnar/nixfiles](https://github.com/jtojnar/nixfiles) - Nix configuration for the machines I manage.
 - [balsoft/nixos-config](https://github.com/balsoft/nixos-config) - Mirror of https://code.balsoft.ru/balsoft/nixos-config
@@ -2624,7 +2626,7 @@
 - [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
 - [bats-core/bats-core](https://github.com/bats-core/bats-core) - Bash Automated Testing System
 - [kubernetes/examples](https://github.com/kubernetes/examples) - Kubernetes application example tutorials
-- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful personal/home server OS for self-hosting with an app store. Install on a Raspberry Pi 4, any Ubuntu/Debian system, or a VPS.
+- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful personal/home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi 4, any Ubuntu/Debian system, or a VPS.
 - [kaldi-asr/kaldi](https://github.com/kaldi-asr/kaldi) - kaldi-asr/kaldi is the official location of the Kaldi project.
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [holman/dotfiles](https://github.com/holman/dotfiles) - @holman does dotfiles
@@ -2922,7 +2924,7 @@
 - [vercel/commerce](https://github.com/vercel/commerce) - Next.js Commerce
 - [karlitos/KissMyResume](https://github.com/karlitos/KissMyResume) - Generate polished résumés and CVs in HTML, PDF,  MS Word and other formats and Keep It Simple.
 - [microsoft/fluentui](https://github.com/microsoft/fluentui) - Fluent UI web represents a collection of utilities, React components, and web components for building web applications.
-- [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer
+- [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer. ⭐️ Star to support our work!
 - [hamlim/blog](https://github.com/hamlim/blog) - My personal website and blog!
 - [FelixTellmann/FelixTellmann.com](https://github.com/FelixTellmann/FelixTellmann.com) - Personal portfolio website. Build with React, NextJs, scss, custom hooks, typescript. Deployed on Vercel.
 - [contentkit/contentkit](https://github.com/contentkit/contentkit) - ContentKit is a headless markdown-based CMS with version control.
