@@ -1085,7 +1085,6 @@
 ## Lua 
 
 - [eylles/dash-widgets](https://github.com/eylles/dash-widgets) - widgets for awesomewm
-- [theCode-Breaker/awesome-dots](https://github.com/theCode-Breaker/awesome-dots) - awesomewm
 - [Sanatana-Linux/nixos-awesomewm](https://github.com/Sanatana-Linux/nixos-awesomewm) - submodule of my nixos configuration containing my awesomewm configuration
 - [SoumyajitTech/AwesomeWM](https://github.com/SoumyajitTech/AwesomeWM) - This is my config for awesome window manager
 - [andOrlando/awesome-widgets](https://github.com/andOrlando/awesome-widgets) - A collection of a couple custom-made awesome widgets that (kinda) work in isolation so you can just grab
@@ -1599,6 +1598,7 @@
 
 ## Nix 
 
+- [aruZeta/Dotfiles.nix](https://github.com/aruZeta/Dotfiles.nix) - My reproducible system config made with nix
 - [srid/rust-nix-template](https://github.com/srid/rust-nix-template) - Rust project template with Nix (Flakes) and VSCode support
 - [juliosueiras-nix/nix-security](https://github.com/juliosueiras-nix/nix-security) - Nix/NixOS security tool collections
 - [frogamic/nix-machines](https://github.com/frogamic/nix-machines) - 
