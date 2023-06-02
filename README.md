@@ -508,7 +508,7 @@
 - [caarlos0/fork-cleaner](https://github.com/caarlos0/fork-cleaner) - Quickly clean up unused forks on your github account.
 - [muesli/beehive](https://github.com/muesli/beehive) - A flexible event/agent & automation system with lots of bees 🐝
 - [athul/shelby](https://github.com/athul/shelby) - Shelby is a fast ⚡️ , lightweight ☁️ , minimal✨,  shell prompt written in Go.
-- [xyproto/algernon](https://github.com/xyproto/algernon) - :tophat: Small self-contained pure-Go web server with Lua, Markdown, HTTP/2, QUIC, Redis and PostgreSQL support
+- [xyproto/algernon](https://github.com/xyproto/algernon) - Small self-contained pure-Go web server with Lua, Markdown, HTTP/2, QUIC, Redis and PostgreSQL support
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [jboursiquot/portscan](https://github.com/jboursiquot/portscan) - Port scanning examples to teach Go concurrency bounding
 - [OJ/gobuster](https://github.com/OJ/gobuster) - Directory/File, DNS and VHost busting tool written in Go
@@ -1084,6 +1084,8 @@
 
 ## Lua 
 
+- [brucewayne260/my-awesomewm-dotfiles](https://github.com/brucewayne260/my-awesomewm-dotfiles) - This is my personal awesome config
+- [demingongo/awesomewm-dotfiles](https://github.com/demingongo/awesomewm-dotfiles) - My awesome wm config
 - [eylles/dash-widgets](https://github.com/eylles/dash-widgets) - widgets for awesomewm
 - [Sanatana-Linux/nixos-awesomewm](https://github.com/Sanatana-Linux/nixos-awesomewm) - submodule of my nixos configuration containing my awesomewm configuration
 - [SoumyajitTech/AwesomeWM](https://github.com/SoumyajitTech/AwesomeWM) - This is my config for awesome window manager
@@ -1658,7 +1660,6 @@
 - [nixified-ai/flake](https://github.com/nixified-ai/flake) - A Nix flake for many AI projects
 - [colemickens/stable-diffusion-flake](https://github.com/colemickens/stable-diffusion-flake) - 
 - [gbtb/nix-stable-diffusion](https://github.com/gbtb/nix-stable-diffusion) - Flake for running SD on NixOS
-- [kalbasit/soxincfg](https://github.com/kalbasit/soxincfg) - Soxin configuration
 - [johnae/world](https://github.com/johnae/world) - NixOS configuration
 - [rasendubi/dotfiles](https://github.com/rasendubi/dotfiles) - My dotfiles
 - [Jomik/dotfiles](https://github.com/Jomik/dotfiles) - Repository for my dotfiles
@@ -1765,6 +1766,7 @@
 
 ## Others 
 
+- [Amitabha37377/Awesome_maui](https://github.com/Amitabha37377/Awesome_maui) - Attempt to clone maui shell using awesome api
 - [brexhq/prompt-engineering](https://github.com/brexhq/prompt-engineering) - Tips and tricks for working with Large Language Models like OpenAI's GPT-4.
 - [devclyde/awcooler](https://github.com/devclyde/awcooler) - 
 - [Maks-s/sd-akashic](https://github.com/Maks-s/sd-akashic) - A compendium of informations regarding Stable Diffusion (SD)
@@ -2072,6 +2074,7 @@
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - decentralising the Ai Industry, just some language model api's...
 - [MarcVillain/EmailGenerator](https://github.com/MarcVillain/EmailGenerator) - Generate random emails with ease.
 - [paulpierre/informer](https://github.com/paulpierre/informer) - A Telegram Mass Surveillance Bot in Python
+- [kalbasit/soxincfg](https://github.com/kalbasit/soxincfg) - Soxin configuration
 - [promptslab/Promptify](https://github.com/promptslab/Promptify) - Prompt Engineering | Use GPT or other prompt based models to get structured output. Join our discord for Prompt-Engineering, LLMs and other latest research
 - [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API
 - [promptslab/Awesome-Prompt-Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) - This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM etc
