@@ -583,7 +583,6 @@
 - [leemunroe/responsive-html-email-template](https://github.com/leemunroe/responsive-html-email-template) - A free simple responsive HTML email template
 - [adevade/color-scheme-generator](https://github.com/adevade/color-scheme-generator) - When you just need some UI colors, fast.
 - [parikshit223933/Coding-Ninjas-Full-Stack-Web-Development](https://github.com/parikshit223933/Coding-Ninjas-Full-Stack-Web-Development) - It contains all the files I created during the MERN full stack web development course with coding ninjas
-- [mozilla/policy-templates](https://github.com/mozilla/policy-templates) - Policy Templates for Firefox
 - [henrylawson/photish-montage](https://github.com/henrylawson/photish-montage) - A demo site of Photish
 - [wangzhe3224/awesome-systematic-trading](https://github.com/wangzhe3224/awesome-systematic-trading) - A curated list of insanely awesome libraries, packages and resources for systematic trading. Crypto, Stock, Futures, Options, CFDs, FX, and more | 量化交易 | 量化投资
 - [themagicalmammal/dotfiles](https://github.com/themagicalmammal/dotfiles) - @themagicalmammal does dotfiles
@@ -1815,6 +1814,7 @@
 - [brootware/awesome-cyber-security-university](https://github.com/brootware/awesome-cyber-security-university) - 🎓 Because Education should be free. Contributions welcome! 🕵️
 - [kbariotis/templates](https://github.com/kbariotis/templates) - A set of standard document templates.
 - [Jacksaur/Gorgeous-GRUB](https://github.com/Jacksaur/Gorgeous-GRUB) - Collection of decent Community-made GRUB themes. Contributions welcome!
+- [mozilla/policy-templates](https://github.com/mozilla/policy-templates) - Policy Templates for Firefox
 - [Zeyad-Azima/Offensive-Resources](https://github.com/Zeyad-Azima/Offensive-Resources) - A Huge Learning Resources with Labs For Offensive Security Players
 - [Correia-jpv/fucking-awesome](https://github.com/Correia-jpv/fucking-awesome) - 😎 Awesome lists about all kinds of interesting topics. With repository stars⭐ and forks🍴
 - [Correia-jpv/fucking-Awesome-Hacking](https://github.com/Correia-jpv/fucking-Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers. With repository stars⭐ and forks🍴
@@ -2061,6 +2061,7 @@
 
 ## Python 
 
+- [kevinjalbert/notion-toolbox](https://github.com/kevinjalbert/notion-toolbox) - This is a collection of Notion tools that work in tandem together.
 - [Sxp-ID/Spam-Call](https://github.com/Sxp-ID/Spam-Call) - New Script Spam Call 2022 - 2023
 - [toolleeo/cli-apps](https://github.com/toolleeo/cli-apps) - The largest Awesome Curated list of CLI/TUI applications with source data organized into CSV files
 - [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl) - Collect your thoughts and notes without leaving the command line.
@@ -2883,7 +2884,7 @@
 - [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
 - [Bismuth-Forge/bismuth](https://github.com/Bismuth-Forge/bismuth) - KDE Plasma add-on, that tiles your windows automatically and lets you manage them via keyboard, similarly to i3, Sway or dwm.
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
-- [refinedev/refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints.
+- [refinedev/refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints. 🌟 Star to support our work!
 - [notemarks/notemarks](https://github.com/notemarks/notemarks) - A git based labeling app to manage notes, documents, and bookmarks.
 - [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
 - [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
