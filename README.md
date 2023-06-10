@@ -1256,7 +1256,7 @@
 - [troglobit/awesome-switcher](https://github.com/troglobit/awesome-switcher) - Familiar Alt-Tab functionality in Awesome WM (3.5.5)
 - [Savecoders/dotfiles](https://github.com/Savecoders/dotfiles) - My dofiles in AwesomeWM
 - [jcrd/awesome-config](https://github.com/jcrd/awesome-config) - AwesomeWM config
-- [HeavyRain266/awesome](https://github.com/HeavyRain266/awesome) - Are we wayland yet?
+- [heavyrain266/awesome](https://github.com/heavyrain266/awesome) - Are we wayland yet?
 - [AhmedSaadi0/MyAwesomeConfig](https://github.com/AhmedSaadi0/MyAwesomeConfig) - 
 - [sebth/awesome-overlap](https://github.com/sebth/awesome-overlap) - Overlapping tiling layout for awesome window manager
 - [nwdamgaard/awesomewm-app-drawer](https://github.com/nwdamgaard/awesomewm-app-drawer) - A minimal .desktop launcher for Awesome Window Manager
@@ -1614,7 +1614,7 @@
 - [dmadisetti/.dots](https://github.com/dmadisetti/.dots) - just my .dotfiles
 - [NotAShelf/nyx](https://github.com/NotAShelf/nyx) - A shot at creating the ultimate NixOS configuration
 - [ncfavier/config](https://github.com/ncfavier/config) - My NixOS configurations
-- [foo-dogsquared/nixos-config](https://github.com/foo-dogsquared/nixos-config) - Aiming to be the most overkill NixOS config in the whole wide world.
+- [foo-dogsquared/nixos-config](https://github.com/foo-dogsquared/nixos-config) - World's weakest NixOS user's system configuration.
 - [Kranzes/nix-config](https://github.com/Kranzes/nix-config) - Nix configurations
 - [mitchellh/nixos-config](https://github.com/mitchellh/nixos-config) - My NixOS configurations.
 - [hudcouto/nix-config](https://github.com/hudcouto/nix-config) - New dotfiles using NixOS + Home Manager + Flakes
@@ -2106,7 +2106,7 @@
 - [opsdisk/pagodo](https://github.com/opsdisk/pagodo) - pagodo (Passive Google Dork) - Automate Google Hacking Database scraping and searching
 - [kieran-mackle/AutoTrader](https://github.com/kieran-mackle/AutoTrader) - A Python-based development platform for automated trading systems - from backtesting to optimisation to livetrading.
 - [ivopetiz/algotrading](https://github.com/ivopetiz/algotrading) - Algorithmic trading framework for cryptocurrencies.
-- [Drakkar-Software/OctoBot](https://github.com/Drakkar-Software/OctoBot) - Cryptocurrency trading bot using technical analysis based strategy with an advanced web interface
+- [Drakkar-Software/OctoBot](https://github.com/Drakkar-Software/OctoBot) - Open source crypto trading bot
 - [jesse-ai/jesse](https://github.com/jesse-ai/jesse) - An advanced crypto trading bot written in Python
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
 - [kovidgoyal/kitty-themes](https://github.com/kovidgoyal/kitty-themes) - Themes for the kitty terminal emulator
