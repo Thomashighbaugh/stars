@@ -698,7 +698,7 @@
 - [Laverna/laverna](https://github.com/Laverna/laverna) - Laverna is a JavaScript note taking application with Markdown editor and encryption support. Consider it like open source alternative to Evernote.
 - [zadam/trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
 - [dezgo-com/example-nodejs-simple](https://github.com/dezgo-com/example-nodejs-simple) - Minimal examples on how to use Dezgo's text2image / image2image / inpainting endpoints with NodeJS
-- [sunner/ChatALL](https://github.com/sunner/ChatALL) - Concurrently chat with ChatGPT, Bing Chat, bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, iFlytek Spark, ERNIE and more, discover the best answers
+- [sunner/ChatALL](https://github.com/sunner/ChatALL) - Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers
 - [GopalSaraf/Spotify_Crack_For_MacOS-Windows-Linux](https://github.com/GopalSaraf/Spotify_Crack_For_MacOS-Windows-Linux) - Spotify crack for MacOS, Windows and Linux
 - [neptunian/react-photo-gallery](https://github.com/neptunian/react-photo-gallery) - React Photo Gallery
 - [TomorrowWontExist/FullstackMassiveNFTDevelopment](https://github.com/TomorrowWontExist/FullstackMassiveNFTDevelopment) - Instructional Walkthrough video of how to create and launch your own 10k NFT collection without any Coding or Crypto knowledge.
@@ -1858,7 +1858,7 @@
 - [dair-ai/ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses) - 📺 Discover the latest machine learning / AI courses on YouTube.
 - [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
 - [RistBS/Awesome-RedTeam-Cheatsheet](https://github.com/RistBS/Awesome-RedTeam-Cheatsheet) - Red Team Cheatsheet in constant expansion.
-- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2022
+- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2023
 - [arete/docker-latex](https://github.com/arete/docker-latex) - docker latex image based on glibc voidlinux
 - [SethStormR/Winter](https://github.com/SethStormR/Winter) - Winter icon set is based on WhiteSur, Bloom and Papirus icon set. Autumn is aimed for Deepin DE and elementary OS.
 - [im-yuria/My-Wallpapers](https://github.com/im-yuria/My-Wallpapers) - my wallpaper collection
@@ -2824,6 +2824,7 @@
 
 ## TypeScript 
 
+- [WorldBrain/Memex](https://github.com/WorldBrain/Memex) - Browser extension to curate, annotate, and discuss the most valuable content and ideas on the web. As individuals, teams and communities.
 - [foambubble/foam](https://github.com/foambubble/foam) - A personal knowledge management and sharing system for VSCode
 - [joaosilvalopes/linkedin-easy-apply-bot](https://github.com/joaosilvalopes/linkedin-easy-apply-bot) - 
 - [rupali-codes/LinksHub](https://github.com/rupali-codes/LinksHub) - LinksHub aims to provide developers with access to a wide range of free resources and tools that they can use in their work. These resources include links to free software, libraries, frameworks, and 
