@@ -1090,6 +1090,8 @@
 
 ## Lua 
 
+- [albel727/awesomewm_gnome_menu](https://github.com/albel727/awesomewm_gnome_menu) - Yet another Freedesktop Menu library for Awesome WM
+- [bluzukk/dotfiles](https://github.com/bluzukk/dotfiles) - rice rice rice
 - [GoodBoyNeon/dotfiles](https://github.com/GoodBoyNeon/dotfiles) - My configuration for Arch Linux.
 - [brucewayne260/my-awesomewm-dotfiles](https://github.com/brucewayne260/my-awesomewm-dotfiles) - This is my personal awesome config
 - [demingongo/awesomewm-dotfiles](https://github.com/demingongo/awesomewm-dotfiles) - My awesome wm config
@@ -1183,6 +1185,7 @@
 - [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal nvim configuration
 - [jcrd/awesome-dovetail](https://github.com/jcrd/awesome-dovetail) - AwesomeWM layout featuring two visible tiled clients
 - [jcrd/awesome-launch](https://github.com/jcrd/awesome-launch) - AwesomeWM library for launching clients with single instance IDs
+- [metis-os/Releases](https://github.com/metis-os/Releases) - 🐧☄️  source code and iso of metis linux
 - [Aproxia-dev/.dotfiles](https://github.com/Aproxia-dev/.dotfiles) - 🌸   𝘼𝙞𝙣'𝙩 𝙣𝙤 𝙥𝙡𝙖𝙘𝙚 𝙡𝙞𝙠𝙚 ~/   🏡
 - [penguin-fyi/awesome-config](https://github.com/penguin-fyi/awesome-config) - Source files for penguin-desktop-awesome
 - [VonHeikemen/dotfiles](https://github.com/VonHeikemen/dotfiles) - 
@@ -2445,7 +2448,7 @@
 - [Alfheim-Software-Initiative/alfheim_script](https://github.com/Alfheim-Software-Initiative/alfheim_script) - This is the script used to build Alfheim Linux, an Arch based Linux Operating System.
 - [raspi-alpine/builder](https://github.com/raspi-alpine/builder) - Mirror of Raspberry PI Alpine Linux Image Builder
 - [alpinelinux/alpine-make-rootfs](https://github.com/alpinelinux/alpine-make-rootfs) - Make customized Alpine Linux rootfs (base image) for containers
-- [1N3/Sn1per](https://github.com/1N3/Sn1per) - Attack Surface Management Platform | Sn1perSecurity LLC
+- [1N3/Sn1per](https://github.com/1N3/Sn1per) - Automated Pentest Recon Scanner & Attack Surface Management Platform | Sn1per
 - [docker-library/official-images](https://github.com/docker-library/official-images) - Primary source of truth for the Docker "Official Images" program
 - [offa/android-foss](https://github.com/offa/android-foss) - A list of Free and Open Source Software (FOSS) for Android – saving Freedom and Privacy.
 - [8483/notes](https://github.com/8483/notes) - Full-stack web development notes.
@@ -2475,7 +2478,6 @@
 - [gavinlyonsrepo/cylon](https://github.com/gavinlyonsrepo/cylon) - A Terminal user interface for maintaining an Arch Linux distribution.
 - [xchwarze/wifi-pineapple-cloner](https://github.com/xchwarze/wifi-pineapple-cloner) - Clone WiFi Pineapple NANO/TETRA in generic hardware
 - [ideas-man/artix-wizard](https://github.com/ideas-man/artix-wizard) - A collection of install/setup/configuration scripts for quick and painless workstation/server environment deployment under Artix Linux.
-- [metis-os/metis-iso](https://github.com/metis-os/metis-iso) - 🐧☄️  source code and iso of metis linux
 - [alvatip/Nordzy-icon](https://github.com/alvatip/Nordzy-icon) - Nordzy is a free and open source icon theme for Linux desktops using the Nord color palette from Arctic Ice Studio and based on WhiteSur and Numix Icon Theme.
 - [lsfratel/simple-artix-custom-iso-builder](https://github.com/lsfratel/simple-artix-custom-iso-builder) - A simple artix custom iso builder with config file
 - [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - I am using this repository to document my journey learning about DevOps. I began this process on January 1, 2022, and plan to continue until March 31. I will be dedicating one hour each day, including
