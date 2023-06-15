@@ -461,7 +461,6 @@
 
 - [shtwzrd/friar](https://github.com/shtwzrd/friar) - Emacs REPL for interacting with AwesomeWM
 - [willbush/system](https://github.com/willbush/system) - The system configuration of a professional yak shaver
-- [nuxshed/dotfiles](https://github.com/nuxshed/dotfiles) - pls help
 - [russmatney/dotfiles](https://github.com/russmatney/dotfiles) - Doom Emacs, a few-years old vim config, tmux, i3, zsh, polybar
 - [meain/dotfiles](https://github.com/meain/dotfiles) - If there is a shell, there is a way!
 - [BasicWolf/dotrc](https://github.com/BasicWolf/dotrc) - My Emacs, AwesomeWM, zsh, git and other configurations
@@ -696,6 +695,7 @@
 
 ## JavaScript 
 
+- [Sanatana-Linux/mahakali-webkit2-theme](https://github.com/Sanatana-Linux/mahakali-webkit2-theme) - A LightDM Webkit 2 Greeter Theme for the Electric Tantra Linux
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 - [Laverna/laverna](https://github.com/Laverna/laverna) - Laverna is a JavaScript note taking application with Markdown editor and encryption support. Consider it like open source alternative to Evernote.
 - [zadam/trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
@@ -1276,6 +1276,7 @@
 - [meriadec/awesome-efficient](https://github.com/meriadec/awesome-efficient) - Awesome WM 4 theme - Focused on elegance, minimalism & productivity
 - [intpl/awesome](https://github.com/intpl/awesome) - config dotfiles for AwesomeWM
 - [mhmoooods/turbo-awesome](https://github.com/mhmoooods/turbo-awesome) - AwesomeWM dotfiles
+- [nuxshed/dotfiles](https://github.com/nuxshed/dotfiles) - pls help
 - [Kasper24/KwesomeDE](https://github.com/Kasper24/KwesomeDE) - A desktop environment made in AwesomeWM
 - [javacafe01/awesome-wallpaper](https://github.com/javacafe01/awesome-wallpaper) - 
 - [rochacbruno/dotfiles](https://github.com/rochacbruno/dotfiles) - My Environment Configurations
@@ -1609,6 +1610,7 @@
 
 ## Nix 
 
+- [luftmensch-luftmensch/nix-config](https://github.com/luftmensch-luftmensch/nix-config) - NixOS Configuration
 - [thaenalpha/dotfiles](https://github.com/thaenalpha/dotfiles) - And I say hey, what's going on?
 - [hercules-ci/flake-parts](https://github.com/hercules-ci/flake-parts) - ❄️ Simplify Nix Flakes with the module system
 - [legendofmiracles/dotnix](https://github.com/legendofmiracles/dotnix) - nix stuff
@@ -2448,7 +2450,7 @@
 - [Alfheim-Software-Initiative/alfheim_script](https://github.com/Alfheim-Software-Initiative/alfheim_script) - This is the script used to build Alfheim Linux, an Arch based Linux Operating System.
 - [raspi-alpine/builder](https://github.com/raspi-alpine/builder) - Mirror of Raspberry PI Alpine Linux Image Builder
 - [alpinelinux/alpine-make-rootfs](https://github.com/alpinelinux/alpine-make-rootfs) - Make customized Alpine Linux rootfs (base image) for containers
-- [1N3/Sn1per](https://github.com/1N3/Sn1per) - Automated Pentest Recon Scanner & Attack Surface Management Platform | Sn1per
+- [1N3/Sn1per](https://github.com/1N3/Sn1per) - External Attack Surface Management Platform
 - [docker-library/official-images](https://github.com/docker-library/official-images) - Primary source of truth for the Docker "Official Images" program
 - [offa/android-foss](https://github.com/offa/android-foss) - A list of Free and Open Source Software (FOSS) for Android – saving Freedom and Privacy.
 - [8483/notes](https://github.com/8483/notes) - Full-stack web development notes.
@@ -2551,7 +2553,7 @@
 - [Botspot/pi-apps](https://github.com/Botspot/pi-apps) - Raspberry Pi App Store for Open Source Projects
 - [lev-linux/mklive](https://github.com/lev-linux/mklive) - The LEV Linux live image maker
 - [xerolinux/xero_iso](https://github.com/xerolinux/xero_iso) - The Official XeroLinux ISO Build Environment
-- [lane-brain/void-packages](https://github.com/lane-brain/void-packages) - The Void source packages collection
+- [lane-core/void-packages](https://github.com/lane-core/void-packages) - The Void source packages collection
 - [the-Electric-Tantra-Linux/void-packages](https://github.com/the-Electric-Tantra-Linux/void-packages) - Deprecated for the time being, since I have moved back to systemd-based Arch.
 - [storagedaemon/dotfiles](https://github.com/storagedaemon/dotfiles) - 
 - [anihm136/dots](https://github.com/anihm136/dots) - Cross-distro dotfiles
