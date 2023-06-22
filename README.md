@@ -44,6 +44,7 @@
 - [Less](#less)
 - [Lua](#lua)
 - [MATLAB](#matlab)
+- [MDX](#mdx)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [MoonScript](#moonscript)
@@ -324,7 +325,7 @@
 - [FrenzyExists/dotfiles](https://github.com/FrenzyExists/dotfiles) - My chaotic dotfiles, it ain't much, but its honest work
 - [ProgrammingFonts/ProgrammingFonts](https://github.com/ProgrammingFonts/ProgrammingFonts) - This is a collection of programming fonts, just share this with the programmers. Now there are 108 kinds of fantastic fonts!
 - [Tsuyoken/dotfiles](https://github.com/Tsuyoken/dotfiles) - Backup Dotfiles
-- [Thomashighbaugh/zeal--master](https://github.com/Thomashighbaugh/zeal--master) - 
+- [Thomashighbaugh/zeal--master](https://github.com/Thomashighbaugh/zeal--master) - very old portfolio site
 - [Mrcuve0/Aritim-Dark](https://github.com/Mrcuve0/Aritim-Dark) - A Dark theme for both KDE and GTK based DEs, deeply inspired by the Ayu Dark color palette
 - [lucagez/bars](https://github.com/lucagez/bars) - css progress bars made with svg patterns
 - [buseca/patternbolt](https://github.com/buseca/patternbolt) - A fine selection of SVG pattern background, packed in a single CSS or SCSS file. Add patterns just adding a class.
@@ -524,7 +525,6 @@
 - [blrsn/zentile](https://github.com/blrsn/zentile) - Automatic Tiling for EWMH Compliant Window Managers
 - [godarch/darch](https://github.com/godarch/darch) - A tool for building and booting stateless and immutable images, bare metal.
 - [yeasy/docker_practice](https://github.com/yeasy/docker_practice) - Learn and understand Docker&Container technologies, with real DevOps practice!
-- [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
 - [rhysd/notes-cli](https://github.com/rhysd/notes-cli) - Small markdown note taking CLI app playing nicely with your favorite editor and other CLI tools
 - [mickael-menu/zk](https://github.com/mickael-menu/zk) - A plain text note-taking assistant
@@ -859,7 +859,6 @@
 - [draekko-rand/gps-gimp-paint-studio](https://github.com/draekko-rand/gps-gimp-paint-studio) - Automatically exported from code.google.com/p/gps-gimp-paint-studio
 - [pataar/starting-page](https://github.com/pataar/starting-page) - A custom starting page which has some useful features.
 - [Thomashighbaugh/mern-contact-keeper](https://github.com/Thomashighbaugh/mern-contact-keeper) - A contact keeper application built to explore the MERN stack
-- [Thomashighbaugh/preact](https://github.com/Thomashighbaugh/preact) - 
 - [devonChurch/ham-toastie](https://github.com/devonChurch/ham-toastie) - An SVG geometric pattern generator
 - [errozero/glitchatron](https://github.com/errozero/glitchatron) - Glitch Art Generator
 - [BilliMorgan/cryptocurrency-exchange](https://github.com/BilliMorgan/cryptocurrency-exchange) - The part of the crypto project. Build on React, Context API. Tested with Enzyme. For Chrome and Firefox only. In the rebuilding process now.
@@ -1091,6 +1090,8 @@
 
 ## Lua 
 
+- [beastsongithub/AwesomeWMRice](https://github.com/beastsongithub/AwesomeWMRice) - 
+- [unixsea/dotfiles](https://github.com/unixsea/dotfiles) - .files
 - [L3MON4D3/cmp-luasnip-choice](https://github.com/L3MON4D3/cmp-luasnip-choice) - Luasnip choice node completion source for nvim-cmp
 - [Mofiqul/vscode.nvim](https://github.com/Mofiqul/vscode.nvim) - Neovim/Vim color scheme inspired by Dark+ and Light+ theme in Visual Studio Code
 - [MunifTanjim/nui.nvim](https://github.com/MunifTanjim/nui.nvim) - UI Component Library for Neovim.
@@ -1113,7 +1114,7 @@
 - [2nthony/dotfiles](https://github.com/2nthony/dotfiles) - My personal dotfiles, neovim(typescript), fish, zellij, etc.
 - [folke/lazy.nvim](https://github.com/folke/lazy.nvim) - 💤 A modern plugin manager for Neovim
 - [cufta22/dotfiles](https://github.com/cufta22/dotfiles) - [AwesomeWM] Outer Wilds - change branch for old rices
-- [ormai/dotfiles](https://github.com/ormai/dotfiles) - ormai's dotfiles
+- [ormai/dotfiles](https://github.com/ormai/dotfiles) - My GNU/Linux-Hyprland-Neovim configuration files
 - [jcrd/awesome-ez](https://github.com/jcrd/awesome-ez) - AwesomeWM library for simplifying key and button binding definitions
 - [vincentbernat/awesome-configuration](https://github.com/vincentbernat/awesome-configuration) - My ~/.config/awesome directory
 - [gnomengineer/StartView](https://github.com/gnomengineer/StartView) - 
@@ -1589,6 +1590,10 @@
 
 - [luanfujun/deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer) - Code and data for paper "Deep Photo Style Transfer": https://arxiv.org/abs/1703.07511
 
+## MDX 
+
+- [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
+
 ## Makefile 
 
 - [teamniteo/handbook](https://github.com/teamniteo/handbook) - The Niteo Handbook
@@ -1621,6 +1626,8 @@
 
 ## Nix 
 
+- [chvp/nixos-config](https://github.com/chvp/nixos-config) - Configuration of my machines (main development happens at https://git.chvp.be/chvp/nixos-config these days)
+- [linyinfeng/dotfiles](https://github.com/linyinfeng/dotfiles) - My personal NixOS configurations.
 - [xddxdd/nixos-config](https://github.com/xddxdd/nixos-config) - 
 - [ryan4yin/nix-config](https://github.com/ryan4yin/nix-config) - ryan4yin's nix config
 - [meppu/nix-config](https://github.com/meppu/nix-config) - My Nix(OS) configuration files
@@ -2090,6 +2097,7 @@
 
 ## Python 
 
+- [ninewise/dotfiles](https://github.com/ninewise/dotfiles) - Some of my dotfiles.
 - [beltoforion/openai-ghostwriter](https://github.com/beltoforion/openai-ghostwriter) - A python script for fully automatically generating web pages including images using OpenAI's GPT-3.
 - [kevinjalbert/notion-toolbox](https://github.com/kevinjalbert/notion-toolbox) - This is a collection of Notion tools that work in tandem together.
 - [Sxp-ID/Spam-Call](https://github.com/Sxp-ID/Spam-Call) - New Script Spam Call 2022 - 2023
@@ -2670,7 +2678,6 @@
 - [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
 - [bats-core/bats-core](https://github.com/bats-core/bats-core) - Bash Automated Testing System
 - [kubernetes/examples](https://github.com/kubernetes/examples) - Kubernetes application example tutorials
-- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful personal/home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi 4, any Ubuntu/Debian system, or a VPS.
 - [kaldi-asr/kaldi](https://github.com/kaldi-asr/kaldi) - kaldi-asr/kaldi is the official location of the Kaldi project.
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [holman/dotfiles](https://github.com/holman/dotfiles) - @holman does dotfiles
@@ -3078,6 +3085,7 @@
 - [karakanb/devo](https://github.com/karakanb/devo) - A Chrome and Firefox extension that displays GitHub Trending, Hacker News, Product Hunt and Designer News on every new tab.
 - [SamirM-BE/ErasMail](https://github.com/SamirM-BE/ErasMail) - An open source tool for cleaning email boxes and saving the planet
 - [Schrodinger-Hat/ImageGoNord](https://github.com/Schrodinger-Hat/ImageGoNord) - A tool that can convert your rgb images to nordtheme palette
+- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful personal/home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi 4, any Ubuntu/Debian system, or a VPS.
 - [lostdesign/webgems](https://github.com/lostdesign/webgems) - A curated list of resources for devs and designers. Join me on devcord.com if you are up for a chit chat :)
 - [Litarvan/lightdm-webkit-theme-litarvan](https://github.com/Litarvan/lightdm-webkit-theme-litarvan) - Litarvan's LightDM HTML Theme
 - [Exauthor/lightdm-webkit-theme-osmos](https://github.com/Exauthor/lightdm-webkit-theme-osmos) - Osmos
