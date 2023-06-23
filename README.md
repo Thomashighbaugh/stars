@@ -1833,7 +1833,7 @@
 - [CommonPaper/story-prompt](https://github.com/CommonPaper/story-prompt) - Challenge project for engineering candidates
 - [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3
 - [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
-- [juminai/bspdots](https://github.com/juminai/bspdots) - BSPWM + EWW
+- [juminai/dotfiles](https://github.com/juminai/dotfiles) - 
 - [groepl/Obsidian-Templates](https://github.com/groepl/Obsidian-Templates) - A repository containing templates and scripts for #Obsidian to support the #Zettelkasten method for note-taking.
 - [KaleabTessera/Research-Paper-Reading-Template](https://github.com/KaleabTessera/Research-Paper-Reading-Template) - A markdown template for taking notes to summarize research papers.
 - [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns.
@@ -2454,7 +2454,7 @@
 - [BachoSeven/dotfiles](https://github.com/BachoSeven/dotfiles) - rice repo
 - [filisko/fat32-formatter](https://github.com/filisko/fat32-formatter) - Partition table cleaner and FAT32 formatter.
 - [jacg/nix-starters](https://github.com/jacg/nix-starters) - Templates for getting started with Nix: home-manager, Rust projects, Python projects, C++ projects, etc.
-- [benvonh/.flake](https://github.com/benvonh/.flake) - Nix flake configurations for NixOS and Home Manager
+- [benvonh/.snow](https://github.com/benvonh/.snow) - Nix flake configurations for NixOS and Home Manager
 - [a-schaefers/themelios](https://github.com/a-schaefers/themelios) - Bootstrap a zfs-on-root NixOS configuration in one command. Themelios automates the entire installation process using any NixOS livedisk with an internet connection and your git repo. Themelios is fle
 - [WillPower3309/nixos-config](https://github.com/WillPower3309/nixos-config) - My personal nixos config
 - [erikarvstedt/extra-container](https://github.com/erikarvstedt/extra-container) - Run declarative NixOS containers without full system rebuilds
@@ -2482,7 +2482,7 @@
 - [Alfheim-Software-Initiative/alfheim_script](https://github.com/Alfheim-Software-Initiative/alfheim_script) - This is the script used to build Alfheim Linux, an Arch based Linux Operating System.
 - [raspi-alpine/builder](https://github.com/raspi-alpine/builder) - Mirror of Raspberry PI Alpine Linux Image Builder
 - [alpinelinux/alpine-make-rootfs](https://github.com/alpinelinux/alpine-make-rootfs) - Make customized Alpine Linux rootfs (base image) for containers
-- [1N3/Sn1per](https://github.com/1N3/Sn1per) - External Attack Surface Management Platform
+- [1N3/Sn1per](https://github.com/1N3/Sn1per) - Attack Surface Management Platform
 - [docker-library/official-images](https://github.com/docker-library/official-images) - Primary source of truth for the Docker "Official Images" program
 - [offa/android-foss](https://github.com/offa/android-foss) - A list of Free and Open Source Software (FOSS) for Android – saving Freedom and Privacy.
 - [8483/notes](https://github.com/8483/notes) - Full-stack web development notes.
