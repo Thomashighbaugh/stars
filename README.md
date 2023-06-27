@@ -265,6 +265,7 @@
 
 ## CSS 
 
+- [zoddDev/Horizon](https://github.com/zoddDev/Horizon) - 
 - [micro-hawk/awesomight](https://github.com/micro-hawk/awesomight) - Enhance your Linux desktop with my Awesome Window Manager config. Customize key bindings, themes, and widgets to manage multiple windows and workspaces efficiently. Check it out now!
 - [rafaelmardojai/firefox-gnome-theme](https://github.com/rafaelmardojai/firefox-gnome-theme) - A GNOME👣 theme for Firefox🔥
 - [Darkkal44/Cozytile](https://github.com/Darkkal44/Cozytile) - A Cozy rice ❃
@@ -572,6 +573,8 @@
 
 ## HTML 
 
+- [abhinavkorpal/awesome-computer-science-EBook](https://github.com/abhinavkorpal/awesome-computer-science-EBook) - Leading source of ebooks, with a vast range of ebooks from academic, popular and professional publishers.
+- [danieldelcore/mega-interview-guide](https://github.com/danieldelcore/mega-interview-guide) - The MEGA interview guide, JavaSciript, Front End, Comp Sci
 - [ckissi/responsive-html-email-templates](https://github.com/ckissi/responsive-html-email-templates) - Collection of Free responsive HTML templates for Startups
 - [mysigmail/html-email-templates](https://github.com/mysigmail/html-email-templates) - Responsive HTML email templates by MySigMail Card
 - [hunzaboy/CodedMailsFree](https://github.com/hunzaboy/CodedMailsFree) - Ready to use 50+ responsive HTML email templates - Codedmails Free
@@ -696,6 +699,7 @@
 
 ## JavaScript 
 
+- [davidshariff/computer-science](https://github.com/davidshariff/computer-science) - Contains the basic fundamental data structures and algorithms a front end engineer should know, written all in JavaScript.
 - [jcv8000/Codex](https://github.com/jcv8000/Codex) - A free note-taking software for programmers and Computer Science students
 - [tinderzone/Feather](https://github.com/tinderzone/Feather) - 
 - [Sanatana-Linux/mahakali-webkit2-theme](https://github.com/Sanatana-Linux/mahakali-webkit2-theme) - A LightDM Webkit 2 Greeter Theme for the Electric Tantra Linux
@@ -1056,6 +1060,9 @@
 
 ## Jupyter Notebook 
 
+- [algorithmica-org/algorithmica](https://github.com/algorithmica-org/algorithmica) - A computer science textbook
+- [jonkrohn/ML-foundations](https://github.com/jonkrohn/ML-foundations) - Machine Learning Foundations: Linear Algebra, Calculus, Statistics & Computer Science
+- [microsoft/AcademicContent](https://github.com/microsoft/AcademicContent) - Free tech resources for faculty, students, researchers, life-long learners, and academic community builders for use in tech based courses, workshops, and hackathons.
 - [jupyter-naas/awesome-notebooks](https://github.com/jupyter-naas/awesome-notebooks) - Ready to use data & AI templates, organized by tools to jumpstart your projects and data products in minutes. 😎  published by the Naas community.
 - [norahsakal/fine-tune-gpt3-model](https://github.com/norahsakal/fine-tune-gpt3-model) - How you can fine-tune a GPT-3 model with Python with your own data
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
@@ -1092,6 +1099,7 @@
 
 ## Lua 
 
+- [SaintRyoh/rabbithole](https://github.com/SaintRyoh/rabbithole) - Rabbithole, a novel window manager built on the Awesome WM framework, enables dynamic nesting of virtual workspaces and on-the-fly display alterations. It's more than mere aesthetics—it redefines work
 - [max397574/omega-nvim](https://github.com/max397574/omega-nvim) - config
 - [jose-elias-alvarez/null-ls.nvim](https://github.com/jose-elias-alvarez/null-ls.nvim) - Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.
 - [beastsongithub/AwesomeWMRice](https://github.com/beastsongithub/AwesomeWMRice) - 
@@ -1631,6 +1639,8 @@
 
 ## Nix 
 
+- [svend/user-env-nix](https://github.com/svend/user-env-nix) - Reproducible development environment powered by Nix Flakes
+- [wochap/nix-config](https://github.com/wochap/nix-config) - My NixOS Setup
 - [therealr5/nixos-config](https://github.com/therealr5/nixos-config) - My NixOS configuration files
 - [chvp/nixos-config](https://github.com/chvp/nixos-config) - Configuration of my machines (main development happens at https://git.chvp.be/chvp/nixos-config these days)
 - [linyinfeng/dotfiles](https://github.com/linyinfeng/dotfiles) - My personal NixOS configurations.
@@ -1812,6 +1822,24 @@
 
 ## Others 
 
+- [ianliuy/US-MS-CS-Student-Find-A-Job](https://github.com/ianliuy/US-MS-CS-Student-Find-A-Job) - A Collection on How to Find A Job Elegantly. Timeline, Materials, Preparation, OPT & CPT Policies and so on!
+- [jobream/List-of-Learning-Resources](https://github.com/jobream/List-of-Learning-Resources) - This collection provides a list of educational resources for Software Engineers. Feel free to add your favorite resources as well and help others in their journey of learning.
+- [SuyashLakhotia/TechInterview](https://github.com/SuyashLakhotia/TechInterview) - :gem: Cheat sheet to prep for technical interviews.
+- [bootdotdev/curriculum](https://github.com/bootdotdev/curriculum) - A roadmap for Boot.dev's CS curriculum for backend developers
+- [luisnts/awesome-computer-graphics](https://github.com/luisnts/awesome-computer-graphics) - :small_red_triangle::sunglasses: A curated list of awesome stuff to learn computer graphics
+- [ocean1/awesome-thesis](https://github.com/ocean1/awesome-thesis) - A curated list of practical tips and tricks to help you achieve an awesome CS master thesis [WIP] - contributions are welcome
+- [d0r1h/ML-University](https://github.com/d0r1h/ML-University) - Machine Learning Open Source University
+- [enkidevs/curriculum](https://github.com/enkidevs/curriculum) - 👩‍🏫 👨‍🏫 The open-source curriculum of Enki!
+- [quobit/awesome-python-in-education](https://github.com/quobit/awesome-python-in-education) - A curated list about Python in Education :snake: :mortar_board:
+- [gojek/awesome-distributed-systems](https://github.com/gojek/awesome-distributed-systems) - Awesome list of distributed systems resources
+- [ForrestKnight/open-source-cs-python](https://github.com/ForrestKnight/open-source-cs-python) - Video discussing this curriculum:
+- [cs-books/influential-cs-books](https://github.com/cs-books/influential-cs-books) - Most influential books on Computer Science/programming
+- [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) - An ultra-simplified explanation to design patterns
+- [kirillbobyrev/computer-science-resources](https://github.com/kirillbobyrev/computer-science-resources) - Сollection of interesting Computer Science resources
+- [iteachmachines/Free-Computer-Science-University](https://github.com/iteachmachines/Free-Computer-Science-University) - So after watching all the resources i thought to put all the important technical courses in one place.And help those people who wants to learn computer science.All the courses are free here.
+- [farhankarim/MY-COMPUTER-SCIENCE-CURRICULUM](https://github.com/farhankarim/MY-COMPUTER-SCIENCE-CURRICULUM) - This repository consists of free online courses you can take which are equivalent to a bachelors degree in Karachi.
+- [jacksonchen1998/Awesome-CGU-CS-AI](https://github.com/jacksonchen1998/Awesome-CGU-CS-AI) - Chang Gung University Computer Science / Artificial Intelligence learning material
+- [fregante/Awesome-WebExtensions](https://github.com/fregante/Awesome-WebExtensions) - A curated list of awesome resources for WebExtensions development.
 - [WinkoErades/Joplin-note-taking-templates](https://github.com/WinkoErades/Joplin-note-taking-templates) - Joplin note taking templates
 - [InioX/dotfiles](https://github.com/InioX/dotfiles) - 
 - [snwfdhmp/awesome-gpt-prompt-engineering](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering) - A curated list of awesome resources, tools, and other shiny things for GPT prompt engineering.
@@ -2105,6 +2133,8 @@
 
 ## Python 
 
+- [facundoolano/software-papers](https://github.com/facundoolano/software-papers) - 📚 A curated list of papers for Software Engineers
+- [shhossain/computer_science](https://github.com/shhossain/computer_science) - Computer Science Topics
 - [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
 - [ninewise/dotfiles](https://github.com/ninewise/dotfiles) - Some of my dotfiles.
 - [beltoforion/openai-ghostwriter](https://github.com/beltoforion/openai-ghostwriter) - A python script for fully automatically generating web pages including images using OpenAI's GPT-3.
@@ -2421,6 +2451,7 @@
 
 ## SCSS 
 
+- [world-class/REPL](https://github.com/world-class/REPL) - The Learning Hub for UoL's Online CS Students
 - [Aylur/dotfiles](https://github.com/Aylur/dotfiles) - My personal config files
 - [numixproject/numix-gtk-theme](https://github.com/numixproject/numix-gtk-theme) - A modern flat theme with a combination of light and dark elements.
 - [te6-in/lepton-custom](https://github.com/te6-in/lepton-custom) - A macOS style theme for Firefox—forked from Lepton(Firefox-UI-Fix)
@@ -2860,6 +2891,7 @@
 
 ## TeX 
 
+- [teaching-lab/stack-cs-activities](https://github.com/teaching-lab/stack-cs-activities) - A stack of activities to teach advanced computer science (developed by the Teaching Lab community at the Faculty of Informatics, Masaryk University)
 - [akss13/Resume-builder](https://github.com/akss13/Resume-builder) - Automated resume builder
 - [ianliuy/Resume](https://github.com/ianliuy/Resume) - My CV template, 35+ Online Assessments
 - [fresh-standard/fresh-themes](https://github.com/fresh-standard/fresh-themes) - Multiformat themes and skins for your technical résumé/CV.
@@ -2874,6 +2906,8 @@
 
 ## TypeScript 
 
+- [GoldinGuy/CollegeCompendium](https://github.com/GoldinGuy/CollegeCompendium) - 📓 A curated collection of free public Computer Science classes from colleges across America
+- [csmberkeley/csm_web](https://github.com/csmberkeley/csm_web) - Web applications for CS Mentors.
 - [Frewacom/pywalfox](https://github.com/Frewacom/pywalfox) - Dynamic theming of Firefox (and Thunderbird) using your Pywal colors
 - [sevazhidkov/prompts-ai](https://github.com/sevazhidkov/prompts-ai) - Advanced playground for GPT-3
 - [WorldBrain/Memex](https://github.com/WorldBrain/Memex) - Browser extension to curate, annotate, and discuss the most valuable content and ideas on the web. As individuals, teams and communities.
