@@ -458,7 +458,7 @@
 
 ## Emacs Lisp 
 
-- [port19x/dotfiles](https://github.com/port19x/dotfiles) - Linux configuration
+- [port19x/dotfiles](https://github.com/port19x/dotfiles) - My Arch Linux Configuration
 - [cjbassi/config](https://github.com/cjbassi/config) - 
 - [shtwzrd/friar](https://github.com/shtwzrd/friar) - Emacs REPL for interacting with AwesomeWM
 - [willbush/system](https://github.com/willbush/system) - The system configuration of a professional yak shaver
@@ -1680,7 +1680,7 @@
 - [xddxdd/nixos-config](https://github.com/xddxdd/nixos-config) - 
 - [ryan4yin/nix-config](https://github.com/ryan4yin/nix-config) - ❄️ryan4yin's nix config(NixOS/macOS + home-manager + i3/hyprland + neovim + agenix)
 - [meppu/nix-config](https://github.com/meppu/nix-config) - My Nix(OS) configuration files
-- [disassembler/network](https://github.com/disassembler/network) - NixOps home network
+- [disassembler/network](https://github.com/disassembler/network) - Home Network
 - [kira-bruneau/nixos-config](https://github.com/kira-bruneau/nixos-config) - My NixOS configuration
 - [ReplayCoding/nixos-config](https://github.com/ReplayCoding/nixos-config) - 
 - [the-argus/nixsys](https://github.com/the-argus/nixsys) - My NixOS system configuration.
