@@ -191,6 +191,7 @@
 
 ## C# # 
 
+- [LimerBoy/FireFox-Thief](https://github.com/LimerBoy/FireFox-Thief) - :fox_face: Decrypt gecko based browsers passwords, cookies, history, bookmarks.
 - [AlexWan/OsEngine](https://github.com/AlexWan/OsEngine) - Open Source algo trading platform
 - [git-ecosystem/git-credential-manager](https://github.com/git-ecosystem/git-credential-manager) - Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.
 - [dotnet-architecture/eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers) - Cross-platform .NET sample microservices and container based application that runs on Linux Windows and macOS. Powered by .NET 7, Docker Containers and Azure Kubernetes Services. Supports Visual Studi
@@ -700,6 +701,7 @@
 
 ## JavaScript 
 
+- [selfuryon/nixos-config](https://github.com/selfuryon/nixos-config) - My NixOS Configuration
 - [ujjalacharya/awesome-ecom](https://github.com/ujjalacharya/awesome-ecom) - A complete online ecommerce portal (Node, React, Mongo, NextJS, ReactNative)
 - [amand33p/stack-underflow](https://github.com/amand33p/stack-underflow) - Feature-rich ‘stack overflow’ (QnA site) clone. Made using MERN + GraphQL stack.
 - [amazingandyyy/mern](https://github.com/amazingandyyy/mern) - 🌐  MERN stack 2.0 - MongoDB, Express, React/Redux, Node
@@ -1666,6 +1668,10 @@
 
 ## Nix 
 
+- [nixvital/vital-modules](https://github.com/nixvital/vital-modules) - A collection of NixOS modules serving as building blocks to construct NixOS configurations.
+- [PetarKirov/dotfiles](https://github.com/PetarKirov/dotfiles) - My personal system and $HOME configuration managed by Nix
+- [cmacrae/config](https://github.com/cmacrae/config) - A collection of machine configurations, expressed in Nix
+- [linuxmobile/kaku](https://github.com/linuxmobile/kaku) - 革 | kaku
 - [javacafe01/dotfiles](https://github.com/javacafe01/dotfiles) - My NixOS configurations for various systems
 - [shaunsingh/nixpkgs-s2k](https://github.com/shaunsingh/nixpkgs-s2k) - Shaunsingh's stash of fresh packages
 - [AntonHakansson/nixos-config](https://github.com/AntonHakansson/nixos-config) - NixOS configuration of my machines
@@ -2924,6 +2930,7 @@
 
 ## Svelte 
 
+- [hertg/lightdm-neon](https://github.com/hertg/lightdm-neon) - :art: A customizable theme for web-greeter in a nostalgic but modern neon look
 - [perfect-things/perfect-home](https://github.com/perfect-things/perfect-home) - firefox newtab/home replacement
 - [catchspider2002/svelte-svg-patterns](https://github.com/catchspider2002/svelte-svg-patterns) - Create seamless patterns in SVG to use as website backgrounds, header images, stationery design and package design
 - [EddieHubCommunity/good-first-issue-finder](https://github.com/EddieHubCommunity/good-first-issue-finder) - Issue-Crawler for GitHub based on Sveltekit
@@ -2997,7 +3004,7 @@
 - [GypsyDangerous/OneLink](https://github.com/GypsyDangerous/OneLink) - 🔗 OneLink is a linktree and flowpage clone built with Nextjs, MongoDb, and GraphQL
 - [heysagnik/Linkees](https://github.com/heysagnik/Linkees) - Awesome Linktree clone made with React ⚛️
 - [osmoscraft/osmosmemo](https://github.com/osmoscraft/osmosmemo) - Turn GitHub into a bookmark manager
-- [Shougo/ddc.vim](https://github.com/Shougo/ddc.vim) - Dark deno-powered completion framework for neovim/Vim8
+- [Shougo/ddc.vim](https://github.com/Shougo/ddc.vim) - Dark deno-powered completion framework for neovim/Vim
 - [fontsource/fontsource](https://github.com/fontsource/fontsource) - Self-host Open Source fonts in neatly bundled NPM packages.
 - [ant-design/ant-design-icons](https://github.com/ant-design/ant-design-icons) - ⭐ Ant Design SVG Icons
 - [react-icons/react-icons](https://github.com/react-icons/react-icons) - svg react icons of popular icon packs
