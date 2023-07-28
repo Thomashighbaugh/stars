@@ -2547,7 +2547,7 @@
 - [filisko/fat32-formatter](https://github.com/filisko/fat32-formatter) - Partition table cleaner and FAT32 formatter.
 - [GoodBoyNeon/dotfiles](https://github.com/GoodBoyNeon/dotfiles) - My configuration for Arch Linux.
 - [jacg/nix-starters](https://github.com/jacg/nix-starters) - Templates for getting started with Nix: home-manager, Rust projects, Python projects, C++ projects, etc.
-- [benvonh/.snow](https://github.com/benvonh/.snow) - Nix flake configurations for NixOS and Home Manager
+- [benvonh/snow](https://github.com/benvonh/snow) - Nix flake configurations for NixOS and Home Manager
 - [a-schaefers/themelios](https://github.com/a-schaefers/themelios) - Bootstrap a zfs-on-root NixOS configuration in one command. Themelios automates the entire installation process using any NixOS livedisk with an internet connection and your git repo. Themelios is fle
 - [WillPower3309/nixos-config](https://github.com/WillPower3309/nixos-config) - My personal nixos config
 - [erikarvstedt/extra-container](https://github.com/erikarvstedt/extra-container) - Run declarative NixOS containers without full system rebuilds
