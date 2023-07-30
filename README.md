@@ -203,6 +203,7 @@
 
 ## C++ 
 
+- [MCredstoner2004/ImageLOL](https://github.com/MCredstoner2004/ImageLOL) - simple program to store a file into a PNG image
 - [Curve/aawmtt](https://github.com/Curve/aawmtt) - Another AwesomeWM Testing Tool 🚀
 - [Duckonaut/hyprload](https://github.com/Duckonaut/hyprload) - A Hyprland plugin manager
 - [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
@@ -701,6 +702,7 @@
 
 ## JavaScript 
 
+- [leepenney/markdown-gallery](https://github.com/leepenney/markdown-gallery) - Converts a list of images into gallery mark-up
 - [selfuryon/nixos-config](https://github.com/selfuryon/nixos-config) - My NixOS Configuration
 - [ujjalacharya/awesome-ecom](https://github.com/ujjalacharya/awesome-ecom) - A complete online ecommerce portal (Node, React, Mongo, NextJS, ReactNative)
 - [amand33p/stack-underflow](https://github.com/amand33p/stack-underflow) - Feature-rich ‘stack overflow’ (QnA site) clone. Made using MERN + GraphQL stack.
@@ -1114,6 +1116,11 @@
 
 ## Lua 
 
+- [RU927/re_tile](https://github.com/RU927/re_tile) - dotfiles window manager
+- [juanibiapina/dotfiles](https://github.com/juanibiapina/dotfiles) - Dotfiles optimized for performance and high productivity in the terminal
+- [Hamza12700/vulekhanh-dotfiles](https://github.com/Hamza12700/vulekhanh-dotfiles) - Vulekhanh AwesomeWM config
+- [TanvirOnGH/redflat](https://github.com/TanvirOnGH/redflat) - Extension module for my awesomewm configuration (fork of worron/redflat)
+- [HoNamDuong/.dotfiles](https://github.com/HoNamDuong/.dotfiles) - My dotfiles for Linux
 - [PassiveLemon/lemonix](https://github.com/PassiveLemon/lemonix) - NixOS dotfiles
 - [gnomengineer/simpledesktop](https://github.com/gnomengineer/simpledesktop) - a lightweight and simple arch distro with own customization
 - [madhur/dotfiles](https://github.com/madhur/dotfiles) - Configuration files of my desktop computer running EndeavourOS Linux
@@ -1639,6 +1646,7 @@
 
 ## Makefile 
 
+- [ozwaldorf/dotfiles](https://github.com/ozwaldorf/dotfiles) - my dots
 - [teamniteo/handbook](https://github.com/teamniteo/handbook) - The Niteo Handbook
 - [pierres/archiso-manager](https://github.com/pierres/archiso-manager) - 
 - [infectedmushi/android_device_oneplus_instantnoodle-dev](https://github.com/infectedmushi/android_device_oneplus_instantnoodle-dev) - TWRP tree Unified for OnePlus 8/8 Pro (instantnoodle, instantnoodlep)
@@ -2370,7 +2378,7 @@
 - [Lightning-AI/lightning](https://github.com/Lightning-AI/lightning) - Deep learning framework to train, deploy, and ship AI products Lightning fast.
 - [fennerm/flashfocus](https://github.com/fennerm/flashfocus) - Simple focus animations for tiling window managers.
 - [isyuck/dotfiles](https://github.com/isyuck/dotfiles) - linux/osx
-- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 200 supported car makes and models.
+- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for 250+ supported car makes and models.
 - [deviantfero/wpgtk](https://github.com/deviantfero/wpgtk) - :flower_playing_cards: a colorscheme, wallpaper and template manager for *nix
 - [tmux-python/tmuxp](https://github.com/tmux-python/tmuxp) - :computer: tmux session manager. built on libtmux
 - [vt-vl-lab/3d-photo-inpainting](https://github.com/vt-vl-lab/3d-photo-inpainting) - [CVPR 2020] 3D Photography using Context-aware Layered Depth Inpainting
