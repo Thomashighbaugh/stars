@@ -9,6 +9,7 @@
 - [Assembly](#assembly)
 - [Batchfile](#batchfile)
 - [BitBake](#bitbake)
+- [Blade](#blade)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -97,6 +98,11 @@
 ## BitBake 
 
 - [balena-os/meta-balena](https://github.com/balena-os/meta-balena) - A collection of Yocto layers used to build balenaOS images
+
+## Blade 
+
+- [wireui/phosphoricons](https://github.com/wireui/phosphoricons) - The phosphoricons made for laravel blade by WireUI
+- [wireui/heroicons](https://github.com/wireui/heroicons) - The Tailwind Heroicons for laravel blade by WireUI
 
 ## C 
 
@@ -263,6 +269,7 @@
 
 ## CSS 
 
+- [NeuronSooup/Gnome-topbar-le-dots](https://github.com/NeuronSooup/Gnome-topbar-le-dots) - This is my gnome configuration for both usability, look and feel
 - [zjp-CN/mdbook-template](https://github.com/zjp-CN/mdbook-template) - Yield a mdbook demo with mdbook-theme and a yml file for github action automation and page publication.
 - [zoddDev/Horizon](https://github.com/zoddDev/Horizon) - 
 - [micro-hawk/awesomight](https://github.com/micro-hawk/awesomight) - Enhance your Linux desktop with my Awesome Window Manager config. Customize key bindings, themes, and widgets to manage multiple windows and workspaces efficiently. Check it out now!
@@ -575,6 +582,7 @@
 
 ## HTML 
 
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 4600 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [danmindru/responsive-html-email-signature](https://github.com/danmindru/responsive-html-email-signature) - ✨ Template generator for (responsive) emails & email signatures
 - [abhinavkorpal/awesome-computer-science-EBook](https://github.com/abhinavkorpal/awesome-computer-science-EBook) - Leading source of ebooks, with a vast range of ebooks from academic, popular and professional publishers.
 - [danieldelcore/mega-interview-guide](https://github.com/danieldelcore/mega-interview-guide) - The MEGA interview guide, JavaSciript, Front End, Comp Sci
@@ -1119,7 +1127,7 @@
 - [RU927/re_tile](https://github.com/RU927/re_tile) - dotfiles window manager
 - [juanibiapina/dotfiles](https://github.com/juanibiapina/dotfiles) - Dotfiles optimized for performance and high productivity in the terminal
 - [Hamza12700/vulekhanh-dotfiles](https://github.com/Hamza12700/vulekhanh-dotfiles) - Vulekhanh AwesomeWM config
-- [TanvirOnGH/redflat](https://github.com/TanvirOnGH/redflat) - Extension module for my awesomewm configuration (fork of worron/redflat)
+- [TanvirOnGH/redflat](https://github.com/TanvirOnGH/redflat) - Extension Module for My Tailor-Fitted AwesomeWM Configuration (Fork of worron/redflat)
 - [HoNamDuong/.dotfiles](https://github.com/HoNamDuong/.dotfiles) - My dotfiles for Linux
 - [PassiveLemon/lemonix](https://github.com/PassiveLemon/lemonix) - NixOS dotfiles
 - [gnomengineer/simpledesktop](https://github.com/gnomengineer/simpledesktop) - a lightweight and simple arch distro with own customization
@@ -1676,6 +1684,9 @@
 
 ## Nix 
 
+- [RiscadoA/nixconfig](https://github.com/RiscadoA/nixconfig) - My NixOS configuration files.
+- [wiedzmin/nixos-config](https://github.com/wiedzmin/nixos-config) - My NixOS configuration
+- [luochen1990/nixos-config](https://github.com/luochen1990/nixos-config) - LC's personal NixOS Configuration
 - [nixvital/vital-modules](https://github.com/nixvital/vital-modules) - A collection of NixOS modules serving as building blocks to construct NixOS configurations.
 - [PetarKirov/dotfiles](https://github.com/PetarKirov/dotfiles) - My personal system and $HOME configuration managed by Nix
 - [cmacrae/config](https://github.com/cmacrae/config) - A collection of machine configurations, expressed in Nix
@@ -1868,6 +1879,7 @@
 
 ## Others 
 
+- [Amitabha37377/Awful-DOTS](https://github.com/Amitabha37377/Awful-DOTS) - 
 - [coderdost/full-stack-dev-2023](https://github.com/coderdost/full-stack-dev-2023) - Full Stack Developer Course 2023 - CoderDost Youtube channel
 - [zemmsoares/awesome-rices](https://github.com/zemmsoares/awesome-rices) - A curated list of awesome unix user rices!
 - [ianliuy/US-MS-CS-Student-Find-A-Job](https://github.com/ianliuy/US-MS-CS-Student-Find-A-Job) - A Collection on How to Find A Job Elegantly. Timeline, Materials, Preparation, OPT & CPT Policies and so on!
@@ -2182,6 +2194,7 @@
 
 ## Python 
 
+- [huggingface/text-generation-inference](https://github.com/huggingface/text-generation-inference) - Large Language Model Text Generation Inference
 - [idilsulo/ChatGPTify](https://github.com/idilsulo/ChatGPTify) - Spotify playlist generator via ChatGPT
 - [ludwig-ai/ludwig](https://github.com/ludwig-ai/ludwig) - Declarative framework for building LLMs, neural networks, and GBMs
 - [nix-community/NUR](https://github.com/nix-community/NUR) - Nix User Repository: User contributed nix packages [maintainer=@Mic92]
@@ -2548,6 +2561,8 @@
 
 ## Shell 
 
+- [GDR/dot](https://github.com/GDR/dot) - My personal config repo for my NixOS configurations. I use Nix flakes to manage dependencies and reproducibility.
+- [arminveres/dotfiles](https://github.com/arminveres/dotfiles) - Repository for personal Unix config files
 - [AmitGolden/dotfiles](https://github.com/AmitGolden/dotfiles) - AmitGold's catppuccin dotfiles!
 - [notKamui/dotfiles](https://github.com/notKamui/dotfiles) - What's hidden sometimes makes you who you are
 - [pimterry/notes](https://github.com/pimterry/notes) - :pencil: Simple delightful note taking, with more unix and less lock-in.
@@ -2960,6 +2975,7 @@
 
 ## TypeScript 
 
+- [coreui/coreui-icons](https://github.com/coreui/coreui-icons) - CoreUI Free Icons -  Premium designed free icon set with marks in SVG, Webfont and raster formats
 - [vitorgouveia/Giffy](https://github.com/vitorgouveia/Giffy) - :camera: Gif recording made easy.
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - ✨ Trigger.dev is an open-source platform to create long-running jobs directly in your Next.js project, with features like API integrations, webhooks, scheduling and delays.
 - [RotichD/photography-personal](https://github.com/RotichD/photography-personal) - Personal photography portfolio website with blog. Next.JS + TypeScript + TailwindCSS
