@@ -717,6 +717,7 @@
 
 ## JavaScript 
 
+- [Akshay090/svg-banners](https://github.com/Akshay090/svg-banners) - Styled banners for your Readme made with html/css in SVG !!
 - [kampka/nix-packages](https://github.com/kampka/nix-packages) - My personal nix repository
 - [leepenney/markdown-gallery](https://github.com/leepenney/markdown-gallery) - Converts a list of images into gallery mark-up
 - [selfuryon/nixos-config](https://github.com/selfuryon/nixos-config) - My NixOS Configuration
@@ -732,7 +733,6 @@
 - [hardpixel/unite-shell](https://github.com/hardpixel/unite-shell) - Unite is an extension that makes GNOME Shell look like Ubuntu Unity Shell.
 - [madkarmaa/automatic-chatgpt-dan](https://github.com/madkarmaa/automatic-chatgpt-dan) - Browser userscript to automatically send DAN messages to ChatGPT
 - [davidshariff/computer-science](https://github.com/davidshariff/computer-science) - Contains the basic fundamental data structures and algorithms a front end engineer should know, written all in JavaScript.
-- [jcv8000/Codex](https://github.com/jcv8000/Codex) - A free note-taking software for programmers and Computer Science students
 - [tinderzone/Feather](https://github.com/tinderzone/Feather) - 
 - [Sanatana-Linux/mahakali-webkit2-theme](https://github.com/Sanatana-Linux/mahakali-webkit2-theme) - A LightDM Webkit 2 Greeter Theme for the Electric Tantra Linux
 - [Laverna/laverna](https://github.com/Laverna/laverna) - Laverna is a JavaScript note taking application with Markdown editor and encryption support. Consider it like open source alternative to Evernote.
@@ -1101,7 +1101,7 @@
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [ratthachat/prompt_engineering](https://github.com/ratthachat/prompt_engineering) - Prompt Engineering
 - [EgoAlpha/prompt-in-context-learning](https://github.com/EgoAlpha/prompt-in-context-learning) - Awesome resources for in-context learning and prompt engineering: Mastery of the LLMs such as ChatGPT, GPT-3, and FlanT5, with up-to-date and cutting-edge updates.
-- [promptslab/Promptify](https://github.com/promptslab/Promptify) - Prompt Engineering | Use GPT or other prompt based models to get structured output. Join our discord for Prompt-Engineering, LLMs and other latest research
+- [promptslab/Promptify](https://github.com/promptslab/Promptify) - Prompt Engineering | Prompt Versioning | Use GPT or other prompt based models to get structured output. Join our discord for Prompt-Engineering, LLMs and other latest research
 - [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - InvokeAI is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The s
 - [dosanjos44/FC-Python-Tutorials](https://github.com/dosanjos44/FC-Python-Tutorials) - Collection of tutorials and resources from fcpython.com
 - [pythonspaces/awesome-resources](https://github.com/pythonspaces/awesome-resources) - Free Learning Resources
@@ -1133,6 +1133,7 @@
 
 ## Lua 
 
+- [Yorubae/wayland-dotfiles](https://github.com/Yorubae/wayland-dotfiles) - This repository contains my personal configuration files for various applications and tools that I use on a daily basis. These dotfiles include personalized settings, keybindings, aliases, and other c
 - [ibhagwan/fzf-lua](https://github.com/ibhagwan/fzf-lua) - Improved fzf.vim written in lua
 - [stevearc/dressing.nvim](https://github.com/stevearc/dressing.nvim) - Neovim plugin to improve the default vim.ui interfaces
 - [jcmuller/my-awesome-wm-config](https://github.com/jcmuller/my-awesome-wm-config) - My laptop's Awesome WM configuration
@@ -1710,7 +1711,7 @@
 - [AntonHakansson/nixos-config](https://github.com/AntonHakansson/nixos-config) - NixOS configuration of my machines
 - [smashstate/gnome-manager](https://github.com/smashstate/gnome-manager) - NixOS module for GNOME configuration
 - [pjones/plasma-manager](https://github.com/pjones/plasma-manager) - Manage KDE Plasma with Home Manager
-- [ocfox/nixos-config](https://github.com/ocfox/nixos-config) - Simply, but firmly
+- [ocfox/den](https://github.com/ocfox/den) - Simply, but firmly
 - [svend/user-env-nix](https://github.com/svend/user-env-nix) - Reproducible development environment powered by Nix Flakes
 - [wochap/nix-config](https://github.com/wochap/nix-config) - My NixOS Setup
 - [therealr5/nixos-config](https://github.com/therealr5/nixos-config) - My NixOS configuration files
@@ -2023,6 +2024,7 @@
 - [bregman-arie/system-design-notebook](https://github.com/bregman-arie/system-design-notebook) - Learn System Design step by step
 - [nicholasglazer/anarchy-firefox](https://github.com/nicholasglazer/anarchy-firefox) - Anarchy is dark, clean and simple. It's oriented to enhance your web experience by emphasizing important parts to stay focused and at the same time relaxed. This theme is a part of my Linux configurat
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
+- [ShadowWhisperer/IPs](https://github.com/ShadowWhisperer/IPs) - IP block lists for: Malware, Bots, Hackers, Sniffers, etc..
 - [gilescope/cyberpunkfonts](https://github.com/gilescope/cyberpunkfonts) - Cyberpunk inspired fonts for coding
 - [stephhappens/awesome-tools-for-junior-developers](https://github.com/stephhappens/awesome-tools-for-junior-developers) - A curated list of popular tools, tips and tricks for aspiring developers.
 - [dypsilon/frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) - Manually curated collection of resources for frontend web developers.
@@ -2665,7 +2667,7 @@
 - [axyl-os/axyl-artix-iso](https://github.com/axyl-os/axyl-artix-iso) - Status: (Ready for Testing)
 - [Git-Fal7/artix-buildiso](https://github.com/Git-Fal7/artix-buildiso) - my buildisos for artix linux
 - [dovahkiin0424/artix-install](https://github.com/dovahkiin0424/artix-install) - Simple artix linux installer script. Just clone it and run the .sh file
-- [dharmx/dots.sh](https://github.com/dharmx/dots.sh) - Bleeding-edge dots.
+- [dharmx/dharmx](https://github.com/dharmx/dharmx) - Bleeding-edge dots.
 - [ereduled/artixBootstrap](https://github.com/ereduled/artixBootstrap) - Set up an opinionated artix Linux install in a jiffy
 - [ODEX-TOS/wm-debug](https://github.com/ODEX-TOS/wm-debug) - A simple script to make debugging window manager easier
 - [jaromaz/MacintoshPi](https://github.com/jaromaz/MacintoshPi) - MacintoshPi is a project that allows running full-screen versions of Apple's Mac OS 7, Mac OS 8 and Mac OS 9 with sound, active online connection and modem emulation under Raspberry Pi.
@@ -2743,7 +2745,6 @@
 - [LukeSmithxyz/mutt-wizard](https://github.com/LukeSmithxyz/mutt-wizard) - A system for automatically configuring mutt and isync with a simple interface and safe passwords
 - [pbui/void-setup](https://github.com/pbui/void-setup) - A collection of scripts for setting up Void Linux.
 - [opengapps/opengapps](https://github.com/opengapps/opengapps) - The main repository of the Open GApps Project
-- [ShadowWhisperer/IPs](https://github.com/ShadowWhisperer/IPs) - IP block lists for: Malware, Bots, Hackers, Sniffers, etc..
 - [void-linux/void-packages](https://github.com/void-linux/void-packages) - The Void source packages collection
 - [zdykstra/fuzzypkg](https://github.com/zdykstra/fuzzypkg) - 
 - [ExpertAnonymous/PhoneInfoga](https://github.com/ExpertAnonymous/PhoneInfoga) - PhoneInfoga is one of the most advanced tools to scan phone numbers using only free resources.
@@ -3003,6 +3004,7 @@
 
 ## TypeScript 
 
+- [Kattjakt/github-markdown-alerts](https://github.com/Kattjakt/github-markdown-alerts) - A utility for generating alerts/banners using SVG, making them embeddable in GitHub flavored markdown and all other platforms supporting SVG
 - [BUMBAIYA/amitchauhan-v2](https://github.com/BUMBAIYA/amitchauhan-v2) - Portfolio website made using Nextjs 13 and Tailwindcss
 - [coreui/coreui-icons](https://github.com/coreui/coreui-icons) - CoreUI Free Icons -  Premium designed free icon set with marks in SVG, Webfont and raster formats
 - [vitorgouveia/Giffy](https://github.com/vitorgouveia/Giffy) - :camera: Gif recording made easy.
@@ -3010,6 +3012,7 @@
 - [RotichD/photography-personal](https://github.com/RotichD/photography-personal) - Personal photography portfolio website with blog. Next.JS + TypeScript + TailwindCSS
 - [GoldinGuy/CollegeCompendium](https://github.com/GoldinGuy/CollegeCompendium) - 📓 A curated collection of free public Computer Science classes from colleges across America
 - [csmberkeley/csm_web](https://github.com/csmberkeley/csm_web) - Web applications for CS Mentors.
+- [jcv8000/Codex](https://github.com/jcv8000/Codex) - A free note-taking software for programmers and Computer Science students
 - [Frewacom/pywalfox](https://github.com/Frewacom/pywalfox) - Dynamic theming of Firefox (and Thunderbird) using your Pywal colors
 - [sevazhidkov/prompts-ai](https://github.com/sevazhidkov/prompts-ai) - Advanced playground for GPT-3
 - [WorldBrain/Memex](https://github.com/WorldBrain/Memex) - Browser extension to curate, annotate, and discuss the most valuable content and ideas on the web. As individuals, teams and communities.
