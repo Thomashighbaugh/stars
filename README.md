@@ -827,7 +827,6 @@
 - [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces.
 - [carbon-app/carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
 - [0xGG/crossnote](https://github.com/0xGG/crossnote) - 📝 An interesting markdown note taking application
-- [DipankarHalder/vlogbook](https://github.com/DipankarHalder/vlogbook) - A blog MERN stack application (MongoDB, Express.js, React.js, Node.js, Next.js)
 - [afzalsayed96/mern-app](https://github.com/afzalsayed96/mern-app) - MERN stack app using Next.js
 - [drejcreative/mern-boilerplate-nextjs-2020](https://github.com/drejcreative/mern-boilerplate-nextjs-2020) - Boilerplate code for MERN stack (NextJs) with simple TODO app.
 - [Merkoba/Msg](https://github.com/Merkoba/Msg) - A javascript library to create and manage highly customizable modal windows and popup messages
@@ -964,6 +963,7 @@
 - [appium/appium](https://github.com/appium/appium) - Cross-platform automation framework for all kinds of your apps built on top of W3C WebDriver protocol
 - [balena-io-experimental/raspberry-pineapple](https://github.com/balena-io-experimental/raspberry-pineapple) - Build your own WiFi Pineapple, with Resin.io and a raspberry pi
 - [JoseRFelix/nextjs-starter-blog](https://github.com/JoseRFelix/nextjs-starter-blog) - Next.js template for creating a blog. Now with dark mode and Next.js 12 🎉
+- [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [thisisroi/roi-portfolio](https://github.com/thisisroi/roi-portfolio) - ✨ Portfolio site created using Nextjs.
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
@@ -1127,11 +1127,14 @@
 
 ## Less 
 
+- [edurbrito/markdown-notes](https://github.com/edurbrito/markdown-notes) - Templates for your Note Taking Markdown Workflow
 - [NixOS/nixos-homepage](https://github.com/NixOS/nixos-homepage) - Sources for nixos.org
 - [mescon/Muximux](https://github.com/mescon/Muximux) - A lightweight way to manage your HTPC
 
 ## Lua 
 
+- [kosorin/awesome-code-doc](https://github.com/kosorin/awesome-code-doc) - 
+- [frioux/charitable](https://github.com/frioux/charitable) - Shared tags for multi-monitor system
 - [jellydn/my-note.nvim](https://github.com/jellydn/my-note.nvim) - MyNote is a Neovim plugin that allows you to take notes in a floating window
 - [serenevoid/kiwi.nvim](https://github.com/serenevoid/kiwi.nvim) - A stripped down VimWiki for neovim
 - [Yorubae/wayland-dotfiles](https://github.com/Yorubae/wayland-dotfiles) - This repository contains my personal configuration files for various applications and tools that I use on a daily basis. These dotfiles include personalized settings, keybindings, aliases, and other c
@@ -2585,6 +2588,9 @@
 
 ## Shell 
 
+- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
+- [shapeshed/notes](https://github.com/shapeshed/notes) - Simple, lightweight note taking from the command line
+- [dbluhm/bash-notes](https://github.com/dbluhm/bash-notes) - A bash markdown note taking tool.
 - [martinspedro/logbook](https://github.com/martinspedro/logbook) - A command line tool to manage course notes, journals and other documents
 - [saitamasahil/Pixel-Launcher-Extended](https://github.com/saitamasahil/Pixel-Launcher-Extended) - Pixel Launcher Extended is a Magisk module by TeamFiles with many cool features.
 - [home-assistant/supervised-installer](https://github.com/home-assistant/supervised-installer) - Installer for a generic Linux system
@@ -3132,7 +3138,6 @@
 - [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer. ⭐️ Star to support our work!
 - [hamlim/blog](https://github.com/hamlim/blog) - My personal website and blog!
 - [FelixTellmann/FelixTellmann.com](https://github.com/FelixTellmann/FelixTellmann.com) - Personal portfolio website. Build with React, NextJs, scss, custom hooks, typescript. Deployed on Vercel.
-- [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [contentkit/contentkit](https://github.com/contentkit/contentkit) - ContentKit is a headless markdown-based CMS with version control.
 - [getmeli/meli](https://github.com/getmeli/meli) - Platform for deploying static sites and frontend applications easily. Automatic SSL, deploy previews, reverse proxy, and more.
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
