@@ -121,7 +121,7 @@
 - [niutech/splitbrowser](https://github.com/niutech/splitbrowser) - Split Browser - a minimalistic, ultra-lightweight, open source web browser based on WebKit/Ultralight/native webview with split screen (tiled) view
 - [colinkeenan/silentcast](https://github.com/colinkeenan/silentcast) - Create silent mkv screencast and animated gif.
 - [BourgeoisBear/A-E-S-T-H-E-T-I-C](https://github.com/BourgeoisBear/A-E-S-T-H-E-T-I-C) - Makes your words more ＡＥＳＴＨＥＴＩＣ
-- [khuedoan/slock](https://github.com/khuedoan/slock) - Suckless simple X display locker fork with transparency effect
+- [khuedoan/slock](https://github.com/khuedoan/slock) - Suckless simple X display locker fork with transparency effect (deprecated, I've switched to Wayland)
 - [ForgedTurbo/ThinkPad-Fan-Control](https://github.com/ForgedTurbo/ThinkPad-Fan-Control) - GUI App for Fan Speed Management on ThinkPad Laptops on Linux
 - [gch1p/alsa-volume-monitor](https://github.com/gch1p/alsa-volume-monitor) - 
 - [troglobit/xplugd](https://github.com/troglobit/xplugd) - Monitor, keyboard, and mouse plug/unplug helper for X
@@ -1606,7 +1606,6 @@
 - [basaran/awesomewm-backham](https://github.com/basaran/awesomewm-backham) - automatically focus back to the previous client on minimize and close
 - [ChrisTitusTech/titus-awesome](https://github.com/ChrisTitusTech/titus-awesome) - Custom AwesomeWM Theme
 - [streetturtle/noobie](https://github.com/streetturtle/noobie) - Create a wibar widget for Awesome WM with no lua code!
-- [llyram/awesomewm-dotfiles](https://github.com/llyram/awesomewm-dotfiles) - My config files for awesomewm
 - [purhan/dotfiles](https://github.com/purhan/dotfiles) - 
 - [leafo/moonscript](https://github.com/leafo/moonscript) - :crescent_moon: A language that compiles to Lua
 - [projekt0n/github-nvim-theme](https://github.com/projekt0n/github-nvim-theme) - Github's Neovim themes
@@ -1757,7 +1756,7 @@
 - [pogobanane/dotfiles](https://github.com/pogobanane/dotfiles) - My dotfiles. Mostly NixOS config.
 - [Zumorica/GradientOS](https://github.com/Zumorica/GradientOS) - Flake for multiple NixOS system configurations
 - [oddlama/nix-config](https://github.com/oddlama/nix-config) - ❄️ My nix config and dotfiles
-- [numtide/flake-utils](https://github.com/numtide/flake-utils) - Pure Nix flake utility functions
+- [numtide/flake-utils](https://github.com/numtide/flake-utils) - Pure Nix flake utility functions [maintainer=@zimbatm]
 - [fortuneteller2k/nix-config](https://github.com/fortuneteller2k/nix-config) - NixOS/NixOS-WSL/nix-darwin configuration using Nix Flakes and flake-parts
 - [rummik/nixos-config](https://github.com/rummik/nixos-config) - My NixOS/Nix-Darwin + home-manager configs
 - [nekowinston/dotfiles](https://github.com/nekowinston/dotfiles) - ❄️ mi casa es tu casa
@@ -2292,7 +2291,7 @@
 - [MrPowerScripts/reddit-karma-farming-bot](https://github.com/MrPowerScripts/reddit-karma-farming-bot) - "Is karma really that important to you? Damn bro, you need a life" - YouTube Comment
 - [vm03/payload_dumper](https://github.com/vm03/payload_dumper) - Android OTA payload dumper
 - [spinlud/py-linkedin-jobs-scraper](https://github.com/spinlud/py-linkedin-jobs-scraper) - 
-- [kraanzu/dooit](https://github.com/kraanzu/dooit) - A TUI todo manager
+- [kraanzu/dooit](https://github.com/kraanzu/dooit) - An awesome TUI todo manager
 - [adapdr/apps-server](https://github.com/adapdr/apps-server) - A container based home development server, just copy over dist.* files, set the .env and get rolling!
 - [sahinakkaya/binary-clock-wallpaper](https://github.com/sahinakkaya/binary-clock-wallpaper) - A python script to generate wallpaper that shows time in binary.
 - [chrisvaughn/imap-cleanup](https://github.com/chrisvaughn/imap-cleanup) - Python script to clean out unwanted email via IMAP
@@ -3131,7 +3130,7 @@
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [iamvishnusankar/next-sitemap](https://github.com/iamvishnusankar/next-sitemap) - Sitemap generator for next.js. Generate sitemap(s) and robots.txt for all static/pre-rendered/dynamic/server-side pages.
 - [nandorojo/moti](https://github.com/nandorojo/moti) - 🐼  The React Native (+ Web) animation library, powered by Reanimated 3.
-- [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
+- [learn-anything/learn-anything.xyz](https://github.com/learn-anything/learn-anything.xyz) - Organize world's knowledge, explore connections and curate learning paths
 - [vercel/commerce](https://github.com/vercel/commerce) - Next.js Commerce
 - [karlitos/KissMyResume](https://github.com/karlitos/KissMyResume) - Generate polished résumés and CVs in HTML, PDF,  MS Word and other formats and Keep It Simple.
 - [microsoft/fluentui](https://github.com/microsoft/fluentui) - Fluent UI web represents a collection of utilities, React components, and web components for building web applications.
