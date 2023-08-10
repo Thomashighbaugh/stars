@@ -376,7 +376,7 @@
 - [codebushi/gatsby-starter-dimension](https://github.com/codebushi/gatsby-starter-dimension) - Gatsby.js V2 starter template based on Dimension, designed by HTML5 UP. Check out https://codebushi.com/gatsby-starters-and-themes/ for more Gatsby starters.
 - [akshat46/FlyingFox](https://github.com/akshat46/FlyingFox) - An opinionated set of configurations for firefox.
 - [channel-42/dotfiles](https://github.com/channel-42/dotfiles) - My dotfiles for my Arch-Install(s)
-- [IvanMalison/dotfiles](https://github.com/IvanMalison/dotfiles) - Configuration files for XMonad, Emacs, NixOS, Taffybar and more.
+- [colonelpanic8/dotfiles](https://github.com/colonelpanic8/dotfiles) - Configuration files for XMonad, Emacs, NixOS, Taffybar and more.
 - [vicky002/AlgoWiki](https://github.com/vicky002/AlgoWiki) - Repository which contains links and resources on different topics of Computer Science.
 - [georgeevans1995/Sassimate](https://github.com/georgeevans1995/Sassimate) - Sass mixin for dynamic animations
 - [sahat/megaboilerplate](https://github.com/sahat/megaboilerplate) - Handcrafted starter projects, optimized for simplicity and ease of use.
@@ -1606,6 +1606,7 @@
 - [basaran/awesomewm-backham](https://github.com/basaran/awesomewm-backham) - automatically focus back to the previous client on minimize and close
 - [ChrisTitusTech/titus-awesome](https://github.com/ChrisTitusTech/titus-awesome) - Custom AwesomeWM Theme
 - [streetturtle/noobie](https://github.com/streetturtle/noobie) - Create a wibar widget for Awesome WM with no lua code!
+- [llyram/awesomewm-dotfiles](https://github.com/llyram/awesomewm-dotfiles) - My config files for awesomewm
 - [purhan/dotfiles](https://github.com/purhan/dotfiles) - 
 - [leafo/moonscript](https://github.com/leafo/moonscript) - :crescent_moon: A language that compiles to Lua
 - [projekt0n/github-nvim-theme](https://github.com/projekt0n/github-nvim-theme) - Github's Neovim themes
@@ -3003,7 +3004,7 @@
 - [trigaten/Learn_Prompting](https://github.com/trigaten/Learn_Prompting) - 
 - [benbrastmckie/.config](https://github.com/benbrastmckie/.config) - NeoVim configuration optimized for writing in LaTeX
 - [LukeSmithxyz/critique-of-reason](https://github.com/LukeSmithxyz/critique-of-reason) - Term paper on Rationality
-- [sysprog21/lkmpg](https://github.com/sysprog21/lkmpg) - The Linux Kernel Module Programming Guide (updated for 5.x kernels)
+- [sysprog21/lkmpg](https://github.com/sysprog21/lkmpg) - The Linux Kernel Module Programming Guide (updated for 5.0+ kernels)
 
 ## Twig 
 
