@@ -1346,7 +1346,6 @@
 - [troglobit/awesome-switcher](https://github.com/troglobit/awesome-switcher) - Familiar Alt-Tab functionality in Awesome WM (3.5.5)
 - [Savecoders/dotfiles](https://github.com/Savecoders/dotfiles) - My dofiles in AwesomeWM
 - [jcrd/awesome-config](https://github.com/jcrd/awesome-config) - AwesomeWM config
-- [heavyrain266/awesome](https://github.com/heavyrain266/awesome) - Are we wayland yet?
 - [AhmedSaadi0/MyAwesomeConfig](https://github.com/AhmedSaadi0/MyAwesomeConfig) - 
 - [sebth/awesome-overlap](https://github.com/sebth/awesome-overlap) - Overlapping tiling layout for awesome window manager
 - [nwdamgaard/awesomewm-app-drawer](https://github.com/nwdamgaard/awesomewm-app-drawer) - A minimal .desktop launcher for Awesome Window Manager
@@ -2214,6 +2213,7 @@
 
 ## Python 
 
+- [ms-jpq/windows-in-docker](https://github.com/ms-jpq/windows-in-docker) - Manage Windows in Docker (easy)
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - An AI personal assistant for your digital brain
