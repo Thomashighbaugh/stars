@@ -631,7 +631,6 @@
 - [terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
 - [mdn/learning-area](https://github.com/mdn/learning-area) - GitHub repo for the MDN Learning Area.
 - [daattali/beautiful-jekyll](https://github.com/daattali/beautiful-jekyll) - ✨ Build a beautiful and simple website in literally minutes. Demo at https://beautifuljekyll.com
-- [usablica/intro.js](https://github.com/usablica/intro.js) - Lightweight, user-friendly onboarding tour library
 - [github/training-kit](https://github.com/github/training-kit) - Open source courseware for Git and GitHub
 - [aave/aave-protocol](https://github.com/aave/aave-protocol) - Aave Protocol Version 1.0 - Decentralized Lending Pools
 - [coreui/coreui-free-bootstrap-admin-template](https://github.com/coreui/coreui-free-bootstrap-admin-template) - Free Bootstrap Admin & Dashboard Template
@@ -1868,7 +1867,7 @@
 - [davegallant/nix-config](https://github.com/davegallant/nix-config) - nix configuration for multiple machines
 - [yurrriq/dotfiles](https://github.com/yurrriq/dotfiles) - My (semi-)literate dotfiles for Nix, Emacs, fish, etc, managed with home-manager and GNU Stow
 - [MayNiklas/nixos](https://github.com/MayNiklas/nixos) - My personal NixOS infrastructure
-- [colemickens/nixcfg](https://github.com/colemickens/nixcfg) - NixOS and Home-Manager configs formy devices. dotfiles, but way better
+- [colemickens/nixcfg](https://github.com/colemickens/nixcfg) - NixOS and Home-Manager configs for my devices. dotfiles, but way better
 - [utdemir/dotfiles-nix](https://github.com/utdemir/dotfiles-nix) - Comprehensive configurations of my NixOS workstations and home server.
 - [LEXUGE/nixos](https://github.com/LEXUGE/nixos) - A fully automated replicable nixos configuration set
 - [davidtwco/veritas](https://github.com/davidtwco/veritas) - @davidtwco's personal mono-repo - containing the declarative configuration of servers, desktops and laptops - including dotfiles; a collection of packages; a static site generator and source of "david
@@ -3109,6 +3108,7 @@
 - [PrettyCoffee/fluidity](https://github.com/PrettyCoffee/fluidity) - Fluidity - An accordion based startpage
 - [wigxel/nextjs-tailwind-boilerplate](https://github.com/wigxel/nextjs-tailwind-boilerplate) - A boilerplate for NextJS, StyledComponents and Tailwindcss. Lint and Formatting enabled.
 - [nixton9/HomePage](https://github.com/nixton9/HomePage) - HomePage app
+- [usablica/intro.js](https://github.com/usablica/intro.js) - Lightweight, user-friendly onboarding tour library
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - Your One-Stop Publication Workbench
 - [medyo/hackertab.dev](https://github.com/medyo/hackertab.dev) - A Chrome 🌐 & Firefox 🦊 extension to discover the best developer news and tools in one tab!
 - [rfarine/art-portfolio](https://github.com/rfarine/art-portfolio) - raefarine.art
