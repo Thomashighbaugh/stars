@@ -1131,6 +1131,7 @@
 
 ## Lua 
 
+- [dharmx-lua/awesome](https://github.com/dharmx-lua/awesome) - My AwesomeWM confuguration.
 - [kosorin/awesome-code-doc](https://github.com/kosorin/awesome-code-doc) - 
 - [frioux/charitable](https://github.com/frioux/charitable) - Shared tags for multi-monitor system
 - [jellydn/my-note.nvim](https://github.com/jellydn/my-note.nvim) - MyNote is a Neovim plugin that allows you to take notes in a floating window
@@ -1141,9 +1142,9 @@
 - [jcmuller/my-awesome-wm-config](https://github.com/jcmuller/my-awesome-wm-config) - My laptop's Awesome WM configuration
 - [RU927/re_tile](https://github.com/RU927/re_tile) - dotfiles window manager
 - [juanibiapina/dotfiles](https://github.com/juanibiapina/dotfiles) - Dotfiles optimized for performance and high productivity in the terminal
-- [TanvirOnGH/redflat](https://github.com/TanvirOnGH/redflat) - Extension Module for My Tailor-Fitted AwesomeWM Configuration (Fork of worron/redflat)
+- [TanvirOnGH/flex](https://github.com/TanvirOnGH/flex) - Extension Module for My Tailor-Fitted AwesomeWM Configuration (Fork of worron/redflat)
 - [HoNamDuong/.dotfiles](https://github.com/HoNamDuong/.dotfiles) - My dotfiles for Linux
-- [PassiveLemon/lemonix](https://github.com/PassiveLemon/lemonix) - NixOS dotfiles
+- [PassiveLemon/lemonix](https://github.com/PassiveLemon/lemonix) - The Dotfiles for my NixOS system
 - [gnomengineer/simpledesktop](https://github.com/gnomengineer/simpledesktop) - a lightweight and simple arch distro with own customization
 - [madhur/dotfiles](https://github.com/madhur/dotfiles) - Configuration files of my desktop computer running EndeavourOS Linux
 - [dangminhngo/xdotfiles](https://github.com/dangminhngo/xdotfiles) - My dotfiles on X (AwesomeWM)
@@ -1826,7 +1827,7 @@
 - [thiagokokada/nix-configs](https://github.com/thiagokokada/nix-configs) - My Nix{OS} configuration files
 - [lourkeur/config](https://github.com/lourkeur/config) - My Nix configuration
 - [nix-community/NixNG](https://github.com/nix-community/NixNG) - A linux distribution based on Nix [maintainer=@MagicRB]
-- [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config) - Flake-based Nix / NixOS configuration for MacOS, x86, or running both ✨
+- [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config) - Nix configuration that works on MacOS (including dock, UI, etc.) and NixOS ✨
 - [kanashimia/nixos-config](https://github.com/kanashimia/nixos-config) - Configuration of my nixos systems.
 - [gautaz/phoenix](https://github.com/gautaz/phoenix) - Because I want my Nix workspaces to rise from their ashes
 - [wiltaylor/nix-iso](https://github.com/wiltaylor/nix-iso) - My collection of custom NixOS ISO files.
@@ -2341,7 +2342,7 @@
 - [ahmed2m/dotfiles](https://github.com/ahmed2m/dotfiles) - My own config dotfiles for qtile/kde/awesomewm on Arch based distros
 - [hummingbot/hummingbot](https://github.com/hummingbot/hummingbot) - Open source software that helps you create and deploy high-frequency crypto trading bots
 - [CryptoSignal/Crypto-Signal](https://github.com/CryptoSignal/Crypto-Signal) - Github.com/CryptoSignal - Trading & Technical Analysis Bot - 4,100+ stars, 1,100+ forks
-- [Rick-Lang/rickroll-lang](https://github.com/Rick-Lang/rickroll-lang) - The Rick Roll programming language is a rickroll based, process oriented, dynamic, strong, esoteric programming language. All of the keywords/statements are from Rick Astley's lyrics. Discord server: 
+- [Rick-Lang/rickroll-lang](https://github.com/Rick-Lang/rickroll-lang) - The Rick Roll programming language is a rickroll based, process oriented, dynamic, strong, esoteric programming language. All of the keywords/statements are from Rick Astley's lyrics. Check our tutori
 - [heyzec/Inkscape-Extensions](https://github.com/heyzec/Inkscape-Extensions) - Some extensions for Inkscape
 - [akkana/gimp-plugins](https://github.com/akkana/gimp-plugins) - GIMP plug-ins, scripts and helpers
 - [0x3444ac53/unixpornposter](https://github.com/0x3444ac53/unixpornposter) - 
