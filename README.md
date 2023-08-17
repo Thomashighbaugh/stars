@@ -223,6 +223,7 @@
 - [CachyOS/cachyos-calamares](https://github.com/CachyOS/cachyos-calamares) - CachyOS Calamares
 - [PL-V/Firefox-WebInject](https://github.com/PL-V/Firefox-WebInject) - Firefox webInjector capable of injecting codes into webpages using a mitmproxy.
 - [ctubio/Krypto-trading-bot](https://github.com/ctubio/Krypto-trading-bot) - Self-hosted crypto trading bot (automated high frequency market making) written in C++
+- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 - [CachyOS/New-Cli-Installer](https://github.com/CachyOS/New-Cli-Installer) - CachyOS CLI Installer
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
 - [Nitrux/maui-shell](https://github.com/Nitrux/maui-shell) - Maui Shell is a convergent shell for desktops, tablets, and phones.
@@ -272,7 +273,6 @@
 
 - [Thomashighbaugh/gpt_notebook](https://github.com/Thomashighbaugh/gpt_notebook) - A Markdown Notebook about LLMs and Generative AI rendered into a website using MDBook and GitHub Actions. Featues my collection of prompts for ChatGPT/GPT-3
 - [7KIR7/dots](https://github.com/7KIR7/dots) - my dotfiles
-- [dankdezpair/hypr.files-V2](https://github.com/dankdezpair/hypr.files-V2) - 
 - [Stetsed/.dotfiles](https://github.com/Stetsed/.dotfiles) - My dotfiles repository
 - [NeuronSooup/Gnome-topbar-le-dots](https://github.com/NeuronSooup/Gnome-topbar-le-dots) - This is my gnome configuration for both usability, look and feel
 - [zjp-CN/mdbook-template](https://github.com/zjp-CN/mdbook-template) - Yield a mdbook demo with mdbook-theme and a yml file for github action automation and page publication.
@@ -698,7 +698,6 @@
 - [tanjeffreyz/github-statistics](https://github.com/tanjeffreyz/github-statistics) - GitHub stat tracker that uses GraphQL to retrieve both public and private user statistics, which can then be displayed on profile READMEs
 - [PaperMC/Paper](https://github.com/PaperMC/Paper) - The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies
 - [RipMeApp/ripme](https://github.com/RipMeApp/ripme) - Downloads albums in bulk
-- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 - [NeoApplications/Neo-Launcher](https://github.com/NeoApplications/Neo-Launcher) - Free and Open Source Launcher.
 - [Neamar/KISS](https://github.com/Neamar/KISS) - Lightning fast, open-source, &lt; 200kb Android launcher
 - [siddhi-io/siddhi](https://github.com/siddhi-io/siddhi) - Stream Processing and Complex Event Processing Engine
@@ -1139,6 +1138,7 @@
 - [Yorubae/wayland-dotfiles](https://github.com/Yorubae/wayland-dotfiles) - This repository contains my personal configuration files for various applications and tools that I use on a daily basis. These dotfiles include personalized settings, keybindings, aliases, and other c
 - [ibhagwan/fzf-lua](https://github.com/ibhagwan/fzf-lua) - Improved fzf.vim written in lua
 - [stevearc/dressing.nvim](https://github.com/stevearc/dressing.nvim) - Neovim plugin to improve the default vim.ui interfaces
+- [dankdezpair/hypr.files-V2](https://github.com/dankdezpair/hypr.files-V2) - 
 - [jcmuller/my-awesome-wm-config](https://github.com/jcmuller/my-awesome-wm-config) - My laptop's Awesome WM configuration
 - [RU927/re_tile](https://github.com/RU927/re_tile) - dotfiles window manager
 - [juanibiapina/dotfiles](https://github.com/juanibiapina/dotfiles) - Dotfiles optimized for performance and high productivity in the terminal
@@ -2482,7 +2482,7 @@
 - [middleman/middleman](https://github.com/middleman/middleman) - Hand-crafted frontend development
 - [jekyll/jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
 - [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
-- [Terrastories/terrastories](https://github.com/Terrastories/terrastories) - Terrastories is a geostorytelling application built to enable local communities to locate and map their own oral storytelling traditions about places of significant meaning or value to them. Check out
+- [Terrastories/terrastories](https://github.com/Terrastories/terrastories) - Terrastories is a geostorytelling application for mapping, managing and sharing place-based stories. Check out our Wiki for open source development information.
 - [sds/scss-lint](https://github.com/sds/scss-lint) - Configurable tool for writing clean, consistent SCSS
 - [itkin/proselytism](https://github.com/itkin/proselytism) - Ruby document converter, text and image extractor using OpenOffice headless server, pdf_tools and net_pbm (RoR engine)
 - [angela-d/resgen](https://github.com/angela-d/resgen) - Keep track of jobs you've applied to, automate resume & cover letter creation; generate PDFs from .odt templates on the fly while scraping the job post and tracking employer status.
