@@ -258,6 +258,7 @@
 - [diasurgical/devilutionX](https://github.com/diasurgical/devilutionX) - Diablo build for modern operating systems
 - [pbek/QOwnNotes](https://github.com/pbek/QOwnNotes) - QOwnNotes is a plain-text file notepad and todo-list manager with markdown support and Nextcloud / ownCloud integration.
 - [robotology/yarp](https://github.com/robotology/yarp) - YARP - Yet Another Robot Platform
+- [Embroidermodder/Embroidermodder](https://github.com/Embroidermodder/Embroidermodder) - Free machine embroidery software supporting a variety of formats.
 - [lxqt/lxqt-panel](https://github.com/lxqt/lxqt-panel) - The LXQt desktop panel
 - [unetbootin/unetbootin](https://github.com/unetbootin/unetbootin) - UNetbootin installs Linux/BSD distributions to a partition or USB drive
 - [hannesschulze/conecto](https://github.com/hannesschulze/conecto) - Integrate your Android-phone with your PC - a GTK client for KDEConnect.
@@ -664,7 +665,6 @@
 - [jwasham/computer-science-flash-cards](https://github.com/jwasham/computer-science-flash-cards) - Mini website for testing both general CS knowledge and enforce coding practice and common algorithm/data structure memorization.
 - [website-templates/portfolio_one-page-template](https://github.com/website-templates/portfolio_one-page-template) - Free responsive one page portfolio template
 - [electron/electron-api-demos](https://github.com/electron/electron-api-demos) - Explore the Electron APIs
-- [Embroidermodder/Embroidermodder](https://github.com/Embroidermodder/Embroidermodder) - Free machine embroidery software supporting a variety of formats.
 - [icons8/flat-color-icons](https://github.com/icons8/flat-color-icons) - Free Flat Color Icons
 - [kubernetes/website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:
 - [Jaredk3nt/homepage](https://github.com/Jaredk3nt/homepage) - Custom homepage for use locally in browser
@@ -1143,6 +1143,7 @@
 - [juanibiapina/dotfiles](https://github.com/juanibiapina/dotfiles) - Dotfiles optimized for performance and high productivity in the terminal
 - [TanvirOnGH/flex](https://github.com/TanvirOnGH/flex) - Extension Module for My Tailor-Fitted AwesomeWM Configuration
 - [HoNamDuong/.dotfiles](https://github.com/HoNamDuong/.dotfiles) - My dotfiles for Linux
+- [linuxmobile/kaku](https://github.com/linuxmobile/kaku) - 革 | kaku
 - [PassiveLemon/lemonix](https://github.com/PassiveLemon/lemonix) - The Dotfiles for my NixOS system
 - [gnomengineer/simpledesktop](https://github.com/gnomengineer/simpledesktop) - a lightweight and simple arch distro with own customization
 - [madhur/dotfiles](https://github.com/madhur/dotfiles) - Configuration files of my desktop computer running EndeavourOS Linux
@@ -1705,7 +1706,6 @@
 - [PetarKirov/dotfiles](https://github.com/PetarKirov/dotfiles) - My personal system and $HOME configuration managed by Nix
 - [selfuryon/nixos-config](https://github.com/selfuryon/nixos-config) - My NixOS Configuration
 - [cmacrae/config](https://github.com/cmacrae/config) - A collection of machine configurations, expressed in Nix
-- [linuxmobile/kaku](https://github.com/linuxmobile/kaku) - 革 | kaku
 - [javacafe01/dotfiles](https://github.com/javacafe01/dotfiles) - My NixOS configurations for various systems
 - [shaunsingh/nixpkgs-s2k](https://github.com/shaunsingh/nixpkgs-s2k) - Shaunsingh's stash of fresh packages
 - [AntonHakansson/nixos-config](https://github.com/AntonHakansson/nixos-config) - NixOS configuration of my machines
