@@ -1252,7 +1252,6 @@
 - [wimstefan/dotfiles](https://github.com/wimstefan/dotfiles) - My personal dotfiles
 - [xlucn/dotfiles](https://github.com/xlucn/dotfiles) - Linux configuration files (dotfiles) and some useful scripts
 - [latipun7/dotfiles](https://github.com/latipun7/dotfiles) - 🏡 Home sweet ~/.
-- [Gwynsav/gwdawful](https://github.com/Gwynsav/gwdawful) - Literally the most gwdawful AwesomeWM configuration around.
 - [gabrielfrimodig/dotfiles](https://github.com/gabrielfrimodig/dotfiles) - There's no place like ~ !
 - [hnbnh/dotfiles](https://github.com/hnbnh/dotfiles) - my personal ~/dotfiles
 - [duclos-cavalcanti/dotfiles](https://github.com/duclos-cavalcanti/dotfiles) - Configuration files for my linux system.
@@ -1673,7 +1672,6 @@
 - [lyz-code/blue-book](https://github.com/lyz-code/blue-book) - My personal knowledge repository
 - [feroldi/ricing](https://github.com/feroldi/ricing) - a book about ricing unix-like systems
 - [docxy/website](https://github.com/docxy/website) - The website of Docxy.
-- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 
 ## Markdown 
 
@@ -1827,7 +1825,7 @@
 - [thiagokokada/nix-configs](https://github.com/thiagokokada/nix-configs) - My Nix{OS} configuration files
 - [lourkeur/config](https://github.com/lourkeur/config) - My Nix configuration
 - [nix-community/NixNG](https://github.com/nix-community/NixNG) - A linux distribution based on Nix [maintainer=@MagicRB]
-- [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config) - Nix configuration for MacOS (including dock, UI, etc.) and NixOS ✨
+- [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config) - My Nix environment for MacOS and NixOS ✨
 - [kanashimia/nixos-config](https://github.com/kanashimia/nixos-config) - Configuration of my nixos systems.
 - [gautaz/phoenix](https://github.com/gautaz/phoenix) - Because I want my Nix workspaces to rise from their ashes
 - [wiltaylor/nix-iso](https://github.com/wiltaylor/nix-iso) - My collection of custom NixOS ISO files.
@@ -2179,6 +2177,7 @@
 - [cjbarber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
 - [zziz/pwc](https://github.com/zziz/pwc) - This repository is no longer maintained.
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 
 ## PHP 
 
@@ -2659,7 +2658,7 @@
 - [n0rad/dockerfiles](https://github.com/n0rad/dockerfiles) - My dockerfiles
 - [Bhaviktutorials/shark](https://github.com/Bhaviktutorials/shark) - Future Of Phishing With less delay
 - [mikeroyal/Developer-Handbook](https://github.com/mikeroyal/Developer-Handbook) - Developer-Handbook
-- [Mizosu97/mizOS](https://github.com/Mizosu97/mizOS) - Source code for the miz Operating System
+- [The-Duat/mizOS](https://github.com/The-Duat/mizOS) - Source code for the miz Operating System
 - [0TrashPanda/install-script-artix](https://github.com/0TrashPanda/install-script-artix) - 
 - [gavinlyonsrepo/cylon](https://github.com/gavinlyonsrepo/cylon) - A Terminal user interface for maintaining an Arch Linux distribution.
 - [xchwarze/wifi-pineapple-cloner](https://github.com/xchwarze/wifi-pineapple-cloner) - Clone WiFi Pineapple NANO/TETRA in generic hardware
@@ -2911,7 +2910,7 @@
 - [filiparag/wikiman](https://github.com/filiparag/wikiman) - Wikiman is an offline search engine for manual pages, Arch Wiki, Gentoo Wiki and other documentation.
 - [wafflepie/dotfiles](https://github.com/wafflepie/dotfiles) - 🧰 Handcrafted dotfiles for web developers running Fedora, macOS, or Ubuntu for WSL. Ridiculously easy to set up, maintain, and extend.
 - [DonyaOS/Donya](https://github.com/DonyaOS/Donya) - Donya is an Operating System. Yet Another Linux distro built using a package management system.
-- [adi1090x/plymouth-themes](https://github.com/adi1090x/plymouth-themes) - A hugh collection (80+) of plymouth themes ported from android bootanimations
+- [adi1090x/plymouth-themes](https://github.com/adi1090x/plymouth-themes) - A huge collection (80+) of plymouth themes ported from android bootanimations
 - [6gk/fet.sh](https://github.com/6gk/fet.sh) - 🐢 a fetch written in posix shell without any external commands  (sponsored by https://git.io/kiwmi)
 - [LukeSmithxyz/voidrice](https://github.com/LukeSmithxyz/voidrice) - My dotfiles (deployed by LARBS)
 - [endeavouros-team/PKGBUILDS](https://github.com/endeavouros-team/PKGBUILDS) - PKGBUILDS for packages used in our repository
