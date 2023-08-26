@@ -528,7 +528,7 @@
 - [caarlos0/fork-cleaner](https://github.com/caarlos0/fork-cleaner) - Quickly clean up unused forks on your github account.
 - [muesli/beehive](https://github.com/muesli/beehive) - A flexible event/agent & automation system with lots of bees 🐝
 - [athul/shelby](https://github.com/athul/shelby) - Shelby is a fast ⚡️ , lightweight ☁️ , minimal✨,  shell prompt written in Go.
-- [xyproto/algernon](https://github.com/xyproto/algernon) - Small self-contained pure-Go web server with Lua, Markdown, HTTP/2, QUIC, Redis and PostgreSQL support
+- [xyproto/algernon](https://github.com/xyproto/algernon) - Small self-contained pure-Go web server with Lua, Teal, Markdown, HTTP/2, QUIC, Redis and PostgreSQL support
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [jboursiquot/portscan](https://github.com/jboursiquot/portscan) - Port scanning examples to teach Go concurrency bounding
 - [OJ/gobuster](https://github.com/OJ/gobuster) - Directory/File, DNS and VHost busting tool written in Go
@@ -1827,7 +1827,7 @@
 - [thiagokokada/nix-configs](https://github.com/thiagokokada/nix-configs) - My Nix{OS} configuration files
 - [lourkeur/config](https://github.com/lourkeur/config) - My Nix configuration
 - [nix-community/NixNG](https://github.com/nix-community/NixNG) - A linux distribution based on Nix [maintainer=@MagicRB]
-- [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config) - My Nix configuration for MacOS and NixOS ✨
+- [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config) - Flake-driven Nix configuration for MacOS and NixOS ✨
 - [kanashimia/nixos-config](https://github.com/kanashimia/nixos-config) - Configuration of my nixos systems.
 - [gautaz/phoenix](https://github.com/gautaz/phoenix) - Because I want my Nix workspaces to rise from their ashes
 - [wiltaylor/nix-iso](https://github.com/wiltaylor/nix-iso) - My collection of custom NixOS ISO files.
@@ -1921,7 +1921,6 @@
 - [WinkoErades/Joplin-note-taking-templates](https://github.com/WinkoErades/Joplin-note-taking-templates) - Joplin note taking templates
 - [InioX/dotfiles](https://github.com/InioX/dotfiles) - 
 - [snwfdhmp/awesome-gpt-prompt-engineering](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering) - A curated list of awesome resources, tools, and other shiny things for GPT prompt engineering.
-- [Amitabha37377/Awesome_maui](https://github.com/Amitabha37377/Awesome_maui) - Attempt to clone maui shell using awesome api
 - [brexhq/prompt-engineering](https://github.com/brexhq/prompt-engineering) - Tips and tricks for working with Large Language Models like OpenAI's GPT-4.
 - [devclyde/awcooler](https://github.com/devclyde/awcooler) - 
 - [Maks-s/sd-akashic](https://github.com/Maks-s/sd-akashic) - A compendium of informations regarding Stable Diffusion (SD)
@@ -1933,7 +1932,6 @@
 - [swyxio/ai-notes](https://github.com/swyxio/ai-notes) - notes for software engineers getting up to speed on new AI developments. Serves as datastore for https://latent.space writing, and product brainstorming, but has cleaned up canonical references under 
 - [PKUFlyingPig/Self-learning-Computer-Science](https://github.com/PKUFlyingPig/Self-learning-Computer-Science) - the resources I use to learn computer science in my spare time
 - [Fausto-Korpsvart/Tokyo-Night-GTK-Theme](https://github.com/Fausto-Korpsvart/Tokyo-Night-GTK-Theme) - A GTK theme based on the Tokyo Night colour palette.
-- [Amitabha37377/Awesome_Dotfiles](https://github.com/Amitabha37377/Awesome_Dotfiles) - 
 - [andrewzn69/dotfiles](https://github.com/andrewzn69/dotfiles) - all my dotfiles in one repo
 - [chucklarge/html-resume-template](https://github.com/chucklarge/html-resume-template) - 
 - [meetpateltech/AI-Infinity](https://github.com/meetpateltech/AI-Infinity) - A set of AI tools that will help you explore the infinite possibilities of AI.
