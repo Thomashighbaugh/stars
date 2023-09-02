@@ -1897,7 +1897,7 @@
 
 ## Others 
 
-- [d-solis/dotfiles](https://github.com/d-solis/dotfiles) - For real this time. XD
+- [d-solis/dots](https://github.com/d-solis/dots) - For real this time. XD
 - [Amitabha37377/Awful-DOTS](https://github.com/Amitabha37377/Awful-DOTS) - 
 - [coderdost/full-stack-dev-2023](https://github.com/coderdost/full-stack-dev-2023) - Full Stack Developer Course 2023 - CoderDost Youtube channel
 - [zemmsoares/awesome-rices](https://github.com/zemmsoares/awesome-rices) - A curated list of awesome unix user rices!
