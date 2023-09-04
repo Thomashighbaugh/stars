@@ -1130,7 +1130,6 @@
 
 ## Lua 
 
-- [dharmx-lua/awesome](https://github.com/dharmx-lua/awesome) - My AwesomeWM confuguration.
 - [kosorin/awesome-code-doc](https://github.com/kosorin/awesome-code-doc) - 
 - [frioux/charitable](https://github.com/frioux/charitable) - Shared tags for multi-monitor system
 - [jellydn/my-note.nvim](https://github.com/jellydn/my-note.nvim) - MyNote is a Neovim plugin that allows you to take notes in a floating window
@@ -1695,6 +1694,7 @@
 
 ## Nix 
 
+- [xenoxanite/flakes](https://github.com/xenoxanite/flakes) - Xenoxanite's nixos configuration.
 - [qbit/xin](https://github.com/qbit/xin) - My nix setup
 - [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@rycee]
 - [buffet/amirice](https://github.com/buffet/amirice) - tara config
@@ -1718,7 +1718,6 @@
 - [linyinfeng/dotfiles](https://github.com/linyinfeng/dotfiles) - My personal NixOS configurations.
 - [xddxdd/nixos-config](https://github.com/xddxdd/nixos-config) - 
 - [ryan4yin/nix-config](https://github.com/ryan4yin/nix-config) - ❄️ryan4yin's nix config(NixOS/macOS + home-manager + i3/hyprland + neovim + agenix)
-- [meppu/nix-config](https://github.com/meppu/nix-config) - My Nix(OS) configuration files
 - [disassembler/network](https://github.com/disassembler/network) - Home Network
 - [kira-bruneau/nixos-config](https://github.com/kira-bruneau/nixos-config) - My NixOS configuration
 - [ReplayCoding/nixos-config](https://github.com/ReplayCoding/nixos-config) - 
@@ -2585,6 +2584,7 @@
 
 ## Shell 
 
+- [dharmx-lua/awesome](https://github.com/dharmx-lua/awesome) - My AwesomeWM confuguration.
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
 - [shapeshed/notes](https://github.com/shapeshed/notes) - Simple, lightweight note taking from the command line
 - [dbluhm/bash-notes](https://github.com/dbluhm/bash-notes) - A bash markdown note taking tool.
@@ -3009,6 +3009,7 @@
 
 ## TypeScript 
 
+- [mrLuisFer/linktry](https://github.com/mrLuisFer/linktry) - 🌟 🌟 🌟 A more custom version of Linktree made with react and tailwind for the use of developers
 - [Kattjakt/github-markdown-alerts](https://github.com/Kattjakt/github-markdown-alerts) - A utility for generating alerts/banners using SVG, making them embeddable in GitHub flavored markdown and all other platforms supporting SVG
 - [BUMBAIYA/amitchauhan-v2](https://github.com/BUMBAIYA/amitchauhan-v2) - Portfolio website made using Nextjs 13 and Tailwindcss
 - [coreui/coreui-icons](https://github.com/coreui/coreui-icons) - CoreUI Free Icons -  Premium designed free icon set with marks in SVG, Webfont and raster formats
