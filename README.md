@@ -716,6 +716,7 @@
 
 ## JavaScript 
 
+- [simarmannsingh/silverlux](https://github.com/simarmannsingh/silverlux) - All the technologies used are free and open-source. You are free to use this template for a personal or commercial purposes. I'm using this template for my blog as well at https://simarmannsingh.com. 
 - [Akshay090/svg-banners](https://github.com/Akshay090/svg-banners) - Styled banners for your Readme made with html/css in SVG !!
 - [kampka/nix-packages](https://github.com/kampka/nix-packages) - My personal nix repository
 - [leepenney/markdown-gallery](https://github.com/leepenney/markdown-gallery) - Converts a list of images into gallery mark-up
@@ -1130,6 +1131,7 @@
 
 ## Lua 
 
+- [nvimtools/none-ls.nvim](https://github.com/nvimtools/none-ls.nvim) - null-ls.nvim reloaded / Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.
 - [kosorin/awesome-code-doc](https://github.com/kosorin/awesome-code-doc) - 
 - [frioux/charitable](https://github.com/frioux/charitable) - Shared tags for multi-monitor system
 - [jellydn/my-note.nvim](https://github.com/jellydn/my-note.nvim) - MyNote is a Neovim plugin that allows you to take notes in a floating window
@@ -1580,7 +1582,7 @@
 - [ndgnuh/awesome-config](https://github.com/ndgnuh/awesome-config) - Config set(s) for awesomewm
 - [Nguyen-Hoang-Nam/nvim-dotfiles-kitty](https://github.com/Nguyen-Hoang-Nam/nvim-dotfiles-kitty) - Neovim + Kitty = ❤️
 - [Creator54/awesome](https://github.com/Creator54/awesome) - Some beautiful awesome configs gathered with some minor changes just switch git checkout $branch and reload(mod+shift+r) to enjoy a new layout. lazy to update README use mod+s instead
-- [Thomashighbaugh/nvim-forge](https://github.com/Thomashighbaugh/nvim-forge) - Lua-first NeoVim Configuration to Actually Make Using NeoVim a Powerful & Enjoyable Experience
+- [Thomashighbaugh/nvim-forge](https://github.com/Thomashighbaugh/nvim-forge) - My Personal Development Environment
 - [bunburya/awesomerc](https://github.com/bunburya/awesomerc) - My AwesomeWM configuration Lua files.
 - [shmilee/config-awesome](https://github.com/shmilee/config-awesome) - Awesome Window Manager Config Files
 - [shmilee/awesome-away](https://github.com/shmilee/awesome-away) - wallpapers, widgets and utilities for Awesome WM 4.x.
@@ -1675,6 +1677,7 @@
 
 ## Markdown 
 
+- [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas) - A curation of awesome portfolio website ideas for developers and designers to draw inspiration from. Raise a pull request to add more. 💜
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 
 ## MoonScript 
@@ -2998,7 +3001,7 @@
 - [akss13/Resume-builder](https://github.com/akss13/Resume-builder) - Automated resume builder
 - [ianliuy/Resume](https://github.com/ianliuy/Resume) - My CV template, 35+ Online Assessments
 - [fresh-standard/fresh-themes](https://github.com/fresh-standard/fresh-themes) - Multiformat themes and skins for your technical résumé/CV.
-- [trigaten/Learn_Prompting](https://github.com/trigaten/Learn_Prompting) - 
+- [trigaten/Learn_Prompting](https://github.com/trigaten/Learn_Prompting) - Prompt Engineering, Generative AI, and LLM Guide by Learn Prompting | Join our discord for the largest Prompt Engineering learning community
 - [benbrastmckie/.config](https://github.com/benbrastmckie/.config) - NeoVim configuration optimized for writing in LaTeX
 - [LukeSmithxyz/critique-of-reason](https://github.com/LukeSmithxyz/critique-of-reason) - Term paper on Rationality
 - [sysprog21/lkmpg](https://github.com/sysprog21/lkmpg) - The Linux Kernel Module Programming Guide (updated for 5.0+ kernels)
@@ -3071,7 +3074,7 @@
 - [react-icons/react-icons](https://github.com/react-icons/react-icons) - svg react icons of popular icon packs
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [cosmoscout/tasty.js](https://github.com/cosmoscout/tasty.js) - 🍰 A delicious Pie- and Marking-Menu Framework written in TypeScript.
-- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Framework to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
+- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
 - [anirudhvarma12/rabbit-hole-webext](https://github.com/anirudhvarma12/rabbit-hole-webext) - A Browser Extension to trace your Wikipedia Journeys
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [pawelmalak/flame](https://github.com/pawelmalak/flame) - Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors.
