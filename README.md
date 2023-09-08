@@ -764,7 +764,6 @@
 - [replicate/inpainter](https://github.com/replicate/inpainter) - A web GUI built with Next.js for inpainting with Stable Diffusion using the Replicate API.
 - [leungwensen/svg-icon](https://github.com/leungwensen/svg-icon) - An ultimate SVG icons collection DONE RIGHT, with over 10,000 SVG icons out of the box.
 - [zloirock/core-js](https://github.com/zloirock/core-js) - Standard Library
-- [Aylur/dotfiles](https://github.com/Aylur/dotfiles) - My personal config files
 - [jpetitcolas/ascii-art-converter](https://github.com/jpetitcolas/ascii-art-converter) - Convert any image into pure ASCII art using some JavaScript
 - [dortania/OpenCore-Install-Guide](https://github.com/dortania/OpenCore-Install-Guide) - Repo for the OpenCore Install Guide
 - [ran-dall/codex](https://github.com/ran-dall/codex) - Mirror of Randall's Codex 📜
@@ -1211,7 +1210,7 @@
 - [phaazon/config](https://github.com/phaazon/config) - My main configuration files
 - [cjnucette/nvim.lazy](https://github.com/cjnucette/nvim.lazy) - nvim using lazy.nvim plugin manager
 - [joelazar/nvim-config](https://github.com/joelazar/nvim-config) - My neovim config
-- [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config) - A genaralized, personalized, and simple configuration.
+- [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config) - General, personal, and packed with laugh-out-loud startup messages! Enjoy your coding journey! 😄🚀
 - [Nooo37/farbig](https://github.com/Nooo37/farbig) - Colorscheme collection
 - [blueyed/awesome-cyclefocus](https://github.com/blueyed/awesome-cyclefocus) - Alt-Tab for the awesome window manager (and more)
 - [colbell/awesome-wm](https://github.com/colbell/awesome-wm) - Awesome Window Manager Configuration
@@ -1750,7 +1749,7 @@
 - [573/NixOS](https://github.com/573/NixOS) - MSF OCB NixOS config
 - [dawidd6/nix](https://github.com/dawidd6/nix) - :snowflake: NixOS and home-manager configurations
 - [chaotic-cx/nyx](https://github.com/chaotic-cx/nyx) - Nix flake for bleeding-edge and unreleased packages (e.g., mesa_git, linux_cachyos, sway_git, gamescope_git).
-- [tensorush/flakes](https://github.com/tensorush/flakes) - ❄️ My current NixOS configuration and environments wrapped into Nix Flakes.
+- [tensorush/flake](https://github.com/tensorush/flake) - ❄️ My current NixOS configuration wrapped into a Nix Flake.
 - [nicekoishi/dotfiles](https://github.com/nicekoishi/dotfiles) - my NixOS dotfiles, do what you want
 - [pogobanane/dotfiles](https://github.com/pogobanane/dotfiles) - My dotfiles. Mostly NixOS config.
 - [Zumorica/GradientOS](https://github.com/Zumorica/GradientOS) - Flake for multiple NixOS system configurations
@@ -2547,6 +2546,7 @@
 ## SCSS 
 
 - [world-class/REPL](https://github.com/world-class/REPL) - The Learning Hub for UoL's Online CS Students
+- [Aylur/dotfiles](https://github.com/Aylur/dotfiles) - My personal config files
 - [numixproject/numix-gtk-theme](https://github.com/numixproject/numix-gtk-theme) - A modern flat theme with a combination of light and dark elements.
 - [te6-in/lepton-custom](https://github.com/te6-in/lepton-custom) - 🦊 A macOS style theme for Firefox—forked from Lepton(Firefox-UI-Fix)
 - [black7375/Firefox-UI-Fix](https://github.com/black7375/Firefox-UI-Fix) - 🦊 I respect proton UI and aim to improve it.
