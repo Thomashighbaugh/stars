@@ -199,6 +199,7 @@
 
 ## C# # 
 
+- [collinbarrett/FilterLists](https://github.com/collinbarrett/FilterLists) - :shield: The independent, comprehensive directory of filter and host lists for advertisements, trackers, malware, and annoyances.
 - [LimerBoy/FireFox-Thief](https://github.com/LimerBoy/FireFox-Thief) - :fox_face: Decrypt gecko based browsers passwords, cookies, history, bookmarks.
 - [AlexWan/OsEngine](https://github.com/AlexWan/OsEngine) - Open Source algo trading platform
 - [git-ecosystem/git-credential-manager](https://github.com/git-ecosystem/git-credential-manager) - Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.
@@ -588,6 +589,8 @@
 
 ## HTML 
 
+- [berrysauce/whatdevsneed](https://github.com/berrysauce/whatdevsneed) - 🧰 Discover new developer tools
+- [learn-awesome/learn](https://github.com/learn-awesome/learn) - A social network of lifelong learners built around humanity's universal learning map.
 - [abhishekpatel946/nft-minter.github.io](https://github.com/abhishekpatel946/nft-minter.github.io) - Create NFTs for free on Rarible.com via a new lazy minting feature
 - [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 4600 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [danmindru/responsive-html-email-signature](https://github.com/danmindru/responsive-html-email-signature) - ✨ Template generator for (responsive) emails & email signatures
@@ -1752,7 +1755,7 @@
 - [plmercereau/NixOS](https://github.com/plmercereau/NixOS) - NixOS config for servers in the field
 - [573/NixOS](https://github.com/573/NixOS) - MSF OCB NixOS config
 - [dawidd6/nix](https://github.com/dawidd6/nix) - :snowflake: NixOS and home-manager configurations
-- [chaotic-cx/nyx](https://github.com/chaotic-cx/nyx) - Nix flake for bleeding-edge and unreleased packages (e.g., mesa_git, linux_cachyos, sway_git, gamescope_git).
+- [chaotic-cx/nyx](https://github.com/chaotic-cx/nyx) - Nix flake for bleeding-edge and unreleased packages (e.g., mesa_git, linux_cachyos, firefox_nightly, sway_git, gamescope_git). And experimental modules (e.g., HDR, duckdns)
 - [tensorush/flakes](https://github.com/tensorush/flakes) - ❄️ My NixOS configuration flakes.
 - [nicekoishi/dotfiles](https://github.com/nicekoishi/dotfiles) - my NixOS dotfiles, do what you want
 - [pogobanane/dotfiles](https://github.com/pogobanane/dotfiles) - My dotfiles. Mostly NixOS config.
@@ -1901,6 +1904,20 @@
 
 ## Others 
 
+- [teal33t/osint-notes](https://github.com/teal33t/osint-notes) - Good info about DeepWeb and OSINT
+- [chow-petit/awesome-curated-tools](https://github.com/chow-petit/awesome-curated-tools) - A curated list of digital tools we use, ranging from accounting and data science to scientific research and liquid democracy. Commented, connected, by everyone and for everyone !
+- [himhaidar/curated-fullstack-books](https://github.com/himhaidar/curated-fullstack-books) - A curated list of full-stack development books.
+- [pawamoy/awesome-repository](https://github.com/pawamoy/awesome-repository) - A curated list of services, tools and standards about (open source) repository management.
+- [learn-anything/documentaries](https://github.com/learn-anything/documentaries) - Awesome Documentaries
+- [AthenaAI/community-search](https://github.com/AthenaAI/community-search) - A community-curated repository of 🔥 learning resources
+- [osromusic/Glitch-Arts-Resources](https://github.com/osromusic/Glitch-Arts-Resources) - A curated list of resources for all arts glitch.
+- [learn-anything/command-line-tools](https://github.com/learn-anything/command-line-tools) - Awesome Command Line Utilities
+- [cedrickchee/awesome-wireguard](https://github.com/cedrickchee/awesome-wireguard) - A curated list of WireGuard tools, projects, and resources.
+- [chobeat/awesome-critical-tech-reading-list](https://github.com/chobeat/awesome-critical-tech-reading-list) - A reading list for the modern critical programmer
+- [minar09/awesome-virtual-try-on](https://github.com/minar09/awesome-virtual-try-on) - A curated list of awesome research papers, projects, code, dataset, workshops etc. related to virtual try-on.
+- [SalGnt/cscs](https://github.com/SalGnt/cscs) - A curated list of Coding Style Conventions and Standards.
+- [hng/tech-coops](https://github.com/hng/tech-coops) - A list of tech coops and resources concerning tech coops and worker owned cooperatives in general.
+- [vicoyeh/pointers-for-software-engineers](https://github.com/vicoyeh/pointers-for-software-engineers) - A curated list of topics to start learning software engineering
 - [d-solis/dots](https://github.com/d-solis/dots) - For real this time. XD
 - [Amitabha37377/Awful-DOTS](https://github.com/Amitabha37377/Awful-DOTS) - 
 - [coderdost/full-stack-dev-2023](https://github.com/coderdost/full-stack-dev-2023) - Full Stack Developer Course 2023 - CoderDost Youtube channel
@@ -2216,6 +2233,7 @@
 
 ## Python 
 
+- [jekil/awesome-hacking](https://github.com/jekil/awesome-hacking) - Awesome hacking is an awesome collection of hacking tools.
 - [maximedrn/opensea-automatic-bulk-upload-and-sale](https://github.com/maximedrn/opensea-automatic-bulk-upload-and-sale) - Bypass reCAPTCHAs | A Selenium Python bot to automatically and bulky upload/ mint and list your NFTs on OpenSea. All metadata compatible, Ethereum and Polygon blockchains supported, reCAPTCHA solvers 
 - [AaronWLChan/file-organiser](https://github.com/AaronWLChan/file-organiser) - Simple File Organiser
 - [ms-jpq/windows-in-docker](https://github.com/ms-jpq/windows-in-docker) - Manage Windows in Docker (easy)
