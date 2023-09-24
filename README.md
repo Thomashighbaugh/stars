@@ -40,6 +40,7 @@
 - [Jinja](#jinja)
 - [Julia](#julia)
 - [Jupyter Notebook](#jupyter-notebook)
+- [KakouneScript](#kakounescript)
 - [Kotlin](#kotlin)
 - [Less](#less)
 - [Lua](#lua)
@@ -510,7 +511,7 @@
 - [jollheef/appvm](https://github.com/jollheef/appvm) - Nix-based app VMs
 - [BetaPictoris/book](https://github.com/BetaPictoris/book) - 📖 Read ebooks from the comfort of your terminal.
 - [ssleert/zfxtop](https://github.com/ssleert/zfxtop) - [WIP] fetch top for gen Z with X written by bubbletea enjoyer
-- [usememos/memos](https://github.com/usememos/memos) - A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts.
+- [usememos/memos](https://github.com/usememos/memos) - A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts
 - [cheshire137/gen-svgo-pattern](https://github.com/cheshire137/gen-svgo-pattern) - Generate Go code to create SVG patterns from a given SVG image.
 - [curusarn/resh](https://github.com/curusarn/resh) - RESH ❯❯ Contextual shell history for zsh and bash
 - [inancgumus/learngo](https://github.com/inancgumus/learngo) - ❤️ 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes. 🚀 Learn Go by fixing 1000+ tiny programs.
@@ -1119,6 +1120,10 @@
 - [spmallick/learnopencv](https://github.com/spmallick/learnopencv) - Learn OpenCV  : C++ and Python Examples
 - [The-Art-of-Hacking/h4cker](https://github.com/The-Art-of-Hacking/h4cker) - This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFI
 
+## KakouneScript 
+
+- [rochacbruno/dotfiles](https://github.com/rochacbruno/dotfiles) - My Environment Configurations
+
 ## Kotlin 
 
 - [iamrasel/lunar-launcher](https://github.com/iamrasel/lunar-launcher) - Feature rich android home with minimal look.
@@ -1369,7 +1374,6 @@
 - [nuxshed/dotfiles](https://github.com/nuxshed/dotfiles) - pls help
 - [Kasper24/KwesomeDE](https://github.com/Kasper24/KwesomeDE) - A desktop environment made in AwesomeWM
 - [javacafe01/awesome-wallpaper](https://github.com/javacafe01/awesome-wallpaper) - 
-- [rochacbruno/dotfiles](https://github.com/rochacbruno/dotfiles) - My Environment Configurations
 - [Crylia/crylia-theme](https://github.com/Crylia/crylia-theme) - A theme for AwesomeWM
 - [b0o/nvim-conf](https://github.com/b0o/nvim-conf) - ☄ Maddison's Neovim configuration!
 - [ashincoder/StarVim](https://github.com/ashincoder/StarVim) - A neovim IDE which is beyond the moon 🌚
@@ -1705,6 +1709,7 @@
 
 ## Nix 
 
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) - Wimpy's NixOS  & Home Manager Configurations ❄️
 - [Icy-Thought/snowflake](https://github.com/Icy-Thought/snowflake) - A repository which contains my current Nix (flake-based) setup!
 - [MatthewCroughan/nixcfg](https://github.com/MatthewCroughan/nixcfg) - My nix configuration(s), using flakes. It's my laptop, it's my servers, it's my everything, in code.
 - [jnsgruk/nixos-config](https://github.com/jnsgruk/nixos-config) - jnsgruk's NixOS configuration flake ❄️
@@ -2136,6 +2141,7 @@
 - [mossailem/flappe](https://github.com/mossailem/flappe) - Flappe (Flat UI Colors Pallete for Inkscape) is collection of color pallete for Inkscape that inspired from Flat UI Colors Pallete.
 - [Robert-96/inkscape-templates](https://github.com/Robert-96/inkscape-templates) - A collection of SVG templates for Inkscape.
 - [Data4Democracy/ethics-resources](https://github.com/Data4Democracy/ethics-resources) - 
+- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim/neovim distribution - The ultimate vimrc
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [appacademy/welcome-to-open](https://github.com/appacademy/welcome-to-open) - Overview of App Academy Open
 - [HAX3RxD/report](https://github.com/HAX3RxD/report) - Auto Report Facebook Account
@@ -2249,6 +2255,7 @@
 
 ## Python 
 
+- [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - Dev tool that writes scalable apps from scratch while the developer oversees the implementation
 - [HugoReeves/elemental](https://github.com/HugoReeves/elemental) - Elemental, the component parts of a Nix/OS development system.
 - [jekil/awesome-hacking](https://github.com/jekil/awesome-hacking) - Awesome hacking is an awesome collection of hacking tools.
 - [maximedrn/opensea-automatic-bulk-upload-and-sale](https://github.com/maximedrn/opensea-automatic-bulk-upload-and-sale) - Bypass reCAPTCHAs | A Selenium Python bot to automatically and bulky upload/ mint and list your NFTs on OpenSea. All metadata compatible, Ethereum and Polygon blockchains supported, reCAPTCHA solvers 
@@ -2536,6 +2543,7 @@
 
 ## Rust 
 
+- [lotabout/skim](https://github.com/lotabout/skim) - Fuzzy Finder in rust!
 - [Michael-F-Bryan/mdbook-linkcheck](https://github.com/Michael-F-Bryan/mdbook-linkcheck) - A backend for `mdbook` which will check your links for you.
 - [aniketkharel/gita-greeter](https://github.com/aniketkharel/gita-greeter) - Divine Bhagavad gita verses command line greeter.
 - [MagmaWM/MagmaWM](https://github.com/MagmaWM/MagmaWM) - A versatile and customizable Window Manager and Wayland Compositor
@@ -3060,7 +3068,7 @@
 - [BUMBAIYA/amitchauhan-v2](https://github.com/BUMBAIYA/amitchauhan-v2) - Portfolio website made using Nextjs 13 and Tailwindcss
 - [coreui/coreui-icons](https://github.com/coreui/coreui-icons) - CoreUI Free Icons -  Premium designed free icon set with marks in SVG, Webfont and raster formats
 - [vitorgouveia/Giffy](https://github.com/vitorgouveia/Giffy) - :camera: Gif recording made easy.
-- [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - ✨ Trigger.dev is an open-source platform to create long-running jobs directly in your Next.js project, with features like API integrations, webhooks, scheduling and delays.
+- [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - ✨ Trigger.dev is the open source background jobs framework for TypeScript. With features like API integrations, webhooks, scheduling and delays.
 - [RotichD/photography-personal](https://github.com/RotichD/photography-personal) - Personal photography portfolio website with blog. Next.JS + TypeScript + TailwindCSS
 - [GoldinGuy/CollegeCompendium](https://github.com/GoldinGuy/CollegeCompendium) - 📓 A curated collection of free public Computer Science classes from colleges across America
 - [csmberkeley/csm_web](https://github.com/csmberkeley/csm_web) - Web applications for CS Mentors.
@@ -3261,7 +3269,6 @@
 - [Thomashighbaugh/vim](https://github.com/Thomashighbaugh/vim) - Vim configuration
 - [shapeshed/dotfiles](https://github.com/shapeshed/dotfiles) - My dotfiles
 - [skywind3000/vim-quickui](https://github.com/skywind3000/vim-quickui) - The missing UI extensions for Vim 8.2 (and NeoVim 0.4) !! :sunglasses:
-- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim/neovim distribution - The ultimate vimrc
 - [ktonga/vim-follow-my-lead](https://github.com/ktonga/vim-follow-my-lead) - Vim plugin for showing all your &lt;Leader&gt; mappings in a readable table including the descriptions.
 - [mhinz/vim-galore](https://github.com/mhinz/vim-galore) - :mortar_board: All things Vim!
 - [strazto/dotfiles](https://github.com/strazto/dotfiles) - Modular :package: dotfile repo that uses dotbot profiles to make bootstrapping :zap: lighting fast, on (almost) any env.
