@@ -1337,6 +1337,7 @@
 - [cubetastic33/dotfiles](https://github.com/cubetastic33/dotfiles) - The dotfiles for my Linux setup
 - [quantrancse/arch-dotfiles](https://github.com/quantrancse/arch-dotfiles) - A fork of elenapan/dotfiles that work on Arch
 - [ThemerCorp/themer.lua](https://github.com/ThemerCorp/themer.lua) - A simple, minimal highlighter plugin for neovim
+- [intrntbrn/awesomewm-vim-tmux-navigator](https://github.com/intrntbrn/awesomewm-vim-tmux-navigator) - Navigate seamlessly between system windows, vim splits and tmux panes by only using awesomewm navigation keybindings.
 - [ner0z/dotfiles](https://github.com/ner0z/dotfiles) - 🍚 rice
 - [akosnad/dotfiles](https://github.com/akosnad/dotfiles) - Personal workflow/rice
 - [crater2150/awesome-modalbind](https://github.com/crater2150/awesome-modalbind) - Modal keybindings for awesomewm
@@ -2741,7 +2742,6 @@
 - [Thomashighbaugh/color-scripts](https://github.com/Thomashighbaugh/color-scripts) - Shell Color Script Management Utility
 - [samrxth/.dotfiles](https://github.com/samrxth/.dotfiles) - My fish, alacritty, iterm2, tmux, nvim, tmux, discoss and zathura configs!
 - [TermuxHackz/wifi-hacker](https://github.com/TermuxHackz/wifi-hacker) - Shell Script For Attacking Wireless Connections Using Built-In Kali Tools. Supports All Securities (WEP, WPS, WPA, WPA2)
-- [intrntbrn/awesomewm-vim-tmux-navigator](https://github.com/intrntbrn/awesomewm-vim-tmux-navigator) - Navigate seamlessly between system windows, vim splits and tmux panes by only using awesomewm navigation keybindings.
 - [GabrielTenma/dotfiles](https://github.com/GabrielTenma/dotfiles) - Configuration files in Unix-like systems
 - [3enedict/Arch-Linux-ARM-installer](https://github.com/3enedict/Arch-Linux-ARM-installer) - 
 - [andrewboring/alarm-images](https://github.com/andrewboring/alarm-images) - Arch Linux Arm Base Images for Raspberry Pi
