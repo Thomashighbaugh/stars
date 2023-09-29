@@ -592,10 +592,11 @@
 
 ## HTML 
 
+- [Cadris/ResumeV2](https://github.com/Cadris/ResumeV2) - This is My Resume. I am making it for the second time now for the Nullstack Project and Also to test my limit.
 - [berrysauce/whatdevsneed](https://github.com/berrysauce/whatdevsneed) - 🧰 Discover new developer tools
 - [learn-awesome/learn](https://github.com/learn-awesome/learn) - A social network of lifelong learners built around humanity's universal learning map.
 - [abhishekpatel946/nft-minter.github.io](https://github.com/abhishekpatel946/nft-minter.github.io) - Create NFTs for free on Rarible.com via a new lazy minting feature
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 4600 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 4700 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [danmindru/responsive-html-email-signature](https://github.com/danmindru/responsive-html-email-signature) - ✨ Template generator for (responsive) emails & email signatures
 - [abhinavkorpal/awesome-computer-science-EBook](https://github.com/abhinavkorpal/awesome-computer-science-EBook) - Leading source of ebooks, with a vast range of ebooks from academic, popular and professional publishers.
 - [danieldelcore/mega-interview-guide](https://github.com/danieldelcore/mega-interview-guide) - The MEGA interview guide, JavaSciript, Front End, Comp Sci
@@ -724,6 +725,18 @@
 
 ## JavaScript 
 
+- [GuiDevloper/nullstack](https://github.com/GuiDevloper/nullstack) - Full-stack javascript components for one-dev armies.
+- [vitorgamer58/nullstack-herbs-url-shortener](https://github.com/vitorgamer58/nullstack-herbs-url-shortener) - Proof of concept of Nullstack integration with HerbsJs
+- [ddanielcruz/nullstack-linktree](https://github.com/ddanielcruz/nullstack-linktree) - Simple Linktree clone built with Nullstack and Tailwind
+- [GuiDevloper/nullstack-payments](https://github.com/GuiDevloper/nullstack-payments) - :moneybag: Examples of payments APIs integrations made in Nullstack
+- [GuiDevloper/create-nullstatic-app](https://github.com/GuiDevloper/create-nullstatic-app) - Crawls every accessible link in your application and generates static HTML.
+- [GuiDevloper/create-nullstack-app](https://github.com/GuiDevloper/create-nullstack-app) - The fastest way to start using Nullstack.
+- [edysegura/pwa-pokedex](https://github.com/edysegura/pwa-pokedex) - A PWA Pokédex
+- [edysegura/nullstack-pwa-todo](https://github.com/edysegura/nullstack-pwa-todo) - 
+- [acneidert/devtools](https://github.com/acneidert/devtools) - Frontend Developer Tools for Nullstack
+- [GuiDevloper/nullstack-polyable](https://github.com/GuiDevloper/nullstack-polyable) - :earth_americas: Making Nullstack framework able to read any template vocable you type
+- [mococa/ns-chat](https://github.com/mococa/ns-chat) - Nullstack chat app
+- [nullstack/nullstack](https://github.com/nullstack/nullstack) - Feature-Driven Full Stack JavaScript Components
 - [CryptoDappRun/EasyNFT-Generator-Bulk-NFT-to-Opensea](https://github.com/CryptoDappRun/EasyNFT-Generator-Bulk-NFT-to-Opensea) - EasyNFT Generator-Bulk NFT to Opensea.generate multi NFTs upload to IPFS and publish on opensea automatically. Defi crypto Dapp
 - [lumamontes/artist-portfolio-website](https://github.com/lumamontes/artist-portfolio-website) - Artist porfolio website with Next.js, Prismic and Web3Forms
 - [simarmannsingh/silverlux](https://github.com/simarmannsingh/silverlux) - All the technologies used are free and open-source. You are free to use this template for a personal or commercial purposes. I'm using this template for my blog as well at https://simarmannsingh.com. 
@@ -915,7 +928,7 @@
 - [harvzor/start](https://github.com/harvzor/start) - The start page for my browser.
 - [ethereumbook/ethereumbook](https://github.com/ethereumbook/ethereumbook) - Mastering Ethereum, by Andreas M. Antonopoulos, Gavin Wood
 - [knockout/knockout](https://github.com/knockout/knockout) - Knockout makes it easier to create rich, responsive UIs with JavaScript
-- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces
+- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
 - [rustysec/tidalwm](https://github.com/rustysec/tidalwm) - Simple and sane tiling window manager for Gnome Shell
 - [hacknug/tailwindcss-image-rendering](https://github.com/hacknug/tailwindcss-image-rendering) - Image-rendering utilities for Tailwind CSS.
 - [alice0775/userChrome.js](https://github.com/alice0775/userChrome.js) - 
@@ -1926,6 +1939,8 @@
 
 ## Others 
 
+- [GuiDevloper/nullstack-types](https://github.com/GuiDevloper/nullstack-types) - Typing files for Nullstack framework
+- [nullstack/awesome-nullstack](https://github.com/nullstack/awesome-nullstack) - :sparkling_heart: All awesome resources involving the awesome Nullstack
 - [humancalico/nix-learning](https://github.com/humancalico/nix-learning) - A bunch of links to blog posts, articles, videos, etc for learning Nix
 - [teal33t/osint-notes](https://github.com/teal33t/osint-notes) - Good info about DeepWeb and OSINT
 - [chow-petit/awesome-curated-tools](https://github.com/chow-petit/awesome-curated-tools) - A curated list of digital tools we use, ranging from accounting and data science to scientific research and liquid democracy. Commented, connected, by everyone and for everyone !
@@ -2595,6 +2610,7 @@
 
 ## SCSS 
 
+- [Brendon3578/Nullstack-Todo](https://github.com/Brendon3578/Nullstack-Todo) - A simple Todo list application, created using the brazilian framework - Nullstack
 - [world-class/REPL](https://github.com/world-class/REPL) - The Learning Hub for UoL's Online CS Students
 - [Aylur/dotfiles](https://github.com/Aylur/dotfiles) - My personal config files
 - [numixproject/numix-gtk-theme](https://github.com/numixproject/numix-gtk-theme) - A modern flat theme with a combination of light and dark elements.
@@ -3062,6 +3078,12 @@
 
 ## TypeScript 
 
+- [brunolm/get-short-video](https://github.com/brunolm/get-short-video) - Nullstack project to easily make short videos
+- [brunolm/brunolm.github.io](https://github.com/brunolm/brunolm.github.io) - BrunoLM personal website!
+- [natanfeitosa/nullstack-fontawesome](https://github.com/natanfeitosa/nullstack-fontawesome) - Font Awesome Nullstack component
+- [GuiDevloper/nullstack-tsx-example](https://github.com/GuiDevloper/nullstack-tsx-example) - Nullstack project using TSX files
+- [GuiDevloper/nulla](https://github.com/GuiDevloper/nulla) - :woman_technologist: CLI for Nullstack fed by Nulla-chan powers and will
+- [nullwind/nullwind](https://github.com/nullwind/nullwind) - https://www.nullwind.dev
 - [satvikvirmani/nextjs-artist-portfolio](https://github.com/satvikvirmani/nextjs-artist-portfolio) - A artist portfolio website to showcase your projects.
 - [mrLuisFer/linktry](https://github.com/mrLuisFer/linktry) - 🌟 🌟 🌟 A more custom version of Linktree made with react and tailwind for the use of developers
 - [Kattjakt/github-markdown-alerts](https://github.com/Kattjakt/github-markdown-alerts) - A utility for generating alerts/banners using SVG, making them embeddable in GitHub flavored markdown and all other platforms supporting SVG
