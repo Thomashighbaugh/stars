@@ -1189,7 +1189,7 @@
 - [gabeg805/awesomewm](https://github.com/gabeg805/awesomewm) - Configuration files for the Awesome window manager (WM) on Arch Linux.
 - [MeledoJames/awesome-setup](https://github.com/MeledoJames/awesome-setup) - My awesome config files
 - [Spaxly/espresso](https://github.com/Spaxly/espresso) - ☕ Comfy NixOS Dotfiles! | Aesthetic & Clean Environment | Secure Boot Optionally Supported!
-- [SaintRyoh/rabbithole](https://github.com/SaintRyoh/rabbithole) - Rabbithole, a novel window manager built on the Awesome WM framework, enables dynamic nesting of virtual workspaces and on-the-fly display alterations. It's more than mere aesthetics—it redefines work
+- [SaintRyoh/rabbithole](https://github.com/SaintRyoh/rabbithole) - Rabbithole - Are you f#ing tired of your windows flying all over the place when you connect or disconnect an external screen?
 - [max397574/omega-nvim](https://github.com/max397574/omega-nvim) - config
 - [jose-elias-alvarez/null-ls.nvim](https://github.com/jose-elias-alvarez/null-ls.nvim) - Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.
 - [beastsongithub/AwesomeWMRice](https://github.com/beastsongithub/AwesomeWMRice) - 
