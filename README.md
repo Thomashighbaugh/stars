@@ -709,6 +709,7 @@
 
 ## Java 
 
+- [shhossain/computer_science](https://github.com/shhossain/computer_science) - Computer Science Topics
 - [tanjeffreyz/github-statistics](https://github.com/tanjeffreyz/github-statistics) - GitHub stat tracker that uses GraphQL to retrieve both public and private user statistics, which can then be displayed on profile READMEs
 - [PaperMC/Paper](https://github.com/PaperMC/Paper) - The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies
 - [RipMeApp/ripme](https://github.com/RipMeApp/ripme) - Downloads albums in bulk
@@ -1161,7 +1162,9 @@
 
 ## Lua 
 
-- [mncc8337/wm-dotfiles](https://github.com/mncc8337/wm-dotfiles) - my awesome window manager dotfiles
+- [myagko/dotfiles](https://github.com/myagko/dotfiles) - my awesomewm configuration
+- [Sinomor/dotfiles](https://github.com/Sinomor/dotfiles) - awesomewm dotfiles
+- [mncc8337/dotfiles](https://github.com/mncc8337/dotfiles) - my awesome window manager dotfiles
 - [PoisonIsBestType/dotfiles](https://github.com/PoisonIsBestType/dotfiles) - Almeida's .config backup
 - [nvimtools/none-ls.nvim](https://github.com/nvimtools/none-ls.nvim) - null-ls.nvim reloaded / Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.
 - [dharmx/awesome](https://github.com/dharmx/awesome) - My AwesomeWM confuguration. Written in Yuescript.
@@ -1250,7 +1253,7 @@
 - [dtr2300/nvim](https://github.com/dtr2300/nvim) - Neovim configuration
 - [harrisoncramer/nvim](https://github.com/harrisoncramer/nvim) - My personal Neovim configuration.
 - [uggedal/nvim-config](https://github.com/uggedal/nvim-config) - Neovim config
-- [LunarVim/nvim-basic-ide](https://github.com/LunarVim/nvim-basic-ide) - 🪨 This is my attempt at a basic stable starting point for a Neovim IDE.
+- [LunarVim/Launch.nvim](https://github.com/LunarVim/Launch.nvim) - 🪨 This is my attempt at a basic stable starting point for a Neovim IDE.
 - [cseickel/dotfiles](https://github.com/cseickel/dotfiles) - 
 - [dragove/nvim](https://github.com/dragove/nvim) - config for neovim
 - [meuter/nvim](https://github.com/meuter/nvim) - nvim config
@@ -1808,7 +1811,7 @@
 - [rummik/nixos-config](https://github.com/rummik/nixos-config) - My NixOS/Nix-Darwin + home-manager configs
 - [nekowinston/dotfiles](https://github.com/nekowinston/dotfiles) - ❄️ mi casa es tu casa
 - [MatthiasBenaets/nixos-config](https://github.com/MatthiasBenaets/nixos-config) - My Personal Nix, NixOS and Nix-Darwin System Configuration Flake
-- [Ruixi-rebirth/flakes](https://github.com/Ruixi-rebirth/flakes) - My presonal NixOS config
+- [Ruixi-rebirth/melted-flakes](https://github.com/Ruixi-rebirth/melted-flakes) - My presonal NixOS config, new config can get in https://github.com/Ruixi-rebirth/flakes
 - [notohh/snowflake](https://github.com/notohh/snowflake) - NixOS Config(s) - Mirrored from https://git.flake.sh/notohh/snowflake
 - [Mic92/dotfiles](https://github.com/Mic92/dotfiles) - My NixOS dotfiles
 - [myme/dotfiles](https://github.com/myme/dotfiles) - My collection of dotfiles
@@ -2300,7 +2303,6 @@
 - [Thomashighbaugh/gpt_scripts](https://github.com/Thomashighbaugh/gpt_scripts) - 
 - [dharmx/vile](https://github.com/dharmx/vile) - Waste of time. Smelly widgets feat. Spaghetti code. Built with eww-3.0.
 - [facundoolano/software-papers](https://github.com/facundoolano/software-papers) - 📚 A curated list of papers for Software Engineers
-- [shhossain/computer_science](https://github.com/shhossain/computer_science) - Computer Science Topics
 - [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
 - [ninewise/dotfiles](https://github.com/ninewise/dotfiles) - Some of my dotfiles.
 - [snwfdhmp/awesome-gpt-prompt-engineering](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering) - A curated list of awesome resources, tools, and other shiny things for GPT prompt engineering.
