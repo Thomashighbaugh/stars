@@ -275,6 +275,7 @@
 
 ## CSS 
 
+- [Ritika-Agrawal811/storyboard-template](https://github.com/Ritika-Agrawal811/storyboard-template) - A storyboard template made using HTML and CSS.
 - [p3nguin-kun/penguinDotfiles](https://github.com/p3nguin-kun/penguinDotfiles) - 📁 dotfiles for penguinrice
 - [Thomashighbaugh/gpt_notebook](https://github.com/Thomashighbaugh/gpt_notebook) - A Markdown Notebook about LLMs and Generative AI rendered into a website using MDBook and GitHub Actions. Featues my collection of prompts for ChatGPT/GPT-3
 - [7KIR7/dots](https://github.com/7KIR7/dots) - my dotfiles
@@ -730,6 +731,9 @@
 
 ## JavaScript 
 
+- [danydodson/userscripts](https://github.com/danydodson/userscripts) - 🪚 Collection of UserScripts.
+- [Semantic-Org/Semantic-UI-React](https://github.com/Semantic-Org/Semantic-UI-React) - The official Semantic-UI-React integration
+- [nuejs/nuejs](https://github.com/nuejs/nuejs) - Build user interfaces with cleaner code. Alternative to React, Vue, and Svelte
 - [GuiDevloper/nullstack](https://github.com/GuiDevloper/nullstack) - Full-stack javascript components for one-dev armies.
 - [vitorgamer58/nullstack-herbs-url-shortener](https://github.com/vitorgamer58/nullstack-herbs-url-shortener) - Proof of concept of Nullstack integration with HerbsJs
 - [ddanielcruz/nullstack-linktree](https://github.com/ddanielcruz/nullstack-linktree) - Simple Linktree clone built with Nullstack and Tailwind
@@ -1123,7 +1127,6 @@
 - [microsoft/AcademicContent](https://github.com/microsoft/AcademicContent) - Free tech resources for faculty, students, researchers, life-long learners, and academic community builders for use in tech based courses, workshops, and hackathons.
 - [jupyter-naas/awesome-notebooks](https://github.com/jupyter-naas/awesome-notebooks) - A catalog of ready to use data & AI Notebook templates, organized by tools to jumpstart your projects and data products in minutes.
 - [norahsakal/fine-tune-gpt3-model](https://github.com/norahsakal/fine-tune-gpt3-model) - How you can fine-tune a GPT-3 model with Python with your own data
-- [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [ratthachat/prompt_engineering](https://github.com/ratthachat/prompt_engineering) - Prompt Engineering
 - [EgoAlpha/prompt-in-context-learning](https://github.com/EgoAlpha/prompt-in-context-learning) - Awesome resources for in-context learning and prompt engineering: Mastery of the LLMs such as ChatGPT, GPT-3, and FlanT5, with up-to-date and cutting-edge updates.
 - [promptslab/Promptify](https://github.com/promptslab/Promptify) - Prompt Engineering | Prompt Versioning | Use GPT or other prompt based models to get structured output. Join our discord for Prompt-Engineering, LLMs and other latest research
@@ -1164,7 +1167,7 @@
 
 - [myagko/dotfiles](https://github.com/myagko/dotfiles) - my awesomewm configuration
 - [Sinomor/dotfiles](https://github.com/Sinomor/dotfiles) - awesomewm dotfiles
-- [mncc8337/dotfiles](https://github.com/mncc8337/dotfiles) - my awesome window manager dotfiles
+- [mncc8337/dotfiles](https://github.com/mncc8337/dotfiles) - my awesomewm dotfiles
 - [PoisonIsBestType/dotfiles](https://github.com/PoisonIsBestType/dotfiles) - Almeida's .config backup
 - [nvimtools/none-ls.nvim](https://github.com/nvimtools/none-ls.nvim) - null-ls.nvim reloaded / Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.
 - [dharmx/awesome](https://github.com/dharmx/awesome) - My AwesomeWM confuguration. Written in Yuescript.
@@ -1177,6 +1180,7 @@
 - [stevearc/dressing.nvim](https://github.com/stevearc/dressing.nvim) - Neovim plugin to improve the default vim.ui interfaces
 - [dankdezpair/hypr.files-V2](https://github.com/dankdezpair/hypr.files-V2) - 
 - [jcmuller/my-awesome-wm-config](https://github.com/jcmuller/my-awesome-wm-config) - My laptop's Awesome WM configuration
+- [arminveres/dotfiles](https://github.com/arminveres/dotfiles) - Repository for personal Unix config files
 - [RU927/re_tile](https://github.com/RU927/re_tile) - dotfiles window manager
 - [juanibiapina/dotfiles](https://github.com/juanibiapina/dotfiles) - Dotfiles optimized for performance and high productivity in the terminal
 - [TanvirOnGH/flex](https://github.com/TanvirOnGH/flex) - Extension Module for My Tailor-Fitted AwesomeWM Configuration
@@ -1221,7 +1225,6 @@
 - [Nooo37/glome](https://github.com/Nooo37/glome) - WIP
 - [2nthony/dotfiles](https://github.com/2nthony/dotfiles) - My personal dotfiles, neovim(typescript), fish, zellij, etc.
 - [folke/lazy.nvim](https://github.com/folke/lazy.nvim) - 💤 A modern plugin manager for Neovim
-- [cufta22/dotfiles](https://github.com/cufta22/dotfiles) - [AwesomeWM] Outer Wilds - change branch for old rices
 - [jcrd/awesome-ez](https://github.com/jcrd/awesome-ez) - AwesomeWM library for simplifying key and button binding definitions
 - [vincentbernat/awesome-configuration](https://github.com/vincentbernat/awesome-configuration) - My ~/.config/awesome directory
 - [gnomengineer/StartView](https://github.com/gnomengineer/StartView) - 
@@ -1245,7 +1248,7 @@
 - [phaazon/config](https://github.com/phaazon/config) - My main configuration files
 - [cjnucette/nvim.lazy](https://github.com/cjnucette/nvim.lazy) - nvim using lazy.nvim plugin manager
 - [joelazar/nvim-config](https://github.com/joelazar/nvim-config) - My neovim config
-- [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config) - General, personal, and packed with laugh-out-loud startup messages! Enjoy your coding journey! 😄🚀
+- [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config) - Generalized and Personalized
 - [Nooo37/farbig](https://github.com/Nooo37/farbig) - Colorscheme collection
 - [blueyed/awesome-cyclefocus](https://github.com/blueyed/awesome-cyclefocus) - Alt-Tab for the awesome window manager (and more)
 - [colbell/awesome-wm](https://github.com/colbell/awesome-wm) - Awesome Window Manager Configuration
@@ -1615,6 +1618,7 @@
 - [Stebalien/awesomewm-config](https://github.com/Stebalien/awesomewm-config) - My AwesomeWM config files
 - [ndgnuh/awesome-config](https://github.com/ndgnuh/awesome-config) - Config set(s) for awesomewm
 - [Nguyen-Hoang-Nam/nvim-dotfiles-kitty](https://github.com/Nguyen-Hoang-Nam/nvim-dotfiles-kitty) - Neovim + Kitty = ❤️
+- [wincent/corpus](https://github.com/wincent/corpus) - 📝 A note-management application
 - [Creator54/awesome](https://github.com/Creator54/awesome) - Some beautiful awesome configs gathered with some minor changes just switch git checkout $branch and reload(mod+shift+r) to enjoy a new layout. lazy to update README use mod+s instead
 - [Thomashighbaugh/nvim-forge](https://github.com/Thomashighbaugh/nvim-forge) - My Personal Development Environment
 - [bunburya/awesomerc](https://github.com/bunburya/awesomerc) - My AwesomeWM configuration Lua files.
@@ -1949,6 +1953,7 @@
 
 ## Others 
 
+- [awesome-scripts/awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) - 📖  A curated list of Awesome Userscripts.
 - [Floorp-Projects/Floorp](https://github.com/Floorp-Projects/Floorp) - The source code of version 10 or later of Floorp Browser, the most Advanced and Fastest Firefox derivative 🦊
 - [GuiDevloper/nullstack-types](https://github.com/GuiDevloper/nullstack-types) - Typing files for Nullstack framework
 - [nullstack/awesome-nullstack](https://github.com/nullstack/awesome-nullstack) - :sparkling_heart: All awesome resources involving the awesome Nullstack
@@ -1992,6 +1997,7 @@
 - [WinkoErades/Joplin-note-taking-templates](https://github.com/WinkoErades/Joplin-note-taking-templates) - Joplin note taking templates
 - [InioX/dotfiles](https://github.com/InioX/dotfiles) - 
 - [brexhq/prompt-engineering](https://github.com/brexhq/prompt-engineering) - Tips and tricks for working with Large Language Models like OpenAI's GPT-4.
+- [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [devclyde/awcooler](https://github.com/devclyde/awcooler) - 
 - [Maks-s/sd-akashic](https://github.com/Maks-s/sd-akashic) - A compendium of informations regarding Stable Diffusion (SD)
 - [kavun/free-vpn](https://github.com/kavun/free-vpn) - A list of free VPN services
@@ -2587,7 +2593,6 @@
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [evestera/svg-halftone](https://github.com/evestera/svg-halftone) - Tool for converting raster images to SVG halftone patterns
 - [mikeroyal/Linux-Guide](https://github.com/mikeroyal/Linux-Guide) - Linux Guide. Learn about Linux Hardware vendors, Linux in the Cloud, Desktop Environments, Window Mangers, Linux Distributions, Linux Security, Graphics (AMD/NVIDIA/Intel ARC), and Software Apps.
-- [VentGrey/Epitaph](https://github.com/VentGrey/Epitaph) - Epitaph is a leftwm theme designed for prog-rock loving users transitioning from a DE to LeftWM.
 - [sharkdp/vivid](https://github.com/sharkdp/vivid) - A themeable LS_COLORS generator with a rich filetype datebase
 - [Start9Labs/start-os](https://github.com/Start9Labs/start-os) - Browser-based, graphical operating system for a personal server.
 - [jamestthompson3/tendril-wiki](https://github.com/jamestthompson3/tendril-wiki) - Personal knowledge management tool
@@ -2679,7 +2684,6 @@
 - [debuggyo/dots](https://github.com/debuggyo/dots) - more dots!
 - [phenax/nixos-dotfiles](https://github.com/phenax/nixos-dotfiles) - 
 - [GDR/dot](https://github.com/GDR/dot) - My personal config repo for my NixOS configurations. I use Nix flakes to manage dependencies and reproducibility.
-- [arminveres/dotfiles](https://github.com/arminveres/dotfiles) - Repository for personal Unix config files
 - [AmitGolden/dotfiles](https://github.com/AmitGolden/dotfiles) - AmitGold's catppuccin dotfiles!
 - [notKamui/dotfiles](https://github.com/notKamui/dotfiles) - What's hidden sometimes makes you who you are
 - [pimterry/notes](https://github.com/pimterry/notes) - :pencil: Simple delightful note taking, with more unix and less lock-in.
@@ -2693,6 +2697,7 @@
 - [erikarvstedt/extra-container](https://github.com/erikarvstedt/extra-container) - Run declarative NixOS containers without full system rebuilds
 - [hpb0412/dotfiles](https://github.com/hpb0412/dotfiles) - My dot files collection over the time
 - [Distroshare/distroshare-ubuntu-imager](https://github.com/Distroshare/distroshare-ubuntu-imager) - Creates an installable live CD from an installed Ubuntu or derivative distribution
+- [cufta22/dotfiles](https://github.com/cufta22/dotfiles) - [AwesomeWM] Outer Wilds - change branch for old rices
 - [ormai/dotfiles](https://github.com/ormai/dotfiles) - ☕  💻 My dotfiles
 - [nrdxp/nrdos](https://github.com/nrdxp/nrdos) - My NixOS configuration for work and play
 - [emmett1/linuxliveiso](https://github.com/emmett1/linuxliveiso) - scripts to build linux live iso
@@ -2712,6 +2717,7 @@
 - [folke/dot](https://github.com/folke/dot) - ☕️   My Dot Files
 - [emmett1/lfs-scripts](https://github.com/emmett1/lfs-scripts) - Automated script to build Multilib LFS system + livecd
 - [phisch/giph](https://github.com/phisch/giph) - simple video (gif, webm, mp4) recorder
+- [VentGrey/Epitaph](https://github.com/VentGrey/Epitaph) - Epitaph is a leftwm theme designed for prog-rock loving users transitioning from a DE to LeftWM.
 - [hellocatfood/jpg-glitch-pattern-generator](https://github.com/hellocatfood/jpg-glitch-pattern-generator) - Automatically generate patterns that exploit compression in jpgs
 - [Alfheim-Software-Initiative/alfheim_script](https://github.com/Alfheim-Software-Initiative/alfheim_script) - This is the script used to build Alfheim Linux, an Arch based Linux Operating System.
 - [raspi-alpine/builder](https://github.com/raspi-alpine/builder) - Mirror of Raspberry PI Alpine Linux Image Builder
@@ -3063,7 +3069,7 @@
 - [corbindavenport/creative-cloud-linux](https://github.com/corbindavenport/creative-cloud-linux) - PlayOnLinux install script for Adobe Creative Cloud
 - [Bash-it/bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
 - [YunoHost-Apps/staticwebapp_ynh](https://github.com/YunoHost-Apps/staticwebapp_ynh) - Minimal web application for static files (vhost)
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,100+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,200+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [theaquacadet/pillager](https://github.com/theaquacadet/pillager) - A wget script for pillaging.
 - [na--/ebook-tools](https://github.com/na--/ebook-tools) - Shell scripts for organizing and managing ebook collections
 - [nextcloud/nextcloudpi](https://github.com/nextcloud/nextcloudpi) - 📦 Build code for NextcloudPi: Raspberry Pi, Odroid, Rock64, Docker, curl installer...
@@ -3092,6 +3098,9 @@
 
 ## TypeScript 
 
+- [lazerwalker/storyboard](https://github.com/lazerwalker/storyboard) - A narrative engine for interactive storytelling
+- [whyboris/Video-Hub-App](https://github.com/whyboris/Video-Hub-App) - Official repository for Video Hub App
+- [elsoul/skeet-cli](https://github.com/elsoul/skeet-cli) - 🚀 Open-Source Serverless Framework for full-stack apps on Firebase and Google Cloud.
 - [brunolm/get-short-video](https://github.com/brunolm/get-short-video) - Nullstack project to easily make short videos
 - [brunolm/brunolm.github.io](https://github.com/brunolm/brunolm.github.io) - BrunoLM personal website!
 - [natanfeitosa/nullstack-fontawesome](https://github.com/natanfeitosa/nullstack-fontawesome) - Font Awesome Nullstack component
@@ -3168,7 +3177,7 @@
 - [hood/homie](https://github.com/hood/homie) - A minimalistic personal dashboard.
 - [Thomashighbaugh/startpage-figma-balls-nextjs](https://github.com/Thomashighbaugh/startpage-figma-balls-nextjs) - A recreation of a startpage posted on Reddit without the source, so I rewrote it in Next.js + Tailwind for the open source community.
 - [theodorusclarence/ts-nextjs-tailwind-starter](https://github.com/theodorusclarence/ts-nextjs-tailwind-starter) - 🔋 Next.js + Tailwind CSS + TypeScript starter and boilerplate packed with useful development features
-- [codelitdev/courselit](https://github.com/codelitdev/courselit) - Create/Sell courses and info products, write blogs, host podcasts on your own branded website. An open source alternative to Teachable, Thinkific, Podia and the likes.
+- [codelitdev/courselit](https://github.com/codelitdev/courselit) - Create/Sell courses and digital downloads and publish blogs on your own branded website. An open source alternative to Teachable, Thinkific, Podia and the likes.
 - [Galax028/startpage](https://github.com/Galax028/startpage) - A minimalistic custom browser startpage that can be configured to your needs.
 - [sstawiarski/nextjs-portfolio-website](https://github.com/sstawiarski/nextjs-portfolio-website) - Personal portfolio website written using Next.js, TypeScript, and Tailwind CSS
 - [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
@@ -3188,7 +3197,7 @@
 - [remorses/dokz](https://github.com/remorses/dokz) - Effortless documentation with Next.js and MDX
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
-- [trufflesuite/truffle](https://github.com/trufflesuite/truffle) - A tool for developing smart contracts. Crafted with the finest cacaos.
+- [trufflesuite/truffle](https://github.com/trufflesuite/truffle) - :warning: The Truffle Suite is being sunset. For information on ongoing support, migration options and FAQs, visit the Consensys blog. Thank you for all the support over the years.
 - [linnovate/mean](https://github.com/linnovate/mean) - The MEAN stack uses Mongo, Express, Angular(6) and Node for simple and scalable fullstack js applications
 - [nitin27may/mean-docker](https://github.com/nitin27may/mean-docker) - A Mean stack (Angular  16.0.1, Expressjs 4.17.1, MongoDB) jump start project with support of docker.
 - [saksmt/awesomewm.d.ts](https://github.com/saksmt/awesomewm.d.ts) - typescript typings for awesome-wm based on typescript-to-lua
@@ -3299,7 +3308,6 @@
 - [abdullahalzubaer/neovim-setup](https://github.com/abdullahalzubaer/neovim-setup) - 
 - [ParallaxWave/blood_i3](https://github.com/ParallaxWave/blood_i3) - 
 - [s3rvac/dotfiles](https://github.com/s3rvac/dotfiles) - My configuration files for git, vim, tmux, bash, fluxbox, etc.
-- [wincent/corpus](https://github.com/wincent/corpus) - 📝 A note-management application
 - [antoniosarosi/dotfiles](https://github.com/antoniosarosi/dotfiles) - My dotfiles repo, here you can find all my window manager configs as well as documentation and a guide on how to make your own desktop environment.
 - [theniceboy/nvim](https://github.com/theniceboy/nvim) - The Ultimate NeoVim Config for Colemak Users
 - [Thomashighbaugh/vim](https://github.com/Thomashighbaugh/vim) - Vim configuration
