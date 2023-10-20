@@ -735,6 +735,7 @@
 
 ## JavaScript 
 
+- [SimonWaldherr/AI-Book-Generator](https://github.com/SimonWaldherr/AI-Book-Generator) - kickstart your book writing process with AI (Proof of concept)
 - [farshed/duofolio](https://github.com/farshed/duofolio) - An ebook reader for linguaphiles 📖
 - [barretlee/kindleBookMaker](https://github.com/barretlee/kindleBookMaker) - Kindle Book Maker with KindleGen, Make Book from RSS/single URL/directory and so on.
 - [easychen/book-by-ai](https://github.com/easychen/book-by-ai) - Generate high-quality books with AI
@@ -1179,7 +1180,7 @@
 - [myagko/dotfiles](https://github.com/myagko/dotfiles) - my awesomewm configuration
 - [Sinomor/dotfiles](https://github.com/Sinomor/dotfiles) - awesomewm dotfiles
 - [mncc8337/dotfiles](https://github.com/mncc8337/dotfiles) - my awesomewm dotfiles
-- [PoisonIsBestType/dotfiles](https://github.com/PoisonIsBestType/dotfiles) - Almeida's .config backup
+- [PoisonIsBestType/dotfiles](https://github.com/PoisonIsBestType/dotfiles) - awesomewm setup config files
 - [nvimtools/none-ls.nvim](https://github.com/nvimtools/none-ls.nvim) - null-ls.nvim reloaded / Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.
 - [dharmx/awesome](https://github.com/dharmx/awesome) - My AwesomeWM confuguration. Written in Yuescript.
 - [kosorin/awesome-code-doc](https://github.com/kosorin/awesome-code-doc) - 
@@ -1266,7 +1267,7 @@
 - [dtr2300/nvim](https://github.com/dtr2300/nvim) - Neovim configuration
 - [harrisoncramer/nvim](https://github.com/harrisoncramer/nvim) - My personal Neovim configuration.
 - [uggedal/nvim-config](https://github.com/uggedal/nvim-config) - Neovim config
-- [LunarVim/Launch.nvim](https://github.com/LunarVim/Launch.nvim) - 🪨 This is my attempt at a basic stable starting point for a Neovim IDE.
+- [LunarVim/Launch.nvim](https://github.com/LunarVim/Launch.nvim) - 🚀 Launch.nvim is modular starter for Neovim.
 - [cseickel/dotfiles](https://github.com/cseickel/dotfiles) - 
 - [dragove/nvim](https://github.com/dragove/nvim) - config for neovim
 - [meuter/nvim](https://github.com/meuter/nvim) - nvim config
@@ -1849,7 +1850,7 @@
 - [kittywitch/infrastructure](https://github.com/kittywitch/infrastructure) - Personal infrastructure repository
 - [barrucadu/nixfiles](https://github.com/barrucadu/nixfiles) - My NixOS configuration and assorted other crap.
 - [bbigras/nix-config](https://github.com/bbigras/nix-config) - My personal nix config
-- [tudurom/dotfiles](https://github.com/tudurom/dotfiles) - My small loan of configuration files and scripts - based on NixOS
+- [tudurom/dotfiles](https://github.com/tudurom/dotfiles) - My small loan of configuration files and scripts - based on NixOS. Mirror.
 - [iAmMrinal0/nix-config](https://github.com/iAmMrinal0/nix-config) - Configuration and dotfiles used on NixOS with home-manager
 - [gytis-ivaskevicius/nixfiles](https://github.com/gytis-ivaskevicius/nixfiles) - My kick-ass NixOS systems configurations!!
 - [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers
@@ -2299,6 +2300,7 @@
 
 ## Perl 
 
+- [VentGrey/Epitaph](https://github.com/VentGrey/Epitaph) - Epitaph is a leftwm theme designed for prog-rock loving users transitioning from a DE to LeftWM.
 - [blackinitial/openbox_dotfiles](https://github.com/blackinitial/openbox_dotfiles) - My Openbox Dotfiles
 - [mfontani/rofi-scripts](https://github.com/mfontani/rofi-scripts) - A bunch of rofi-related scripts I use on my laptop.
 - [tryton-vanmeer/archlinux](https://github.com/tryton-vanmeer/archlinux) - Custom Arch Linux Image
@@ -2349,7 +2351,6 @@
 - [new92/IGFI](https://github.com/new92/IGFI) - Script for increasing the number of followers at an Instagram account
 - [EvilDrPorkChop/OpenSea-NFT-Creator](https://github.com/EvilDrPorkChop/OpenSea-NFT-Creator) - A collection of python scripts which help you programatically create PNGs or GIFs and their Metadata in bulk with custom rarity rates, upload them to OpenSea & list them for sale.
 - [thiagokokada/nix-alien](https://github.com/thiagokokada/nix-alien) - Run unpatched binaries on Nix/NixOS
-- [DRACULA-HACK/C-hacks](https://github.com/DRACULA-HACK/C-hacks) - All social Media hacking with information gathering
 - [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Big Sur + Monterey + Ventura support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
 - [onny/OSX-KVM](https://github.com/onny/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Big Sur + Monterey + Ventura support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
 - [beejjorgensen/bgpython](https://github.com/beejjorgensen/bgpython) - Beej's Guide to Python Programming source
@@ -2745,7 +2746,6 @@
 - [folke/dot](https://github.com/folke/dot) - ☕️   My Dot Files
 - [emmett1/lfs-scripts](https://github.com/emmett1/lfs-scripts) - Automated script to build Multilib LFS system + livecd
 - [phisch/giph](https://github.com/phisch/giph) - simple video (gif, webm, mp4) recorder
-- [VentGrey/Epitaph](https://github.com/VentGrey/Epitaph) - Epitaph is a leftwm theme designed for prog-rock loving users transitioning from a DE to LeftWM.
 - [hellocatfood/jpg-glitch-pattern-generator](https://github.com/hellocatfood/jpg-glitch-pattern-generator) - Automatically generate patterns that exploit compression in jpgs
 - [Alfheim-Software-Initiative/alfheim_script](https://github.com/Alfheim-Software-Initiative/alfheim_script) - This is the script used to build Alfheim Linux, an Arch based Linux Operating System.
 - [raspi-alpine/builder](https://github.com/raspi-alpine/builder) - Mirror of Raspberry PI Alpine Linux Image Builder
