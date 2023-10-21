@@ -215,6 +215,7 @@
 
 ## C++ 
 
+- [Alex313031/thorium](https://github.com/Alex313031/thorium) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md.
 - [MCredstoner2004/ImageLOL](https://github.com/MCredstoner2004/ImageLOL) - simple program to store a file into a PNG image
 - [Curve/aawmtt](https://github.com/Curve/aawmtt) - Another AwesomeWM Testing Tool 🚀
 - [Duckonaut/hyprload](https://github.com/Duckonaut/hyprload) - A Hyprland plugin manager
@@ -735,6 +736,8 @@
 
 ## JavaScript 
 
+- [Alex313031/Mercury](https://github.com/Alex313031/Mercury) - Firefox fork with compiler optimizations and patches from Librewolf, Waterfox, and GNU IceCat.
+- [Rolando-Barbella/online-dev-cv](https://github.com/Rolando-Barbella/online-dev-cv) - 
 - [SimonWaldherr/AI-Book-Generator](https://github.com/SimonWaldherr/AI-Book-Generator) - kickstart your book writing process with AI (Proof of concept)
 - [farshed/duofolio](https://github.com/farshed/duofolio) - An ebook reader for linguaphiles 📖
 - [barretlee/kindleBookMaker](https://github.com/barretlee/kindleBookMaker) - Kindle Book Maker with KindleGen, Make Book from RSS/single URL/directory and so on.
@@ -2334,7 +2337,7 @@
 - [nix-community/NUR](https://github.com/nix-community/NUR) - Nix User Repository: User contributed nix packages [maintainer=@Mic92]
 - [jpetazzo/gitorial](https://github.com/jpetazzo/gitorial) - (Ab)use git history to write tutorials!
 - [Thomashighbaugh/github-stats](https://github.com/Thomashighbaugh/github-stats) - A fork of jstrieb/github-stats for my purposes on this account.
-- [Thomashighbaugh/gpt_scripts](https://github.com/Thomashighbaugh/gpt_scripts) - 
+- [Thomashighbaugh/gpt_scripts](https://github.com/Thomashighbaugh/gpt_scripts) - Python Scripts that prompt GPT-3 via API
 - [dharmx/vile](https://github.com/dharmx/vile) - Waste of time. Smelly widgets feat. Spaghetti code. Built with eww-3.0.
 - [facundoolano/software-papers](https://github.com/facundoolano/software-papers) - 📚 A curated list of papers for Software Engineers
 - [shhossain/computer_science](https://github.com/shhossain/computer_science) - Computer Science Topics
