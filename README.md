@@ -329,7 +329,6 @@
 - [alexhyett/linkinbio](https://github.com/alexhyett/linkinbio) - Link In Bio Page for Instagram, Twitter, Tumblr etc
 - [MM2-0/fdroid](https://github.com/MM2-0/fdroid) - 
 - [daniruiz/skeuos-gtk](https://github.com/daniruiz/skeuos-gtk) - 
-- [princekrvert/Ravana](https://github.com/princekrvert/Ravana) - Phishing tool for termux .This includes many websites like facebook,Instagram,Twitter,google etc..
 - [luximus-hunter/FireFix](https://github.com/luximus-hunter/FireFix) - Small fixes for the FireFox UI to make it more consistent
 - [Possibly-Matt/Firefox-UI-Fix](https://github.com/Possibly-Matt/Firefox-UI-Fix) - 🦊 I respect proton UI but I miss the panel icons!
 - [K4zoku/dotfiles](https://github.com/K4zoku/dotfiles) - My personal linux configuration files (dotfiles)
@@ -631,6 +630,7 @@
 - [themagicalmammal/dotfiles](https://github.com/themagicalmammal/dotfiles) - @themagicalmammal does dotfiles
 - [StefanoCecere/markdown_pandoc_book_template](https://github.com/StefanoCecere/markdown_pandoc_book_template) - a template to create pdf/ePub/html/docx books by Markdown via Pandoc
 - [festackcode/dev-fonts](https://github.com/festackcode/dev-fonts) - 
+- [princekrvert/Ravana](https://github.com/princekrvert/Ravana) - Phishing tool for termux .This includes many websites like facebook,Instagram,Twitter,google etc..
 - [rmayobre/scripted-selfhost](https://github.com/rmayobre/scripted-selfhost) - A collection of scripts, docker stacks, and general help with self hosting private services.
 - [the-Electric-Tantra-Linux/electric-tantra-linux-iso](https://github.com/the-Electric-Tantra-Linux/electric-tantra-linux-iso) - 
 - [argyleink/gui-challenges](https://github.com/argyleink/gui-challenges) - Components from the YouTube show GUI Challenges: accessible, responsive, adaptive and cross browser components.
@@ -738,6 +738,7 @@
 
 ## JavaScript 
 
+- [lelouchB/next-image-gallery](https://github.com/lelouchB/next-image-gallery) - Image Gallery built with Next.js, Pexels API and Chakra UI.
 - [Alex313031/Mercury](https://github.com/Alex313031/Mercury) - Firefox fork with compiler optimizations and patches from Librewolf, Waterfox, and GNU IceCat.
 - [Rolando-Barbella/online-dev-cv](https://github.com/Rolando-Barbella/online-dev-cv) - 
 - [SimonWaldherr/AI-Book-Generator](https://github.com/SimonWaldherr/AI-Book-Generator) - kickstart your book writing process with AI (Proof of concept)
@@ -812,6 +813,7 @@
 - [replicate/inpainter](https://github.com/replicate/inpainter) - A web GUI built with Next.js for inpainting with Stable Diffusion using the Replicate API.
 - [leungwensen/svg-icon](https://github.com/leungwensen/svg-icon) - An ultimate SVG icons collection DONE RIGHT, with over 10,000 SVG icons out of the box.
 - [zloirock/core-js](https://github.com/zloirock/core-js) - Standard Library
+- [Aylur/dotfiles](https://github.com/Aylur/dotfiles) - My personal config files
 - [jpetitcolas/ascii-art-converter](https://github.com/jpetitcolas/ascii-art-converter) - Convert any image into pure ASCII art using some JavaScript
 - [dortania/OpenCore-Install-Guide](https://github.com/dortania/OpenCore-Install-Guide) - Repo for the OpenCore Install Guide
 - [ran-dall/codex](https://github.com/ran-dall/codex) - Mirror of Randall's Codex 📜
@@ -1714,6 +1716,7 @@
 
 ## MDX 
 
+- [keegandonley/keegan.codes](https://github.com/keegandonley/keegan.codes) - The shiny new version of my website building using NextJS server components
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
 - [kpollich/kylepollich.com](https://github.com/kpollich/kylepollich.com) - My personal blog built with Next.js and Tailwind CSS
 - [theodorusclarence/theodorusclarence.com](https://github.com/theodorusclarence/theodorusclarence.com) - 💠 Personal website and blog made using Next.js, TypeScript, Tailwind CSS, MDX Bundler, and Prisma with PostgreSQL
@@ -1820,7 +1823,7 @@
 - [frogamic/nix-machines](https://github.com/frogamic/nix-machines) - 
 - [justinrubek/nixos-configs](https://github.com/justinrubek/nixos-configs) - My 'dotfiles'. A collection of nixos configurations and other declarative infrastructure for my personal computing infrastructure
 - [dmadisetti/.dots](https://github.com/dmadisetti/.dots) - just my .dotfiles
-- [NotAShelf/nyx](https://github.com/NotAShelf/nyx) - My overengineered NixOS configuration. Desktops, laptops, servers and everything else that can run an OS
+- [NotAShelf/nyx](https://github.com/NotAShelf/nyx) - My overengineered NixOS flake. Desktops, laptops, servers and everything else that can run an OS
 - [ncfavier/config](https://github.com/ncfavier/config) - My NixOS configurations
 - [foo-dogsquared/nixos-config](https://github.com/foo-dogsquared/nixos-config) - Aiming to be the most overkill NixOS config in the entire world.
 - [Kranzes/nix-config](https://github.com/Kranzes/nix-config) - Nix configurations
@@ -2349,7 +2352,6 @@
 - [snwfdhmp/awesome-gpt-prompt-engineering](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering) - A curated list of awesome resources, tools, and other shiny things for GPT prompt engineering.
 - [beltoforion/openai-ghostwriter](https://github.com/beltoforion/openai-ghostwriter) - A python script for fully automatically generating web pages including images using OpenAI's GPT-3.
 - [kevinjalbert/notion-toolbox](https://github.com/kevinjalbert/notion-toolbox) - This is a collection of Notion tools that work in tandem together.
-- [Sxp-ID/Spam-Call](https://github.com/Sxp-ID/Spam-Call) - New Script Spam Call 2022 - 2023
 - [toolleeo/cli-apps](https://github.com/toolleeo/cli-apps) - The largest Awesome Curated list of CLI/TUI applications with source data organized into CSV files
 - [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl) - Collect your thoughts and notes without leaving the command line.
 - [xyven1/nixos-configuration](https://github.com/xyven1/nixos-configuration) - 
@@ -2662,7 +2664,6 @@
 
 - [Brendon3578/Nullstack-Todo](https://github.com/Brendon3578/Nullstack-Todo) - A simple Todo list application, created using the brazilian framework - Nullstack
 - [world-class/REPL](https://github.com/world-class/REPL) - The Learning Hub for UoL's Online CS Students
-- [Aylur/dotfiles](https://github.com/Aylur/dotfiles) - My personal config files
 - [numixproject/numix-gtk-theme](https://github.com/numixproject/numix-gtk-theme) - A modern flat theme with a combination of light and dark elements.
 - [te6-in/lepton-custom](https://github.com/te6-in/lepton-custom) - 🦊 A macOS style theme for Firefox—forked from Lepton(Firefox-UI-Fix)
 - [black7375/Firefox-UI-Fix](https://github.com/black7375/Firefox-UI-Fix) - 🦊 I respect proton UI and aim to improve it.
@@ -2893,7 +2894,7 @@
 - [Sharrisii/TAZ](https://github.com/Sharrisii/TAZ) - A slimmed down gentoo linux livecd/liveusb iso that allows to load different boot options and runs from RAM upon boot. A VCTLabs project.
 - [LinuxGuides-OS/LinuxGuidesOS](https://github.com/LinuxGuides-OS/LinuxGuidesOS) - LinuxGuides OS Hauptrepo
 - [dcloud-ca/voidLuksSetup](https://github.com/dcloud-ca/voidLuksSetup) - Bash script for installing Void Linux with disk encryption
-- [toluschr/xdeb](https://github.com/toluschr/xdeb) - XDEB - Convert deb (Debian) packages to xbps (Void Linux)
+- [xdeb-org/xdeb](https://github.com/xdeb-org/xdeb) - XDEB - Convert deb (Debian) packages to xbps (Void Linux)
 - [project-trident/trident-installer](https://github.com/project-trident/trident-installer) - Graphical system install utility
 - [Cogitri/org.freedesktop.Extension.Cogitri](https://github.com/Cogitri/org.freedesktop.Extension.Cogitri) - A Flatpak Extension which includes the stuff I need for development in the VSCode Flatpak
 - [cyberkallan/inshackle-bot](https://github.com/cyberkallan/inshackle-bot) - Get unlimited followers on Instagram for free . Bot by cyber kallan
@@ -3169,7 +3170,7 @@
 - [jasonruesch/jasonruesch](https://github.com/jasonruesch/jasonruesch) - My personal portfolio web app
 - [JezerM/nody-greeter](https://github.com/JezerM/nody-greeter) - LightDM greeter that allows to create wonderful themes with web technologies. Made in Node.js
 - [InterwebAlchemy/obsidian-ai-research-assistant](https://github.com/InterwebAlchemy/obsidian-ai-research-assistant) - Prompt Engineering Research Tool for AI APIs
-- [jpreagan/jpreagan.com](https://github.com/jpreagan/jpreagan.com) - ✨ My personal website built with Next.js
+- [jpreagan/jpreagan.com](https://github.com/jpreagan/jpreagan.com) - ✨ My personal website built with Remix 💿
 - [smakosh/next-portfolio-dev](https://github.com/smakosh/next-portfolio-dev) - A portfolio for developers (Next js version)
 - [harshgoel05/another-portfolio](https://github.com/harshgoel05/another-portfolio) - An eye-catching developer Portfolio, Built on NextJS.
 - [NuroDev/nuro.dev](https://github.com/NuroDev/nuro.dev) - 🌿  Personal Portfolio
