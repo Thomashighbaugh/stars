@@ -201,6 +201,7 @@
 
 ## C# # 
 
+- [brandonlw/Psychson](https://github.com/brandonlw/Psychson) - Phison 2251-03 (2303) Custom Firmware & Existing Firmware Patches (BadUSB)
 - [Woruburu/AIDungeonPrompts](https://github.com/Woruburu/AIDungeonPrompts) - 
 - [collinbarrett/FilterLists](https://github.com/collinbarrett/FilterLists) - :shield: The independent, comprehensive directory of filter and host lists for advertisements, trackers, malware, and annoyances.
 - [LimerBoy/FireFox-Thief](https://github.com/LimerBoy/FireFox-Thief) - :fox_face: Decrypt gecko based browsers passwords, cookies, history, bookmarks.
@@ -276,6 +277,8 @@
 
 ## CSS 
 
+- [louieseno/my-nextjs-tailwind-template](https://github.com/louieseno/my-nextjs-tailwind-template) - Preconfigured NextJS with Tailwind + DaisyUI
+- [danangekal/next-typescript-starter](https://github.com/danangekal/next-typescript-starter) - Unofficial Next.js + Typescript stater with a latest package
 - [fghaas/presentation-template](https://github.com/fghaas/presentation-template) - This repo is deprecated. Please use the Cookiecutter-based template instead!
 - [phodal/ebook-boilerplate](https://github.com/phodal/ebook-boilerplate) - A Markdown convert to Ebook :arrow_right: html、mobi、epub、pdf、rtf Template
 - [RLesur/pulpdown](https://github.com/RLesur/pulpdown) - A bookdown template with CSS paged media for pulp magazines (demo)
@@ -458,6 +461,7 @@
 - [bubuntux/nordlynx](https://github.com/bubuntux/nordlynx) - 
 - [Herrox/instapy-docker](https://github.com/Herrox/instapy-docker) - 🐳 Docker config and documentation for running InstaPy with Docker
 - [travisboss/Jefe-Lists](https://github.com/travisboss/Jefe-Lists) - A list of allowlists and denylists converted to adblock style syntax
+- [n0rad/dockerfiles](https://github.com/n0rad/dockerfiles) - My dockerfiles
 - [icewind1991/archiso-builder](https://github.com/icewind1991/archiso-builder) - Docker image for building customized archiso images
 - [martinbjeldbak/self-hosted](https://github.com/martinbjeldbak/self-hosted) - My docker-compose based self-hosted setup including media centre, dns, home automation, and more
 - [SuperSandro2000/docker-images](https://github.com/SuperSandro2000/docker-images) - All my docker images in one mono-repository with multi-arch support
@@ -600,6 +604,9 @@
 
 ## HTML 
 
+- [bariulmunshi/MERN-Project-6](https://github.com/bariulmunshi/MERN-Project-6) - Practice with Tailwind-DaisyUI
+- [GreenDjango/Area](https://github.com/GreenDjango/Area) - Server & Web / Mobile client. Application that works like IFTTT / Zapier.
+- [dotCore-off/portfolio](https://github.com/dotCore-off/portfolio) - My current cyberpunk themed portfolio !
 - [paulrouget/dzslides](https://github.com/paulrouget/dzslides) - DZSlides is a one-file HTML template to build slides in HTML5 and CSS3.
 - [akaalias/plotto-for-obsidian](https://github.com/akaalias/plotto-for-obsidian) - Write your plots faster with this 'batteries-included' collection of Plotto plain text markdown files for Obsidian.md
 - [alitahir4024/eden-website-replica](https://github.com/alitahir4024/eden-website-replica) - If you would like to enter streets of the online world with a bang, Eden is the free creative magazine website template to choose. While the design is to some extent fairly minimal looking, it is, at 
@@ -738,6 +745,11 @@
 
 ## JavaScript 
 
+- [instant-dev/api](https://github.com/instant-dev/api) - Instant API: Build type-safe web APIs with JavaScript
+- [cypotat/react-daisyui-template](https://github.com/cypotat/react-daisyui-template) - Template for quickly creating new applications using React, Tailwind and daisyUI
+- [adrianhajdin/project_next_13_ai_prompt_sharing](https://github.com/adrianhajdin/project_next_13_ai_prompt_sharing) - Next.js recently became the official React framework as outlined in React docs. In this course, you'll learn the most important Next.js concepts and how they fit into the React ecosystem. Finally, you
+- [integrateme-co/integrate-io](https://github.com/integrateme-co/integrate-io) - Cross-Post your blogs between dev.to, Medium and Hashnode 🔀
+- [themefisher/bookworm-light-nextjs](https://github.com/themefisher/bookworm-light-nextjs) - Bookworm is a minimal NextJs, Tailwind CSS blog starter template.
 - [lelouchB/next-image-gallery](https://github.com/lelouchB/next-image-gallery) - Image Gallery built with Next.js, Pexels API and Chakra UI.
 - [Alex313031/Mercury](https://github.com/Alex313031/Mercury) - Firefox fork with compiler optimizations and patches from Librewolf, Waterfox, and GNU IceCat.
 - [Rolando-Barbella/online-dev-cv](https://github.com/Rolando-Barbella/online-dev-cv) - 
@@ -880,7 +892,6 @@
 - [OffcierCia/DeFi-Developer-Road-Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map) - DeFi Developer roadmap is a curated Developer handbook which includes a list of the best tools for DApps development, resources and references!
 - [rockiger/akiee](https://github.com/rockiger/akiee) - A Markdown-based task manager for hackers and people who build stuff.
 - [gregives/Twelvety](https://github.com/gregives/Twelvety) - An Eleventy starter project built to be fast
-- [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [epsylon/ufonet](https://github.com/epsylon/ufonet) - UFONet - Denial of Service Toolkit
 - [tortious/2021_Firefox](https://github.com/tortious/2021_Firefox) - Updated config settings & possibilities for Firefox. This includes all file types (css; uc.js; js; etc) and other tips and tricks, including about:config tweaks
 - [Aris-t2/CustomJSforFx](https://github.com/Aris-t2/CustomJSforFx) - custom scripts
@@ -1117,7 +1128,7 @@
 - [aviaryan/work](https://github.com/aviaryan/work) - My open source projects portfolio. Built with React.
 - [GoogleChromeLabs/quicklink](https://github.com/GoogleChromeLabs/quicklink) - ⚡️Faster subsequent page-loads by prefetching in-viewport links during idle time
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-- [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short code snippets for all your development needs
+- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
 - [chunqiuyiyu/ervy](https://github.com/chunqiuyiyu/ervy) - Bring charts to terminal.
 - [pim-book/programmers-introduction-to-mathematics](https://github.com/pim-book/programmers-introduction-to-mathematics) - Code for A Programmer's Introduction to Mathematics
 - [glorious-codes/glorious-demo](https://github.com/glorious-codes/glorious-demo) - The easiest way to demonstrate your code in action.
@@ -1183,6 +1194,8 @@
 
 ## Lua 
 
+- [neph-iap/forge.nvim](https://github.com/neph-iap/forge.nvim) - Language tool manager for Neovim using mason.nvim, nvim-treesitter, and more.
+- [MobSenpai/sugoi](https://github.com/MobSenpai/sugoi) - すごい Sugoi | Comfy environment for AwesomeWM
 - [folke/null-ls.nvim](https://github.com/folke/null-ls.nvim) - Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.
 - [myagko/dotfiles](https://github.com/myagko/dotfiles) - my awesomewm configuration
 - [Sinomor/dotfiles](https://github.com/Sinomor/dotfiles) - awesomewm dotfiles
@@ -1538,7 +1551,7 @@
 - [nekonako/xresources-nvim](https://github.com/nekonako/xresources-nvim) - 🎨 Neovim colorscheme based on your xresources color
 - [lewis6991/impatient.nvim](https://github.com/lewis6991/impatient.nvim) - Improve startup time for Neovim
 - [s1n7ax/nvim-comment-frame](https://github.com/s1n7ax/nvim-comment-frame) - Detects the language using treesitter and adds a comment block
-- [n3wborn/nvim](https://github.com/n3wborn/nvim) - My own NVIM (&gt;=v0.10.0-dev-1261+g09a17f91d lua config
+- [n3wborn/nvim](https://github.com/n3wborn/nvim) - My own NVIM (&gt;=v0.10.0-dev-1406+g25cfe3fd4) lua config
 - [koniu/awesome-configs](https://github.com/koniu/awesome-configs) - koniu's awesome config
 - [kurbel/awesome-config](https://github.com/kurbel/awesome-config) - configuration files for the awesome window manager (awesomewm)
 - [nvim-lua/popup.nvim](https://github.com/nvim-lua/popup.nvim) - [WIP] An implementation of the Popup API from vim in Neovim. Hope to upstream when complete
@@ -1716,6 +1729,7 @@
 
 ## MDX 
 
+- [hta218/leohuynh.dev](https://github.com/hta218/leohuynh.dev) - My 🏠 on the ☁️. Portfolio, showcases, snippets, dev logs, and ideas
 - [keegandonley/keegan.codes](https://github.com/keegandonley/keegan.codes) - The shiny new version of my website building using NextJS server components
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
 - [kpollich/kylepollich.com](https://github.com/kpollich/kylepollich.com) - My personal blog built with Next.js and Tailwind CSS
@@ -1755,6 +1769,7 @@
 
 ## Nix 
 
+- [NixOS/templates](https://github.com/NixOS/templates) - Flake templates
 - [vyorkin/nixos-config](https://github.com/vyorkin/nixos-config) - My NixOS configuration
 - [dwarfmaster/arkenfox-nixos](https://github.com/dwarfmaster/arkenfox-nixos) - Utilities to use arkenfox/user.js in NixOS
 - [ethangillengg/dotfiles](https://github.com/ethangillengg/dotfiles) - My NixOS configuration and dotfiles! ❄️
@@ -1763,6 +1778,7 @@
 - [ErrorNoInternet/configuration.nix](https://github.com/ErrorNoInternet/configuration.nix) - My NixOS configuration files
 - [mirkolenz/nixos](https://github.com/mirkolenz/nixos) - Personal nix-based configuration for all my computers and servers
 - [futile/nixos-config](https://github.com/futile/nixos-config) - My NixOS configs
+- [dev-null-undefined/NixOs](https://github.com/dev-null-undefined/NixOs) - 
 - [ryan4yin/nixos-and-flakes-book](https://github.com/ryan4yin/nixos-and-flakes-book) - :hammer_and_wrench: :heart: Want to know NixOS & Flakes in detail? Looking for a beginner-friendly tutorial? Then you've come to the right place!  想要学习使用 NixOS 与 Flakes 吗？在寻找一份新手友好的教程？那你可来对地方了！
 - [sherubthakur/dotfiles](https://github.com/sherubthakur/dotfiles) - My dotfiles + system configuration for NixOS and mac
 - [water-sucks/nixed](https://github.com/water-sucks/nixed) - I've nixed any chance I have at human interaction by building this config
@@ -1843,7 +1859,7 @@
 - [Zumorica/GradientOS](https://github.com/Zumorica/GradientOS) - Flake for multiple NixOS system configurations
 - [oddlama/nix-config](https://github.com/oddlama/nix-config) - ❄️ My nix config and dotfiles
 - [numtide/flake-utils](https://github.com/numtide/flake-utils) - Pure Nix flake utility functions [maintainer=@zimbatm]
-- [fortuneteller2k/nix-config](https://github.com/fortuneteller2k/nix-config) - NixOS/NixOS-WSL/nix-darwin configuration using Nix Flakes and flake-parts
+- [moni-dz/nix-config](https://github.com/moni-dz/nix-config) - NixOS/NixOS-WSL/nix-darwin configuration using Nix Flakes and flake-parts
 - [rummik/nixos-config](https://github.com/rummik/nixos-config) - My NixOS/Nix-Darwin + home-manager configs
 - [nekowinston/dotfiles](https://github.com/nekowinston/dotfiles) - ❄️ mi casa es tu casa
 - [MatthiasBenaets/nixos-config](https://github.com/MatthiasBenaets/nixos-config) - My Personal Nix, NixOS and Nix-Darwin System Configuration Flake
@@ -1932,7 +1948,7 @@
 - [viperML/dotfiles](https://github.com/viperML/dotfiles) - Personal configuration files for my PC
 - [gytis-ivaskevicius/flake-utils-plus](https://github.com/gytis-ivaskevicius/flake-utils-plus) - Use Nix flakes without any fluff.
 - [LudovicoPiero/dotfiles](https://github.com/LudovicoPiero/dotfiles) - My flake configuration for NixOS
-- [fortuneteller2k/nixpkgs-f2k](https://github.com/fortuneteller2k/nixpkgs-f2k) - my personal package repository (binary cache included!)
+- [moni-dz/nixpkgs-f2k](https://github.com/moni-dz/nixpkgs-f2k) - my personal package repository (binary cache included!)
 - [Misterio77/nix-config](https://github.com/Misterio77/nix-config) - Personal nixos and home-manager configurations.
 - [mrkuz/nixos](https://github.com/mrkuz/nixos) - My NixOS configuration.
 - [justinwoo/nix-shorts](https://github.com/justinwoo/nix-shorts) - A collection of short notes about Nix, down to what is immediately needed for users.
@@ -2579,7 +2595,6 @@
 
 - [superiorlu/AiTreasureBox](https://github.com/superiorlu/AiTreasureBox) - 🤖 Collect practical AI repos, tools, websites, papers and tutorials on AI. 实用的AI百宝箱 💎
 - [mattnigh/ChatGPT3-Free-Prompt-List](https://github.com/mattnigh/ChatGPT3-Free-Prompt-List) - A free guide for learning to create ChatGPT3 Prompts
-- [CachyOS/CachyOS-Settings](https://github.com/CachyOS/CachyOS-Settings) - Settings used for CachyOS
 - [henrylawson/photish](https://github.com/henrylawson/photish) - Fast, simple, configurable photo portfolio website generator
 - [markevans/dragonfly](https://github.com/markevans/dragonfly) - A Ruby gem for on-the-fly processing - suitable for image uploading in Rails, Sinatra and much more!
 - [juanjoSanz/aws-pentesting-lab](https://github.com/juanjoSanz/aws-pentesting-lab) - Pentesting lab with a Kali Linux instance accessible via ssh & wireguard VPN and with vulnerable instances in a private subnet
@@ -2704,7 +2719,6 @@
 
 ## Shell 
 
-- [dev-null-undefined/NixOs](https://github.com/dev-null-undefined/NixOs) - 
 - [fantasy0x1/dotfiles](https://github.com/fantasy0x1/dotfiles) - Dotfiles of my Arch Linux daily setup
 - [ericdallo/dotfiles](https://github.com/ericdallo/dotfiles) - Dotfiles for my NixOS system based on Dracula theme
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
@@ -2772,6 +2786,7 @@
 - [noctuid/dotfiles](https://github.com/noctuid/dotfiles) - Mouseless Workflow (WIP)
 - [CachyOS/CachyOS-Live-ISO](https://github.com/CachyOS/CachyOS-Live-ISO) - 
 - [CachyOS/CachyOS-Browser-Common](https://github.com/CachyOS/CachyOS-Browser-Common) - 
+- [CachyOS/CachyOS-Settings](https://github.com/CachyOS/CachyOS-Settings) - Settings used for CachyOS
 - [ivan-hc/AM-Application-Manager](https://github.com/ivan-hc/AM-Application-Manager) - AppImage manager/installer/updater with a growing AUR-inspired database, now including 1700+ AppImage packages and official standalone apps (from tar* and zip archives) for GNU/Linux. "AM" also provid
 - [metis-os/metis-sideload](https://github.com/metis-os/metis-sideload) - // Ofiicial installer for @metis-os
 - [metis-os/repo-recon](https://github.com/metis-os/repo-recon) - 📦 Repository: recon, Hacking tools // pkgs
@@ -2779,7 +2794,6 @@
 - [archon-linux/archon-iso](https://github.com/archon-linux/archon-iso) - 
 - [SeveredinTwain/nemesis](https://github.com/SeveredinTwain/nemesis) - Custom Linux ISO Build
 - [wenerme/alpine-image](https://github.com/wenerme/alpine-image) - AlpineLinux pre-build disk images
-- [n0rad/dockerfiles](https://github.com/n0rad/dockerfiles) - My dockerfiles
 - [Bhaviktutorials/shark](https://github.com/Bhaviktutorials/shark) - Future Of Phishing With less delay
 - [mikeroyal/Developer-Handbook](https://github.com/mikeroyal/Developer-Handbook) - Developer-Handbook
 - [The-Duat/mizOS](https://github.com/The-Duat/mizOS) - Source code for the miz Operating System
@@ -3109,6 +3123,7 @@
 
 ## Svelte 
 
+- [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 - [hertg/lightdm-neon](https://github.com/hertg/lightdm-neon) - :art: A customizable theme for web-greeter in a nostalgic but modern neon look
 - [perfect-things/perfect-home](https://github.com/perfect-things/perfect-home) - firefox newtab/home replacement
 - [catchspider2002/svelte-svg-patterns](https://github.com/catchspider2002/svelte-svg-patterns) - Create seamless patterns in SVG to use as website backgrounds, header images, stationery design and package design
@@ -3131,6 +3146,15 @@
 
 ## TypeScript 
 
+- [PascalPixel/twitter-follower-curator-bot](https://github.com/PascalPixel/twitter-follower-curator-bot) - Clean up your following / followers on Twitter
+- [agil3st/portflow-nextjs](https://github.com/agil3st/portflow-nextjs) - 📝🖥 A simple portfolio template built with TailwindCSS and DaisyUI powered up by NextJS.
+- [js-template/metablog-free](https://github.com/js-template/metablog-free) - Next.js Blog Template with Typescript, Tailwind CSS, DaisyUI
+- [dunyanong/myportfolio](https://github.com/dunyanong/myportfolio) - My portfolio built with a variety of technologies including Framermotion, Typescript, Tailwind and NextJS React
+- [mdarche/maker-ui](https://github.com/mdarche/maker-ui) - Build production-ready, responsive layouts in React
+- [skarthikeyan96/kross-post-typescript](https://github.com/skarthikeyan96/kross-post-typescript) - Cross posting blogs across medium, dev.to and Hashnode
+- [swearer23/portfolio](https://github.com/swearer23/portfolio) - minimalist portfolio built with daisyui and nextjs
+- [uniformdev/uniform-component-starter-kit](https://github.com/uniformdev/uniform-component-starter-kit) - Essential set of components you need to start building personalizable web experiences with Uniform. Built with TailwindCSS, DaisyUI, React, and Next.js.
+- [webexpe13/blog-template-using-nextjs-typescript-tailwindcss](https://github.com/webexpe13/blog-template-using-nextjs-typescript-tailwindcss) - This project is a simple blog template using next js, typescript and tailwind css. blog+nextjs+tailwind+typescript.
 - [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [lazerwalker/storyboard](https://github.com/lazerwalker/storyboard) - A narrative engine for interactive storytelling
@@ -3217,6 +3241,7 @@
 - [sstawiarski/nextjs-portfolio-website](https://github.com/sstawiarski/nextjs-portfolio-website) - Personal portfolio website written using Next.js, TypeScript, and Tailwind CSS
 - [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
 - [Bismuth-Forge/bismuth](https://github.com/Bismuth-Forge/bismuth) - KDE Plasma add-on, that tiles your windows automatically and lets you manage them via keyboard, similarly to i3, Sway or dwm.
+- [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [refinedev/refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints. 🌟 Star to support our work!
 - [notemarks/notemarks](https://github.com/notemarks/notemarks) - A git based labeling app to manage notes, documents, and bookmarks.
@@ -3247,7 +3272,7 @@
 - [rfarine/art-portfolio](https://github.com/rfarine/art-portfolio) - raefarine.art
 - [Thomashighbaugh/startpage-zwei](https://github.com/Thomashighbaugh/startpage-zwei) - Second Implementation of a Startpage for my browser in Next.js using Typescript and Tailwind.css with Motion Animations and More
 - [notea-org/notea](https://github.com/notea-org/notea) - 📒 Self hosted note taking app stored on S3
-- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
+- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative.
 - [Charlie85270/tail-kit](https://github.com/Charlie85270/tail-kit) - Tail-kit is a free and open source components and templates kit fully coded with Tailwind css 3.0.
 - [windicss/windicss](https://github.com/windicss/windicss) - Next generation utility-first CSS framework.
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
