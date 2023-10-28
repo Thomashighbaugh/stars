@@ -2001,6 +2001,8 @@
 
 ## Others 
 
+- [Rickhersd/neo-icons](https://github.com/Rickhersd/neo-icons) - Mi propia colección de iconos inspirada en el Neo-Brutalismo
+- [xiaoluoboding/xiaoluoboding](https://github.com/xiaoluoboding/xiaoluoboding) - My GitHub Profile. Before Fork it, Star it, Please. 😂
 - [easychen/aiapi](https://github.com/easychen/aiapi) - A Claude-driven, OpenAI specification-compliant API, free
 - [dailydotdev/daily](https://github.com/dailydotdev/daily) - daily.dev is a professional network for developers to learn, collaborate, and grow together 👩🏽‍💻 👨‍💻
 - [awesome-scripts/awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) - 📖  A curated list of Awesome Userscripts.
@@ -2310,7 +2312,7 @@
 
 - [jetpack-io/devbox-examples](https://github.com/jetpack-io/devbox-examples) - Example dev environments built with Devbox
 - [Ademking/InstaPoster](https://github.com/Ademking/InstaPoster) - 🖼 Instagram Auto-Posting BOT - Post Automatically to instagram
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative. Cloud version available here -&gt; https://app.coolify.io
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative. Cloud version available here -&gt; https://app.coolify.io
 - [LinkStackOrg/LinkStack](https://github.com/LinkStackOrg/LinkStack) - LinkStack - the ultimate solution for creating a personalized & professional profile page. Showcase all your important links in one place, forget the limitation of one link on social media. Set up you
 - [mcreef/LinkEasy](https://github.com/mcreef/LinkEasy) - Minimalistic self-hosted "Linktree" or "LinkedIn Bio" alternative.
 - [DenverCoder1/minimalistic-wallpaper-collection](https://github.com/DenverCoder1/minimalistic-wallpaper-collection) - Minimalistic, flat art, and colorful, digital nature wallpapers and an API for randomly selecting them
@@ -3146,6 +3148,7 @@
 
 ## TypeScript 
 
+- [ekmas/neobrutalism-components](https://github.com/ekmas/neobrutalism-components) - React component collection.
 - [PascalPixel/twitter-follower-curator-bot](https://github.com/PascalPixel/twitter-follower-curator-bot) - Clean up your following / followers on Twitter
 - [agil3st/portflow-nextjs](https://github.com/agil3st/portflow-nextjs) - 📝🖥 A simple portfolio template built with TailwindCSS and DaisyUI powered up by NextJS.
 - [js-template/metablog-free](https://github.com/js-template/metablog-free) - Next.js Blog Template with Typescript, Tailwind CSS, DaisyUI
@@ -3259,7 +3262,7 @@
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
 - [trufflesuite/truffle](https://github.com/trufflesuite/truffle) - :warning: The Truffle Suite is being sunset. For information on ongoing support, migration options and FAQs, visit the Consensys blog. Thank you for all the support over the years.
 - [linnovate/mean](https://github.com/linnovate/mean) - The MEAN stack uses Mongo, Express, Angular(6) and Node for simple and scalable fullstack js applications
-- [nitin27may/mean-docker](https://github.com/nitin27may/mean-docker) - A Mean stack (Angular  16.0.1, Expressjs 4.17.1, MongoDB) jump start project with support of docker.
+- [nitin27may/mean-docker](https://github.com/nitin27may/mean-docker) - A Mean stack (Angular  16.2.11, Expressjs 4.17.1, MongoDB) jump start project with support of docker.
 - [saksmt/awesomewm.d.ts](https://github.com/saksmt/awesomewm.d.ts) - typescript typings for awesome-wm based on typescript-to-lua
 - [Rixcy/community](https://github.com/Rixcy/community) - Community SaaS built using Blitzjs
 - [tsamantanis/react-glassmorphism](https://github.com/tsamantanis/react-glassmorphism) - A react UI component library for glassmorphic components
