@@ -523,7 +523,7 @@
 - [jollheef/appvm](https://github.com/jollheef/appvm) - Nix-based app VMs
 - [BetaPictoris/book](https://github.com/BetaPictoris/book) - 📖 Read ebooks from the comfort of your terminal.
 - [ssleert/zfxtop](https://github.com/ssleert/zfxtop) - [WIP] fetch top for gen Z with X written by bubbletea enjoyer
-- [usememos/memos](https://github.com/usememos/memos) - A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts
+- [usememos/memos](https://github.com/usememos/memos) - A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts.
 - [cheshire137/gen-svgo-pattern](https://github.com/cheshire137/gen-svgo-pattern) - Generate Go code to create SVG patterns from a given SVG image.
 - [curusarn/resh](https://github.com/curusarn/resh) - RESH ❯❯ Contextual shell history for zsh and bash
 - [inancgumus/learngo](https://github.com/inancgumus/learngo) - ❤️ 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes. 🚀 Learn Go by fixing 1000+ tiny programs.
@@ -745,6 +745,9 @@
 
 ## JavaScript 
 
+- [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
+- [nordicgiant2/react-nice-resume](https://github.com/nordicgiant2/react-nice-resume) - A React.js Nice Resume Template
+- [stevej2608/react-mosaic-cra](https://github.com/stevej2608/react-mosaic-cra) - Implementation, in JavaScript, of the react-mosaic demo
 - [instant-dev/api](https://github.com/instant-dev/api) - Instant API: Build type-safe web APIs with JavaScript
 - [cypotat/react-daisyui-template](https://github.com/cypotat/react-daisyui-template) - Template for quickly creating new applications using React, Tailwind and daisyUI
 - [adrianhajdin/project_next_13_ai_prompt_sharing](https://github.com/adrianhajdin/project_next_13_ai_prompt_sharing) - Next.js recently became the official React framework as outlined in React docs. In this course, you'll learn the most important Next.js concepts and how they fit into the React ecosystem. Finally, you
@@ -1194,6 +1197,7 @@
 
 ## Lua 
 
+- [mrjones2014/dotfiles](https://github.com/mrjones2014/dotfiles) - ❄️ My dotfiles for NixOS and macOS as a Nix flake. Neovim, Fish shell, Wezterm, etc.
 - [neph-iap/forge.nvim](https://github.com/neph-iap/forge.nvim) - Language tool manager for Neovim using mason.nvim, nvim-treesitter, and more.
 - [MobSenpai/sugoi](https://github.com/MobSenpai/sugoi) - すごい Sugoi | Comfy environment for AwesomeWM
 - [folke/null-ls.nvim](https://github.com/folke/null-ls.nvim) - Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.
@@ -1509,7 +1513,6 @@
 - [cjpbirkbeck/dots](https://github.com/cjpbirkbeck/dots) - Dot files
 - [gobolinux/gobo-awesome](https://github.com/gobolinux/gobo-awesome) - Awesome WM utilities for GoboLinux
 - [Calinix-Team/calinix-desktop-git](https://github.com/Calinix-Team/calinix-desktop-git) - 
-- [Mange/dotfiles](https://github.com/Mange/dotfiles) - A collection of *NIX dotfiles for configuration
 - [furrycatherder/awesome-xdg-config](https://github.com/furrycatherder/awesome-xdg-config) - my awesomewm config files
 - [doronbehar/.config_awesome](https://github.com/doronbehar/.config_awesome) - My awesome configuration directory
 - [TechnicalDC/AwesomeOS](https://github.com/TechnicalDC/AwesomeOS) - My Awesome Window Manager Configurations
@@ -1769,6 +1772,7 @@
 
 ## Nix 
 
+- [matthewbauer/nix-bundle](https://github.com/matthewbauer/nix-bundle) - Bundle Nix derivations to run anywhere!
 - [NixOS/templates](https://github.com/NixOS/templates) - Flake templates
 - [vyorkin/nixos-config](https://github.com/vyorkin/nixos-config) - My NixOS configuration
 - [dwarfmaster/arkenfox-nixos](https://github.com/dwarfmaster/arkenfox-nixos) - Utilities to use arkenfox/user.js in NixOS
@@ -1907,7 +1911,7 @@
 - [MagicRB/NixNG](https://github.com/MagicRB/NixNG) - 
 - [rvolosatovs/infrastructure](https://github.com/rvolosatovs/infrastructure) - Private NixOps network infrastructure
 - [puffnfresh/nix-files](https://github.com/puffnfresh/nix-files) - My NixOS configuration and custom Nix derivations.
-- [pupbrained/nix-config](https://github.com/pupbrained/nix-config) - Personal NixOS dotfiles/configuration
+- [pupbrained/nix-config](https://github.com/pupbrained/nix-config) - NixOS/nix-darwin dotfiles
 - [AmeerTaweel/dotfiles](https://github.com/AmeerTaweel/dotfiles) - My personal dotfiles configuration for NixOS using flakes
 - [kittywitch/nixfiles](https://github.com/kittywitch/nixfiles) - kat's configuration flake
 - [thexyno/nixos-config](https://github.com/thexyno/nixos-config) - my nixos/nix-darwin configurations
@@ -2001,6 +2005,7 @@
 
 ## Others 
 
+- [notlmn/awesome-icons](https://github.com/notlmn/awesome-icons) - A curated list of awesome downloadable SVG/PNG/Font icon projects
 - [Rickhersd/neo-icons](https://github.com/Rickhersd/neo-icons) - Mi propia colección de iconos inspirada en el Neo-Brutalismo
 - [xiaoluoboding/xiaoluoboding](https://github.com/xiaoluoboding/xiaoluoboding) - My GitHub Profile. Before Fork it, Star it, Please. 😂
 - [easychen/aiapi](https://github.com/easychen/aiapi) - A Claude-driven, OpenAI specification-compliant API, free
@@ -2047,7 +2052,7 @@
 - [jacksonchen1998/Awesome-CGU-CS-AI](https://github.com/jacksonchen1998/Awesome-CGU-CS-AI) - Chang Gung University Computer Science / Artificial Intelligence learning material
 - [fregante/Awesome-WebExtensions](https://github.com/fregante/Awesome-WebExtensions) - A curated list of awesome resources for WebExtensions development.
 - [WinkoErades/Joplin-note-taking-templates](https://github.com/WinkoErades/Joplin-note-taking-templates) - Joplin note taking templates
-- [InioX/dotfiles](https://github.com/InioX/dotfiles) - 
+- [InioX/dotfiles](https://github.com/InioX/dotfiles) - My personal dotfiles for NixOS, Arch, Windows, and Android.
 - [brexhq/prompt-engineering](https://github.com/brexhq/prompt-engineering) - Tips and tricks for working with Large Language Models like OpenAI's GPT-4.
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [devclyde/awcooler](https://github.com/devclyde/awcooler) - 
@@ -2072,7 +2077,7 @@
 - [CommonPaper/story-prompt](https://github.com/CommonPaper/story-prompt) - Challenge project for engineering candidates
 - [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3
 - [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
-- [juminai/dotfiles](https://github.com/juminai/dotfiles) - 
+- [juminai/dotfiles](https://github.com/juminai/dotfiles) - average dotfiles
 - [groepl/Obsidian-Templates](https://github.com/groepl/Obsidian-Templates) - A repository containing templates and scripts for #Obsidian to support the #Zettelkasten method for note-taking.
 - [KaleabTessera/Research-Paper-Reading-Template](https://github.com/KaleabTessera/Research-Paper-Reading-Template) - A markdown template for taking notes to summarize research papers.
 - [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns.
@@ -2174,7 +2179,7 @@
 - [amilajack/reading](https://github.com/amilajack/reading) - A list of computer-science readings I recommend
 - [tehtbl/awesome-note-taking](https://github.com/tehtbl/awesome-note-taking) - A curated list of awesome note-taking software.
 - [anmol098/anmol098](https://github.com/anmol098/anmol098) - If you are forking please do not forget to star the repo
-- [mvximenko/awesome-made-by-germans](https://github.com/mvximenko/awesome-made-by-germans) - 🇩🇪 The best open source projects that were made and mainly contributed by German developers
+- [mvximenko/gg](https://github.com/mvximenko/gg) - 
 - [henriquehbr/nvim-startup.lua](https://github.com/henriquehbr/nvim-startup.lua) - Displays neovim startup time
 - [patrickloeber/ml-study-plan](https://github.com/patrickloeber/ml-study-plan) - The Ultimate FREE Machine Learning Study Plan
 - [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
@@ -2890,6 +2895,7 @@
 - [opengapps/opengapps](https://github.com/opengapps/opengapps) - The main repository of the Open GApps Project
 - [void-linux/void-packages](https://github.com/void-linux/void-packages) - The Void source packages collection
 - [zdykstra/fuzzypkg](https://github.com/zdykstra/fuzzypkg) - 
+- [Mange/dotfiles](https://github.com/Mange/dotfiles) - A collection of *NIX dotfiles for configuration
 - [ExpertAnonymous/PhoneInfoga](https://github.com/ExpertAnonymous/PhoneInfoga) - PhoneInfoga is one of the most advanced tools to scan phone numbers using only free resources.
 - [zoddDev/dotfiles](https://github.com/zoddDev/dotfiles) - My bspwm dotfiles. Get whatever you need! :)
 - [Tomas-M/linux-live](https://github.com/Tomas-M/linux-live) - Linux Live Kit
