@@ -313,7 +313,7 @@
 - [matthewelsom/Project-ScssPlaybook](https://github.com/matthewelsom/Project-ScssPlaybook) - 📕 A quick start playbook that includes a simplified Scss structure.
 - [oomphinc/scss-scaffold](https://github.com/oomphinc/scss-scaffold) - A starter SCSS package to keep our projects consistent.
 - [Rasmagoric/Firefox2022](https://github.com/Rasmagoric/Firefox2022) - A new look for your Firefox browser.
-- [QNetITQ/WaveFox](https://github.com/QNetITQ/WaveFox) - Flexible theme for manual customization.
+- [QNetITQ/WaveFox](https://github.com/QNetITQ/WaveFox) - Firefox CSS Theme for manual customization
 - [leadweedy/Firefox-Proton-Square](https://github.com/leadweedy/Firefox-Proton-Square) - Makes Firefox Proton UI square again
 - [refact0r/midnight-fox](https://github.com/refact0r/midnight-fox) - A clean and simple firefox userchrome theme
 - [marmmaz/FirefoxCSS](https://github.com/marmmaz/FirefoxCSS) - minimalFOX: my Firefox theme.
@@ -607,6 +607,7 @@
 
 ## HTML 
 
+- [dorneanu/gocial](https://github.com/dorneanu/gocial) - Social media interactions - The Gopher way
 - [Raihanhn/Modern_Email_Template](https://github.com/Raihanhn/Modern_Email_Template) - It's a Modern HTML Email Template.
 - [alekzandriia/neufolio](https://github.com/alekzandriia/neufolio) - 🌈 Simple portfolio website inspired by neubrutalism design
 - [bariulmunshi/MERN-Project-6](https://github.com/bariulmunshi/MERN-Project-6) - Practice with Tailwind-DaisyUI
@@ -997,7 +998,6 @@
 - [cssinjs/jss](https://github.com/cssinjs/jss) - JSS is an authoring tool for CSS which uses JavaScript as a host language.
 - [Thomashighbaugh/cv-generator](https://github.com/Thomashighbaugh/cv-generator) - A quick cover letter generator, takes input in prompt boxes and outputs text that's easy to copy. For streamlining job applications.
 - [forwardemail/email-templates](https://github.com/forwardemail/email-templates) - Create, preview (browser/iOS Simulator), and send custom email templates for Node.js.  Made for @forwardemail, @ladjs, @cabinjs, @spamscanner, and @breejs.
-- [Thomashighbaugh/play.tailwindcss.com](https://github.com/Thomashighbaugh/play.tailwindcss.com) - 
 - [Thomashighbaugh/Opitx](https://github.com/Thomashighbaugh/Opitx) - A Markdown Editor for Those Who Are Tired of Loosing Their Work
 - [Thomashighbaugh/resurgens-iv](https://github.com/Thomashighbaugh/resurgens-iv) - The Fourth Resurgens Portfolio Site. Featuring React!!!
 - [mikesprague/my-start-page](https://github.com/mikesprague/my-start-page) - Open source new tab extension
@@ -1402,7 +1402,7 @@
 - [alohaia/nvimcfg](https://github.com/alohaia/nvimcfg) - My NeoVim configuration with built-in packer, written in Lua.
 - [Massolari/forem.nvim](https://github.com/Massolari/forem.nvim) - Neovim plugin to read, write and post articles on Forem platforms like dev.to
 - [elairavi/luavim](https://github.com/elairavi/luavim) - Luavim is a simple neovim configuration written in lua, aiming to provide a base config.
-- [ray-x/nvim](https://github.com/ray-x/nvim) - Blazing fast neovim setup with 180+ plugins.
+- [ray-x/nvim](https://github.com/ray-x/nvim) - Personal neovim setup with 180+ plugins.
 - [nikbrunner/vin](https://github.com/nikbrunner/vin) - This is my personal NeoVim config on which I am working on from time to time, while learning about the whole universe of Vim and NeoVim.
 - [SingularisArt/DeathVim](https://github.com/SingularisArt/DeathVim) - A quick neovim setup.
 - [cubetastic33/dotfiles](https://github.com/cubetastic33/dotfiles) - The dotfiles for my Linux setup
@@ -1954,7 +1954,6 @@
 - [Sanatana-Linux/nixos-config](https://github.com/Sanatana-Linux/nixos-config) - Immutable, reproducible, aesthetic, all-encompassing.
 - [GTrunSec/nixos-flk](https://github.com/GTrunSec/nixos-flk) - highly structured NixOS configuration based on devos
 - [thiagokokada/nix-configs](https://github.com/thiagokokada/nix-configs) - My Nix{OS} configuration files
-- [lourkeur/config](https://github.com/lourkeur/config) - My Nix configuration
 - [nix-community/NixNG](https://github.com/nix-community/NixNG) - A linux distribution based on Nix [maintainer=@MagicRB]
 - [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config) - My personal Nix configuration "dotfiles" for MacOS and NixOS w/ starter templates + step-by-step guides ✨
 - [kanashimia/nixos-config](https://github.com/kanashimia/nixos-config) - Configuration of my nixos systems.
@@ -2025,6 +2024,8 @@
 
 ## Others 
 
+- [free-explorers/veshell](https://github.com/free-explorers/veshell) - Veshell is a Wayland compositor providing an innovative workflow that utilizes humans natural spatial cognition to enhance navigation and organization in the digital environment.
+- [IonicaBizau/reset-your-facebook-account](https://github.com/IonicaBizau/reset-your-facebook-account) - :older_man: Some scripts to delete your Facebook posts, comments and likes.
 - [devbrones/llama-prompts](https://github.com/devbrones/llama-prompts) - A collection of prompts for Llama
 - [PickleBoxer/dev-chatgpt-prompts](https://github.com/PickleBoxer/dev-chatgpt-prompts) - 📚 Personal collection of ChatGPT prompts for developers!
 - [yzfly/awesome-claude-prompts](https://github.com/yzfly/awesome-claude-prompts) - This repo includes Claude prompt curation to use Claude better.
@@ -2369,6 +2370,8 @@
 
 ## Python 
 
+- [swirlai/swirl-search](https://github.com/swirlai/swirl-search) - Swirl is open-source software that uses AI to simultaneously search multiple content and data sources and return AI ranked results which can be used to prompt Generative AI, enabling you to get answer
+- [gohanko/asanitize](https://github.com/gohanko/asanitize) - A simple commandline tool to bulk delete messages/posts from your social media accounts.
 - [NixOS/nixops](https://github.com/NixOS/nixops) - NixOps is a tool for deploying to NixOS machines in a network or cloud.
 - [NixOS/nix.dev](https://github.com/NixOS/nix.dev) - Official documentation for getting things done with Nix.
 - [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - Dev tool that writes scalable apps from scratch while the developer oversees the implementation
@@ -3124,7 +3127,7 @@
 - [vinceliuice/Qogir-icon-theme](https://github.com/vinceliuice/Qogir-icon-theme) - A colorful design icon theme for linux desktops
 - [Bonandry/suru-plus-ubuntu](https://github.com/Bonandry/suru-plus-ubuntu) - Suru++ Ubuntu — An elegant third-party icons theme based on Sam Hewitt's Suru Icons
 - [alghanmi/ubuntu-desktop_setup](https://github.com/alghanmi/ubuntu-desktop_setup) - Initial setup and customization of an Ubuntu LTS desktop environment
-- [PapirusDevelopmentTeam/papirus-folders](https://github.com/PapirusDevelopmentTeam/papirus-folders) - allows to change the color of folders
+- [PapirusDevelopmentTeam/papirus-folders](https://github.com/PapirusDevelopmentTeam/papirus-folders) - a script that lets you change the colors of folders in Papirus icon theme
 - [vinceliuice/grub2-themes](https://github.com/vinceliuice/grub2-themes) - Modern Design theme for Grub2
 - [oxy86/melux](https://github.com/oxy86/melux) - custom ubuntu iso creation script
 - [linuxium/UbuntuLiveUSB](https://github.com/linuxium/UbuntuLiveUSB) - Scripts to create custom Ubuntu ISOs and multiboot LiveUSBs with the latest audio fixes for Intel platforms.
@@ -3181,6 +3184,9 @@
 
 ## TypeScript 
 
+- [umutyesildal/yesildal.me-personal-portfolio](https://github.com/umutyesildal/yesildal.me-personal-portfolio) - A lightweight, customizable and responsive single-page personal portfolio website, created by using Reactjs and Nextjs.
+- [wslyvh/autodelete-me](https://github.com/wslyvh/autodelete-me) - Reduce your digital footprint and auto delete your online profiles 🧹
+- [mohd-akram/redactor](https://github.com/mohd-akram/redactor) - Browser extension to redact social media posts that match word filters.
 - [ibelick/nextjs-resume](https://github.com/ibelick/nextjs-resume) - A curriculum vitae inspired by read.cv, build with Next.js and Tailwind CSS
 - [marieooq/neo-brutalism-ui-library](https://github.com/marieooq/neo-brutalism-ui-library) - 
 - [mlajtos/mosaic](https://github.com/mlajtos/mosaic) - A tiling web browser.
