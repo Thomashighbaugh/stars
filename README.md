@@ -314,7 +314,7 @@
 - [matthewelsom/Project-ScssPlaybook](https://github.com/matthewelsom/Project-ScssPlaybook) - 📕 A quick start playbook that includes a simplified Scss structure.
 - [oomphinc/scss-scaffold](https://github.com/oomphinc/scss-scaffold) - A starter SCSS package to keep our projects consistent.
 - [Rasmagoric/Firefox2022](https://github.com/Rasmagoric/Firefox2022) - A new look for your Firefox browser.
-- [QNetITQ/WaveFox](https://github.com/QNetITQ/WaveFox) - Firefox CSS Theme for manual customization
+- [QNetITQ/WaveFox](https://github.com/QNetITQ/WaveFox) - Firefox CSS Theme/Style for manual customization
 - [leadweedy/Firefox-Proton-Square](https://github.com/leadweedy/Firefox-Proton-Square) - Makes Firefox Proton UI square again
 - [refact0r/midnight-fox](https://github.com/refact0r/midnight-fox) - A clean and simple firefox userchrome theme
 - [marmmaz/FirefoxCSS](https://github.com/marmmaz/FirefoxCSS) - minimalFOX: my Firefox theme.
@@ -2843,7 +2843,6 @@
 - [The-Duat/mizOS](https://github.com/The-Duat/mizOS) - Source code for the miz Operating System
 - [0TrashPanda/install-script-artix](https://github.com/0TrashPanda/install-script-artix) - 
 - [gavinlyonsrepo/cylon](https://github.com/gavinlyonsrepo/cylon) - A Terminal user interface for maintaining an Arch Linux distribution.
-- [xchwarze/wifi-pineapple-cloner](https://github.com/xchwarze/wifi-pineapple-cloner) - Clone WiFi Pineapple NANO/TETRA in generic hardware
 - [ideas-man/artix-wizard](https://github.com/ideas-man/artix-wizard) - A collection of install/setup/configuration scripts for quick and painless workstation/server environment deployment under Artix Linux.
 - [alvatip/Nordzy-icon](https://github.com/alvatip/Nordzy-icon) - Nordzy is a free and open source icon theme for Linux desktops using the Nord color palette from Arctic Ice Studio and based on WhiteSur and Numix Icon Theme.
 - [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - I am using this repository to document my journey learning about DevOps. I began this process on January 1, 2022, and plan to continue until March 31. I will be dedicating one hour each day, including
@@ -3296,7 +3295,7 @@
 - [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
 - [Bismuth-Forge/bismuth](https://github.com/Bismuth-Forge/bismuth) - KDE Plasma add-on, that tiles your windows automatically and lets you manage them via keyboard, similarly to i3, Sway or dwm.
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
-- [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibilty. 🌟 Star to support our work!
+- [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibilty.
 - [notemarks/notemarks](https://github.com/notemarks/notemarks) - A git based labeling app to manage notes, documents, and bookmarks.
 - [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
 - [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
@@ -3368,7 +3367,7 @@
 - [kremalicious/blog](https://github.com/kremalicious/blog) - 🍭 My blog kremalicious.com built with Astro + TypeScript. Neat.
 - [herschel666/photoblog](https://github.com/herschel666/photoblog) - Goodbye Flickr …
 - [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) - 🚀 Automatically deploy your project to GitHub Pages using GitHub Actions. This action can be configured to push your production-ready code into any branch you'd like.
-- [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Git and Visual Editing
+- [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Markdown and Visual Editing
 - [ridedott/merge-me-action](https://github.com/ridedott/merge-me-action) - Automatically merges Pull Requests.
 - [chronisp/gatsby-starter](https://github.com/chronisp/gatsby-starter) - Gatsby Starter for creating portfolio & blog.
 - [GPortfolio/GPortfolio](https://github.com/GPortfolio/GPortfolio) - Creating an automatic portfolio based on Github profile
