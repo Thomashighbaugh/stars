@@ -1933,7 +1933,7 @@
 - [starcraft66/os-config](https://github.com/starcraft66/os-config) - My personal OS configuration files for Darwin and Linux using Nix, NixOS, nix-darwin and home-manager
 - [RaubJo/hive](https://github.com/RaubJo/hive) - 
 - [MagicRB/NixNG](https://github.com/MagicRB/NixNG) - 
-- [rvolosatovs/infrastructure](https://github.com/rvolosatovs/infrastructure) - Private NixOps network infrastructure
+- [rvolosatovs/nixelium](https://github.com/rvolosatovs/nixelium) - Private NixOps network infrastructure
 - [puffnfresh/nix-files](https://github.com/puffnfresh/nix-files) - My NixOS configuration and custom Nix derivations.
 - [pupbrained/nix-config](https://github.com/pupbrained/nix-config) - NixOS/nix-darwin dotfiles
 - [AmeerTaweel/dotfiles](https://github.com/AmeerTaweel/dotfiles) - My personal dotfiles configuration for NixOS using flakes
