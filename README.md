@@ -146,7 +146,6 @@
 - [yshui/picom](https://github.com/yshui/picom) - A lightweight compositor for X11
 - [phillbush/shod](https://github.com/phillbush/shod) - mouse-based window manager that can tile windows inside floating containers
 - [psychon/lualock](https://github.com/psychon/lualock) - A screenlocker that's highly configurable in lua
-- [nullsecuritynet/tools](https://github.com/nullsecuritynet/tools) - Security and Hacking Tools, Exploits, Proof of Concepts, Shellcodes, Scripts.
 - [moetunes/Nextwm](https://github.com/moetunes/Nextwm) - snapwm is an easy to configure, dynamic, tiling window manager. Built on dminiwm with a desktop switcher, info bar and reloadable rc file.
 - [collinsmichael/spartan](https://github.com/collinsmichael/spartan) - Final Year Project - Multi-Tasking GUI based Operating System designed with usability in mind
 - [varmd/wayward](https://github.com/varmd/wayward) - Fast desktop shell for wayland and weston.
@@ -752,6 +751,7 @@
 
 ## JavaScript 
 
+- [MayowaObisesan/daisyui-template](https://github.com/MayowaObisesan/daisyui-template) - This is tailwind daisy UI react template. It is a boiler plate to get started with react quickly.
 - [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) - Code documentation written as code! How novel and totally my idea!
 - [osmoscraft/osmosfeed-examples](https://github.com/osmoscraft/osmosfeed-examples) - 
 - [leomuehlfeld/Memphis-Pattern-Generator](https://github.com/leomuehlfeld/Memphis-Pattern-Generator) - 🎨 simple "paper.js" pattern generator
@@ -1195,7 +1195,7 @@
 - [udevbe/westford](https://github.com/udevbe/westford) - Westford Wayland Compositor
 - [Chooloo/koler](https://github.com/Chooloo/koler) - Just a phone app.
 - [SimpleMobileTools/Simple-App-Launcher](https://github.com/SimpleMobileTools/Simple-App-Launcher) - A simple holder for favourite apps for quick & easy app launcher icon management
-- [MM2-0/Kvaesitso](https://github.com/MM2-0/Kvaesitso) - A FOSS Android launcher
+- [MM2-0/Kvaesitso](https://github.com/MM2-0/Kvaesitso) - A search-focused Android launcher
 - [rektdeckard/iconpacktools](https://github.com/rektdeckard/iconpacktools) - A handy utility for Android icon pack creators to easily generate key assets and resources.
 - [osmanonurkoc/papirusadaptive](https://github.com/osmanonurkoc/papirusadaptive) - Famous Linux Icon theme port for android
 - [hadiyarajesh/insta-bot](https://github.com/hadiyarajesh/insta-bot) - Instagram automation library to perform likes, comments, follow, story viewing and much more.
@@ -1209,6 +1209,7 @@
 
 ## Lua 
 
+- [loctvl842/monokai-pro.nvim](https://github.com/loctvl842/monokai-pro.nvim) - Monokai Pro theme for Neovim written in Lua, with multiple filters: Pro, Classic, Machine, Octagon, Ristretto, Spectrum
 - [dobrovolsky/kb-notes.nvim](https://github.com/dobrovolsky/kb-notes.nvim) - Note-taking plugin builtt on to of nvim
 - [JellyApple102/flote.nvim](https://github.com/JellyApple102/flote.nvim) - Easily accessible, per-project markdown notes in Neovim.
 - [gsuuon/note.nvim](https://github.com/gsuuon/note.nvim) - Notes in neovim
@@ -1448,7 +1449,7 @@
 - [frabjous/awesome](https://github.com/frabjous/awesome) - Dotfiles for awesomewm
 - [meriadec/awesome-efficient](https://github.com/meriadec/awesome-efficient) - Awesome WM 4 theme - Focused on elegance, minimalism & productivity
 - [intpl/awesome](https://github.com/intpl/awesome) - config dotfiles for AwesomeWM
-- [mhmoooods/turbo-awesome](https://github.com/mhmoooods/turbo-awesome) - AwesomeWM dotfiles
+- [mhmood-sf/turbo-awesome](https://github.com/mhmood-sf/turbo-awesome) - AwesomeWM dotfiles
 - [nuxshed/dotfiles](https://github.com/nuxshed/dotfiles) - pls help
 - [Kasper24/KwesomeDE](https://github.com/Kasper24/KwesomeDE) - A desktop environment made in AwesomeWM
 - [javacafe01/awesome-wallpaper](https://github.com/javacafe01/awesome-wallpaper) - 
@@ -1793,6 +1794,8 @@
 
 ## Nix 
 
+- [sum-rock/just-sum-nix](https://github.com/sum-rock/just-sum-nix) - nix files
+- [mikeroyal/NixOS-Guide](https://github.com/mikeroyal/NixOS-Guide) - NixOS Guide. Learn all about the immutable Nix Operating System and the declarative Nix Expression Language.
 - [cpcloud/flake-update-action](https://github.com/cpcloud/flake-update-action) - A GitHub action to automatically update nix flake dependencies
 - [GTrunSec/hivebus](https://github.com/GTrunSec/hivebus) - A declarative configuration framework based on the structural theory of std.
 - [z0al/dotfiles](https://github.com/z0al/dotfiles) - My NixOS ❄ & macOS 🍏 configuration
@@ -1936,7 +1939,7 @@
 - [starcraft66/os-config](https://github.com/starcraft66/os-config) - My personal OS configuration files for Darwin and Linux using Nix, NixOS, nix-darwin and home-manager
 - [RaubJo/hive](https://github.com/RaubJo/hive) - 
 - [MagicRB/NixNG](https://github.com/MagicRB/NixNG) - 
-- [rvolosatovs/nixelium](https://github.com/rvolosatovs/nixelium) - Private NixOps network infrastructure
+- [rvolosatovs/nixelium](https://github.com/rvolosatovs/nixelium) - Nix-powered Linux and Darwin systems
 - [puffnfresh/nix-files](https://github.com/puffnfresh/nix-files) - My NixOS configuration and custom Nix derivations.
 - [pupbrained/nix-config](https://github.com/pupbrained/nix-config) - NixOS/nix-darwin dotfiles
 - [AmeerTaweel/dotfiles](https://github.com/AmeerTaweel/dotfiles) - My personal dotfiles configuration for NixOS using flakes
@@ -2467,7 +2470,7 @@
 - [vm03/payload_dumper](https://github.com/vm03/payload_dumper) - Android OTA payload dumper
 - [spinlud/py-linkedin-jobs-scraper](https://github.com/spinlud/py-linkedin-jobs-scraper) - 
 - [kraanzu/dooit](https://github.com/kraanzu/dooit) - An awesome TUI todo manager
-- [adapdr/apps-server](https://github.com/adapdr/apps-server) - A container based home development server, just copy over dist.* files, set the .env and get rolling!
+- [old-adapdr/apps-server](https://github.com/old-adapdr/apps-server) - A container based home development server, just copy over dist.* files, set the .env and get rolling!
 - [sahinakkaya/binary-clock-wallpaper](https://github.com/sahinakkaya/binary-clock-wallpaper) - A python script to generate wallpaper that shows time in binary.
 - [chrisvaughn/imap-cleanup](https://github.com/chrisvaughn/imap-cleanup) - Python script to clean out unwanted email via IMAP
 - [unifyai/ivy](https://github.com/unifyai/ivy) - The Unified AI Framework
@@ -2670,6 +2673,7 @@
 
 ## Rust 
 
+- [jakeisnt/rustlings-nix](https://github.com/jakeisnt/rustlings-nix) - :crab: Small exercises to get you used to reading and writing Rust code - with a Nix Flakes build!
 - [oxalica/nil](https://github.com/oxalica/nil) - NIx Language server, an incremental analysis assistent for writing in Nix.
 - [lotabout/skim](https://github.com/lotabout/skim) - Fuzzy Finder in rust!
 - [Michael-F-Bryan/mdbook-linkcheck](https://github.com/Michael-F-Bryan/mdbook-linkcheck) - A backend for `mdbook` which will check your links for you.
@@ -2763,6 +2767,7 @@
 
 ## Shell 
 
+- [TangoMan75/commitator](https://github.com/TangoMan75/commitator) - TangoMan Commitator is an awesome bash script to fake git commit history.
 - [chubin/cheat.sheets](https://github.com/chubin/cheat.sheets) - cheat.sh cheat sheets repository
 - [mikeroyal/Linux-Mint-Guide](https://github.com/mikeroyal/Linux-Mint-Guide) - Linux Mint Guide
 - [gh0stzk/dotfiles](https://github.com/gh0stzk/dotfiles) - bspwm + polybar + eww rices. 12 themes with a rice selector to change on the fly.
@@ -3195,6 +3200,9 @@
 
 ## TypeScript 
 
+- [js-template/daisy-nextjs-turbo-setup](https://github.com/js-template/daisy-nextjs-turbo-setup) - 
+- [briangershon/nextjs-starter](https://github.com/briangershon/nextjs-starter) - Starter template for Next.js v13 (using new app approach). With TypeScript, tailwindcss and daisyUI.
+- [builderz-labs/builderz-solana-dapp-scaffold](https://github.com/builderz-labs/builderz-solana-dapp-scaffold) - Builderz Solana dApp Scaffold (Nextjs13, Typescript, TailwindCSS, MaterialUI, web3.js)
 - [Jkker/metasearch-tampermonkey](https://github.com/Jkker/metasearch-tampermonkey) - 
 - [osmoscraft/osmosfeed](https://github.com/osmoscraft/osmosfeed) - Turn GitHub into an RSS reader
 - [umutyesildal/yesildal.me-personal-portfolio](https://github.com/umutyesildal/yesildal.me-personal-portfolio) - A lightweight, customizable and responsive single-page personal portfolio website, created by using Reactjs and Nextjs.
