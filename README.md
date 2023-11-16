@@ -73,6 +73,7 @@
 - [TeX](#tex)
 - [Twig](#twig)
 - [TypeScript](#typescript)
+- [V](#v)
 - [Vala](#vala)
 - [Vim Script](#vim-script)
 - [Vim Snippet](#vim-snippet)
@@ -251,7 +252,6 @@
 - [monero-project/monero](https://github.com/monero-project/monero) - Monero: the secure, private, untraceable cryptocurrency
 - [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree
 - [WayfireWM/wayfire](https://github.com/WayfireWM/wayfire) - A modular and extensible wayland compositor
-- [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [xournalpp/xournalpp](https://github.com/xournalpp/xournalpp) - Xournal++ is a handwriting notetaking software with PDF annotation support. Written in C++ with GTK3, supporting Linux (e.g. Ubuntu, Debian, Arch, SUSE), macOS and Windows 10. Supports pen input from 
 - [enkore/j4-dmenu-desktop](https://github.com/enkore/j4-dmenu-desktop) - A fast desktop menu
 - [lxqt/libqtxdg](https://github.com/lxqt/libqtxdg) - Qt implementation of freedesktop.org xdg specs
@@ -751,6 +751,7 @@
 
 ## JavaScript 
 
+- [osmoscraft/tundra](https://github.com/osmoscraft/tundra) - Where knowledge grows.
 - [MayowaObisesan/daisyui-template](https://github.com/MayowaObisesan/daisyui-template) - This is tailwind daisy UI react template. It is a boiler plate to get started with react quickly.
 - [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) - Code documentation written as code! How novel and totally my idea!
 - [osmoscraft/osmosfeed-examples](https://github.com/osmoscraft/osmosfeed-examples) - 
@@ -1164,6 +1165,7 @@
 
 ## Jupyter Notebook 
 
+- [Nixtla/nixtla](https://github.com/Nixtla/nixtla) - Python SDK for TimeGPT
 - [jmpaz/promptlib](https://github.com/jmpaz/promptlib) - A collection of prompts for use with GPT-4 via ChatGPT, OpenAI API w/ Gradio frontend & notebook
 - [neonbjb/tortoise-tts](https://github.com/neonbjb/tortoise-tts) - A multi-voice TTS system trained with an emphasis on quality
 - [algorithmica-org/algorithmica](https://github.com/algorithmica-org/algorithmica) - A computer science textbook
@@ -1209,6 +1211,9 @@
 
 ## Lua 
 
+- [nyngwang/suave.lua](https://github.com/nyngwang/suave.lua) - Multi-tabs project session automation
+- [chrisgrieser/nvim-rulebook](https://github.com/chrisgrieser/nvim-rulebook) - Add inline-comments to ignore rules, or lookup rule documentation online.
+- [Exafunction/codeium.nvim](https://github.com/Exafunction/codeium.nvim) - A native neovim extension for Codeium
 - [loctvl842/monokai-pro.nvim](https://github.com/loctvl842/monokai-pro.nvim) - Monokai Pro theme for Neovim written in Lua, with multiple filters: Pro, Classic, Machine, Octagon, Ristretto, Spectrum
 - [dobrovolsky/kb-notes.nvim](https://github.com/dobrovolsky/kb-notes.nvim) - Note-taking plugin builtt on to of nvim
 - [JellyApple102/flote.nvim](https://github.com/JellyApple102/flote.nvim) - Easily accessible, per-project markdown notes in Neovim.
@@ -1794,6 +1799,8 @@
 
 ## Nix 
 
+- [nix-community/nixGL](https://github.com/nix-community/nixGL) - A wrapper tool for nix OpenGL application [maintainer=@guibou]
+- [nix-community/poetry2nix](https://github.com/nix-community/poetry2nix) - Convert poetry projects to nix automagically [maintainer=@adisbladis]
 - [sum-rock/just-sum-nix](https://github.com/sum-rock/just-sum-nix) - nix files
 - [mikeroyal/NixOS-Guide](https://github.com/mikeroyal/NixOS-Guide) - NixOS Guide. Learn all about the immutable Nix Operating System and the declarative Nix Expression Language.
 - [cpcloud/flake-update-action](https://github.com/cpcloud/flake-update-action) - A GitHub action to automatically update nix flake dependencies
@@ -2383,7 +2390,7 @@
 ## Python 
 
 - [detailyang/awesome-cheatsheet](https://github.com/detailyang/awesome-cheatsheet) - :beers: awesome cheatsheet
-- [swirlai/swirl-search](https://github.com/swirlai/swirl-search) - Swirl is open-source software that uses AI to simultaneously search multiple content and data sources, finds the best results with AI, fetches the most relevant parts and prompts Generative AI, enabli
+- [swirlai/swirl-search](https://github.com/swirlai/swirl-search) - Swirl is open-source software that uses AI to simultaneously search multiple content and data sources, finds the best results using a reader LLM, then prompts Generative AI, enabling you to get answer
 - [gohanko/asanitize](https://github.com/gohanko/asanitize) - A simple commandline tool to bulk delete messages/posts from your social media accounts.
 - [NixOS/nixops](https://github.com/NixOS/nixops) - NixOps is a tool for deploying to NixOS machines in a network or cloud.
 - [NixOS/nix.dev](https://github.com/NixOS/nix.dev) - Official documentation for getting things done with Nix.
@@ -2673,6 +2680,7 @@
 
 ## Rust 
 
+- [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) - App source + Nix packages + Docker = Image
 - [jakeisnt/rustlings-nix](https://github.com/jakeisnt/rustlings-nix) - :crab: Small exercises to get you used to reading and writing Rust code - with a Nix Flakes build!
 - [oxalica/nil](https://github.com/oxalica/nil) - NIx Language server, an incremental analysis assistent for writing in Nix.
 - [lotabout/skim](https://github.com/lotabout/skim) - Fuzzy Finder in rust!
@@ -2719,6 +2727,7 @@
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [Misterio77/flavours](https://github.com/Misterio77/flavours) - 🎨💧 An easy to use base16 scheme manager that integrates with any workflow.
+- [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [iced-rs/iced](https://github.com/iced-rs/iced) - A cross-platform GUI library for Rust, inspired by Elm
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
@@ -2767,6 +2776,7 @@
 
 ## Shell 
 
+- [chrisgrieser/zsh-magic-dashboard](https://github.com/chrisgrieser/zsh-magic-dashboard) - Pressing "enter" on an empty buffer displays an information-rich and pretty dashboard.
 - [TangoMan75/commitator](https://github.com/TangoMan75/commitator) - TangoMan Commitator is an awesome bash script to fake git commit history.
 - [chubin/cheat.sheets](https://github.com/chubin/cheat.sheets) - cheat.sh cheat sheets repository
 - [mikeroyal/Linux-Mint-Guide](https://github.com/mikeroyal/Linux-Mint-Guide) - Linux Mint Guide
@@ -3401,6 +3411,10 @@
 - [gpmer/gpm.js](https://github.com/gpmer/gpm.js) - :gem:Git Package Manager, make you manage the repository easier, Power by Typescript & Nodejs
 - [akveo/eva-icons](https://github.com/akveo/eva-icons) - A pack of more than 480 beautifully crafted Open Source icons. SVG, Sketch, Web Font and Animations support.
 - [streamich/libreact](https://github.com/streamich/libreact) - Collection of useful React components
+
+## V 
+
+- [thecodrr/boxx](https://github.com/thecodrr/boxx) - 📦 Create highly customizable terminal boxes that also look great!
 
 ## Vala 
 
