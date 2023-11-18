@@ -284,6 +284,7 @@
 - [phodal/ebook-boilerplate](https://github.com/phodal/ebook-boilerplate) - A Markdown convert to Ebook :arrow_right: html、mobi、epub、pdf、rtf Template
 - [RLesur/pulpdown](https://github.com/RLesur/pulpdown) - A bookdown template with CSS paged media for pulp magazines (demo)
 - [Ritika-Agrawal811/storyboard-template](https://github.com/Ritika-Agrawal811/storyboard-template) - A storyboard template made using HTML and CSS.
+- [Sinomor/dotfiles](https://github.com/Sinomor/dotfiles) - awesomewm dotfiles
 - [p3nguin-kun/penguinDotfiles](https://github.com/p3nguin-kun/penguinDotfiles) - 📁 dotfiles for penguinrice
 - [Thomashighbaugh/gpt_notebook](https://github.com/Thomashighbaugh/gpt_notebook) - A Markdown Notebook about LLMs and Generative AI rendered into a website using MDBook and GitHub Actions. Featues my collection of prompts for ChatGPT/GPT-3
 - [7KIR7/dots](https://github.com/7KIR7/dots) - my dotfiles
@@ -621,7 +622,7 @@
 - [berrysauce/whatdevsneed](https://github.com/berrysauce/whatdevsneed) - 🧰 Discover new developer tools
 - [learn-awesome/learn](https://github.com/learn-awesome/learn) - A social network of lifelong learners built around humanity's universal learning map.
 - [abhishekpatel946/nft-minter.github.io](https://github.com/abhishekpatel946/nft-minter.github.io) - Create NFTs for free on Rarible.com via a new lazy minting feature
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 4700 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 4800 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [danmindru/responsive-html-email-signature](https://github.com/danmindru/responsive-html-email-signature) - ✨ Template generator for (responsive) emails & email signatures
 - [abhinavkorpal/awesome-computer-science-EBook](https://github.com/abhinavkorpal/awesome-computer-science-EBook) - Leading source of ebooks, with a vast range of ebooks from academic, popular and professional publishers.
 - [danieldelcore/mega-interview-guide](https://github.com/danieldelcore/mega-interview-guide) - The MEGA interview guide, JavaSciript, Front End, Comp Sci
@@ -751,6 +752,7 @@
 
 ## JavaScript 
 
+- [saeedezzati/superpower-chatgpt](https://github.com/saeedezzati/superpower-chatgpt) - ChatGPT with superpowers! Search chat history, create folders, export all chats, pin messages, access thousands of community prompts, incognito mode, language and tone selection, and many more feature
 - [osmoscraft/tundra](https://github.com/osmoscraft/tundra) - Where knowledge grows.
 - [MayowaObisesan/daisyui-template](https://github.com/MayowaObisesan/daisyui-template) - This is tailwind daisy UI react template. It is a boiler plate to get started with react quickly.
 - [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) - Code documentation written as code! How novel and totally my idea!
@@ -864,7 +866,6 @@
 - [benzBrake/FirefoxCustomize](https://github.com/benzBrake/FirefoxCustomize) - Ryan 收集的 Firefox 个性化相关资源
 - [thinkswell/javascript-mini-projects](https://github.com/thinkswell/javascript-mini-projects) - Awesome Collection of amazing javascript mini-projects.
 - [pahefu/web-glitch-this](https://github.com/pahefu/web-glitch-this) - Web version of the Glitch-This cli-program made by TotallyNotChase
-- [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable and developer-first.
 - [JonasDoesThings/FactImageGen](https://github.com/JonasDoesThings/FactImageGen) - A web-based tool for generating fact images for Instagram
 - [Haehnchen/crypto-trading-bot](https://github.com/Haehnchen/crypto-trading-bot) - Cryptocurrency trading bot in javascript for Bitfinex, Bitmex, Binance, Bybit ... (public edition)
 - [Superalgos/Superalgos](https://github.com/Superalgos/Superalgos) - Free, open-source crypto trading bot, automated bitcoin / cryptocurrency trading software, algorithmic trading bots. Visually design your crypto trading bot, leveraging an integrated charting system, 
@@ -1228,7 +1229,6 @@
 - [MobSenpai/sugoi](https://github.com/MobSenpai/sugoi) - すごい Sugoi | Comfy environment for AwesomeWM
 - [folke/null-ls.nvim](https://github.com/folke/null-ls.nvim) - Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.
 - [myagko/dotfiles](https://github.com/myagko/dotfiles) - my awesomewm configuration
-- [Sinomor/dotfiles](https://github.com/Sinomor/dotfiles) - awesomewm dotfiles
 - [mncc8337/dotfiles](https://github.com/mncc8337/dotfiles) - my awesomewm dotfiles
 - [PoisonIsBestType/dotfiles](https://github.com/PoisonIsBestType/dotfiles) - awesomewm setup config files
 - [nvimtools/none-ls.nvim](https://github.com/nvimtools/none-ls.nvim) - null-ls.nvim reloaded / Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.
@@ -3288,6 +3288,7 @@
 - [fand/MDMT](https://github.com/fand/MDMT) - 💊Markdown Document Template💊
 - [pieroproietti/penguins-eggs](https://github.com/pieroproietti/penguins-eggs) - On the road of Remastersys, Refracta, Systemback and father Knoppix!
 - [TechSquidTV/Shoutify](https://github.com/TechSquidTV/Shoutify) - An open source, self-hosted, and entirely free solution to social media management.
+- [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable and developer-first.
 - [nrwl/nx](https://github.com/nrwl/nx) - Smart, Fast and Extensible Build System
 - [LasCC/HackTools](https://github.com/LasCC/HackTools) - The all-in-one browser extension for offensive security professionals 🛠
 - [Ekliptor/WolfBot](https://github.com/Ekliptor/WolfBot) - Crypto currency trading bot written in TypeScript for NodeJS
@@ -3354,7 +3355,6 @@
 - [heysafronov/square-react-dashboard](https://github.com/heysafronov/square-react-dashboard) - 👨‍🎤 React Dashboard Template built with TypeScript
 - [framer/motion](https://github.com/framer/motion) - Open source, production-ready animation and gesture library for React
 - [Thomashighbaugh/Personal-Site](https://github.com/Thomashighbaugh/Personal-Site) - My portfolio site's new form and fresh branding
-- [OzymandiasTheGreat/savage](https://github.com/OzymandiasTheGreat/savage) - A different kind of SVG editor.
 - [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Intuitive Vue Framework.
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [effector/effector](https://github.com/effector/effector) - Business logic with ease ☄️
