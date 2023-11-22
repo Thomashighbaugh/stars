@@ -189,7 +189,6 @@
 - [kaugm/mmwm](https://github.com/kaugm/mmwm) - Modern Minimalistic Window Manager
 - [salman-abedin/devour](https://github.com/salman-abedin/devour) - X11 window swallower
 - [baskerville/xtitle](https://github.com/baskerville/xtitle) - Outputs X window titles
-- [hackerschoice/thc-tips-tricks-hacks-cheat-sheet](https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet) - Various tips & tricks
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [klange/toaruos](https://github.com/klange/toaruos) - A completely-from-scratch hobby operating system: bootloader, kernel, drivers, C library, and userspace including a composited graphical UI, dynamic linker, syntax-highlighting text editor, network st
 - [bfabiszewski/libmobi](https://github.com/bfabiszewski/libmobi) - C library for handling Kindle (MOBI) formats of ebook documents
@@ -216,6 +215,7 @@
 
 ## C++ 
 
+- [jechasteen/gratuitous](https://github.com/jechasteen/gratuitous) - IDE for awesome window manager configuration and themes. Start and stop a Xephyr preview, syntax highlighting, editor splitting.
 - [Alex313031/thorium](https://github.com/Alex313031/thorium) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md.
 - [MCredstoner2004/ImageLOL](https://github.com/MCredstoner2004/ImageLOL) - simple program to store a file into a PNG image
 - [Curve/aawmtt](https://github.com/Curve/aawmtt) - Another AwesomeWM Testing Tool 🚀
@@ -305,7 +305,6 @@
 - [ayushhroyy/elegantfox](https://github.com/ayushhroyy/elegantfox) - firefox themed context and bookmark menus
 - [siduck/dotfiles](https://github.com/siduck/dotfiles) - dotfiles for my beautiful rices!
 - [khaneliman/dotfiles](https://github.com/khaneliman/dotfiles) - Multi platform and desktop environment dotfiles for developers.
-- [shvedes/dotfiles](https://github.com/shvedes/dotfiles) - My own pretty minimalist dotfiles
 - [mehedirm6244/Miserable_Xfce](https://github.com/mehedirm6244/Miserable_Xfce) - My miserable dotfiles for Xfce
 - [L4ki/Aura-Plasma-Themes](https://github.com/L4ki/Aura-Plasma-Themes) - Aura Themes For Plasma Desktop
 - [vinceliuice/Matcha-gtk-theme](https://github.com/vinceliuice/Matcha-gtk-theme) - Matcha is a flat Design theme for GTK 3, GTK 2 and Gnome-Shell
@@ -1213,6 +1212,14 @@
 
 ## Lua 
 
+- [hidayry/awesomewm-dotfiles](https://github.com/hidayry/awesomewm-dotfiles) - dotfiles awesomewm
+- [whwright/stock-widget](https://github.com/whwright/stock-widget) - stock ticker widget for awesome WM
+- [deficient/screensaver](https://github.com/deficient/screensaver) - Widget for the awesome WM to control screensaver timeout
+- [deficient/keyboard-layout-indicator](https://github.com/deficient/keyboard-layout-indicator) - Keyboard layout indicator/switcher widget for awesome-wm
+- [deficient/brightness](https://github.com/deficient/brightness) - Brightness widget for awesome WM
+- [deficient/quicklaunch](https://github.com/deficient/quicklaunch) - Quicklauncher widget for awesome WM
+- [wrkzk/nixos-config](https://github.com/wrkzk/nixos-config) - NixOS system configuration using flakes
+- [tsukki9696/tsukiyomi](https://github.com/tsukki9696/tsukiyomi) - An elegant AwesomeWM configuration focused on beauty and a carefully crafted UI.
 - [brose55/awesome-config](https://github.com/brose55/awesome-config) - My changes to PapyElGringo/material-awesome
 - [singul4ri7y/not-awesome-at-all](https://github.com/singul4ri7y/not-awesome-at-all) - An AwesomeWM rice inspired by HikariKnight and PapyElGringo's work.
 - [nyngwang/suave.lua](https://github.com/nyngwang/suave.lua) - Multi-tabs project session automation
@@ -2392,6 +2399,7 @@
 
 ## Python 
 
+- [spdustin/ChatGPT-AutoExpert](https://github.com/spdustin/ChatGPT-AutoExpert) - 🚀🧠💬 Supercharged Custom Instructions for ChatGPT (non-coding) and ChatGPT Advanced Data Analysis (coding).
 - [detailyang/awesome-cheatsheet](https://github.com/detailyang/awesome-cheatsheet) - :beers: awesome cheatsheet
 - [swirlai/swirl-search](https://github.com/swirlai/swirl-search) - Swirl is open-source software that uses AI to simultaneously search multiple content and data sources, finds the best results using a reader LLM, then prompts Generative AI, enabling you to get answer
 - [gohanko/asanitize](https://github.com/gohanko/asanitize) - A simple commandline tool to bulk delete messages/posts from your social media accounts.
@@ -2427,7 +2435,7 @@
 - [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl) - Collect your thoughts and notes without leaving the command line.
 - [xyven1/nixos-configuration](https://github.com/xyven1/nixos-configuration) - 
 - [jbuchermn/newm](https://github.com/jbuchermn/newm) - Wayland compositor
-- [new92/IGFI](https://github.com/new92/IGFI) - 🤖 Script for increasing the number of followers at an Instagram account
+- [new92/IGFI](https://github.com/new92/IGFI) - 🤖 Script for increasing the number of followers at an Instagram account 📈
 - [EvilDrPorkChop/OpenSea-NFT-Creator](https://github.com/EvilDrPorkChop/OpenSea-NFT-Creator) - A collection of python scripts which help you programatically create PNGs or GIFs and their Metadata in bulk with custom rarity rates, upload them to OpenSea & list them for sale.
 - [thiagokokada/nix-alien](https://github.com/thiagokokada/nix-alien) - Run unpatched binaries on Nix/NixOS
 - [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Big Sur + Monterey + Ventura support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
@@ -2682,6 +2690,8 @@
 
 ## Rust 
 
+- [justinrubek/wayland-playground](https://github.com/justinrubek/wayland-playground) - My space for experimenting with wayland
+- [pinnacle-comp/pinnacle](https://github.com/pinnacle-comp/pinnacle) - A WIP Smithay-based Wayland compositor, inspired by AwesomeWM and configured in Lua or Rust
 - [StrataWM/strata](https://github.com/StrataWM/strata) - A cutting-edge, robust and sleek Wayland compositor with batteries included.
 - [YaLTeR/niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor.
 - [Smithay/smithay](https://github.com/Smithay/smithay) - A smithy for rusty wayland compositors
@@ -2827,6 +2837,7 @@
 - [samthepacman/IdempotentDots](https://github.com/samthepacman/IdempotentDots) - Configuration for setting up NixOS on tmpfs, my way
 - [fariasmateuss/favicon-generator](https://github.com/fariasmateuss/favicon-generator) - Bash Script to generate favicons in multiple sizes (.ico and .png)
 - [DrgnFireYellow/notenote](https://github.com/DrgnFireYellow/notenote) - The zsh plugin for taking notes.
+- [shvedes/dotfiles](https://github.com/shvedes/dotfiles) - 
 - [okitavera/dotfiles](https://github.com/okitavera/dotfiles) - All of my configuration files that currently used includes zsh, urxvt, awesomewm, and others
 - [varlesh/volantes-cursors](https://github.com/varlesh/volantes-cursors) - Cursor Theme
 - [greglaurent/nixos-iso](https://github.com/greglaurent/nixos-iso) - Custom NixOS ISO
@@ -3132,6 +3143,7 @@
 - [Algorithm79/Dotfiles_i3](https://github.com/Algorithm79/Dotfiles_i3) - Configuration files for i3wm
 - [callmezatiel/zarch](https://github.com/callmezatiel/zarch) - The Ultimate Script For Arch Linux
 - [Thomashighbaugh/dotfiles](https://github.com/Thomashighbaugh/dotfiles) - Nevermind the bullocks, here's the dotfiles
+- [hackerschoice/thc-tips-tricks-hacks-cheat-sheet](https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet) - Various tips & tricks
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [picodotdev/alis](https://github.com/picodotdev/alis) - Arch Linux Install Script (or alis, also known as the Arch Linux executable installation guide and wiki) installs an unattended, automated and customized Arch Linux system.
 - [pjeby/gollum-portable](https://github.com/pjeby/gollum-portable) - The fastest way to set up a new, dockerized gollum wiki
@@ -3272,7 +3284,7 @@
 - [JakeStanger/next-gallery](https://github.com/JakeStanger/next-gallery) - Web gallery built with nextjs
 - [steven-tey/precedent](https://github.com/steven-tey/precedent) - An opinionated collection of components, hooks, and utilities for your Next.js project.
 - [avitorio/outstatic](https://github.com/avitorio/outstatic) - Outstatic - A static CMS for Next.js
-- [jasonruesch/jasonruesch](https://github.com/jasonruesch/jasonruesch) - My personal portfolio web app
+- [jasonruesch/jasonruesch.old](https://github.com/jasonruesch/jasonruesch.old) - My personal portfolio web app
 - [JezerM/nody-greeter](https://github.com/JezerM/nody-greeter) - LightDM greeter that allows to create wonderful themes with web technologies. Made in Node.js
 - [InterwebAlchemy/obsidian-ai-research-assistant](https://github.com/InterwebAlchemy/obsidian-ai-research-assistant) - Prompt Engineering Research Tool for AI APIs
 - [jpreagan/jpreagan.com](https://github.com/jpreagan/jpreagan.com) - 💿 My personal website built with Remix
