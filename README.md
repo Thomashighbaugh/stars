@@ -1810,6 +1810,7 @@
 
 ## Nix 
 
+- [erictossell/nixflakes](https://github.com/erictossell/nixflakes) - My nixdots, but flaked.
 - [dwarfmaster/home-nix](https://github.com/dwarfmaster/home-nix) - My dotfile as managed by nix with home-manager
 - [workflow/nixos-config](https://github.com/workflow/nixos-config) - NixOS configuration files
 - [nix-community/nixGL](https://github.com/nix-community/nixGL) - A wrapper tool for nix OpenGL application [maintainer=@guibou]
