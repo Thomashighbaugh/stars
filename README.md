@@ -276,6 +276,7 @@
 
 ## CSS 
 
+- [Godiesc/firefox-one](https://github.com/Godiesc/firefox-one) - Firefox Theme for Opera One skin Lovers
 - [Rajacharles/Cool-Jelly-Hover-Effects](https://github.com/Rajacharles/Cool-Jelly-Hover-Effects) - Cool Jelly Hover Transition Effect | Animation | HTML5 | CSS3
 - [Dook97/firefox-qutebrowser-userchrome](https://github.com/Dook97/firefox-qutebrowser-userchrome) - A minimalist userChrome.css based on qutebrowser
 - [louieseno/my-nextjs-tailwind-template](https://github.com/louieseno/my-nextjs-tailwind-template) - Preconfigured NextJS with Tailwind + DaisyUI
@@ -490,6 +491,7 @@
 
 - [port19x/dotfiles](https://github.com/port19x/dotfiles) - My Arch Linux Configuration
 - [cjbassi/config](https://github.com/cjbassi/config) - 
+- [aruZeta/Dotfiles.nix](https://github.com/aruZeta/Dotfiles.nix) - My reproducible system config made with nix
 - [shtwzrd/friar](https://github.com/shtwzrd/friar) - Emacs REPL for interacting with AwesomeWM
 - [willbush/system](https://github.com/willbush/system) - The system configuration of a professional yak shaver
 - [russmatney/dotfiles](https://github.com/russmatney/dotfiles) - Doom Emacs, a few-years old vim config, tmux, i3, zsh, polybar
@@ -637,6 +639,7 @@
 - [leemunroe/responsive-html-email-template](https://github.com/leemunroe/responsive-html-email-template) - A free simple responsive HTML email template
 - [adevade/color-scheme-generator](https://github.com/adevade/color-scheme-generator) - When you just need some UI colors, fast.
 - [parikshit223933/Coding-Ninjas-Full-Stack-Web-Development](https://github.com/parikshit223933/Coding-Ninjas-Full-Stack-Web-Development) - It contains all the files I created during the MERN full stack web development course with coding ninjas
+- [CachyOS/CachyOS-Browser-Common](https://github.com/CachyOS/CachyOS-Browser-Common) - 
 - [henrylawson/photish-montage](https://github.com/henrylawson/photish-montage) - A demo site of Photish
 - [wangzhe3224/awesome-systematic-trading](https://github.com/wangzhe3224/awesome-systematic-trading) - A curated list of insanely awesome libraries, packages and resources for systematic trading. Crypto, Stock, Futures, Options, CFDs, FX, and more | 量化交易 | 量化投资
 - [themagicalmammal/dotfiles](https://github.com/themagicalmammal/dotfiles) - @themagicalmammal does dotfiles
@@ -750,6 +753,9 @@
 
 ## JavaScript 
 
+- [Ridermansb/ridermansb](https://github.com/Ridermansb/ridermansb) - My NPM Card 😉
+- [bnb/bitandbang](https://github.com/bnb/bitandbang) - My npm card 🤗
+- [UltiRequiem/npm-card](https://github.com/UltiRequiem/npm-card) - 😎 Easily Create your own NPM Card.
 - [vtoubiana/TrackMeNot](https://github.com/vtoubiana/TrackMeNot) - An artware browser add-on to protect privacy in web-search. By issuing randomized queries to common search-engines, TrackMeNot obfuscates your search profile(s) and registers your discontent with surr
 - [spdustin/ChatGPT-AutoExpert](https://github.com/spdustin/ChatGPT-AutoExpert) - 🚀🧠💬 Supercharged Custom Instructions for ChatGPT (non-coding) and ChatGPT Advanced Data Analysis (coding).
 - [saeedezzati/superpower-chatgpt](https://github.com/saeedezzati/superpower-chatgpt) - ChatGPT with superpowers! Search chat history, create folders, export all chats, pin messages, access thousands of community prompts, incognito mode, language and tone selection, and many more feature
@@ -940,7 +946,7 @@
 - [mvximenko/flat-ui-colors](https://github.com/mvximenko/flat-ui-colors) - Clone of Flat UI Colors built with React
 - [mvximenko/gg](https://github.com/mvximenko/gg) - 
 - [mvximenko/rpg-card](https://github.com/mvximenko/rpg-card) - RPG Card Generator built with React
-- [oddscenes/morning-briefing](https://github.com/oddscenes/morning-briefing) - An open source, local browser homepage app - with custom config and widgets
+- [brz0/morning-briefing](https://github.com/brz0/morning-briefing) - An open source, local browser homepage app - with custom config and widgets
 - [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - :bathtub: Clean Code concepts adapted for JavaScript
 - [AVS1508/AVS1508.github.io](https://github.com/AVS1508/AVS1508.github.io) - Personal Résumé Website developed using ReactJS and Bootstrap and hosted on Github Pages. Displays my web presence, story, work experience, education, projects, achievements, and contact information.
 - [nextapps-de/winbox](https://github.com/nextapps-de/winbox) - WinBox is a modern HTML5 window manager for the web: lightweight, outstanding performance, no dependencies, fully customizable, open source!
@@ -1213,6 +1219,7 @@
 
 ## Lua 
 
+- [figsoda/nix-develop.nvim](https://github.com/figsoda/nix-develop.nvim) - Run `nix develop` without restarting neovim
 - [hidayry/awesomewm-dotfiles](https://github.com/hidayry/awesomewm-dotfiles) - dotfiles awesomewm
 - [whwright/stock-widget](https://github.com/whwright/stock-widget) - stock ticker widget for awesome WM
 - [deficient/screensaver](https://github.com/deficient/screensaver) - Widget for the awesome WM to control screensaver timeout
@@ -1238,7 +1245,6 @@
 - [neph-iap/forge.nvim](https://github.com/neph-iap/forge.nvim) - Language tool manager for Neovim using mason.nvim, nvim-treesitter, and more.
 - [MobSenpai/sugoi](https://github.com/MobSenpai/sugoi) - すごい Sugoi | Comfy environment for AwesomeWM
 - [folke/null-ls.nvim](https://github.com/folke/null-ls.nvim) - Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.
-- [myagko/dotfiles](https://github.com/myagko/dotfiles) - my awesomewm configuration
 - [mncc8337/dotfiles](https://github.com/mncc8337/dotfiles) - my awesomewm dotfiles
 - [PoisonIsBestType/dotfiles](https://github.com/PoisonIsBestType/dotfiles) - awesomewm setup config files
 - [nvimtools/none-ls.nvim](https://github.com/nvimtools/none-ls.nvim) - null-ls.nvim reloaded / Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.
@@ -1888,7 +1894,6 @@
 - [hercules-ci/flake-parts](https://github.com/hercules-ci/flake-parts) - ❄️ Simplify Nix Flakes with the module system
 - [legendofmiracles/dotnix](https://github.com/legendofmiracles/dotnix) - nix stuff
 - [lovesegfault/nix-config](https://github.com/lovesegfault/nix-config) - My personal NixOS config
-- [aruZeta/Dotfiles.nix](https://github.com/aruZeta/Dotfiles.nix) - My reproducible system config made with nix
 - [srid/rust-nix-template](https://github.com/srid/rust-nix-template) - Rust project template with Nix (Flakes) and VSCode support
 - [juliosueiras-nix/nix-security](https://github.com/juliosueiras-nix/nix-security) - Nix/NixOS security tool collections
 - [frogamic/nix-machines](https://github.com/frogamic/nix-machines) - 
@@ -2055,6 +2060,7 @@
 
 ## Others 
 
+- [hedyhli/hedyhli](https://github.com/hedyhli/hedyhli) - Yet another profile readme.
 - [Cyfrin/OpenPositions](https://github.com/Cyfrin/OpenPositions) - 
 - [coreb1t/awesome-pentest-cheat-sheets](https://github.com/coreb1t/awesome-pentest-cheat-sheets) - Collection of the cheat sheets useful for pentesting
 - [a8m/golang-cheat-sheet](https://github.com/a8m/golang-cheat-sheet) - An overview of Go syntax and features.
@@ -2438,7 +2444,7 @@
 - [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl) - Collect your thoughts and notes without leaving the command line.
 - [xyven1/nixos-configuration](https://github.com/xyven1/nixos-configuration) - 
 - [jbuchermn/newm](https://github.com/jbuchermn/newm) - Wayland compositor
-- [new92/IGFI](https://github.com/new92/IGFI) - 🤖 Script for increasing the number of followers at an Instagram account 📈
+- [new92/IGFI](https://github.com/new92/IGFI) - 🤖 Script for increasing the number of followers of your Instagram account 📈
 - [EvilDrPorkChop/OpenSea-NFT-Creator](https://github.com/EvilDrPorkChop/OpenSea-NFT-Creator) - A collection of python scripts which help you programatically create PNGs or GIFs and their Metadata in bulk with custom rarity rates, upload them to OpenSea & list them for sale.
 - [thiagokokada/nix-alien](https://github.com/thiagokokada/nix-alien) - Run unpatched binaries on Nix/NixOS
 - [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Big Sur + Monterey + Ventura support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
@@ -2794,6 +2800,7 @@
 
 ## Shell 
 
+- [masroof-maindak/dots](https://github.com/masroof-maindak/dots) - Backup of my Linux configuration files.
 - [KiaraGrouwstra/nix-config](https://github.com/KiaraGrouwstra/nix-config) - my NixOS configuration
 - [chrisgrieser/zsh-magic-dashboard](https://github.com/chrisgrieser/zsh-magic-dashboard) - Pressing "enter" on an empty buffer displays an information-rich and pretty dashboard.
 - [TangoMan75/commitator](https://github.com/TangoMan75/commitator) - TangoMan Commitator is an awesome bash script to fake git commit history.
@@ -2829,7 +2836,7 @@
 - [hpb0412/dotfiles](https://github.com/hpb0412/dotfiles) - My dot files collection over the time
 - [Distroshare/distroshare-ubuntu-imager](https://github.com/Distroshare/distroshare-ubuntu-imager) - Creates an installable live CD from an installed Ubuntu or derivative distribution
 - [cufta22/dotfiles](https://github.com/cufta22/dotfiles) - [AwesomeWM] Outer Wilds - change branch for old rices
-- [ormai/dotfiles](https://github.com/ormai/dotfiles) - ☕  💻 My dotfiles
+- [ormai/dotfiles](https://github.com/ormai/dotfiles) - ☕ My dotfiles
 - [nrdxp/nrdos](https://github.com/nrdxp/nrdos) - My NixOS configuration for work and play
 - [emmett1/linuxliveiso](https://github.com/emmett1/linuxliveiso) - scripts to build linux live iso
 - [pandoraxdn/nixos-configuration](https://github.com/pandoraxdn/nixos-configuration) - 
@@ -2868,7 +2875,6 @@
 - [vinceliuice/Colloid-icon-theme](https://github.com/vinceliuice/Colloid-icon-theme) - Colloid icon theme for linux desktops
 - [noctuid/dotfiles](https://github.com/noctuid/dotfiles) - Mouseless Workflow (WIP)
 - [CachyOS/CachyOS-Live-ISO](https://github.com/CachyOS/CachyOS-Live-ISO) - 
-- [CachyOS/CachyOS-Browser-Common](https://github.com/CachyOS/CachyOS-Browser-Common) - 
 - [CachyOS/CachyOS-Settings](https://github.com/CachyOS/CachyOS-Settings) - Settings used for CachyOS
 - [ivan-hc/AM-Application-Manager](https://github.com/ivan-hc/AM-Application-Manager) - AppImage manager/installer/updater with a growing AUR-inspired database, now including 1800+ AppImage packages and official standalone apps (from tar* and zip archives) for GNU/Linux. "AM" also provid
 - [metis-os/metis-sideload](https://github.com/metis-os/metis-sideload) - // Ofiicial installer for @metis-os
@@ -3231,6 +3237,8 @@
 
 ## TypeScript 
 
+- [kunalkeshan/kunalkeshan.dev](https://github.com/kunalkeshan/kunalkeshan.dev) - Personal Portfolio made with ☕+❤. Built with Next.js + TypeScript.
+- [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
 - [js-template/daisy-nextjs-turbo-setup](https://github.com/js-template/daisy-nextjs-turbo-setup) - 
 - [briangershon/nextjs-starter](https://github.com/briangershon/nextjs-starter) - Starter template for Next.js v13 (using new app approach). With TypeScript, tailwindcss and daisyUI.
 - [builderz-labs/builderz-solana-dapp-scaffold](https://github.com/builderz-labs/builderz-solana-dapp-scaffold) - Builderz Solana dApp Scaffold (Nextjs13, Typescript, TailwindCSS, MaterialUI, web3.js)
@@ -3256,7 +3264,7 @@
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [lazerwalker/storyboard](https://github.com/lazerwalker/storyboard) - A narrative engine for interactive storytelling
 - [whyboris/Video-Hub-App](https://github.com/whyboris/Video-Hub-App) - Official repository for Video Hub App
-- [elsoul/skeet-cli](https://github.com/elsoul/skeet-cli) - 🚀 Open-Source Serverless Framework for full-stack apps on Firebase and Google Cloud.
+- [elsoul/skeet-cli](https://github.com/elsoul/skeet-cli) - 🚀 Open-Source TypeScript Serverless Framework. It supports all kinds of application development, from small-scale tasks to global full-stack scaling💃
 - [brunolm/get-short-video](https://github.com/brunolm/get-short-video) - Nullstack project to easily make short videos
 - [brunolm/brunolm.github.io](https://github.com/brunolm/brunolm.github.io) - BrunoLM personal website!
 - [natanfeitosa/nullstack-fontawesome](https://github.com/natanfeitosa/nullstack-fontawesome) - Font Awesome Nullstack component
