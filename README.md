@@ -2801,6 +2801,7 @@
 
 ## Shell 
 
+- [gabrieldlima/dotfiles](https://github.com/gabrieldlima/dotfiles) - This repository contains my personal dotfiles
 - [masroof-maindak/dots](https://github.com/masroof-maindak/dots) - Backup of my Linux configuration files.
 - [KiaraGrouwstra/nix-config](https://github.com/KiaraGrouwstra/nix-config) - my NixOS configuration
 - [chrisgrieser/zsh-magic-dashboard](https://github.com/chrisgrieser/zsh-magic-dashboard) - Pressing "enter" on an empty buffer displays an information-rich and pretty dashboard.
