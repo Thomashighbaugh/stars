@@ -276,6 +276,7 @@
 
 ## CSS 
 
+- [teotimepacreau/Swiss-International-Style-Responsive](https://github.com/teotimepacreau/Swiss-International-Style-Responsive) - Responsive and accessible International Typographic Style classical posters web adaptation.
 - [Godiesc/firefox-one](https://github.com/Godiesc/firefox-one) - Firefox Theme for Opera One skin Lovers
 - [Rajacharles/Cool-Jelly-Hover-Effects](https://github.com/Rajacharles/Cool-Jelly-Hover-Effects) - Cool Jelly Hover Transition Effect | Animation | HTML5 | CSS3
 - [Dook97/firefox-qutebrowser-userchrome](https://github.com/Dook97/firefox-qutebrowser-userchrome) - A minimalist userChrome.css based on qutebrowser
@@ -753,6 +754,7 @@
 
 ## JavaScript 
 
+- [mleoking/PromptAppGPT](https://github.com/mleoking/PromptAppGPT) - A rapid prompt app development framework based on GPT
 - [Ridermansb/ridermansb](https://github.com/Ridermansb/ridermansb) - My NPM Card 😉
 - [bnb/bitandbang](https://github.com/bnb/bitandbang) - My npm card 🤗
 - [UltiRequiem/npm-card](https://github.com/UltiRequiem/npm-card) - 😎 Easily Create your own NPM Card.
@@ -1172,6 +1174,8 @@
 
 ## Jupyter Notebook 
 
+- [hollowstrawberry/kohya-colab](https://github.com/hollowstrawberry/kohya-colab) - Accessible Google Colab notebooks for Stable Diffusion Lora training, based on the work of kohya-ss and Linaqruf
+- [OpenBioLink/ThoughtSource](https://github.com/OpenBioLink/ThoughtSource) - A central, open resource for data and tools related to chain-of-thought reasoning in large language models. Developed @ Samwald research group: https://samwald.info/
 - [Nixtla/nixtla](https://github.com/Nixtla/nixtla) - Python SDK for TimeGPT
 - [jmpaz/promptlib](https://github.com/jmpaz/promptlib) - A collection of prompts for use with GPT-4 via ChatGPT, OpenAI API w/ Gradio frontend & notebook
 - [neonbjb/tortoise-tts](https://github.com/neonbjb/tortoise-tts) - A multi-voice TTS system trained with an emphasis on quality
@@ -2060,6 +2064,7 @@
 
 ## Others 
 
+- [zama-ai/awesome-zama](https://github.com/zama-ai/awesome-zama) - A curated list of amazing Fully Homomorphic Encryption (FHE) resources created by the team at Zama.
 - [hedyhli/hedyhli](https://github.com/hedyhli/hedyhli) - Yet another profile readme.
 - [Cyfrin/OpenPositions](https://github.com/Cyfrin/OpenPositions) - 
 - [coreb1t/awesome-pentest-cheat-sheets](https://github.com/coreb1t/awesome-pentest-cheat-sheets) - Collection of the cheat sheets useful for pentesting
@@ -2409,6 +2414,9 @@
 
 ## Python 
 
+- [protectai/ai-exploits](https://github.com/protectai/ai-exploits) - A collection of real world AI/ML exploits for responsibly disclosed vulnerabilities
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - ⚡ Building applications with LLMs through composability ⚡
+- [stjordanis/betterprompt](https://github.com/stjordanis/betterprompt) - Test suite for LLM prompts
 - [grandchild/autohidewibox](https://github.com/grandchild/autohidewibox) - Execute awesome wm commands on ModKey press/release
 - [detailyang/awesome-cheatsheet](https://github.com/detailyang/awesome-cheatsheet) - :beers: awesome cheatsheet
 - [swirlai/swirl-search](https://github.com/swirlai/swirl-search) - Swirl is open-source software that uses AI to simultaneously search multiple content and data sources, finds the best results using a reader LLM, then prompts Generative AI, enabling you to get answer
@@ -3239,6 +3247,9 @@
 
 ## TypeScript 
 
+- [wojciechmarek/todo-list](https://github.com/wojciechmarek/todo-list) - Basic and simple the to-do list app representing modern UI design styles.
+- [fescherer/portifolio](https://github.com/fescherer/portifolio) - Portifolio
+- [zacharyLYH/design-patterns-in-typescript](https://github.com/zacharyLYH/design-patterns-in-typescript) - Practical projects demonstrating various design patterns, written in TypeScript.
 - [kunalkeshan/kunalkeshan.dev](https://github.com/kunalkeshan/kunalkeshan.dev) - Personal Portfolio made with ☕+❤. Built with Next.js + TypeScript.
 - [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
 - [js-template/daisy-nextjs-turbo-setup](https://github.com/js-template/daisy-nextjs-turbo-setup) - 
@@ -3506,6 +3517,7 @@
 
 ## Vue 
 
+- [lareii/lareii.github.io](https://github.com/lareii/lareii.github.io) - 🌐 My personal website.
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [karakanb/devo](https://github.com/karakanb/devo) - A Chrome and Firefox extension that displays GitHub Trending, Hacker News, Product Hunt and Designer News on every new tab.
 - [SamirM-BE/ErasMail](https://github.com/SamirM-BE/ErasMail) - An open source tool for cleaning email boxes and saving the planet
