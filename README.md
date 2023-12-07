@@ -2426,7 +2426,7 @@
 - [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - Dev tool that writes scalable apps from scratch while the developer oversees the implementation
 - [HugoReeves/elemental](https://github.com/HugoReeves/elemental) - Elemental, the component parts of a Nix/OS development system.
 - [jekil/awesome-hacking](https://github.com/jekil/awesome-hacking) - Awesome hacking is an awesome collection of hacking tools.
-- [maximedrn/opensea-automatic-bulk-upload-and-sale](https://github.com/maximedrn/opensea-automatic-bulk-upload-and-sale) - Bypass reCAPTCHAs | A Selenium Python bot to automatically and bulky upload/ mint and list your NFTs on OpenSea. All metadata compatible, Ethereum and Polygon blockchains supported, reCAPTCHA solvers 
+- [maximedrn/opensea-automatic-bulk-upload-and-sale](https://github.com/maximedrn/opensea-automatic-bulk-upload-and-sale) - A Selenium Python bot to automatically and bulk upload/ mint and list your NFTs on OpenSea. All metadata compatible, Ethereum and Polygon blockchains supported, reCAPTCHA solvers included.
 - [AaronWLChan/file-organiser](https://github.com/AaronWLChan/file-organiser) - Simple File Organiser
 - [ms-jpq/windows-in-docker](https://github.com/ms-jpq/windows-in-docker) - Manage Windows in Docker (easy)
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
