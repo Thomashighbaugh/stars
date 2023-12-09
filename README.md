@@ -381,7 +381,7 @@
 - [Zonnev/elementaryos-firefox-theme](https://github.com/Zonnev/elementaryos-firefox-theme) - This theme for Firefox supports all the window buttons layouts from Tweaks and it blends into the elementary OS user interface.
 - [stonecrusher/simpleMenuWizard](https://github.com/stonecrusher/simpleMenuWizard) - Hide contextmenu items in Firefox Photon
 - [migueravila/SimpleFox](https://github.com/migueravila/SimpleFox) - 🦊 A Userstyle theme for Firefox minimalist and Keyboard centered.
-- [6gk/polka](https://github.com/6gk/polka) - 🐢 dotless files  (sponsored by https://git.io/kiwmi)
+- [eepykate/polka](https://github.com/eepykate/polka) - 🐢 dotless files  (sponsored by https://git.io/kiwmi)
 - [cacheiforindicium/dotfiles](https://github.com/cacheiforindicium/dotfiles) - SwayWM dotfiles
 - [iyzg/archived-dots](https://github.com/iyzg/archived-dots) - :large_blue_circle: The configs behind the eye candy
 - [Etesam913/slick-fox](https://github.com/Etesam913/slick-fox) - :fox_face: A firefox config that has rounded tabs and a url bar that can disappear when not selected on. It works with any theme.
@@ -1183,7 +1183,7 @@
 - [jonkrohn/ML-foundations](https://github.com/jonkrohn/ML-foundations) - Machine Learning Foundations: Linear Algebra, Calculus, Statistics & Computer Science
 - [microsoft/AcademicContent](https://github.com/microsoft/AcademicContent) - Free tech resources for faculty, students, researchers, life-long learners, and academic community builders for use in tech based courses, workshops, and hackathons.
 - [shhossain/computer_science](https://github.com/shhossain/computer_science) - Computer Science Topics
-- [jupyter-naas/awesome-notebooks](https://github.com/jupyter-naas/awesome-notebooks) - A catalog of ready to use data & AI Notebook templates, organized by tools to jumpstart your projects and data products in minutes.
+- [jupyter-naas/awesome-notebooks](https://github.com/jupyter-naas/awesome-notebooks) - A powerful data & AI notebook templates catalog: prompts, plugins, models, workflow automation, analytics, code snippets - following the IMO framework to be searchable and reusable in any context.
 - [norahsakal/fine-tune-gpt3-model](https://github.com/norahsakal/fine-tune-gpt3-model) - How you can fine-tune a GPT-3 model with Python with your own data
 - [ratthachat/prompt_engineering](https://github.com/ratthachat/prompt_engineering) - Prompt Engineering
 - [EgoAlpha/prompt-in-context-learning](https://github.com/EgoAlpha/prompt-in-context-learning) - Awesome resources for in-context learning and prompt engineering: Mastery of the LLMs such as ChatGPT, GPT-3, and FlanT5, with up-to-date and cutting-edge updates.
@@ -1197,7 +1197,7 @@
 - [mrdbourke/tensorflow-deep-learning](https://github.com/mrdbourke/tensorflow-deep-learning) - All course materials for the Zero to Mastery Deep Learning with TensorFlow course.
 - [pfnet/PaintsChainer](https://github.com/pfnet/PaintsChainer) - line drawing colorization using chainer
 - [spmallick/learnopencv](https://github.com/spmallick/learnopencv) - Learn OpenCV  : C++ and Python Examples
-- [The-Art-of-Hacking/h4cker](https://github.com/The-Art-of-Hacking/h4cker) - This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFI
+- [The-Art-of-Hacking/h4cker](https://github.com/The-Art-of-Hacking/h4cker) - This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking, bug bounties, digital forensics and incident response (DFIR), artif
 
 ## KakouneScript 
 
@@ -1223,6 +1223,7 @@
 
 ## Lua 
 
+- [folke/neodev.nvim](https://github.com/folke/neodev.nvim) - 💻  Neovim setup for init.lua and plugin development with full signature help, docs and completion for the nvim lua API.
 - [figsoda/nix-develop.nvim](https://github.com/figsoda/nix-develop.nvim) - Run `nix develop` without restarting neovim
 - [hidayry/awesomewm-dotfiles](https://github.com/hidayry/awesomewm-dotfiles) - dotfiles awesomewm
 - [whwright/stock-widget](https://github.com/whwright/stock-widget) - stock ticker widget for awesome WM
@@ -2064,6 +2065,7 @@
 
 ## Others 
 
+- [PsychoLlama/recommendations](https://github.com/PsychoLlama/recommendations) - A list of the most impactful things I go out of my way to recommend.
 - [zama-ai/awesome-zama](https://github.com/zama-ai/awesome-zama) - A curated list of amazing Fully Homomorphic Encryption (FHE) resources created by the team at Zama.
 - [hedyhli/hedyhli](https://github.com/hedyhli/hedyhli) - Yet another profile readme.
 - [Cyfrin/OpenPositions](https://github.com/Cyfrin/OpenPositions) - 
@@ -3144,7 +3146,7 @@
 - [wafflepie/dotfiles](https://github.com/wafflepie/dotfiles) - 🧰 Handcrafted dotfiles for web developers running Fedora, macOS, or Ubuntu for WSL. Ridiculously easy to set up, maintain, and extend.
 - [DonyaOS/Donya](https://github.com/DonyaOS/Donya) - Donya is an Operating System. Yet Another Linux distro built using a package management system.
 - [adi1090x/plymouth-themes](https://github.com/adi1090x/plymouth-themes) - A huge collection (80+) of plymouth themes ported from android bootanimations
-- [6gk/fet.sh](https://github.com/6gk/fet.sh) - 🐢 a fetch written in posix shell without any external commands  (sponsored by https://git.io/kiwmi)
+- [eepykate/fet.sh](https://github.com/eepykate/fet.sh) - 🐢 a fetch written in posix shell without any external commands  (sponsored by https://git.io/kiwmi)
 - [LukeSmithxyz/voidrice](https://github.com/LukeSmithxyz/voidrice) - My dotfiles (deployed by LARBS)
 - [endeavouros-team/PKGBUILDS](https://github.com/endeavouros-team/PKGBUILDS) - PKGBUILDS for packages used in our repository
 - [mfaerevaag/wd](https://github.com/mfaerevaag/wd) - :rocket: Jump to custom directories in zsh
@@ -3247,6 +3249,7 @@
 
 ## TypeScript 
 
+- [ioanat94/portfolio-website](https://github.com/ioanat94/portfolio-website) - Personal portfolio website written with Typescript, React/Next.js and Tailwind CSS.
 - [wojciechmarek/todo-list](https://github.com/wojciechmarek/todo-list) - Basic and simple the to-do list app representing modern UI design styles.
 - [fescherer/portifolio](https://github.com/fescherer/portifolio) - Portifolio
 - [zacharyLYH/design-patterns-in-typescript](https://github.com/zacharyLYH/design-patterns-in-typescript) - Practical projects demonstrating various design patterns, written in TypeScript.
