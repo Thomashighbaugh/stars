@@ -2627,7 +2627,7 @@
 - [Davide-sd/GIMP-style-transfer](https://github.com/Davide-sd/GIMP-style-transfer) - GIMP plugin that enable the style transfer functionality thanks to artificial intelligence algorithms
 - [fluix-dev/dotfiles](https://github.com/fluix-dev/dotfiles) - My dotfiles and colorschemes for sway and a variety of other programs.
 - [hijkzzz/prisma](https://github.com/hijkzzz/prisma) - Prisma
-- [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) - Deep learning framework to train, finetune and deploy AI models
+- [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) - Pretrain, finetune and deploy AI models on multiple GPUs, TPUs with zero code changes.
 - [fennerm/flashfocus](https://github.com/fennerm/flashfocus) - Simple focus animations for tiling window managers.
 - [isyuck/dotfiles](https://github.com/isyuck/dotfiles) - linux/osx
 - [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for 250+ supported car makes and models.
@@ -2696,7 +2696,7 @@
 - [middleman/middleman](https://github.com/middleman/middleman) - Hand-crafted frontend development
 - [jekyll/jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
 - [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
-- [Terrastories/terrastories](https://github.com/Terrastories/terrastories) - Terrastories is a geostorytelling application for mapping, managing and sharing place-based stories. Check out our Wiki for open source development information.
+- [Terrastories/terrastories](https://github.com/Terrastories/terrastories) - Terrastories is a geostorytelling application for mapping, managing and sharing place-based stories.
 - [sds/scss-lint](https://github.com/sds/scss-lint) - Configurable tool for writing clean, consistent SCSS
 - [itkin/proselytism](https://github.com/itkin/proselytism) - Ruby document converter, text and image extractor using OpenOffice headless server, pdf_tools and net_pbm (RoR engine)
 - [angela-d/resgen](https://github.com/angela-d/resgen) - Keep track of jobs you've applied to, automate resume & cover letter creation; generate PDFs from .odt templates on the fly while scraping the job post and tracking employer status.
@@ -3134,7 +3134,7 @@
 - [brinkOS/brinkOS](https://github.com/brinkOS/brinkOS) - Arch based Linux distribution for Engineers
 - [ctlos/ctlosiso](https://github.com/ctlos/ctlosiso) - Ctlos Linux source. Arch based distro x86-64(64-bit).
 - [agostaxyz/dotfiles](https://github.com/agostaxyz/dotfiles) - Arch dotfiles and shell scripts for KDE Plasma and BSPWM.
-- [laurent85v/archuseriso](https://github.com/laurent85v/archuseriso) - Set of scripts programs for building bootable disk images of Arch Linux and for installing Arch Linux on an external USB disk or thumb drive.
+- [laurent85v/archuseriso](https://github.com/laurent85v/archuseriso) - Toolkit for building bootable disk images of Arch Linux and for installing Arch Linux on USB disk or thumb drive.
 - [kennystrawnmusic/TriggerLinux](https://github.com/kennystrawnmusic/TriggerLinux) - Break the grip of censorship
 - [maximbaz/dotfiles](https://github.com/maximbaz/dotfiles) - Configuration for Arch Linux, Hyprland, kitty, kakoune, zsh and more + scripted installation guide
 - [paperwork/paperwork](https://github.com/paperwork/paperwork) - Paperwork - OpenSource note-taking & archiving alternative to Evernote, Microsoft OneNote & Google Keep
