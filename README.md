@@ -677,8 +677,7 @@
 - [Thomashighbaugh/resurgens3](https://github.com/Thomashighbaugh/resurgens3) - Porfolio site of TLH. Resurgens 3
 - [Thomashighbaugh/Opitx-Docs-Site](https://github.com/Thomashighbaugh/Opitx-Docs-Site) - Documentation for Opitx: Minimalist Markdown Editor
 - [Thomashighbaugh/Hello-Class-Javascript](https://github.com/Thomashighbaugh/Hello-Class-Javascript) - A couple about me pages for a class in basic HTML5/CSS3/JS
-- [Thomashighbaugh/email-branding](https://github.com/Thomashighbaugh/email-branding) - The branded emails I use professionally and job searching, now built from scratch!
-- [nunq/startpage](https://github.com/nunq/startpage) - my startpage. made for 1080p desktops.
+- [nunq/startpage](https://github.com/nunq/startpage) - my startpage. made for 1920x1200p displays.
 - [awesomeWM/awesome-www-backup-old](https://github.com/awesomeWM/awesome-www-backup-old) - Static mirror of the old website
 - [atlemo/SubtlePatterns](https://github.com/atlemo/SubtlePatterns) - All the patterns
 - [jasolisdev/.dotfiles](https://github.com/jasolisdev/.dotfiles) - 
@@ -2065,6 +2064,7 @@
 
 ## Others 
 
+- [FredaXin/itslit](https://github.com/FredaXin/itslit) - A GitHub template which you can use to create automated git commits daily
 - [PsychoLlama/recommendations](https://github.com/PsychoLlama/recommendations) - A list of the most impactful things I go out of my way to recommend.
 - [zama-ai/awesome-zama](https://github.com/zama-ai/awesome-zama) - A curated list of amazing Fully Homomorphic Encryption (FHE) resources created by the team at Zama.
 - [hedyhli/hedyhli](https://github.com/hedyhli/hedyhli) - Yet another profile readme.
@@ -3249,6 +3249,7 @@
 
 ## TypeScript 
 
+- [LHRUN/bubble](https://github.com/LHRUN/bubble) - Let's start changing your profile. (Readme Profile Collection)
 - [ioanat94/portfolio-website](https://github.com/ioanat94/portfolio-website) - Personal portfolio website written with Typescript, React/Next.js and Tailwind CSS.
 - [wojciechmarek/todo-list](https://github.com/wojciechmarek/todo-list) - Basic and simple the to-do list app representing modern UI design styles.
 - [fescherer/portifolio](https://github.com/fescherer/portifolio) - Portifolio
