@@ -361,7 +361,6 @@
 - [Mrcuve0/Aritim-Dark](https://github.com/Mrcuve0/Aritim-Dark) - A Dark theme for both KDE and GTK based DEs, deeply inspired by the Ayu Dark color palette
 - [lucagez/bars](https://github.com/lucagez/bars) - css progress bars made with svg patterns
 - [buseca/patternbolt](https://github.com/buseca/patternbolt) - A fine selection of SVG pattern background, packed in a single CSS or SCSS file. Add patterns just adding a class.
-- [mjshofy/glass-morphism-ui-card-design](https://github.com/mjshofy/glass-morphism-ui-card-design) - Learn to create a glass morphism UI card using HTML and CSS easily
 - [fcnoronha/WordArtBot](https://github.com/fcnoronha/WordArtBot) - 🎨 The WordArt generator bot for Telegram @bestWordArtBot
 - [g-cqd/Fonts](https://github.com/g-cqd/Fonts) - A curation of fonts from all over the world.
 - [braintree/jsdoc-template](https://github.com/braintree/jsdoc-template) - A clean, responsive documentation template with search and navigation highlighting for JSDoc 3
@@ -614,6 +613,7 @@
 
 ## HTML 
 
+- [jaantollander/Markdown-Templates](https://github.com/jaantollander/Markdown-Templates) - Templates for creating scientific, academic and technical documents using Markdown and Pandoc that support equations, code blocks, citations, Unicode symbols and vector graphics.
 - [dorneanu/gocial](https://github.com/dorneanu/gocial) - Social media interactions - The Gopher way
 - [Raihanhn/Modern_Email_Template](https://github.com/Raihanhn/Modern_Email_Template) - It's a Modern HTML Email Template.
 - [alekzandriia/neufolio](https://github.com/alekzandriia/neufolio) - 🌈 Simple portfolio website inspired by neubrutalism design
@@ -793,7 +793,7 @@
 - [smythp/ebooks-as-applications](https://github.com/smythp/ebooks-as-applications) - Presentation for MLA 2017 on ebooks as applications
 - [danydodson/userscripts](https://github.com/danydodson/userscripts) - 🪚 Collection of UserScripts.
 - [Semantic-Org/Semantic-UI-React](https://github.com/Semantic-Org/Semantic-UI-React) - The official Semantic-UI-React integration
-- [nuejs/nue](https://github.com/nuejs/nue) - Build user interfaces with cleaner code. Alternative to React, Vue, and Svelte
+- [nuejs/nue](https://github.com/nuejs/nue) - The closer-to-standards web framework. Simple alternative to Next.js and Astro.
 - [GuiDevloper/nullstack](https://github.com/GuiDevloper/nullstack) - Full-stack javascript components for one-dev armies.
 - [vitorgamer58/nullstack-herbs-url-shortener](https://github.com/vitorgamer58/nullstack-herbs-url-shortener) - Proof of concept of Nullstack integration with HerbsJs
 - [ddanielcruz/nullstack-linktree](https://github.com/ddanielcruz/nullstack-linktree) - Simple Linktree clone built with Nullstack and Tailwind
@@ -1364,7 +1364,7 @@
 - [ayamir/nvimdots](https://github.com/ayamir/nvimdots) - A well configured and structured Neovim.
 - [ChristianChiarulli/nvim](https://github.com/ChristianChiarulli/nvim) - My neovim config
 - [Aire-One/awesome-slot](https://github.com/Aire-One/awesome-slot) - A declarative API to connect signals for the AwesomeWM
-- [SystematicError/dotfiles](https://github.com/SystematicError/dotfiles) - 💻 My collection of programs and configurations for the linux desktop
+- [SystematicError/dotfiles](https://github.com/SystematicError/dotfiles) - ❄️ Personal nix based configuration for the linux desktop
 - [chadcat7/kodo](https://github.com/chadcat7/kodo) - a blazingly bad neovim config
 - [enziaki/ArchConfig](https://github.com/enziaki/ArchConfig) - A basic install and configuration script for Arch and Debian
 - [vberezhnev/awesome](https://github.com/vberezhnev/awesome) - My AwesomeWM config
@@ -1461,6 +1461,7 @@
 - [folke/todo-comments.nvim](https://github.com/folke/todo-comments.nvim) - ✅  Highlight, list and search todo comments in your projects
 - [sudormrfbin/cheatsheet.nvim](https://github.com/sudormrfbin/cheatsheet.nvim) - A cheatsheet plugin for neovim with bundled cheatsheets for the editor, multiple vim plugins, nerd-fonts, regex, etc. with a Telescope fuzzy finder interface!
 - [mfussenegger/nvim-treehopper](https://github.com/mfussenegger/nvim-treehopper) - Region selection with hints on the AST nodes of a document powered by treesitter
+- [benbrastmckie/.config](https://github.com/benbrastmckie/.config) - NeoVim configuration optimized for writing in LaTeX
 - [Abstract-IDE/Abstract](https://github.com/Abstract-IDE/Abstract) - neovim as an IDE
 - [jorenheit/awesome_alttab](https://github.com/jorenheit/awesome_alttab) - Familiar Alt-Tab functionality in Awesome WM (3.5.5)
 - [jorenheit/awesome_floattile](https://github.com/jorenheit/awesome_floattile) - Tiling in a floating environment for Awesome 3.5
@@ -2073,6 +2074,9 @@
 
 ## Others 
 
+- [llZektorll/Template_Hub](https://github.com/llZektorll/Template_Hub) - Obsidian Template Hub started on the 13th of June 2022. It was set up to gather as many note templates as possible.
+- [wikibonsai/prompt](https://github.com/wikibonsai/prompt) - AI prompts to generate transplantable digital garden components.
+- [wikibonsai/garden-beds](https://github.com/wikibonsai/garden-beds) - Starter digital gardens
 - [yokoffing/ChatGPT-Prompts](https://github.com/yokoffing/ChatGPT-Prompts) - ChatGPT and Bing AI prompt curation
 - [FredaXin/itslit](https://github.com/FredaXin/itslit) - A GitHub template which you can use to create automated git commits daily
 - [PsychoLlama/recommendations](https://github.com/PsychoLlama/recommendations) - A list of the most impactful things I go out of my way to recommend.
@@ -2426,6 +2430,7 @@
 
 ## Python 
 
+- [tuan3w/obsidian-template](https://github.com/tuan3w/obsidian-template) - Starter templates for Obsidian
 - [AI-Guru/writebookswithai](https://github.com/AI-Guru/writebookswithai) - Writing books with AI.
 - [protectai/ai-exploits](https://github.com/protectai/ai-exploits) - A collection of real world AI/ML exploits for responsibly disclosed vulnerabilities
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - ⚡ Building applications with LLMs through composability ⚡
@@ -3250,7 +3255,6 @@
 - [ianliuy/Resume](https://github.com/ianliuy/Resume) - My CV template, 35+ Online Assessments
 - [fresh-standard/fresh-themes](https://github.com/fresh-standard/fresh-themes) - Multiformat themes and skins for your technical résumé/CV.
 - [trigaten/Learn_Prompting](https://github.com/trigaten/Learn_Prompting) - Prompt Engineering, Generative AI, and LLM Guide by Learn Prompting | Join our discord for the largest Prompt Engineering learning community
-- [benbrastmckie/.config](https://github.com/benbrastmckie/.config) - NeoVim configuration optimized for writing in LaTeX
 - [LukeSmithxyz/critique-of-reason](https://github.com/LukeSmithxyz/critique-of-reason) - Term paper on Rationality
 - [sysprog21/lkmpg](https://github.com/sysprog21/lkmpg) - The Linux Kernel Module Programming Guide (updated for 5.0+ kernels)
 
@@ -3260,6 +3264,7 @@
 
 ## TypeScript 
 
+- [windingwind/zotero-better-notes](https://github.com/windingwind/zotero-better-notes) - Everything about note management. All in Zotero.
 - [dothq/melon](https://github.com/dothq/melon) - 🍉 Build Firefox-based browsers with ease [wip]
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [LHRUN/bubble](https://github.com/LHRUN/bubble) - Let's start changing your profile. (Readme Profile Collection)
