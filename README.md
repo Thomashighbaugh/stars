@@ -113,6 +113,7 @@
 
 ## C 
 
+- [sushi-ae/dotfiles](https://github.com/sushi-ae/dotfiles) - My personal dotfiles that are constantly being updated.
 - [ralismark/nix-appimage](https://github.com/ralismark/nix-appimage) - Convert a nixos derivation into a self-contained binary
 - [unikraft/unikraft](https://github.com/unikraft/unikraft) - Unikraft is an automated system for building specialized OSes known as unikernels. Unikraft can be configured to be POSIX-compliant. (Core repository)
 - [NVIDIA/open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules) - NVIDIA Linux open GPU kernel module source
@@ -1228,6 +1229,7 @@
 
 ## Lua 
 
+- [Gwynsav/gwileful](https://github.com/Gwynsav/gwileful) - Based on the modularized config of AWM, a retry of my setup.
 - [worron/redflat](https://github.com/worron/redflat) - Extension module for Awesome WM
 - [myagko/dotfiles](https://github.com/myagko/dotfiles) - My personal dotfiles
 - [folke/neodev.nvim](https://github.com/folke/neodev.nvim) - 💻  Neovim setup for init.lua and plugin development with full signature help, docs and completion for the nvim lua API.
@@ -2005,7 +2007,7 @@
 - [GTrunSec/nixos-flk](https://github.com/GTrunSec/nixos-flk) - highly structured NixOS configuration based on devos
 - [thiagokokada/nix-configs](https://github.com/thiagokokada/nix-configs) - My Nix{OS} configuration files
 - [nix-community/NixNG](https://github.com/nix-community/NixNG) - A linux distribution based on Nix [maintainer=@MagicRB]
-- [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config) - Nix environment for MacOS and NixOS + step-by-step guides ✨
+- [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config) - Nix environment for MacOS / NixOS + starter configs + step-by-step guides ✨
 - [kanashimia/nixos-config](https://github.com/kanashimia/nixos-config) - Configuration of my nixos systems.
 - [gautaz/phoenix](https://github.com/gautaz/phoenix) - Because I want my Nix workspaces to rise from their ashes
 - [wiltaylor/nix-iso](https://github.com/wiltaylor/nix-iso) - My collection of custom NixOS ISO files.
@@ -2074,6 +2076,8 @@
 
 ## Others 
 
+- [ColorblindAdam/ChatGPTPrompts](https://github.com/ColorblindAdam/ChatGPTPrompts) - Prompts I have created or modified to use with ChatGPT
+- [ctjhoa/rust-learning](https://github.com/ctjhoa/rust-learning) - A bunch of links to blog posts, articles, videos, etc for learning Rust
 - [llZektorll/Template_Hub](https://github.com/llZektorll/Template_Hub) - Obsidian Template Hub started on the 13th of June 2022. It was set up to gather as many note templates as possible.
 - [wikibonsai/prompt](https://github.com/wikibonsai/prompt) - AI prompts to generate transplantable digital garden components.
 - [wikibonsai/garden-beds](https://github.com/wikibonsai/garden-beds) - Starter digital gardens
@@ -2462,7 +2466,7 @@
 - [Thomashighbaugh/gpt_scripts](https://github.com/Thomashighbaugh/gpt_scripts) - Python Scripts that prompt GPT-3 via API
 - [dharmx/vile](https://github.com/dharmx/vile) - Waste of time. Smelly widgets feat. Spaghetti code. Built with eww-3.0.
 - [facundoolano/software-papers](https://github.com/facundoolano/software-papers) - 📚 A curated list of papers for Software Engineers
-- [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
+- [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
 - [ninewise/dotfiles](https://github.com/ninewise/dotfiles) - Some of my dotfiles.
 - [snwfdhmp/awesome-gpt-prompt-engineering](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering) - A curated list of awesome resources, tools, and other shiny things for GPT prompt engineering.
 - [beltoforion/openai-ghostwriter](https://github.com/beltoforion/openai-ghostwriter) - A python script for fully automatically generating web pages including images using OpenAI's GPT-3.
@@ -3264,6 +3268,9 @@
 
 ## TypeScript 
 
+- [Xarunoba/nextjs-daisyui-ssr](https://github.com/Xarunoba/nextjs-daisyui-ssr) - Next.js 13 App Router + daisyUI. Switch themes and render in SSR.
+- [Aylur/ags](https://github.com/Aylur/ags) - A customizable and extensible shell
+- [kevin-pek/portfolio-v2](https://github.com/kevin-pek/portfolio-v2) - Portfolio built using NextJs, TailwindCSS and DaisyUI.
 - [windingwind/zotero-better-notes](https://github.com/windingwind/zotero-better-notes) - Everything about note management. All in Zotero.
 - [dothq/melon](https://github.com/dothq/melon) - 🍉 Build Firefox-based browsers with ease [wip]
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
