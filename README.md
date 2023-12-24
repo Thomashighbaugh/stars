@@ -614,6 +614,7 @@
 
 ## HTML 
 
+- [aminblm/awesome-chatgpt-content-creation-prompts](https://github.com/aminblm/awesome-chatgpt-content-creation-prompts) - This repo includes ChatGPT content creation prompt curation to use ChatGPT for content creation better.
 - [jaantollander/Markdown-Templates](https://github.com/jaantollander/Markdown-Templates) - Templates for creating scientific, academic and technical documents using Markdown and Pandoc that support equations, code blocks, citations, Unicode symbols and vector graphics.
 - [dorneanu/gocial](https://github.com/dorneanu/gocial) - Social media interactions - The Gopher way
 - [Raihanhn/Modern_Email_Template](https://github.com/Raihanhn/Modern_Email_Template) - It's a Modern HTML Email Template.
@@ -2434,6 +2435,8 @@
 
 ## Python 
 
+- [Ruu3f/freeGPT-discord](https://github.com/Ruu3f/freeGPT-discord) - Discord chatbot and image generator powered by freeGPT. Now with image detection.
+- [Ruu3f/freeGPT](https://github.com/Ruu3f/freeGPT) - freeGPT provides free access to text and image generation models.
 - [tuan3w/obsidian-template](https://github.com/tuan3w/obsidian-template) - Starter templates for Obsidian
 - [AI-Guru/writebookswithai](https://github.com/AI-Guru/writebookswithai) - Writing books with AI.
 - [protectai/ai-exploits](https://github.com/protectai/ai-exploits) - A collection of real world AI/ML exploits for responsibly disclosed vulnerabilities
