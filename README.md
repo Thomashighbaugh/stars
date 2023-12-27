@@ -95,7 +95,7 @@
 
 ## Astro 
 
-- [iiinakaiii/escapeland](https://github.com/iiinakaiii/escapeland) - 📺 A CRT-style portfolio template powered by Sanity
+- [nevercaster/escapeland](https://github.com/nevercaster/escapeland) - 📺 A CRT-style portfolio template powered by Sanity
 
 ## Batchfile 
 
@@ -486,7 +486,7 @@
 
 ## Elixir 
 
-- [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based scalable remote access platform that integrates with your IdP and requires no open ports
+- [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based scalable remote access platform that integrates with your IdP and requires no open ports.
 - [aerosol/wb](https://github.com/aerosol/wb) - Writer's Block - personal wiki engine
 
 ## Elm 
@@ -614,6 +614,7 @@
 
 ## HTML 
 
+- [Ja-sonYun/yew-template-for-github-io](https://github.com/Ja-sonYun/yew-template-for-github-io) - Template of yew project, using tailwind and webpack for css, trunk for build and serve, deployable as is for github.io
 - [aminblm/awesome-chatgpt-content-creation-prompts](https://github.com/aminblm/awesome-chatgpt-content-creation-prompts) - This repo includes ChatGPT content creation prompt curation to use ChatGPT for content creation better.
 - [jaantollander/Markdown-Templates](https://github.com/jaantollander/Markdown-Templates) - Templates for creating scientific, academic and technical documents using Markdown and Pandoc that support equations, code blocks, citations, Unicode symbols and vector graphics.
 - [dorneanu/gocial](https://github.com/dorneanu/gocial) - Social media interactions - The Gopher way
@@ -1367,7 +1368,6 @@
 - [ayamir/nvimdots](https://github.com/ayamir/nvimdots) - A well configured and structured Neovim.
 - [ChristianChiarulli/nvim](https://github.com/ChristianChiarulli/nvim) - My neovim config
 - [Aire-One/awesome-slot](https://github.com/Aire-One/awesome-slot) - A declarative API to connect signals for the AwesomeWM
-- [SystematicError/dotfiles](https://github.com/SystematicError/dotfiles) - ❄️ Personal nix based configuration for the linux desktop
 - [chadcat7/kodo](https://github.com/chadcat7/kodo) - a blazingly bad neovim config
 - [enziaki/ArchConfig](https://github.com/enziaki/ArchConfig) - A basic install and configuration script for Arch and Debian
 - [vberezhnev/awesome](https://github.com/vberezhnev/awesome) - My AwesomeWM config
@@ -1790,6 +1790,7 @@
 
 ## MDX 
 
+- [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications
 - [DeterminateSystems/zero-to-nix](https://github.com/DeterminateSystems/zero-to-nix) - Zero to Nix is your guide to learning Nix and flakes. Created by Determinate Systems.
 - [hta218/leohuynh.dev](https://github.com/hta218/leohuynh.dev) - My 🏠 on the ☁️. Portfolio, showcases, snippets, dev logs, and ideas
 - [keegandonley/keegan.codes](https://github.com/keegandonley/keegan.codes) - The shiny new version of my website building using NextJS server components
@@ -1901,7 +1902,6 @@
 - [chvp/nixos-config](https://github.com/chvp/nixos-config) - Configuration of my machines (main development happens at https://git.chvp.be/chvp/nixos-config these days)
 - [linyinfeng/dotfiles](https://github.com/linyinfeng/dotfiles) - My personal NixOS configurations.
 - [xddxdd/nixos-config](https://github.com/xddxdd/nixos-config) - 
-- [ryan4yin/nix-config](https://github.com/ryan4yin/nix-config) - ❄️ryan4yin's nix config(NixOS/macOS + home-manager + i3/hyprland + neovim + agenix)
 - [disassembler/network](https://github.com/disassembler/network) - Home Network
 - [kira-bruneau/nixos-config](https://github.com/kira-bruneau/nixos-config) - My NixOS configuration
 - [ReplayCoding/nixos-config](https://github.com/ReplayCoding/nixos-config) - 
@@ -2030,6 +2030,7 @@
 - [justinwoo/nix-shorts](https://github.com/justinwoo/nix-shorts) - A collection of short notes about Nix, down to what is immediately needed for users.
 - [adomixaszvers/dotfiles-nix](https://github.com/adomixaszvers/dotfiles-nix) - 
 - [teto/home](https://github.com/teto/home) - Configurations
+- [SystematicError/dotfiles](https://github.com/SystematicError/dotfiles) - ❄️ Personal nix based configuration for the linux desktop
 - [nix-community/nur-combined](https://github.com/nix-community/nur-combined) - A repository of NUR that combines all repositories [maintainer=@Mic92]
 - [wiltaylor/dotfiles](https://github.com/wiltaylor/dotfiles) - My personal dotfiles
 - [chadcat7/crystal](https://github.com/chadcat7/crystal) - nix dotfiles for chilly people
@@ -2077,6 +2078,8 @@
 
 ## Others 
 
+- [leptos-rs/awesome-leptos](https://github.com/leptos-rs/awesome-leptos) - A collection of awesome libraries in the Leptos ecosystem.
+- [birdneststream/breakingbard](https://github.com/birdneststream/breakingbard) - Google Bard 'jailbreaks' and prompt poisoning, similar to how ChatGPT has DAN Mode but for Google Bard.
 - [ColorblindAdam/ChatGPTPrompts](https://github.com/ColorblindAdam/ChatGPTPrompts) - Prompts I have created or modified to use with ChatGPT
 - [ctjhoa/rust-learning](https://github.com/ctjhoa/rust-learning) - A bunch of links to blog posts, articles, videos, etc for learning Rust
 - [llZektorll/Template_Hub](https://github.com/llZektorll/Template_Hub) - Obsidian Template Hub started on the 13th of June 2022. It was set up to gather as many note templates as possible.
@@ -2435,6 +2438,14 @@
 
 ## Python 
 
+- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - GPT based autonomous agent that does online comprehensive research on any given topic
+- [giladbarnea/too-many-repos](https://github.com/giladbarnea/too-many-repos) - View and perform basic git actions on all repos and gists residing in a path
+- [giladbarnea/termwiki](https://github.com/giladbarnea/termwiki) - Terminal-based Personal Knowledge Management
+- [awekrx/AutoDoc-ChatGPT](https://github.com/awekrx/AutoDoc-ChatGPT) - AutoDoc-ChatGPT is a Python script that leverages the power of ChatGPT model to automatically generate documentation for any programming language. With AutoDoc-ChatGPT, you can easily generate compreh
+- [aledipa/Free-GPT4-WEB-API](https://github.com/aledipa/Free-GPT4-WEB-API) - FreeGPT4-WEB-API is a python server that allows you to have a self-hosted GPT-4 Unlimited and Free WEB API, via the latest Bing's AI (and much more).
+- [bigsky77/twitter-agent](https://github.com/bigsky77/twitter-agent) - Build AI-powered Agents for Twitter🐣
+- [nitebyte/GPTDraft](https://github.com/nitebyte/GPTDraft) - 
+- [chatanywhere/GPT_API_free](https://github.com/chatanywhere/GPT_API_free) - Free ChatGPT API Key，免费ChatGPT API，支持GPT4 API（免费），ChatGPT国内可用免费转发API，直连无需代理。可以搭配ChatBox等软件/插件使用，极大降低接口使用成本。国内即可无限制畅快聊天。
 - [Ruu3f/freeGPT-discord](https://github.com/Ruu3f/freeGPT-discord) - Discord chatbot and image generator powered by freeGPT. Now with image detection.
 - [Ruu3f/freeGPT](https://github.com/Ruu3f/freeGPT) - freeGPT provides free access to text and image generation models.
 - [tuan3w/obsidian-template](https://github.com/tuan3w/obsidian-template) - Starter templates for Obsidian
@@ -2639,7 +2650,6 @@
 - [virt-manager/virt-manager](https://github.com/virt-manager/virt-manager) - Desktop tool for managing virtual machines via libvirt
 - [phragment/tp-battery-icon](https://github.com/phragment/tp-battery-icon) - 
 - [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud 
-- [tiangolo/full-stack-fastapi-postgresql](https://github.com/tiangolo/full-stack-fastapi-postgresql) - Full stack, modern web application generator. Using FastAPI, PostgreSQL as database, Docker, automatic HTTPS and more.
 - [jayfk/statuspage](https://github.com/jayfk/statuspage) - A statuspage generator that lets you host your statuspage for free on Github.
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
@@ -2733,6 +2743,24 @@
 
 ## Rust 
 
+- [Kanerix/portfolio-rs](https://github.com/Kanerix/portfolio-rs) - My portfolio website, made with Leptos
+- [steadylearner/Rust-Full-Stack](https://github.com/steadylearner/Rust-Full-Stack) - Rust projects here are easy to use. There are blog posts for them also.
+- [patternfly-yew/patternfly-yew](https://github.com/patternfly-yew/patternfly-yew) - PatternFly components for Yew
+- [isosphere/yew-bootstrap](https://github.com/isosphere/yew-bootstrap) - Bootstrap 5 Components for the Yew Framework
+- [patternfly-yew/patternfly-yew-quickstart](https://github.com/patternfly-yew/patternfly-yew-quickstart) - A Patternfly for Yew quickstart repository
+- [pedrodesu/yew-feather](https://github.com/pedrodesu/yew-feather) - Yew components for Feather icons
+- [fuzzycloud/tailyew](https://github.com/fuzzycloud/tailyew) - Yew wrapper around daisy components
+- [arugaz/portfolio](https://github.com/arugaz/portfolio) - Portfolio with Yew Rust and Next.js
+- [rsbm/yab](https://github.com/rsbm/yab) - yew + axum + blog = yab
+- [khuedoan/blog](https://github.com/khuedoan/blog) - My personal website (written in Rust, blazingly fast, deployed on Kubernetes, &lt;insert a bunch of random buzzwords here&gt;, just lack content)
+- [itehax/rust-blog](https://github.com/itehax/rust-blog) - 
+- [thaw-ui/thaw](https://github.com/thaw-ui/thaw) - An easy to use leptos component library
+- [LighghtEeloo/flow.er](https://github.com/LighghtEeloo/flow.er) - A notebook app integrated with todo lists utility. Developed with Rust, WebAssembly, Yew and Trunk.
+- [srid/leptos-fullstack](https://github.com/srid/leptos-fullstack) - A Nix template for full-stack web apps in Rust using Leptos
+- [ywzjackal/yew_svg](https://github.com/ywzjackal/yew_svg) - svg icon support for rust yew framework
+- [mayone-du/yew-blog](https://github.com/mayone-du/yew-blog) - Blog Site. built by Rust, Tailwind CSS.
+- [dancespiele/yew_prism](https://github.com/dancespiele/yew_prism) - highlighter code component based in Prism
+- [kamiyaa/website-wasm](https://github.com/kamiyaa/website-wasm) - My personal website written in rust via yew/wasm
 - [justinrubek/wayland-playground](https://github.com/justinrubek/wayland-playground) - My space for experimenting with wayland
 - [pinnacle-comp/pinnacle](https://github.com/pinnacle-comp/pinnacle) - A WIP Smithay-based Wayland compositor, inspired by AwesomeWM and configured in Lua or Rust
 - [StrataWM/strata](https://github.com/StrataWM/strata) - A cutting-edge, robust and sleek Wayland compositor with batteries included.
@@ -2860,6 +2888,7 @@
 - [AmitGolden/dotfiles](https://github.com/AmitGolden/dotfiles) - AmitGold's catppuccin dotfiles!
 - [notKamui/dotfiles](https://github.com/notKamui/dotfiles) - What's hidden sometimes makes you who you are
 - [pimterry/notes](https://github.com/pimterry/notes) - :pencil: Simple delightful note taking, with more unix and less lock-in.
+- [ryan4yin/nix-config](https://github.com/ryan4yin/nix-config) - ❄️ryan4yin's nix config(NixOS/macOS + home-manager + i3/hyprland + neovim + agenix)
 - [BachoSeven/dotfiles](https://github.com/BachoSeven/dotfiles) - rice repo
 - [filisko/fat32-formatter](https://github.com/filisko/fat32-formatter) - Partition table cleaner and FAT32 formatter.
 - [GoodBoyNeon/dotfiles](https://github.com/GoodBoyNeon/dotfiles) - My configuration for Arch Linux.
@@ -3271,7 +3300,7 @@
 
 ## TypeScript 
 
-- [Xarunoba/nextjs-daisyui-ssr](https://github.com/Xarunoba/nextjs-daisyui-ssr) - Next.js 13 App Router + daisyUI. Switch themes and render in SSR.
+- [Xarunoba/nextjs-daisyui-ssr](https://github.com/Xarunoba/nextjs-daisyui-ssr) - Next.js 14 App Router + daisyUI. Switch themes and render in SSR.
 - [Aylur/ags](https://github.com/Aylur/ags) - A customizable and extensible shell
 - [kevin-pek/portfolio-v2](https://github.com/kevin-pek/portfolio-v2) - Portfolio built using NextJs, TailwindCSS and DaisyUI.
 - [windingwind/zotero-better-notes](https://github.com/windingwind/zotero-better-notes) - Everything about note management. All in Zotero.
@@ -3450,6 +3479,7 @@
 - [getmeli/meli](https://github.com/getmeli/meli) - Platform for deploying static sites and frontend applications easily. Automatic SSL, deploy previews, reverse proxy, and more.
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
 - [whoisryosuke/ryosuke-gatsby-blog](https://github.com/whoisryosuke/ryosuke-gatsby-blog) - Static PWA React-powered portfolio and blog built with GatsbyJS
+- [tiangolo/full-stack-fastapi-postgresql](https://github.com/tiangolo/full-stack-fastapi-postgresql) - Full stack, modern web application generator. Using FastAPI, PostgreSQL as database, Docker, automatic HTTPS and more.
 - [urbanogardun/monte-note](https://github.com/urbanogardun/monte-note) - Note taking application with a rich set of editing and management features
 - [taniarascia/takenote](https://github.com/taniarascia/takenote) - 📝  ‎ A web-based notes app for developers.
 - [vuejs/core](https://github.com/vuejs/core) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
