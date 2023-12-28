@@ -235,9 +235,9 @@
 - [CachyOS/cachyos-calamares](https://github.com/CachyOS/cachyos-calamares) - CachyOS Calamares
 - [PL-V/Firefox-WebInject](https://github.com/PL-V/Firefox-WebInject) - Firefox webInjector capable of injecting codes into webpages using a mitmproxy.
 - [ctubio/Krypto-trading-bot](https://github.com/ctubio/Krypto-trading-bot) - Self-hosted crypto trading bot (automated high frequency market making) written in C++
+- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 - [CachyOS/New-Cli-Installer](https://github.com/CachyOS/New-Cli-Installer) - CachyOS CLI Installer
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
-- [Nitrux/maui-shell](https://github.com/Nitrux/maui-shell) - Maui Shell is a convergent shell for desktops, tablets, and phones.
 - [cutefishos-ubuntu/fishui](https://github.com/cutefishos-ubuntu/fishui) - CutefishOS GUI library, based on Qt Quick.
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [skift-org/skift](https://github.com/skift-org/skift) - 🥑 The delightful operating system.
@@ -527,6 +527,7 @@
 
 ## Go 
 
+- [carltheperson/10-things-linux](https://github.com/carltheperson/10-things-linux) - Getting better at Linux with 10 mini-projects.
 - [ezeoleaf/larry](https://github.com/ezeoleaf/larry) - Larry 🐦 is a bot generator that post content from different providers to one or multiple publishers
 - [tazjin/nixery](https://github.com/tazjin/nixery) - Container registry which transparently builds images using the Nix package manager. Canonical repository is https://cs.tvl.fyi/depot/-/tree/tools/nixery
 - [pinpox/pinpox](https://github.com/pinpox/pinpox) - Profile readme
@@ -614,6 +615,7 @@
 
 ## HTML 
 
+- [ritaly/HTML-CSS-CV-demo](https://github.com/ritaly/HTML-CSS-CV-demo) - Template for Resume/CV in HTML and CSS
 - [Ja-sonYun/yew-template-for-github-io](https://github.com/Ja-sonYun/yew-template-for-github-io) - Template of yew project, using tailwind and webpack for css, trunk for build and serve, deployable as is for github.io
 - [aminblm/awesome-chatgpt-content-creation-prompts](https://github.com/aminblm/awesome-chatgpt-content-creation-prompts) - This repo includes ChatGPT content creation prompt curation to use ChatGPT for content creation better.
 - [jaantollander/Markdown-Templates](https://github.com/jaantollander/Markdown-Templates) - Templates for creating scientific, academic and technical documents using Markdown and Pandoc that support equations, code blocks, citations, Unicode symbols and vector graphics.
@@ -744,7 +746,6 @@
 - [tanjeffreyz/github-statistics](https://github.com/tanjeffreyz/github-statistics) - GitHub stat tracker that uses GraphQL to retrieve both public and private user statistics, which can then be displayed on profile READMEs
 - [PaperMC/Paper](https://github.com/PaperMC/Paper) - The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies
 - [RipMeApp/ripme](https://github.com/RipMeApp/ripme) - Downloads albums in bulk
-- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 - [NeoApplications/Neo-Launcher](https://github.com/NeoApplications/Neo-Launcher) - Free and Open Source Launcher.
 - [Neamar/KISS](https://github.com/Neamar/KISS) - Lightning fast, open-source, &lt; 250kb Android launcher
 - [siddhi-io/siddhi](https://github.com/siddhi-io/siddhi) - Stream Processing and Complex Event Processing Engine
@@ -1843,7 +1844,7 @@
 - [mikeroyal/NixOS-Guide](https://github.com/mikeroyal/NixOS-Guide) - NixOS Guide. Learn all about the immutable Nix Operating System and the declarative Nix Expression Language.
 - [cpcloud/flake-update-action](https://github.com/cpcloud/flake-update-action) - A GitHub action to automatically update nix flake dependencies
 - [GTrunSec/hivebus](https://github.com/GTrunSec/hivebus) - A declarative configuration framework based on the structural theory of std.
-- [z0al/dotfiles](https://github.com/z0al/dotfiles) - My NixOS ❄ & macOS 🍏 configuration
+- [z0al/dotfiles](https://github.com/z0al/dotfiles) - My NixOS ❄️ & macOS  configuration :app
 - [alexanderwallau/nix](https://github.com/alexanderwallau/nix) - Nixlas OS
 - [LavaDesu/flakes](https://github.com/LavaDesu/flakes) - NixOS config using flakes
 - [redyf/nixdots](https://github.com/redyf/nixdots) - Dotfiles for my NixOS system
@@ -2008,7 +2009,7 @@
 - [GTrunSec/nixos-flk](https://github.com/GTrunSec/nixos-flk) - highly structured NixOS configuration based on devos
 - [thiagokokada/nix-configs](https://github.com/thiagokokada/nix-configs) - My Nix{OS} configuration files
 - [nix-community/NixNG](https://github.com/nix-community/NixNG) - A linux distribution based on Nix [maintainer=@MagicRB]
-- [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config) - Nix config for MacOS / NixOS + Nix starter configs + step-by-step guides ✨
+- [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config) - My Nix config for MacOS / NixOS + Nix starter configs + Nix step-by-step guides ✨
 - [kanashimia/nixos-config](https://github.com/kanashimia/nixos-config) - Configuration of my nixos systems.
 - [gautaz/phoenix](https://github.com/gautaz/phoenix) - Because I want my Nix workspaces to rise from their ashes
 - [wiltaylor/nix-iso](https://github.com/wiltaylor/nix-iso) - My collection of custom NixOS ISO files.
@@ -2701,6 +2702,7 @@
 
 - [L4ki/Shiny-Plasma-Themes](https://github.com/L4ki/Shiny-Plasma-Themes) - Shiny Plasma Themes For Plasma Desktop
 - [Calinix-Team/Calinix-Arch](https://github.com/Calinix-Team/Calinix-Arch) - CalinixOS Linux Distribution ISO Profiles
+- [Nitrux/maui-shell](https://github.com/Nitrux/maui-shell) - Maui Shell is a convergent shell for desktops, tablets, and phones.
 - [xerolinux/xero_iso](https://github.com/xerolinux/xero_iso) - The Official XeroLinux ISO Build Environment
 
 ## Roff 
