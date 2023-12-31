@@ -95,7 +95,7 @@
 
 ## Astro 
 
-- [nevercaster/escapeland](https://github.com/nevercaster/escapeland) - 📺 A CRT-style portfolio template powered by Sanity
+- [nevercaster/escapeland](https://github.com/nevercaster/escapeland) - 📺 A retro portfolio template powered by Sanity
 
 ## Batchfile 
 
@@ -773,6 +773,7 @@
 
 ## JavaScript 
 
+- [aeksco/react-typescript-web-extension-starter](https://github.com/aeksco/react-typescript-web-extension-starter) - :desktop_computer: Web Extension starter kit built with React, TypeScript, TailwindCSS, Storybook, Jest, EsLint, Prettier, and Webpack. Supports Google Chrome + Mozilla Firefox + Brave Browser + Micro
 - [jaynewey/charm-icons](https://github.com/jaynewey/charm-icons) - 🍀 Charming Open Source vector icons.
 - [carbon-design-system/carbon](https://github.com/carbon-design-system/carbon) - A design system built by IBM
 - [benf2004/AI-Prompt-Genius](https://github.com/benf2004/AI-Prompt-Genius) - Curate a custom library of AI Prompts
@@ -798,7 +799,7 @@
 - [stevej2608/react-mosaic-cra](https://github.com/stevej2608/react-mosaic-cra) - Implementation, in JavaScript, of the react-mosaic demo
 - [instant-dev/api](https://github.com/instant-dev/api) - Instant API: Build type-safe web APIs with JavaScript
 - [cypotat/react-daisyui-template](https://github.com/cypotat/react-daisyui-template) - Template for quickly creating new applications using React, Tailwind and daisyUI
-- [adrianhajdin/project_next_13_ai_prompt_sharing](https://github.com/adrianhajdin/project_next_13_ai_prompt_sharing) - Next.js recently became the official React framework as outlined in React docs. In this course, you'll learn the most important Next.js concepts and how they fit into the React ecosystem. Finally, you
+- [adrianhajdin/project_next_14_ai_prompt_sharing](https://github.com/adrianhajdin/project_next_14_ai_prompt_sharing) - Next.js recently became the official React framework as outlined in React docs. In this course, you'll learn the most important Next.js concepts and how they fit into the React ecosystem. Finally, you
 - [integrateme-co/integrate-io](https://github.com/integrateme-co/integrate-io) - Cross-Post your blogs between dev.to, Medium and Hashnode 🔀
 - [themefisher/bookworm-light-nextjs](https://github.com/themefisher/bookworm-light-nextjs) - Bookworm is a minimal NextJs, Tailwind CSS blog starter template.
 - [lelouchB/next-image-gallery](https://github.com/lelouchB/next-image-gallery) - Image Gallery built with Next.js, Pexels API and Chakra UI.
@@ -1199,6 +1200,7 @@
 
 ## Jupyter Notebook 
 
+- [AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) - Data-Centric FinGPT.  Open-source for open finance!  Revolutionize 🔥    We release the trained model on HuggingFace.
 - [hollowstrawberry/kohya-colab](https://github.com/hollowstrawberry/kohya-colab) - Accessible Google Colab notebooks for Stable Diffusion Lora training, based on the work of kohya-ss and Linaqruf
 - [OpenBioLink/ThoughtSource](https://github.com/OpenBioLink/ThoughtSource) - A central, open resource for data and tools related to chain-of-thought reasoning in large language models. Developed @ Samwald research group: https://samwald.info/
 - [Nixtla/nixtla](https://github.com/Nixtla/nixtla) - Python SDK for TimeGPT
@@ -1294,6 +1296,7 @@
 - [stevearc/dressing.nvim](https://github.com/stevearc/dressing.nvim) - Neovim plugin to improve the default vim.ui interfaces
 - [dankdezpair/hypr.files-V2](https://github.com/dankdezpair/hypr.files-V2) - 
 - [jcmuller/my-awesome-wm-config](https://github.com/jcmuller/my-awesome-wm-config) - My laptop's Awesome WM configuration
+- [arminveres/dotfiles](https://github.com/arminveres/dotfiles) - Repository for personal Unix config files
 - [RU927/re_tile](https://github.com/RU927/re_tile) - dotfiles window manager
 - [juanibiapina/dotfiles](https://github.com/juanibiapina/dotfiles) - Dotfiles optimized for performance and high productivity in the terminal
 - [TanvirOnGH/flex](https://github.com/TanvirOnGH/flex) - Extension Module for My Tailor-Fitted AwesomeWM Configuration
@@ -1864,7 +1867,7 @@
 - [mikeroyal/NixOS-Guide](https://github.com/mikeroyal/NixOS-Guide) - NixOS Guide. Learn all about the immutable Nix Operating System and the declarative Nix Expression Language.
 - [cpcloud/flake-update-action](https://github.com/cpcloud/flake-update-action) - A GitHub action to automatically update nix flake dependencies
 - [GTrunSec/hivebus](https://github.com/GTrunSec/hivebus) - A declarative configuration framework based on the structural theory of std.
-- [z0al/dotfiles](https://github.com/z0al/dotfiles) - My NixOS ❄️ & macOS  configuration :app
+- [z0al/dotfiles](https://github.com/z0al/dotfiles) - My NixOS ❄️ & macOS  configuration
 - [alexanderwallau/nix](https://github.com/alexanderwallau/nix) - Nixlas OS
 - [LavaDesu/flakes](https://github.com/LavaDesu/flakes) - NixOS config using flakes
 - [redyf/nixdots](https://github.com/redyf/nixdots) - Dotfiles for my NixOS system
@@ -2099,6 +2102,7 @@
 
 ## Others 
 
+- [domgetter/NCoC](https://github.com/domgetter/NCoC) - No Code of Conduct: A Code of Conduct for Adults in Open Source Software
 - [michaelampr/jam](https://github.com/michaelampr/jam) - Jam icons is a set of SVG icons designed for web projects, illustrations, print projects, etc. Licensed under MIT
 - [kudakurage/LigatureSymbols](https://github.com/kudakurage/LigatureSymbols) - Ligature Symbols is WebFont project to display the symbol with a ligature features. This Font is licensed under the SIL Open Font License.
 - [icons8/WPF-UI-Framework](https://github.com/icons8/WPF-UI-Framework) - A set of UI controls that can be used for designing better user interfaces for Windows.
@@ -2466,6 +2470,8 @@
 
 ## Python 
 
+- [rsxdalv/tts-generation-webui](https://github.com/rsxdalv/tts-generation-webui) - TTS Generation Web UI (Bark, MusicGen + AudioGen, Tortoise, RVC, Vocos, Demucs)
+- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models. Supports transformers, GPTQ, AWQ, EXL2, llama.cpp (GGUF), Llama models.
 - [zestor/Muses](https://github.com/zestor/Muses) - Artificial Intelligence (AI) Long Form Fiction Writer using OpenAI or NLP Cloud
 - [mozilla/fxemoji](https://github.com/mozilla/fxemoji) - FxEmojis - a friendly emoji set from Mozilla
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - GPT based autonomous agent that does online comprehensive research on any given topic
@@ -2894,6 +2900,7 @@
 
 ## Shell 
 
+- [vinceliuice/emerald-icon-theme](https://github.com/vinceliuice/emerald-icon-theme) - Fresh and simple personality icon theme
 - [chbrown/overdrive](https://github.com/chbrown/overdrive) - Bash script to download mp3s from the OverDrive audiobook service
 - [gabrieldlima/dotfiles](https://github.com/gabrieldlima/dotfiles) - This repository contains my (old) personal dotfiles
 - [masroof-maindak/dots](https://github.com/masroof-maindak/dots) - Backup of my Linux configuration files.
@@ -2917,7 +2924,6 @@
 - [debuggyo/dots](https://github.com/debuggyo/dots) - more dots!
 - [phenax/nixos-dotfiles](https://github.com/phenax/nixos-dotfiles) - 
 - [GDR/dot](https://github.com/GDR/dot) - My personal config repo for my NixOS configurations. I use Nix flakes to manage dependencies and reproducibility.
-- [arminveres/dotfiles](https://github.com/arminveres/dotfiles) - Repository for personal Unix config files
 - [AmitGolden/dotfiles](https://github.com/AmitGolden/dotfiles) - AmitGold's catppuccin dotfiles!
 - [notKamui/dotfiles](https://github.com/notKamui/dotfiles) - What's hidden sometimes makes you who you are
 - [pimterry/notes](https://github.com/pimterry/notes) - :pencil: Simple delightful note taking, with more unix and less lock-in.
@@ -3333,6 +3339,7 @@
 
 ## TypeScript 
 
+- [andyruwruw/andyruwruw](https://github.com/andyruwruw/andyruwruw) - Github profile README.md with dynamic images generated from React.js components. Inspired by natemoo-re
 - [rafalzawadzki/spellbook-forge](https://github.com/rafalzawadzki/spellbook-forge) - ✨ Make your LLM prompts executable and version controlled. ✨
 - [element-plus/element-plus-icons](https://github.com/element-plus/element-plus-icons) - Main package for storing Element Plus icon resources.
 - [bytedance/IconPark](https://github.com/bytedance/IconPark) - 🍎Transform an SVG icon into multiple themes, and generate React icons，Vue icons，svg icons
