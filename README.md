@@ -282,6 +282,7 @@
 
 ## CSS 
 
+- [burkybang/Better-IFTTT-UI](https://github.com/burkybang/Better-IFTTT-UI) - A browser extension to make the IFTTT UI more usable on desktop
 - [vaibhav111tandon/vov.css](https://github.com/vaibhav111tandon/vov.css) - 📱💻A CSS Library for small but useful animations💻📱
 - [tablecheck/vesper-icons](https://github.com/tablecheck/vesper-icons) - Vesper Icons: Icons for your app, compatible with FontAwesome
 - [iconic/open-iconic](https://github.com/iconic/open-iconic) - An open source icon set with 223 marks in SVG, webfont and raster formats
@@ -754,6 +755,7 @@
 
 ## Java 
 
+- [JesusFreke/smali](https://github.com/JesusFreke/smali) - smali/baksmali
 - [tanjeffreyz/github-statistics](https://github.com/tanjeffreyz/github-statistics) - GitHub stat tracker that uses GraphQL to retrieve both public and private user statistics, which can then be displayed on profile READMEs
 - [PaperMC/Paper](https://github.com/PaperMC/Paper) - The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies
 - [RipMeApp/ripme](https://github.com/RipMeApp/ripme) - Downloads albums in bulk
@@ -1200,6 +1202,8 @@
 
 ## Jupyter Notebook 
 
+- [Drizer909/GPTbook](https://github.com/Drizer909/GPTbook) - Made fully ai generater book version
+- [mshumer/gpt-author](https://github.com/mshumer/gpt-author) - 
 - [AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) - Data-Centric FinGPT.  Open-source for open finance!  Revolutionize 🔥    We release the trained model on HuggingFace.
 - [hollowstrawberry/kohya-colab](https://github.com/hollowstrawberry/kohya-colab) - Accessible Google Colab notebooks for Stable Diffusion Lora training, based on the work of kohya-ss and Linaqruf
 - [OpenBioLink/ThoughtSource](https://github.com/OpenBioLink/ThoughtSource) - A central, open resource for data and tools related to chain-of-thought reasoning in large language models. Developed @ Samwald research group: https://samwald.info/
@@ -1720,6 +1724,7 @@
 - [4ban/awesome-pro](https://github.com/4ban/awesome-pro) - Awesome WM 4.x themes configs
 - [4ban/awesome-ban](https://github.com/4ban/awesome-ban) - Awesome WM 4.x theme configs
 - [tony/awesome-config](https://github.com/tony/awesome-config) - :closed_book: Example awesome wm configuration. Includes personalization support (personal.vim), theme, polyglot unicode taglists, mpd support.
+- [s1as3r/dotfiles](https://github.com/s1as3r/dotfiles) - dotfiles
 - [NlGHT/dotfiles](https://github.com/NlGHT/dotfiles) - Dotfiles, with AwesomeWM config based on https://github.com/manilarome/the-glorious-dotfiles (Floppy) but modified to suit my workflow and applications.
 - [lawsdontapplytopigs/dotfiles](https://github.com/lawsdontapplytopigs/dotfiles) - welcome to my crybb 😎😎😎😎😎😎
 - [akshat46/dotfiles-1](https://github.com/akshat46/dotfiles-1) - welcome to my crybb 😎😎😎😎😎😎
@@ -1857,6 +1862,9 @@
 
 ## Nix 
 
+- [Sorixelle/dotfiles](https://github.com/Sorixelle/dotfiles) - All my dotfiles in the form of a NixOS configuration
+- [malob/nixpkgs](https://github.com/malob/nixpkgs) - My Nix system configs!
+- [tiredofit/nixos-config](https://github.com/tiredofit/nixos-config) - NixOS configurations
 - [jethrokuan/nix-config](https://github.com/jethrokuan/nix-config) - 
 - [erictossell/nixflakes](https://github.com/erictossell/nixflakes) - My nixdots, but flaked.
 - [dwarfmaster/home-nix](https://github.com/dwarfmaster/home-nix) - My dotfile as managed by nix with home-manager
@@ -2102,6 +2110,7 @@
 
 ## Others 
 
+- [wtsxDev/reverse-engineering](https://github.com/wtsxDev/reverse-engineering) - List of awesome reverse engineering resources
 - [domgetter/NCoC](https://github.com/domgetter/NCoC) - No Code of Conduct: A Code of Conduct for Adults in Open Source Software
 - [michaelampr/jam](https://github.com/michaelampr/jam) - Jam icons is a set of SVG icons designed for web projects, illustrations, print projects, etc. Licensed under MIT
 - [kudakurage/LigatureSymbols](https://github.com/kudakurage/LigatureSymbols) - Ligature Symbols is WebFont project to display the symbol with a ligature features. This Font is licensed under the SIL Open Font License.
@@ -2780,6 +2789,7 @@
 
 ## Rust 
 
+- [leptos-rs/leptos-website](https://github.com/leptos-rs/leptos-website) - A website for the Leptos Web Framework!
 - [Kanerix/portfolio-rs](https://github.com/Kanerix/portfolio-rs) - My portfolio website, made with Leptos
 - [steadylearner/Rust-Full-Stack](https://github.com/steadylearner/Rust-Full-Stack) - Rust projects here are easy to use. There are blog posts for them also.
 - [patternfly-yew/patternfly-yew](https://github.com/patternfly-yew/patternfly-yew) - PatternFly components for Yew
@@ -2900,6 +2910,7 @@
 
 ## Shell 
 
+- [Sebelino/nixos-config](https://github.com/Sebelino/nixos-config) - My NixOS configuration files in source control
 - [vinceliuice/emerald-icon-theme](https://github.com/vinceliuice/emerald-icon-theme) - Fresh and simple personality icon theme
 - [chbrown/overdrive](https://github.com/chbrown/overdrive) - Bash script to download mp3s from the OverDrive audiobook service
 - [gabrieldlima/dotfiles](https://github.com/gabrieldlima/dotfiles) - This repository contains my (old) personal dotfiles
@@ -3140,7 +3151,6 @@
 - [CuarzoSoftware/CuarzoOS](https://github.com/CuarzoSoftware/CuarzoOS) - CuarzoOS
 - [kotoko/voidlinux-iso-extra](https://github.com/kotoko/voidlinux-iso-extra) - Void (Linux) installation ISO with additional programs
 - [alealexpro100/linux_install](https://github.com/alealexpro100/linux_install) - Install any distribution using only package mirror. Lightweight, easy-to-use and customizable.
-- [s1as3r/dotfiles](https://github.com/s1as3r/dotfiles) - dotfiles
 - [diemol/cud](https://github.com/diemol/cud) - Set of scripts to set an Ubuntu desktop with VNC in the cloud
 - [guysoft/RealtimePi](https://github.com/guysoft/RealtimePi) - An out-of-the-box raspebrrypi/raspbian distro with a realtime kernel
 - [aferrero2707/gimp-plugins-collection](https://github.com/aferrero2707/gimp-plugins-collection) - 
@@ -3339,6 +3349,7 @@
 
 ## TypeScript 
 
+- [brandonsaldan/clover](https://github.com/brandonsaldan/clover) - Personal website built with NextJS, Tailwind, and Geist.
 - [andyruwruw/andyruwruw](https://github.com/andyruwruw/andyruwruw) - Github profile README.md with dynamic images generated from React.js components. Inspired by natemoo-re
 - [rafalzawadzki/spellbook-forge](https://github.com/rafalzawadzki/spellbook-forge) - ✨ Make your LLM prompts executable and version controlled. ✨
 - [element-plus/element-plus-icons](https://github.com/element-plus/element-plus-icons) - Main package for storing Element Plus icon resources.
