@@ -221,6 +221,7 @@
 
 ## C++ 
 
+- [flox/flox](https://github.com/flox/flox) - Developer environments you can take with you
 - [jechasteen/gratuitous](https://github.com/jechasteen/gratuitous) - IDE for awesome window manager configuration and themes. Start and stop a Xephyr preview, syntax highlighting, editor splitting.
 - [Alex313031/thorium](https://github.com/Alex313031/thorium) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md.
 - [MCredstoner2004/ImageLOL](https://github.com/MCredstoner2004/ImageLOL) - simple program to store a file into a PNG image
@@ -1003,7 +1004,7 @@
 - [Thomashighbaugh/invoice-calculator](https://github.com/Thomashighbaugh/invoice-calculator) - A simple pure JS way to make an invoice calculator, but stylish.
 - [Thomashighbaugh/RandomTask](https://github.com/Thomashighbaugh/RandomTask) - A James Bond Villain's To-Do Example (Assignment from class)
 - [kormyen/memex](https://github.com/kormyen/memex) - Simple bookmarks and notes
-- [MichMich/MagicMirror](https://github.com/MichMich/MagicMirror) - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assi
+- [MagicMirrorOrg/MagicMirror](https://github.com/MagicMirrorOrg/MagicMirror) - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assi
 - [HarveyD/react-component-library](https://github.com/HarveyD/react-component-library) - A project skeleton to get your very own React Component Library up and running using Rollup, Typescript, SASS + Storybook
 - [duartefdias/InstagramFirstCommenter](https://github.com/duartefdias/InstagramFirstCommenter) - This bot will post a predefined comment as fast as possible to a new post on the target profile. I used this to successfully win tickets for a big music festival.
 - [vasani-arpit/Social-Media-Automation](https://github.com/vasani-arpit/Social-Media-Automation) - Automate social media because you don't have to be active on all of them😉. Best way to be active on all social media without actually being active on them. 😃
@@ -1257,6 +1258,7 @@
 
 ## Lua 
 
+- [zbirenbaum/copilot-cmp](https://github.com/zbirenbaum/copilot-cmp) - Lua plugin to turn github copilot into a cmp source
 - [Gwynsav/gwileful](https://github.com/Gwynsav/gwileful) - Based on the modularized config of AWM, a retry of my setup.
 - [worron/redflat](https://github.com/worron/redflat) - Extension module for Awesome WM
 - [myagko/dotfiles](https://github.com/myagko/dotfiles) - My personal dotfiles
@@ -1875,7 +1877,7 @@
 - [mikeroyal/NixOS-Guide](https://github.com/mikeroyal/NixOS-Guide) - NixOS Guide. Learn all about the immutable Nix Operating System and the declarative Nix Expression Language.
 - [cpcloud/flake-update-action](https://github.com/cpcloud/flake-update-action) - A GitHub action to automatically update nix flake dependencies
 - [GTrunSec/hivebus](https://github.com/GTrunSec/hivebus) - A declarative configuration framework based on the structural theory of std.
-- [z0al/dotfiles](https://github.com/z0al/dotfiles) - My NixOS ❄️ & macOS  configuration
+- [z0al/dotfiles](https://github.com/z0al/dotfiles) - My NixOS ❄️ & macOS 🍏 configuration
 - [alexanderwallau/nix](https://github.com/alexanderwallau/nix) - Nixlas OS
 - [LavaDesu/flakes](https://github.com/LavaDesu/flakes) - NixOS config using flakes
 - [redyf/nixdots](https://github.com/redyf/nixdots) - Dotfiles for my NixOS system
@@ -2789,6 +2791,7 @@
 
 ## Rust 
 
+- [leptos-rs/start](https://github.com/leptos-rs/start) - Starter template for use with the Leptos web framework.
 - [leptos-rs/leptos-website](https://github.com/leptos-rs/leptos-website) - A website for the Leptos Web Framework!
 - [Kanerix/portfolio-rs](https://github.com/Kanerix/portfolio-rs) - My portfolio website, made with Leptos
 - [steadylearner/Rust-Full-Stack](https://github.com/steadylearner/Rust-Full-Stack) - Rust projects here are easy to use. There are blog posts for them also.
