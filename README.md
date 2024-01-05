@@ -221,6 +221,7 @@
 
 ## C++ 
 
+- [Miriway/Miriway](https://github.com/Miriway/Miriway) - Mir based Wayland compositor
 - [flox/flox](https://github.com/flox/flox) - Developer environments you can take with you
 - [jechasteen/gratuitous](https://github.com/jechasteen/gratuitous) - IDE for awesome window manager configuration and themes. Start and stop a Xephyr preview, syntax highlighting, editor splitting.
 - [Alex313031/thorium](https://github.com/Alex313031/thorium) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md.
@@ -284,6 +285,7 @@
 
 ## CSS 
 
+- [vinceliuice/Fluent-gtk-theme](https://github.com/vinceliuice/Fluent-gtk-theme) - Fluent design gtk theme for linux desktops
 - [kdheepak/panvimdoc](https://github.com/kdheepak/panvimdoc) - Write documentation in pandoc markdown. Generate documentation in vimdoc.
 - [burkybang/Better-IFTTT-UI](https://github.com/burkybang/Better-IFTTT-UI) - A browser extension to make the IFTTT UI more usable on desktop
 - [vaibhav111tandon/vov.css](https://github.com/vaibhav111tandon/vov.css) - 📱💻A CSS Library for small but useful animations💻📱
@@ -536,6 +538,7 @@
 
 ## Go 
 
+- [ublue-os/fleek](https://github.com/ublue-os/fleek) - Own your $HOME
 - [carltheperson/10-things-linux](https://github.com/carltheperson/10-things-linux) - Getting better at Linux with 10 mini-projects.
 - [ezeoleaf/larry](https://github.com/ezeoleaf/larry) - Larry 🐦 is a bot generator that post content from different providers to one or multiple publishers
 - [tazjin/nixery](https://github.com/tazjin/nixery) - Container registry which transparently builds images using the Nix package manager. Canonical repository is https://cs.tvl.fyi/depot/-/tree/tools/nixery
@@ -1264,7 +1267,6 @@
 - [zbirenbaum/copilot-cmp](https://github.com/zbirenbaum/copilot-cmp) - Lua plugin to turn github copilot into a cmp source
 - [Gwynsav/gwileful](https://github.com/Gwynsav/gwileful) - Based on the modularized config of AWM, a retry of my setup.
 - [worron/redflat](https://github.com/worron/redflat) - Extension module for Awesome WM
-- [myagko/dotfiles](https://github.com/myagko/dotfiles) - My personal dotfiles
 - [folke/neodev.nvim](https://github.com/folke/neodev.nvim) - 💻  Neovim setup for init.lua and plugin development with full signature help, docs and completion for the nvim lua API.
 - [figsoda/nix-develop.nvim](https://github.com/figsoda/nix-develop.nvim) - Run `nix develop` without restarting neovim
 - [hidayry/awesomewm-dotfiles](https://github.com/hidayry/awesomewm-dotfiles) - dotfiles awesomewm
@@ -1559,7 +1561,7 @@
 - [huytd/awesome-wm-config](https://github.com/huytd/awesome-wm-config) - 
 - [potamides/dotfiles](https://github.com/potamides/dotfiles) - My personal dotfiles for most of the programs I use on a daily basis.
 - [adwinying/dotfiles](https://github.com/adwinying/dotfiles) - There's no place like ~/
-- [cstsunfu/.sea.nvim](https://github.com/cstsunfu/.sea.nvim) - 21st-century Neovim configure. Mainly implemented by lua.
+- [cstsunfu/.sea.nvim](https://github.com/cstsunfu/.sea.nvim) - 21st-century NeoVim. Mainly implemented by Lua.
 - [himanshumehta1114/awesomeWM-Rofi-rice](https://github.com/himanshumehta1114/awesomeWM-Rofi-rice) - pls help
 - [dynamotn/awesome-config](https://github.com/dynamotn/awesome-config) - My customize configuration for awesomeWM, mirror from Gitlab
 - [itzmjauz/awesomesauce](https://github.com/itzmjauz/awesomesauce) - my awesomeWM config
@@ -1867,6 +1869,7 @@
 
 ## Nix 
 
+- [instantOS/instantNIX](https://github.com/instantOS/instantNIX) - instantOS tools packaged for the Nix package manager (and NixOS)
 - [zoedsoupe/nixnad](https://github.com/zoedsoupe/nixnad) - Config files to set up a Software development workstation!
 - [DanNixon/dotfiles](https://github.com/DanNixon/dotfiles) - My Nix flavoured configs
 - [nix-community/templates](https://github.com/nix-community/templates) - Nix flake templates managed by the community [maintainer=@IogaMaster]
@@ -1946,7 +1949,6 @@
 - [linyinfeng/dotfiles](https://github.com/linyinfeng/dotfiles) - My personal NixOS configurations.
 - [xddxdd/nixos-config](https://github.com/xddxdd/nixos-config) - 
 - [disassembler/network](https://github.com/disassembler/network) - Home Network
-- [kira-bruneau/nixos-config](https://github.com/kira-bruneau/nixos-config) - My NixOS configuration
 - [ReplayCoding/nixos-config](https://github.com/ReplayCoding/nixos-config) - 
 - [the-argus/nixsys](https://github.com/the-argus/nixsys) - My NixOS system configuration.
 - [luftmensch-luftmensch/nix-config](https://github.com/luftmensch-luftmensch/nix-config) - NixOS Configuration
@@ -2121,6 +2123,7 @@
 
 ## Others 
 
+- [dereknguyen269/dereknguyen269](https://github.com/dereknguyen269/dereknguyen269) - Don't fork only. Let's Fork and Star.
 - [wtsxDev/reverse-engineering](https://github.com/wtsxDev/reverse-engineering) - List of awesome reverse engineering resources
 - [domgetter/NCoC](https://github.com/domgetter/NCoC) - No Code of Conduct: A Code of Conduct for Adults in Open Source Software
 - [michaelampr/jam](https://github.com/michaelampr/jam) - Jam icons is a set of SVG icons designed for web projects, illustrations, print projects, etc. Licensed under MIT
@@ -2138,6 +2141,7 @@
 - [wikibonsai/prompt](https://github.com/wikibonsai/prompt) - AI prompts to generate transplantable digital garden components.
 - [wikibonsai/garden-beds](https://github.com/wikibonsai/garden-beds) - Starter digital gardens
 - [yokoffing/ChatGPT-Prompts](https://github.com/yokoffing/ChatGPT-Prompts) - ChatGPT and Bing AI prompt curation
+- [myagko/dotfiles](https://github.com/myagko/dotfiles) - My personal dotfiles
 - [FredaXin/itslit](https://github.com/FredaXin/itslit) - A GitHub template which you can use to create automated git commits daily
 - [PsychoLlama/recommendations](https://github.com/PsychoLlama/recommendations) - A list of the most impactful things I go out of my way to recommend.
 - [zama-ai/awesome-zama](https://github.com/zama-ai/awesome-zama) - A curated list of amazing Fully Homomorphic Encryption (FHE) resources created by the team at Zama.
@@ -2799,6 +2803,7 @@
 
 ## Rust 
 
+- [pop-os/cosmic-greeter](https://github.com/pop-os/cosmic-greeter) - libcosmic greeter for greetd, which can be run inside cosmic-comp
 - [LeVuMinhHuy/blog](https://github.com/LeVuMinhHuy/blog) - just another blog, but built with rust
 - [leptos-rs/start](https://github.com/leptos-rs/start) - Starter template for use with the Leptos web framework.
 - [leptos-rs/leptos-website](https://github.com/leptos-rs/leptos-website) - A website for the Leptos Web Framework!
