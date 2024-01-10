@@ -127,7 +127,7 @@
 - [RogueMaster/flipperzero-firmware-wPlugins](https://github.com/RogueMaster/flipperzero-firmware-wPlugins) - RogueMaster Flipper Zero Firmware
 - [jcs/sdorfehs](https://github.com/jcs/sdorfehs) - A tiling window manager
 - [sardemff7/wayhouse](https://github.com/sardemff7/wayhouse) - A Wayland compositor based on libweston and providing most of Wayland Wall protocols
-- [niutech/splitbrowser](https://github.com/niutech/splitbrowser) - Split Browser - a minimalistic, ultra-lightweight, open source web browser based on WebKit/Ultralight/native webview with split screen (tiled) view
+- [niutech/splitbrowser](https://github.com/niutech/splitbrowser) - Split Browser - a minimalistic, ultra-lightweight, open source web browser based on WebKit/Ultralight/native webview with a split screen (tiled) view
 - [colinkeenan/silentcast](https://github.com/colinkeenan/silentcast) - Create silent mkv screencast and animated gif.
 - [BourgeoisBear/A-E-S-T-H-E-T-I-C](https://github.com/BourgeoisBear/A-E-S-T-H-E-T-I-C) - Makes your words more ＡＥＳＴＨＥＴＩＣ
 - [khuedoan/slock](https://github.com/khuedoan/slock) - Suckless simple X display locker fork with transparency effect (deprecated, I've switched to Wayland)
@@ -1573,7 +1573,7 @@
 - [huytd/awesome-wm-config](https://github.com/huytd/awesome-wm-config) - 
 - [potamides/dotfiles](https://github.com/potamides/dotfiles) - My personal dotfiles for most of the programs I use on a daily basis.
 - [adwinying/dotfiles](https://github.com/adwinying/dotfiles) - There's no place like ~/
-- [cstsunfu/.sea.nvim](https://github.com/cstsunfu/.sea.nvim) - 21st-century NeoVim. Mainly implemented by Lua.
+- [cstsunfu/.sea.nvim](https://github.com/cstsunfu/.sea.nvim) - 21st-century NeoVim. Personal IDE. Mainly implemented by Lua.
 - [himanshumehta1114/awesomeWM-Rofi-rice](https://github.com/himanshumehta1114/awesomeWM-Rofi-rice) - pls help
 - [dynamotn/awesome-config](https://github.com/dynamotn/awesome-config) - My customize configuration for awesomeWM, mirror from Gitlab
 - [itzmjauz/awesomesauce](https://github.com/itzmjauz/awesomesauce) - my awesomeWM config
@@ -1910,7 +1910,7 @@
 - [z0al/dotfiles](https://github.com/z0al/dotfiles) - My NixOS ❄️ & macOS 🍏 configuration
 - [alexanderwallau/nix](https://github.com/alexanderwallau/nix) - Nixlas OS
 - [LavaDesu/flakes](https://github.com/LavaDesu/flakes) - NixOS config using flakes
-- [redyf/nixdots](https://github.com/redyf/nixdots) - Dotfiles for my NixOS system
+- [redyf/nixdots](https://github.com/redyf/nixdots) - Dotfiles for NixOS
 - [matthewbauer/nix-bundle](https://github.com/matthewbauer/nix-bundle) - Bundle Nix derivations to run anywhere!
 - [NixOS/templates](https://github.com/NixOS/templates) - Flake templates
 - [vyorkin/nixos-config](https://github.com/vyorkin/nixos-config) - My NixOS configuration
@@ -1966,7 +1966,7 @@
 - [chvp/nixos-config](https://github.com/chvp/nixos-config) - Configuration of my machines (main development happens at https://git.chvp.be/chvp/nixos-config these days)
 - [linyinfeng/dotfiles](https://github.com/linyinfeng/dotfiles) - My personal NixOS configurations.
 - [xddxdd/nixos-config](https://github.com/xddxdd/nixos-config) - 
-- [ryan4yin/nix-config](https://github.com/ryan4yin/nix-config) - ❄️ryan4yin's nix config(NixOS/macOS + home-manager + i3/hyprland + neovim + agenix)
+- [ryan4yin/nix-config](https://github.com/ryan4yin/nix-config) - ❄️ryan4yin's nix config(NixOS/macOS + home-manager + i3/hyprland + neovim/emacs + agenix)
 - [disassembler/network](https://github.com/disassembler/network) - Home Network
 - [ReplayCoding/nixos-config](https://github.com/ReplayCoding/nixos-config) - 
 - [the-argus/nixsys](https://github.com/the-argus/nixsys) - My NixOS system configuration.
@@ -2162,7 +2162,6 @@
 - [wikibonsai/prompt](https://github.com/wikibonsai/prompt) - AI prompts to generate transplantable digital garden components.
 - [wikibonsai/garden-beds](https://github.com/wikibonsai/garden-beds) - Starter digital gardens
 - [yokoffing/ChatGPT-Prompts](https://github.com/yokoffing/ChatGPT-Prompts) - ChatGPT and Bing AI prompt curation
-- [myagko/dotfiles](https://github.com/myagko/dotfiles) - My personal dotfiles
 - [FredaXin/itslit](https://github.com/FredaXin/itslit) - A GitHub template which you can use to create automated git commits daily
 - [PsychoLlama/recommendations](https://github.com/PsychoLlama/recommendations) - A list of the most impactful things I go out of my way to recommend.
 - [zama-ai/awesome-zama](https://github.com/zama-ai/awesome-zama) - A curated list of amazing Fully Homomorphic Encryption (FHE) resources created by the team at Zama.
@@ -2246,7 +2245,6 @@
 - [CommonPaper/story-prompt](https://github.com/CommonPaper/story-prompt) - Challenge project for engineering candidates
 - [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3
 - [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
-- [juminai/dotfiles](https://github.com/juminai/dotfiles) - average dotfiles
 - [groepl/Obsidian-Templates](https://github.com/groepl/Obsidian-Templates) - A repository containing templates and scripts for #Obsidian to support the #Zettelkasten method for note-taking.
 - [KaleabTessera/Research-Paper-Reading-Template](https://github.com/KaleabTessera/Research-Paper-Reading-Template) - A markdown template for taking notes to summarize research papers.
 - [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns.
@@ -2514,6 +2512,7 @@
 
 ## Python 
 
+- [moeoverflow/comicbook](https://github.com/moeoverflow/comicbook) - epub comic generator | nhentai.net | e-hentai.org | wnacg.org
 - [siddharth2016/quote-readme](https://github.com/siddharth2016/quote-readme) - A GitHub Action that allows you to place a random quote/fun-fact on your README file, from a collection of famous computer science quotes/facts !
 - [roothaxor/Exif-Remove](https://github.com/roothaxor/Exif-Remove) - Remove exif data from all digital pictures in current directory by typing exif
 - [Nick-Gottschlich/Social-Amnesia](https://github.com/Nick-Gottschlich/Social-Amnesia) - Forget the past. Social Amnesia makes sure your social media accounts only show your posts from recent history, not from "that phase" 5 years ago.
@@ -2593,6 +2592,7 @@
 - [paulpierre/informer](https://github.com/paulpierre/informer) - A Telegram Mass Surveillance Bot in Python
 - [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API
 - [promptslab/Awesome-Prompt-Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) - This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM etc
+- [juminai/dotfiles](https://github.com/juminai/dotfiles) - average dotfiles
 - [microsoft/unilm](https://github.com/microsoft/unilm) - Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities
 - [avgupta456/github-trends](https://github.com/avgupta456/github-trends) - 🚀 Level up your GitHub profile readme with customizable cards including LOC statistics!
 - [EndeavourOS-Community-Editions/qtile](https://github.com/EndeavourOS-Community-Editions/qtile) - setup for Qtile EOS-CE
@@ -2914,6 +2914,7 @@
 ## SCSS 
 
 - [astrit/css.gg](https://github.com/astrit/css.gg) - 700+ Pure CSS, SVG, PNG & Figma UI Icons Available in SVG Sprite, styled-components, NPM & API and 6000 glyphs
+- [myagko/dotfiles](https://github.com/myagko/dotfiles) - My personal dotfiles
 - [Brendon3578/Nullstack-Todo](https://github.com/Brendon3578/Nullstack-Todo) - A simple Todo list application, created using the brazilian framework - Nullstack
 - [world-class/REPL](https://github.com/world-class/REPL) - The Learning Hub for UoL's Online CS Students
 - [numixproject/numix-gtk-theme](https://github.com/numixproject/numix-gtk-theme) - A modern flat theme with a combination of light and dark elements.
