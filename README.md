@@ -286,6 +286,8 @@
 
 ## CSS 
 
+- [kkothari2001/twAIn](https://github.com/kkothari2001/twAIn) - An AI that creates incredible stories!
+- [krryptonian/Creating-Chatbot-Using-Python-Flask-and-DialogFlow](https://github.com/krryptonian/Creating-Chatbot-Using-Python-Flask-and-DialogFlow) - This is a webhook made in python (Flask) to perform actions in Dialogflow chatbot.
 - [vinceliuice/Fluent-gtk-theme](https://github.com/vinceliuice/Fluent-gtk-theme) - Fluent design gtk theme for linux desktops
 - [kdheepak/panvimdoc](https://github.com/kdheepak/panvimdoc) - Write documentation in pandoc markdown. Generate documentation in vimdoc.
 - [burkybang/Better-IFTTT-UI](https://github.com/burkybang/Better-IFTTT-UI) - A browser extension to make the IFTTT UI more usable on desktop
@@ -497,7 +499,7 @@
 
 ## Elixir 
 
-- [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based scalable remote access platform that integrates with your IdP and requires no open ports.
+- [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based zero trust access platform that supports OIDC authentication, 2FA, user/group sync, and requires zero firewall configuration.
 - [aerosol/wb](https://github.com/aerosol/wb) - Writer's Block - personal wiki engine
 
 ## Elm 
@@ -783,6 +785,7 @@
 
 ## JavaScript 
 
+- [ishantchauhan710/WriterAI](https://github.com/ishantchauhan710/WriterAI) - WriterAI is an AI based content writing tool that helps users easily write high quality emails, blogs, letters, thesis and other stuff. One can also share their project with others and work as a team.
 - [Nick-Gabe/Nick-Gabe](https://github.com/Nick-Gabe/Nick-Gabe) - Self updating README
 - [pryv/open-pryv.io](https://github.com/pryv/open-pryv.io) - Open-source version of Pryv.io
 - [davidmerfield/Stroke](https://github.com/davidmerfield/Stroke) - A text editor for first drafts
@@ -1371,7 +1374,7 @@
 - [redshifttt/dotfiles](https://github.com/redshifttt/dotfiles) - all my dotfiles
 - [dnordstrom/dotfiles](https://github.com/dnordstrom/dotfiles) - Flake-based NixOS configuration used on Dell XPS laptop and Ryzen 7 desktop.
 - [camilof99/dotfiles-awesome](https://github.com/camilof99/dotfiles-awesome) - 
-- [LudoPinelli/comment-box.nvim](https://github.com/LudoPinelli/comment-box.nvim) - :sparkles: Clarify and beautify your comments using boxes and lines.
+- [LudoPinelli/comment-box.nvim](https://github.com/LudoPinelli/comment-box.nvim) - :sparkles: Clarify and beautify your comments and plain text files using boxes and lines.
 - [devclyde/awchad-awesome](https://github.com/devclyde/awchad-awesome) - awesomewm for awchad
 - [devclyde/awesome-emmylua](https://github.com/devclyde/awesome-emmylua) - Hand rewriting all the awesome documentation with EmmyLua support
 - [f1zm0/Hypervim](https://github.com/f1zm0/Hypervim) - modular configuration that extends Neovim into a modern code editor with IDE-like features
@@ -2207,7 +2210,7 @@
 - [jobream/List-of-Learning-Resources](https://github.com/jobream/List-of-Learning-Resources) - This collection provides a list of educational resources for Software Engineers. Feel free to add your favorite resources as well and help others in their journey of learning.
 - [SuyashLakhotia/TechInterview](https://github.com/SuyashLakhotia/TechInterview) - :gem: Cheat sheet to prep for technical interviews.
 - [bootdotdev/curriculum](https://github.com/bootdotdev/curriculum) - An open roadmap for Boot.dev's backend development curriculum
-- [luisnts/awesome-computer-graphics](https://github.com/luisnts/awesome-computer-graphics) - :small_red_triangle::sunglasses: A curated list of awesome stuff to learn computer graphics
+- [luisdnsantos/awesome-computer-graphics](https://github.com/luisdnsantos/awesome-computer-graphics) - :small_red_triangle::sunglasses: A curated list of awesome stuff to learn computer graphics
 - [ocean1/awesome-thesis](https://github.com/ocean1/awesome-thesis) - A curated list of practical tips and tricks to help you achieve an awesome CS master thesis [WIP] - contributions are welcome
 - [d0r1h/ML-University](https://github.com/d0r1h/ML-University) - Machine Learning Open Source University
 - [enkidevs/curriculum](https://github.com/enkidevs/curriculum) - 👩‍🏫 👨‍🏫 The open-source curriculum of Enki!
@@ -2512,6 +2515,8 @@
 
 ## Python 
 
+- [mparje/novel-writer](https://github.com/mparje/novel-writer) - AI generation of full length coherent novels from simple prompts.
+- [DevilsNerve/Python-openai-markdown-book-writer](https://github.com/DevilsNerve/Python-openai-markdown-book-writer) - OpenAI Markdown Book Writer: Auto-generate books in Markdown format using OpenAI's GPT API.
 - [moeoverflow/comicbook](https://github.com/moeoverflow/comicbook) - epub comic generator | nhentai.net | e-hentai.org | wnacg.org
 - [siddharth2016/quote-readme](https://github.com/siddharth2016/quote-readme) - A GitHub Action that allows you to place a random quote/fun-fact on your README file, from a collection of famous computer science quotes/facts !
 - [roothaxor/Exif-Remove](https://github.com/roothaxor/Exif-Remove) - Remove exif data from all digital pictures in current directory by typing exif
@@ -2634,7 +2639,6 @@
 - [chrisvaughn/imap-cleanup](https://github.com/chrisvaughn/imap-cleanup) - Python script to clean out unwanted email via IMAP
 - [unifyai/ivy](https://github.com/unifyai/ivy) - The Unified AI Framework
 - [mkdirlove/WI-TOOLKIT](https://github.com/mkdirlove/WI-TOOLKIT) - Hack WiFi in Termux ( ROOTED DEVICES ONLY)
-- [YodaEmbedding/dotfiles](https://github.com/YodaEmbedding/dotfiles) - Personal Linux configuration files (nvim, i3, zsh, ...)
 - [justinwoo/mkgif](https://github.com/justinwoo/mkgif) - because ffmpeg commands are too annoying to remember, and bash scripts are annoying to manage.
 - [yakninja/mantra-generator](https://github.com/yakninja/mantra-generator) - Generates mantras in Sanskrit, allowing you to discover secret mantras
 - [NathanDuma/LinkedIn-Easy-Apply-Bot](https://github.com/NathanDuma/LinkedIn-Easy-Apply-Bot) - Automate LinkedIn Easy Apply job applications and answer application-specific questions.
@@ -2831,6 +2835,7 @@
 
 ## Rust 
 
+- [eza-community/eza](https://github.com/eza-community/eza) - A modern, maintained replacement for ls
 - [will/oblique](https://github.com/will/oblique) - a random oblique strategy
 - [pop-os/cosmic-greeter](https://github.com/pop-os/cosmic-greeter) - libcosmic greeter for greetd, which can be run inside cosmic-comp
 - [LeVuMinhHuy/blog](https://github.com/LeVuMinhHuy/blog) - just another blog, but built with rust
@@ -3098,6 +3103,7 @@
 - [myspaghetti/macos-virtualbox](https://github.com/myspaghetti/macos-virtualbox) - Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox on x86 CPUs for Windows, Linux, and macOS
 - [oddlama/gentoo-install](https://github.com/oddlama/gentoo-install) - A gentoo installer with a TUI interface that supports systemd and OpenRC, EFI and BIOS, as well as variable disk layouts using ext4, zfs, btrfs, luks and mdraid.
 - [wfleming/gifcast](https://github.com/wfleming/gifcast) - X11 GIF screen recorder
+- [YodaEmbedding/dotfiles](https://github.com/YodaEmbedding/dotfiles) - Personal Linux configuration files (nvim, i3, zsh, ...)
 - [pivpn/pivpn](https://github.com/pivpn/pivpn) - The Simplest VPN installer, designed for Raspberry Pi
 - [StreisandEffect/streisand](https://github.com/StreisandEffect/streisand) - Streisand sets up a new server running your choice of WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge. It also generates custom instructions for all of these serv
 - [cristianzsh/openbsd-selfhosted](https://github.com/cristianzsh/openbsd-selfhosted) - :blowfish: Shell script for self-hosting cloud, email, and git services
@@ -3375,6 +3381,7 @@
 
 ## Svelte 
 
+- [morispolanco/books-by-ai](https://github.com/morispolanco/books-by-ai) - Books generated by AI
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 - [hertg/lightdm-neon](https://github.com/hertg/lightdm-neon) - :art: A customizable theme for web-greeter in a nostalgic but modern neon look
 - [perfect-things/perfect-home](https://github.com/perfect-things/perfect-home) - firefox newtab/home replacement
@@ -3398,6 +3405,8 @@
 
 ## TypeScript 
 
+- [mckaywrigley/storybook-ai](https://github.com/mckaywrigley/storybook-ai) - Use AI to write complete stories.
+- [hubtype/botonic](https://github.com/hubtype/botonic) - Build chatbots and conversational experiences using React
 - [StanGirard/quivr](https://github.com/StanGirard/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that 
 - [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) - Open-source tool to enforce privacy & security best-practices on Windows, macOS and Linux, because privacy is sexy
 - [iandjx/next-js-daisy](https://github.com/iandjx/next-js-daisy) - Next JS, twin.macro, typescript, daisyUI, tailwindcss template
