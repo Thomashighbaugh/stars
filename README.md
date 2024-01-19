@@ -629,6 +629,7 @@
 
 ## HTML 
 
+- [Rishit-dagli/Rishit-dagli](https://github.com/Rishit-dagli/Rishit-dagli) - My GitHub profile README
 - [aitoolsau/EbookWriter](https://github.com/aitoolsau/EbookWriter) - AI powered e-book writer
 - [microsoft/fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons) - Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.
 - [pprince/etlinefont-bower](https://github.com/pprince/etlinefont-bower) - Elegant Themes 100 Line Icons (GPL'd icon font) as a bower component
@@ -2148,6 +2149,7 @@
 
 ## Others 
 
+- [sanidhyy/sanidhyy](https://github.com/sanidhyy/sanidhyy) - :octocat: Hello there! This repository is for the welcome message on my Github Profile.
 - [ink-cow/ko-templates](https://github.com/ink-cow/ko-templates) - Templates for creating comics in Krita
 - [BlockchainCommons/Pseudonymity-Guide](https://github.com/BlockchainCommons/Pseudonymity-Guide) - How to securely create and operate a pseudonymous identity.
 - [sottlmarek/DevSecOps](https://github.com/sottlmarek/DevSecOps) - Ultimate DevSecOps library
@@ -2457,7 +2459,7 @@
 - [epidrome/awesome-cv-templates](https://github.com/epidrome/awesome-cv-templates) - :page_facing_up: A curated list of awesome CV and resume templates
 - [bundestag/gesetze](https://github.com/bundestag/gesetze) - Bundesgesetze und -verordnungen
 - [hobby-kube/guide](https://github.com/hobby-kube/guide) - Kubernetes clusters for the hobbyist.
-- [shuaibiyy/awesome-terraform](https://github.com/shuaibiyy/awesome-terraform) - Curated list of resources on HashiCorp's Terraform
+- [shuaibiyy/awesome-tf](https://github.com/shuaibiyy/awesome-tf) - Curated list of resources on HashiCorp's Terraform and OpenTofu
 - [Artemmkin/infrastructure-as-code-tutorial](https://github.com/Artemmkin/infrastructure-as-code-tutorial) - Infrastructure As Code Tutorial. Covers Packer, Terraform, Ansible, Vagrant, Docker, Docker Compose, Kubernetes
 - [sindresorhus/awesome-electron](https://github.com/sindresorhus/awesome-electron) - Useful resources for creating apps with Electron
 - [storm119/Tilix-Themes](https://github.com/storm119/Tilix-Themes) - Theme for Tilix Terminal
@@ -2519,6 +2521,7 @@
 
 ## Python 
 
+- [Shinyzenith/NextWM](https://github.com/Shinyzenith/NextWM) - Wayland compositing window manager written in python.
 - [mparje/novel-writer](https://github.com/mparje/novel-writer) - AI generation of full length coherent novels from simple prompts.
 - [DevilsNerve/Python-openai-markdown-book-writer](https://github.com/DevilsNerve/Python-openai-markdown-book-writer) - OpenAI Markdown Book Writer: Auto-generate books in Markdown format using OpenAI's GPT API.
 - [moeoverflow/comicbook](https://github.com/moeoverflow/comicbook) - epub comic generator | nhentai.net | e-hentai.org | wnacg.org
@@ -2967,6 +2970,7 @@
 
 ## Shell 
 
+- [fikriomar16/mafetch](https://github.com/fikriomar16/mafetch) - System info for Unix-like operating systems.
 - [tbung/dotfiles](https://github.com/tbung/dotfiles) - There's no place like ~/
 - [davideolgiati/PartyLoud](https://github.com/davideolgiati/PartyLoud) - A simple tool to generate fake web browsing and mitigate tracking
 - [mypdns/matrix](https://github.com/mypdns/matrix) - My Privacy DNS #Matrix lists for blacklisting
