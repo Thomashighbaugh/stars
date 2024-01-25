@@ -376,7 +376,6 @@
 - [lucagez/bars](https://github.com/lucagez/bars) - css progress bars made with svg patterns
 - [buseca/patternbolt](https://github.com/buseca/patternbolt) - A fine selection of SVG pattern background, packed in a single CSS or SCSS file. Add patterns just adding a class.
 - [fcnoronha/WordArtBot](https://github.com/fcnoronha/WordArtBot) - 🎨 The WordArt generator bot for Telegram @bestWordArtBot
-- [g-cqd/Fonts](https://github.com/g-cqd/Fonts) - A curation of fonts from all over the world.
 - [braintree/jsdoc-template](https://github.com/braintree/jsdoc-template) - A clean, responsive documentation template with search and navigation highlighting for JSDoc 3
 - [tobiasahlin/SpinKit](https://github.com/tobiasahlin/SpinKit) - A collection of loading indicators animated with CSS
 - [saishmhatre47/Artist-Portfolio](https://github.com/saishmhatre47/Artist-Portfolio) - My Art Website.
@@ -673,6 +672,7 @@
 - [leemunroe/responsive-html-email-template](https://github.com/leemunroe/responsive-html-email-template) - A free simple responsive HTML email template
 - [adevade/color-scheme-generator](https://github.com/adevade/color-scheme-generator) - When you just need some UI colors, fast.
 - [parikshit223933/Coding-Ninjas-Full-Stack-Web-Development](https://github.com/parikshit223933/Coding-Ninjas-Full-Stack-Web-Development) - It contains all the files I created during the MERN full stack web development course with coding ninjas
+- [CachyOS/CachyOS-Browser-Common](https://github.com/CachyOS/CachyOS-Browser-Common) - 
 - [henrylawson/photish-montage](https://github.com/henrylawson/photish-montage) - A demo site of Photish
 - [wangzhe3224/awesome-systematic-trading](https://github.com/wangzhe3224/awesome-systematic-trading) - A curated list of insanely awesome libraries, packages and resources for systematic trading. Crypto, Stock, Futures, Options, CFDs, FX, and more | 量化交易 | 量化投资
 - [themagicalmammal/dotfiles](https://github.com/themagicalmammal/dotfiles) - @themagicalmammal does dotfiles
@@ -700,6 +700,7 @@
 - [choubari/Glassmorphism-Portfolio](https://github.com/choubari/Glassmorphism-Portfolio) - Glassmorphism Portfolio Website built with HTML&CSS based on @developedbyed tutorial.
 - [Thomashighbaugh/html5-features](https://github.com/Thomashighbaugh/html5-features) - A quick demonstration of various html5 features.
 - [terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
+- [g-cqd/Fonts](https://github.com/g-cqd/Fonts) - A curation of fonts from all over the world.
 - [mdn/learning-area](https://github.com/mdn/learning-area) - GitHub repo for the MDN Learning Area.
 - [daattali/beautiful-jekyll](https://github.com/daattali/beautiful-jekyll) - ✨ Build a beautiful and simple website in literally minutes. Demo at https://beautifuljekyll.com
 - [github/training-kit](https://github.com/github/training-kit) - Open source courseware for Git and GitHub
@@ -1285,6 +1286,7 @@
 - [zbirenbaum/copilot-cmp](https://github.com/zbirenbaum/copilot-cmp) - Lua plugin to turn github copilot into a cmp source
 - [Gwynsav/gwileful](https://github.com/Gwynsav/gwileful) - Based on the modularized config of AWM, a retry of my setup.
 - [worron/redflat](https://github.com/worron/redflat) - Extension module for Awesome WM
+- [myagko/dotfiles](https://github.com/myagko/dotfiles) - My personal dotfiles
 - [folke/neodev.nvim](https://github.com/folke/neodev.nvim) - 💻  Neovim setup for init.lua and plugin development with full signature help, docs and completion for the nvim lua API.
 - [figsoda/nix-develop.nvim](https://github.com/figsoda/nix-develop.nvim) - Run `nix develop` without restarting neovim
 - [hidayry/awesomewm-dotfiles](https://github.com/hidayry/awesomewm-dotfiles) - dotfiles awesomewm
@@ -1852,6 +1854,7 @@
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
 - [kpollich/kylepolli.ch](https://github.com/kpollich/kylepolli.ch) - My personal blog built with Astro
 - [theodorusclarence/theodorusclarence.com](https://github.com/theodorusclarence/theodorusclarence.com) - 💠 Personal website and blog made using Next.js, TypeScript, Tailwind CSS, MDX Bundler, and Prisma with PostgreSQL
+- [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
 - [carbon-design-system/gatsby-theme-carbon](https://github.com/carbon-design-system/gatsby-theme-carbon) - A Carbon inspired Gatsby theme
 
 ## Makefile 
@@ -2591,7 +2594,7 @@
 - [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl) - Collect your thoughts and notes without leaving the command line.
 - [xyven1/nixos-configuration](https://github.com/xyven1/nixos-configuration) - 
 - [jbuchermn/newm](https://github.com/jbuchermn/newm) - Wayland compositor
-- [new92/IGFI](https://github.com/new92/IGFI) - 🤖 Script for increasing the number of followers of your Instagram account 📈
+- [new92/IGFI](https://github.com/new92/IGFI) - 🤖 Increase your followers on Instagram with IGFI 📈
 - [EvilDrPorkChop/OpenSea-NFT-Creator](https://github.com/EvilDrPorkChop/OpenSea-NFT-Creator) - A collection of python scripts which help you programatically create PNGs or GIFs and their Metadata in bulk with custom rarity rates, upload them to OpenSea & list them for sale.
 - [thiagokokada/nix-alien](https://github.com/thiagokokada/nix-alien) - Run unpatched binaries on Nix/NixOS
 - [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Monterey + Ventura + Sonoma support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
@@ -2620,7 +2623,6 @@
 - [kiddae/ImageColorizer](https://github.com/kiddae/ImageColorizer) - Make any wallpaper fit any terminal colorscheme.
 - [wodsuz/EasyApplyJobsBot](https://github.com/wodsuz/EasyApplyJobsBot) - A python bot to automatically apply all Linkedin,Glassdoor, etc Easy Apply jobs based on your preferences. Auto login, auto fill additional questions, apply automatically!
 - [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
-- [CachyOS/CachyOS-Browser-Common](https://github.com/CachyOS/CachyOS-Browser-Common) - 
 - [Phoenix124/scribd-downloader](https://github.com/Phoenix124/scribd-downloader) - 
 - [NoahCardoza/audiobookcup-dl](https://github.com/NoahCardoza/audiobookcup-dl) - Download audiobooks from audiobookcup.com
 - [ianling/glitchgen](https://github.com/ianling/glitchgen) - Randomly generates glitch pattern images
@@ -2930,7 +2932,6 @@
 ## SCSS 
 
 - [astrit/css.gg](https://github.com/astrit/css.gg) - 700+ Pure CSS, SVG, PNG & Figma UI Icons Available in SVG Sprite, styled-components, NPM & API and 6000 glyphs
-- [myagko/dotfiles](https://github.com/myagko/dotfiles) - My personal dotfiles
 - [Brendon3578/Nullstack-Todo](https://github.com/Brendon3578/Nullstack-Todo) - A simple Todo list application, created using the brazilian framework - Nullstack
 - [world-class/REPL](https://github.com/world-class/REPL) - The Learning Hub for UoL's Online CS Students
 - [numixproject/numix-gtk-theme](https://github.com/numixproject/numix-gtk-theme) - A modern flat theme with a combination of light and dark elements.
@@ -3544,7 +3545,7 @@
 - [react-icons/react-icons](https://github.com/react-icons/react-icons) - svg react icons of popular icon packs
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [cosmoscout/tasty.js](https://github.com/cosmoscout/tasty.js) - 🍰 A delicious Pie- and Marking-Menu Framework written in TypeScript.
-- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
+- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [anirudhvarma12/rabbit-hole-webext](https://github.com/anirudhvarma12/rabbit-hole-webext) - A Browser Extension to trace your Wikipedia Journeys
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [pawelmalak/flame](https://github.com/pawelmalak/flame) - Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors.
@@ -3570,7 +3571,6 @@
 - [adonig/nextjs-starter-preact-tailwindcss](https://github.com/adonig/nextjs-starter-preact-tailwindcss) - A Next.js starter project coming with Preact and Tailwind CSS built-in.
 - [remorses/dokz](https://github.com/remorses/dokz) - Effortless documentation with Next.js and MDX
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
-- [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
 - [trufflesuite/truffle](https://github.com/trufflesuite/truffle) - :warning: The Truffle Suite is being sunset. For information on ongoing support, migration options and FAQs, visit the Consensys blog. Thank you for all the support over the years.
 - [linnovate/mean](https://github.com/linnovate/mean) - The MEAN stack uses Mongo, Express, Angular(6) and Node for simple and scalable fullstack js applications
 - [nitin27may/mean-docker](https://github.com/nitin27may/mean-docker) - A Mean stack (Angular  17.0.3, Expressjs 4.17.1, MongoDB) jump start project with support of docker.
