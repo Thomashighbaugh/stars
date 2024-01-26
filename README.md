@@ -997,7 +997,7 @@
 - [mvximenko/flat-ui-colors](https://github.com/mvximenko/flat-ui-colors) - Clone of Flat UI Colors built with React
 - [mvximenko/gg](https://github.com/mvximenko/gg) - 
 - [mvximenko/rpg-card](https://github.com/mvximenko/rpg-card) - RPG Card Generator built with React
-- [brz0/morning-briefing](https://github.com/brz0/morning-briefing) - An open source, local browser homepage app - with custom config and widgets
+- [oddscenes/morning-briefing](https://github.com/oddscenes/morning-briefing) - An open source, local browser homepage app - with custom config and widgets
 - [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - :bathtub: Clean Code concepts adapted for JavaScript
 - [AVS1508/AVS1508.github.io](https://github.com/AVS1508/AVS1508.github.io) - Personal Résumé Website developed using ReactJS and Bootstrap and hosted on Github Pages. Displays my web presence, story, work experience, education, projects, achievements, and contact information.
 - [nextapps-de/winbox](https://github.com/nextapps-de/winbox) - WinBox is a modern HTML5 window manager for the web: lightweight, outstanding performance, no dependencies, fully customizable, open source!
@@ -1280,6 +1280,9 @@
 
 ## Lua 
 
+- [DanL2015/AwesomeWM](https://github.com/DanL2015/AwesomeWM) - An aesthetic AwesomeWM configuration
+- [rifsxd/oh-my-awesomewm-dots](https://github.com/rifsxd/oh-my-awesomewm-dots) - OMAWM - My person awesome window manager - themes - widgets  -  configs
+- [mahmoudk1000/awedots](https://github.com/mahmoudk1000/awedots) - my awesomewm config
 - [tsukki9696/dotfiles](https://github.com/tsukki9696/dotfiles) - Configuration files
 - [joepigott/dots](https://github.com/joepigott/dots) - dotfiles
 - [uga-rosa/cmp-dictionary](https://github.com/uga-rosa/cmp-dictionary) - A dictionary completion source for nvim-cmp
@@ -1890,6 +1893,7 @@
 
 ## Nix 
 
+- [mahmoudk1000/nix-config](https://github.com/mahmoudk1000/nix-config) - mahmoudk1000's nixos configuration
 - [LutrisEng/nix-fly-template](https://github.com/LutrisEng/nix-fly-template) - Build an application with Nix and deploy it on Fly.io
 - [oluceps/nixos-config](https://github.com/oluceps/nixos-config) - Declaritive personal configurations with Nix Flake
 - [Ruixi-rebirth/flakes](https://github.com/Ruixi-rebirth/flakes) - 在数字混沌的深渊中，一个独特的雪花诞生了，由古老的代码之焰锻造，赋予了Nix的精华。时间在此停滞，命运正被重写！
@@ -2088,6 +2092,7 @@
 - [kanashimia/nixos-config](https://github.com/kanashimia/nixos-config) - Configuration of my nixos systems.
 - [gautaz/phoenix](https://github.com/gautaz/phoenix) - Because I want my Nix workspaces to rise from their ashes
 - [wiltaylor/nix-iso](https://github.com/wiltaylor/nix-iso) - My collection of custom NixOS ISO files.
+- [adfaure/nix_configuration](https://github.com/adfaure/nix_configuration) - 
 - [LongerHV/nixos-configuration](https://github.com/LongerHV/nixos-configuration) - 
 - [cleverca22/not-os](https://github.com/cleverca22/not-os) - An operating system generator, based on NixOS, that, given a config, outputs a small (47 MB), read-only squashfs for a runit-based operating system, with support for iPXE and signed boot.
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
@@ -2174,7 +2179,6 @@
 - [ColorblindAdam/ChatGPTPrompts](https://github.com/ColorblindAdam/ChatGPTPrompts) - Prompts I have created or modified to use with ChatGPT
 - [ctjhoa/rust-learning](https://github.com/ctjhoa/rust-learning) - A bunch of links to blog posts, articles, videos, etc for learning Rust
 - [llZektorll/Template_Hub](https://github.com/llZektorll/Template_Hub) - Obsidian Template Hub started on the 13th of June 2022. It was set up to gather as many note templates as possible.
-- [wikibonsai/prompt](https://github.com/wikibonsai/prompt) - AI prompts to generate transplantable digital garden components.
 - [wikibonsai/garden-beds](https://github.com/wikibonsai/garden-beds) - Starter digital gardens
 - [yokoffing/ChatGPT-Prompts](https://github.com/yokoffing/ChatGPT-Prompts) - ChatGPT and Bing AI prompt curation
 - [FredaXin/itslit](https://github.com/FredaXin/itslit) - A GitHub template which you can use to create automated git commits daily
@@ -2615,7 +2619,6 @@
 - [avgupta456/github-trends](https://github.com/avgupta456/github-trends) - 🚀 Level up your GitHub profile readme with customizable cards including LOC statistics!
 - [EndeavourOS-Community-Editions/qtile](https://github.com/EndeavourOS-Community-Editions/qtile) - setup for Qtile EOS-CE
 - [fsquillace/pycious](https://github.com/fsquillace/pycious) - Simple and efficient widget library for the awesome window manager written in Python
-- [adfaure/nix_configuration](https://github.com/adfaure/nix_configuration) - 
 - [nwg-piotr/nwg-panel](https://github.com/nwg-piotr/nwg-panel) - GTK3-based panel for sway and Hyprland Wayland compositors
 - [ultrafunkamsterdam/undetected-chromedriver](https://github.com/ultrafunkamsterdam/undetected-chromedriver) - Custom Selenium Chromedriver | Zero-Config | Passes ALL bot mitigation systems (like Distil / Imperva/ Datadadome / CloudFlare IUAM)
 - [joelbarmettlerUZH/auto-tinder](https://github.com/joelbarmettlerUZH/auto-tinder) - 🖖 Train an artificial intelligence to play tinder for you
@@ -3082,7 +3085,7 @@
 - [Git-Fal7/artix-buildiso](https://github.com/Git-Fal7/artix-buildiso) - my buildisos for artix linux
 - [dovahkiin0424/artix-install](https://github.com/dovahkiin0424/artix-install) - Simple artix linux installer script. Just clone it and run the .sh file
 - [dharmx/dharmx](https://github.com/dharmx/dharmx) - Bleeding-edge dots.
-- [ereduled/artixBootstrap](https://github.com/ereduled/artixBootstrap) - Set up an opinionated artix Linux install in a jiffy
+- [autolisis/artixBootstrap](https://github.com/autolisis/artixBootstrap) - Set up an opinionated artix Linux install in a jiffy
 - [ODEX-TOS/wm-debug](https://github.com/ODEX-TOS/wm-debug) - A simple script to make debugging window manager easier
 - [jaromaz/MacintoshPi](https://github.com/jaromaz/MacintoshPi) - MacintoshPi is a project that allows running full-screen versions of Apple's Mac OS 7, Mac OS 8 and Mac OS 9 with sound, active online connection and modem emulation under Raspberry Pi.
 - [simoniz0r/OpenDM](https://github.com/simoniz0r/OpenDM) - WIP - A simple GUI Display Manager written entirely in bash that uses xinit to start X sessions
