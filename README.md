@@ -1338,7 +1338,7 @@
 - [PassiveLemon/lemonix](https://github.com/PassiveLemon/lemonix) - The Dotfiles for my NixOS systems
 - [gnomengineer/simpledesktop](https://github.com/gnomengineer/simpledesktop) - a lightweight and simple arch distro with own customization
 - [madhur/dotfiles](https://github.com/madhur/dotfiles) - Configuration files of my desktop computer running EndeavourOS Linux
-- [dangminhngo/xdotfiles](https://github.com/dangminhngo/xdotfiles) - My dotfiles on X (AwesomeWM)
+- [dangminhngo/awesome-dotfiles](https://github.com/dangminhngo/awesome-dotfiles) - My dotfiles on X (AwesomeWM)
 - [coderosh/.dots](https://github.com/coderosh/.dots) - 🐻 dots
 - [aarondill/awesome](https://github.com/aarondill/awesome) - My AwesomeWM configuration
 - [Nooo37/aww](https://github.com/Nooo37/aww) - 
@@ -1893,6 +1893,9 @@
 
 ## Nix 
 
+- [erikbackman/nixos-config](https://github.com/erikbackman/nixos-config) - My NixOS configuration
+- [jakeisnt/nixcfg](https://github.com/jakeisnt/nixcfg) - A modular, Wayland-enabled NixOS configuration.
+- [sodiboo/niri-flake](https://github.com/sodiboo/niri-flake) - flake for niri wayland compositor
 - [mahmoudk1000/nix-config](https://github.com/mahmoudk1000/nix-config) - mahmoudk1000's nixos configuration
 - [LutrisEng/nix-fly-template](https://github.com/LutrisEng/nix-fly-template) - Build an application with Nix and deploy it on Fly.io
 - [oluceps/nixos-config](https://github.com/oluceps/nixos-config) - Declaritive personal configurations with Nix Flake
@@ -1934,7 +1937,7 @@
 - [ethangillengg/dotfiles](https://github.com/ethangillengg/dotfiles) - My NixOS configuration and dotfiles! ❄️
 - [Weathercold/nixfiles](https://github.com/Weathercold/nixfiles) - Dotfiles powered by Nix™ (plus package overlay)
 - [gotlougit/nix-config](https://github.com/gotlougit/nix-config) - A NixOS config from installation to user configs
-- [ErrorNoInternet/configuration.nix](https://github.com/ErrorNoInternet/configuration.nix) - My NixOS configuration files
+- [ErrorNoInternet/configuration.nix](https://github.com/ErrorNoInternet/configuration.nix) - My NixOS configuration
 - [mirkolenz/nixos](https://github.com/mirkolenz/nixos) - Personal nix-based configuration for all my computers and servers
 - [futile/nixos-config](https://github.com/futile/nixos-config) - My NixOS configs
 - [dev-null-undefined/NixOs](https://github.com/dev-null-undefined/NixOs) - 
@@ -2531,6 +2534,8 @@
 
 ## Python 
 
+- [Deleh/huepaper](https://github.com/Deleh/huepaper) - A colorful wallpaper generator
+- [sharedordaz/Shared-AwesomeAppMenu](https://github.com/sharedordaz/Shared-AwesomeAppMenu) - Tool to create a menu of installed applications for the awesome window manager
 - [Shinyzenith/NextWM](https://github.com/Shinyzenith/NextWM) - Wayland compositing window manager written in python.
 - [mparje/novel-writer](https://github.com/mparje/novel-writer) - AI generation of full length coherent novels from simple prompts.
 - [DevilsNerve/Python-openai-markdown-book-writer](https://github.com/DevilsNerve/Python-openai-markdown-book-writer) - OpenAI Markdown Book Writer: Auto-generate books in Markdown format using OpenAI's GPT API.
@@ -3743,6 +3748,7 @@
 
 ## Zig 
 
+- [malcolmstill/foxwhale](https://github.com/malcolmstill/foxwhale) - A Wayland compositor written in Zig
 - [waycrate/NextWM](https://github.com/waycrate/NextWM) - Manual tiling wayland compositor. ( Work In Progress )
 - [riverwm/river](https://github.com/riverwm/river) - A dynamic tiling Wayland compositor
 
