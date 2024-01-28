@@ -822,7 +822,7 @@
 - [nordicgiant2/react-nice-resume](https://github.com/nordicgiant2/react-nice-resume) - A React.js Nice Resume Template
 - [stevej2608/react-mosaic-cra](https://github.com/stevej2608/react-mosaic-cra) - Implementation, in JavaScript, of the react-mosaic demo
 - [instant-dev/api](https://github.com/instant-dev/api) - Instant API: Build type-safe web APIs with JavaScript
-- [cypotat/react-daisyui-template](https://github.com/cypotat/react-daisyui-template) - Template for quickly creating new applications using React, Tailwind and daisyUI
+- [potat-dev/react-daisyui-template](https://github.com/potat-dev/react-daisyui-template) - Template for quickly creating new applications using React, Tailwind and daisyUI
 - [adrianhajdin/project_next_14_ai_prompt_sharing](https://github.com/adrianhajdin/project_next_14_ai_prompt_sharing) - Next.js recently became the official React framework as outlined in React docs. In this course, you'll learn the most important Next.js concepts and how they fit into the React ecosystem. Finally, you
 - [integrateme-co/integrate-io](https://github.com/integrateme-co/integrate-io) - Cross-Post your blogs between dev.to, Medium and Hashnode 🔀
 - [themefisher/bookworm-light-nextjs](https://github.com/themefisher/bookworm-light-nextjs) - Bookworm is a minimal NextJs, Tailwind CSS blog starter template.
@@ -3598,7 +3598,7 @@
 - [Charlie85270/tail-kit](https://github.com/Charlie85270/tail-kit) - Tail-kit is a free and open source components and templates kit fully coded with Tailwind css 3.0.
 - [windicss/windicss](https://github.com/windicss/windicss) - Next generation utility-first CSS framework.
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
-- [heysafronov/square-react-dashboard](https://github.com/heysafronov/square-react-dashboard) - 👨‍🎤 React Dashboard Template built with TypeScript
+- [heysafronov/square-react-dashboard](https://github.com/heysafronov/square-react-dashboard) - [2018] React Dashboard Template built with TypeScript
 - [framer/motion](https://github.com/framer/motion) - Open source, production-ready animation and gesture library for React
 - [Thomashighbaugh/Personal-Site](https://github.com/Thomashighbaugh/Personal-Site) - My portfolio site's new form and fresh branding
 - [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
