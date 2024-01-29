@@ -778,7 +778,7 @@
 - [zjkhiyori/hack-root](https://github.com/zjkhiyori/hack-root) - Android APP get root-level permissions without rooted system
 - [brucetieu/JobApplicationBot](https://github.com/brucetieu/JobApplicationBot) - An Indeed, Glassdoor, and LinkedIn job application Bot.
 - [hackpad/hackpad](https://github.com/hackpad/hackpad) - Hackpad is a web-based realtime wiki.
-- [amitshekhariitbhu/android-interview-questions](https://github.com/amitshekhariitbhu/android-interview-questions) - Your Cheat Sheet For Android Interview - Android Interview Questions
+- [amitshekhariitbhu/android-interview-questions](https://github.com/amitshekhariitbhu/android-interview-questions) - Your Cheat Sheet For Android Interview - Android Interview Questions and Answers
 - [neoedmund/neoeedit](https://github.com/neoedmund/neoeedit) - neoeedit - a smart, light, powerful text editor.
 - [clojure/clojure](https://github.com/clojure/clojure) - The Clojure programming language
 - [linuxserver/fleet](https://github.com/linuxserver/fleet) - Status and image fleet metadata management application for Docker images
@@ -1898,7 +1898,7 @@
 - [sodiboo/niri-flake](https://github.com/sodiboo/niri-flake) - flake for niri wayland compositor
 - [mahmoudk1000/nix-config](https://github.com/mahmoudk1000/nix-config) - mahmoudk1000's nixos configuration
 - [LutrisEng/nix-fly-template](https://github.com/LutrisEng/nix-fly-template) - Build an application with Nix and deploy it on Fly.io
-- [oluceps/nixos-config](https://github.com/oluceps/nixos-config) - Declaritive personal configurations with Nix Flake
+- [oluceps/nixos-config](https://github.com/oluceps/nixos-config) - My personal NixOS configurations with Flake
 - [Ruixi-rebirth/flakes](https://github.com/Ruixi-rebirth/flakes) - 在数字混沌的深渊中，一个独特的雪花诞生了，由古老的代码之焰锻造，赋予了Nix的精华。时间在此停滞，命运正被重写！
 - [dr460nf1r3/dr460nixed](https://github.com/dr460nf1r3/dr460nixed) - Dr460nixed NixOS 🐉❄️
 - [m0lentum/dotfiles](https://github.com/m0lentum/dotfiles) - My NixOS config
