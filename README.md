@@ -1389,7 +1389,7 @@
 - [lgi-devs/lgi](https://github.com/lgi-devs/lgi) - Dynamic Lua binding to GObject libraries using GObject-Introspection
 - [Ramzi-B/awesome-brainwork](https://github.com/Ramzi-B/awesome-brainwork) - Awesome WM custom themes
 - [WillianPaiva/awesome-wm](https://github.com/WillianPaiva/awesome-wm) - 
-- [garado/cozy](https://github.com/garado/cozy) - a practical + productive setup
+- [garado/cozy](https://github.com/garado/cozy) - a practical and productive awm setup
 - [mdmrk/policromia](https://github.com/mdmrk/policromia) - Lightweight aesthetic AwesomeWM dotfiles 🦜
 - [JayJaySea/dotfiles](https://github.com/JayJaySea/dotfiles) - 
 - [jpreagan/nixos-config](https://github.com/jpreagan/nixos-config) - ❄ My system configuration files using NixOS, nix-darwin, and home-manager.
@@ -2162,6 +2162,7 @@
 
 ## Others 
 
+- [barrosohub/remote-jobs-for-devs](https://github.com/barrosohub/remote-jobs-for-devs) - 🔍 Are you searching for remote job opportunities? Our repository offers a curated list of remote job platforms, from software development to customer service, with regular updates. Browse our list and
 - [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository will assist you in creating a more beautiful and appealing github profile, and you will have access to a comprehensive range of tools and tutorials for beautifying your github profile.
 - [sanidhyy/sanidhyy](https://github.com/sanidhyy/sanidhyy) - :octocat: Hello there! This repository is for the welcome message on my Github Profile.
 - [ink-cow/ko-templates](https://github.com/ink-cow/ko-templates) - Templates for creating comics in Krita
@@ -2534,6 +2535,10 @@
 
 ## Python 
 
+- [daveshap/AutoMuse2](https://github.com/daveshap/AutoMuse2) - experiment to generate novel-length fiction from a single story premise
+- [majikthise911/Book-Writer-A.I](https://github.com/majikthise911/Book-Writer-A.I) - using the chat gpt api I programmed an application that could write an entire 300 page book with no input
+- [LoganCButler/gpt-writing-editor](https://github.com/LoganCButler/gpt-writing-editor) - A repository for sharing how I drafted a book using a class lecture transcript.
+- [hartnady/bookwriter](https://github.com/hartnady/bookwriter) - Python GPT Book Writer
 - [Deleh/huepaper](https://github.com/Deleh/huepaper) - A colorful wallpaper generator
 - [sharedordaz/Shared-AwesomeAppMenu](https://github.com/sharedordaz/Shared-AwesomeAppMenu) - Tool to create a menu of installed applications for the awesome window manager
 - [Shinyzenith/NextWM](https://github.com/Shinyzenith/NextWM) - Wayland compositing window manager written in python.
