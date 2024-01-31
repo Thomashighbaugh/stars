@@ -286,6 +286,7 @@
 
 ## CSS 
 
+- [simplysabir/AI-Writing-Assistant](https://github.com/simplysabir/AI-Writing-Assistant) - DeepWrite AI is Made with the Help of ChatGPT3 and Specific Model is Prepared for Generating Perfect Blog Post with atmost Clarity.  This is Just the Version 1.0 More Improvement Will be Implemented.
 - [kkothari2001/twAIn](https://github.com/kkothari2001/twAIn) - An AI that creates incredible stories!
 - [krryptonian/Creating-Chatbot-Using-Python-Flask-and-DialogFlow](https://github.com/krryptonian/Creating-Chatbot-Using-Python-Flask-and-DialogFlow) - This is a webhook made in python (Flask) to perform actions in Dialogflow chatbot.
 - [vinceliuice/Fluent-gtk-theme](https://github.com/vinceliuice/Fluent-gtk-theme) - Fluent design gtk theme for linux desktops
@@ -1315,7 +1316,7 @@
 - [folke/edgy.nvim](https://github.com/folke/edgy.nvim) - Easily create and manage predefined window layouts, bringing a new edge to your workflow
 - [mrjones2014/dotfiles](https://github.com/mrjones2014/dotfiles) - ❄️ My dotfiles for NixOS and macOS as a Nix flake. Neovim, Fish shell, Wezterm, etc.
 - [neph-iap/forge.nvim](https://github.com/neph-iap/forge.nvim) - Language tool manager for Neovim using mason.nvim, nvim-treesitter, and more.
-- [MobSenpai/sugoi](https://github.com/MobSenpai/sugoi) - すごい Sugoi | Comfy environment for AwesomeWM
+- [mobsenpai/sugoi](https://github.com/mobsenpai/sugoi) - すごい Sugoi | Comfy environment for AwesomeWM
 - [folke/null-ls.nvim](https://github.com/folke/null-ls.nvim) - Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.
 - [mncc8337/dotfiles](https://github.com/mncc8337/dotfiles) - my awesomewm dotfiles
 - [PoisonIsBestType/dotfiles](https://github.com/PoisonIsBestType/dotfiles) - awesomewm setup config files
@@ -1893,6 +1894,7 @@
 
 ## Nix 
 
+- [nix-community/disko](https://github.com/nix-community/disko) - Declarative disk partitioning and formatting using nix [maintainer=@Lassulus]
 - [erikbackman/nixos-config](https://github.com/erikbackman/nixos-config) - My NixOS configuration
 - [jakeisnt/nixcfg](https://github.com/jakeisnt/nixcfg) - A modular, Wayland-enabled NixOS configuration.
 - [sodiboo/niri-flake](https://github.com/sodiboo/niri-flake) - flake for niri wayland compositor
@@ -2029,7 +2031,7 @@
 - [myme/dotfiles](https://github.com/myme/dotfiles) - My collection of dotfiles
 - [etu/nixconfig](https://github.com/etu/nixconfig) - My NixOS config
 - [c0c0n3/nixie](https://github.com/c0c0n3/nixie) - Personal, micro distro built on NixOS
-- [MobSenpai/dotfiles](https://github.com/MobSenpai/dotfiles) - ❄ Configuration For The Best Declarative Linux Distro, NixOS!
+- [mobsenpai/hana](https://github.com/mobsenpai/hana) - 花 - Hana | Nixos dotfiles
 - [redcode-labs/RedNixOS](https://github.com/redcode-labs/RedNixOS) - NixOS-based 'distro' for cybersecurity enthusiasts
 - [kittywitch/infrastructure](https://github.com/kittywitch/infrastructure) - Personal infrastructure repository
 - [barrucadu/nixfiles](https://github.com/barrucadu/nixfiles) - My NixOS configuration and assorted other crap.
@@ -2127,6 +2129,7 @@
 - [rxyhn/yuki](https://github.com/rxyhn/yuki) - 雪 - Yuki | Snowflake  :snowflake:
 - [nix-community/nixvim](https://github.com/nix-community/nixvim) - Configure Neovim with Nix! [maintainer=@pta2002, @traxys, @GaetanLepage]
 - [LEXUGE/flake](https://github.com/LEXUGE/flake) - Deterministic Configurations
+- [Athena-OS/athena-nix](https://github.com/Athena-OS/athena-nix) - Athena OS is a NixOS-based distro focused on Cybersecurity. Learn, practice and enjoy with any hacking tool!
 - [Misterio77/nix-starter-configs](https://github.com/Misterio77/nix-starter-configs) - Simple and documented config templates to help you get started with NixOS + home-manager + flakes. All the boilerplate you need!
 - [syncom/custom_nixos_iso](https://github.com/syncom/custom_nixos_iso) - Build custom nixOS ISO
 - [notusknot/dotfiles-nix](https://github.com/notusknot/dotfiles-nix) - Configuration files for my NixOS machine, declared by home-manager
@@ -2162,6 +2165,7 @@
 
 ## Others 
 
+- [mundimark/awesome-markdown](https://github.com/mundimark/awesome-markdown) - A collection of awesome markdown goodies (libraries, services, editors, tools, cheatsheets, etc.)
 - [barrosohub/remote-jobs-for-devs](https://github.com/barrosohub/remote-jobs-for-devs) - 🔍 Are you searching for remote job opportunities? Our repository offers a curated list of remote job platforms, from software development to customer service, with regular updates. Browse our list and
 - [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository will assist you in creating a more beautiful and appealing github profile, and you will have access to a comprehensive range of tools and tutorials for beautifying your github profile.
 - [sanidhyy/sanidhyy](https://github.com/sanidhyy/sanidhyy) - :octocat: Hello there! This repository is for the welcome message on my Github Profile.
@@ -2210,7 +2214,7 @@
 - [humancalico/nix-learning](https://github.com/humancalico/nix-learning) - A bunch of links to blog posts, articles, videos, etc for learning Nix
 - [teal33t/osint-notes](https://github.com/teal33t/osint-notes) - Good info about DeepWeb and OSINT
 - [chow-petit/awesome-curated-tools](https://github.com/chow-petit/awesome-curated-tools) - A curated list of digital tools we use, ranging from accounting and data science to scientific research and liquid democracy. Commented, connected, by everyone and for everyone !
-- [himhaidar/curated-fullstack-books](https://github.com/himhaidar/curated-fullstack-books) - A curated list of full-stack development books.
+- [himhaidar7/curated-fullstack-books](https://github.com/himhaidar7/curated-fullstack-books) - A curated list of full-stack development books.
 - [pawamoy/awesome-repository](https://github.com/pawamoy/awesome-repository) - A curated list of services, tools and standards about (open source) repository management.
 - [learn-anything/documentaries](https://github.com/learn-anything/documentaries) - Awesome Documentaries
 - [AthenaAI/community-search](https://github.com/AthenaAI/community-search) - A community-curated repository of 🔥 learning resources
@@ -2860,6 +2864,7 @@
 
 ## Rust 
 
+- [aralroca/aralroca](https://github.com/aralroca/aralroca) - My GitHub profile
 - [MrSupiri/Tera](https://github.com/MrSupiri/Tera) - Tera is an AI assistant which is tailored just for you and runs fully locally.
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern, maintained replacement for ls
 - [will/oblique](https://github.com/will/oblique) - a random oblique strategy
@@ -3074,7 +3079,6 @@
 - [ivan-hc/AM-Application-Manager](https://github.com/ivan-hc/AM-Application-Manager) - AppImage manager/installer/updater with a growing AUR-inspired database, now including 1800+ AppImage packages and official standalone apps (from tar* and zip archives) for GNU/Linux. "AM" also provid
 - [metis-os/metis-sideload](https://github.com/metis-os/metis-sideload) - // Ofiicial installer for @metis-os
 - [metis-os/repo-recon](https://github.com/metis-os/repo-recon) - 📦 Repository: recon, Hacking tools // pkgs
-- [Athena-OS/athena-iso](https://github.com/Athena-OS/athena-iso) - Athena OS is an Arch Linux-based distro focused on Cybersecurity. Learn, practice and enjoy with any hacking tool!
 - [archon-linux/archon-iso](https://github.com/archon-linux/archon-iso) - 
 - [SeveredinTwain/nemesis](https://github.com/SeveredinTwain/nemesis) - Custom Linux ISO Build
 - [wenerme/alpine-image](https://github.com/wenerme/alpine-image) - AlpineLinux pre-build disk images
@@ -3546,7 +3550,7 @@
 - [Ekliptor/WolfBot](https://github.com/Ekliptor/WolfBot) - Crypto currency trading bot written in TypeScript for NodeJS
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [Thomashighbaugh/biolink](https://github.com/Thomashighbaugh/biolink) - A temporary solution for my linktree-alternative needs. Because its much easier to type out just one link than a dozen.
-- [withastro/astro](https://github.com/withastro/astro) - The web framework that scales with you — Build fast content sites, powerful web applications, dynamic server APIs, and everything in-between ⭐️ Star to support our work!
+- [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
 - [alekangelov/nt-dashboard](https://github.com/alekangelov/nt-dashboard) - A simple, fast and customizable dashboard for your new tab.
 - [abhijhacodes/linkhub](https://github.com/abhijhacodes/linkhub) - Share all your links with just one link &lt;3
 - [GypsyDangerous/OneLink](https://github.com/GypsyDangerous/OneLink) - 🔗 OneLink is a linktree and flowpage clone built with Nextjs, MongoDb, and GraphQL
