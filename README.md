@@ -309,6 +309,7 @@
 - [RLesur/pulpdown](https://github.com/RLesur/pulpdown) - A bookdown template with CSS paged media for pulp magazines (demo)
 - [Ritika-Agrawal811/storyboard-template](https://github.com/Ritika-Agrawal811/storyboard-template) - A storyboard template made using HTML and CSS.
 - [Sinomor/dotfiles](https://github.com/Sinomor/dotfiles) - awesomewm dotfiles
+- [xenoxanite/flakes](https://github.com/xenoxanite/flakes) - Xenoxanite's nixos configuration.
 - [Thomashighbaugh/gpt_notebook](https://github.com/Thomashighbaugh/gpt_notebook) - A Markdown Notebook about LLMs and Generative AI rendered into a website using MDBook and GitHub Actions. Featues my collection of prompts for ChatGPT/GPT-3
 - [7KIR7/dots](https://github.com/7KIR7/dots) - my dotfiles
 - [Stetsed/.dotfiles](https://github.com/Stetsed/.dotfiles) - My dotfiles repository
@@ -1746,7 +1747,6 @@
 - [shagu/dotfiles](https://github.com/shagu/dotfiles) - 
 - [jcrd/dovetail](https://github.com/jcrd/dovetail) - An opinionated tiling window manager
 - [no3l0815/awesome-config](https://github.com/no3l0815/awesome-config) - My configuration for the awesome window manager
-- [yrwq/dotfiles](https://github.com/yrwq/dotfiles) - :house: ~/
 - [dpetersen/awesome](https://github.com/dpetersen/awesome) - Config for AwesomeWM
 - [d-k-ivanov/awesomewm-conf](https://github.com/d-k-ivanov/awesomewm-conf) - Awesome WM config with widgets
 - [undefinedDarkness/rice](https://github.com/undefinedDarkness/rice) - Home Sweet Home
@@ -1963,7 +1963,6 @@
 - [srid/nix-config](https://github.com/srid/nix-config) - My NixOS configuration (DEPRECATED)
 - [lucernae/nixos-pi](https://github.com/lucernae/nixos-pi) - How to install NixOS on raspberry PI
 - [Xe/nixos-configs](https://github.com/Xe/nixos-configs) - My NixOS configs
-- [xenoxanite/flakes](https://github.com/xenoxanite/flakes) - Xenoxanite's nixos configuration.
 - [qbit/xin](https://github.com/qbit/xin) - My nix setup
 - [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@rycee]
 - [buffet/amirice](https://github.com/buffet/amirice) - tara config
