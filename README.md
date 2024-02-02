@@ -309,7 +309,6 @@
 - [RLesur/pulpdown](https://github.com/RLesur/pulpdown) - A bookdown template with CSS paged media for pulp magazines (demo)
 - [Ritika-Agrawal811/storyboard-template](https://github.com/Ritika-Agrawal811/storyboard-template) - A storyboard template made using HTML and CSS.
 - [Sinomor/dotfiles](https://github.com/Sinomor/dotfiles) - awesomewm dotfiles
-- [xenoxanite/flakes](https://github.com/xenoxanite/flakes) - Xenoxanite's nixos configuration.
 - [Thomashighbaugh/gpt_notebook](https://github.com/Thomashighbaugh/gpt_notebook) - A Markdown Notebook about LLMs and Generative AI rendered into a website using MDBook and GitHub Actions. Featues my collection of prompts for ChatGPT/GPT-3
 - [7KIR7/dots](https://github.com/7KIR7/dots) - my dotfiles
 - [Stetsed/.dotfiles](https://github.com/Stetsed/.dotfiles) - My dotfiles repository
@@ -1723,7 +1722,6 @@
 - [figsoda/cfg](https://github.com/figsoda/cfg) - My NixOS configuration featuring awesome and neovim
 - [zliebersbach/awesome-md-cfg](https://github.com/zliebersbach/awesome-md-cfg) - Awesome WM configuration for multiple monitors, inspired by the Material Design guidelines.
 - [aidanharris/awesome-config](https://github.com/aidanharris/awesome-config) - My config files for the Awesome window manager
-- [jcrd/awesome-config-deprecated](https://github.com/jcrd/awesome-config-deprecated) - AwesomeWM configuration
 - [Ddorda/awesome](https://github.com/Ddorda/awesome) - My Awesome WM configuration
 - [ckoparkar/awesome-wm-config](https://github.com/ckoparkar/awesome-wm-config) - Configuration files for Awesome WM.
 - [ruslansin/snsome](https://github.com/ruslansin/snsome) - This is my theme for awesomeWM 4.1+. I am trying to use it as my main WM and customize it for myself
@@ -1963,6 +1961,7 @@
 - [srid/nix-config](https://github.com/srid/nix-config) - My NixOS configuration (DEPRECATED)
 - [lucernae/nixos-pi](https://github.com/lucernae/nixos-pi) - How to install NixOS on raspberry PI
 - [Xe/nixos-configs](https://github.com/Xe/nixos-configs) - My NixOS configs
+- [xenoxanite/flakes](https://github.com/xenoxanite/flakes) - Xenoxanite's nixos configuration.
 - [qbit/xin](https://github.com/qbit/xin) - My nix setup
 - [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@rycee]
 - [buffet/amirice](https://github.com/buffet/amirice) - tara config
@@ -2164,6 +2163,7 @@
 
 ## Others 
 
+- [manuscripts/book-starter](https://github.com/manuscripts/book-starter) - Book Quick Starter Kit - Write Your Own Book in Plain Text (with Markdown)
 - [mundimark/awesome-markdown](https://github.com/mundimark/awesome-markdown) - A collection of awesome markdown goodies (libraries, services, editors, tools, cheatsheets, etc.)
 - [barrosohub/remote-jobs-for-devs](https://github.com/barrosohub/remote-jobs-for-devs) - 🔍 Are you searching for remote job opportunities? Our repository offers a curated list of remote job platforms, from software development to customer service, with regular updates. Browse our list and
 - [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository will assist you in creating a more beautiful and appealing github profile, and you will have access to a comprehensive range of tools and tutorials for beautifying your github profile.
