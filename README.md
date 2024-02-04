@@ -2539,6 +2539,7 @@
 
 ## Python 
 
+- [MIDORIBIN/langchain-gpt4free](https://github.com/MIDORIBIN/langchain-gpt4free) - LangChain x gpt4free
 - [daveshap/AutoMuse2](https://github.com/daveshap/AutoMuse2) - experiment to generate novel-length fiction from a single story premise
 - [majikthise911/Book-Writer-A.I](https://github.com/majikthise911/Book-Writer-A.I) - using the chat gpt api I programmed an application that could write an entire 300 page book with no input
 - [LoganCButler/gpt-writing-editor](https://github.com/LoganCButler/gpt-writing-editor) - A repository for sharing how I drafted a book using a class lecture transcript.
@@ -2612,7 +2613,7 @@
 - [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl) - Collect your thoughts and notes without leaving the command line.
 - [xyven1/nixos-configuration](https://github.com/xyven1/nixos-configuration) - 
 - [jbuchermn/newm](https://github.com/jbuchermn/newm) - Wayland compositor
-- [new92/IGFI](https://github.com/new92/IGFI) - 🤖 Increase your followers on Instagram with IGFI 📈
+- [new92/IGFI](https://github.com/new92/IGFI) - 🤖 Instagram followers increaser 📈
 - [EvilDrPorkChop/OpenSea-NFT-Creator](https://github.com/EvilDrPorkChop/OpenSea-NFT-Creator) - A collection of python scripts which help you programatically create PNGs or GIFs and their Metadata in bulk with custom rarity rates, upload them to OpenSea & list them for sale.
 - [thiagokokada/nix-alien](https://github.com/thiagokokada/nix-alien) - Run unpatched binaries on Nix/NixOS
 - [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Monterey + Ventura + Sonoma support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
