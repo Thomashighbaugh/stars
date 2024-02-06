@@ -95,7 +95,7 @@
 
 ## Astro 
 
-- [nevercaster/escapeland](https://github.com/nevercaster/escapeland) - 📺 A retro portfolio template powered by Sanity
+- [kranachan/escapeland](https://github.com/kranachan/escapeland) - 📺 A retro portfolio template powered by Sanity
 
 ## Batchfile 
 
@@ -1288,7 +1288,7 @@
 - [joepigott/dots](https://github.com/joepigott/dots) - dotfiles
 - [uga-rosa/cmp-dictionary](https://github.com/uga-rosa/cmp-dictionary) - A dictionary completion source for nvim-cmp
 - [zbirenbaum/copilot-cmp](https://github.com/zbirenbaum/copilot-cmp) - Lua plugin to turn github copilot into a cmp source
-- [Gwynsav/gwileful](https://github.com/Gwynsav/gwileful) - Based on the modularized config of AWM, a retry of my setup.
+- [Gwynsav/old_gwileful](https://github.com/Gwynsav/old_gwileful) - Based on the modularized config of AWM, a retry of my setup.
 - [worron/redflat](https://github.com/worron/redflat) - Extension module for Awesome WM
 - [myagko/dotfiles](https://github.com/myagko/dotfiles) - My personal dotfiles
 - [folke/neodev.nvim](https://github.com/folke/neodev.nvim) - 💻  Neovim setup for init.lua and plugin development with full signature help, docs and completion for the nvim lua API.
@@ -1973,7 +1973,6 @@
 - [selfuryon/nixos-config](https://github.com/selfuryon/nixos-config) - My NixOS Configuration
 - [cmacrae/config](https://github.com/cmacrae/config) - A collection of machine configurations, expressed in Nix
 - [linuxmobile/kaku](https://github.com/linuxmobile/kaku) - 革 | kaku
-- [javacafe01/dotfiles](https://github.com/javacafe01/dotfiles) - My NixOS configurations for various systems
 - [shaunsingh/nixpkgs-s2k](https://github.com/shaunsingh/nixpkgs-s2k) - Shaunsingh's stash of fresh packages
 - [AntonHakansson/nixos-config](https://github.com/AntonHakansson/nixos-config) - NixOS configuration of my machines
 - [smashstate/gnome-manager](https://github.com/smashstate/gnome-manager) - NixOS module for GNOME configuration
@@ -2613,7 +2612,7 @@
 - [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl) - Collect your thoughts and notes without leaving the command line.
 - [xyven1/nixos-configuration](https://github.com/xyven1/nixos-configuration) - 
 - [jbuchermn/newm](https://github.com/jbuchermn/newm) - Wayland compositor
-- [new92/IGFI](https://github.com/new92/IGFI) - 🤖 Instagram followers increaser 📈
+- [new92/IGFI](https://github.com/new92/IGFI) - 🤖 Increase your followers on Instagram with IGFI 📈
 - [EvilDrPorkChop/OpenSea-NFT-Creator](https://github.com/EvilDrPorkChop/OpenSea-NFT-Creator) - A collection of python scripts which help you programatically create PNGs or GIFs and their Metadata in bulk with custom rarity rates, upload them to OpenSea & list them for sale.
 - [thiagokokada/nix-alien](https://github.com/thiagokokada/nix-alien) - Run unpatched binaries on Nix/NixOS
 - [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Monterey + Ventura + Sonoma support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
@@ -2865,6 +2864,9 @@
 
 ## Rust 
 
+- [ntex-rs/ntex](https://github.com/ntex-rs/ntex) - framework for composable networking services
+- [tokio-rs/axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper
+- [poem-web/poem](https://github.com/poem-web/poem) - A full-featured and easy-to-use web framework with the Rust programming language.
 - [aralroca/aralroca](https://github.com/aralroca/aralroca) - My GitHub profile
 - [MrSupiri/Tera](https://github.com/MrSupiri/Tera) - Tera is an AI assistant which is tailored just for you and runs fully locally.
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern, maintained replacement for ls
@@ -3224,7 +3226,7 @@
 - [void-linux/void-mklive](https://github.com/void-linux/void-mklive) - The Void Linux live image maker
 - [sinetoami/vpsm](https://github.com/sinetoami/vpsm) - vpsm - Void-Packages Sources Management wrapper for XBPS-SRC
 - [bahamas10/bash-vsv](https://github.com/bahamas10/bash-vsv) - Manage and view runit services
-- [ifreund/dotfiles](https://github.com/ifreund/dotfiles) - My configuration for void linux and river
+- [ifreund/dotfiles](https://github.com/ifreund/dotfiles) - My configuration for chimera linux and river
 - [rabbitinspace/abyss](https://github.com/rabbitinspace/abyss) - Another Void Linux bootstrap for UEFI systems written in Fish.
 - [leafhy/void-linux-installer](https://github.com/leafhy/void-linux-installer) - Bash script to install Void Linux
 - [thomashoullier/voidlinux-install](https://github.com/thomashoullier/voidlinux-install) - Void Linux installation script.
