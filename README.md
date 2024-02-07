@@ -874,6 +874,7 @@
 - [Sanatana-Linux/mahakali-webkit2-theme](https://github.com/Sanatana-Linux/mahakali-webkit2-theme) - A LightDM Webkit 2 Greeter Theme for the Electric Tantra Linux
 - [Laverna/laverna](https://github.com/Laverna/laverna) - Laverna is a JavaScript note taking application with Markdown editor and encryption support. Consider it like open source alternative to Evernote.
 - [zadam/trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
+- [WillPower3309/nixos-config](https://github.com/WillPower3309/nixos-config) - My personal nixos config
 - [dezgo-com/example-nodejs-simple](https://github.com/dezgo-com/example-nodejs-simple) - Minimal examples on how to use Dezgo's text2image / image2image / inpainting endpoints with NodeJS
 - [sunner/ChatALL](https://github.com/sunner/ChatALL) - Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers
 - [GopalSaraf/Spotify_Crack_For_MacOS-Windows-Linux](https://github.com/GopalSaraf/Spotify_Crack_For_MacOS-Windows-Linux) - Spotify crack for MacOS, Windows and Linux
@@ -2532,7 +2533,7 @@
 ## PowerShell 
 
 - [alexfrancow/badusb_botnet](https://github.com/alexfrancow/badusb_botnet) - :busts_in_silhouette::smiling_imp: Infect a pc with badusb and establish a connection through telegram.
-- [dotnet/core](https://github.com/dotnet/core) - Home repository for .NET Core
+- [dotnet/core](https://github.com/dotnet/core) - .NET news, announcements, releases notes, and more!
 - [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) - A command-line installer for Windows.
 - [ChrisTitusTech/win10script](https://github.com/ChrisTitusTech/win10script) - This is the Ultimate Windows 10 Script from a creation from multiple debloat scripts and gists from github.
 
@@ -2917,7 +2918,7 @@
 - [evestera/svg-halftone](https://github.com/evestera/svg-halftone) - Tool for converting raster images to SVG halftone patterns
 - [mikeroyal/Linux-Guide](https://github.com/mikeroyal/Linux-Guide) - Linux Guide. Learn about Linux Hardware vendors, Linux in the Cloud, Desktop Environments, Window Mangers, Linux Distributions, Linux Security, Graphics (AMD/NVIDIA/Intel ARC), and Software Apps.
 - [sharkdp/vivid](https://github.com/sharkdp/vivid) - A themeable LS_COLORS generator with a rich filetype datebase
-- [Start9Labs/start-os](https://github.com/Start9Labs/start-os) - Browser-based, graphical operating system for a personal server.
+- [Start9Labs/start-os](https://github.com/Start9Labs/start-os) - Debian-based Server OS with web GUI
 - [jamestthompson3/tendril-wiki](https://github.com/jamestthompson3/tendril-wiki) - Personal knowledge management tool
 - [foresterre/sic](https://github.com/foresterre/sic) - 🦜 Accessible image processing and conversion from the terminal. Front-end for image-rs/image.
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
@@ -3034,7 +3035,6 @@
 - [jacg/nix-starters](https://github.com/jacg/nix-starters) - Templates for getting started with Nix: home-manager, Rust projects, Python projects, C++ projects, etc.
 - [benvonh/.snowflake](https://github.com/benvonh/.snowflake) - Nix flake configurations for NixOS and Home Manager
 - [a-schaefers/themelios](https://github.com/a-schaefers/themelios) - Bootstrap a zfs-on-root NixOS configuration in one command. Themelios automates the entire installation process using any NixOS livedisk with an internet connection and your git repo. Themelios is fle
-- [WillPower3309/nixos-config](https://github.com/WillPower3309/nixos-config) - My personal nixos config
 - [erikarvstedt/extra-container](https://github.com/erikarvstedt/extra-container) - Run declarative NixOS containers without full system rebuilds
 - [hpb0412/dotfiles](https://github.com/hpb0412/dotfiles) - My dot files collection over the time
 - [Distroshare/distroshare-ubuntu-imager](https://github.com/Distroshare/distroshare-ubuntu-imager) - Creates an installable live CD from an installed Ubuntu or derivative distribution
@@ -3079,7 +3079,7 @@
 - [noctuid/dotfiles](https://github.com/noctuid/dotfiles) - Mouseless Workflow (WIP)
 - [CachyOS/CachyOS-Live-ISO](https://github.com/CachyOS/CachyOS-Live-ISO) - 
 - [CachyOS/CachyOS-Settings](https://github.com/CachyOS/CachyOS-Settings) - Settings used for CachyOS
-- [ivan-hc/AM-Application-Manager](https://github.com/ivan-hc/AM-Application-Manager) - AppImage manager/installer/updater with a growing AUR-inspired database, now including 1800+ AppImage packages and official standalone apps (from tar* and zip archives) for GNU/Linux. "AM" also provid
+- [ivan-hc/AM](https://github.com/ivan-hc/AM) - AppImage manager/installer/updater and AUR-inspired database, now including 1800+ AppImage packages and official standalone apps (from tar* and zip archives) for GNU/Linux. "AM" Application Manager al
 - [metis-os/metis-sideload](https://github.com/metis-os/metis-sideload) - // Ofiicial installer for @metis-os
 - [metis-os/repo-recon](https://github.com/metis-os/repo-recon) - 📦 Repository: recon, Hacking tools // pkgs
 - [archon-linux/archon-iso](https://github.com/archon-linux/archon-iso) - 
