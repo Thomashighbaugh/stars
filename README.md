@@ -366,7 +366,7 @@
 - [tortious/MintyFox](https://github.com/tortious/MintyFox) - Customization of Firefox Quantum using userChrome, userContent, and various other files involving the userChrome.js hack that allows for uc.js docs to be incorporated.
 - [dannycolin/fx-compact-mode](https://github.com/dannycolin/fx-compact-mode) - A Compact Mode for Firefox Proton
 - [Godiesc/AlpenBlue](https://github.com/Godiesc/AlpenBlue) - Theme to blue lovers
-- [andreasgrafen/cascade](https://github.com/andreasgrafen/cascade) - A responsive One-Line CSS Theme for Firefox.
+- [cascadefox/cascade](https://github.com/cascadefox/cascade) - A responsive One-Line CSS Theme for Firefox.
 - [rtkay123/dotfiles](https://github.com/rtkay123/dotfiles) - 
 - [halfmoonui/halfmoon](https://github.com/halfmoonui/halfmoon) - Halfmoon is a highly customizable, drop-in Bootstrap replacement. It comes with three built-in core themes, with dark mode support for all themes and components.
 - [FrenzyExists/dotfiles](https://github.com/FrenzyExists/dotfiles) - My chaotic dotfiles, it ain't much, but its honest work
@@ -1226,6 +1226,7 @@
 
 ## Jupyter Notebook 
 
+- [dylanhogg/gptauthor](https://github.com/dylanhogg/gptauthor) - GPTAuthor is an AI tool for writing long form, multi-chapter stories given a story prompt.
 - [privateai/deid-examples](https://github.com/privateai/deid-examples) - Examples scripts that showcase how to use Private AI Text to de-identify, redact, hash, tokenize, mask and synthesize PII in text.
 - [Drizer909/GPTbook](https://github.com/Drizer909/GPTbook) - Made fully ai generater book version
 - [mshumer/gpt-author](https://github.com/mshumer/gpt-author) - 
@@ -1346,7 +1347,7 @@
 - [Nooo37/aww](https://github.com/Nooo37/aww) - 
 - [guotsuan/awesome-revelation](https://github.com/guotsuan/awesome-revelation) - Show all clients all screens in Awesome window manager
 - [mireq/awesome-wm-config](https://github.com/mireq/awesome-wm-config) - 
-- [RRethy/nvim-base16](https://github.com/RRethy/nvim-base16) - Neovim plugin for building a sync base16 colorscheme. Includes support for Treesitter and LSP highlight groups.
+- [RRethy/base16-nvim](https://github.com/RRethy/base16-nvim) - Neovim plugin for building a sync base16 colorscheme. Includes support for Treesitter and LSP highlight groups.
 - [nosvagor/dotfiles](https://github.com/nosvagor/dotfiles) - 🍙 my Personalized Development Environment [PDE]
 - [arsham/awesomewm-config](https://github.com/arsham/awesomewm-config) - Awesome Window Manager config
 - [gabeg805/awesomewm](https://github.com/gabeg805/awesomewm) - Configuration files for the Awesome window manager (WM) on Arch Linux.
@@ -1893,6 +1894,9 @@
 
 ## Nix 
 
+- [NixOS/nixos-org-configurations](https://github.com/NixOS/nixos-org-configurations) - NixOS configurations for nixos.org and its servers
+- [Melkor333/milkOS](https://github.com/Melkor333/milkOS) - something to NixOS similar to what Manjaro is to Arch linux. Let's hope it doesn't age as the name suggests...
+- [Melkor333/nixos-boot](https://github.com/Melkor333/nixos-boot) - A NixOS Plymouth theme displaying a fancy growing and shrinking NixOS Logo
 - [n3oney/nixus](https://github.com/n3oney/nixus) - My NixOS configuration.
 - [fufexan/dotfiles](https://github.com/fufexan/dotfiles) - NixOS system config & Home-Manager user config
 - [nix-community/disko](https://github.com/nix-community/disko) - Declarative disk partitioning and formatting using nix [maintainer=@Lassulus]
@@ -2166,6 +2170,11 @@
 
 ## Others 
 
+- [teoxoy/teoxoy](https://github.com/teoxoy/teoxoy) - github profile readme
+- [cheesits456/cheesits456](https://github.com/cheesits456/cheesits456) - 
+- [wordmaxai/awesome-chatgpt-prompts](https://github.com/wordmaxai/awesome-chatgpt-prompts) - Collection of awesome ChatGPT prompts to get better results. Use these with any AI writer to converse smartly.
+- [PanXProject/awesome-certificates](https://github.com/PanXProject/awesome-certificates) - List of IT, computer science and business courses with free certificates & badges.
+- [Ileriayo/ileriayo](https://github.com/Ileriayo/ileriayo) - Hi, welcome to my homepage!
 - [manuscripts/book-starter](https://github.com/manuscripts/book-starter) - Book Quick Starter Kit - Write Your Own Book in Plain Text (with Markdown)
 - [mundimark/awesome-markdown](https://github.com/mundimark/awesome-markdown) - A collection of awesome markdown goodies (libraries, services, editors, tools, cheatsheets, etc.)
 - [barrosohub/remote-jobs-for-devs](https://github.com/barrosohub/remote-jobs-for-devs) - 🔍 Are you searching for remote job opportunities? Our repository offers a curated list of remote job platforms, from software development to customer service, with regular updates. Browse our list and
@@ -2334,7 +2343,6 @@
 - [dair-ai/ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses) - 📺 Discover the latest machine learning / AI courses on YouTube.
 - [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
 - [RistBS/Awesome-RedTeam-Cheatsheet](https://github.com/RistBS/Awesome-RedTeam-Cheatsheet) - Red Team Cheatsheet in constant expansion.
-- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2023
 - [arete/docker-latex](https://github.com/arete/docker-latex) - docker latex image based on glibc voidlinux
 - [SethStormR/Winter](https://github.com/SethStormR/Winter) - Winter icon set is based on WhiteSur, Bloom and Papirus icon set. Autumn is aimed for Deepin DE and elementary OS.
 - [im-yuria/My-Wallpapers](https://github.com/im-yuria/My-Wallpapers) - my wallpaper collection
@@ -2509,6 +2517,7 @@
 
 ## PHP 
 
+- [WP-Masters-GmbH/ai-content-writer-generator](https://github.com/WP-Masters-GmbH/ai-content-writer-generator) - AI Content Writer & Generator
 - [olegkrivtsov/openbook](https://github.com/olegkrivtsov/openbook) - Markdown=&gt;HTML converter for generating online books
 - [jetpack-io/devbox-examples](https://github.com/jetpack-io/devbox-examples) - Example dev environments built with Devbox
 - [Ademking/InstaPoster](https://github.com/Ademking/InstaPoster) - 🖼 Instagram Auto-Posting BOT - Post Automatically to instagram
@@ -2643,6 +2652,7 @@
 - [kiddae/ImageColorizer](https://github.com/kiddae/ImageColorizer) - Make any wallpaper fit any terminal colorscheme.
 - [wodsuz/EasyApplyJobsBot](https://github.com/wodsuz/EasyApplyJobsBot) - A python bot to automatically apply all Linkedin,Glassdoor, etc Easy Apply jobs based on your preferences. Auto login, auto fill additional questions, apply automatically!
 - [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
+- [thezeroalpha/dotfiles](https://github.com/thezeroalpha/dotfiles) - My personal shell configs and stuff
 - [Phoenix124/scribd-downloader](https://github.com/Phoenix124/scribd-downloader) - 
 - [NoahCardoza/audiobookcup-dl](https://github.com/NoahCardoza/audiobookcup-dl) - Download audiobooks from audiobookcup.com
 - [ianling/glitchgen](https://github.com/ianling/glitchgen) - Randomly generates glitch pattern images
@@ -2867,6 +2877,7 @@
 
 ## Rust 
 
+- [oahlen/huey](https://github.com/oahlen/huey) - Neovim lua color scheme generator written in Rust.
 - [ntex-rs/ntex](https://github.com/ntex-rs/ntex) - framework for composable networking services
 - [tokio-rs/axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper
 - [poem-web/poem](https://github.com/poem-web/poem) - A full-featured and easy-to-use web framework with the Rust programming language.
@@ -3570,6 +3581,7 @@
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [anirudhvarma12/rabbit-hole-webext](https://github.com/anirudhvarma12/rabbit-hole-webext) - A Browser Extension to trace your Wikipedia Journeys
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
+- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
 - [pawelmalak/flame](https://github.com/pawelmalak/flame) - Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors.
 - [hood/homie](https://github.com/hood/homie) - A minimalistic personal dashboard.
 - [Thomashighbaugh/startpage-figma-balls-nextjs](https://github.com/Thomashighbaugh/startpage-figma-balls-nextjs) - A recreation of a startpage posted on Reddit without the source, so I rewrote it in Next.js + Tailwind for the open source community.
@@ -3695,7 +3707,6 @@
 
 - [Exafunction/codeium.vim](https://github.com/Exafunction/codeium.vim) - Free, ultrafast Copilot alternative for Vim and Neovim
 - [Arkham/dotfiles.nix](https://github.com/Arkham/dotfiles.nix) - Dotfiles super-powered by Nix and home-manager
-- [thezeroalpha/dotfiles](https://github.com/thezeroalpha/dotfiles) - My personal shell configs and stuff
 - [issadarkthing/artix-dotfiles](https://github.com/issadarkthing/artix-dotfiles) - My Artix linux dotfiles
 - [Ham5andw1ch/NewDots](https://github.com/Ham5andw1ch/NewDots) - Updated dotfiles since I'm too lazy to touch the old repo.
 - [zanshin/dotfiles](https://github.com/zanshin/dotfiles) - My dotfiles.
