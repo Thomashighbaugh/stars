@@ -787,6 +787,8 @@
 
 ## JavaScript 
 
+- [danieldev0724/ai-writer](https://github.com/danieldev0724/ai-writer) - AI Writer is a web application that utilizes GPT-3 technology to generate high-quality essays and articles on a variety of topics. It is designed to make the writing process faster and more efficient 
+- [dmc12-xyz/ai-writer](https://github.com/dmc12-xyz/ai-writer) - A short story generator built using open ai apis
 - [Jvillegasd/Jvillegasd](https://github.com/Jvillegasd/Jvillegasd) - Leave a star if you like it :D
 - [daisyui/daisyui-next](https://github.com/daisyui/daisyui-next) - Tailwind CSS, Next.js, daisyUI example repo
 - [marko-js/marko](https://github.com/marko-js/marko) - A declarative, HTML-based language that makes building web apps fun
@@ -1226,6 +1228,7 @@
 
 ## Jupyter Notebook 
 
+- [ruankie/ecrivai](https://github.com/ruankie/ecrivai) - Fully automated AI blog writer that uses LangChain and GPT type LLMs for topic selection and content generation
 - [dylanhogg/gptauthor](https://github.com/dylanhogg/gptauthor) - GPTAuthor is an AI tool for writing long form, multi-chapter stories given a story prompt.
 - [privateai/deid-examples](https://github.com/privateai/deid-examples) - Examples scripts that showcase how to use Private AI Text to de-identify, redact, hash, tokenize, mask and synthesize PII in text.
 - [Drizer909/GPTbook](https://github.com/Drizer909/GPTbook) - Made fully ai generater book version
@@ -1949,7 +1952,7 @@
 - [futile/nixos-config](https://github.com/futile/nixos-config) - My NixOS configs
 - [dev-null-undefined/NixOs](https://github.com/dev-null-undefined/NixOs) - 
 - [ryan4yin/nixos-and-flakes-book](https://github.com/ryan4yin/nixos-and-flakes-book) - :hammer_and_wrench: :heart: Want to know NixOS & Flakes in detail? Looking for a beginner-friendly tutorial? Then you've come to the right place!  想要学习使用 NixOS 与 Flakes 吗？在寻找一份新手友好的教程？那你可来对地方了！
-- [sherubthakur/dotfiles](https://github.com/sherubthakur/dotfiles) - My dotfiles + system configuration for NixOS and mac
+- [nixypanda/dotfiles](https://github.com/nixypanda/dotfiles) - My dotfiles + system configuration for NixOS and mac
 - [water-sucks/nixed](https://github.com/water-sucks/nixed) - I've nixed any chance I have at human interaction by building this config
 - [quantumfate/quantumnix](https://github.com/quantumfate/quantumnix) - My NixOS Configuration
 - [astro/skyflake](https://github.com/astro/skyflake) - NixOS Hyperconverged Infrastructure on Nomad/NixOS
@@ -2550,6 +2553,9 @@
 
 ## Python 
 
+- [DevilsNerve/PythonOpenAIBookGenerator](https://github.com/DevilsNerve/PythonOpenAIBookGenerator) - OpenAI Book Writer: A Python script to auto-generate books on specified themes using OpenAI's GPT API.
+- [hegelai/prompttools](https://github.com/hegelai/prompttools) - Open-source tools for prompt testing and experimentation, with support for both LLMs (e.g. OpenAI, LLaMA) and vector databases (e.g. Chroma, Weaviate, LanceDB).
+- [techurbanist/ai_fiction_writer](https://github.com/techurbanist/ai_fiction_writer) - An experiment exploring the limitations of Large Language Model (LLM) in the writing process
 - [MIDORIBIN/langchain-gpt4free](https://github.com/MIDORIBIN/langchain-gpt4free) - LangChain x gpt4free
 - [daveshap/AutoMuse2](https://github.com/daveshap/AutoMuse2) - experiment to generate novel-length fiction from a single story premise
 - [majikthise911/Book-Writer-A.I](https://github.com/majikthise911/Book-Writer-A.I) - using the chat gpt api I programmed an application that could write an entire 300 page book with no input
