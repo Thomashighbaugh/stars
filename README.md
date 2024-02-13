@@ -500,7 +500,7 @@
 
 ## Elixir 
 
-- [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based zero trust access platform that supports OIDC authentication, 2FA, user/group sync, and requires zero firewall configuration.
+- [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based zero trust access platform that supports OIDC authentication, user/group sync, and requires zero firewall configuration.
 - [aerosol/wb](https://github.com/aerosol/wb) - Writer's Block - personal wiki engine
 
 ## Elm 
@@ -1897,7 +1897,7 @@
 
 ## Nix 
 
-- [NixOS/nixos-org-configurations](https://github.com/NixOS/nixos-org-configurations) - NixOS configurations for nixos.org and its servers
+- [NixOS/infra](https://github.com/NixOS/infra) - NixOS configurations for nixos.org and its servers
 - [Melkor333/milkOS](https://github.com/Melkor333/milkOS) - something to NixOS similar to what Manjaro is to Arch linux. Let's hope it doesn't age as the name suggests...
 - [Melkor333/nixos-boot](https://github.com/Melkor333/nixos-boot) - A NixOS Plymouth theme displaying a fancy growing and shrinking NixOS Logo
 - [n3oney/nixus](https://github.com/n3oney/nixus) - My NixOS configuration.
@@ -2228,7 +2228,7 @@
 - [humancalico/nix-learning](https://github.com/humancalico/nix-learning) - A bunch of links to blog posts, articles, videos, etc for learning Nix
 - [teal33t/osint-notes](https://github.com/teal33t/osint-notes) - Good info about DeepWeb and OSINT
 - [chow-petit/awesome-curated-tools](https://github.com/chow-petit/awesome-curated-tools) - A curated list of digital tools we use, ranging from accounting and data science to scientific research and liquid democracy. Commented, connected, by everyone and for everyone !
-- [himhaidar7/curated-fullstack-books](https://github.com/himhaidar7/curated-fullstack-books) - A curated list of full-stack development books.
+- [himhaidar/curated-fullstack-books](https://github.com/himhaidar/curated-fullstack-books) - A curated list of full-stack development books.
 - [pawamoy/awesome-repository](https://github.com/pawamoy/awesome-repository) - A curated list of services, tools and standards about (open source) repository management.
 - [learn-anything/documentaries](https://github.com/learn-anything/documentaries) - Awesome Documentaries
 - [AthenaAI/community-search](https://github.com/AthenaAI/community-search) - A community-curated repository of 🔥 learning resources
@@ -2291,6 +2291,7 @@
 - [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns.
 - [mzoyinda/Tech-Newbies](https://github.com/mzoyinda/Tech-Newbies) - Tech-Newbies is an open source project for beginners in tech to find entry level jobs with (0-2)years experience, internships, bootcamps, free courses and many more....
 - [hugo53/awesome-RemoteWork](https://github.com/hugo53/awesome-RemoteWork) - Resources for remote workers: approaches, hiring page, remote life and more.
+- [shvedes/dotfiles](https://github.com/shvedes/dotfiles) - No description, website, or topics provided.
 - [Syndrizzle/hotfiles](https://github.com/Syndrizzle/hotfiles) - 🏠 A collection of personal configuration files for various rices I have made.
 - [rose-pine/gtk](https://github.com/rose-pine/gtk) - Soho vibes for GTK
 - [nas5w/100-days-of-code-frontend](https://github.com/nas5w/100-days-of-code-frontend) - Curriculum for learning front-end development during #100DaysOfCode.
@@ -3070,7 +3071,6 @@
 - [samthepacman/IdempotentDots](https://github.com/samthepacman/IdempotentDots) - Configuration for setting up NixOS on tmpfs, my way
 - [fariasmateuss/favicon-generator](https://github.com/fariasmateuss/favicon-generator) - Bash Script to generate favicons in multiple sizes (.ico and .png)
 - [DrgnFireYellow/notenote](https://github.com/DrgnFireYellow/notenote) - The zsh plugin for taking notes.
-- [shvedes/dotfiles](https://github.com/shvedes/dotfiles) - No description, website, or topics provided.
 - [okitavera/dotfiles](https://github.com/okitavera/dotfiles) - All of my configuration files that currently used includes zsh, urxvt, awesomewm, and others
 - [varlesh/volantes-cursors](https://github.com/varlesh/volantes-cursors) - Cursor Theme
 - [greglaurent/nixos-iso](https://github.com/greglaurent/nixos-iso) - Custom NixOS ISO
