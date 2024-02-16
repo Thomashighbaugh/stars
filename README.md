@@ -56,6 +56,7 @@
 - [Nunjucks](#nunjucks)
 - [Nushell](#nushell)
 - [Objective-C](#objective-c)
+- [OpenSCAD](#openscad)
 - [Others](#others)
 - [PHP](#php)
 - [Perl](#perl)
@@ -906,7 +907,6 @@
 - [replicate/inpainter](https://github.com/replicate/inpainter) - A web GUI built with Next.js for inpainting with Stable Diffusion using the Replicate API.
 - [leungwensen/svg-icon](https://github.com/leungwensen/svg-icon) - An ultimate SVG icons collection DONE RIGHT, with over 10,000 SVG icons out of the box.
 - [zloirock/core-js](https://github.com/zloirock/core-js) - Standard Library
-- [Aylur/dotfiles](https://github.com/Aylur/dotfiles) - My personal config files
 - [jpetitcolas/ascii-art-converter](https://github.com/jpetitcolas/ascii-art-converter) - Convert any image into pure ASCII art using some JavaScript
 - [dortania/OpenCore-Install-Guide](https://github.com/dortania/OpenCore-Install-Guide) - Repo for the OpenCore Install Guide
 - [ran-dall/codex](https://github.com/ran-dall/codex) - Mirror of Randall's Codex 📜
@@ -2072,7 +2072,6 @@
 - [rszamszur/nixos-config](https://github.com/rszamszur/nixos-config) - My nixos configuration
 - [rapgru/nixos-config](https://github.com/rapgru/nixos-config) - 
 - [ymatsiuk/nixos-config](https://github.com/ymatsiuk/nixos-config) - Dell XPS 13 NixOS and home-manager configuration
-- [NixOS/nixos-artwork](https://github.com/NixOS/nixos-artwork) - Nix related artwork
 - [astro/microvm.nix](https://github.com/astro/microvm.nix) - NixOS MicroVMs
 - [starcraft66/os-config](https://github.com/starcraft66/os-config) - My personal OS configuration files for Darwin and Linux using Nix, NixOS, nix-darwin and home-manager
 - [RaubJo/hive](https://github.com/RaubJo/hive) - 
@@ -2173,6 +2172,10 @@
 
 - [Zibri/ZiPhone](https://github.com/Zibri/ZiPhone) - The best iPhone unlocker.
 - [davidrjenni/files](https://github.com/davidrjenni/files) - dotfiles, dockerfiles and shell scripts
+
+## OpenSCAD 
+
+- [NixOS/nixos-artwork](https://github.com/NixOS/nixos-artwork) - Nix related artwork
 
 ## Others 
 
@@ -3559,6 +3562,7 @@
 - [folke/polydock](https://github.com/folke/polydock) - ✨ A shiny and hackable application dock
 - [edgarlr/magazine](https://github.com/edgarlr/magazine) - Next.js Digital Magazine Starter Kit
 - [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, Gitlab, GitHub and Open Project.
+- [Aylur/dotfiles](https://github.com/Aylur/dotfiles) - My personal config files
 - [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - InvokeAI is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The s
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 - [brianlovin/briOS](https://github.com/brianlovin/briOS) - My personal website.
