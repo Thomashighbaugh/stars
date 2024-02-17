@@ -1899,6 +1899,8 @@
 
 ## Nix 
 
+- [RadovanSk/Faery](https://github.com/RadovanSk/Faery) - My personal NixOS flake. I just have it to share it with others. I am a complete newbie and thus I don't recommend using this flake until I make it better.
+- [ardishco-the-great/OuterHeaven](https://github.com/ardishco-the-great/OuterHeaven) - My NixOS configuration that I try to keep simple and readable.
 - [NixOS/infra](https://github.com/NixOS/infra) - NixOS configurations for nixos.org and its servers
 - [Melkor333/milkOS](https://github.com/Melkor333/milkOS) - something to NixOS similar to what Manjaro is to Arch linux. Let's hope it doesn't age as the name suggests...
 - [Melkor333/nixos-boot](https://github.com/Melkor333/nixos-boot) - A NixOS Plymouth theme displaying a fancy growing and shrinking NixOS Logo
@@ -3020,6 +3022,7 @@
 
 ## Shell 
 
+- [roastedcheese/nicks](https://github.com/roastedcheese/nicks) - My basic nixos flake
 - [fikriomar16/mafetch](https://github.com/fikriomar16/mafetch) - System info for Unix-like operating systems.
 - [tbung/dotfiles](https://github.com/tbung/dotfiles) - There's no place like ~/
 - [davideolgiati/PartyLoud](https://github.com/davideolgiati/PartyLoud) - A simple tool to generate fake web browsing and mitigate tracking
@@ -3064,7 +3067,6 @@
 - [Distroshare/distroshare-ubuntu-imager](https://github.com/Distroshare/distroshare-ubuntu-imager) - Creates an installable live CD from an installed Ubuntu or derivative distribution
 - [cufta22/dotfiles](https://github.com/cufta22/dotfiles) - [AwesomeWM] Outer Wilds - change branch for old rices
 - [ormai/dotfiles](https://github.com/ormai/dotfiles) - ☕ My dotfiles
-- [nrdxp/nrdos](https://github.com/nrdxp/nrdos) - My NixOS configuration for work and play
 - [emmett1/linuxliveiso](https://github.com/emmett1/linuxliveiso) - scripts to build linux live iso
 - [pandoraxdn/nixos-configuration](https://github.com/pandoraxdn/nixos-configuration) - 
 - [spider-linux/spiderlinux](https://github.com/spider-linux/spiderlinux) - Spider Linux is a modern, independent, free and open-source Linux distribution.
