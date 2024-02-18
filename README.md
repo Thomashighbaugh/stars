@@ -551,7 +551,7 @@
 - [pinpox/pinpox](https://github.com/pinpox/pinpox) - Profile readme
 - [jetpack-io/devbox](https://github.com/jetpack-io/devbox) - Instant, easy, and predictable development environments
 - [jollheef/appvm](https://github.com/jollheef/appvm) - Nix-based app VMs
-- [BetaPictoris/book](https://github.com/BetaPictoris/book) - 📖 Read ebooks from the comfort of your terminal.
+- [betapictoris/book](https://github.com/betapictoris/book) - 📖 Read ebooks from the comfort of your terminal.
 - [ssleert/zfxtop](https://github.com/ssleert/zfxtop) - [WIP] fetch top for gen Z with X written by bubbletea enjoyer
 - [usememos/memos](https://github.com/usememos/memos) - An open source, lightweight note-taking service. Easily capture and share your great thoughts.
 - [cheshire137/gen-svgo-pattern](https://github.com/cheshire137/gen-svgo-pattern) - Generate Go code to create SVG patterns from a given SVG image.
