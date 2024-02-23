@@ -654,7 +654,6 @@
 - [paulrouget/dzslides](https://github.com/paulrouget/dzslides) - DZSlides is a one-file HTML template to build slides in HTML5 and CSS3.
 - [akaalias/plotto-for-obsidian](https://github.com/akaalias/plotto-for-obsidian) - Write your plots faster with this 'batteries-included' collection of Plotto plain text markdown files for Obsidian.md
 - [alitahir4024/eden-website-replica](https://github.com/alitahir4024/eden-website-replica) - If you would like to enter streets of the online world with a bang, Eden is the free creative magazine website template to choose. While the design is to some extent fairly minimal looking, it is, at 
-- [elsoul/skeet](https://github.com/elsoul/skeet) - 🚀 Open-Source TypeScript Serverless Framework. It supports all kinds of application development, from small-scale tasks to global full-stack scaling💃
 - [themesberg/flowbite](https://github.com/themesberg/flowbite) - Open-source UI component library and front-end development framework based on Tailwind CSS
 - [Cadris/ResumeV2](https://github.com/Cadris/ResumeV2) - This is My Resume. I am making it for the second time now for the Nullstack Project and Also to test my limit.
 - [berrysauce/whatdevsneed](https://github.com/berrysauce/whatdevsneed) - 🧰 Discover new developer tools
@@ -2735,7 +2734,7 @@
 - [codebasics/cool_python_apps](https://github.com/codebasics/cool_python_apps) - Small and cool python apps including bitcoin mining, language translator etc.
 - [syegulalp/folio](https://github.com/syegulalp/folio) - Python-powered, Markdown-formatted personal wiki
 - [Catboy96/Universal-Linux-Script](https://github.com/Catboy96/Universal-Linux-Script) - A shell script with built-in variables which can simplify Linux shell script writing.
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [jaakkopasanen/AutoEq](https://github.com/jaakkopasanen/AutoEq) - Automatic headphone equalization from frequency responses
 - [ahmed2m/dotfiles](https://github.com/ahmed2m/dotfiles) - My own config dotfiles for qtile/kde/awesomewm on Arch based distros
@@ -3521,6 +3520,7 @@
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [lazerwalker/storyboard](https://github.com/lazerwalker/storyboard) - A narrative engine for interactive storytelling
 - [whyboris/Video-Hub-App](https://github.com/whyboris/Video-Hub-App) - Official repository for Video Hub App
+- [elsoul/skeet](https://github.com/elsoul/skeet) - 🚀 Open-Source TypeScript Serverless Framework. It supports all kinds of application development, from small-scale tasks to global full-stack scaling💃
 - [brunolm/get-short-video](https://github.com/brunolm/get-short-video) - Nullstack project to easily make short videos
 - [brunolm/brunolm.github.io](https://github.com/brunolm/brunolm.github.io) - BrunoLM personal website!
 - [natanfeitosa/nullstack-fontawesome](https://github.com/natanfeitosa/nullstack-fontawesome) - Font Awesome Nullstack component
