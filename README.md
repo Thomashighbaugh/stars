@@ -1650,7 +1650,7 @@
 - [anhsirk0/awesome-config](https://github.com/anhsirk0/awesome-config) - My config for awesomewm
 - [suconakh/awesome-awesome-rc](https://github.com/suconakh/awesome-awesome-rc) - Modularized AwesomeWM rc.lua
 - [Manas140/dotfiles](https://github.com/Manas140/dotfiles) - Config files for my setup
-- [windwp/nvim-autopairs](https://github.com/windwp/nvim-autopairs) - autopairs for neovim written by lua
+- [windwp/nvim-autopairs](https://github.com/windwp/nvim-autopairs) - autopairs for neovim written in lua
 - [saadparwaiz1/cmp_luasnip](https://github.com/saadparwaiz1/cmp_luasnip) - luasnip completion source for nvim-cmp
 - [onsails/lspkind.nvim](https://github.com/onsails/lspkind.nvim) - vscode-like pictograms for neovim lsp completion items
 - [hrsh7th/cmp-path](https://github.com/hrsh7th/cmp-path) - nvim-cmp source for path
@@ -1911,7 +1911,7 @@
 - [nix-community/disko](https://github.com/nix-community/disko) - Declarative disk partitioning and formatting using nix [maintainer=@Lassulus]
 - [erikbackman/nixos-config](https://github.com/erikbackman/nixos-config) - My NixOS configuration
 - [jakeisnt/nixcfg](https://github.com/jakeisnt/nixcfg) - A modular, Wayland-enabled NixOS configuration.
-- [sodiboo/niri-flake](https://github.com/sodiboo/niri-flake) - flake for niri wayland compositor
+- [sodiboo/niri-flake](https://github.com/sodiboo/niri-flake) - Nix packages and modules for niri
 - [mahmoudk1000/nix-config](https://github.com/mahmoudk1000/nix-config) - mahmoudk1000's nixos configuration
 - [LutrisEng/nix-fly-template](https://github.com/LutrisEng/nix-fly-template) - Build an application with Nix and deploy it on Fly.io
 - [oluceps/nixos-config](https://github.com/oluceps/nixos-config) - My personal NixOS configurations with a small NUR.
@@ -2182,6 +2182,8 @@
 
 ## Others 
 
+- [ptprussak/GPTs](https://github.com/ptprussak/GPTs) - leaked prompts of GPTs
+- [1003715231/gptstore-prompts](https://github.com/1003715231/gptstore-prompts) - Here are the Top 100 prompts on GPTStore, which we can use to learn and improve prompt engineering.
 - [teoxoy/teoxoy](https://github.com/teoxoy/teoxoy) - github profile readme
 - [cheesits456/cheesits456](https://github.com/cheesits456/cheesits456) - 
 - [wordmaxai/awesome-chatgpt-prompts](https://github.com/wordmaxai/awesome-chatgpt-prompts) - Collection of awesome ChatGPT prompts to get better results. Use these with any AI writer to converse smartly.
@@ -2562,6 +2564,9 @@
 
 ## Python 
 
+- [jaketae/storyteller](https://github.com/jaketae/storyteller) - Multimodal AI Story Teller, built with Stable Diffusion, GPT, and neural text-to-speech
+- [haesleinhuepf/story-writer](https://github.com/haesleinhuepf/story-writer) - An AI-based story writer and Python library which uses OpenAI's chatGPT and Dall-E to generate PDFs with a story and a picture from a prompt and writes them into a PDF.
+- [Joseph-Shelton/Book-Idea-Generator](https://github.com/Joseph-Shelton/Book-Idea-Generator) - Book Idea Generator that leverages OpenAI's gpt-3.5-turbo api for content generation.
 - [DevilsNerve/PythonOpenAIBookGenerator](https://github.com/DevilsNerve/PythonOpenAIBookGenerator) - OpenAI Book Writer: A Python script to auto-generate books on specified themes using OpenAI's GPT API.
 - [hegelai/prompttools](https://github.com/hegelai/prompttools) - Open-source tools for prompt testing and experimentation, with support for both LLMs (e.g. OpenAI, LLaMA) and vector databases (e.g. Chroma, Weaviate, LanceDB).
 - [techurbanist/ai_fiction_writer](https://github.com/techurbanist/ai_fiction_writer) - An experiment exploring the limitations of Large Language Model (LLM) in the writing process
@@ -3464,6 +3469,8 @@
 
 ## TypeScript 
 
+- [actions-js/profile-readme](https://github.com/actions-js/profile-readme) - 🗣 Display profile activity and other cool widgets in your profile README.md
+- [Seyma44/Neubrutalism-website](https://github.com/Seyma44/Neubrutalism-website) - Nextjs Tailwind Neubrutalism 90's Concept Website
 - [wxt-dev/wxt](https://github.com/wxt-dev/wxt) - ⚡ Next-gen Web Extension Framework
 - [BraydenTW/braydentw.io](https://github.com/BraydenTW/braydentw.io) - 🔷 My lovely portfolio built with React, NextJS, and TailwindCSS
 - [futantan/OpenGpt](https://github.com/futantan/OpenGpt) - Create your own ChatGPT App in seconds.
