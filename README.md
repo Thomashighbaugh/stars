@@ -862,7 +862,7 @@
 - [simarmannsingh/silverlux](https://github.com/simarmannsingh/silverlux) - All the technologies used are free and open-source. You are free to use this template for a personal or commercial purposes. I'm using this template for my blog as well at https://simarmannsingh.com. 
 - [Akshay090/svg-banners](https://github.com/Akshay090/svg-banners) - Styled banners for your Readme made with html/css in SVG !!
 - [kampka/nix-packages](https://github.com/kampka/nix-packages) - My personal nix repository
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 4900 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 5200 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [leepenney/markdown-gallery](https://github.com/leepenney/markdown-gallery) - Converts a list of images into gallery mark-up
 - [ujjalacharya/awesome-ecom](https://github.com/ujjalacharya/awesome-ecom) - A complete online ecommerce portal (Node, React, Mongo, NextJS, ReactNative)
 - [amand33p/stack-underflow](https://github.com/amand33p/stack-underflow) - Feature-rich ‘stack overflow’ (QnA site) clone. Made using MERN + GraphQL stack.
@@ -1289,6 +1289,7 @@
 
 ## Lua 
 
+- [Gwynsav/gwileful](https://github.com/Gwynsav/gwileful) - Have I finally created something that isn't a lua-programmed nuke? Maybe...
 - [DanL2015/AwesomeWM](https://github.com/DanL2015/AwesomeWM) - An aesthetic AwesomeWM configuration
 - [rifsxd/oh-my-awesomewm-dots](https://github.com/rifsxd/oh-my-awesomewm-dots) - OMAWM - My person awesome window manager - themes - widgets  -  configs
 - [mahmoudk1000/awedots](https://github.com/mahmoudk1000/awedots) - my awesomewm config
@@ -3469,6 +3470,7 @@
 
 ## TypeScript 
 
+- [wikibonsai/vscode-wikibonsai](https://github.com/wikibonsai/vscode-wikibonsai) - PKM tooling for semantically inclined digital gardeners (with [[wikirefs]], semantic trees, and graphs).
 - [actions-js/profile-readme](https://github.com/actions-js/profile-readme) - 🗣 Display profile activity and other cool widgets in your profile README.md
 - [Seyma44/Neubrutalism-website](https://github.com/Seyma44/Neubrutalism-website) - Nextjs Tailwind Neubrutalism 90's Concept Website
 - [wxt-dev/wxt](https://github.com/wxt-dev/wxt) - ⚡ Next-gen Web Extension Framework
