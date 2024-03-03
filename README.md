@@ -633,6 +633,7 @@
 
 ## HTML 
 
+- [taikoxyz/taiko-mono](https://github.com/taikoxyz/taiko-mono) - A based rollup. 🥁
 - [Rishit-dagli/Rishit-dagli](https://github.com/Rishit-dagli/Rishit-dagli) - My GitHub profile README
 - [aitoolsau/EbookWriter](https://github.com/aitoolsau/EbookWriter) - AI powered e-book writer
 - [microsoft/fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons) - Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.
@@ -769,6 +770,7 @@
 
 ## Java 
 
+- [metaloom/video4j-fingerprint](https://github.com/metaloom/video4j-fingerprint) - Digital Video Fingerprinting Implementation for Video4j
 - [JesusFreke/smali](https://github.com/JesusFreke/smali) - smali/baksmali
 - [tanjeffreyz/github-statistics](https://github.com/tanjeffreyz/github-statistics) - GitHub stat tracker that uses GraphQL to retrieve both public and private user statistics, which can then be displayed on profile READMEs
 - [PaperMC/Paper](https://github.com/PaperMC/Paper) - The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies
@@ -789,6 +791,9 @@
 
 ## JavaScript 
 
+- [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
+- [dailyrandomphoto/dailyrandomphoto](https://github.com/dailyrandomphoto/dailyrandomphoto) - https://www.dailyrandomphoto.com/
+- [MSayib/docker_mern_dev_sample](https://github.com/MSayib/docker_mern_dev_sample) - Quick Docker MERN Sample Setup
 - [elangosundar/awesome-README-templates](https://github.com/elangosundar/awesome-README-templates) - A collection of awesome readme templates to display on your github profile.
 - [danieldev0724/ai-writer](https://github.com/danieldev0724/ai-writer) - AI Writer is a web application that utilizes GPT-3 technology to generate high-quality essays and articles on a variety of topics. It is designed to make the writing process faster and more efficient 
 - [dmc12-xyz/ai-writer](https://github.com/dmc12-xyz/ai-writer) - A short story generator built using open ai apis
@@ -1230,6 +1235,7 @@
 
 ## Jupyter Notebook 
 
+- [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 18 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
 - [ruankie/ecrivai](https://github.com/ruankie/ecrivai) - Fully automated AI blog writer that uses LangChain and GPT type LLMs for topic selection and content generation
 - [dylanhogg/gptauthor](https://github.com/dylanhogg/gptauthor) - GPTAuthor is an AI tool for writing long form, multi-chapter stories given a story prompt.
 - [privateai/deid-examples](https://github.com/privateai/deid-examples) - Examples scripts that showcase how to use Private AI Text to de-identify, redact, hash, tokenize, mask and synthesize PII in text.
@@ -1288,6 +1294,7 @@
 
 ## Lua 
 
+- [michaelrommel/nvim-silicon](https://github.com/michaelrommel/nvim-silicon) - neovim plugin to create code images using the external silicon tool.
 - [Gwynsav/gwileful](https://github.com/Gwynsav/gwileful) - Have I finally created something that isn't a lua-programmed nuke? Maybe...
 - [DanL2015/AwesomeWM](https://github.com/DanL2015/AwesomeWM) - An aesthetic AwesomeWM configuration
 - [rifsxd/oh-my-awesomewm-dots](https://github.com/rifsxd/oh-my-awesomewm-dots) - OMAWM - My person awesome window manager - themes - widgets  -  configs
@@ -1912,7 +1919,7 @@
 - [nix-community/disko](https://github.com/nix-community/disko) - Declarative disk partitioning and formatting using nix [maintainer=@Lassulus]
 - [erikbackman/nixos-config](https://github.com/erikbackman/nixos-config) - My NixOS configuration
 - [jakeisnt/nixcfg](https://github.com/jakeisnt/nixcfg) - A modular, Wayland-enabled NixOS configuration.
-- [sodiboo/niri-flake](https://github.com/sodiboo/niri-flake) - niri for NixOS and home-manager
+- [sodiboo/niri-flake](https://github.com/sodiboo/niri-flake) - Nix packages and modules for niri
 - [mahmoudk1000/nix-config](https://github.com/mahmoudk1000/nix-config) - mahmoudk1000's nixos configuration
 - [LutrisEng/nix-fly-template](https://github.com/LutrisEng/nix-fly-template) - Build an application with Nix and deploy it on Fly.io
 - [oluceps/nixos-config](https://github.com/oluceps/nixos-config) - My personal NixOS configurations with a small NUR.
@@ -2106,7 +2113,7 @@
 - [GTrunSec/nixos-flk](https://github.com/GTrunSec/nixos-flk) - highly structured NixOS configuration based on devos
 - [thiagokokada/nix-configs](https://github.com/thiagokokada/nix-configs) - My Nix{OS} configuration files
 - [nix-community/NixNG](https://github.com/nix-community/NixNG) - A linux distribution based on Nix [maintainer=@MagicRB]
-- [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config) - Flake-based Nix configuration for macOS / NixOS with starter templates
+- [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config) - Nix configuration for macOS / NixOS with starter templates and step-by-step guides ✨
 - [kanashimia/nixos-config](https://github.com/kanashimia/nixos-config) - Configuration of my nixos systems.
 - [gautaz/phoenix](https://github.com/gautaz/phoenix) - Because I want my Nix workspaces to rise from their ashes
 - [wiltaylor/nix-iso](https://github.com/wiltaylor/nix-iso) - My collection of custom NixOS ISO files.
@@ -2182,6 +2189,12 @@
 
 ## Others 
 
+- [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources
+- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - A list of awesome beginners-friendly projects.
+- [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
+- [aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) - A one stop repository for generative AI research updates, interview resources, notebooks and much more!
+- [cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications) - A curated list of free courses & certifications.
+- [neysofu/awesome-github-actions-runners](https://github.com/neysofu/awesome-github-actions-runners) - Save $$$ and make GitHub Actions go brrr with 3rd-party runners ⚡🤖
 - [xtenzQ/xtenzQ](https://github.com/xtenzQ/xtenzQ) - 📝🚀 Minimalistic profile README.md. Please ⭐ if you like it! ❤
 - [ptprussak/GPTs](https://github.com/ptprussak/GPTs) - leaked prompts of GPTs
 - [1003715231/gptstore-prompts](https://github.com/1003715231/gptstore-prompts) - Here are the Top 100 prompts on GPTStore, which we can use to learn and improve prompt engineering.
@@ -2565,6 +2578,8 @@
 
 ## Python 
 
+- [myshell-ai/MeloTTS](https://github.com/myshell-ai/MeloTTS) - High-quality multi-lingual text-to-speech library by MyShell.ai. Support English, Spanish, French, Chinese, Japanese and Korean.
+- [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python packaging and dependency management made easy
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
 - [jaketae/storyteller](https://github.com/jaketae/storyteller) - Multimodal AI Story Teller, built with Stable Diffusion, GPT, and neural text-to-speech
 - [haesleinhuepf/story-writer](https://github.com/haesleinhuepf/story-writer) - An AI-based story writer and Python library which uses OpenAI's chatGPT and Dall-E to generate PDFs with a story and a picture from a prompt and writes them into a PDF.
@@ -2898,6 +2913,9 @@
 
 ## Rust 
 
+- [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
+- [FuelLabs/fuel-core](https://github.com/FuelLabs/fuel-core) - Rust full node implementation of the Fuel v2 protocol.
+- [FuelLabs/fuels-rs](https://github.com/FuelLabs/fuels-rs) - Fuel Network Rust SDK
 - [oahlen/huey](https://github.com/oahlen/huey) - Neovim lua color scheme generator written in Rust.
 - [ntex-rs/ntex](https://github.com/ntex-rs/ntex) - framework for composable networking services
 - [tokio-rs/axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper
@@ -3030,6 +3048,8 @@
 
 ## Shell 
 
+- [dockur/windows](https://github.com/dockur/windows) - Windows in a Docker container.
+- [mayTermux/myTermux](https://github.com/mayTermux/myTermux) - Make your Termux look better
 - [evgvs/turboarch](https://github.com/evgvs/turboarch) - TurboArch - Seamlessly Replace Your Current OS with Arch Linux NOW!
 - [fikriomar16/mafetch](https://github.com/fikriomar16/mafetch) - System info for Unix-like operating systems.
 - [tbung/dotfiles](https://github.com/tbung/dotfiles) - There's no place like ~/
@@ -3076,7 +3096,7 @@
 - [hpb0412/dotfiles](https://github.com/hpb0412/dotfiles) - My dot files collection over the time
 - [Distroshare/distroshare-ubuntu-imager](https://github.com/Distroshare/distroshare-ubuntu-imager) - Creates an installable live CD from an installed Ubuntu or derivative distribution
 - [cufta22/dotfiles](https://github.com/cufta22/dotfiles) - [AwesomeWM] Outer Wilds - change branch for old rices
-- [ormai/dotfiles](https://github.com/ormai/dotfiles) - ☕ My dotfiles
+- [ormai/dotfiles](https://github.com/ormai/dotfiles) - ☕ 💻 My dotfiles
 - [emmett1/linuxliveiso](https://github.com/emmett1/linuxliveiso) - scripts to build linux live iso
 - [pandoraxdn/nixos-configuration](https://github.com/pandoraxdn/nixos-configuration) - 
 - [spider-linux/spiderlinux](https://github.com/spider-linux/spiderlinux) - Spider Linux is a modern, independent, free and open-source Linux distribution.
@@ -3472,6 +3492,9 @@
 
 ## TypeScript 
 
+- [redis/ioredis](https://github.com/redis/ioredis) - 🚀 A robust, performance-focused, and full-featured Redis client for Node.js.
+- [uixmat/firestarta](https://github.com/uixmat/firestarta) - Next.js SaaS boilerplate with NextAuth, Prisma, Supabase, Shadcn/ui & Lemon Squeezy Subscriptions
+- [The-Enthusiast-404/canva-clone](https://github.com/The-Enthusiast-404/canva-clone) - This is Open Source to Canva
 - [wikibonsai/vscode-wikibonsai](https://github.com/wikibonsai/vscode-wikibonsai) - PKM tooling for semantically inclined digital gardeners (with [[wikirefs]], semantic trees, and graphs).
 - [actions-js/profile-readme](https://github.com/actions-js/profile-readme) - 🗣 Display profile activity and other cool widgets in your profile README.md
 - [Seyma44/Neubrutalism-website](https://github.com/Seyma44/Neubrutalism-website) - Nextjs Tailwind Neubrutalism 90's Concept Website
@@ -3798,6 +3821,7 @@
 
 ## Zig 
 
+- [tigerbeetle/tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) - The distributed financial transactions database designed for mission critical safety and performance.
 - [malcolmstill/foxwhale](https://github.com/malcolmstill/foxwhale) - A Wayland compositor written in Zig
 - [waycrate/NextWM](https://github.com/waycrate/NextWM) - Manual tiling wayland compositor. ( Work In Progress )
 - [riverwm/river](https://github.com/riverwm/river) - A dynamic tiling Wayland compositor
