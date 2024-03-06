@@ -295,6 +295,7 @@
 - [vinceliuice/Fluent-gtk-theme](https://github.com/vinceliuice/Fluent-gtk-theme) - Fluent design gtk theme for linux desktops
 - [kdheepak/panvimdoc](https://github.com/kdheepak/panvimdoc) - Write documentation in pandoc markdown. Generate documentation in vimdoc.
 - [burkybang/Better-IFTTT-UI](https://github.com/burkybang/Better-IFTTT-UI) - A browser extension to make the IFTTT UI more usable on desktop
+- [gpt4free/gpt4free-docs](https://github.com/gpt4free/gpt4free-docs) - 
 - [vaibhav111tandon/vov.css](https://github.com/vaibhav111tandon/vov.css) - 📱💻A CSS Library for small but useful animations💻📱
 - [tablecheck/vesper-icons](https://github.com/tablecheck/vesper-icons) - Vesper Icons: Icons for your app, compatible with FontAwesome
 - [iconic/open-iconic](https://github.com/iconic/open-iconic) - An open source icon set with 223 marks in SVG, webfont and raster formats
@@ -1440,7 +1441,7 @@
 - [ChristianChiarulli/nvim](https://github.com/ChristianChiarulli/nvim) - My neovim config
 - [Aire-One/awesome-slot](https://github.com/Aire-One/awesome-slot) - A declarative API to connect signals for the AwesomeWM
 - [chadcat7/kodo](https://github.com/chadcat7/kodo) - a blazingly bad neovim config
-- [Tijirhs/ArchConfig](https://github.com/Tijirhs/ArchConfig) - A basic install and configuration script for Arch and Debian
+- [enziaki/ArchConfig](https://github.com/enziaki/ArchConfig) - A basic install and configuration script for Arch and Debian
 - [vberezhnev/awesome](https://github.com/vberezhnev/awesome) - My AwesomeWM config
 - [Cyan903/awesome-shortcut-json](https://github.com/Cyan903/awesome-shortcut-json) - Plugin for awesomewm that allows for shortcuts to be stored in json format.
 - [vastamaki/awesomewm](https://github.com/vastamaki/awesomewm) - Awesome wm config files
@@ -1862,7 +1863,6 @@
 
 ## MDX 
 
-- [gpt4free/gpt4free-docs](https://github.com/gpt4free/gpt4free-docs) - 
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications
 - [DeterminateSystems/zero-to-nix](https://github.com/DeterminateSystems/zero-to-nix) - Zero to Nix is your guide to learning Nix and flakes. Created by Determinate Systems.
 - [hta218/leohuynh.dev](https://github.com/hta218/leohuynh.dev) - My 🏠 on the ☁️. Portfolio, showcases, snippets, dev logs, and ideas
