@@ -2315,7 +2315,7 @@
 - [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns.
 - [mzoyinda/Tech-Newbies](https://github.com/mzoyinda/Tech-Newbies) - Tech-Newbies is an open source project for beginners in tech to find entry level jobs with (0-2)years experience, internships, bootcamps, free courses and many more....
 - [hugo53/awesome-RemoteWork](https://github.com/hugo53/awesome-RemoteWork) - Resources for remote workers: approaches, hiring page, remote life and more.
-- [shvedes/dotfiles](https://github.com/shvedes/dotfiles) - No description, website, or topics provided.
+- [shvedes/dotfiles](https://github.com/shvedes/dotfiles) - My .dotfiles
 - [Syndrizzle/hotfiles](https://github.com/Syndrizzle/hotfiles) - 🏠 A collection of personal configuration files for various rices I have made.
 - [rose-pine/gtk](https://github.com/rose-pine/gtk) - Soho vibes for GTK
 - [nas5w/100-days-of-code-frontend](https://github.com/nas5w/100-days-of-code-frontend) - Curriculum for learning front-end development during #100DaysOfCode.
