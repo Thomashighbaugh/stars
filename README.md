@@ -1437,6 +1437,7 @@
 - [xinhaoyuan/awexygen](https://github.com/xinhaoyuan/awexygen) - 
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) - Neovim config for the lazy
 - [CharlesChiuGit/nvimdots.lua](https://github.com/CharlesChiuGit/nvimdots.lua) - Lazy AF neovim config, well structured in lua.
+- [folke/dot](https://github.com/folke/dot) - ☕️   My Dot Files
 - [ayamir/nvimdots](https://github.com/ayamir/nvimdots) - A well configured and structured Neovim.
 - [ChristianChiarulli/nvim](https://github.com/ChristianChiarulli/nvim) - My neovim config
 - [Aire-One/awesome-slot](https://github.com/Aire-One/awesome-slot) - A declarative API to connect signals for the AwesomeWM
@@ -3110,7 +3111,6 @@
 - [varlesh/volantes-cursors](https://github.com/varlesh/volantes-cursors) - Cursor Theme
 - [greglaurent/nixos-iso](https://github.com/greglaurent/nixos-iso) - Custom NixOS ISO
 - [k-vernooy/dotfiles](https://github.com/k-vernooy/dotfiles) - An organizational repository for my dotfiles and scripts
-- [folke/dot](https://github.com/folke/dot) - ☕️   My Dot Files
 - [emmett1/lfs-scripts](https://github.com/emmett1/lfs-scripts) - Automated script to build Multilib LFS system + livecd
 - [phisch/giph](https://github.com/phisch/giph) - simple video (gif, webm, mp4) recorder
 - [hellocatfood/jpg-glitch-pattern-generator](https://github.com/hellocatfood/jpg-glitch-pattern-generator) - Automatically generate patterns that exploit compression in jpgs
