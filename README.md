@@ -98,6 +98,7 @@
 ## Astro 
 
 - [kranachan/escapeland](https://github.com/kranachan/escapeland) - 📺 A retro portfolio template powered by Sanity
+- [NixOS/nixos-homepage](https://github.com/NixOS/nixos-homepage) - Sources for nixos.org
 
 ## Batchfile 
 
@@ -1289,7 +1290,6 @@
 - [Remix-Design/RemixIcon](https://github.com/Remix-Design/RemixIcon) - Open source neutral style icon system
 - [praveenjuge/mynaui-icons](https://github.com/praveenjuge/mynaui-icons) - Beautifully crafted open source icons from Myna UI.
 - [edurbrito/markdown-notes](https://github.com/edurbrito/markdown-notes) - Templates for your Note Taking Markdown Workflow
-- [NixOS/nixos-homepage](https://github.com/NixOS/nixos-homepage) - Sources for nixos.org
 - [mescon/Muximux](https://github.com/mescon/Muximux) - A lightweight way to manage your HTPC
 
 ## Lua 
@@ -2189,6 +2189,9 @@
 
 ## Others 
 
+- [RimaBuilds/AutoGPT-handbook](https://github.com/RimaBuilds/AutoGPT-handbook) - A guide to using AutoGPT for code generation and prompt engineering.
+- [linexjlin/GPTs](https://github.com/linexjlin/GPTs) - leaked prompts of GPTs
+- [gorwayne/gpt-prompt](https://github.com/gorwayne/gpt-prompt) - leaked prompts of GPTs
 - [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources
 - [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - A list of awesome beginners-friendly projects.
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
@@ -3701,7 +3704,7 @@
 - [getmeli/meli](https://github.com/getmeli/meli) - Platform for deploying static sites and frontend applications easily. Automatic SSL, deploy previews, reverse proxy, and more.
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
 - [whoisryosuke/ryosuke-gatsby-blog](https://github.com/whoisryosuke/ryosuke-gatsby-blog) - Static PWA React-powered portfolio and blog built with GatsbyJS
-- [tiangolo/full-stack-fastapi-postgresql](https://github.com/tiangolo/full-stack-fastapi-postgresql) - Full stack, modern web application generator. Using FastAPI, PostgreSQL as database, Docker, automatic HTTPS and more.
+- [tiangolo/full-stack-fastapi-template](https://github.com/tiangolo/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
 - [urbanogardun/monte-note](https://github.com/urbanogardun/monte-note) - Note taking application with a rich set of editing and management features
 - [taniarascia/takenote](https://github.com/taniarascia/takenote) - 📝  ‎ A web-based notes app for developers.
 - [vuejs/core](https://github.com/vuejs/core) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
