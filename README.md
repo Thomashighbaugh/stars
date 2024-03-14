@@ -1317,7 +1317,7 @@
 - [wrkzk/nixos-config](https://github.com/wrkzk/nixos-config) - NixOS system configuration using flakes
 - [tsukki9696/tsukiyomi](https://github.com/tsukki9696/tsukiyomi) - An elegant AwesomeWM configuration focused on beauty and a carefully crafted UI.
 - [brose55/awesome-config](https://github.com/brose55/awesome-config) - My changes to PapyElGringo/material-awesome
-- [singul4ri7y/not-awesome-at-all](https://github.com/singul4ri7y/not-awesome-at-all) - An AwesomeWM rice inspired by HikariKnight and PapyElGringo's work.
+- [singul4ri7y/not-awesome-at-all](https://github.com/singul4ri7y/not-awesome-at-all) - An AwesomeWM rice inspired by HikariKnight and PapyElGringo's work 👾
 - [nyngwang/suave.lua](https://github.com/nyngwang/suave.lua) - Multi-tabs project session automation
 - [chrisgrieser/nvim-rulebook](https://github.com/chrisgrieser/nvim-rulebook) - Add inline-comments to ignore rules, or lookup rule documentation online.
 - [Exafunction/codeium.nvim](https://github.com/Exafunction/codeium.nvim) - A native neovim extension for Codeium
@@ -1908,7 +1908,7 @@
 
 ## Nix 
 
-- [RadovanSk/Faery](https://github.com/RadovanSk/Faery) - My personal NixOS flake. I just have it to share it with others. I am a complete newbie and thus I don't recommend using this flake until I make it better.
+- [AlephNought0/Faery](https://github.com/AlephNought0/Faery) - My personal NixOS flake. I just have it to share it with others. I am a complete newbie and thus I don't recommend using this flake until I make it better.
 - [liquidovski/OuterHeaven](https://github.com/liquidovski/OuterHeaven) - My NixOS configuration that I try to keep simple and readable.
 - [roastedcheese/nicks](https://github.com/roastedcheese/nicks) - My basic nixos flake
 - [NixOS/infra](https://github.com/NixOS/infra) - NixOS configurations for nixos.org and its servers
@@ -3069,7 +3069,7 @@
 - [TangoMan75/commitator](https://github.com/TangoMan75/commitator) - TangoMan Commitator is an awesome bash script to fake git commit history.
 - [chubin/cheat.sheets](https://github.com/chubin/cheat.sheets) - cheat.sh cheat sheets repository
 - [mikeroyal/Linux-Mint-Guide](https://github.com/mikeroyal/Linux-Mint-Guide) - Linux Mint Guide
-- [gh0stzk/dotfiles](https://github.com/gh0stzk/dotfiles) - bspwm + polybar + eww rices. 12 themes with a rice selector to change on the fly.
+- [gh0stzk/dotfiles](https://github.com/gh0stzk/dotfiles) - BSPWM environment with 15 themes. Polybar. eww widgets, with a rice selector to change on the fly.
 - [olivierodo/Awesome-CV-action](https://github.com/olivierodo/Awesome-CV-action) - A GitHub action to keep you Awesome CV up to date through continuous integration
 - [fantasy0x1/dotfiles](https://github.com/fantasy0x1/dotfiles) - Dotfiles of my Arch Linux daily setup
 - [ericdallo/dotfiles](https://github.com/ericdallo/dotfiles) - Dotfiles for my NixOS system based on Dracula theme
@@ -3556,7 +3556,7 @@
 - [swearer23/portfolio](https://github.com/swearer23/portfolio) - minimalist portfolio built with daisyui and nextjs
 - [uniformdev/uniform-component-starter-kit](https://github.com/uniformdev/uniform-component-starter-kit) - Essential set of components you need to start building personalizable web experiences with Uniform. Built with TailwindCSS, DaisyUI, React, and Next.js.
 - [webexpe13/blog-template-using-nextjs-typescript-tailwindcss](https://github.com/webexpe13/blog-template-using-nextjs-typescript-tailwindcss) - This project is a simple blog template using next js, typescript and tailwind css. blog+nextjs+tailwind+typescript.
-- [keegandonley/keegan.codes](https://github.com/keegandonley/keegan.codes) - The shiny new version of my website building using NextJS server components
+- [keegandonley/keegan.codes](https://github.com/keegandonley/keegan.codes) - My blog and website, built using NextJS server components
 - [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [lazerwalker/storyboard](https://github.com/lazerwalker/storyboard) - A narrative engine for interactive storytelling
