@@ -795,6 +795,7 @@
 
 ## JavaScript 
 
+- [christinec-dev/Poket-Book](https://github.com/christinec-dev/Poket-Book) - A Pokémon Themed Note Taking App Made with ReactJs.
 - [maximilionus/monokai_pro_keygen](https://github.com/maximilionus/monokai_pro_keygen) - Monokai Pro theme license key generator for Visual Studio Code and Sublime Text
 - [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
 - [dailyrandomphoto/dailyrandomphoto](https://github.com/dailyrandomphoto/dailyrandomphoto) - https://www.dailyrandomphoto.com/
@@ -2258,7 +2259,7 @@
 - [easychen/aiapi](https://github.com/easychen/aiapi) - A Claude-driven, OpenAI specification-compliant API, free
 - [dailydotdev/daily](https://github.com/dailydotdev/daily) - daily.dev is a professional network for developers to learn, collaborate, and grow together 👩🏽‍💻 👨‍💻
 - [awesome-scripts/awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) - 📖  A curated list of Awesome Userscripts.
-- [Floorp-Projects/Floorp](https://github.com/Floorp-Projects/Floorp) - The source code of version 10 or later of Floorp Browser, the most Advanced and Fastest Firefox derivative 🦊
+- [Floorp-Projects/Floorp](https://github.com/Floorp-Projects/Floorp) - The most of source code of version 10 or later of Floorp Browser, the most Advanced and Fastest Firefox derivative 🦊
 - [GuiDevloper/nullstack-types](https://github.com/GuiDevloper/nullstack-types) - Typing files for Nullstack framework
 - [nullstack/awesome-nullstack](https://github.com/nullstack/awesome-nullstack) - :sparkling_heart: All awesome resources involving the awesome Nullstack
 - [humancalico/nix-learning](https://github.com/humancalico/nix-learning) - A bunch of links to blog posts, articles, videos, etc for learning Nix
