@@ -97,7 +97,7 @@
 
 ## Astro 
 
-- [kranachan/escapeland](https://github.com/kranachan/escapeland) - 📺 A retro portfolio template powered by Sanity
+- [kranachan/escapeland](https://github.com/kranachan/escapeland) - Here is my portfolio, which is also my blog. (&gt; &lt;)
 - [NixOS/nixos-homepage](https://github.com/NixOS/nixos-homepage) - Sources for nixos.org
 
 ## Batchfile 
@@ -910,7 +910,7 @@
 - [dupontjoy/userChrome.js-Collections-](https://github.com/dupontjoy/userChrome.js-Collections-) - UC scripts collections, include UC scripts I don't use for now and UC scripts collected from others' sharing. Just for me to find them easily in the future.
 - [Aylur/gnome-extensions](https://github.com/Aylur/gnome-extensions) - gnome extension
 - [spencerlepine/github-api-react](https://github.com/spencerlepine/github-api-react) - React app that displays a selected users GitHub repositories, using GitHub REST API.
-- [arifszn/blog.js](https://github.com/arifszn/blog.js) - JavaScript client to get recent blog posts from popular blogging platforms.
+- [arifszn/blog.js](https://github.com/arifszn/blog.js) - JavaScript client to get recent blog posts from your blogging platforms.
 - [maizzle/framework](https://github.com/maizzle/framework) - Quickly build HTML emails with Tailwind CSS.
 - [akashdoppalapudi/akashdoppalapudi-portfolio](https://github.com/akashdoppalapudi/akashdoppalapudi-portfolio) - A Next.js project for my portfolio website
 - [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
@@ -2195,6 +2195,8 @@
 
 ## Others 
 
+- [taishi-i/awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories) - A curated list of resources dedicated to open source GitHub repositories related to ChatGPT
+- [pingan8787/awesome-ai-tools](https://github.com/pingan8787/awesome-ai-tools) - Finding the AI tools you need!
 - [mustvlad/ChatGPT-System-Prompts](https://github.com/mustvlad/ChatGPT-System-Prompts) - This repository contains a collection of the best system prompts for ChatGPT, a conversational AI model developed by OpenAI. Star this repository to help us reach 5,000 stars!
 - [T4P4N/Awesome-Termux](https://github.com/T4P4N/Awesome-Termux) - Awesome Termux :- Bash Scripts, Wiki, Articles,Shells & Many More...
 - [verazuo/jailbreak_llms](https://github.com/verazuo/jailbreak_llms) - A dataset consists of 6,387 ChatGPT prompts from Reddit, Discord, websites, and open-source datasets (including 666 jailbreak prompts).
@@ -2590,6 +2592,9 @@
 
 ## Python 
 
+- [tekgeek88/ai-story-teller](https://github.com/tekgeek88/ai-story-teller) - A simple Python program that reads in text from un-punctuated novels and generates a new story based on the frequency of word occurrence in the given material
+- [patasmith/autobook](https://github.com/patasmith/autobook) - A simple book generator.
+- [GOAT-AI-lab/GOAT-Storytelling-Agent](https://github.com/GOAT-AI-lab/GOAT-Storytelling-Agent) - Agent that writes consistent and interesting long stories for any fiction form
 - [Fareed-Ahmad7/Kitaab](https://github.com/Fareed-Ahmad7/Kitaab) - A cli note taking app 🌵
 - [myshell-ai/MeloTTS](https://github.com/myshell-ai/MeloTTS) - High-quality multi-lingual text-to-speech library by MyShell.ai. Support English, Spanish, French, Chinese, Japanese and Korean.
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python packaging and dependency management made easy
