@@ -795,6 +795,7 @@
 
 ## JavaScript 
 
+- [kinosal/cowriter](https://github.com/kinosal/cowriter) - Write 10x faster using OpenAI's GPT-3 based Davinci model to autocomplete your text
 - [christinec-dev/Poket-Book](https://github.com/christinec-dev/Poket-Book) - A Pokémon Themed Note Taking App Made with ReactJs.
 - [maximilionus/monokai_pro_keygen](https://github.com/maximilionus/monokai_pro_keygen) - Monokai Pro theme license key generator for Visual Studio Code and Sublime Text
 - [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
@@ -1914,6 +1915,7 @@
 
 ## Nix 
 
+- [GaetanLepage/nix-config](https://github.com/GaetanLepage/nix-config) - 
 - [AlephNought0/Faery](https://github.com/AlephNought0/Faery) - My personal NixOS flake. I just have it to share it with others. I am a complete newbie and thus I don't recommend using this flake until I make it better.
 - [liquidovski/OuterHeaven](https://github.com/liquidovski/OuterHeaven) - My NixOS configuration that I try to keep simple and readable.
 - [roastedcheese/nicks](https://github.com/roastedcheese/nicks) - My basic nixos flake
@@ -2195,6 +2197,7 @@
 
 ## Others 
 
+- [Xunzhuo/Xunzhuo](https://github.com/Xunzhuo/Xunzhuo) - About me
 - [taishi-i/awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories) - A curated list of resources dedicated to open source GitHub repositories related to ChatGPT
 - [pingan8787/awesome-ai-tools](https://github.com/pingan8787/awesome-ai-tools) - Finding the AI tools you need!
 - [mustvlad/ChatGPT-System-Prompts](https://github.com/mustvlad/ChatGPT-System-Prompts) - This repository contains a collection of the best system prompts for ChatGPT, a conversational AI model developed by OpenAI. Star this repository to help us reach 5,000 stars!
@@ -2930,6 +2933,7 @@
 
 ## Rust 
 
+- [char/charwiki](https://github.com/char/charwiki) - Personal wiki software in Rust (using axum)
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
 - [FuelLabs/fuel-core](https://github.com/FuelLabs/fuel-core) - Rust full node implementation of the Fuel v2 protocol.
 - [FuelLabs/fuels-rs](https://github.com/FuelLabs/fuels-rs) - Fuel Network Rust SDK
@@ -3685,6 +3689,7 @@
 - [wigxel/nextjs-tailwind-boilerplate](https://github.com/wigxel/nextjs-tailwind-boilerplate) - A boilerplate for NextJS, StyledComponents and Tailwindcss. Lint and Formatting enabled.
 - [nixton9/HomePage](https://github.com/nixton9/HomePage) - HomePage app
 - [usablica/intro.js](https://github.com/usablica/intro.js) - Lightweight, user-friendly onboarding tour library
+- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi 4, any Ubuntu/Debian system, or a VPS.
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - Your One-Stop Publication Workbench
 - [medyo/hackertab.dev](https://github.com/medyo/hackertab.dev) - A Chrome 🌐 & Firefox 🦊 extension to discover the latest developer news and tools in one tab!
 - [rfarine/art-portfolio](https://github.com/rfarine/art-portfolio) - raefarine.art
@@ -3822,7 +3827,6 @@
 - [karakanb/devo](https://github.com/karakanb/devo) - A Chrome and Firefox extension that displays GitHub Trending, Hacker News, Product Hunt and Designer News on every new tab.
 - [SamirM-BE/ErasMail](https://github.com/SamirM-BE/ErasMail) - An open source tool for cleaning email boxes and saving the planet
 - [Schrodinger-Hat/ImageGoNord](https://github.com/Schrodinger-Hat/ImageGoNord) - A tool that can convert your rgb images to nordtheme palette
-- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi 4, any Ubuntu/Debian system, or a VPS.
 - [lostdesign/webgems](https://github.com/lostdesign/webgems) - A curated list of resources for devs and designers. Join me on devcord.com if you are up for a chit chat :)
 - [Litarvan/lightdm-webkit-theme-litarvan](https://github.com/Litarvan/lightdm-webkit-theme-litarvan) - Litarvan's LightDM HTML Theme
 - [Exauthor/lightdm-webkit-theme-osmos](https://github.com/Exauthor/lightdm-webkit-theme-osmos) - Osmos
