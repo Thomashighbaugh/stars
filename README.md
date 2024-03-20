@@ -2658,7 +2658,7 @@
 - [maximedrn/opensea-automatic-bulk-upload-and-sale](https://github.com/maximedrn/opensea-automatic-bulk-upload-and-sale) - A Selenium Python bot to automatically and bulk upload/ mint and list your NFTs on OpenSea. All metadata compatible, Ethereum and Polygon blockchains supported, reCAPTCHA solvers included.
 - [AaronWLChan/file-organiser](https://github.com/AaronWLChan/file-organiser) - Simple File Organiser
 - [ms-jpq/windows-in-docker](https://github.com/ms-jpq/windows-in-docker) - Manage Windows in Docker (easy)
-- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. A copilot to search and chat (using RAG) with your knowledge base (pdf, markdown, org). Use powerful, online (e.g gpt4) or private, offline (e.g mistral) LLMs. Self-host locally 
 - [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
@@ -2684,6 +2684,7 @@
 - [new92/IGFI](https://github.com/new92/IGFI) - 🤖 Increase your followers on Instagram with IGFI 📈
 - [EvilDrPorkChop/OpenSea-NFT-Creator](https://github.com/EvilDrPorkChop/OpenSea-NFT-Creator) - A collection of python scripts which help you programatically create PNGs or GIFs and their Metadata in bulk with custom rarity rates, upload them to OpenSea & list them for sale.
 - [thiagokokada/nix-alien](https://github.com/thiagokokada/nix-alien) - Run unpatched binaries on Nix/NixOS
+- [DRACULA-HACK/C-hacks](https://github.com/DRACULA-HACK/C-hacks) - All social Media hacking with information gathering
 - [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Monterey + Ventura + Sonoma support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
 - [onny/OSX-KVM](https://github.com/onny/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Big Sur + Monterey + Ventura support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
 - [beejjorgensen/bgpython](https://github.com/beejjorgensen/bgpython) - Beej's Guide to Python Programming source
