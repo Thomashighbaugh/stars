@@ -97,7 +97,7 @@
 
 ## Astro 
 
-- [kranachan/escapeland](https://github.com/kranachan/escapeland) - Here is my portfolio, which is also my blog. (&gt; &lt;)
+- [kranachan/escapeland](https://github.com/kranachan/escapeland) - Here is my portfolio, which is also my blog (&gt; &lt;)
 - [NixOS/nixos-homepage](https://github.com/NixOS/nixos-homepage) - Sources for nixos.org
 
 ## Batchfile 
@@ -1769,7 +1769,6 @@
 - [jcrd/dovetail](https://github.com/jcrd/dovetail) - An opinionated tiling window manager
 - [no3l0815/awesome-config](https://github.com/no3l0815/awesome-config) - My configuration for the awesome window manager
 - [dpetersen/awesome](https://github.com/dpetersen/awesome) - Config for AwesomeWM
-- [d-k-ivanov/awesomewm-conf](https://github.com/d-k-ivanov/awesomewm-conf) - Awesome WM config with widgets
 - [undefinedDarkness/rice](https://github.com/undefinedDarkness/rice) - Home Sweet Home
 - [Elv13/awesome-configs](https://github.com/Elv13/awesome-configs) - My AwesomeWM configuration
 - [braddellinger/dotfiles](https://github.com/braddellinger/dotfiles) - My personal collection of dotfiles
@@ -1915,6 +1914,7 @@
 
 ## Nix 
 
+- [danth/stylix](https://github.com/danth/stylix) - System-wide colorscheming and typography for NixOS
 - [GaetanLepage/nix-config](https://github.com/GaetanLepage/nix-config) - 
 - [AlephNought0/Faery](https://github.com/AlephNought0/Faery) - My personal NixOS flake. I just have it to share it with others. I am a complete newbie and thus I don't recommend using this flake until I make it better.
 - [liquidovski/OuterHeaven](https://github.com/liquidovski/OuterHeaven) - My NixOS configuration that I try to keep simple and readable.
@@ -2043,7 +2043,7 @@
 - [xyven1/nixos-configuration](https://github.com/xyven1/nixos-configuration) - 
 - [plmercereau/NixOS](https://github.com/plmercereau/NixOS) - NixOS config for servers in the field
 - [573/NixOS](https://github.com/573/NixOS) - MSF OCB NixOS config
-- [dawidd6/nix](https://github.com/dawidd6/nix) - :snowflake: NixOS and home-manager configurations
+- [dawidd6/nix](https://github.com/dawidd6/nix) - :snowflake: My NixOS and home-manager configurations
 - [chaotic-cx/nyx](https://github.com/chaotic-cx/nyx) - Nix flake for "too much bleeding-edge" and unreleased packages (e.g., mesa_git, linux_cachyos, firefox_nightly, sway_git, gamescope_git). And experimental modules (e.g., HDR, duckdns).
 - [tensorush/flakes](https://github.com/tensorush/flakes) - ❄️ My NixOS configuration flakes.
 - [nicekoishi/dotfiles](https://github.com/nicekoishi/dotfiles) - my NixOS dotfiles, do what you want
@@ -3070,6 +3070,7 @@
 
 ## Shell 
 
+- [0xacx/chatGPT-shell-cli](https://github.com/0xacx/chatGPT-shell-cli) - Simple shell script to use OpenAI's ChatGPT and DALL-E from the terminal. No Python or JS required.
 - [dockur/windows](https://github.com/dockur/windows) - Windows in a Docker container.
 - [mayTermux/myTermux](https://github.com/mayTermux/myTermux) - Make your Termux look better
 - [evgvs/turboarch](https://github.com/evgvs/turboarch) - TurboArch - Seamlessly Replace Your Current OS with Arch Linux NOW!
@@ -3420,7 +3421,7 @@
 - [archcraft-os/archcraft](https://github.com/archcraft-os/archcraft) - // Source : ISO
 - [Dhghomon/easy_rust](https://github.com/Dhghomon/easy_rust) - Rust explained using easy English
 - [tcode2k16/rofi-chrome](https://github.com/tcode2k16/rofi-chrome) - a browser extension for better tab navigation without injecting javascript code on every tab you open
-- [tinted-theming/base16-fzf](https://github.com/tinted-theming/base16-fzf) - base16 colorschemes for fzf
+- [tinted-theming/tinted-fzf](https://github.com/tinted-theming/tinted-fzf) - base16 colorschemes for fzf
 - [jeffscode/Makeiso](https://github.com/jeffscode/Makeiso) - Makeiso creates an Arch based ISO with CLI installer, duplicating the users Arch install for installation
 - [gsanhueza/ArchISOMaker](https://github.com/gsanhueza/ArchISOMaker) - A custom Arch Linux ISO Maker
 - [Hyzual/docker-gitit](https://github.com/Hyzual/docker-gitit) - Gitit wiki on Docker. Uses debian.
@@ -3516,6 +3517,7 @@
 
 ## TypeScript 
 
+- [remjx/coindrop](https://github.com/remjx/coindrop) - Create a custom webpage for zero-fee payments/donations/tips
 - [bangle-io/bangle-io](https://github.com/bangle-io/bangle-io) - A web only WYSIWYG note taking app that saves notes locally in markdown format.
 - [redis/ioredis](https://github.com/redis/ioredis) - 🚀 A robust, performance-focused, and full-featured Redis client for Node.js.
 - [uixmat/firestarta](https://github.com/uixmat/firestarta) - Next.js SaaS boilerplate with NextAuth, Prisma, Supabase, Shadcn/ui & Lemon Squeezy Subscriptions
