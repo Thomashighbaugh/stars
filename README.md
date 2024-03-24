@@ -116,6 +116,7 @@
 
 ## C 
 
+- [ReadyWidgets/surface_filters](https://github.com/ReadyWidgets/surface_filters) - A library to add filter effects to the awesome window manager (like blurring)
 - [sushi-ae/dotfiles](https://github.com/sushi-ae/dotfiles) - My personal dotfiles that are constantly being updated.
 - [ralismark/nix-appimage](https://github.com/ralismark/nix-appimage) - Convert a nixos derivation into a self-contained binary
 - [unikraft/unikraft](https://github.com/unikraft/unikraft) - A next-generation cloud native kernel designed to unlock best-in-class performance, security primitives and efficiency savings.
@@ -316,7 +317,6 @@
 - [RLesur/pulpdown](https://github.com/RLesur/pulpdown) - A bookdown template with CSS paged media for pulp magazines (demo)
 - [Ritika-Agrawal811/storyboard-template](https://github.com/Ritika-Agrawal811/storyboard-template) - A storyboard template made using HTML and CSS.
 - [Sinomor/dotfiles](https://github.com/Sinomor/dotfiles) - awesomewm dotfiles
-- [Thomashighbaugh/gpt_notebook](https://github.com/Thomashighbaugh/gpt_notebook) - A Markdown Notebook about LLMs and Generative AI rendered into a website using MDBook and GitHub Actions. Featues my collection of prompts for ChatGPT/GPT-3
 - [7KIR7/dots](https://github.com/7KIR7/dots) - my dotfiles
 - [Stetsed/.dotfiles](https://github.com/Stetsed/.dotfiles) - My dotfiles repository
 - [NeuronSooup/Gnome-topbar-le-dots](https://github.com/NeuronSooup/Gnome-topbar-le-dots) - This is my gnome configuration for both usability, look and feel
@@ -877,6 +877,7 @@
 - [Akshay090/svg-banners](https://github.com/Akshay090/svg-banners) - Styled banners for your Readme made with html/css in SVG !!
 - [kampka/nix-packages](https://github.com/kampka/nix-packages) - My personal nix repository
 - [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 5200 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [ozwaldorf/dotfiles](https://github.com/ozwaldorf/dotfiles) - my dots
 - [leepenney/markdown-gallery](https://github.com/leepenney/markdown-gallery) - Converts a list of images into gallery mark-up
 - [ujjalacharya/awesome-ecom](https://github.com/ujjalacharya/awesome-ecom) - A complete online ecommerce portal (Node, React, Mongo, NextJS, ReactNative)
 - [amand33p/stack-underflow](https://github.com/amand33p/stack-underflow) - Feature-rich ‘stack overflow’ (QnA site) clone. Made using MERN + GraphQL stack.
@@ -1301,6 +1302,7 @@
 
 ## Lua 
 
+- [ReadyWidgets/awesome-extrautils](https://github.com/ReadyWidgets/awesome-extrautils) - A library providing many utility functions for use with the awesome window manager
 - [Selyss/mind.nvim](https://github.com/Selyss/mind.nvim) - Simple tree-based note taking system for Neovim
 - [michaelrommel/nvim-silicon](https://github.com/michaelrommel/nvim-silicon) - neovim plugin to create code images using the external silicon tool.
 - [Gwynsav/gwileful](https://github.com/Gwynsav/gwileful) - Have I finally created something that isn't a lua-programmed nuke? Maybe...
@@ -1500,7 +1502,7 @@
 - [nivalderramas/dotfiles_old](https://github.com/nivalderramas/dotfiles_old) - Personal dotfiles
 - [dharmx/nvim](https://github.com/dharmx/nvim) - Blazingly fast SHUTTHEFUCKUP.
 - [Stardust-kyun/dotfiles](https://github.com/Stardust-kyun/dotfiles) - 🌸 - Personal Dotfiles
-- [JannikWibker/awesome-config](https://github.com/JannikWibker/awesome-config) - Awesome WM config
+- [JaninaWibker/awesome-config](https://github.com/JaninaWibker/awesome-config) - Awesome WM config
 - [larkery/awesome](https://github.com/larkery/awesome) - 
 - [edluffy/specs.nvim](https://github.com/edluffy/specs.nvim) - 👓 A fast and lightweight Neovim lua plugin to keep an eye on where your cursor has jumped.
 - [sidebar-nvim/sidebar.nvim](https://github.com/sidebar-nvim/sidebar.nvim) - A generic and modular lua sidebar for Neovim
@@ -1886,7 +1888,6 @@
 ## Makefile 
 
 - [tammymakesthings/markdown-ebook-template](https://github.com/tammymakesthings/markdown-ebook-template) - Template for creating books (ebook and paper) from Markdown files
-- [ozwaldorf/dotfiles](https://github.com/ozwaldorf/dotfiles) - my dots
 - [teamniteo/handbook](https://github.com/teamniteo/handbook) - The Niteo Handbook
 - [pierres/archiso-manager](https://github.com/pierres/archiso-manager) - 
 - [infectedmushi/android_device_oneplus_instantnoodle-dev](https://github.com/infectedmushi/android_device_oneplus_instantnoodle-dev) - TWRP tree Unified for OnePlus 8/8 Pro (instantnoodle, instantnoodlep)
@@ -2202,6 +2203,7 @@
 
 ## Others 
 
+- [vaaski/vaaski](https://github.com/vaaski/vaaski) - Animated SVG for my GitHub profile.
 - [zhiwehu/Python-programming-exercises](https://github.com/zhiwehu/Python-programming-exercises) - 100+ Python challenging programming exercises
 - [D3vil0p3r/D3vil0p3r](https://github.com/D3vil0p3r/D3vil0p3r) - 
 - [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) - Awesome-LLM: a curated list of Large Language Model
@@ -3346,7 +3348,7 @@
 - [davatorium/rofi-scripts](https://github.com/davatorium/rofi-scripts) - Small scripts for use with rofi
 - [sgleizes/xsh](https://github.com/sgleizes/xsh) - A simple framework for shell configuration management.
 - [ODEX-TOS/packages](https://github.com/ODEX-TOS/packages) - Closely follow Arch Linux packages
-- [Thomashighbaugh/arch_install](https://github.com/Thomashighbaugh/arch_install) - Menu-driven dialog driven installation script using dialog (looks like debian installation menu).
+- [the-Electric-Tantra-Linux/arch_install](https://github.com/the-Electric-Tantra-Linux/arch_install) - Menu-driven dialog driven installation script using dialog (looks like debian installation menu).
 - [luminusOS/mkluminus](https://github.com/luminusOS/mkluminus) - Script for creating Luminus OS ISO image. Forked and modified from original mkarchiso.
 - [brinkOS/brinkOS-assets](https://github.com/brinkOS/brinkOS-assets) - Assets package for brinkOS
 - [joestandring/dwm-bar](https://github.com/joestandring/dwm-bar) - A modular statusbar for dwm
@@ -3651,7 +3653,7 @@
 - [LasCC/HackTools](https://github.com/LasCC/HackTools) - The all-in-one browser extension for offensive security professionals 🛠
 - [Ekliptor/WolfBot](https://github.com/Ekliptor/WolfBot) - Crypto currency trading bot written in TypeScript for NodeJS
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
-- [Thomashighbaugh/biolink](https://github.com/Thomashighbaugh/biolink) - A temporary solution for my linktree-alternative needs. Because its much easier to type out just one link than a dozen.
+- [Thomashighbaugh/links](https://github.com/Thomashighbaugh/links) - My link-tree clone in neubrutalist style!
 - [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
 - [alekangelov/nt-dashboard](https://github.com/alekangelov/nt-dashboard) - A simple, fast and customizable dashboard for your new tab.
 - [abhijhacodes/linkhub](https://github.com/abhijhacodes/linkhub) - Share all your links with just one link &lt;3
