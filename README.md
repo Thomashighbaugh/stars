@@ -962,7 +962,6 @@
 - [4cm4k1/personal-website](https://github.com/4cm4k1/personal-website) - Personal website – made with Next.js, Preact, MDX, RMWC, & Vercel
 - [garywill/aboutconfig-menu](https://github.com/garywill/aboutconfig-menu) - Shortcuts to settings in about:config (universal), through a button on toolbar. Firefox userChrome script 🛠️
 - [cliqz-oss/firefox-autoconfigs](https://github.com/cliqz-oss/firefox-autoconfigs) - 
-- [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - 📝 Modern documentation format and toolchain using Git and Markdown
 - [tailwindlabs/heroicons](https://github.com/tailwindlabs/heroicons) - A set of free MIT-licensed high-quality SVG icons for UI development.
 - [feathericons/feather](https://github.com/feathericons/feather) - Simply beautiful open-source icons
 - [montoulieu/link-ent](https://github.com/montoulieu/link-ent) - 🌲 A free Linktree alternative built with Next.js and Tailwind.
@@ -1916,6 +1915,9 @@
 
 ## Nix 
 
+- [hawkw/flake](https://github.com/hawkw/flake) - eliza's entire computer: the git repo
+- [ewan15/dotFiles](https://github.com/ewan15/dotFiles) - NixOS + Flakes + HomeManager + Sway
+- [ericmaustin/nixos-nebula](https://github.com/ericmaustin/nixos-nebula) - nixos flake for nebula
 - [Prometheus7435/nix-config](https://github.com/Prometheus7435/nix-config) - NixOS flake config with KDE and ZFS
 - [nix-community/nix-direnv](https://github.com/nix-community/nix-direnv) - A fast, persistent use_nix/use_flake implementation for direnv [maintainer=@Mic92 / @bbenne10]
 - [NixOS/nixos-hardware](https://github.com/NixOS/nixos-hardware) - A collection of NixOS modules covering hardware quirks.
@@ -3668,6 +3670,7 @@
 - [osmoscraft/osmosmemo](https://github.com/osmoscraft/osmosmemo) - Turn GitHub into a bookmark manager
 - [Shougo/ddc.vim](https://github.com/Shougo/ddc.vim) - Dark deno-powered completion framework for neovim/Vim
 - [fontsource/fontsource](https://github.com/fontsource/fontsource) - Self-host Open Source fonts in neatly bundled NPM packages.
+- [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - The open source frontend for GitBook doc sites
 - [ant-design/ant-design-icons](https://github.com/ant-design/ant-design-icons) - ⭐ Ant Design SVG Icons
 - [react-icons/react-icons](https://github.com/react-icons/react-icons) - svg react icons of popular icon packs
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
