@@ -1752,7 +1752,6 @@
 - [ruslansin/snsome](https://github.com/ruslansin/snsome) - This is my theme for awesomeWM 4.1+. I am trying to use it as my main WM and customize it for myself
 - [timonv/cyberpunk-awesome](https://github.com/timonv/cyberpunk-awesome) - Theme and daily driver for AwesomeWM
 - [marcinn/awesome-desktop](https://github.com/marcinn/awesome-desktop) - A simple desktop environment based on AwesomeWM framework
-- [KhaimovMR/awesome-performer](https://github.com/KhaimovMR/awesome-performer) - My optimal Awesome WM configuration for development and management performance.
 - [MohamedIrfanAM/AwesomeWM](https://github.com/MohamedIrfanAM/AwesomeWM) - My Awesome window manager config
 - [troglobit/awesome-config](https://github.com/troglobit/awesome-config) - My awesome window manager configuration
 - [jaypei/hh-awesome](https://github.com/jaypei/hh-awesome) - A framework for Awesome WM config
@@ -2204,6 +2203,7 @@
 
 ## Others 
 
+- [gregoryg/AIPIHKAL](https://github.com/gregoryg/AIPIHKAL) - AI (LLM) Prompts I Have Known And Loved
 - [yingpengma/Awesome-Story-Generation](https://github.com/yingpengma/Awesome-Story-Generation) - This repository collects an extensive list of awesome papers about Story Generation / Storytelling, primarily focusing on the era of Large Language Models (LLMs).
 - [deepnight-ai/aiforcause](https://github.com/deepnight-ai/aiforcause) - Providing free-to-use API for AI Models to all. #aiforcause by DEEPNIGHT.
 - [vaaski/vaaski](https://github.com/vaaski/vaaski) - Animated SVG for my GitHub profile.
@@ -2249,8 +2249,8 @@
 - [icons8/WPF-UI-Framework](https://github.com/icons8/WPF-UI-Framework) - A set of UI controls that can be used for designing better user interfaces for Windows.
 - [raklaptudirm/raklaptudirm](https://github.com/raklaptudirm/raklaptudirm) - please stop starring this repo ;-;
 - [Templarian/MaterialDesign](https://github.com/Templarian/MaterialDesign) - ✒7000+ Material Design Icons from the Community
-- [halfmage/pixelarticons](https://github.com/halfmage/pixelarticons) - Beautiful pixel icons. For the pixel vibes.
-- [halfmage/majesticons](https://github.com/halfmage/majesticons) - Majesticons Free – A versatile, beautiful, and scalable iconset. 760 icons each in line and solid style.
+- [halfmage/pixelarticons](https://github.com/halfmage/pixelarticons) - 👾 Beautiful pixel icons. For the pixel vibes.
+- [halfmage/majesticons](https://github.com/halfmage/majesticons) - 👑 Free Version – A versatile, beautiful, and scalable iconset. 760 icons each in line and solid style.
 - [leptos-rs/awesome-leptos](https://github.com/leptos-rs/awesome-leptos) - A collection of awesome libraries in the Leptos ecosystem.
 - [birdneststream/breakingbard](https://github.com/birdneststream/breakingbard) - Google Bard 'jailbreaks' and prompt poisoning, similar to how ChatGPT has DAN Mode but for Google Bard.
 - [ColorblindAdam/ChatGPTPrompts](https://github.com/ColorblindAdam/ChatGPTPrompts) - Prompts I have created or modified to use with ChatGPT
