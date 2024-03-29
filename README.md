@@ -2143,7 +2143,7 @@
 - [NobbZ/nixos-config](https://github.com/NobbZ/nixos-config) - 
 - [viperML/dotfiles](https://github.com/viperML/dotfiles) - Personal configuration files for my PC
 - [gytis-ivaskevicius/flake-utils-plus](https://github.com/gytis-ivaskevicius/flake-utils-plus) - Use Nix flakes without any fluff.
-- [LudovicoPiero/dotfiles](https://github.com/LudovicoPiero/dotfiles) - NixOS Configuration powered by Flakes ❄️
+- [LudovicoPiero/dotfiles](https://github.com/LudovicoPiero/dotfiles) - NixOS Configuration powered by Flakes + Hive ❄️
 - [moni-dz/nixpkgs-f2k](https://github.com/moni-dz/nixpkgs-f2k) - my personal package repository (binary cache included!)
 - [Misterio77/nix-config](https://github.com/Misterio77/nix-config) - Personal nixos and home-manager configurations.
 - [mrkuz/nixos](https://github.com/mrkuz/nixos) - My NixOS configuration.
@@ -2269,7 +2269,6 @@
 - [IonicaBizau/reset-your-facebook-account](https://github.com/IonicaBizau/reset-your-facebook-account) - :older_man: Some scripts to delete your Facebook posts, comments and likes.
 - [devbrones/llama-prompts](https://github.com/devbrones/llama-prompts) - A collection of prompts for Llama
 - [PickleBoxer/dev-chatgpt-prompts](https://github.com/PickleBoxer/dev-chatgpt-prompts) - 📚 Personal collection of ChatGPT prompts for developers!
-- [yzfly/awesome-claude-prompts](https://github.com/yzfly/awesome-claude-prompts) - This repo includes Claude prompt curation to use Claude better.
 - [ComradeAERGO/Awesome-Neobrutalism](https://github.com/ComradeAERGO/Awesome-Neobrutalism) - A curated list of resources for Neobrutalism Design
 - [notlmn/awesome-icons](https://github.com/notlmn/awesome-icons) - A curated list of awesome downloadable SVG/PNG/Font icon projects
 - [Rickhersd/neo-icons](https://github.com/Rickhersd/neo-icons) - Mi propia colección de iconos inspirada en el Neo-Brutalismo
@@ -2607,6 +2606,7 @@
 
 ## Python 
 
+- [chroma-core/chroma](https://github.com/chroma-core/chroma) - the AI-native open-source embedding database
 - [Mohit6304/FableForgeAI-StoryEngine](https://github.com/Mohit6304/FableForgeAI-StoryEngine) - FableForgeAI-StoryEngine integrates cutting-edge AI technologies including Gemini-Pro, Hugging Face models, and Gradio interfaces to provide an immersive platform for generating stories, engaging with
 - [Amm1rr/WebAI-to-API](https://github.com/Amm1rr/WebAI-to-API) - ChatGPT, Claude, Gemini to API  : )
 - [xusenlinzy/api-for-open-llm](https://github.com/xusenlinzy/api-for-open-llm) - Openai style api for open large language models, using LLMs just as chatgpt! Support for LLaMA, LLaMA-2, BLOOM, Falcon, Baichuan, Qwen, Xverse, SqlCoder, CodeLLaMA, ChatGLM, ChatGLM2, ChatGLM3 etc. 开源
@@ -3057,7 +3057,7 @@
 - [Thomashighbaugh/Not-Another-Devlog](https://github.com/Thomashighbaugh/Not-Another-Devlog) - Final form of my devlog. Built with React, Gatsby, SASS, Bootstrap, FontAwesome and SpaceMacs!
 - [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 - [the-Electric-Tantra-Linux/Dhumavati-Theme](https://github.com/the-Electric-Tantra-Linux/Dhumavati-Theme) - A Skeuos fork with the vice color scheme and select enhancements
-- [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - My cheatsheets
+- [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - Cheatsheets for web development - devhints.io
 - [NCSU-Libraries/jekyll-academic](https://github.com/NCSU-Libraries/jekyll-academic) - 
 - [TeaGuns/odin](https://github.com/TeaGuns/odin) - A Jekyll help desk/knowledge base theme
 - [mldangelo/personal-site](https://github.com/mldangelo/personal-site) - My personal website - built with React, React-Router, React-Snap for Static-Export, and GitHub Pages.
@@ -3185,7 +3185,7 @@
 - [gavinlyonsrepo/cylon](https://github.com/gavinlyonsrepo/cylon) - A Terminal user interface for maintaining an Arch Linux distribution.
 - [ideas-man/artix-wizard](https://github.com/ideas-man/artix-wizard) - A collection of install/setup/configuration scripts for quick and painless workstation/server environment deployment under Artix Linux.
 - [alvatip/Nordzy-icon](https://github.com/alvatip/Nordzy-icon) - Nordzy is a free and open source icon theme for Linux desktops using the Nord color palette from Arctic Ice Studio and based on WhiteSur and Numix Icon Theme.
-- [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - I am using this repository to document my journey learning about DevOps. I began this process on January 1, 2022, and plan to continue until March 31. I will be dedicating one hour each day, including
+- [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps
 - [faisyl/alpine-runit](https://github.com/faisyl/alpine-runit) - Repo for the docker image of the same name.
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 - [lincheney/fzf-tab-completion](https://github.com/lincheney/fzf-tab-completion) - Tab completion using fzf
@@ -3536,6 +3536,7 @@
 
 ## TypeScript 
 
+- [ttttonyhe/ouorz-mono](https://github.com/ttttonyhe/ouorz-mono) - :rocket: A Monorepo for My Personal Website and Related Projects
 - [remjx/coindrop](https://github.com/remjx/coindrop) - Create a custom webpage for zero-fee payments/donations/tips
 - [bangle-io/bangle-io](https://github.com/bangle-io/bangle-io) - A web only WYSIWYG note taking app that saves notes locally in markdown format.
 - [redis/ioredis](https://github.com/redis/ioredis) - 🚀 A robust, performance-focused, and full-featured Redis client for Node.js.
