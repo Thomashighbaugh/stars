@@ -1243,6 +1243,8 @@
 
 ## Jupyter Notebook 
 
+- [NoDataFound/hackGPT](https://github.com/NoDataFound/hackGPT) - I leverage OpenAI and ChatGPT to do hackerish things
+- [xiaowuc2/ChatGPT-Python-Applications](https://github.com/xiaowuc2/ChatGPT-Python-Applications) - ChatGPT Python Applications integrated with third party libraries and modules
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 18 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
 - [ruankie/ecrivai](https://github.com/ruankie/ecrivai) - Fully automated AI blog writer that uses LangChain and GPT type LLMs for topic selection and content generation
 - [dylanhogg/gptauthor](https://github.com/dylanhogg/gptauthor) - GPTAuthor is an AI tool for writing long form, multi-chapter stories given a story prompt.
@@ -1302,6 +1304,7 @@
 
 ## Lua 
 
+- [RutaTang/quicknote.nvim](https://github.com/RutaTang/quicknote.nvim) - Quickly take notes, in-place
 - [ReadyWidgets/awesome-extrautils](https://github.com/ReadyWidgets/awesome-extrautils) - A library providing many utility functions for use with the awesome window manager
 - [Selyss/mind.nvim](https://github.com/Selyss/mind.nvim) - Simple tree-based note taking system for Neovim
 - [michaelrommel/nvim-silicon](https://github.com/michaelrommel/nvim-silicon) - neovim plugin to create code images using the external silicon tool.
@@ -1914,6 +1917,7 @@
 
 ## Nix 
 
+- [kira-bruneau/nixos-config](https://github.com/kira-bruneau/nixos-config) - My NixOS configuration. Mirror of code maintained at gitlab.com.
 - [hawkw/flake](https://github.com/hawkw/flake) - eliza's entire computer: the git repo
 - [ewan15/dotFiles](https://github.com/ewan15/dotFiles) - NixOS + Flakes + HomeManager + Sway
 - [ericmaustin/nixos-nebula](https://github.com/ericmaustin/nixos-nebula) - nixos flake for nebula
@@ -2127,7 +2131,7 @@
 - [GTrunSec/nixos-flk](https://github.com/GTrunSec/nixos-flk) - highly structured NixOS configuration based on devos
 - [thiagokokada/nix-configs](https://github.com/thiagokokada/nix-configs) - My Nix{OS} configuration files
 - [nix-community/NixNG](https://github.com/nix-community/NixNG) - A linux distribution based on Nix [maintainer=@MagicRB]
-- [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config) - Nix configuration for macOS / NixOS with starter templates ✨
+- [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config) - Nix configuration for macOS / NixOS with starter templates, step-by-step guides, and more ✨
 - [kanashimia/nixos-config](https://github.com/kanashimia/nixos-config) - Configuration of my nixos systems.
 - [gautaz/phoenix](https://github.com/gautaz/phoenix) - Because I want my Nix workspaces to rise from their ashes
 - [wiltaylor/nix-iso](https://github.com/wiltaylor/nix-iso) - My collection of custom NixOS ISO files.
@@ -2606,6 +2610,7 @@
 
 ## Python 
 
+- [lucasmccabe/emailGPT](https://github.com/lucasmccabe/emailGPT) - a quick and easy interface to generate emails with ChatGPT
 - [chroma-core/chroma](https://github.com/chroma-core/chroma) - the AI-native open-source embedding database
 - [Mohit6304/FableForgeAI-StoryEngine](https://github.com/Mohit6304/FableForgeAI-StoryEngine) - FableForgeAI-StoryEngine integrates cutting-edge AI technologies including Gemini-Pro, Hugging Face models, and Gradio interfaces to provide an immersive platform for generating stories, engaging with
 - [Amm1rr/WebAI-to-API](https://github.com/Amm1rr/WebAI-to-API) - ChatGPT, Claude, Gemini to API  : )
@@ -2949,6 +2954,7 @@
 
 ## Rust 
 
+- [BrianHicks/nix-script](https://github.com/BrianHicks/nix-script) - write scripts in compiled languages that run in the nix ecosystem, with no separate build step
 - [char/charwiki](https://github.com/char/charwiki) - Personal wiki software in Rust (using axum)
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
 - [FuelLabs/fuel-core](https://github.com/FuelLabs/fuel-core) - Rust full node implementation of the Fuel v2 protocol.
