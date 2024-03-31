@@ -509,7 +509,7 @@
 
 ## Elixir 
 
-- [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based zero trust access platform that supports OIDC authentication, user/group sync, and requires zero firewall configuration.
+- [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based zero-trust access platform with OIDC auth and identity sync.
 - [aerosol/wb](https://github.com/aerosol/wb) - Writer's Block - personal wiki engine
 
 ## Elm 
@@ -1304,6 +1304,7 @@
 
 ## Lua 
 
+- [NormalNvim/NormalNvim](https://github.com/NormalNvim/NormalNvim) - A normal Neovim distribution
 - [RutaTang/quicknote.nvim](https://github.com/RutaTang/quicknote.nvim) - Quickly take notes, in-place
 - [ReadyWidgets/awesome-extrautils](https://github.com/ReadyWidgets/awesome-extrautils) - A library providing many utility functions for use with the awesome window manager
 - [Selyss/mind.nvim](https://github.com/Selyss/mind.nvim) - Simple tree-based note taking system for Neovim
@@ -2184,7 +2185,6 @@
 - [peel/dotfiles](https://github.com/peel/dotfiles) - well-tailored NixOS & nix-darwin dotfiles
 - [divnix/digga](https://github.com/divnix/digga) - A flake utility library to craft shell-, home-, and hosts- environments.
 - [terlar/nix-config](https://github.com/terlar/nix-config) - Configuration for NixOS and user home (dot files).
-- [MCotocel/nixdots](https://github.com/MCotocel/nixdots) - It somehow works!
 - [nix-community/nixos-generators](https://github.com/nix-community/nixos-generators) - Collection of image builders [maintainer=@Lassulus]
 
 ## Nunjucks 
@@ -2273,6 +2273,7 @@
 - [IonicaBizau/reset-your-facebook-account](https://github.com/IonicaBizau/reset-your-facebook-account) - :older_man: Some scripts to delete your Facebook posts, comments and likes.
 - [devbrones/llama-prompts](https://github.com/devbrones/llama-prompts) - A collection of prompts for Llama
 - [PickleBoxer/dev-chatgpt-prompts](https://github.com/PickleBoxer/dev-chatgpt-prompts) - 📚 Personal collection of ChatGPT prompts for developers!
+- [yzfly/awesome-claude-prompts](https://github.com/yzfly/awesome-claude-prompts) - This repo includes Claude prompt curation to use Claude better.
 - [ComradeAERGO/Awesome-Neobrutalism](https://github.com/ComradeAERGO/Awesome-Neobrutalism) - A curated list of resources for Neobrutalism Design
 - [notlmn/awesome-icons](https://github.com/notlmn/awesome-icons) - A curated list of awesome downloadable SVG/PNG/Font icon projects
 - [Rickhersd/neo-icons](https://github.com/Rickhersd/neo-icons) - Mi propia colección de iconos inspirada en el Neo-Brutalismo
@@ -2389,7 +2390,6 @@
 - [szorfein/unix-portfolio](https://github.com/szorfein/unix-portfolio) - Screenshots of my many themes (uncompressed)
 - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
 - [ltfred/code-font](https://github.com/ltfred/code-font) - 收录编程字体
-- [MCotocel/dotfiles](https://github.com/MCotocel/dotfiles) - There's no place like ~/
 - [dylanaraps/writing-a-tui-in-bash](https://github.com/dylanaraps/writing-a-tui-in-bash) - How to write a TUI in BASH
 - [addy-dclxvi/bitmap-font-collections](https://github.com/addy-dclxvi/bitmap-font-collections) - Custom bitmap fonts, based on M+, Tewi, Lemon, and Siji
 - [notion-enhancer/tweaks](https://github.com/notion-enhancer/tweaks) - A collection of user-submitted CSS tweaks for Notion
@@ -2610,6 +2610,7 @@
 
 ## Python 
 
+- [databricks/dbrx](https://github.com/databricks/dbrx) - Code examples and resources for DBRX, a large language model developed by Databricks
 - [lucasmccabe/emailGPT](https://github.com/lucasmccabe/emailGPT) - a quick and easy interface to generate emails with ChatGPT
 - [chroma-core/chroma](https://github.com/chroma-core/chroma) - the AI-native open-source embedding database
 - [Mohit6304/FableForgeAI-StoryEngine](https://github.com/Mohit6304/FableForgeAI-StoryEngine) - FableForgeAI-StoryEngine integrates cutting-edge AI technologies including Gemini-Pro, Hugging Face models, and Gradio interfaces to provide an immersive platform for generating stories, engaging with
