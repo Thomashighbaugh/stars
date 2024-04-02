@@ -1369,7 +1369,6 @@
 - [PassiveLemon/lemonix](https://github.com/PassiveLemon/lemonix) - The Dotfiles for my NixOS systems
 - [gnomengineer/simpledesktop](https://github.com/gnomengineer/simpledesktop) - a lightweight and simple arch distro with own customization
 - [madhur/dotfiles](https://github.com/madhur/dotfiles) - Configuration files of my desktop computer running EndeavourOS Linux
-- [dangminhngo/awesome-dotfiles](https://github.com/dangminhngo/awesome-dotfiles) - My dotfiles on X (AwesomeWM)
 - [coderosh/.dots](https://github.com/coderosh/.dots) - 🐻 dots
 - [aarondill/awesome](https://github.com/aarondill/awesome) - My AwesomeWM configuration
 - [Nooo37/aww](https://github.com/Nooo37/aww) - 
@@ -1921,6 +1920,7 @@
 
 ## Nix 
 
+- [divnix/flake-bootstrap](https://github.com/divnix/flake-bootstrap) - 
 - [kira-bruneau/nixos-config](https://github.com/kira-bruneau/nixos-config) - My NixOS configuration. Mirror of code maintained at gitlab.com.
 - [hawkw/flake](https://github.com/hawkw/flake) - eliza's entire computer: the git repo
 - [ewan15/dotFiles](https://github.com/ewan15/dotFiles) - NixOS + Flakes + HomeManager + Sway
