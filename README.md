@@ -116,6 +116,7 @@
 
 ## C 
 
+- [ayamir/dotfiles](https://github.com/ayamir/dotfiles) - My dotfiles with dwm, qtile and awesome.
 - [ReadyWidgets/filters](https://github.com/ReadyWidgets/filters) - Graphics filters for awesome - blurring, shadows and more
 - [ReadyWidgets/surface_filters](https://github.com/ReadyWidgets/surface_filters) - A library to add filter effects to the awesome window manager (like blurring)
 - [sushi-ae/dotfiles](https://github.com/sushi-ae/dotfiles) - My personal dotfiles that are constantly being updated.
@@ -881,7 +882,7 @@
 - [Akshay090/svg-banners](https://github.com/Akshay090/svg-banners) - Styled banners for your Readme made with html/css in SVG !!
 - [kampka/nix-packages](https://github.com/kampka/nix-packages) - My personal nix repository
 - [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 5200 free MIT-licensed high-quality SVG icons for you to use in your web projects.
-- [ozwaldorf/dotfiles](https://github.com/ozwaldorf/dotfiles) - my dots
+- [ozwaldorf/flake](https://github.com/ozwaldorf/flake) - my flake for everything
 - [leepenney/markdown-gallery](https://github.com/leepenney/markdown-gallery) - Converts a list of images into gallery mark-up
 - [ujjalacharya/awesome-ecom](https://github.com/ujjalacharya/awesome-ecom) - A complete online ecommerce portal (Node, React, Mongo, NextJS, ReactNative)
 - [amand33p/stack-underflow](https://github.com/amand33p/stack-underflow) - Feature-rich ‘stack overflow’ (QnA site) clone. Made using MERN + GraphQL stack.
@@ -1287,6 +1288,7 @@
 
 ## Kotlin 
 
+- [fork-maintainers/iceraven-browser](https://github.com/fork-maintainers/iceraven-browser) - Iceraven Browser
 - [iamrasel/lunar-launcher](https://github.com/iamrasel/lunar-launcher) - Feature rich android home with minimal look. 🇵🇸
 - [udevbe/westford](https://github.com/udevbe/westford) - Westford Wayland Compositor
 - [Chooloo/koler](https://github.com/Chooloo/koler) - Just a phone app.
@@ -2211,6 +2213,7 @@
 
 ## Others 
 
+- [openai/openai-openapi](https://github.com/openai/openai-openapi) - OpenAPI specification for the OpenAI API
 - [waymbers/badbard](https://github.com/waymbers/badbard) - Badbard - Google Bard's Gemini Unleashed Unrestricted and
 - [dqbd/GPTs](https://github.com/dqbd/GPTs) - leaked prompts of GPTs
 - [gregoryg/AIPIHKAL](https://github.com/gregoryg/AIPIHKAL) - AI (LLM) Prompts I Have Known And Loved
@@ -2618,7 +2621,7 @@
 
 - [friuns2/Leaked-GPTs](https://github.com/friuns2/Leaked-GPTs) - Leaked GPTs Prompts Bypass the 25 message limit or to try out GPTs without a Plus subscription.
 - [h2oai/h2o-llmstudio](https://github.com/h2oai/h2o-llmstudio) - H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs. Documentation: https://h2oai.github.io/h2o-llmstudio/
-- [AJaySi/AI-Blog-Writer](https://github.com/AJaySi/AI-Blog-Writer) - AI Blog generation  & Automation. Keywords based web research, SEO optimised, high quality, original content. Generate relevant blog Images. WIP
+- [AJaySi/AI-Blog-Writer](https://github.com/AJaySi/AI-Blog-Writer) - AI Content generation  & Automation. Keywords based web research, SEO optimised, high quality, original content. Generate relevant blog Images. WIP
 - [different-ai/embedbase-ava](https://github.com/different-ai/embedbase-ava) - Obsidian + Embedbase = Ava
 - [databricks/dbrx](https://github.com/databricks/dbrx) - Code examples and resources for DBRX, a large language model developed by Databricks
 - [lucasmccabe/emailGPT](https://github.com/lucasmccabe/emailGPT) - a quick and easy interface to generate emails with ChatGPT
@@ -3633,7 +3636,7 @@
 - [BUMBAIYA/amitchauhan-v2](https://github.com/BUMBAIYA/amitchauhan-v2) - Portfolio website made using Nextjs 13 and Tailwindcss
 - [coreui/coreui-icons](https://github.com/coreui/coreui-icons) - CoreUI Free Icons -  Premium designed free icon set with marks in SVG, Webfont and raster formats
 - [vitorgouveia/Giffy](https://github.com/vitorgouveia/Giffy) - :camera: Gif recording made easy.
-- [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - ✨ Trigger.dev is the open source background jobs framework for TypeScript. With features like API integrations, webhooks, scheduling and delays.
+- [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev is the open source background jobs framework for TypeScript. With features like API integrations, webhooks, scheduling and delays.
 - [RotichD/photography-personal](https://github.com/RotichD/photography-personal) - Personal photography portfolio website with blog. Next.JS + TypeScript + TailwindCSS
 - [GoldinGuy/CollegeCompendium](https://github.com/GoldinGuy/CollegeCompendium) - 📓 A curated collection of free public Computer Science classes from colleges across America
 - [csmberkeley/csm_web](https://github.com/csmberkeley/csm_web) - Web applications for CS Mentors.
