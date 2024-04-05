@@ -2028,7 +2028,7 @@
 - [pjones/plasma-manager](https://github.com/pjones/plasma-manager) - Manage KDE Plasma with Home Manager
 - [ocfox/den](https://github.com/ocfox/den) - Simply, but firmly
 - [svend/user-env-nix](https://github.com/svend/user-env-nix) - Reproducible development environment powered by Nix Flakes
-- [wochap/nix-config](https://github.com/wochap/nix-config) - Personal NixOS setup
+- [wochap/nix-config](https://github.com/wochap/nix-config) - Personal NixOS configuration
 - [rouven0/nixos-config](https://github.com/rouven0/nixos-config) - My NixOS configuration files
 - [chvp/nixos-config](https://github.com/chvp/nixos-config) - Configuration of my machines (main development happens at https://git.chvp.be/chvp/nixos-config these days)
 - [linyinfeng/dotfiles](https://github.com/linyinfeng/dotfiles) - My personal NixOS configurations.
