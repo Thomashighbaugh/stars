@@ -1352,7 +1352,7 @@
 - [neph-iap/forge.nvim](https://github.com/neph-iap/forge.nvim) - Language tool manager for Neovim using mason.nvim, nvim-treesitter, and more.
 - [mobsenpai/sugoi](https://github.com/mobsenpai/sugoi) - すごい Sugoi | Comfy environment for AwesomeWM
 - [folke/null-ls.nvim](https://github.com/folke/null-ls.nvim) - Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.
-- [mncc8337/dotfiles](https://github.com/mncc8337/dotfiles) - my awesomewm dotfiles
+- [mncc8337/awesomewm-dotfiles](https://github.com/mncc8337/awesomewm-dotfiles) - my awesomewm dotfiles
 - [PoisonIsBestType/dotfiles](https://github.com/PoisonIsBestType/dotfiles) - awesomewm setup config files
 - [nvimtools/none-ls.nvim](https://github.com/nvimtools/none-ls.nvim) - null-ls.nvim reloaded / Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.
 - [dharmx/awesome](https://github.com/dharmx/awesome) - My AwesomeWM confuguration. Written in Yuescript.
@@ -1577,7 +1577,7 @@
 - [awesomeWM/awesome-www](https://github.com/awesomeWM/awesome-www) - Website of AwesomeWM
 - [frabjous/awesome](https://github.com/frabjous/awesome) - Dotfiles for awesomewm
 - [meriadec/awesome-efficient](https://github.com/meriadec/awesome-efficient) - Awesome WM 4 theme - Focused on elegance, minimalism & productivity
-- [mhmood-sf/turbo-awesome](https://github.com/mhmood-sf/turbo-awesome) - AwesomeWM dotfiles
+- [mhmood-sf/turbo-awesome](https://github.com/mhmood-sf/turbo-awesome) - AwesomeWM dotfiles; archived, see my repo all-the-dots
 - [nuxshed/dotfiles](https://github.com/nuxshed/dotfiles) - pls help
 - [Kasper24/KwesomeDE](https://github.com/Kasper24/KwesomeDE) - A desktop environment made in AwesomeWM
 - [javacafe01/awesome-wallpaper](https://github.com/javacafe01/awesome-wallpaper) - 
@@ -2218,7 +2218,7 @@
 - [dqbd/GPTs](https://github.com/dqbd/GPTs) - leaked prompts of GPTs
 - [gregoryg/AIPIHKAL](https://github.com/gregoryg/AIPIHKAL) - AI (LLM) Prompts I Have Known And Loved
 - [yingpengma/Awesome-Story-Generation](https://github.com/yingpengma/Awesome-Story-Generation) - This repository collects an extensive list of awesome papers about Story Generation / Storytelling, primarily focusing on the era of Large Language Models (LLMs).
-- [deepnight-ai/aiforcause](https://github.com/deepnight-ai/aiforcause) - Providing free-to-use API for AI Models to all. #aiforcause by DEEPNIGHT.
+- [brahmai-research/aiforcause](https://github.com/brahmai-research/aiforcause) - Providing free-to-use API for AI Models to all. #aiforcause by DEEPNIGHT.
 - [vaaski/vaaski](https://github.com/vaaski/vaaski) - Animated SVG for my GitHub profile.
 - [zhiwehu/Python-programming-exercises](https://github.com/zhiwehu/Python-programming-exercises) - 100+ Python challenging programming exercises
 - [D3vil0p3r/D3vil0p3r](https://github.com/D3vil0p3r/D3vil0p3r) - 
@@ -2627,7 +2627,7 @@
 - [lucasmccabe/emailGPT](https://github.com/lucasmccabe/emailGPT) - a quick and easy interface to generate emails with ChatGPT
 - [chroma-core/chroma](https://github.com/chroma-core/chroma) - the AI-native open-source embedding database
 - [Mohit6304/FableForgeAI-StoryEngine](https://github.com/Mohit6304/FableForgeAI-StoryEngine) - FableForgeAI-StoryEngine integrates cutting-edge AI technologies including Gemini-Pro, Hugging Face models, and Gradio interfaces to provide an immersive platform for generating stories, engaging with
-- [Amm1rr/WebAI-to-API](https://github.com/Amm1rr/WebAI-to-API) - ChatGPT, Claude, Gemini to API  : )
+- [Amm1rr/WebAI-to-API](https://github.com/Amm1rr/WebAI-to-API) - Claude, Gemini to API  : )
 - [xusenlinzy/api-for-open-llm](https://github.com/xusenlinzy/api-for-open-llm) - Openai style api for open large language models, using LLMs just as chatgpt! Support for LLaMA, LLaMA-2, BLOOM, Falcon, Baichuan, Qwen, Xverse, SqlCoder, CodeLLaMA, ChatGLM, ChatGLM2, ChatGLM3 etc. 开源
 - [dhruvk2002/ats](https://github.com/dhruvk2002/ats) - This is an ATS based resume tracker which will help students to improve their resume and get a job.
 - [icebaker/sublime-nano-bots](https://github.com/icebaker/sublime-nano-bots) - Boost productivity and power your workflow with Nano Bots for Sublime Text: small, AI-powered bots that can be easily shared as a single file, designed to support multiple providers such as Cohere Com
@@ -3193,7 +3193,7 @@
 - [noctuid/dotfiles](https://github.com/noctuid/dotfiles) - Mouseless Workflow (WIP)
 - [CachyOS/CachyOS-Live-ISO](https://github.com/CachyOS/CachyOS-Live-ISO) - 
 - [CachyOS/CachyOS-Settings](https://github.com/CachyOS/CachyOS-Settings) - Settings used for CachyOS
-- [ivan-hc/AM](https://github.com/ivan-hc/AM) - AppImage manager/installer/updater and AUR-inspired database, now including 1900+ AppImage packages and official standalone apps for GNU/Linux. "AM" Application Manager also provides scripts to manage
+- [ivan-hc/AM](https://github.com/ivan-hc/AM) - AppImage manager, installer and updater including an extensible AUR-inspired database, now including 1900+ AppImages and official standalone apps for GNU/Linux. Easy to use like APT and powerful like 
 - [metis-os/metis-sideload](https://github.com/metis-os/metis-sideload) - // Ofiicial installer for @metis-os
 - [metis-os/repo-recon](https://github.com/metis-os/repo-recon) - 📦 Repository: recon, Hacking tools // pkgs
 - [archon-linux/archon-iso](https://github.com/archon-linux/archon-iso) - 
@@ -3825,6 +3825,7 @@
 
 ## Vim Script 
 
+- [dominee/Termux-dotfiles](https://github.com/dominee/Termux-dotfiles) - .files for the Termux android terminal
 - [Exafunction/codeium.vim](https://github.com/Exafunction/codeium.vim) - Free, ultrafast Copilot alternative for Vim and Neovim
 - [Arkham/dotfiles.nix](https://github.com/Arkham/dotfiles.nix) - Dotfiles super-powered by Nix and home-manager
 - [issadarkthing/artix-dotfiles](https://github.com/issadarkthing/artix-dotfiles) - My Artix linux dotfiles
