@@ -232,7 +232,6 @@
 
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs gguf, transfor
 - [Miriway/Miriway](https://github.com/Miriway/Miriway) - Mir based Wayland compositor
-- [flox/flox](https://github.com/flox/flox) - Developer environments you can take with you
 - [jechasteen/gratuitous](https://github.com/jechasteen/gratuitous) - IDE for awesome window manager configuration and themes. Start and stop a Xephyr preview, syntax highlighting, editor splitting.
 - [Alex313031/thorium](https://github.com/Alex313031/thorium) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md.
 - [MCredstoner2004/ImageLOL](https://github.com/MCredstoner2004/ImageLOL) - simple program to store a file into a PNG image
@@ -553,6 +552,7 @@
 
 ## Go 
 
+- [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 - [ublue-os/fleek](https://github.com/ublue-os/fleek) - [deprecated] Own your $HOME
 - [carltheperson/10-things-linux](https://github.com/carltheperson/10-things-linux) - Getting better at Linux with 10 mini-projects.
@@ -802,6 +802,8 @@
 
 ## JavaScript 
 
+- [EyadShabrawy/ai-writer](https://github.com/EyadShabrawy/ai-writer) - AI Writer is a web application that utilizes GPT-3 technology to generate high-quality essays and articles on a variety of topics. It is designed to make the writing process faster and more efficient 
+- [ashutoshkrris/random-advice-workflow](https://github.com/ashutoshkrris/random-advice-workflow) - This workflow uses Random Advice Slip API to generate a random advice and puts up in your README files.
 - [friuns2/BlackFriday-GPTs-Prompts](https://github.com/friuns2/BlackFriday-GPTs-Prompts) - List of free GPTs that doesn't require plus subscription
 - [kinosal/cowriter](https://github.com/kinosal/cowriter) - Write 10x faster using OpenAI's GPT-3 based Davinci model to autocomplete your text
 - [christinec-dev/Poket-Book](https://github.com/christinec-dev/Poket-Book) - A Pokémon Themed Note Taking App Made with ReactJs.
@@ -1773,7 +1775,7 @@
 - [doronbehar/awesome-autostart](https://github.com/doronbehar/awesome-autostart) - 
 - [ThePrimeagen/refactoring.nvim](https://github.com/ThePrimeagen/refactoring.nvim) - The Refactoring library based off the Refactoring book by Martin Fowler
 - [alswl/awesome](https://github.com/alswl/awesome) - my Awesome(window management) configuration for Arch/Ubuntu
-- [70xH/dotfiles](https://github.com/70xH/dotfiles) - Welcome to my messy ~/home
+- [8u6-57r34k/dotfiles](https://github.com/8u6-57r34k/dotfiles) - Welcome to my messy ~/home
 - [Alexian123/dotfiles](https://github.com/Alexian123/dotfiles) - GNU/Linux dotfiles
 - [shagu/dotfiles](https://github.com/shagu/dotfiles) - 
 - [jcrd/dovetail](https://github.com/jcrd/dovetail) - An opinionated tiling window manager
@@ -2214,6 +2216,7 @@
 
 ## Others 
 
+- [thoughtworks/mlops-platforms](https://github.com/thoughtworks/mlops-platforms) - Compare MLOps Platforms. Breakdowns of SageMaker, VertexAI, AzureML, Dataiku, Databricks, h2o, kubeflow, mlflow...
 - [openai/openai-openapi](https://github.com/openai/openai-openapi) - OpenAPI specification for the OpenAI API
 - [waymbers/badbard](https://github.com/waymbers/badbard) - Badbard - Google Bard's Gemini Unleashed Unrestricted and
 - [dqbd/GPTs](https://github.com/dqbd/GPTs) - leaked prompts of GPTs
@@ -2587,6 +2590,7 @@
 
 ## PHP 
 
+- [fbiego/auto-follow-unfollow](https://github.com/fbiego/auto-follow-unfollow) - Follow and unfollow users automatically
 - [WP-Masters-GmbH/ai-content-writer-generator](https://github.com/WP-Masters-GmbH/ai-content-writer-generator) - AI Content Writer & Generator
 - [olegkrivtsov/openbook](https://github.com/olegkrivtsov/openbook) - Markdown=&gt;HTML converter for generating online books
 - [jetify-com/devbox-examples](https://github.com/jetify-com/devbox-examples) - Example dev environments built with Devbox
@@ -2620,6 +2624,11 @@
 
 ## Python 
 
+- [gaurav18115/blogen](https://github.com/gaurav18115/blogen) - 🚀 BLOGEN - Your Blog Generation Companion! 📝  Effortlessly create captivating blog posts with AI-driven content generation. Input primary keywords, choose writing tones, and generate tailor-made conte
+- [Tom-Mumby/Language-model-text-generator](https://github.com/Tom-Mumby/Language-model-text-generator) - A python project which, when given a file containing some text (e.g. works of Shakespeare), aims to generate text in a similar style. It relies on the Hugging Face Transformers to finetune the GPT-2 1
+- [Pmking27/AutoTalker](https://github.com/Pmking27/AutoTalker) - The project focuses on leveraging technology to create new courses, personalize existing ones, and enhance the assessment process, ultimately contributing to the development of 21st-century skills in 
+- [shamspias/langchain-gemini-api](https://github.com/shamspias/langchain-gemini-api) - An innovative AI conversation API leveraging Google's Gemini for multimodal understanding. Combines FastAPI, Langchain, and Redis for robust, scalable, and privacy-conscious text and image-based inter
+- [haseeb-heaven/langchain-coder](https://github.com/haseeb-heaven/langchain-coder) - Web Application that can generate code and fix bugs and run using various LLM's (GPT,Gemini,PALM)
 - [friuns2/Leaked-GPTs](https://github.com/friuns2/Leaked-GPTs) - Leaked GPTs Prompts Bypass the 25 message limit or to try out GPTs without a Plus subscription.
 - [h2oai/h2o-llmstudio](https://github.com/h2oai/h2o-llmstudio) - H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs. Documentation: https://h2oai.github.io/h2o-llmstudio/
 - [AJaySi/AI-Writer](https://github.com/AJaySi/AI-Writer) - AI Content generation  & Automation. Keywords based research, SEO optimised, high quality AI content. Generate blog Images. Alwrity.
@@ -2628,7 +2637,7 @@
 - [lucasmccabe/emailGPT](https://github.com/lucasmccabe/emailGPT) - a quick and easy interface to generate emails with ChatGPT
 - [chroma-core/chroma](https://github.com/chroma-core/chroma) - the AI-native open-source embedding database
 - [Mohit6304/FableForgeAI-StoryEngine](https://github.com/Mohit6304/FableForgeAI-StoryEngine) - FableForgeAI-StoryEngine integrates cutting-edge AI technologies including Gemini-Pro, Hugging Face models, and Gradio interfaces to provide an immersive platform for generating stories, engaging with
-- [Amm1rr/WebAI-to-API](https://github.com/Amm1rr/WebAI-to-API) - Claude, Gemini to API  : )
+- [Amm1rr/WebAI-to-API](https://github.com/Amm1rr/WebAI-to-API) - Claude, Gemini to API : )  (Unofficial, Don't need API KEY)
 - [xusenlinzy/api-for-open-llm](https://github.com/xusenlinzy/api-for-open-llm) - Openai style api for open large language models, using LLMs just as chatgpt! Support for LLaMA, LLaMA-2, BLOOM, Falcon, Baichuan, Qwen, Xverse, SqlCoder, CodeLLaMA, ChatGLM, ChatGLM2, ChatGLM3 etc. 开源
 - [dhruvk2002/ats](https://github.com/dhruvk2002/ats) - This is an ATS based resume tracker which will help students to improve their resume and get a job.
 - [icebaker/sublime-nano-bots](https://github.com/icebaker/sublime-nano-bots) - Boost productivity and power your workflow with Nano Bots for Sublime Text: small, AI-powered bots that can be easily shared as a single file, designed to support multiple providers such as Cohere Com
@@ -2985,6 +2994,7 @@
 - [pop-os/cosmic-greeter](https://github.com/pop-os/cosmic-greeter) - libcosmic greeter for greetd, which can be run inside cosmic-comp
 - [LeVuMinhHuy/blog](https://github.com/LeVuMinhHuy/blog) - just another blog, but built with rust
 - [leptos-rs/start](https://github.com/leptos-rs/start) - Starter template for use with the Leptos web framework.
+- [flox/flox](https://github.com/flox/flox) - Developer environments you can take with you
 - [leptos-rs/leptos-website](https://github.com/leptos-rs/leptos-website) - A website for the Leptos Web Framework!
 - [Kanerix/portfolio-rs](https://github.com/Kanerix/portfolio-rs) - My portfolio website, made with Leptos
 - [steadylearner/Rust-Full-Stack](https://github.com/steadylearner/Rust-Full-Stack) - Rust projects here are easy to use. There are blog posts for them also.
@@ -3556,6 +3566,7 @@
 
 ## TypeScript 
 
+- [mtharrison/promptscaper](https://github.com/mtharrison/promptscaper) - A client-only OpenAI LLM Playground for prototyping agents without writing any code.
 - [thenameisajay/Genie](https://github.com/thenameisajay/Genie) - This a lite version of a chatbot built to test Google's Gemini Models. Built using Next.js 14 & Google's Gemini.
 - [ttttonyhe/ouorz-mono](https://github.com/ttttonyhe/ouorz-mono) - :rocket: A Monorepo for My Personal Website and Related Projects
 - [remjx/coindrop](https://github.com/remjx/coindrop) - Create a custom webpage for zero-fee payments/donations/tips
