@@ -802,6 +802,8 @@
 
 ## JavaScript 
 
+- [anup-a/svgwave](https://github.com/anup-a/svgwave) - SVG Wave is a tiny, free and beautiful SVG gradient waves generator for your next design.
+- [DustinBrett/daedalOS](https://github.com/DustinBrett/daedalOS) - Desktop environment in the browser
 - [EyadShabrawy/ai-writer](https://github.com/EyadShabrawy/ai-writer) - AI Writer is a web application that utilizes GPT-3 technology to generate high-quality essays and articles on a variety of topics. It is designed to make the writing process faster and more efficient 
 - [ashutoshkrris/random-advice-workflow](https://github.com/ashutoshkrris/random-advice-workflow) - This workflow uses Random Advice Slip API to generate a random advice and puts up in your README files.
 - [friuns2/BlackFriday-GPTs-Prompts](https://github.com/friuns2/BlackFriday-GPTs-Prompts) - List of free GPTs that doesn't require plus subscription
@@ -1949,7 +1951,7 @@
 - [sodiboo/niri-flake](https://github.com/sodiboo/niri-flake) - Nix packages and modules for niri
 - [mahmoudk1000/nix-config](https://github.com/mahmoudk1000/nix-config) - mahmoudk1000's nixos configuration
 - [LutrisEng/nix-fly-template](https://github.com/LutrisEng/nix-fly-template) - Build an application with Nix and deploy it on Fly.io
-- [oluceps/nixos-config](https://github.com/oluceps/nixos-config) - My personal NixOS configurations with a small NUR.
+- [oluceps/nixos-config](https://github.com/oluceps/nixos-config) - My personal NixOS configurations & NUR.
 - [Ruixi-rebirth/flakes](https://github.com/Ruixi-rebirth/flakes) - 在数字混沌的深渊中，一个独特的雪花诞生了，由古老的代码之焰锻造，赋予了Nix的精华。时间在此停滞，命运正被重写！
 - [dr460nf1r3/dr460nixed](https://github.com/dr460nf1r3/dr460nixed) - Dr460nixed NixOS 🐉❄️
 - [m0lentum/dotfiles](https://github.com/m0lentum/dotfiles) - My NixOS config
