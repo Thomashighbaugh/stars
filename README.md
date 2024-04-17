@@ -2037,7 +2037,7 @@
 - [rouven0/nixos-config](https://github.com/rouven0/nixos-config) - My NixOS configuration files
 - [chvp/nixos-config](https://github.com/chvp/nixos-config) - Configuration of my machines (main development happens at https://git.chvp.be/chvp/nixos-config these days)
 - [linyinfeng/dotfiles](https://github.com/linyinfeng/dotfiles) - My personal NixOS configurations.
-- [xddxdd/nixos-config](https://github.com/xddxdd/nixos-config) - 
+- [xddxdd/nixos-config](https://github.com/xddxdd/nixos-config) - Lan Tian's NixOS Configuration
 - [ryan4yin/nix-config](https://github.com/ryan4yin/nix-config) - ❄️ my nix config for both desktops(NixOS+macOS) and homelab servers(NixOS).
 - [disassembler/network](https://github.com/disassembler/network) - Home Network
 - [ReplayCoding/nixos-config](https://github.com/ReplayCoding/nixos-config) - 
@@ -2057,7 +2057,7 @@
 - [foo-dogsquared/nixos-config](https://github.com/foo-dogsquared/nixos-config) - Aiming to be the most overkill NixOS config in the entire world.
 - [Kranzes/nix-config](https://github.com/Kranzes/nix-config) - Nix configurations
 - [mitchellh/nixos-config](https://github.com/mitchellh/nixos-config) - My NixOS configurations.
-- [hudcouto/nix-config](https://github.com/hudcouto/nix-config) - New dotfiles using NixOS + Home Manager + Flakes
+- [hudsilva/nix-config](https://github.com/hudsilva/nix-config) - New dotfiles using NixOS + Home Manager + Flakes
 - [bqv/rc](https://github.com/bqv/rc) - Structured system configuration (I moved from NixOS to GuixSD)
 - [srid/nixos-config](https://github.com/srid/nixos-config) - KISS NixOS configuration based on Flakes & flake-parts (supports macOS too)
 - [pantharshit00/nixos](https://github.com/pantharshit00/nixos) - Personal NixOS configuration using Nix Flakes and Nix Unstable 21.05
@@ -2627,6 +2627,7 @@
 
 ## Python 
 
+- [Agapitus1/Decoding-a-Message-from-a-Text-File](https://github.com/Agapitus1/Decoding-a-Message-from-a-Text-File) - In this exercise, you will develop a function named decode(message_file). This function should read an encoded message from a .txt file and return its decoded version as a string.
 - [ryanadoty/Amazon-Bedrock-Document-Generator-POC](https://github.com/ryanadoty/Amazon-Bedrock-Document-Generator-POC) - This is sample code demonstrating the use of Amazon Bedrock and Generative AI to implement a document generation use case. The application is constructed with a simple streamlit frontend where users c
 - [cubinator/ext4](https://github.com/cubinator/ext4) - Reading Ext4 volumes
 - [gaurav18115/blogen](https://github.com/gaurav18115/blogen) - 🚀 BLOGEN - Your Blog Generation Companion! 📝  Effortlessly create captivating blog posts with AI-driven content generation. Input primary keywords, choose writing tones, and generate tailor-made conte
