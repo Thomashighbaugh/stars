@@ -1927,6 +1927,7 @@
 
 ## Nix 
 
+- [IogaMaster/dotfiles](https://github.com/IogaMaster/dotfiles) - My NixOS flake.
 - [divnix/flake-bootstrap](https://github.com/divnix/flake-bootstrap) - 
 - [kira-bruneau/nixos-config](https://github.com/kira-bruneau/nixos-config) - My NixOS configuration. Mirror of code maintained at gitlab.com.
 - [hawkw/flake](https://github.com/hawkw/flake) - eliza's entire computer: the git repo
