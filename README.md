@@ -1954,7 +1954,7 @@
 - [mahmoudk1000/nix-config](https://github.com/mahmoudk1000/nix-config) - mahmoudk1000's nixos configuration
 - [LutrisEng/nix-fly-template](https://github.com/LutrisEng/nix-fly-template) - Build an application with Nix and deploy it on Fly.io
 - [oluceps/nixos-config](https://github.com/oluceps/nixos-config) - My personal NixOS configurations & NUR.
-- [Ruixi-rebirth/flakes](https://github.com/Ruixi-rebirth/flakes) - 在数字混沌的深渊中，一个独特的雪花诞生了，由古老的代码之焰锻造，赋予了Nix的精华。时间在此停滞，命运正被重写！
+- [Ruixi-rebirth/flakes](https://github.com/Ruixi-rebirth/flakes) - 
 - [dr460nf1r3/dr460nixed](https://github.com/dr460nf1r3/dr460nixed) - Dr460nixed NixOS 🐉❄️
 - [m0lentum/dotfiles](https://github.com/m0lentum/dotfiles) - My NixOS config
 - [stepbrobd/dotfiles](https://github.com/stepbrobd/dotfiles) - yet another dotfiles repo with nix
