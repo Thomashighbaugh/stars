@@ -339,6 +339,7 @@
 - [ayushhroyy/elegantfox](https://github.com/ayushhroyy/elegantfox) - firefox themed context and bookmark menus
 - [siduck/dotfiles](https://github.com/siduck/dotfiles) - dotfiles for my beautiful rices!
 - [khaneliman/dotfiles](https://github.com/khaneliman/dotfiles) - Multi platform and desktop environment dotfiles for developers.
+- [shvedes/dotfiles](https://github.com/shvedes/dotfiles) - My .dotfiles
 - [mehedirm6244/Miserable_Xfce](https://github.com/mehedirm6244/Miserable_Xfce) - My miserable dotfiles for Xfce
 - [L4ki/Aura-Plasma-Themes](https://github.com/L4ki/Aura-Plasma-Themes) - Aura Themes For Plasma Desktop
 - [vinceliuice/Matcha-gtk-theme](https://github.com/vinceliuice/Matcha-gtk-theme) - Matcha is a flat Design theme for GTK 3, GTK 2 and Gnome-Shell
@@ -573,7 +574,7 @@
 - [hellojukay/dl-talebook](https://github.com/hellojukay/dl-talebook) - Downloading books from talebook server。从 talebook 服务器下载电子书。
 - [bookstairs/bookhunter](https://github.com/bookstairs/bookhunter) - A download tools for clawing the ebooks from internets.
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
-- [stellar/kelp](https://github.com/stellar/kelp) - Kelp is a free and open-source trading bot for the Stellar DEX and 100+ centralized exchanges
+- [stellar-deprecated/kelp](https://github.com/stellar-deprecated/kelp) - Kelp is a free and open-source trading bot for the Stellar DEX and 100+ centralized exchanges
 - [thrasher-corp/gocryptotrader](https://github.com/thrasher-corp/gocryptotrader) - A cryptocurrency trading bot and framework supporting multiple exchanges written in Golang.
 - [hack4impact-upenn/transcribe4all](https://github.com/hack4impact-upenn/transcribe4all) - Painless speech-to-text transcription
 - [maximumadmin/zramd](https://github.com/maximumadmin/zramd) - Automatically setup swap on zram ✨ with optional systemd support, a simpler alternative to zram-generator and systemd-swap
@@ -655,6 +656,7 @@
 - [stephenhutchings/typicons.font](https://github.com/stephenhutchings/typicons.font) - 336 pixel perfect, all-purpose vector icons in a web-font kit
 - [krystonschwarze/coolicons](https://github.com/krystonschwarze/coolicons) - coolicons is a carefully designed collection of 440+ icons with a focus on simplicity and consistency. Perfectly suited for web, application and mobile design.
 - [ritaly/HTML-CSS-CV-demo](https://github.com/ritaly/HTML-CSS-CV-demo) - Template for Resume/CV in HTML and CSS
+- [aledipa/Free-GPT4-WEB-API](https://github.com/aledipa/Free-GPT4-WEB-API) - FreeGPT4-WEB-API is a python server that allows you to have a self-hosted GPT-4 Unlimited and Free WEB API, via the latest Bing's AI (and much more).
 - [Ja-sonYun/yew-template-for-github-io](https://github.com/Ja-sonYun/yew-template-for-github-io) - Template of yew project, using tailwind and webpack for css, trunk for build and serve, deployable as is for github.io
 - [aminblm/awesome-chatgpt-content-creation-prompts](https://github.com/aminblm/awesome-chatgpt-content-creation-prompts) - This repo includes ChatGPT content creation prompt curation to use ChatGPT for content creation better.
 - [jaantollander/Markdown-Templates](https://github.com/jaantollander/Markdown-Templates) - Templates for creating scientific, academic and technical documents using Markdown and Pandoc that support equations, code blocks, citations, Unicode symbols and vector graphics.
@@ -1708,7 +1710,7 @@
 - [nekonako/xresources-nvim](https://github.com/nekonako/xresources-nvim) - 🎨 Neovim colorscheme based on your xresources color
 - [lewis6991/impatient.nvim](https://github.com/lewis6991/impatient.nvim) - Improve startup time for Neovim
 - [s1n7ax/nvim-comment-frame](https://github.com/s1n7ax/nvim-comment-frame) - Detects the language using treesitter and adds a comment block
-- [n3wborn/nvim](https://github.com/n3wborn/nvim) - My own NVIM (&gt;=NVIM v0.10.0-dev-2355+g1c7b0b9d5) lua config
+- [n3wborn/nvim](https://github.com/n3wborn/nvim) - My own NVIM (&gt;=NVIM v0.10.0-dev-2993+gc81b7849a) lua config
 - [koniu/awesome-configs](https://github.com/koniu/awesome-configs) - koniu's awesome config
 - [kurbel/awesome-config](https://github.com/kurbel/awesome-config) - configuration files for the awesome window manager (awesomewm)
 - [nvim-lua/popup.nvim](https://github.com/nvim-lua/popup.nvim) - [WIP] An implementation of the Popup API from vim in Neovim. Hope to upstream when complete
@@ -2219,6 +2221,7 @@
 
 ## Others 
 
+- [matfantinel/matfantinel](https://github.com/matfantinel/matfantinel) - That would be me
 - [mahseema/awesome-ai-tools](https://github.com/mahseema/awesome-ai-tools) - A curated list of Artificial Intelligence Top Tools
 - [thoughtworks/mlops-platforms](https://github.com/thoughtworks/mlops-platforms) - Compare MLOps Platforms. Breakdowns of SageMaker, VertexAI, AzureML, Dataiku, Databricks, h2o, kubeflow, mlflow...
 - [openai/openai-openapi](https://github.com/openai/openai-openapi) - OpenAPI specification for the OpenAI API
@@ -2367,7 +2370,6 @@
 - [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns.
 - [mzoyinda/Tech-Newbies](https://github.com/mzoyinda/Tech-Newbies) - Tech-Newbies is an open source project for beginners in tech to find entry level jobs with (0-2)years experience, internships, bootcamps, free courses and many more....
 - [hugo53/awesome-RemoteWork](https://github.com/hugo53/awesome-RemoteWork) - Resources for remote workers: approaches, hiring page, remote life and more.
-- [shvedes/dotfiles](https://github.com/shvedes/dotfiles) - My .dotfiles
 - [Syndrizzle/hotfiles](https://github.com/Syndrizzle/hotfiles) - 🏠 A collection of personal configuration files for various rices I have made.
 - [rose-pine/gtk](https://github.com/rose-pine/gtk) - Soho vibes for GTK
 - [nas5w/100-days-of-code-frontend](https://github.com/nas5w/100-days-of-code-frontend) - Curriculum for learning front-end development during #100DaysOfCode.
@@ -2638,7 +2640,7 @@
 - [haseeb-heaven/langchain-coder](https://github.com/haseeb-heaven/langchain-coder) - Web Application that can generate code and fix bugs and run using various LLM's (GPT,Gemini,PALM)
 - [friuns2/Leaked-GPTs](https://github.com/friuns2/Leaked-GPTs) - Leaked GPTs Prompts Bypass the 25 message limit or to try out GPTs without a Plus subscription.
 - [h2oai/h2o-llmstudio](https://github.com/h2oai/h2o-llmstudio) - H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs. Documentation: https://h2oai.github.io/h2o-llmstudio/
-- [AJaySi/AI-Writer](https://github.com/AJaySi/AI-Writer) - Alwrity. AI Content generation  & Automation. Web Researched factual content, SEO optimised, high quality content. Generate blog Images. Complete AI-Powered Content suite for Marketing teams.
+- [AJaySi/AI-Writer](https://github.com/AJaySi/AI-Writer) - Alwrity - AI contextual Content generation Suite. Alwrity prevents AI hallucinations, Web Researched factual, SEO optimized content. Generate blog Images. Complete AI-Powered Content suite for Marketi
 - [different-ai/embedbase-ava](https://github.com/different-ai/embedbase-ava) - Obsidian + Embedbase = Ava
 - [databricks/dbrx](https://github.com/databricks/dbrx) - Code examples and resources for DBRX, a large language model developed by Databricks
 - [lucasmccabe/emailGPT](https://github.com/lucasmccabe/emailGPT) - a quick and easy interface to generate emails with ChatGPT
@@ -2688,7 +2690,6 @@
 - [giladbarnea/too-many-repos](https://github.com/giladbarnea/too-many-repos) - View and perform basic git actions on all repos and gists residing in a path
 - [giladbarnea/termwiki](https://github.com/giladbarnea/termwiki) - Terminal-based Personal Knowledge Management
 - [awekrx/AutoDoc-ChatGPT](https://github.com/awekrx/AutoDoc-ChatGPT) - AutoDoc-ChatGPT is a Python script that leverages the power of ChatGPT model to automatically generate documentation for any programming language. With AutoDoc-ChatGPT, you can easily generate compreh
-- [aledipa/Free-GPT4-WEB-API](https://github.com/aledipa/Free-GPT4-WEB-API) - FreeGPT4-WEB-API is a python server that allows you to have a self-hosted GPT-4 Unlimited and Free WEB API, via the latest Bing's AI (and much more).
 - [bigsky77/twitter-agent](https://github.com/bigsky77/twitter-agent) - Build AI-powered Agents for Twitter🐣
 - [nitebyte/GPTDraft](https://github.com/nitebyte/GPTDraft) - 
 - [chatanywhere/GPT_API_free](https://github.com/chatanywhere/GPT_API_free) - Free ChatGPT API Key，免费ChatGPT API，支持GPT4 API（免费），ChatGPT国内可用免费转发API，直连无需代理。可以搭配ChatBox等软件/插件使用，极大降低接口使用成本。国内即可无限制畅快聊天。
