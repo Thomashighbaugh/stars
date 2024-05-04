@@ -1503,7 +1503,7 @@
 - [VonHeikemen/dotfiles](https://github.com/VonHeikemen/dotfiles) - 
 - [nvimdev/coman.nvim](https://github.com/nvimdev/coman.nvim) - neovim plugin for comment and annotation
 - [JryChn/ModuleVim](https://github.com/JryChn/ModuleVim) - A NeoVim configuration
-- [leslie255/nvim-config](https://github.com/leslie255/nvim-config) - A pretty epic NeoVim setup
+- [leslie255/nvim-config](https://github.com/leslie255/nvim-config) - My neovim config
 - [ecosse3/nvim](https://github.com/ecosse3/nvim) - A non-minimal Neovim config built to work most efficiently with Frontend Development
 - [jdhao/nvim-config](https://github.com/jdhao/nvim-config) - A modern Neovim configuration with full battery for Python, Lua, C++, Markdown, LaTeX, and more...
 - [Veratil/awesome-retain](https://github.com/Veratil/awesome-retain) - Awesome Lua module for retaining tags and their layouts between restarts and screen adds/removes
