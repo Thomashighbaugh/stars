@@ -2642,7 +2642,7 @@
 - [haseeb-heaven/langchain-coder](https://github.com/haseeb-heaven/langchain-coder) - Web Application that can generate code and fix bugs and run using various LLM's (GPT,Gemini,PALM)
 - [friuns2/Leaked-GPTs](https://github.com/friuns2/Leaked-GPTs) - Leaked GPTs Prompts Bypass the 25 message limit or to try out GPTs without a Plus subscription.
 - [h2oai/h2o-llmstudio](https://github.com/h2oai/h2o-llmstudio) - H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs. Documentation: https://h2oai.github.io/h2o-llmstudio/
-- [AJaySi/AI-Writer](https://github.com/AJaySi/AI-Writer) - Alwrity - AI contextual Content generation Suite. Alwrity prevents AI hallucinations, Web Researched factual, SEO optimized content. Generate blog Images. Complete AI-Powered Content suite for Marketi
+- [AJaySi/AI-Writer](https://github.com/AJaySi/AI-Writer) - Alwrity - AI contextual Content generation Suite. Alwrity prevents AI hallucinations, Web Researched factual, SEO optimized content. Generate blog Images. Create your AI-Powered Content team with Agen
 - [different-ai/embedbase-ava](https://github.com/different-ai/embedbase-ava) - Obsidian + Embedbase = Ava
 - [databricks/dbrx](https://github.com/databricks/dbrx) - Code examples and resources for DBRX, a large language model developed by Databricks
 - [lucasmccabe/emailGPT](https://github.com/lucasmccabe/emailGPT) - a quick and easy interface to generate emails with ChatGPT
