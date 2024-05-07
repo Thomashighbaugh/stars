@@ -811,7 +811,6 @@
 - [DustinBrett/daedalOS](https://github.com/DustinBrett/daedalOS) - Desktop environment in the browser
 - [EyadShabrawy/ai-writer](https://github.com/EyadShabrawy/ai-writer) - AI Writer is a web application that utilizes GPT-3 technology to generate high-quality essays and articles on a variety of topics. It is designed to make the writing process faster and more efficient 
 - [ashutoshkrris/random-advice-workflow](https://github.com/ashutoshkrris/random-advice-workflow) - This workflow uses Random Advice Slip API to generate a random advice and puts up in your README files.
-- [friuns2/BlackFriday-GPTs-Prompts](https://github.com/friuns2/BlackFriday-GPTs-Prompts) - List of free GPTs that doesn't require plus subscription
 - [kinosal/cowriter](https://github.com/kinosal/cowriter) - Write 10x faster using OpenAI's GPT-3 based Davinci model to autocomplete your text
 - [christinec-dev/Poket-Book](https://github.com/christinec-dev/Poket-Book) - A Pokémon Themed Note Taking App Made with ReactJs.
 - [maximilionus/monokai_pro_keygen](https://github.com/maximilionus/monokai_pro_keygen) - Monokai Pro theme license key generator for Visual Studio Code and Sublime Text
@@ -1636,7 +1635,7 @@
 - [JezerM/dotfiles](https://github.com/JezerM/dotfiles) - My dotfiles
 - [jazz-g/NeoPublic](https://github.com/jazz-g/NeoPublic) - Public Share of my dotfiles
 - [Jeremie1001/dotfiles](https://github.com/Jeremie1001/dotfiles) - 
-- [renerocksai/telekasten.nvim](https://github.com/renerocksai/telekasten.nvim) - A Neovim (lua) plugin for working with a markdown zettelkasten / wiki and mixing it with a journal, based on telescope.nvim
+- [nvim-telekasten/telekasten.nvim](https://github.com/nvim-telekasten/telekasten.nvim) - A Neovim (lua) plugin for working with a markdown zettelkasten / wiki and mixing it with a journal, based on telescope.nvim
 - [madprops/awesome-setup](https://github.com/madprops/awesome-setup) - AwesomeWM config and widgets
 - [pettarin/awesome-config](https://github.com/pettarin/awesome-config) - My configuration file and theme for the awesome desktop manager
 - [DanCarzano/dotfiles-awesomewm](https://github.com/DanCarzano/dotfiles-awesomewm) - All my Dotfiles
@@ -1984,7 +1983,7 @@
 - [mikeroyal/NixOS-Guide](https://github.com/mikeroyal/NixOS-Guide) - NixOS Guide. Learn all about the immutable Nix Operating System and the declarative Nix Expression Language.
 - [cpcloud/flake-update-action](https://github.com/cpcloud/flake-update-action) - A GitHub action to automatically update nix flake dependencies
 - [GTrunSec/hivebus](https://github.com/GTrunSec/hivebus) - A declarative configuration framework based on the structural theory of std.
-- [z0al/dotfiles](https://github.com/z0al/dotfiles) - My NixOS ❄️ / macOS 🍏 declarative configuration
+- [z0al/dotfiles](https://github.com/z0al/dotfiles) - My declarative NixOS ❄️ / macOS 🍏 configuration
 - [alexanderwallau/nix](https://github.com/alexanderwallau/nix) - Nixlas OS
 - [LavaDesu/flakes](https://github.com/LavaDesu/flakes) - NixOS config using flakes
 - [redyf/nixdots](https://github.com/redyf/nixdots) - Dotfiles for NixOS
@@ -2229,6 +2228,7 @@
 - [openai/openai-openapi](https://github.com/openai/openai-openapi) - OpenAPI specification for the OpenAI API
 - [waymbers/badbard](https://github.com/waymbers/badbard) - Badbard - Google Bard's Gemini Unleashed Unrestricted and
 - [dqbd/GPTs](https://github.com/dqbd/GPTs) - leaked prompts of GPTs
+- [friuns2/BlackFriday-GPTs-Prompts](https://github.com/friuns2/BlackFriday-GPTs-Prompts) - List of free GPTs that doesn't require plus subscription
 - [gregoryg/AIPIHKAL](https://github.com/gregoryg/AIPIHKAL) - AI (LLM) Prompts I Have Known And Loved
 - [yingpengma/Awesome-Story-Generation](https://github.com/yingpengma/Awesome-Story-Generation) - This repository collects an extensive list of awesome papers about Story Generation / Storytelling, primarily focusing on the era of Large Language Models (LLMs).
 - [brahmai-research/aiforcause](https://github.com/brahmai-research/aiforcause) - Providing free-to-use API for AI Models to all. #aiforcause by DEEPNIGHT.
@@ -2309,7 +2309,7 @@
 - [humancalico/nix-learning](https://github.com/humancalico/nix-learning) - A bunch of links to blog posts, articles, videos, etc for learning Nix
 - [teal33t/osint-notes](https://github.com/teal33t/osint-notes) - Good info about DeepWeb and OSINT
 - [chow-petit/awesome-curated-tools](https://github.com/chow-petit/awesome-curated-tools) - A curated list of digital tools we use, ranging from accounting and data science to scientific research and liquid democracy. Commented, connected, by everyone and for everyone !
-- [himhaidar/curated-fullstack-books](https://github.com/himhaidar/curated-fullstack-books) - A curated list of full-stack development books.
+- [haidarnaut/curated-fullstack-books](https://github.com/haidarnaut/curated-fullstack-books) - A curated list of full-stack development books.
 - [pawamoy/awesome-repository](https://github.com/pawamoy/awesome-repository) - A curated list of services, tools and standards about (open source) repository management.
 - [learn-anything/documentaries](https://github.com/learn-anything/documentaries) - Awesome Documentaries
 - [AthenaAI/community-search](https://github.com/AthenaAI/community-search) - A community-curated repository of 🔥 learning resources
@@ -3088,7 +3088,6 @@
 - [Brendon3578/Nullstack-Todo](https://github.com/Brendon3578/Nullstack-Todo) - A simple Todo list application, created using the brazilian framework - Nullstack
 - [world-class/REPL](https://github.com/world-class/REPL) - The Learning Hub for UoL's Online CS Students
 - [numixproject/numix-gtk-theme](https://github.com/numixproject/numix-gtk-theme) - A modern flat theme with a combination of light and dark elements.
-- [te6-in/lepton-custom](https://github.com/te6-in/lepton-custom) - 🦊 A macOS style theme for Firefox—forked from Lepton(Firefox-UI-Fix)
 - [black7375/Firefox-UI-Fix](https://github.com/black7375/Firefox-UI-Fix) - 🦊 I respect proton UI and aim to improve it.
 - [phocus/gtk](https://github.com/phocus/gtk) - From scratch, clean and opinionated GTK3 implementation of the phocus color scheme.
 - [UbuntuBudgie/pocillo-gtk-theme](https://github.com/UbuntuBudgie/pocillo-gtk-theme) - GTK+ 3.22 & GTK+ 4 based theme for the Budgie Desktop that has Material Design elements and styled using the Arc colour palette
@@ -3127,6 +3126,7 @@
 
 ## Shell 
 
+- [jgamblin/MacOS-Maid](https://github.com/jgamblin/MacOS-Maid) - Shell Script I Use To Automatically Clean Up My Mac.
 - [prasanthrangan/hyprdots](https://github.com/prasanthrangan/hyprdots) - // Aesthetic, dynamic and minimal dots for Arch hyprland
 - [nomadics9/NixOS-Flake](https://github.com/nomadics9/NixOS-Flake) - My NixOS Flake + dotfiles
 - [0xacx/chatGPT-shell-cli](https://github.com/0xacx/chatGPT-shell-cli) - Simple shell script to use OpenAI's ChatGPT and DALL-E from the terminal. No Python or JS required.
