@@ -2340,7 +2340,7 @@
 - [ForrestKnight/open-source-cs-python](https://github.com/ForrestKnight/open-source-cs-python) - Video discussing this curriculum:
 - [cs-books/influential-cs-books](https://github.com/cs-books/influential-cs-books) - Most influential books on Computer Science/programming
 - [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) - An ultra-simplified explanation to design patterns
-- [kirillbobyrev/computer-science-resources](https://github.com/kirillbobyrev/computer-science-resources) - Сollection of interesting Computer Science resources
+- [kirillbobyrev/computer-science-resources](https://github.com/kirillbobyrev/computer-science-resources) - collection of interesting Computer Science resources
 - [iteachmachines/Free-Computer-Science-University](https://github.com/iteachmachines/Free-Computer-Science-University) - So after watching all the resources i thought to put all the important technical courses in one place.And help those people who wants to learn computer science.All the courses are free here.
 - [farhankarim/MY-COMPUTER-SCIENCE-CURRICULUM](https://github.com/farhankarim/MY-COMPUTER-SCIENCE-CURRICULUM) - This repository consists of free online courses you can take which are equivalent to a bachelors degree in Karachi.
 - [jacksonchen1998/Awesome-CGU-CS-AI](https://github.com/jacksonchen1998/Awesome-CGU-CS-AI) - Chang Gung University Computer Science / Artificial Intelligence learning material
