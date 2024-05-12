@@ -1264,7 +1264,6 @@
 - [Drizer909/GPTbook](https://github.com/Drizer909/GPTbook) - Made fully ai generater book version
 - [mshumer/gpt-author](https://github.com/mshumer/gpt-author) - 
 - [AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) - FinGPT: Open-Source Financial Large Language Models!  Revolutionize 🔥    We release the trained model on HuggingFace.
-- [hollowstrawberry/kohya-colab](https://github.com/hollowstrawberry/kohya-colab) - Accessible Google Colab notebooks for Stable Diffusion Lora training, based on the work of kohya-ss and Linaqruf
 - [OpenBioLink/ThoughtSource](https://github.com/OpenBioLink/ThoughtSource) - A central, open resource for data and tools related to chain-of-thought reasoning in large language models. Developed @ Samwald research group: https://samwald.info/
 - [Nixtla/nixtla](https://github.com/Nixtla/nixtla) - TimeGPT-1: production ready pre-trained Time Series Foundation Model  for forecasting and anomaly detection. Generative pretrained transformer for time series trained on over 100B data points. It's ca
 - [jmpaz/promptlib](https://github.com/jmpaz/promptlib) - A collection of prompts for use with GPT-4 via ChatGPT, OpenAI API w/ Gradio frontend & notebook
@@ -2634,7 +2633,7 @@
 
 ## Python 
 
-- [Agapitus1/Decoding-a-Message-from-a-Text-File](https://github.com/Agapitus1/Decoding-a-Message-from-a-Text-File) - In this exercise, you will develop a function named decode(message_file). This function should read an encoded message from a .txt file and return its decoded version as a string.
+- [Agapitus1/Python-Decoding-a-Message-from-a-Text-File](https://github.com/Agapitus1/Python-Decoding-a-Message-from-a-Text-File) - In this exercise, you will develop a function named decode(message_file). This function should read an encoded message from a .txt file and return its decoded version as a string.
 - [ryanadoty/Amazon-Bedrock-Document-Generator-POC](https://github.com/ryanadoty/Amazon-Bedrock-Document-Generator-POC) - This is sample code demonstrating the use of Amazon Bedrock and Generative AI to implement a document generation use case. The application is constructed with a simple streamlit frontend where users c
 - [cubinator/ext4](https://github.com/cubinator/ext4) - Reading Ext4 volumes
 - [gaurav18115/blogen](https://github.com/gaurav18115/blogen) - 🚀 BLOGEN - Your Blog Generation Companion! 📝  Effortlessly create captivating blog posts with AI-driven content generation. Input primary keywords, choose writing tones, and generate tailor-made conte
@@ -2700,6 +2699,7 @@
 - [Ruu3f/freeGPT](https://github.com/Ruu3f/freeGPT) - freeGPT provides free access to text and image generation models.
 - [tuan3w/obsidian-template](https://github.com/tuan3w/obsidian-template) - Starter templates for Obsidian
 - [AI-Guru/writebookswithai](https://github.com/AI-Guru/writebookswithai) - Writing books with AI.
+- [hollowstrawberry/kohya-colab](https://github.com/hollowstrawberry/kohya-colab) - Accessible Google Colab notebooks for Stable Diffusion Lora training, based on the work of kohya-ss and Linaqruf
 - [protectai/ai-exploits](https://github.com/protectai/ai-exploits) - A collection of real world AI/ML exploits for responsibly disclosed vulnerabilities
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [stjordanis/betterprompt](https://github.com/stjordanis/betterprompt) - Test suite for LLM prompts
@@ -3573,6 +3573,8 @@
 
 ## TypeScript 
 
+- [MODSetter/neubrutalism_portfolio](https://github.com/MODSetter/neubrutalism_portfolio) - A simple neubrutalism-style portfolio website theme to create a visually appealing and responsive portfolio to showcases your achievements.
+- [2017mike/daisyportfolio](https://github.com/2017mike/daisyportfolio) - My current portfolio. Written with Next, TypeScript, Tailwind, DaisyUI, and deployed with Vercel.
 - [mtharrison/promptscaper](https://github.com/mtharrison/promptscaper) - A client-only OpenAI LLM Playground for prototyping agents without writing any code.
 - [thenameisajay/Genie](https://github.com/thenameisajay/Genie) - This a lite version of a chatbot built to test Google's Gemini Models. Built using Next.js 14 & Google's Gemini.
 - [ttttonyhe/ouorz-mono](https://github.com/ttttonyhe/ouorz-mono) - :rocket: A Monorepo for My Personal Website and Related Projects
