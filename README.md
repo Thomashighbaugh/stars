@@ -1553,7 +1553,7 @@
 - [ThemerCorp/themer.lua](https://github.com/ThemerCorp/themer.lua) - A simple, minimal highlighter plugin for neovim
 - [intrntbrn/awesomewm-vim-tmux-navigator](https://github.com/intrntbrn/awesomewm-vim-tmux-navigator) - Navigate seamlessly between system windows, vim splits and tmux panes by only using awesomewm navigation keybindings.
 - [ner0z/dotfiles](https://github.com/ner0z/dotfiles) - 🍚 rice
-- [akosnad/dotfiles](https://github.com/akosnad/dotfiles) - Personal workflow/rice
+- [akosnad/dotfiles](https://github.com/akosnad/dotfiles) - Personal workflow/rice (not maintained! check out akosnad/nix-config)
 - [crater2150/awesome-modalbind](https://github.com/crater2150/awesome-modalbind) - Modal keybindings for awesomewm
 - [eyedeekay/awesome-network-manager](https://github.com/eyedeekay/awesome-network-manager) - Network Manager interface for Awesome WM
 - [intrntbrn/smart_borders](https://github.com/intrntbrn/smart_borders) - awesomewm full titlebar functionality without sacrificing space
@@ -2224,6 +2224,7 @@
 
 ## Others 
 
+- [herrbischoff/simple-svg-brand-logos](https://github.com/herrbischoff/simple-svg-brand-logos) - A collection of simplified brand logos in SVG format.
 - [karan/Projects](https://github.com/karan/Projects) - :page_with_curl: A list of practical projects that anyone can solve in any programming language.
 - [matfantinel/matfantinel](https://github.com/matfantinel/matfantinel) - That would be me
 - [mahseema/awesome-ai-tools](https://github.com/mahseema/awesome-ai-tools) - A curated list of Artificial Intelligence Top Tools
@@ -2991,6 +2992,8 @@
 
 ## Rust 
 
+- [nix-community/nix-index](https://github.com/nix-community/nix-index) - Quickly locate nix packages with specific files [maintainers=@bennofs @figsoda @raitobezarius]
+- [JohnnyMorganz/StyLua](https://github.com/JohnnyMorganz/StyLua) - An opinionated Lua code formatter
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
 - [BrianHicks/nix-script](https://github.com/BrianHicks/nix-script) - write scripts in compiled languages that run in the nix ecosystem, with no separate build step
 - [char/charwiki](https://github.com/char/charwiki) - Personal wiki software in Rust (using axum)
@@ -3575,6 +3578,7 @@
 
 ## TypeScript 
 
+- [alsiam/folio](https://github.com/alsiam/folio) - Open Source Portfolio or Personal Website using NextJS. Feel free to check out the readme file, copy, fork, and use.
 - [MODSetter/neubrutalism_portfolio](https://github.com/MODSetter/neubrutalism_portfolio) - A simple neubrutalism-style portfolio website theme to create a visually appealing and responsive portfolio to showcases your achievements.
 - [2017mike/daisyportfolio](https://github.com/2017mike/daisyportfolio) - My current portfolio. Written with Next, TypeScript, Tailwind, DaisyUI, and deployed with Vercel.
 - [mtharrison/promptscaper](https://github.com/mtharrison/promptscaper) - A client-only OpenAI LLM Playground for prototyping agents without writing any code.
