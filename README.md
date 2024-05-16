@@ -123,7 +123,6 @@
 - [unikraft/unikraft](https://github.com/unikraft/unikraft) - A next-generation cloud native kernel designed to unlock best-in-class performance, security primitives and efficiency savings.
 - [NVIDIA/open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules) - NVIDIA Linux open GPU kernel module source
 - [wolfi-dev/os](https://github.com/wolfi-dev/os) - Main package repository for production Wolfi images
-- [bluzukk/dotfiles](https://github.com/bluzukk/dotfiles) - rice rice rice
 - [beejjorgensen/bgc](https://github.com/beejjorgensen/bgc) - Beej's Guide to C Programming source
 - [Mange/rofi-emoji](https://github.com/Mange/rofi-emoji) - Emoji selector plugin for Rofi
 - [Nooo37/pinsel](https://github.com/Nooo37/pinsel) - Minimal screenshot annotation tool with lua config
@@ -1406,6 +1405,7 @@
 - [lewis6991/gitsigns.nvim](https://github.com/lewis6991/gitsigns.nvim) - Git integration for buffers
 - [williamboman/mason.nvim](https://github.com/williamboman/mason.nvim) - Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.
 - [albel727/awesomewm_gnome_menu](https://github.com/albel727/awesomewm_gnome_menu) - Yet another Freedesktop Menu library for Awesome WM
+- [bluzukk/dotfiles](https://github.com/bluzukk/dotfiles) - rice rice rice
 - [brucewayne260/my-awesomewm-dotfiles](https://github.com/brucewayne260/my-awesomewm-dotfiles) - This is my personal awesome config
 - [demingongo/awesomewm-dotfiles](https://github.com/demingongo/awesomewm-dotfiles) - My awesome wm config
 - [eylles/dash-widgets](https://github.com/eylles/dash-widgets) - widgets for awesomewm
@@ -2224,6 +2224,7 @@
 
 ## Others 
 
+- [chaozh/awesome-gpt-store](https://github.com/chaozh/awesome-gpt-store) - A place to find all Custom Stores and OpenAI store for ChatGPT and related apps
 - [herrbischoff/simple-svg-brand-logos](https://github.com/herrbischoff/simple-svg-brand-logos) - A collection of simplified brand logos in SVG format.
 - [karan/Projects](https://github.com/karan/Projects) - :page_with_curl: A list of practical projects that anyone can solve in any programming language.
 - [matfantinel/matfantinel](https://github.com/matfantinel/matfantinel) - That would be me
