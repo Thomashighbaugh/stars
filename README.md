@@ -2058,7 +2058,7 @@
 - [frogamic/nix-machines](https://github.com/frogamic/nix-machines) - 
 - [justinrubek/nixos-configs](https://github.com/justinrubek/nixos-configs) - My 'dotfiles'. A collection of nixos configurations and other declarative infrastructure for my personal computing infrastructure
 - [dmadisetti/.dots](https://github.com/dmadisetti/.dots) - just my .dotfiles
-- [NotAShelf/nyx](https://github.com/NotAShelf/nyx) - My overengineered NixOS flake. Desktops, laptops, servers and everything else that can run an OS
+- [NotAShelf/nyx](https://github.com/NotAShelf/nyx) - My overengineered NixOS flake. Desktops, laptops, servers and everything else that can run an OS.
 - [ncfavier/config](https://github.com/ncfavier/config) - My NixOS configurations
 - [foo-dogsquared/nixos-config](https://github.com/foo-dogsquared/nixos-config) - Aiming to be the most overkill NixOS config in the entire world.
 - [Kranzes/nix-config](https://github.com/Kranzes/nix-config) - Nix configurations
@@ -2247,7 +2247,7 @@
 - [pingan8787/awesome-ai-tools](https://github.com/pingan8787/awesome-ai-tools) - Finding the AI tools you need!
 - [mustvlad/ChatGPT-System-Prompts](https://github.com/mustvlad/ChatGPT-System-Prompts) - This repository contains a collection of the best system prompts for ChatGPT, a conversational AI model developed by OpenAI. Star this repository to help us reach 5,000 stars!
 - [T4P4N/Awesome-Termux](https://github.com/T4P4N/Awesome-Termux) - Awesome Termux :- Bash Scripts, Wiki, Articles,Shells & Many More...
-- [verazuo/jailbreak_llms](https://github.com/verazuo/jailbreak_llms) - [CCS'24] A dataset consists of 6,387 ChatGPT prompts from Reddit, Discord, websites, and open-source datasets (including 666 jailbreak prompts).
+- [verazuo/jailbreak_llms](https://github.com/verazuo/jailbreak_llms) - [CCS'24] A dataset consists of 15,140 ChatGPT prompts from Reddit, Discord, websites, and open-source datasets (including 1,405 jailbreak prompts).
 - [RimaBuilds/AutoGPT-handbook](https://github.com/RimaBuilds/AutoGPT-handbook) - A guide to using AutoGPT for code generation and prompt engineering.
 - [linexjlin/GPTs](https://github.com/linexjlin/GPTs) - leaked prompts of GPTs
 - [gorwayne/gpt-prompt](https://github.com/gorwayne/gpt-prompt) - leaked prompts of GPTs
@@ -2315,7 +2315,7 @@
 - [humancalico/nix-learning](https://github.com/humancalico/nix-learning) - A bunch of links to blog posts, articles, videos, etc for learning Nix
 - [teal33t/osint-notes](https://github.com/teal33t/osint-notes) - Good info about DeepWeb and OSINT
 - [chow-petit/awesome-curated-tools](https://github.com/chow-petit/awesome-curated-tools) - A curated list of digital tools we use, ranging from accounting and data science to scientific research and liquid democracy. Commented, connected, by everyone and for everyone !
-- [himhaidar/curated-fullstack-books](https://github.com/himhaidar/curated-fullstack-books) - A curated list of full-stack development books.
+- [haidar47x/curated-fullstack-books](https://github.com/haidar47x/curated-fullstack-books) - A curated list of full-stack development books.
 - [pawamoy/awesome-repository](https://github.com/pawamoy/awesome-repository) - A curated list of services, tools and standards about (open source) repository management.
 - [learn-anything/documentaries](https://github.com/learn-anything/documentaries) - Awesome Documentaries
 - [AthenaAI/community-search](https://github.com/AthenaAI/community-search) - A community-curated repository of 🔥 learning resources
