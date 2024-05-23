@@ -1315,7 +1315,7 @@
 
 ## Lua 
 
-- [gabrieldlima/awesome](https://github.com/gabrieldlima/awesome) - AwesomeWM rice 🍚
+- [gabrieldlima/dotfiles](https://github.com/gabrieldlima/dotfiles) - AwesomeWM rice 🍚 (with GNU Stow)
 - [jakobkhansen/journal.nvim](https://github.com/jakobkhansen/journal.nvim) - 🖋️ Highly extensible journaling system for Neovim
 - [Leerv474/.dotfiles](https://github.com/Leerv474/.dotfiles) - Personal dotfiles
 - [NormalNvim/NormalNvim](https://github.com/NormalNvim/NormalNvim) - A normal Neovim distribution
@@ -3152,7 +3152,7 @@
 - [Sebelino/nixos-config](https://github.com/Sebelino/nixos-config) - My NixOS configuration files in source control
 - [vinceliuice/emerald-icon-theme](https://github.com/vinceliuice/emerald-icon-theme) - Fresh and simple personality icon theme
 - [chbrown/overdrive](https://github.com/chbrown/overdrive) - Bash script to download mp3s from the OverDrive audiobook service
-- [gabrieldlima/dotfiles](https://github.com/gabrieldlima/dotfiles) - Personal dotfiles 🖥️
+- [gabrieldlima/old-dotfiles](https://github.com/gabrieldlima/old-dotfiles) - Personal dotfiles 🖥️
 - [masroof-maindak/dots](https://github.com/masroof-maindak/dots) - Backup of my Linux configuration files.
 - [KiaraGrouwstra/nix-config](https://github.com/KiaraGrouwstra/nix-config) - my NixOS configuration
 - [chrisgrieser/zsh-magic-dashboard](https://github.com/chrisgrieser/zsh-magic-dashboard) - Pressing "enter" on an empty buffer displays an information-rich and pretty dashboard.
@@ -3173,7 +3173,7 @@
 - [debuggyo/dots](https://github.com/debuggyo/dots) - more dots!
 - [phenax/nixos-dotfiles](https://github.com/phenax/nixos-dotfiles) - 
 - [GDR/dot](https://github.com/GDR/dot) - My personal config repo for my NixOS configurations. I use Nix flakes to manage dependencies and reproducibility.
-- [chikh-chikh/re_tile](https://github.com/chikh-chikh/re_tile) - dotfiles window manager
+- [svrvt/re_tile](https://github.com/svrvt/re_tile) - dotfiles window manager
 - [juanibiapina/dotfiles](https://github.com/juanibiapina/dotfiles) - Dotfiles optimized for performance and high productivity in the terminal
 - [AmitGolden/dotfiles](https://github.com/AmitGolden/dotfiles) - AmitGold's catppuccin dotfiles!
 - [notKamui/dotfiles](https://github.com/notKamui/dotfiles) - What's hidden sometimes makes you who you are
