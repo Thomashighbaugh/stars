@@ -2721,7 +2721,7 @@
 - [ms-jpq/windows-in-docker](https://github.com/ms-jpq/windows-in-docker) - Manage Windows in Docker (easy)
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
-- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. A copilot to get answers to your questions, whether they be from your own notes or from the internet. Use powerful, online (e.g gpt4) or private, local (e.g llama3) LLMs. Self-ho
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Get answers to your questions, whether they be online or in your own notes. Use foundation models or private, local LLMs. Self-host locally or use our cloud instance. Access from
 - [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
 - [llm-attacks/llm-attacks](https://github.com/llm-attacks/llm-attacks) - Universal and Transferable Attacks on Aligned Language Models
 - [mhmadmasrwe/w0lgix-tool](https://github.com/mhmadmasrwe/w0lgix-tool) - Some Of  MY TOOLS
@@ -3226,7 +3226,7 @@
 - [noctuid/dotfiles](https://github.com/noctuid/dotfiles) - Mouseless Workflow (WIP)
 - [CachyOS/CachyOS-Live-ISO](https://github.com/CachyOS/CachyOS-Live-ISO) - 
 - [CachyOS/CachyOS-Settings](https://github.com/CachyOS/CachyOS-Settings) - Settings used for CachyOS
-- [ivan-hc/AM](https://github.com/ivan-hc/AM) - An "AUR-inspired" Database of AppImage packages and a CLI to manage/install/update them system-wide! This repo lists 1900+ standalone apps for GNU/Linux. You can extend it with custom repositories, cr
+- [ivan-hc/AM](https://github.com/ivan-hc/AM) - AppImage package manager to install, update (for real), and manage ALL of them (system-wide or locally) thanks to its ever-growing AUR-inspired database listing (for now) 1900+ portable apps and progr
 - [metis-os/metis-sideload](https://github.com/metis-os/metis-sideload) - // Ofiicial installer for @metis-os
 - [metis-os/repo-recon](https://github.com/metis-os/repo-recon) - 📦 Repository: recon, Hacking tools // pkgs
 - [archon-linux/archon-iso](https://github.com/archon-linux/archon-iso) - 
