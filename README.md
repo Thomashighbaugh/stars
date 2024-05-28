@@ -888,7 +888,7 @@
 - [nullstack/nullstack](https://github.com/nullstack/nullstack) - Feature-Driven Full Stack JavaScript Components
 - [CryptoDappRun/EasyNFT-Generator-Bulk-NFT-to-Opensea](https://github.com/CryptoDappRun/EasyNFT-Generator-Bulk-NFT-to-Opensea) - EasyNFT Generator-Bulk NFT to Opensea.generate multi NFTs upload to IPFS and publish on opensea automatically. Defi crypto Dapp
 - [lumamontes/artist-portfolio-website](https://github.com/lumamontes/artist-portfolio-website) - Artist porfolio website with Next.js, Prismic and Web3Forms
-- [simarmannsingh/silverlux](https://github.com/simarmannsingh/silverlux) - All the technologies used are free and open-source. You are free to use this template for a personal or commercial purposes. I'm using this template for my blog as well at https://simarmannsingh.com. 
+- [simarmannsingh/silverlux](https://github.com/simarmannsingh/silverlux) - A Fast, fully-responsive Gatsby based blog template using NetlifyCMS as CMS.
 - [Akshay090/svg-banners](https://github.com/Akshay090/svg-banners) - Styled banners for your Readme made with html/css in SVG !!
 - [kampka/nix-packages](https://github.com/kampka/nix-packages) - My personal nix repository
 - [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 5200 free MIT-licensed high-quality SVG icons for you to use in your web projects.
@@ -1078,7 +1078,7 @@
 - [rustysec/tidalwm](https://github.com/rustysec/tidalwm) - Simple and sane tiling window manager for Gnome Shell
 - [hacknug/tailwindcss-image-rendering](https://github.com/hacknug/tailwindcss-image-rendering) - Image-rendering utilities for Tailwind CSS.
 - [alice0775/userChrome.js](https://github.com/alice0775/userChrome.js) - 
-- [Manjaro-WebDad/jde](https://github.com/Manjaro-WebDad/jde) - Linux desktop environment built with HTML5, CSS, JavaScript and Python.
+- [codesardine/jde](https://github.com/codesardine/jde) - Linux desktop environment built with HTML5, CSS, JavaScript and Python.
 - [amit-07/mern-notes-app](https://github.com/amit-07/mern-notes-app) - Simple note maker app using the MERN stack
 - [Augani/mern](https://github.com/Augani/mern) - A MERN starter kit
 - [andreasonny83/lighthouse-ci](https://github.com/andreasonny83/lighthouse-ci) - A useful wrapper around Google Lighthouse CLI
@@ -1254,6 +1254,7 @@
 
 ## Jupyter Notebook 
 
+- [grahamwaters/lorebook_generator_for_novelai](https://github.com/grahamwaters/lorebook_generator_for_novelai) - Generates a lorebook for novelai
 - [NoDataFound/hackGPT](https://github.com/NoDataFound/hackGPT) - I leverage OpenAI and ChatGPT to do hackerish things
 - [xiaowuc2/ChatGPT-Python-Applications](https://github.com/xiaowuc2/ChatGPT-Python-Applications) - ChatGPT Python Applications integrated with third party libraries and modules
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 18 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
@@ -1414,7 +1415,7 @@
 - [SoumyajitTech/AwesomeWM](https://github.com/SoumyajitTech/AwesomeWM) - This is my config for awesome window manager
 - [andOrlando/awesome-widgets](https://github.com/andOrlando/awesome-widgets) - A collection of a couple custom-made awesome widgets that (kinda) work in isolation so you can just grab
 - [Nooo37/glome](https://github.com/Nooo37/glome) - WIP
-- [2nthony/dotfiles](https://github.com/2nthony/dotfiles) - My personal dotfiles, neovim(typescript, vue), fish, wezterm, etc.
+- [2nthony/dotfiles](https://github.com/2nthony/dotfiles) - My personal dotfiles, neovim(typescript), fish, wezterm, etc.
 - [folke/lazy.nvim](https://github.com/folke/lazy.nvim) - 💤 A modern plugin manager for Neovim
 - [jcrd/awesome-ez](https://github.com/jcrd/awesome-ez) - AwesomeWM library for simplifying key and button binding definitions
 - [vincentbernat/awesome-configuration](https://github.com/vincentbernat/awesome-configuration) - My ~/.config/awesome directory
@@ -2073,7 +2074,7 @@
 - [xyven1/nixos-configuration](https://github.com/xyven1/nixos-configuration) - 
 - [plmercereau/NixOS](https://github.com/plmercereau/NixOS) - NixOS config for servers in the field
 - [573/NixOS](https://github.com/573/NixOS) - MSF OCB NixOS config
-- [dawidd6/nix](https://github.com/dawidd6/nix) - :snowflake: My NixOS and home-manager configurations
+- [dawidd6/nixcfg](https://github.com/dawidd6/nixcfg) - :snowflake: My NixOS and home-manager configurations
 - [chaotic-cx/nyx](https://github.com/chaotic-cx/nyx) - Nix flake for "too much bleeding-edge" and unreleased packages (e.g., mesa_git, linux_cachyos, firefox_nightly, sway_git, gamescope_git). And experimental modules (e.g., HDR, duckdns).
 - [tensorush/flakes](https://github.com/tensorush/flakes) - ❄️ My NixOS configuration flakes.
 - [nicekoishi/dotfiles](https://github.com/nicekoishi/dotfiles) - my NixOS dotfiles, do what you want
@@ -2225,6 +2226,7 @@
 
 ## Others 
 
+- [ai-boost/awesome-prompts](https://github.com/ai-boost/awesome-prompts) - Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt protect. Advanced Prompt Engineering papers.
 - [ridwanzal/ridwanzal](https://github.com/ridwanzal/ridwanzal) - My personal README for github profile. Cheers.
 - [chaozh/awesome-gpt-store](https://github.com/chaozh/awesome-gpt-store) - A place to find all Custom Stores and OpenAI store for ChatGPT and related apps
 - [herrbischoff/simple-svg-brand-logos](https://github.com/herrbischoff/simple-svg-brand-logos) - A collection of simplified brand logos in SVG format.
@@ -2638,6 +2640,7 @@
 
 ## Python 
 
+- [GinoCipo/AI_book_generator](https://github.com/GinoCipo/AI_book_generator) - 
 - [Agapitus1/Python-Decoding-a-Message-from-a-Text-File](https://github.com/Agapitus1/Python-Decoding-a-Message-from-a-Text-File) - In this exercise, you will develop a function named decode(message_file). This function should read an encoded message from a .txt file and return its decoded version as a string.
 - [ryanadoty/Amazon-Bedrock-Document-Generator-POC](https://github.com/ryanadoty/Amazon-Bedrock-Document-Generator-POC) - This is sample code demonstrating the use of Amazon Bedrock and Generative AI to implement a document generation use case. The application is constructed with a simple streamlit frontend where users c
 - [cubinator/ext4](https://github.com/cubinator/ext4) - Reading Ext4 volumes
@@ -2664,6 +2667,7 @@
 - [myshell-ai/MeloTTS](https://github.com/myshell-ai/MeloTTS) - High-quality multi-lingual text-to-speech library by MyShell.ai. Support English, Spanish, French, Chinese, Japanese and Korean.
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python packaging and dependency management made easy
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
+- [Thomashighbaugh/fiction-fabricator](https://github.com/Thomashighbaugh/fiction-fabricator) - Python CLI to generate a full-length novels using generative AIs through GPT4Free
 - [jaketae/storyteller](https://github.com/jaketae/storyteller) - Multimodal AI Story Teller, built with Stable Diffusion, GPT, and neural text-to-speech
 - [haesleinhuepf/story-writer](https://github.com/haesleinhuepf/story-writer) - An AI-based story writer and Python library which uses OpenAI's chatGPT and Dall-E to generate PDFs with a story and a picture from a prompt and writes them into a PDF.
 - [Joseph-Shelton/Book-Idea-Generator](https://github.com/Joseph-Shelton/Book-Idea-Generator) - Book Idea Generator that leverages OpenAI's gpt-3.5-turbo api for content generation.
@@ -2721,7 +2725,7 @@
 - [ms-jpq/windows-in-docker](https://github.com/ms-jpq/windows-in-docker) - Manage Windows in Docker (easy)
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
-- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Get answers to your questions, whether they be online or in your own notes. Use foundation models or private, local LLMs. Self-host locally or use our cloud instance. Access from
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Get answers to your questions, whether they be online or in your own notes. Use online AI models (e.g gpt4) or private, local LLMs (e.g llama3). Self-host locally or use our clou
 - [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
 - [llm-attacks/llm-attacks](https://github.com/llm-attacks/llm-attacks) - Universal and Transferable Attacks on Aligned Language Models
 - [mhmadmasrwe/w0lgix-tool](https://github.com/mhmadmasrwe/w0lgix-tool) - Some Of  MY TOOLS
