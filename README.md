@@ -334,7 +334,6 @@
 - [Vertecedoc4545/DeMorkeNorskeRamnen-GnomeShell-Theme](https://github.com/Vertecedoc4545/DeMorkeNorskeRamnen-GnomeShell-Theme) - 
 - [Phantas0s/sharetoall](https://github.com/Phantas0s/sharetoall) - This was meant to offer a free service similar to Buffer / Hootsuite
 - [Godiesc/firefox-gx](https://github.com/Godiesc/firefox-gx) - Opera GX Skin for Firefox
-- [ranmaru22/firefox-vertical-tabs](https://github.com/ranmaru22/firefox-vertical-tabs) - This repo is a read-only mirror of https://codeberg.org/ranmaru22/firefox-vertical-tabs
 - [elkowar/dots-of-war](https://github.com/elkowar/dots-of-war) - My dotfiles, mostly. This is the wild west. don't expect to understand this mess. Don't try to understand this mess. This serves as a good way to backup my configs, nothing more.
 - [Soft-Bred/Brave-Fox](https://github.com/Soft-Bred/Brave-Fox) - Firefox Stylesheet To Add Brave-Like Elements
 - [ayushhroyy/elegantfox](https://github.com/ayushhroyy/elegantfox) - firefox themed context and bookmark menus
@@ -1316,7 +1315,7 @@
 
 ## Lua 
 
-- [gabrieldlima/dotfiles](https://github.com/gabrieldlima/dotfiles) - AwesomeWM rice 🍚 (with GNU Stow)
+- [gabrieldlima/dotfiles](https://github.com/gabrieldlima/dotfiles) - AwesomeWM rice 🍚 + Nix
 - [jakobkhansen/journal.nvim](https://github.com/jakobkhansen/journal.nvim) - 🖋️ Highly extensible journaling system for Neovim
 - [Leerv474/.dotfiles](https://github.com/Leerv474/.dotfiles) - Personal dotfiles
 - [NormalNvim/NormalNvim](https://github.com/NormalNvim/NormalNvim) - A normal Neovim distribution
@@ -2184,7 +2183,7 @@
 - [storvik/nix-config](https://github.com/storvik/nix-config) - My nix configuration
 - [kanwren/nixfiles](https://github.com/kanwren/nixfiles) - My NixOS configurations and other Nix files :snowflake:
 - [rxyhn/yuki](https://github.com/rxyhn/yuki) - 雪 - Yuki | Snowflake  :snowflake:
-- [nix-community/nixvim](https://github.com/nix-community/nixvim) - Configure Neovim with Nix! [maintainer=@pta2002, @traxys, @GaetanLepage]
+- [nix-community/nixvim](https://github.com/nix-community/nixvim) - Configure Neovim with Nix! [maintainer=@GaetanLepage, @traxys, @mattsturgeon]
 - [LEXUGE/flake](https://github.com/LEXUGE/flake) - Deterministic Configurations
 - [Misterio77/nix-starter-configs](https://github.com/Misterio77/nix-starter-configs) - Simple and documented config templates to help you get started with NixOS + home-manager + flakes. All the boilerplate you need!
 - [syncom/custom_nixos_iso](https://github.com/syncom/custom_nixos_iso) - Build custom nixOS ISO
