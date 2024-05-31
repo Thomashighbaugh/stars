@@ -1315,7 +1315,7 @@
 
 ## Lua 
 
-- [gabrieldlima/dotfiles](https://github.com/gabrieldlima/dotfiles) - AwesomeWM rice 🍚 + Nix
+- [gabrieldlima/dotfiles](https://github.com/gabrieldlima/dotfiles) - AwesomeWM rice 🍚 (with Nix)
 - [jakobkhansen/journal.nvim](https://github.com/jakobkhansen/journal.nvim) - 🖋️ Highly extensible journaling system for Neovim
 - [Leerv474/.dotfiles](https://github.com/Leerv474/.dotfiles) - Personal dotfiles
 - [NormalNvim/NormalNvim](https://github.com/NormalNvim/NormalNvim) - A normal Neovim distribution
@@ -1862,7 +1862,7 @@
 - [BlingCorp/bling](https://github.com/BlingCorp/bling) - Utilities for the awesome window manager
 - [mut-ex/awesome-wm-nice](https://github.com/mut-ex/awesome-wm-nice) - An Awesome WM module that add MacOS-like window decorations, with seamless titlebars, double click to maximize, and window shade feature
 - [eromatiya/the-glorious-dotfiles](https://github.com/eromatiya/the-glorious-dotfiles) - A glorified personal dot files
-- [rajshekhar26/dotfiles](https://github.com/rajshekhar26/dotfiles) - My dotfiles.
+- [rajshekhar26/dotfiles](https://github.com/rajshekhar26/dotfiles) - ~/
 - [Eredarion/dotfiles](https://github.com/Eredarion/dotfiles) - ~!Dotfiles
 - [pltanton/net_widgets](https://github.com/pltanton/net_widgets) - Network widgets for Awesome WM
 - [WillPower3309/awesome-dotfiles](https://github.com/WillPower3309/awesome-dotfiles) - Dotfiles for awesome people using the awesomewm linux environment
@@ -2224,6 +2224,7 @@
 
 ## Others 
 
+- [ipfs/devgrants](https://github.com/ipfs/devgrants) - The IPFS Grant platform connects funding organizations with builders and researchers in the IPFS community.
 - [ai-boost/awesome-prompts](https://github.com/ai-boost/awesome-prompts) - Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt protect. Advanced Prompt Engineering papers.
 - [ridwanzal/ridwanzal](https://github.com/ridwanzal/ridwanzal) - My personal README for github profile. Cheers.
 - [chaozh/awesome-gpt-store](https://github.com/chaozh/awesome-gpt-store) - A place to find all Custom Stores and OpenAI store for ChatGPT and related apps
@@ -3154,7 +3155,7 @@
 - [Sebelino/nixos-config](https://github.com/Sebelino/nixos-config) - My NixOS configuration files in source control
 - [vinceliuice/emerald-icon-theme](https://github.com/vinceliuice/emerald-icon-theme) - Fresh and simple personality icon theme
 - [chbrown/overdrive](https://github.com/chbrown/overdrive) - Bash script to download mp3s from the OverDrive audiobook service
-- [gabrieldlima/old-dotfiles](https://github.com/gabrieldlima/old-dotfiles) - Personal dotfiles 🖥️
+- [gabrieldlima/old-dotfiles](https://github.com/gabrieldlima/old-dotfiles) - old-dotfiles 🖥️
 - [masroof-maindak/dots](https://github.com/masroof-maindak/dots) - Backup of my Linux configuration files.
 - [KiaraGrouwstra/nix-config](https://github.com/KiaraGrouwstra/nix-config) - my NixOS configuration
 - [chrisgrieser/zsh-magic-dashboard](https://github.com/chrisgrieser/zsh-magic-dashboard) - Pressing "enter" on an empty buffer displays an information-rich and pretty dashboard.
