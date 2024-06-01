@@ -887,7 +887,7 @@
 - [nullstack/nullstack](https://github.com/nullstack/nullstack) - Feature-Driven Full Stack JavaScript Components
 - [CryptoDappRun/EasyNFT-Generator-Bulk-NFT-to-Opensea](https://github.com/CryptoDappRun/EasyNFT-Generator-Bulk-NFT-to-Opensea) - EasyNFT Generator-Bulk NFT to Opensea.generate multi NFTs upload to IPFS and publish on opensea automatically. Defi crypto Dapp
 - [lumamontes/artist-portfolio-website](https://github.com/lumamontes/artist-portfolio-website) - Artist porfolio website with Next.js, Prismic and Web3Forms
-- [simarmannsingh/silverlux](https://github.com/simarmannsingh/silverlux) - A Fast, fully-responsive Gatsby based blog template using NetlifyCMS as CMS.
+- [simarmannsingh/silverlux](https://github.com/simarmannsingh/silverlux) - 💻 A Fast, fully-responsive Gatsby based blog template using NetlifyCMS as CMS.
 - [Akshay090/svg-banners](https://github.com/Akshay090/svg-banners) - Styled banners for your Readme made with html/css in SVG !!
 - [kampka/nix-packages](https://github.com/kampka/nix-packages) - My personal nix repository
 - [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 5200 free MIT-licensed high-quality SVG icons for you to use in your web projects.
@@ -1862,7 +1862,7 @@
 - [BlingCorp/bling](https://github.com/BlingCorp/bling) - Utilities for the awesome window manager
 - [mut-ex/awesome-wm-nice](https://github.com/mut-ex/awesome-wm-nice) - An Awesome WM module that add MacOS-like window decorations, with seamless titlebars, double click to maximize, and window shade feature
 - [eromatiya/the-glorious-dotfiles](https://github.com/eromatiya/the-glorious-dotfiles) - A glorified personal dot files
-- [rajshekhar26/dotfiles](https://github.com/rajshekhar26/dotfiles) - ~/
+- [rjshkhr/dotfiles](https://github.com/rjshkhr/dotfiles) - ~/
 - [Eredarion/dotfiles](https://github.com/Eredarion/dotfiles) - ~!Dotfiles
 - [pltanton/net_widgets](https://github.com/pltanton/net_widgets) - Network widgets for Awesome WM
 - [WillPower3309/awesome-dotfiles](https://github.com/WillPower3309/awesome-dotfiles) - Dotfiles for awesome people using the awesomewm linux environment
@@ -2713,7 +2713,7 @@
 - [stjordanis/betterprompt](https://github.com/stjordanis/betterprompt) - Test suite for LLM prompts
 - [grandchild/autohidewibox](https://github.com/grandchild/autohidewibox) - Execute awesome wm commands on ModKey press/release
 - [detailyang/awesome-cheatsheet](https://github.com/detailyang/awesome-cheatsheet) - :beers: awesome cheatsheet
-- [swirlai/swirl-search](https://github.com/swirlai/swirl-search) - Swirl is open-source software that uses AI to simultaneously search multiple content and data sources, finds the best results using a reader LLM, then prompts Generative AI, enabling you to get answer
+- [swirlai/swirl-search](https://github.com/swirlai/swirl-search) - SWIRL AI Connect: AI infrastructure software that powers your Search & Retrieval Augmented Generation (RAG) applications. Simplify and enhance your AI pipelines with seamless integration of large lang
 - [gohanko/asanitize](https://github.com/gohanko/asanitize) - A simple commandline tool to bulk delete messages and posts from your social media accounts.
 - [NixOS/nixops](https://github.com/NixOS/nixops) - NixOps is a tool for deploying to NixOS machines in a network or cloud.
 - [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - The first real AI developer
