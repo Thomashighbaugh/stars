@@ -1948,7 +1948,6 @@
 - [ewan15/dotFiles](https://github.com/ewan15/dotFiles) - NixOS + Flakes + HomeManager + Sway
 - [ericmaustin/nixos-nebula](https://github.com/ericmaustin/nixos-nebula) - nixos flake for nebula
 - [Prometheus7435/nix-config](https://github.com/Prometheus7435/nix-config) - NixOS flake config with KDE and ZFS
-- [nix-community/nix-direnv](https://github.com/nix-community/nix-direnv) - A fast, persistent use_nix/use_flake implementation for direnv [maintainer=@Mic92 / @bbenne10]
 - [NixOS/nixos-hardware](https://github.com/NixOS/nixos-hardware) - A collection of NixOS modules covering hardware quirks.
 - [danth/stylix](https://github.com/danth/stylix) - System-wide colorscheming and typography for NixOS
 - [GaetanLepage/nix-config](https://github.com/GaetanLepage/nix-config) - 
@@ -2014,7 +2013,6 @@
 - [water-sucks/nixed](https://github.com/water-sucks/nixed) - I've nixed any chance I have at human interaction by building this config
 - [quantumfate/quantumnix](https://github.com/quantumfate/quantumnix) - My NixOS Configuration
 - [astro/skyflake](https://github.com/astro/skyflake) - NixOS Hyperconverged Infrastructure on Nomad/NixOS
-- [NixOS/nix.dev](https://github.com/NixOS/nix.dev) - Official documentation for getting things done with Nix.
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) - Wimpy's NixOS  & Home Manager Configurations ❄️
 - [Icy-Thought/snowflake](https://github.com/Icy-Thought/snowflake) - A repository which contains my current Nix (flake-based) setup!
 - [MatthewCroughan/nixcfg](https://github.com/MatthewCroughan/nixcfg) - My nix configuration(s), using flakes. It's my laptop, it's my servers, it's my everything, in code.
@@ -2736,6 +2734,7 @@
 - [swirlai/swirl-search](https://github.com/swirlai/swirl-search) - SWIRL AI Connect: AI infrastructure software that powers your Search & Retrieval Augmented Generation (RAG) applications. Simplify and enhance your AI pipelines with seamless integration of large lang
 - [gohanko/asanitize](https://github.com/gohanko/asanitize) - A simple commandline tool to bulk delete messages and posts from your social media accounts.
 - [NixOS/nixops](https://github.com/NixOS/nixops) - NixOps is a tool for deploying to NixOS machines in a network or cloud.
+- [NixOS/nix.dev](https://github.com/NixOS/nix.dev) - Official documentation for getting things done with Nix.
 - [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - The first real AI developer
 - [HugoReeves/elemental](https://github.com/HugoReeves/elemental) - Elemental, the component parts of a Nix/OS development system.
 - [jekil/awesome-hacking](https://github.com/jekil/awesome-hacking) - Awesome hacking is an awesome collection of hacking tools.
@@ -3164,6 +3163,7 @@
 - [jgamblin/MacOS-Maid](https://github.com/jgamblin/MacOS-Maid) - Shell Script I Use To Automatically Clean Up My Mac.
 - [prasanthrangan/hyprdots](https://github.com/prasanthrangan/hyprdots) - // Aesthetic, dynamic and minimal dots for Arch hyprland
 - [nomadics9/NixOS-Flake](https://github.com/nomadics9/NixOS-Flake) - My NixOS Flake + dotfiles
+- [nix-community/nix-direnv](https://github.com/nix-community/nix-direnv) - A fast, persistent use_nix/use_flake implementation for direnv [maintainer=@Mic92 / @bbenne10]
 - [0xacx/chatGPT-shell-cli](https://github.com/0xacx/chatGPT-shell-cli) - Simple shell script to use OpenAI's ChatGPT and DALL-E from the terminal. No Python or JS required.
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [mayTermux/myTermux](https://github.com/mayTermux/myTermux) - Make your Termux look better
