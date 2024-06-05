@@ -1322,7 +1322,6 @@
 
 ## Lua 
 
-- [gabrieldlima/dotfiles](https://github.com/gabrieldlima/dotfiles) - AwesomeWM rice 🍚 (with Nix)
 - [jakobkhansen/journal.nvim](https://github.com/jakobkhansen/journal.nvim) - 🖋️ Highly extensible journaling system for Neovim
 - [Leerv474/.dotfiles](https://github.com/Leerv474/.dotfiles) - Personal dotfiles
 - [NormalNvim/NormalNvim](https://github.com/NormalNvim/NormalNvim) - A normal Neovim distribution
@@ -1941,6 +1940,7 @@
 
 ## Nix 
 
+- [gabrieldlima/dotfiles](https://github.com/gabrieldlima/dotfiles) - Personal NixOS config ⛄
 - [IogaMaster/dotfiles](https://github.com/IogaMaster/dotfiles) - My NixOS flake.
 - [divnix/flake-bootstrap](https://github.com/divnix/flake-bootstrap) - 
 - [kira-bruneau/nixos-config](https://github.com/kira-bruneau/nixos-config) - My NixOS configuration. Mirror of code maintained at gitlab.com.
@@ -2229,6 +2229,15 @@
 
 ## Others 
 
+- [Troyanovsky/AI-Professional-Prompts](https://github.com/Troyanovsky/AI-Professional-Prompts) - Harness GPT's expertise with curated prompts for consistent, high-quality professional consultations.
+- [Machine-Minds-AI/developer-prompts-chatgpt](https://github.com/Machine-Minds-AI/developer-prompts-chatgpt) - 📚 Collection of ChatGPT prompts for developers! https//whop.com/pfp
+- [B3o/GPTS-Prompt-Collection](https://github.com/B3o/GPTS-Prompt-Collection) - 收集GPTS的prompt  /   Collect the prompt of GPTS
+- [tjadamlee/GPTs-prompts](https://github.com/tjadamlee/GPTs-prompts) - System prompts for various famous GPTs
+- [CyberAlbSecOP/Awesome_GPT_Super_Prompting](https://github.com/CyberAlbSecOP/Awesome_GPT_Super_Prompting) - ChatGPT Jailbreaks, GPT Assistants Prompt Leaks, GPTs Prompt Injection, LLM Prompt Security, Super Prompts, Prompt Hack, Prompt Security, Ai Prompt Engineering, Adversarial Machine Learning.
+- [jamesmcroft/everyday-prompts](https://github.com/jamesmcroft/everyday-prompts) - A collection of prompts for LLM tools (ChatGPT, Microsoft Copilot, etc.) to help with general tasks.
+- [ora-sh/Awesome-GPT4-Prompts](https://github.com/ora-sh/Awesome-GPT4-Prompts) - A collection of awesome GPT4 prompts
+- [kevinamiri/Instructgpt-prompts](https://github.com/kevinamiri/Instructgpt-prompts) - A collection of ChatGPT and GPT-3.5 instruction-based prompts for generating and classifying text.
+- [aiinpower/awesome-ai-prompts](https://github.com/aiinpower/awesome-ai-prompts) - Collection of custom AI prompts for ChatGPT (OpenAI) and Bard (Google AI) that are meticulously designed following best practices to achieve optimal desired results.
 - [microsoft/prompts-for-edu](https://github.com/microsoft/prompts-for-edu) - 
 - [abilzerian/LLM-Prompt-Library](https://github.com/abilzerian/LLM-Prompt-Library) - Advanced Code and Text Manipulation Prompts for Various LLMs. Suitable for GPT-4, Claude, Llama3, Gemini, and other high-performance open-source LLMs.
 - [ChatTeach/AutoGPT-Prompt](https://github.com/ChatTeach/AutoGPT-Prompt) - One Prompt that can Turned ChatGPT into AutoGPT.
@@ -2652,6 +2661,7 @@
 
 ## Python 
 
+- [adamidarrha/TopGptPrompts](https://github.com/adamidarrha/TopGptPrompts) - the leaked prompts from the best performing gpts
 - [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [javi22020/Prompt-Generator](https://github.com/javi22020/Prompt-Generator) - Use this project to create your own random prompts for Stable Diffusion! Besides, you'll be able to add your own adjectives, objects and styles in the code.
 - [bigscience-workshop/promptsource](https://github.com/bigscience-workshop/promptsource) - Toolkit for creating, sharing and using natural language prompts.
@@ -2764,7 +2774,7 @@
 - [toolleeo/cli-apps](https://github.com/toolleeo/cli-apps) - The largest Awesome Curated list of CLI/TUI applications with source data organized into CSV files
 - [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl) - Collect your thoughts and notes without leaving the command line.
 - [jbuchermn/newm](https://github.com/jbuchermn/newm) - Wayland compositor
-- [new92/IGFI](https://github.com/new92/IGFI) - 🤖 Increase your followers on Instagram with IGFI 📈
+- [new92/IGFI](https://github.com/new92/IGFI) - 🤖 IGFI: Instagram Followers Increaser 📈 | Written in Python 🐍 | Don't forget to ⭐ the repo !
 - [EvilDrPorkChop/OpenSea-NFT-Creator](https://github.com/EvilDrPorkChop/OpenSea-NFT-Creator) - A collection of python scripts which help you programatically create PNGs or GIFs and their Metadata in bulk with custom rarity rates, upload them to OpenSea & list them for sale.
 - [thiagokokada/nix-alien](https://github.com/thiagokokada/nix-alien) - Run unpatched binaries on Nix/NixOS
 - [DRACULA-HACK/C-hacks](https://github.com/DRACULA-HACK/C-hacks) - All social Media hacking with information gathering
