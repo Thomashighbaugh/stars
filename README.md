@@ -3615,6 +3615,7 @@
 
 ## TypeScript 
 
+- [mertthesamael/merto-dev](https://github.com/mertthesamael/merto-dev) - 
 - [crosstyan/generate-forever](https://github.com/crosstyan/generate-forever) - a userscript to generate forever for a novel site
 - [alsiam/folio](https://github.com/alsiam/folio) - Open Source Portfolio or Personal Website using NextJS. Feel free to check out the readme file, copy, fork, and use.
 - [MODSetter/neubrutalism_portfolio](https://github.com/MODSetter/neubrutalism_portfolio) - A simple neubrutalism-style portfolio website theme to create a visually appealing and responsive portfolio to showcases your achievements.
