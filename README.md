@@ -2678,7 +2678,7 @@
 - [haseeb-heaven/langchain-coder](https://github.com/haseeb-heaven/langchain-coder) - Web Application that can generate code and fix bugs and run using various LLM's (GPT,Gemini,PALM)
 - [friuns2/Leaked-GPTs](https://github.com/friuns2/Leaked-GPTs) - Leaked GPTs Prompts Bypass the 25 message limit or to try out GPTs without a Plus subscription.
 - [h2oai/h2o-llmstudio](https://github.com/h2oai/h2o-llmstudio) - H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs. Documentation: https://h2oai.github.io/h2o-llmstudio/
-- [AJaySi/AI-Writer](https://github.com/AJaySi/AI-Writer) - Alwrity - AI contextual Content generation Suite. Alwrity prevents AI hallucinations, Web Researched factual, SEO optimized content. Generate blog Images. Create your AI-Powered Content team with Agen
+- [AJaySi/AI-Writer](https://github.com/AJaySi/AI-Writer) - Alwrity - AI contextual Content generation Suite. Prevents AI hallucinations, Web Researched factual, SEO optimized content. Get blog Images. Create your AI-Powered Content Agents team. Create content
 - [different-ai/embedbase-ava](https://github.com/different-ai/embedbase-ava) - Obsidian + Embedbase = Ava
 - [databricks/dbrx](https://github.com/databricks/dbrx) - Code examples and resources for DBRX, a large language model developed by Databricks
 - [lucasmccabe/emailGPT](https://github.com/lucasmccabe/emailGPT) - a quick and easy interface to generate emails with ChatGPT
@@ -2805,6 +2805,7 @@
 - [wodsuz/EasyApplyJobsBot](https://github.com/wodsuz/EasyApplyJobsBot) - A python bot to automatically apply all Linkedin,Glassdoor, etc Easy Apply jobs based on your preferences. Auto login, auto fill additional questions, apply automatically!
 - [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
 - [thezeroalpha/dotfiles](https://github.com/thezeroalpha/dotfiles) - My personal shell configs and stuff
+- [CachyOS/CachyOS-Settings](https://github.com/CachyOS/CachyOS-Settings) - Settings used for CachyOS
 - [Phoenix124/scribd-downloader](https://github.com/Phoenix124/scribd-downloader) - 
 - [NoahCardoza/audiobookcup-dl](https://github.com/NoahCardoza/audiobookcup-dl) - Download audiobooks from audiobookcup.com
 - [ianling/glitchgen](https://github.com/ianling/glitchgen) - Randomly generates glitch pattern images
@@ -3257,7 +3258,6 @@
 - [vinceliuice/Colloid-icon-theme](https://github.com/vinceliuice/Colloid-icon-theme) - Colloid icon theme for linux desktops
 - [noctuid/dotfiles](https://github.com/noctuid/dotfiles) - Mouseless Workflow (WIP)
 - [CachyOS/CachyOS-Live-ISO](https://github.com/CachyOS/CachyOS-Live-ISO) - 
-- [CachyOS/CachyOS-Settings](https://github.com/CachyOS/CachyOS-Settings) - Settings used for CachyOS
 - [ivan-hc/AM](https://github.com/ivan-hc/AM) - AppImage package manager to install, update (for real) and manage ALL of them (system-wide or locally) thanks to its ever-growing AUR-inspired database listing (for now) 1900+ portable apps and progra
 - [metis-os/metis-sideload](https://github.com/metis-os/metis-sideload) - // Ofiicial installer for @metis-os
 - [metis-os/repo-recon](https://github.com/metis-os/repo-recon) - 📦 Repository: recon, Hacking tools // pkgs
