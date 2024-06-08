@@ -3279,7 +3279,7 @@
 - [Git-Fal7/artix-buildiso](https://github.com/Git-Fal7/artix-buildiso) - my buildisos for artix linux
 - [dovahkiin0424/artix-install](https://github.com/dovahkiin0424/artix-install) - Simple artix linux installer script. Just clone it and run the .sh file
 - [dharmx/dharmx](https://github.com/dharmx/dharmx) - Bleeding-edge dots.
-- [autolisis/artixBootstrap](https://github.com/autolisis/artixBootstrap) - Set up an opinionated artix Linux install in a jiffy
+- [autolyticus/artixBootstrap](https://github.com/autolyticus/artixBootstrap) - Set up an opinionated artix Linux install in a jiffy
 - [ODEX-TOS/wm-debug](https://github.com/ODEX-TOS/wm-debug) - A simple script to make debugging window manager easier
 - [jaromaz/MacintoshPi](https://github.com/jaromaz/MacintoshPi) - MacintoshPi is a project that allows running full-screen versions of Apple's Mac OS 7, Mac OS 8 and Mac OS 9 with sound, active online connection and modem emulation under Raspberry Pi.
 - [simoniz0r/OpenDM](https://github.com/simoniz0r/OpenDM) - WIP - A simple GUI Display Manager written entirely in bash that uses xinit to start X sessions
@@ -3635,7 +3635,6 @@
 - [BraydenTW/braydentw.io](https://github.com/BraydenTW/braydentw.io) - 🔷 My lovely portfolio built with React, NextJS, and TailwindCSS
 - [futantan/OpenGpt](https://github.com/futantan/OpenGpt) - Create your own ChatGPT App in seconds.
 - [kfirfitousi/blog](https://github.com/kfirfitousi/blog) - 👨‍💻 Dev blog built with Next.js 13, TypeScript, and Contentlayer, using latest Next.js features
-- [aleksa-codes/portfolio-v2](https://github.com/aleksa-codes/portfolio-v2) - Second version of my personal website redone with Next.js, TailwindCSS and DaisyUI.
 - [comoestassergio/portfolio-next](https://github.com/comoestassergio/portfolio-next) - Dynamically updated page to showcase my works from GitHub
 - [mckaywrigley/storybook-ai](https://github.com/mckaywrigley/storybook-ai) - Use AI to write complete stories.
 - [hubtype/botonic](https://github.com/hubtype/botonic) - Build chatbots and conversational experiences using React
