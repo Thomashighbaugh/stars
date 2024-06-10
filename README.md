@@ -2032,7 +2032,6 @@
 - [xenoxanite/melted.flakes](https://github.com/xenoxanite/melted.flakes) - Xenoxanite's nixos configuration.
 - [qbit/xin](https://github.com/qbit/xin) - My nix setup
 - [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@rycee]
-- [buffet/amirice](https://github.com/buffet/amirice) - tara config
 - [RiscadoA/nixconfig](https://github.com/RiscadoA/nixconfig) - My NixOS configuration files.
 - [wiedzmin/nixos-config](https://github.com/wiedzmin/nixos-config) - My NixOS configuration
 - [luochen1990/nixos-config](https://github.com/luochen1990/nixos-config) - LC's personal NixOS Configuration
