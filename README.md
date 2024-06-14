@@ -810,6 +810,7 @@
 
 ## JavaScript 
 
+- [Pythonnego/CrackedBlackFriday-GPTs-Prompts](https://github.com/Pythonnego/CrackedBlackFriday-GPTs-Prompts) - List of free GPTs that doesn't require plus subscription
 - [thesephist/thingboard](https://github.com/thesephist/thingboard) - A board of things, anywhere you want on the screen
 - [anup-a/svgwave](https://github.com/anup-a/svgwave) - SVG Wave is a tiny, free and beautiful SVG gradient waves generator for your next design.
 - [DustinBrett/daedalOS](https://github.com/DustinBrett/daedalOS) - Desktop environment in the browser
@@ -1255,6 +1256,7 @@
 
 ## Jupyter Notebook 
 
+- [google-gemini/cookbook](https://github.com/google-gemini/cookbook) - A collection of guides and examples for the Gemini API.
 - [kwinkunks/promptly](https://github.com/kwinkunks/promptly) - A prompt collection for testing and evaluation of LLMs.
 - [grahamwaters/lorebook_generator_for_novelai](https://github.com/grahamwaters/lorebook_generator_for_novelai) - Generates a lorebook for novelai
 - [NoDataFound/hackGPT](https://github.com/NoDataFound/hackGPT) - I leverage OpenAI and ChatGPT to do hackerish things
@@ -2230,6 +2232,11 @@
 
 ## Others 
 
+- [machinemindsai/secrets-of-tree-of-thoughts-tot](https://github.com/machinemindsai/secrets-of-tree-of-thoughts-tot) - Secrets of Tree of Thoughts for Programmers (Preview)
+- [0nEoNi1/WhiteFriday-GPTs-Prompts](https://github.com/0nEoNi1/WhiteFriday-GPTs-Prompts) - List of free GPTs that doesn't require plus subscription
+- [azamiftikhar1000/prompt-world](https://github.com/azamiftikhar1000/prompt-world) - Prompt-World is a curated collection of crafted prompts, study materials, and optimization guides for efficiently using the CHAT GPT language model.
+- [adamkdean/prompts](https://github.com/adamkdean/prompts) - Collection of GPT & LLM prompts
+- [B00TK1D/copilot-prompts](https://github.com/B00TK1D/copilot-prompts) - A collection of Github Copilot prompts used internally to generate code suggestions
 - [not-yet-awesome-rust/not-yet-awesome-rust](https://github.com/not-yet-awesome-rust/not-yet-awesome-rust) - A curated list of Rust code and resources that do NOT exist yet, but would be beneficial to the Rust community.
 - [Troyanovsky/AI-Professional-Prompts](https://github.com/Troyanovsky/AI-Professional-Prompts) - Harness GPT's expertise with curated prompts for consistent, high-quality professional consultations.
 - [Machine-Minds-AI/developer-prompts-chatgpt](https://github.com/Machine-Minds-AI/developer-prompts-chatgpt) - 📚 Collection of ChatGPT prompts for developers! https//whop.com/pfp
@@ -2661,6 +2668,9 @@
 
 ## Python 
 
+- [praj2408/End-To-End-Resume-ATS-Tracking-LLM-Project-With-Google-Gemini-Pro](https://github.com/praj2408/End-To-End-Resume-ATS-Tracking-LLM-Project-With-Google-Gemini-Pro) - This is a project aiming to optimize the recruitment process. It integrates an advanced Applicant Tracking System with Google Gemini Pro, streamlining resume parsing, keyword matching, and candidate e
+- [ekramasif/ATS_Resume_Expert](https://github.com/ekramasif/ATS_Resume_Expert) - ATS Resume Expert uses AI to optimize your resume for Applicant Tracking Systems (ATS). Get past the filter & reach human reviewers. Increase your chances, land your dream job!
+- [luijait/DarkGPT](https://github.com/luijait/DarkGPT) - DarkGPT is an OSINT assistant based on GPT-4-200K (recommended use) designed to perform queries on leaked databases, thus providing an artificial intelligence assistant that can be useful in your trad
 - [adamidarrha/TopGptPrompts](https://github.com/adamidarrha/TopGptPrompts) - the leaked prompts from the best performing gpts
 - [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [javi22020/Prompt-Generator](https://github.com/javi22020/Prompt-Generator) - Use this project to create your own random prompts for Stable Diffusion! Besides, you'll be able to add your own adjectives, objects and styles in the code.
@@ -3615,6 +3625,7 @@
 
 ## TypeScript 
 
+- [dhavalCode/textshine.ai](https://github.com/dhavalCode/textshine.ai) - AI Powered Writing Tool
 - [mertthesamael/merto-dev](https://github.com/mertthesamael/merto-dev) - 
 - [crosstyan/generate-forever](https://github.com/crosstyan/generate-forever) - a userscript to generate forever for a novel site
 - [alsiam/folio](https://github.com/alsiam/folio) - Open Source Portfolio or Personal Website using NextJS. Feel free to check out the readme file, copy, fork, and use.
