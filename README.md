@@ -955,6 +955,7 @@
 - [blocklistproject/Lists](https://github.com/blocklistproject/Lists) - Primary Block Lists
 - [kaiwalyakoparkar/Full-Stack-Development-Learning-Path](https://github.com/kaiwalyakoparkar/Full-Stack-Development-Learning-Path) - This repo contains all the things which I practice while learning the Full-stack web development
 - [octokatherine/readme.so](https://github.com/octokatherine/readme.so) - An online drag-and-drop editor to easily build READMEs
+- [Athena-OS/athena](https://github.com/Athena-OS/athena) - Athena OS is a Arch/Nix-based distro focused on Cybersecurity. Learn, practice and enjoy with any hacking tool!
 - [runningcheese/RunningCheese-Firefox](https://github.com/runningcheese/RunningCheese-Firefox) - A Graceful and Powerful Customized Firefox
 - [tkhquang/userChrome.js](https://github.com/tkhquang/userChrome.js) - userChrome.js for Firefox
 - [hanacchi/RestoreFirefoxJS](https://github.com/hanacchi/RestoreFirefoxJS) - userChromeJS scripts to restore Firefox features that have been removed or changed
@@ -1504,7 +1505,6 @@
 - [hadronized/mind.nvim](https://github.com/hadronized/mind.nvim) - The power of trees at your fingertips.
 - [ElPiloto/prompts.nvim](https://github.com/ElPiloto/prompts.nvim) - prompts for your vimwiki
 - [edr3x/.dotfiles](https://github.com/edr3x/.dotfiles) - dotfiles for AwesomeWM, Neovim, and many other tools i use
-- [Athena-OS/athena](https://github.com/Athena-OS/athena) - Athena OS is a Arch/Nix-based distro focused on Cybersecurity. Learn, practice and enjoy with any hacking tool!
 - [wxxxcxx/awesome](https://github.com/wxxxcxx/awesome) - Awesome WM Configuration
 - [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal nvim configuration
 - [jcrd/awesome-dovetail](https://github.com/jcrd/awesome-dovetail) - AwesomeWM layout featuring two visible tiled clients
@@ -2250,7 +2250,7 @@
 - [jamesmcroft/everyday-prompts](https://github.com/jamesmcroft/everyday-prompts) - A collection of prompts for LLM tools (ChatGPT, Microsoft Copilot, etc.) to help with general tasks.
 - [ora-sh/Awesome-GPT4-Prompts](https://github.com/ora-sh/Awesome-GPT4-Prompts) - A collection of awesome GPT4 prompts
 - [kevinamiri/Instructgpt-prompts](https://github.com/kevinamiri/Instructgpt-prompts) - A collection of ChatGPT and GPT-3.5 instruction-based prompts for generating and classifying text.
-- [ximilsoft/awesome-ai-prompts](https://github.com/ximilsoft/awesome-ai-prompts) - Collection of custom AI prompts for ChatGPT (OpenAI) and Bard (Google AI) that are meticulously designed following best practices to achieve optimal desired results.
+- [ximilsoft/awesome-ai-prompts](https://github.com/ximilsoft/awesome-ai-prompts) - Collection of custom AI prompts for ChatGPT and Gemini, designed following best practices to achieve optimal results.
 - [microsoft/prompts-for-edu](https://github.com/microsoft/prompts-for-edu) - 
 - [abilzerian/LLM-Prompt-Library](https://github.com/abilzerian/LLM-Prompt-Library) - Advanced Code and Text Manipulation Prompts for Various LLMs. Suitable for Siri, GPT-4o, Claude, Llama3, Gemini, and other high-performance open-source LLMs.
 - [ChatTeach/AutoGPT-Prompt](https://github.com/ChatTeach/AutoGPT-Prompt) - One Prompt that can Turned ChatGPT into AutoGPT.
@@ -3273,7 +3273,7 @@
 - [vinceliuice/Colloid-icon-theme](https://github.com/vinceliuice/Colloid-icon-theme) - Colloid icon theme for linux desktops
 - [noctuid/dotfiles](https://github.com/noctuid/dotfiles) - Mouseless Workflow (WIP)
 - [CachyOS/CachyOS-Live-ISO](https://github.com/CachyOS/CachyOS-Live-ISO) - 
-- [ivan-hc/AM](https://github.com/ivan-hc/AM) - AppImage package manager to install, update (for real) and manage ALL of them (system-wide or locally) thanks to its ever-growing AUR-inspired database listing (for now) 1900+ portable apps and progra
+- [ivan-hc/AM](https://github.com/ivan-hc/AM) - AppImage package manager to install, update (for real) and manage ALL of them (system-wide or locally) thanks to its ever-growing AUR-inspired database listing 2000+ portable apps and programs for GNU
 - [metis-os/metis-sideload](https://github.com/metis-os/metis-sideload) - // Ofiicial installer for @metis-os
 - [metis-os/repo-recon](https://github.com/metis-os/repo-recon) - 📦 Repository: recon, Hacking tools // pkgs
 - [archon-linux/archon-iso](https://github.com/archon-linux/archon-iso) - 
@@ -3390,7 +3390,6 @@
 - [Lolzen/void-live-customizer](https://github.com/Lolzen/void-live-customizer) - script to build a customized livecd of void linux using void-mklive
 - [ahmetozer/whitedoor](https://github.com/ahmetozer/whitedoor) - Experimental embed linux build with containers
 - [Sharrisii/TAZ](https://github.com/Sharrisii/TAZ) - A slimmed down gentoo linux livecd/liveusb iso that allows to load different boot options and runs from RAM upon boot. A VCTLabs project.
-- [LinuxGuides-OS/LinuxGuidesOS](https://github.com/LinuxGuides-OS/LinuxGuidesOS) - LinuxGuides OS Hauptrepo
 - [dcloud-ca/voidLuksSetup](https://github.com/dcloud-ca/voidLuksSetup) - Bash script for installing Void Linux with disk encryption
 - [xdeb-org/xdeb](https://github.com/xdeb-org/xdeb) - XDEB - Convert deb (Debian) packages to xbps (Void Linux)
 - [project-trident/trident-installer](https://github.com/project-trident/trident-installer) - Graphical system install utility
