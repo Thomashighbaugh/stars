@@ -73,6 +73,7 @@
 - [Scheme](#scheme)
 - [Shell](#shell)
 - [Svelte](#svelte)
+- [Swift](#swift)
 - [SystemVerilog](#systemverilog)
 - [TeX](#tex)
 - [Twig](#twig)
@@ -221,6 +222,7 @@
 
 ## C# # 
 
+- [pebakery/pebakery](https://github.com/pebakery/pebakery) - PEBakery is a script engine that specializes in customizing the Windows Preinstalled Environment (WinPE/WinRE).
 - [brandonlw/Psychson](https://github.com/brandonlw/Psychson) - Phison 2251-03 (2303) Custom Firmware & Existing Firmware Patches (BadUSB)
 - [Woruburu/AIDungeonPrompts](https://github.com/Woruburu/AIDungeonPrompts) - 
 - [collinbarrett/FilterLists](https://github.com/collinbarrett/FilterLists) - :shield: The independent, comprehensive directory of filter and host lists for advertisements, trackers, malware, and annoyances.
@@ -2238,6 +2240,9 @@
 
 ## Others 
 
+- [SpitFire-666/Firefox-Stuff](https://github.com/SpitFire-666/Firefox-Stuff) - Firefox info, addons, extensions, themes, customisation and stuff
+- [banzr/RemoveMojaveApps](https://github.com/banzr/RemoveMojaveApps) - How to remove protected apps, such as News, Stocks, and Home from a Mojave macOS installation
+- [fmhy/FMHY](https://github.com/fmhy/FMHY) - /r/FREEMEDIAHECKYEAH
 - [blackosx/OpenCanopyIcons](https://github.com/blackosx/OpenCanopyIcons) - A range of .icns files designed specifically for OpenCanopy
 - [blackosx/BsxM1](https://github.com/blackosx/BsxM1) - An OpenCanopy Theme
 - [machinemindsai/secrets-of-tree-of-thoughts-tot](https://github.com/machinemindsai/secrets-of-tree-of-thoughts-tot) - Secrets of Tree of Thoughts for Programmers (Preview)
@@ -3616,6 +3621,10 @@
 - [catchspider2002/svelte-svg-patterns](https://github.com/catchspider2002/svelte-svg-patterns) - Create seamless patterns in SVG to use as website backgrounds, header images, stationery design and package design
 - [EddieHubCommunity/good-first-issue-finder](https://github.com/EddieHubCommunity/good-first-issue-finder) - Issue-Crawler for GitHub based on Sveltekit
 
+## Swift 
+
+- [ianyh/Amethyst](https://github.com/ianyh/Amethyst) - Automatic tiling window manager for macOS à la xmonad.
+
 ## SystemVerilog 
 
 - [hughperkins/VeriGPU](https://github.com/hughperkins/VeriGPU) - OpenSource GPU, in Verilog, loosely based on RISC-V ISA
@@ -3637,6 +3646,7 @@
 
 ## TypeScript 
 
+- [tientq64/userscripts](https://github.com/tientq64/userscripts) - 📜 List of userscripts I wrote.
 - [dhavalCode/textshine.ai](https://github.com/dhavalCode/textshine.ai) - AI Powered Writing Tool
 - [mertthesamael/merto-dev](https://github.com/mertthesamael/merto-dev) - 
 - [crosstyan/generate-forever](https://github.com/crosstyan/generate-forever) - a userscript to generate forever for a novel site
