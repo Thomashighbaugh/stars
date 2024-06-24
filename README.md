@@ -1335,7 +1335,7 @@
 ## Lua 
 
 - [jakobkhansen/journal.nvim](https://github.com/jakobkhansen/journal.nvim) - 🖋️ Highly extensible journaling system for Neovim
-- [Leerv474/.dotfiles](https://github.com/Leerv474/.dotfiles) - Personal dotfiles
+- [Leerv474/.dotfiles-awesome](https://github.com/Leerv474/.dotfiles-awesome) - Personal dotfiles
 - [NormalNvim/NormalNvim](https://github.com/NormalNvim/NormalNvim) - A normal Neovim distribution
 - [RutaTang/quicknote.nvim](https://github.com/RutaTang/quicknote.nvim) - Quickly take notes, in-place
 - [ReadyWidgets/awesome-extrautils](https://github.com/ReadyWidgets/awesome-extrautils) - A library providing many utility functions for use with the awesome window manager
@@ -1535,7 +1535,7 @@
 - [nivalderramas/awesome-config](https://github.com/nivalderramas/awesome-config) - Config files for awesomeWM
 - [nivalderramas/dotfiles_old](https://github.com/nivalderramas/dotfiles_old) - Personal dotfiles
 - [dharmx/nvim](https://github.com/dharmx/nvim) - Blazingly fast SHUTTHEFUCKUP.
-- [Stardust-kyun/dotfiles](https://github.com/Stardust-kyun/dotfiles) - 🌸 - Personal Dotfiles
+- [Stardust-kyun/dotfiles](https://github.com/Stardust-kyun/dotfiles) - Calla Desktop Environment
 - [JaninaWibker/awesome-config](https://github.com/JaninaWibker/awesome-config) - Awesome WM config
 - [larkery/awesome](https://github.com/larkery/awesome) - 
 - [edluffy/specs.nvim](https://github.com/edluffy/specs.nvim) - 👓 A fast and lightweight Neovim lua plugin to keep an eye on where your cursor has jumped.
@@ -2053,7 +2053,7 @@
 - [shaunsingh/nixpkgs-s2k](https://github.com/shaunsingh/nixpkgs-s2k) - Shaunsingh's stash of fresh packages
 - [AntonHakansson/nixos-config](https://github.com/AntonHakansson/nixos-config) - NixOS configuration of my machines
 - [smashstate/gnome-manager](https://github.com/smashstate/gnome-manager) - NixOS module for GNOME configuration
-- [pjones/plasma-manager](https://github.com/pjones/plasma-manager) - Manage KDE Plasma with Home Manager
+- [nix-community/plasma-manager](https://github.com/nix-community/plasma-manager) - Manage KDE Plasma with Home Manager
 - [ocfox/den](https://github.com/ocfox/den) - Simply, but firmly
 - [svend/user-env-nix](https://github.com/svend/user-env-nix) - Reproducible development environment powered by Nix Flakes
 - [wochap/nix-config](https://github.com/wochap/nix-config) - Personal NixOS configuration
@@ -2857,7 +2857,7 @@
 - [old-adapdr/apps-server](https://github.com/old-adapdr/apps-server) - A container based home development server, just copy over dist.* files, set the .env and get rolling!
 - [sahinakkaya/binary-clock-wallpaper](https://github.com/sahinakkaya/binary-clock-wallpaper) - A python script to generate wallpaper that shows time in binary.
 - [chrisvaughn/imap-cleanup](https://github.com/chrisvaughn/imap-cleanup) - Python script to clean out unwanted email via IMAP
-- [Transpile-AI/ivy](https://github.com/Transpile-AI/ivy) - The Unified AI Framework
+- [ivy-llc/ivy](https://github.com/ivy-llc/ivy) - The Unified AI Framework
 - [mkdirlove/WI-TOOLKIT](https://github.com/mkdirlove/WI-TOOLKIT) - Hack WiFi in Termux ( ROOTED DEVICES ONLY)
 - [justinwoo/mkgif](https://github.com/justinwoo/mkgif) - because ffmpeg commands are too annoying to remember, and bash scripts are annoying to manage.
 - [yakninja/mantra-generator](https://github.com/yakninja/mantra-generator) - Generates mantras in Sanskrit, allowing you to discover secret mantras
