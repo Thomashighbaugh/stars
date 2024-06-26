@@ -1345,7 +1345,7 @@
 - [DanL2015/AwesomeWM](https://github.com/DanL2015/AwesomeWM) - An aesthetic AwesomeWM configuration
 - [rifsxd/oh-my-awesomewm-dots](https://github.com/rifsxd/oh-my-awesomewm-dots) - OMAWM - My person awesome window manager - themes - widgets  -  configs
 - [mahmoudk1000/awedots](https://github.com/mahmoudk1000/awedots) - my awesomewm config
-- [tsukki9696/dotfiles](https://github.com/tsukki9696/dotfiles) - Configuration files
+- [deceptionfalls/dotfiles](https://github.com/deceptionfalls/dotfiles) - Configuration files
 - [joepigott/dots](https://github.com/joepigott/dots) - dotfiles
 - [uga-rosa/cmp-dictionary](https://github.com/uga-rosa/cmp-dictionary) - A dictionary completion source for nvim-cmp
 - [zbirenbaum/copilot-cmp](https://github.com/zbirenbaum/copilot-cmp) - Lua plugin to turn github copilot into a cmp source
@@ -1361,7 +1361,7 @@
 - [deficient/brightness](https://github.com/deficient/brightness) - Brightness widget for awesome WM
 - [deficient/quicklaunch](https://github.com/deficient/quicklaunch) - Quicklauncher widget for awesome WM
 - [wrkzk/nixos-config](https://github.com/wrkzk/nixos-config) - NixOS system configuration using flakes
-- [tsukki9696/tsukiyomi](https://github.com/tsukki9696/tsukiyomi) - An elegant AwesomeWM configuration focused on beauty and a carefully crafted UI.
+- [deceptionfalls/tsukiyomi](https://github.com/deceptionfalls/tsukiyomi) - An elegant AwesomeWM configuration focused on beauty and a carefully crafted UI.
 - [brose55/awesome-config](https://github.com/brose55/awesome-config) - My changes to PapyElGringo/material-awesome
 - [singul4ri7y/not-awesome-at-all](https://github.com/singul4ri7y/not-awesome-at-all) - An AwesomeWM rice inspired by HikariKnight and PapyElGringo's work 👾
 - [nyngwang/suave.lua](https://github.com/nyngwang/suave.lua) - Multi-tabs project session automation
@@ -1991,7 +1991,7 @@
 - [shazow/nixfiles](https://github.com/shazow/nixfiles) - Some of my .nix files
 - [NobbZ/nix-dotfiles](https://github.com/NobbZ/nix-dotfiles) - 
 - [SolidRhino/nixos-config-1](https://github.com/SolidRhino/nixos-config-1) - My Personal Nix, NixOS and Nix-Darwin System Configuration Flake
-- [Sorixelle/dotfiles](https://github.com/Sorixelle/dotfiles) - All my dotfiles in the form of a NixOS configuration
+- [Sorixelle/dotfiles](https://github.com/Sorixelle/dotfiles) - Mirror of my NixOS configuration
 - [malob/nixpkgs](https://github.com/malob/nixpkgs) - My Nix system configs!
 - [tiredofit/nixos-config](https://github.com/tiredofit/nixos-config) - NixOS configurations
 - [jethrokuan/nix-config](https://github.com/jethrokuan/nix-config) - 
@@ -2564,7 +2564,6 @@
 - [mossailem/flappe](https://github.com/mossailem/flappe) - Flappe (Flat UI Colors Pallete for Inkscape) is collection of color pallete for Inkscape that inspired from Flat UI Colors Pallete.
 - [Robert-96/inkscape-templates](https://github.com/Robert-96/inkscape-templates) - A collection of SVG templates for Inkscape.
 - [Data4Democracy/ethics-resources](https://github.com/Data4Democracy/ethics-resources) - 
-- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - 
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [appacademy/welcome-to-open](https://github.com/appacademy/welcome-to-open) - Overview of App Academy Open
 - [HAX3RxD/report](https://github.com/HAX3RxD/report) - Auto Report Facebook Account
@@ -2745,7 +2744,7 @@
 - [earthonion/ChatGPT-Book-Generator](https://github.com/earthonion/ChatGPT-Book-Generator) - Input any book title and it will generate a full book in PDF format.
 - [mikavehns/BookGPT](https://github.com/mikavehns/BookGPT) - Writes complete books with given paramters, using GPT-3.
 - [fdtory/FictionGPT](https://github.com/fdtory/FictionGPT) - Write fiction stories with given parameters, using GPT-3,5
-- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models. Supports transformers, GPTQ, AWQ, EXL2, llama.cpp (GGUF), Llama models.
+- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models.
 - [zestor/Muses](https://github.com/zestor/Muses) - Artificial Intelligence (AI) Long Form Fiction Writer using OpenAI or NLP Cloud
 - [mozilla/fxemoji](https://github.com/mozilla/fxemoji) - FxEmojis - a friendly emoji set from Mozilla
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - GPT based autonomous agent that does online comprehensive research on any given topic
@@ -3942,6 +3941,7 @@
 - [Thomashighbaugh/vim](https://github.com/Thomashighbaugh/vim) - Vim configuration
 - [shapeshed/dotfiles](https://github.com/shapeshed/dotfiles) - My dotfiles
 - [skywind3000/vim-quickui](https://github.com/skywind3000/vim-quickui) - The missing UI extensions for Vim 9 (and NeoVim) !! :sunglasses:
+- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - 
 - [ktonga/vim-follow-my-lead](https://github.com/ktonga/vim-follow-my-lead) - Vim plugin for showing all your &lt;Leader&gt; mappings in a readable table including the descriptions.
 - [mhinz/vim-galore](https://github.com/mhinz/vim-galore) - :mortar_board: All things Vim!
 - [strazto/dotfiles](https://github.com/strazto/dotfiles) - Modular :package: dotfile repo that uses dotbot profiles to make bootstrapping :zap: lighting fast, on (almost) any env.
