@@ -2308,7 +2308,7 @@
 - [teoxoy/teoxoy](https://github.com/teoxoy/teoxoy) - github profile readme
 - [cheesits456/cheesits456](https://github.com/cheesits456/cheesits456) - 
 - [wordmaxai/awesome-chatgpt-prompts](https://github.com/wordmaxai/awesome-chatgpt-prompts) - Collection of awesome ChatGPT prompts to get better results. Use these with any AI writer to converse smartly.
-- [PanXProject/awesome-certificates](https://github.com/PanXProject/awesome-certificates) - Curated list of 10,000+ hours and 100+ free certificates in IT, computer science and business.
+- [PanXProject/awesome-certificates](https://github.com/PanXProject/awesome-certificates) - Curated list of 20,000+ hours and 150+ free courses with certificates in IT, computer science and business.
 - [Ileriayo/ileriayo](https://github.com/Ileriayo/ileriayo) - Hi, welcome to my homepage!
 - [manuscripts/book-starter](https://github.com/manuscripts/book-starter) - Book Quick Starter Kit - Write Your Own Book in Plain Text (with Markdown)
 - [mundimark/awesome-markdown](https://github.com/mundimark/awesome-markdown) - A collection of awesome markdown goodies (libraries, services, editors, tools, cheatsheets, etc.)
