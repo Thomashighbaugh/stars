@@ -901,7 +901,7 @@
 - [simarmannsingh/silverlux](https://github.com/simarmannsingh/silverlux) - 💻 A Fast, fully-responsive Gatsby based blog template using NetlifyCMS as CMS.
 - [Akshay090/svg-banners](https://github.com/Akshay090/svg-banners) - Styled banners for your Readme made with html/css in SVG !!
 - [kampka/nix-packages](https://github.com/kampka/nix-packages) - My personal nix repository
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 5200 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 5300 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [ozwaldorf/flake](https://github.com/ozwaldorf/flake) - my flake for everything
 - [leepenney/markdown-gallery](https://github.com/leepenney/markdown-gallery) - Converts a list of images into gallery mark-up
 - [ujjalacharya/awesome-ecom](https://github.com/ujjalacharya/awesome-ecom) - A complete online ecommerce portal (Node, React, Mongo, NextJS, ReactNative)
@@ -3219,7 +3219,7 @@
 - [TangoMan75/commitator](https://github.com/TangoMan75/commitator) - TangoMan Commitator is an awesome bash script to fake git commit history.
 - [chubin/cheat.sheets](https://github.com/chubin/cheat.sheets) - cheat.sh cheat sheets repository
 - [mikeroyal/Linux-Mint-Guide](https://github.com/mikeroyal/Linux-Mint-Guide) - Linux Mint Guide
-- [gh0stzk/dotfiles](https://github.com/gh0stzk/dotfiles) - BSPWM environment with 15 themes. Polybar. eww widgets, with a rice selector to change on the fly.
+- [gh0stzk/dotfiles](https://github.com/gh0stzk/dotfiles) - BSPWM environment with 18 themes. With a theme selector to change on the fly.
 - [olivierodo/Awesome-CV-action](https://github.com/olivierodo/Awesome-CV-action) - A GitHub action to keep you Awesome CV up to date through continuous integration
 - [fantasy0x1/dotfiles](https://github.com/fantasy0x1/dotfiles) - Dotfiles of my Arch Linux daily setup
 - [ericdallo/dotfiles](https://github.com/ericdallo/dotfiles) - Dotfiles for my NixOS system based on Dracula theme
@@ -3459,7 +3459,7 @@
 - [brendangregg/perf-tools](https://github.com/brendangregg/perf-tools) - Performance analysis tools based on Linux perf_events (aka perf) and ftrace
 - [regolith-linux/regolith-ubuntu-iso-builder](https://github.com/regolith-linux/regolith-ubuntu-iso-builder) - 
 - [mvallim/live-custom-ubuntu-from-scratch](https://github.com/mvallim/live-custom-ubuntu-from-scratch) - This procedure shows how to create a bootable and installable Ubuntu Live (along with the automatic hardware detection and configuration) from scratch.
-- [aecreations/sync-clippings](https://github.com/aecreations/sync-clippings) - Helper application for Clippings
+- [aecreations/sync-clippings](https://github.com/aecreations/sync-clippings) - Sync Clippings Helper
 - [davatorium/rofi-scripts](https://github.com/davatorium/rofi-scripts) - Small scripts for use with rofi
 - [sgleizes/xsh](https://github.com/sgleizes/xsh) - A simple framework for shell configuration management.
 - [ODEX-TOS/packages](https://github.com/ODEX-TOS/packages) - Closely follow Arch Linux packages
@@ -3874,7 +3874,7 @@
 - [philippetedajo/philippe.tedajo](https://github.com/philippetedajo/philippe.tedajo) - My personal portfolio.
 - [raunofreiberg/ui-playbook](https://github.com/raunofreiberg/ui-playbook) - The documented collection of UI components 🤓
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
-- [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
+- [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 - [honkit/honkit](https://github.com/honkit/honkit) - :book: HonKit is building beautiful books using Markdown - Fork of GitBook
 - [peaceiris/actions-mdbook](https://github.com/peaceiris/actions-mdbook) - GitHub Actions for mdBook (rust-lang/mdBook) ⚡️ Setup mdBook quickly and build your site fast. Linux (Ubuntu), macOS, and Windows are supported.
 - [browniebroke/gatsby-image-gallery](https://github.com/browniebroke/gatsby-image-gallery) - Very basic gallery grid based on gatsby-image
