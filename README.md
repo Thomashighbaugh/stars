@@ -373,7 +373,7 @@
 - [AllJavi/tartarus-dotfiles](https://github.com/AllJavi/tartarus-dotfiles) - Just another awesomewm gruvbox dotfiles
 - [EliverLara/Kripton](https://github.com/EliverLara/Kripton) - A dark theme with flat style for GNOME
 - [alexhyett/linkinbio](https://github.com/alexhyett/linkinbio) - Link In Bio Page for Instagram, Twitter, Tumblr etc
-- [daniruiz/skeuos-gtk](https://github.com/daniruiz/skeuos-gtk) - 
+- [daniruiz/skeuos-gtk](https://github.com/daniruiz/skeuos-gtk) - Skeuos is a GTK application theme inspired by the latest skeumorphic design trends, by embracing the bevels, drop-shadows, and gradients most modern themes actively avoid.
 - [princekrvert/Ravana](https://github.com/princekrvert/Ravana) - Phishing tool for termux .This includes many websites like facebook,Instagram,Twitter,google etc..
 - [luximus-hunter/FireFix](https://github.com/luximus-hunter/FireFix) - Small fixes for the FireFox UI to make it more consistent
 - [possibly-not/Firefox-UI-Fix](https://github.com/possibly-not/Firefox-UI-Fix) - 🦊 I respect proton UI but I miss the panel icons!
@@ -1501,7 +1501,6 @@
 - [garado/awesome-keynav](https://github.com/garado/awesome-keynav) - a library for navigating awesomewm widgets with the keyboard
 - [wimstefan/dotfiles](https://github.com/wimstefan/dotfiles) - My personal dotfiles
 - [xlucn/dotfiles](https://github.com/xlucn/dotfiles) - Linux configuration files (dotfiles) and some useful scripts
-- [latipun7/dotfiles](https://github.com/latipun7/dotfiles) - 🏡 Home sweet ~/.
 - [gabrielfrimodig/dotfiles](https://github.com/gabrielfrimodig/dotfiles) - There's no place like ~ !
 - [hnbnh/dotfiles](https://github.com/hnbnh/dotfiles) - my personal ~/dotfiles
 - [duclos-cavalcanti/dotfiles](https://github.com/duclos-cavalcanti/dotfiles) - Configuration files for my linux system.
@@ -1906,7 +1905,7 @@
 
 ## MDX 
 
-- [akhila-ariyachandra/akhilaariyachandra.com](https://github.com/akhila-ariyachandra/akhilaariyachandra.com) - ✨ My portfolio built with Next.js, Tailwind, Contentlayer, Turso, Drizzle ORM, and Vercel.
+- [akhila-ariyachandra/akhilaariyachandra.com](https://github.com/akhila-ariyachandra/akhilaariyachandra.com) - ✨ My portfolio built with Next.js, Tailwind, Content Collections, Turso, Drizzle ORM, and Vercel.
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications
 - [DeterminateSystems/zero-to-nix](https://github.com/DeterminateSystems/zero-to-nix) - Zero to Nix is your guide to learning Nix and flakes. Created by Determinate Systems.
 - [hta218/leohuynh.dev](https://github.com/hta218/leohuynh.dev) - My 🏠 on the ☁️. Portfolio, showcases, snippets, dev logs, and ideas
@@ -2000,7 +1999,7 @@
 - [dwarfmaster/home-nix](https://github.com/dwarfmaster/home-nix) - My dotfile as managed by nix with home-manager
 - [workflow/dotfiles](https://github.com/workflow/dotfiles) - 💫 NixOS configuration files
 - [nix-community/nixGL](https://github.com/nix-community/nixGL) - A wrapper tool for nix OpenGL application [maintainer=@guibou]
-- [nix-community/poetry2nix](https://github.com/nix-community/poetry2nix) - Convert poetry projects to nix automagically [maintainer=@cpcloud]
+- [nix-community/poetry2nix](https://github.com/nix-community/poetry2nix) - Convert poetry projects to nix automagically [maintainer=@adisbladis,@cpcloud]
 - [sum-rock/just-sum-nix](https://github.com/sum-rock/just-sum-nix) - nix files
 - [mikeroyal/NixOS-Guide](https://github.com/mikeroyal/NixOS-Guide) - NixOS Guide. Learn all about the immutable Nix Operating System and the declarative Nix Expression Language.
 - [cpcloud/flake-update-action](https://github.com/cpcloud/flake-update-action) - A GitHub action to automatically update nix flake dependencies
@@ -2110,7 +2109,6 @@
 - [kittywitch/infrastructure](https://github.com/kittywitch/infrastructure) - Personal infrastructure repository
 - [barrucadu/nixfiles](https://github.com/barrucadu/nixfiles) - My NixOS configuration and assorted other crap.
 - [bbigras/nix-config](https://github.com/bbigras/nix-config) - My personal nix config
-- [tudurom/dotfiles](https://github.com/tudurom/dotfiles) - My computing environment, in code form. Nix for my personal computer and my server. Mirror.
 - [iAmMrinal0/nix-config](https://github.com/iAmMrinal0/nix-config) - Configuration and dotfiles used on NixOS with home-manager
 - [gytis-ivaskevicius/nixfiles](https://github.com/gytis-ivaskevicius/nixfiles) - My kick-ass NixOS systems configurations!!
 - [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers
@@ -3248,6 +3246,7 @@
 - [Distroshare/distroshare-ubuntu-imager](https://github.com/Distroshare/distroshare-ubuntu-imager) - Creates an installable live CD from an installed Ubuntu or derivative distribution
 - [ormai/dotfiles](https://github.com/ormai/dotfiles) - ☕ 💻 My dotfiles
 - [emmett1/linuxliveiso](https://github.com/emmett1/linuxliveiso) - scripts to build linux live iso
+- [tudurom/dotfiles](https://github.com/tudurom/dotfiles) - My computing environment, in code form.
 - [pandoraxdn/nixos-configuration](https://github.com/pandoraxdn/nixos-configuration) - 
 - [spider-linux/spiderlinux](https://github.com/spider-linux/spiderlinux) - Spider Linux is a modern, independent, free and open-source Linux distribution.
 - [cmcculloh/GitScripts](https://github.com/cmcculloh/GitScripts) - Makes Git a little more user friendly and a little more user safe (idiot proof)
@@ -3263,6 +3262,7 @@
 - [k-vernooy/dotfiles](https://github.com/k-vernooy/dotfiles) - An organizational repository for my dotfiles and scripts
 - [emmett1/lfs-scripts](https://github.com/emmett1/lfs-scripts) - Automated script to build Multilib LFS system + livecd
 - [phisch/giph](https://github.com/phisch/giph) - simple video (gif, webm, mp4) recorder
+- [latipun7/dotfiles](https://github.com/latipun7/dotfiles) - 🏡 Home sweet ~/.
 - [hellocatfood/jpg-glitch-pattern-generator](https://github.com/hellocatfood/jpg-glitch-pattern-generator) - Automatically generate patterns that exploit compression in jpgs
 - [Alfheim-Software-Initiative/alfheim_script](https://github.com/Alfheim-Software-Initiative/alfheim_script) - This is the script used to build Alfheim Linux, an Arch based Linux Operating System.
 - [raspi-alpine/builder](https://github.com/raspi-alpine/builder) - Mirror of Raspberry PI Alpine Linux Image Builder
@@ -3613,6 +3613,8 @@
 
 ## Svelte 
 
+- [wikibonsai/germinator](https://github.com/wikibonsai/germinator) - Have an LLM generate a semantic seedling from a given word or concept.
+- [wikibonsai/wikibonsai](https://github.com/wikibonsai/wikibonsai) - A jungle gym for thought with an API for the mind.
 - [taikoxyz/taiko-mono](https://github.com/taikoxyz/taiko-mono) - A based rollup. 🥁
 - [morispolanco/books-by-ai](https://github.com/morispolanco/books-by-ai) - Books generated by AI
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
@@ -3646,6 +3648,7 @@
 
 ## TypeScript 
 
+- [wikibonsai/semtree](https://github.com/wikibonsai/semtree) - Utilities to build a semantic tree (in markdown).
 - [tientq64/userscripts](https://github.com/tientq64/userscripts) - 📜 The userscript collection I wrote makes life easier and better.
 - [dhavalCode/textshine.ai](https://github.com/dhavalCode/textshine.ai) - AI Powered Writing Tool
 - [mertthesamael/merto-dev](https://github.com/mertthesamael/merto-dev) - 
