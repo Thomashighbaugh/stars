@@ -1001,7 +1001,6 @@
 - [primer/octicons](https://github.com/primer/octicons) - A scalable set of icons handcrafted with &lt;3 by GitHub
 - [pcottle/learnGitBranching](https://github.com/pcottle/learnGitBranching) - An interactive git visualization and tutorial. Aspiring students of git can use this app to educate and challenge themselves towards mastery of git!
 - [terkelg/prompts](https://github.com/terkelg/prompts) - ❯ Lightweight, beautiful and user-friendly interactive prompts
-- [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces.
 - [carbon-app/carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
 - [0xGG/crossnote-app](https://github.com/0xGG/crossnote-app) - 📝 An interesting markdown note taking application
 - [afzalsayed96/mern-app](https://github.com/afzalsayed96/mern-app) - MERN stack app using Next.js
@@ -1962,7 +1961,7 @@
 - [NixOS/nixos-hardware](https://github.com/NixOS/nixos-hardware) - A collection of NixOS modules covering hardware quirks.
 - [danth/stylix](https://github.com/danth/stylix) - System-wide colorscheming and typography for NixOS
 - [GaetanLepage/nix-config](https://github.com/GaetanLepage/nix-config) - 
-- [AlephNought0/Faery](https://github.com/AlephNought0/Faery) - My personal NixOS flake. I just have it to share it with others. I am a complete newbie and thus I don't recommend using this flake until I make it better.
+- [AlephNought0/Faery](https://github.com/AlephNought0/Faery) - My NixOS flake with the goal to have the most bleeding-edge technology in it.
 - [raidenovich/OuterHeaven](https://github.com/raidenovich/OuterHeaven) - My NixOS configuration that I try to keep simple and readable.
 - [roastedcheese/nicks](https://github.com/roastedcheese/nicks) - My nixos flake
 - [NixOS/infra](https://github.com/NixOS/infra) - NixOS configurations for nixos.org and its servers
@@ -2238,6 +2237,7 @@
 
 ## Others 
 
+- [HackShiv/OneDorkForAll](https://github.com/HackShiv/OneDorkForAll) - An insane list of all dorks taken from everywhere from various different sources.
 - [SpitFire-666/Firefox-Stuff](https://github.com/SpitFire-666/Firefox-Stuff) - Firefox info, addons, extensions, themes, customisation and stuff
 - [banzr/RemoveMojaveApps](https://github.com/banzr/RemoveMojaveApps) - How to remove protected apps, such as News, Stocks, and Home from a Mojave macOS installation
 - [fmhy/FMHY](https://github.com/fmhy/FMHY) - /r/FREEMEDIAHECKYEAH
@@ -2678,6 +2678,7 @@
 
 ## Python 
 
+- [HackShiv/HackBot](https://github.com/HackShiv/HackBot) - A simple hackingbot for terminal usage (Able to learn and adapt from users).
 - [VHDsdk2/Fooocus-pony-diffusion-v6-xl](https://github.com/VHDsdk2/Fooocus-pony-diffusion-v6-xl) - fooocus but with pony diffusion (mainly for colab)
 - [receyuki/stable-diffusion-prompt-reader](https://github.com/receyuki/stable-diffusion-prompt-reader) - A simple standalone viewer for reading prompts from Stable Diffusion generated image outside the webui.
 - [dortania/OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher) - Experience macOS just like before
@@ -3807,6 +3808,7 @@
 - [theodorusclarence/ts-nextjs-tailwind-starter](https://github.com/theodorusclarence/ts-nextjs-tailwind-starter) - 🔋 Next.js + Tailwind CSS + TypeScript starter and boilerplate packed with useful development features
 - [codelitdev/courselit](https://github.com/codelitdev/courselit) - Create/Sell courses and digital downloads and publish blogs on your own branded website. An open source alternative to Teachable, Thinkific, Podia and the likes.
 - [Galax028/startpage](https://github.com/Galax028/startpage) - A minimalistic custom browser startpage that can be configured to your needs.
+- [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces.
 - [sstawiarski/nextjs-portfolio-website](https://github.com/sstawiarski/nextjs-portfolio-website) - Personal portfolio website written using Next.js, TypeScript, and Tailwind CSS
 - [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
 - [Bismuth-Forge/bismuth](https://github.com/Bismuth-Forge/bismuth) - KDE Plasma add-on, that tiles your windows automatically and lets you manage them via keyboard, similarly to i3, Sway or dwm.
