@@ -522,7 +522,7 @@
 
 ## Elixir 
 
-- [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based zero-trust access platform with OIDC auth, identity sync, and NAT traversal.
+- [firezone/firezone](https://github.com/firezone/firezone) - Enterprise-ready zero-trust access platform built on WireGuard®.
 - [aerosol/wb](https://github.com/aerosol/wb) - Writer's Block - personal wiki engine
 
 ## Elm 
@@ -1615,7 +1615,6 @@
 - [EdenEast/nyx](https://github.com/EdenEast/nyx) - ⚙️Nix[OS] Configuration
 - [jazz-g/shining-plum](https://github.com/jazz-g/shining-plum) - Dotfiles for r/unixporn
 - [fedepujol/move.nvim](https://github.com/fedepujol/move.nvim) - Gain the power to move lines and blocks and auto-indent them!
-- [rcarriga/dotfiles](https://github.com/rcarriga/dotfiles) - Just a simple dotfiles setup
 - [BlackArch/blackarch-iso](https://github.com/BlackArch/blackarch-iso) - BlackArch Linux ISOs
 - [rebelot/dotfiles](https://github.com/rebelot/dotfiles) - my configuration files
 - [creativenull/nvim-config](https://github.com/creativenull/nvim-config) - My neovim config in lua that I use to experiment new features and plugins
@@ -2829,7 +2828,6 @@
 - [wodsuz/EasyApplyJobsBot](https://github.com/wodsuz/EasyApplyJobsBot) - A python bot to automatically apply all Linkedin,Glassdoor, etc Easy Apply jobs based on your preferences. Auto login, auto fill additional questions, apply automatically!
 - [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
 - [thezeroalpha/dotfiles](https://github.com/thezeroalpha/dotfiles) - My personal shell configs and stuff
-- [CachyOS/CachyOS-Settings](https://github.com/CachyOS/CachyOS-Settings) - Settings used for CachyOS
 - [Phoenix124/scribd-downloader](https://github.com/Phoenix124/scribd-downloader) - 
 - [NoahCardoza/audiobookcup-dl](https://github.com/NoahCardoza/audiobookcup-dl) - Download audiobooks from audiobookcup.com
 - [ianling/glitchgen](https://github.com/ianling/glitchgen) - Randomly generates glitch pattern images
@@ -3283,6 +3281,7 @@
 - [vinceliuice/Colloid-icon-theme](https://github.com/vinceliuice/Colloid-icon-theme) - Colloid icon theme for linux desktops
 - [noctuid/dotfiles](https://github.com/noctuid/dotfiles) - Mouseless Workflow (WIP)
 - [CachyOS/CachyOS-Live-ISO](https://github.com/CachyOS/CachyOS-Live-ISO) - 
+- [CachyOS/CachyOS-Settings](https://github.com/CachyOS/CachyOS-Settings) - Settings used for CachyOS
 - [ivan-hc/AM](https://github.com/ivan-hc/AM) - AppImage package manager to install, update (for real) and manage ALL of them (system-wide or locally) thanks to its ever-growing AUR-inspired database listing 2000+ portable apps and programs for GNU
 - [metis-os/metis-sideload](https://github.com/metis-os/metis-sideload) - // Ofiicial installer for @metis-os
 - [metis-os/repo-recon](https://github.com/metis-os/repo-recon) - 📦 Repository: recon, Hacking tools // pkgs
@@ -3343,6 +3342,7 @@
 - [pivpn/pivpn](https://github.com/pivpn/pivpn) - The Simplest VPN installer, designed for Raspberry Pi
 - [StreisandEffect/streisand](https://github.com/StreisandEffect/streisand) - Streisand sets up a new server running your choice of WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge. It also generates custom instructions for all of these serv
 - [cristianzsh/openbsd-selfhosted](https://github.com/cristianzsh/openbsd-selfhosted) - :blowfish: Shell script for self-hosting cloud, email, and git services
+- [rcarriga/dotfiles](https://github.com/rcarriga/dotfiles) - Just a simple dotfiles setup
 - [the-Electric-Tantra-Linux/electric-tantra-repo](https://github.com/the-Electric-Tantra-Linux/electric-tantra-repo) - A package repository for a self spun distro that demos my dotfiles.
 - [archlinux/archiso](https://github.com/archlinux/archiso) - Official archiso scripts Repository (read-only mirror)
 - [IBT-FMI/gebuilder](https://github.com/IBT-FMI/gebuilder) - Gentoo System and Image Builder
@@ -3412,7 +3412,7 @@
 - [march-linux/march-overlay](https://github.com/march-linux/march-overlay) - march default system config
 - [shade-linux/soul](https://github.com/shade-linux/soul) - A dotfile manager
 - [oracle/vagrant-projects](https://github.com/oracle/vagrant-projects) - Vagrant projects for Oracle products and other examples
-- [ParallaxWave/dotfiles](https://github.com/ParallaxWave/dotfiles) - 
+- [ab-dx/dotfiles](https://github.com/ab-dx/dotfiles) - 
 - [janleigh/dotfiles](https://github.com/janleigh/dotfiles) - My desktop configuration files.
 - [totoro-ghost/dotfiles](https://github.com/totoro-ghost/dotfiles) - My dotfiles.
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
@@ -3649,6 +3649,7 @@
 
 ## TypeScript 
 
+- [spjpgrd/customize](https://github.com/spjpgrd/customize) - Create customized email signatures
 - [wikibonsai/semtree](https://github.com/wikibonsai/semtree) - Utilities to build a semantic tree (in markdown).
 - [tientq64/userscripts](https://github.com/tientq64/userscripts) - 📜 The userscript collection I wrote makes life easier and better.
 - [dhavalCode/textshine.ai](https://github.com/dhavalCode/textshine.ai) - AI Powered Writing Tool
@@ -3842,7 +3843,7 @@
 - [rfarine/art-portfolio](https://github.com/rfarine/art-portfolio) - raefarine.art
 - [Thomashighbaugh/startpage-zwei](https://github.com/Thomashighbaugh/startpage-zwei) - Second Implementation of a Startpage for my browser in Next.js using Typescript and Tailwind.css with Motion Animations and More
 - [notea-org/notea](https://github.com/notea-org/notea) - 📒 Self hosted note taking app stored on S3
-- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative.
+- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [Charlie85270/tail-kit](https://github.com/Charlie85270/tail-kit) - Tail-kit is a free and open source components and templates kit fully coded with Tailwind css 3.0.
 - [windicss/windicss](https://github.com/windicss/windicss) - Next generation utility-first CSS framework.
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
@@ -3941,7 +3942,7 @@
 - [lambdalisue/vim-suda](https://github.com/lambdalisue/vim-suda) - 🥪 An alternative sudo.vim for Vim and Neovim, limited support sudo in Windows
 - [vimwiki/vimwiki](https://github.com/vimwiki/vimwiki) - Personal Wiki for Vim
 - [abdullahalzubaer/neovim-setup](https://github.com/abdullahalzubaer/neovim-setup) - 
-- [ParallaxWave/blood_i3](https://github.com/ParallaxWave/blood_i3) - 
+- [ab-dx/blood_i3](https://github.com/ab-dx/blood_i3) - 
 - [antoniosarosi/dotfiles](https://github.com/antoniosarosi/dotfiles) - My dotfiles repo, here you can find all my window manager configs as well as documentation and a guide on how to make your own desktop environment.
 - [theniceboy/nvim](https://github.com/theniceboy/nvim) - The Ultimate NeoVim Config for Colemak Users
 - [Thomashighbaugh/vim](https://github.com/Thomashighbaugh/vim) - Vim configuration
