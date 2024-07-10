@@ -657,6 +657,7 @@
 - [0xeb/TheBigPromptLibrary](https://github.com/0xeb/TheBigPromptLibrary) - A collection of prompts, system prompts and LLM instructions
 - [killshot13/google-web-stories-template](https://github.com/killshot13/google-web-stories-template) - This is a reference template for creating and editing AMP Web Stories (Google Stories)
 - [phanxuanquang/AI-Handbook](https://github.com/phanxuanquang/AI-Handbook) - The AI models used for my personal purposes and their usage (Gemini, Copilot, Dialogflow,...)
+- [maximilionus/monokai_pro_keygen](https://github.com/maximilionus/monokai_pro_keygen) - Monokai Pro theme license key generator for Visual Studio Code and Sublime Text
 - [LouisShark/chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt) - A collection of GPT system prompts and various prompt injection/leaking knowledge.
 - [Rishit-dagli/Rishit-dagli](https://github.com/Rishit-dagli/Rishit-dagli) - My GitHub profile README
 - [aitoolsau/EbookWriter](https://github.com/aitoolsau/EbookWriter) - AI powered e-book writer
@@ -826,7 +827,6 @@
 - [ashutoshkrris/random-advice-workflow](https://github.com/ashutoshkrris/random-advice-workflow) - This workflow uses Random Advice Slip API to generate a random advice and puts up in your README files.
 - [kinosal/cowriter](https://github.com/kinosal/cowriter) - Write 10x faster using OpenAI's GPT-3 based Davinci model to autocomplete your text
 - [christinec-dev/Poket-Book](https://github.com/christinec-dev/Poket-Book) - A Pokémon Themed Note Taking App Made with ReactJs.
-- [maximilionus/monokai_pro_keygen](https://github.com/maximilionus/monokai_pro_keygen) - Monokai Pro theme license key generator for Visual Studio Code and Sublime Text
 - [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
 - [dailyrandomphoto/dailyrandomphoto](https://github.com/dailyrandomphoto/dailyrandomphoto) - https://www.dailyrandomphoto.com/
 - [MSayib/docker_mern_dev_sample](https://github.com/MSayib/docker_mern_dev_sample) - Quick Docker MERN Sample Setup
@@ -1130,7 +1130,6 @@
 - [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) - Show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project readme automatically using the RSS feed
 - [Thomashighbaugh/project-dashboard](https://github.com/Thomashighbaugh/project-dashboard) - Curated list of projects displayed on site using iframes as a quick way to display my demonstrations to employers
 - [mathieudutour/gatsby-digital-garden](https://github.com/mathieudutour/gatsby-digital-garden) - 🌷 🌻 🌺 Create a digital garden with Gatsby
-- [nikitavoloboev/knowledge](https://github.com/nikitavoloboev/knowledge) - Everything I know
 - [Thomashighbaugh/resume](https://github.com/Thomashighbaugh/resume) - An HTML resume styled with Tailwind.css based on Universal Resume
 - [ankamsarav/demolab](https://github.com/ankamsarav/demolab) - Demolab is my fantasy project created to understand the power of JAMstack using JavaScript(Reactjs), API(Netlify and Aws) and pre-built Markup(Gatsby).
 - [atapas/demolab](https://github.com/atapas/demolab) - Demolab is my fantasy project created to understand the power of JAMstack using JavaScript(Reactjs), API(Netlify and Aws) and pre-built Markup(Gatsby).
@@ -1493,7 +1492,7 @@
 - [vastamaki/awesomewm](https://github.com/vastamaki/awesomewm) - Awesome wm config files
 - [adsworth/awesomewm_config](https://github.com/adsworth/awesomewm_config) - my configuration for the awesome tiling window manager
 - [Moosyu/dotfiles](https://github.com/Moosyu/dotfiles) - my dotfiles
-- [akagiyuu/awesomewm-config](https://github.com/akagiyuu/awesomewm-config) - 
+- [khanghuynh0245/awesomewm-config](https://github.com/khanghuynh0245/awesomewm-config) - 
 - [VentGrey/Camel](https://github.com/VentGrey/Camel) - Awesome Window Manager Superstar Saga
 - [devraza/aweful](https://github.com/devraza/aweful) - My AwesomeWM configuration
 - [unix-parrot/dotfiles-1](https://github.com/unix-parrot/dotfiles-1) - Awedroid??
@@ -2572,6 +2571,7 @@
 - [mfornos/awesome-microservices](https://github.com/mfornos/awesome-microservices) - A curated list of Microservice Architecture related principles and technologies.
 - [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) - :books: List of awesome university courses for learning Computer Science!
 - [karlhorky/learn-to-program](https://github.com/karlhorky/learn-to-program) - Educational resources to learn to program (Foundation in Web Development)
+- [nikitavoloboev/wiki](https://github.com/nikitavoloboev/wiki) - Everything I know
 - [sandoche/Colors-curated-links](https://github.com/sandoche/Colors-curated-links) - A curated list of tools to help you make the best color palettes
 - [sundowndev/hacker-roadmap](https://github.com/sundowndev/hacker-roadmap) - A collection of hacking tools, resources and references to practice ethical hacking.
 - [balena-labs-research/awesome-balena](https://github.com/balena-labs-research/awesome-balena) - A curated list of helpful balena community resources.
