@@ -901,7 +901,7 @@
 - [simarmannsingh/silverlux](https://github.com/simarmannsingh/silverlux) - 💻 A Fast, fully-responsive Gatsby based blog template using NetlifyCMS as CMS.
 - [Akshay090/svg-banners](https://github.com/Akshay090/svg-banners) - Styled banners for your Readme made with html/css in SVG !!
 - [kampka/nix-packages](https://github.com/kampka/nix-packages) - My personal nix repository
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 5300 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 5400 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [ozwaldorf/flake](https://github.com/ozwaldorf/flake) - my flake for everything
 - [leepenney/markdown-gallery](https://github.com/leepenney/markdown-gallery) - Converts a list of images into gallery mark-up
 - [ujjalacharya/awesome-ecom](https://github.com/ujjalacharya/awesome-ecom) - A complete online ecommerce portal (Node, React, Mongo, NextJS, ReactNative)
@@ -1386,7 +1386,7 @@
 - [kosorin/awesome-code-doc](https://github.com/kosorin/awesome-code-doc) - 
 - [frioux/charitable](https://github.com/frioux/charitable) - Shared tags for multi-monitor system
 - [jellydn/my-note.nvim](https://github.com/jellydn/my-note.nvim) - MyNote is a Neovim plugin that allows you to take notes in a floating window
-- [serenevoid/kiwi.nvim](https://github.com/serenevoid/kiwi.nvim) - A stripped down VimWiki for neovim
+- [serenevoid/kiwi.nvim](https://github.com/serenevoid/kiwi.nvim) - A stripped down VimWiki for Neovim
 - [Yorubae/wayland-dotfiles](https://github.com/Yorubae/wayland-dotfiles) - This repository contains my personal configuration files for various applications and tools that I use on a daily basis. These dotfiles include personalized settings, keybindings, aliases, and other c
 - [ibhagwan/fzf-lua](https://github.com/ibhagwan/fzf-lua) - Improved fzf.vim written in lua
 - [stevearc/dressing.nvim](https://github.com/stevearc/dressing.nvim) - Neovim plugin to improve the default vim.ui interfaces
@@ -2677,6 +2677,7 @@
 
 ## Python 
 
+- [odysseusmax/tg-index](https://github.com/odysseusmax/tg-index) - Python web app to index telegram chats and serve its files for download over HTTP.
 - [HackShiv/HackBot](https://github.com/HackShiv/HackBot) - A simple hackingbot for terminal usage (Able to learn and adapt from users).
 - [VHDsdk2/Fooocus-pony-diffusion-v6-xl](https://github.com/VHDsdk2/Fooocus-pony-diffusion-v6-xl) - fooocus but with pony diffusion (mainly for colab)
 - [receyuki/stable-diffusion-prompt-reader](https://github.com/receyuki/stable-diffusion-prompt-reader) - A simple standalone viewer for reading prompts from Stable Diffusion generated image outside the webui.
