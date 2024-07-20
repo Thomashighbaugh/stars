@@ -302,6 +302,7 @@
 
 ## CSS 
 
+- [Shina-SG/Shina-Fox](https://github.com/Shina-SG/Shina-Fox) - A Minimal, Cozy, Vertical Optimized Firefox Theme
 - [Kaskapa/Monochrome-Neubrutalism-Firefox-Theme](https://github.com/Kaskapa/Monochrome-Neubrutalism-Firefox-Theme) - 
 - [EliverLara/Andromeda-gtk](https://github.com/EliverLara/Andromeda-gtk) - 
 - [corinneling/comic-template](https://github.com/corinneling/comic-template) - A template for web comics using css grid to position panels.
@@ -817,6 +818,7 @@
 
 ## JavaScript 
 
+- [xinggsf/uc](https://github.com/xinggsf/uc) - firefox uc JS
 - [DisboxApp/web](https://github.com/DisboxApp/web) - Use Discord as a file storage service.
 - [lencx/Noi](https://github.com/lencx/Noi) - 🚀 Power Your World with AI - Explore, Extend, Empower.
 - [Pythonnego/CrackedBlackFriday-GPTs-Prompts](https://github.com/Pythonnego/CrackedBlackFriday-GPTs-Prompts) - List of free GPTs that doesn't require plus subscription
@@ -1333,7 +1335,6 @@
 ## Lua 
 
 - [rachartier/tiny-inline-diagnostic.nvim](https://github.com/rachartier/tiny-inline-diagnostic.nvim) - A Neovim plugin that display prettier diagnostic messages. Display one line diagnostic messages where the cursor is, with icons and colors.
-- [gabrieldlima/dotfiles](https://github.com/gabrieldlima/dotfiles) - NixOS & Home Manger configs :snowflake:
 - [jakobkhansen/journal.nvim](https://github.com/jakobkhansen/journal.nvim) - 🖋️ Highly extensible journaling system for Neovim
 - [Leerv474/.dotfiles-awesome](https://github.com/Leerv474/.dotfiles-awesome) - Personal dotfiles
 - [NormalNvim/NormalNvim](https://github.com/NormalNvim/NormalNvim) - A normal Neovim distribution
@@ -1920,6 +1921,7 @@
 - [dr460nf1r3/firedragon-browser](https://github.com/dr460nf1r3/firedragon-browser) - A Floorp fork with custom branding 🐉 (mirrored from GitLab)
 - [tammymakesthings/markdown-ebook-template](https://github.com/tammymakesthings/markdown-ebook-template) - Template for creating books (ebook and paper) from Markdown files
 - [teamniteo/handbook](https://github.com/teamniteo/handbook) - The Niteo Handbook
+- [RMerl/asuswrt-merlin.ng](https://github.com/RMerl/asuswrt-merlin.ng) - Third party firmware for Asus routers (newer codebase)
 - [infectedmushi/android_device_oneplus_instantnoodle-dev](https://github.com/infectedmushi/android_device_oneplus_instantnoodle-dev) - TWRP tree Unified for OnePlus 8/8 Pro (instantnoodle, instantnoodlep)
 - [lyz-code/blue-book](https://github.com/lyz-code/blue-book) - My personal knowledge repository
 - [feroldi/ricing](https://github.com/feroldi/ricing) - a book about ricing unix-like systems
@@ -1948,6 +1950,7 @@
 
 ## Nix 
 
+- [gabrieldlima/dotfiles](https://github.com/gabrieldlima/dotfiles) - NixOS & Home Manger configs :snowflake:
 - [IogaMaster/dotfiles](https://github.com/IogaMaster/dotfiles) - My NixOS flake.
 - [divnix/flake-bootstrap](https://github.com/divnix/flake-bootstrap) - 
 - [kira-bruneau/nixos-config](https://github.com/kira-bruneau/nixos-config) - My NixOS configuration. Mirror of code maintained at gitlab.com.
@@ -2058,7 +2061,6 @@
 - [xddxdd/nixos-config](https://github.com/xddxdd/nixos-config) - Lan Tian's NixOS Configuration
 - [ryan4yin/nix-config](https://github.com/ryan4yin/nix-config) - ❄️ my nix config for both desktops(NixOS+macOS) and homelab servers(NixOS).
 - [disassembler/network](https://github.com/disassembler/network) - Home Network
-- [ReplayCoding/nixos-config](https://github.com/ReplayCoding/nixos-config) - 
 - [the-argus/nixsys](https://github.com/the-argus/nixsys) - My NixOS system configuration.
 - [luftmensch-luftmensch/nix-config](https://github.com/luftmensch-luftmensch/nix-config) - NixOS Configuration
 - [thaenalpha/dotfiles](https://github.com/thaenalpha/dotfiles) - And I say hey, what's going on?
@@ -2095,7 +2097,7 @@
 - [nekowinston/dotfiles](https://github.com/nekowinston/dotfiles) - ❄️ mi casa es tu casa
 - [MatthiasBenaets/nix-config](https://github.com/MatthiasBenaets/nix-config) - My Personal Nix, NixOS and Nix-Darwin System Configuration Flake
 - [Ruixi-rebirth/melted-flakes](https://github.com/Ruixi-rebirth/melted-flakes) - My presonal NixOS config.New config can get in https://github.com/Ruixi-rebirth/flakes
-- [notohh/snowflake](https://github.com/notohh/snowflake) - NixOS Config(s) - Mirrored from https://git.flake.sh/notohh/snowflake
+- [notohh/snowflake](https://github.com/notohh/snowflake) - NixOS Config(s) - mirrored from https://git.flake.sh/notohh/snowflake
 - [Mic92/dotfiles](https://github.com/Mic92/dotfiles) - My NixOS dotfiles
 - [myme/dotfiles](https://github.com/myme/dotfiles) - My collection of dotfiles
 - [etu/nixconfig](https://github.com/etu/nixconfig) - My NixOS config
@@ -2234,6 +2236,7 @@
 
 ## Others 
 
+- [Archive-Puma/virtuaverse-grub-theme](https://github.com/Archive-Puma/virtuaverse-grub-theme) - 
 - [extsalt/10000-font-collection](https://github.com/extsalt/10000-font-collection) - 
 - [HackShiv/OneDorkForAll](https://github.com/HackShiv/OneDorkForAll) - An insane list of all dorks taken from everywhere from various different sources.
 - [SpitFire-666/Firefox-Stuff](https://github.com/SpitFire-666/Firefox-Stuff) - Firefox info, addons, extensions, themes, customisation and stuff
@@ -2462,7 +2465,6 @@
 - [notion-enhancer/tweaks](https://github.com/notion-enhancer/tweaks) - A collection of user-submitted CSS tweaks for Notion
 - [archcraft-os/archcraft-hyprland](https://github.com/archcraft-os/archcraft-hyprland) - // Configuration : Hyprland
 - [ahmedtariq01/Cloud-DevOps-Learning-Resources](https://github.com/ahmedtariq01/Cloud-DevOps-Learning-Resources) - This repo includes Books and imp notes related to GCP, Azure, AWS, Docker, K8s, and DevOps. More, exam and interview prep notes.
-- [RMerl/asuswrt-merlin.ng](https://github.com/RMerl/asuswrt-merlin.ng) - Third party firmware for Asus routers (newer codebase)
 - [technomada/cloud-from-scratch](https://github.com/technomada/cloud-from-scratch) - Build yourself a private self-hosted full-stack personal cloud system.
 - [gopalindians/awesome-hinduism](https://github.com/gopalindians/awesome-hinduism) - Awesome collection of Sanatana dharma(सनातन धर्म)
 - [nix-community/awesome-nix](https://github.com/nix-community/awesome-nix) - 😎 A curated list of the best resources in the Nix community [maintainer=@cyntheticfox]
@@ -2501,7 +2503,7 @@
 - [ibhagwan/picom-ibhagwan-template](https://github.com/ibhagwan/picom-ibhagwan-template) - Void Linux template file for xbps-src
 - [UbuntuBudgie/pocillo](https://github.com/UbuntuBudgie/pocillo) - Icon Theme for Ubuntu Budgie
 - [vascoalexander/gimp-brush-collection](https://github.com/vascoalexander/gimp-brush-collection) - A large Collection of "raw" Brushes for Gimp
-- [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes) - Full reference of LinkedIn answers 2023 for skill assessments (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, python, machine-learning, power-point) linkedin excel test
+- [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes) - Full reference of LinkedIn answers 2024 for skill assessments (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, python, machine-learning, power-point) linkedin excel test
 - [webdigi/AWS-VPN-Server-Setup](https://github.com/webdigi/AWS-VPN-Server-Setup) - Setup your own private, secure, free* VPN on the Amazon AWS Cloud in 10 minutes. CloudFormation
 - [bmorelli25/Become-A-Full-Stack-Web-Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer) - Free resources for learning Full Stack Web Development
 - [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
@@ -2884,7 +2886,7 @@
 - [Bhupesh-V/til](https://github.com/Bhupesh-V/til) - Personal Wiki of Interesting things I learn every day at the intersection of software, life & stuff a.k.a my second brain 🧠️
 - [pinry/pinry](https://github.com/pinry/pinry) - Pinry, a tiling image board system for people who want to save, tag, and share images, videos and webpages in an easy to skim through format. It's open-source and self-hosted.
 - [acierp/CryptoChecker](https://github.com/acierp/CryptoChecker) - A discord.py-based bitcoin confirmations checker and notifier.
-- [Schrodinger-Hat/ImageGoNord-pip](https://github.com/Schrodinger-Hat/ImageGoNord-pip) - A tool that can convert your rgb images to nordtheme palette
+- [Schroedinger-Hat/ImageGoNord-pip](https://github.com/Schroedinger-Hat/ImageGoNord-pip) - A tool that can convert your rgb images to nordtheme palette
 - [linuxdotexe/nordic-wallpapers](https://github.com/linuxdotexe/nordic-wallpapers) - A collection of wallpapers that go well with the rices inspired by the Nord Colorscheme. Made with ImageGoNord by Schrödinger Hat.
 - [Naategh/PyCk](https://github.com/Naategh/PyCk) - A collection of useful Python hacking scripts for beginners
 - [Stefin-Franklin/Hack-Insta](https://github.com/Stefin-Franklin/Hack-Insta) - 
@@ -3329,7 +3331,7 @@
 - [johndovern/Arch-FDE](https://github.com/johndovern/Arch-FDE) - Bash script(s) for installing Arch Linux with full disk encryption via LVM on LUKS with ext4 formatting
 - [shagu/arch-install](https://github.com/shagu/arch-install) - A simple Archlinux install script
 - [sethigeet/shell-color-scripts](https://github.com/sethigeet/shell-color-scripts) - A collection of shell color scripts which draw some colored figure
-- [ggzor/dotfiles](https://github.com/ggzor/dotfiles) - My dotfiles.
+- [ggzor/dotfiles-arch](https://github.com/ggzor/dotfiles-arch) - My dotfiles.
 - [intrntbrn/icon_customizer](https://github.com/intrntbrn/icon_customizer) - set custom icons for gui and terminal applications in awesomewm
 - [michaelgilch/arch-maker](https://github.com/michaelgilch/arch-maker) - My ArchLinux automated installer
 - [RoEdAl/al-rpi-eeprom](https://github.com/RoEdAl/al-rpi-eeprom) - Raspberry Pi4 boot EEPROM updater [Arch Linux package]
@@ -3616,7 +3618,7 @@
 
 - [wikibonsai/germinator](https://github.com/wikibonsai/germinator) - Have an LLM generate a semantic seedling from a given word or concept.
 - [wikibonsai/wikibonsai](https://github.com/wikibonsai/wikibonsai) - A jungle gym for thought with an API for the mind.
-- [taikoxyz/taiko-mono](https://github.com/taikoxyz/taiko-mono) - A based rollup. 🥁
+- [taikoxyz/taiko-mono](https://github.com/taikoxyz/taiko-mono) - A based rollup. 🥁 🌸
 - [morispolanco/books-by-ai](https://github.com/morispolanco/books-by-ai) - Books generated by AI
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 - [hertg/lightdm-neon](https://github.com/hertg/lightdm-neon) - :art: A customizable theme for web-greeter in a nostalgic but modern neon look
@@ -3656,7 +3658,7 @@
 - [mertthesamael/merto-dev](https://github.com/mertthesamael/merto-dev) - 
 - [crosstyan/generate-forever](https://github.com/crosstyan/generate-forever) - a userscript to generate forever for a novel site
 - [alsiam/folio](https://github.com/alsiam/folio) - Open Source Portfolio or Personal Website using NextJS. Feel free to check out the readme file, copy, fork, and use.
-- [MODSetter/neubrutalism_portfolio](https://github.com/MODSetter/neubrutalism_portfolio) - A simple neubrutalism-style portfolio in Next.js.
+- [MODSetter/neubrutalism_portfolio](https://github.com/MODSetter/neubrutalism_portfolio) - A simple neubrutalism-style inspired portfolio in Next.js.
 - [2017mike/daisyportfolio](https://github.com/2017mike/daisyportfolio) - My current portfolio. Written with Next, TypeScript, Tailwind, DaisyUI, and deployed with Vercel.
 - [mtharrison/promptscaper](https://github.com/mtharrison/promptscaper) - A client-only OpenAI LLM Playground for prototyping agents without writing any code.
 - [thenameisajay/Genie](https://github.com/thenameisajay/Genie) - This a lite version of a chatbot built to test Google's Gemini Models. Built using Next.js 14 & Google's Gemini.
@@ -3974,7 +3976,7 @@
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [karakanb/devo](https://github.com/karakanb/devo) - A Chrome and Firefox extension that displays GitHub Trending, Hacker News, Product Hunt and Designer News on every new tab.
 - [SamirM-BE/ErasMail](https://github.com/SamirM-BE/ErasMail) - An open source tool for cleaning email boxes and saving the planet
-- [Schrodinger-Hat/ImageGoNord](https://github.com/Schrodinger-Hat/ImageGoNord) - A tool that can convert your rgb images to nordtheme palette
+- [Schroedinger-Hat/ImageGoNord](https://github.com/Schroedinger-Hat/ImageGoNord) - A tool that can convert your rgb images to nordtheme palette
 - [lostdesign/webgems](https://github.com/lostdesign/webgems) - A curated list of resources for devs and designers. Join me on devcord.com if you are up for a chit chat :)
 - [Litarvan/lightdm-webkit-theme-litarvan](https://github.com/Litarvan/lightdm-webkit-theme-litarvan) - Litarvan's LightDM HTML Theme
 - [Exauthor/lightdm-webkit-theme-osmos](https://github.com/Exauthor/lightdm-webkit-theme-osmos) - Osmos
