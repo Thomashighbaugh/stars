@@ -1657,7 +1657,6 @@
 - [nvim-telekasten/telekasten.nvim](https://github.com/nvim-telekasten/telekasten.nvim) - A Neovim (lua) plugin for working with a markdown zettelkasten / wiki and mixing it with a journal, based on telescope.nvim
 - [madprops/awesome-setup](https://github.com/madprops/awesome-setup) - AwesomeWM config and widgets
 - [pettarin/awesome-config](https://github.com/pettarin/awesome-config) - My configuration file and theme for the awesome desktop manager
-- [DanCarzano/dotfiles-awesomewm](https://github.com/DanCarzano/dotfiles-awesomewm) - All my Dotfiles
 - [SeyZ/Awesome-WM-Configuration](https://github.com/SeyZ/Awesome-WM-Configuration) - My awesome configuration
 - [artart222/CodeArt](https://github.com/artart222/CodeArt) - Use NeoVim as general purpose IDE
 - [abele/awesome-wm-config](https://github.com/abele/awesome-wm-config) - awesome-wm-config
