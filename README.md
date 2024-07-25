@@ -64,6 +64,7 @@
 - [PowerShell](#powershell)
 - [Python](#python)
 - [QML](#qml)
+- [Rich Text Format](#rich-text-format)
 - [Roff](#roff)
 - [Ruby](#ruby)
 - [Rust](#rust)
@@ -302,6 +303,9 @@
 
 ## CSS 
 
+- [KiKaraage/ArcWTF](https://github.com/KiKaraage/ArcWTF) - A userChrome.css theme to bring Arc Browser look from Windows to Firefox. No waitlist, no registration needed ✨
+- [soulhotel/FF-ULTIMA](https://github.com/soulhotel/FF-ULTIMA) - The Firefox theme with too many options.. FF Ultima.
+- [deluma/FontAwesome-6FREE-6PRO](https://github.com/deluma/FontAwesome-6FREE-6PRO) - Font Awesome 6 Pro is commercial software that requires a paid license. (OR DOES IT!!!!)
 - [Shina-SG/Shina-Fox](https://github.com/Shina-SG/Shina-Fox) - A Minimal, Cozy, Vertical Optimized Firefox Theme
 - [Kaskapa/Monochrome-Neubrutalism-Firefox-Theme](https://github.com/Kaskapa/Monochrome-Neubrutalism-Firefox-Theme) - 
 - [EliverLara/Andromeda-gtk](https://github.com/EliverLara/Andromeda-gtk) - 
@@ -818,6 +822,7 @@
 
 ## JavaScript 
 
+- [soulhotel/BrowserHub-Firefox-Extension-](https://github.com/soulhotel/BrowserHub-Firefox-Extension-) - 
 - [xinggsf/uc](https://github.com/xinggsf/uc) - firefox uc JS
 - [DisboxApp/web](https://github.com/DisboxApp/web) - Use Discord as a file storage service.
 - [lencx/Noi](https://github.com/lencx/Noi) - 🚀 Power Your World with AI - Explore, Extend, Empower.
@@ -1951,6 +1956,7 @@
 
 ## Nix 
 
+- [Lehmanator/nix-configs](https://github.com/Lehmanator/nix-configs) - Personal Nix / NixOS configs
 - [gabrieldlima/dotfiles](https://github.com/gabrieldlima/dotfiles) - NixOS & Home Manger configs :snowflake:
 - [IogaMaster/dotfiles](https://github.com/IogaMaster/dotfiles) - My NixOS flake.
 - [divnix/flake-bootstrap](https://github.com/divnix/flake-bootstrap) - 
@@ -2238,6 +2244,11 @@
 
 ## Others 
 
+- [PriorityInterrupt/dungeon-chunk](https://github.com/PriorityInterrupt/dungeon-chunk) - Chunky pixel art font for pixel perfect user interfaces.
+- [koprab/monalisa-font](https://github.com/koprab/monalisa-font) - 
+- [hulbart/fonts-poppins-vh](https://github.com/hulbart/fonts-poppins-vh) - 
+- [sahibjotsaggu/San-Francisco-Pro-Fonts](https://github.com/sahibjotsaggu/San-Francisco-Pro-Fonts) - The entire collection of San Francisco Pro Fonts
+- [shaunsingh/SFMono-Nerd-Font-Ligaturized](https://github.com/shaunsingh/SFMono-Nerd-Font-Ligaturized) - Apple's SFMono font nerd-font patched and ligaturized
 - [Archive-Puma/virtuaverse-grub-theme](https://github.com/Archive-Puma/virtuaverse-grub-theme) - 
 - [extsalt/10000-font-collection](https://github.com/extsalt/10000-font-collection) - 
 - [HackShiv/OneDorkForAll](https://github.com/HackShiv/OneDorkForAll) - An insane list of all dorks taken from everywhere from various different sources.
@@ -2859,7 +2870,7 @@
 - [old-adapdr/apps-server](https://github.com/old-adapdr/apps-server) - A container based home development server, just copy over dist.* files, set the .env and get rolling!
 - [sahinakkaya/binary-clock-wallpaper](https://github.com/sahinakkaya/binary-clock-wallpaper) - A python script to generate wallpaper that shows time in binary.
 - [chrisvaughn/imap-cleanup](https://github.com/chrisvaughn/imap-cleanup) - Python script to clean out unwanted email via IMAP
-- [ivy-llc/ivy](https://github.com/ivy-llc/ivy) - Convert ML Code Between Frameworks
+- [ivy-llc/ivy](https://github.com/ivy-llc/ivy) - Convert Machine Learning Code Between Frameworks
 - [mkdirlove/WI-TOOLKIT](https://github.com/mkdirlove/WI-TOOLKIT) - Hack WiFi in Termux ( ROOTED DEVICES ONLY)
 - [justinwoo/mkgif](https://github.com/justinwoo/mkgif) - because ffmpeg commands are too annoying to remember, and bash scripts are annoying to manage.
 - [yakninja/mantra-generator](https://github.com/yakninja/mantra-generator) - Generates mantras in Sanskrit, allowing you to discover secret mantras
@@ -3014,6 +3025,10 @@
 - [L4ki/Shiny-Plasma-Themes](https://github.com/L4ki/Shiny-Plasma-Themes) - Shiny Plasma Themes For Plasma Desktop
 - [Calinix-Team/Calinix-Arch](https://github.com/Calinix-Team/Calinix-Arch) - CalinixOS Linux Distribution ISO Profiles
 
+## Rich Text Format 
+
+- [prchann/fonts](https://github.com/prchann/fonts) - My favorite fonts: SF Pro Text, Pingfang SC, Avenir Next, Roboto, Uber and more.
+
 ## Roff 
 
 - [oasislinux/oasis](https://github.com/oasislinux/oasis) - a small statically-linked linux system
@@ -3069,7 +3084,7 @@
 - [poem-web/poem](https://github.com/poem-web/poem) - A full-featured and easy-to-use web framework with the Rust programming language.
 - [aralroca/aralroca](https://github.com/aralroca/aralroca) - My GitHub profile
 - [isala404/Tera](https://github.com/isala404/Tera) - Tera is an AI assistant which is tailored just for you and runs fully locally.
-- [eza-community/eza](https://github.com/eza-community/eza) - A modern, maintained replacement for ls
+- [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
 - [pop-os/cosmic-greeter](https://github.com/pop-os/cosmic-greeter) - libcosmic greeter for greetd, which can be run inside cosmic-comp
 - [LeVuMinhHuy/blog](https://github.com/LeVuMinhHuy/blog) - just another blog, but built with rust
 - [leptos-rs/start-actix](https://github.com/leptos-rs/start-actix) - Starter template for use with the Leptos web framework.
