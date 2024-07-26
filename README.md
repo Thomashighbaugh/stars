@@ -2987,7 +2987,7 @@
 - [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) - Pretrain, finetune and deploy AI models on multiple GPUs, TPUs with zero code changes.
 - [fennerm/flashfocus](https://github.com/fennerm/flashfocus) - Simple focus animations for tiling window managers.
 - [isyuck/dotfiles](https://github.com/isyuck/dotfiles) - linux/osx
-- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for 250+ supported car makes and models.
+- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics.
 - [deviantfero/wpgtk](https://github.com/deviantfero/wpgtk) - :flower_playing_cards: a colorscheme, wallpaper and template manager for *nix
 - [tmux-python/tmuxp](https://github.com/tmux-python/tmuxp) - 🖥️ Session manager for tmux, build on libtmux.
 - [vt-vl-lab/3d-photo-inpainting](https://github.com/vt-vl-lab/3d-photo-inpainting) - [CVPR 2020] 3D Photography using Context-aware Layered Depth Inpainting
