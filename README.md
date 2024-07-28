@@ -3211,6 +3211,7 @@
 
 ## Shell 
 
+- [FlorianHeydrich/ColorScripts](https://github.com/FlorianHeydrich/ColorScripts) - Color scripts for modern terminal emulators.
 - [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
 - [busterc/osx-iso](https://github.com/busterc/osx-iso) -  Create a bootable ISO of OS X / macOS, from the installation app file
 - [jgamblin/MacOS-Maid](https://github.com/jgamblin/MacOS-Maid) - Shell Script I Use To Automatically Clean Up My Mac.
