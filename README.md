@@ -239,6 +239,7 @@
 
 ## C++ 
 
+- [p3tr0s/PhiSiFi](https://github.com/p3tr0s/PhiSiFi) - WiFi Hacking with an ESP8266 - Deauth combined with Evil Twin attack
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
 - [Miriway/Miriway](https://github.com/Miriway/Miriway) - Mir based Wayland compositor
 - [jechasteen/gratuitous](https://github.com/jechasteen/gratuitous) - IDE for awesome window manager configuration and themes. Start and stop a Xephyr preview, syntax highlighting, editor splitting.
@@ -1781,7 +1782,6 @@
 - [tumurzakov/attachdrop](https://github.com/tumurzakov/attachdrop) - AwesomeWM Quake like windows management
 - [cyrobin/awesome-wm](https://github.com/cyrobin/awesome-wm) - My Awesome WM 3.4 configuration
 - [jonaburg/awesome-dotfiles](https://github.com/jonaburg/awesome-dotfiles) - Purely an awesome dotfiles repo to sync my awesomewm environment across several machines
-- [mpostaire/.dotfiles](https://github.com/mpostaire/.dotfiles) - My dotfiles.
 - [mustaqimM/dotfiles](https://github.com/mustaqimM/dotfiles) - 
 - [figsoda/cfg](https://github.com/figsoda/cfg) - My NixOS configuration featuring awesome and neovim
 - [zliebersbach/awesome-md-cfg](https://github.com/zliebersbach/awesome-md-cfg) - Awesome WM configuration for multiple monitors, inspired by the Material Design guidelines.
@@ -2693,6 +2693,7 @@
 
 ## Python 
 
+- [ysfgrgO7/Dotfiles](https://github.com/ysfgrgO7/Dotfiles) - 
 - [odysseusmax/tg-index](https://github.com/odysseusmax/tg-index) - Python web app to index telegram chats and serve its files for download over HTTP.
 - [HackShiv/HackBot](https://github.com/HackShiv/HackBot) - A simple hackingbot for terminal usage (Able to learn and adapt from users).
 - [VHDsdk2/Fooocus-pony-diffusion-v6-xl](https://github.com/VHDsdk2/Fooocus-pony-diffusion-v6-xl) - fooocus but with pony diffusion (mainly for colab)
@@ -2814,7 +2815,7 @@
 - [toolleeo/cli-apps](https://github.com/toolleeo/cli-apps) - The largest Awesome Curated list of CLI/TUI applications with source data organized into CSV files
 - [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl) - Collect your thoughts and notes without leaving the command line.
 - [jbuchermn/newm](https://github.com/jbuchermn/newm) - Wayland compositor
-- [new92/IGFI](https://github.com/new92/IGFI) - 🤖 IGFI: Instagram Followers Increaser 📈 | Written in Python 🐍 | Don't forget to ⭐ the repo !
+- [new92/IGFI](https://github.com/new92/IGFI) - 🤖 IGFI: InstaGram Followers Increaser 📈 | Written in Python 🐍 | Don't forget to ⭐ the repo !
 - [EvilDrPorkChop/OpenSea-NFT-Creator](https://github.com/EvilDrPorkChop/OpenSea-NFT-Creator) - A collection of python scripts which help you programatically create PNGs or GIFs and their Metadata in bulk with custom rarity rates, upload them to OpenSea & list them for sale.
 - [thiagokokada/nix-alien](https://github.com/thiagokokada/nix-alien) - Run unpatched binaries on Nix/NixOS
 - [DRACULA-HACK/C-hacks](https://github.com/DRACULA-HACK/C-hacks) - All social Media hacking with information gathering
@@ -3444,6 +3445,7 @@
 - [itmefeez/instashell](https://github.com/itmefeez/instashell) - Clone of instashell from thelinuxchoice
 - [termuxprofessor/insfollow](https://github.com/termuxprofessor/insfollow) - Best Tool for Increase Instagram Follower.
 - [ibhagwan/dots](https://github.com/ibhagwan/dots) - dots
+- [mpostaire/.dotfiles](https://github.com/mpostaire/.dotfiles) - My dotfiles.
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [koalagang/KAI](https://github.com/koalagang/KAI) - Koala's Artix Installer
 - [void-linux/void-mklive](https://github.com/void-linux/void-mklive) - The Void Linux live image maker
