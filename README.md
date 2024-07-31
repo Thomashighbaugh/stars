@@ -3490,7 +3490,7 @@
 - [the-Electric-Tantra-Linux/arch_install](https://github.com/the-Electric-Tantra-Linux/arch_install) - Menu-driven dialog driven installation script using dialog (looks like debian installation menu).
 - [luminusOS/mkluminus](https://github.com/luminusOS/mkluminus) - Script for creating Luminus OS ISO image. Forked and modified from original mkarchiso.
 - [brinkOS/brinkOS-assets](https://github.com/brinkOS/brinkOS-assets) - Assets package for brinkOS
-- [joestandring/dwm-bar](https://github.com/joestandring/dwm-bar) - A modular statusbar for dwm
+- [hollystandring/dwm-bar](https://github.com/hollystandring/dwm-bar) - A modular statusbar for dwm
 - [xero/glitchlock](https://github.com/xero/glitchlock) - a glitch art themed randomized lockscreen for linux
 - [MichaIng/DietPi](https://github.com/MichaIng/DietPi) - Lightweight justice for your single-board computer!
 - [androidmalware/android_hid](https://github.com/androidmalware/android_hid) - Use Android as Rubber Ducky against another Android device
