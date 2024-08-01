@@ -154,6 +154,7 @@
 - [hc0d3r/alfheim](https://github.com/hc0d3r/alfheim) - a linux process hacker tool
 - [nullchilly/CatNvim](https://github.com/nullchilly/CatNvim) - C at Nvim
 - [bagyoni/procedural-wallpapers](https://github.com/bagyoni/procedural-wallpapers) - A collection of wallpaper generators
+- [RMerl/asuswrt-merlin.ng](https://github.com/RMerl/asuswrt-merlin.ng) - Third party firmware for Asus routers (newer codebase)
 - [VeltOS/graphene-desktop](https://github.com/VeltOS/graphene-desktop) - The default desktop environment of VeltOS
 - [compilepeace/KAAL_BHAIRAV](https://github.com/compilepeace/KAAL_BHAIRAV) - -x-x-x-x- DO NOT RUN ON PRODUCTION MACHINE  -x-x-x-x-  An ELF virus capable of generating segment padded trojans.
 - [endaaman/tym](https://github.com/endaaman/tym) - Lua-configurable terminal emulator
@@ -825,6 +826,7 @@
 
 - [soulhotel/BrowserHub-Firefox-Extension-](https://github.com/soulhotel/BrowserHub-Firefox-Extension-) - 
 - [xinggsf/uc](https://github.com/xinggsf/uc) - firefox uc JS
+- [tientq64/userscripts](https://github.com/tientq64/userscripts) - 📜 The userscript collection I wrote makes life easier and better.
 - [DisboxApp/web](https://github.com/DisboxApp/web) - Use Discord as a file storage service.
 - [lencx/Noi](https://github.com/lencx/Noi) - 🚀 Power Your World with AI - Explore, Extend, Empower.
 - [Pythonnego/CrackedBlackFriday-GPTs-Prompts](https://github.com/Pythonnego/CrackedBlackFriday-GPTs-Prompts) - List of free GPTs that doesn't require plus subscription
@@ -1351,7 +1353,7 @@
 - [michaelrommel/nvim-silicon](https://github.com/michaelrommel/nvim-silicon) - neovim plugin to create code images using the external silicon tool.
 - [Gwynsav/gwileful](https://github.com/Gwynsav/gwileful) - Have I finally created something that isn't a lua-programmed nuke? Maybe...
 - [DanL2015/AwesomeWM](https://github.com/DanL2015/AwesomeWM) - An aesthetic AwesomeWM configuration
-- [rifsxd/oh-my-awesomewm-dots](https://github.com/rifsxd/oh-my-awesomewm-dots) - OMAWM - My person awesome window manager - themes - widgets  -  configs
+- [rifsxd/oh-my-awesomewm-dots](https://github.com/rifsxd/oh-my-awesomewm-dots) - OMAWM - My personal awesome window manager - themes - widgets  -  configs
 - [mahmoudk1000/awedots](https://github.com/mahmoudk1000/awedots) - my awesomewm config
 - [deceptionfalls/dotfiles](https://github.com/deceptionfalls/dotfiles) - Configuration files
 - [joepigott/dots](https://github.com/joepigott/dots) - dotfiles
@@ -1500,7 +1502,7 @@
 - [vastamaki/awesomewm](https://github.com/vastamaki/awesomewm) - Awesome wm config files
 - [adsworth/awesomewm_config](https://github.com/adsworth/awesomewm_config) - my configuration for the awesome tiling window manager
 - [Moosyu/dotfiles](https://github.com/Moosyu/dotfiles) - my dotfiles
-- [khanghuynh0245/awesomewm-config](https://github.com/khanghuynh0245/awesomewm-config) - 
+- [akagiyuu/awesomewm-config](https://github.com/akagiyuu/awesomewm-config) - 
 - [VentGrey/Camel](https://github.com/VentGrey/Camel) - Awesome Window Manager Superstar Saga
 - [devraza/aweful](https://github.com/devraza/aweful) - My AwesomeWM configuration
 - [unix-parrot/dotfiles-1](https://github.com/unix-parrot/dotfiles-1) - Awedroid??
@@ -1927,7 +1929,6 @@
 - [dr460nf1r3/firedragon-browser](https://github.com/dr460nf1r3/firedragon-browser) - A Floorp fork with custom branding 🐉 (mirrored from GitLab)
 - [tammymakesthings/markdown-ebook-template](https://github.com/tammymakesthings/markdown-ebook-template) - Template for creating books (ebook and paper) from Markdown files
 - [teamniteo/handbook](https://github.com/teamniteo/handbook) - The Niteo Handbook
-- [RMerl/asuswrt-merlin.ng](https://github.com/RMerl/asuswrt-merlin.ng) - Third party firmware for Asus routers (newer codebase)
 - [infectedmushi/android_device_oneplus_instantnoodle-dev](https://github.com/infectedmushi/android_device_oneplus_instantnoodle-dev) - TWRP tree Unified for OnePlus 8/8 Pro (instantnoodle, instantnoodlep)
 - [lyz-code/blue-book](https://github.com/lyz-code/blue-book) - My personal knowledge repository
 - [feroldi/ricing](https://github.com/feroldi/ricing) - a book about ricing unix-like systems
@@ -3673,7 +3674,6 @@
 
 - [spjpgrd/customize](https://github.com/spjpgrd/customize) - Create customized email signatures
 - [wikibonsai/semtree](https://github.com/wikibonsai/semtree) - Utilities to build a semantic tree (in markdown).
-- [tientq64/userscripts](https://github.com/tientq64/userscripts) - 📜 The userscript collection I wrote makes life easier and better.
 - [dhavalCode/textshine.ai](https://github.com/dhavalCode/textshine.ai) - AI Powered Writing Tool
 - [mertthesamael/merto-dev](https://github.com/mertthesamael/merto-dev) - 
 - [crosstyan/generate-forever](https://github.com/crosstyan/generate-forever) - a userscript to generate forever for a novel site
