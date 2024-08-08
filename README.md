@@ -898,7 +898,7 @@
 - [smythp/ebooks-as-applications](https://github.com/smythp/ebooks-as-applications) - Presentation for MLA 2017 on ebooks as applications
 - [danydodson/userscripts](https://github.com/danydodson/userscripts) - 🪚 Collection of UserScripts.
 - [Semantic-Org/Semantic-UI-React](https://github.com/Semantic-Org/Semantic-UI-React) - The official Semantic-UI-React integration
-- [nuejs/nue](https://github.com/nuejs/nue) - A content first web framework. Perfect for UX developers.
+- [nuejs/nue](https://github.com/nuejs/nue) - A web framework for UX developers
 - [GuiDevloper/nullstack](https://github.com/GuiDevloper/nullstack) - Full-stack javascript components for one-dev armies.
 - [vitorgamer58/nullstack-herbs-url-shortener](https://github.com/vitorgamer58/nullstack-herbs-url-shortener) - Proof of concept of Nullstack integration with HerbsJs
 - [ddanielcruz/nullstack-linktree](https://github.com/ddanielcruz/nullstack-linktree) - Simple Linktree clone built with Nullstack and Tailwind
