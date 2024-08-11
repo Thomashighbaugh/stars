@@ -3441,7 +3441,7 @@
 - [lucidtanooki/kawaiki-grub2-themes](https://github.com/lucidtanooki/kawaiki-grub2-themes) - Modern Design theme for Grub2
 - [g0r60n/InstaShell](https://github.com/g0r60n/InstaShell) - InstaShell
 - [opsgang/alpine_build_scripts](https://github.com/opsgang/alpine_build_scripts) - ... collection of ash scripts to install various common pkgs.
-- [NTBBloodbath/dotfiles](https://github.com/NTBBloodbath/dotfiles) - /boot: No such file or directory
+- [NTBBloodbath/dotfiles](https://github.com/NTBBloodbath/dotfiles) - /boot: No such file or directory. Discontinued, see https://github.com/NTBBloodbath/tundra
 - [chrispap-dev/dotfiles](https://github.com/chrispap-dev/dotfiles) - Collection of my config files i use in my Ubuntu daily driver
 - [dhasirar/instax](https://github.com/dhasirar/instax) - instax is an tool to perform brute force attack against Instagram,(https://github.com/dhasirar/instax) by dhasirar under GNU LICENSE. WARNING! This tool was made for educational purposes! https://www.
 - [Lolzen/void-live-customizer](https://github.com/Lolzen/void-live-customizer) - script to build a customized livecd of void linux using void-mklive
