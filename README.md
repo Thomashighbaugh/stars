@@ -42,7 +42,6 @@
 - [Julia](#julia)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Just](#just)
-- [KakouneScript](#kakounescript)
 - [Kotlin](#kotlin)
 - [Less](#less)
 - [Lua](#lua)
@@ -376,7 +375,7 @@
 - [saminyasar004/coding-fonts](https://github.com/saminyasar004/coding-fonts) - Here I put all of my fonts that I use while I'm coding.
 - [johnpaulada/pandoc-markdown-book-template](https://github.com/johnpaulada/pandoc-markdown-book-template) - A template for creating epub books from markdown using pandoc.
 - [wikiti/pandoc-book-template](https://github.com/wikiti/pandoc-book-template) - A simple Pandoc template to build documents and ebooks.
-- [ricksdomein/Awesome-Theme](https://github.com/ricksdomein/Awesome-Theme) - Configs for my Arch-Linux setup.
+- [privaltr/Awesome-Theme](https://github.com/privaltr/Awesome-Theme) - Configs for my Arch-Linux setup.
 - [AllJavi/tartarus-dotfiles](https://github.com/AllJavi/tartarus-dotfiles) - Just another awesomewm gruvbox dotfiles
 - [EliverLara/Kripton](https://github.com/EliverLara/Kripton) - A dark theme with flat style for GNOME
 - [alexhyett/linkinbio](https://github.com/alexhyett/linkinbio) - Link In Bio Page for Instagram, Twitter, Tumblr etc
@@ -1322,10 +1321,6 @@
 
 - [pierres/archiso-manager](https://github.com/pierres/archiso-manager) - 
 
-## KakouneScript 
-
-- [rochacbruno/dotfiles](https://github.com/rochacbruno/dotfiles) - My Environment Configurations
-
 ## Kotlin 
 
 - [kumarsushil10/journal-note](https://github.com/kumarsushil10/journal-note) - Check out Simple Android jetpack compose based app build for making notes
@@ -1626,6 +1621,7 @@
 - [nuxshed/dotfiles](https://github.com/nuxshed/dotfiles) - pls help
 - [Kasper24/KwesomeDE](https://github.com/Kasper24/KwesomeDE) - A desktop environment made in AwesomeWM
 - [javacafe01/awesome-wallpaper](https://github.com/javacafe01/awesome-wallpaper) - 
+- [rochacbruno/dotfiles](https://github.com/rochacbruno/dotfiles) - My Environment Configurations
 - [Crylia/crylia-theme](https://github.com/Crylia/crylia-theme) - A theme for AwesomeWM
 - [b0o/nvim-conf](https://github.com/b0o/nvim-conf) - ☄ Maddison's Neovim configuration!
 - [ashincoder/StarVim](https://github.com/ashincoder/StarVim) - A neovim IDE which is beyond the moon 🌚
@@ -2193,7 +2189,7 @@
 - [montchr/dotfield](https://github.com/montchr/dotfield) - All I see is little dots – some are smeared, and some are spots.
 - [jtojnar/nixfiles](https://github.com/jtojnar/nixfiles) - Nix configuration for the machines I manage.
 - [balsoft/nixos-config](https://github.com/balsoft/nixos-config) - Mirror of https://code.balsoft.ru/balsoft/nixos-config
-- [KubqoA/dotfiles](https://github.com/KubqoA/dotfiles) - My NixOS dotfiles
+- [KubqoA/dotfiles](https://github.com/KubqoA/dotfiles) - My NixOS, macOS and home-manager configurations
 - [RicArch97/nixos-config](https://github.com/RicArch97/nixos-config) - Personal NixOS configuration using flakes and home-manager.
 - [NobbZ/nixos-config](https://github.com/NobbZ/nixos-config) - 
 - [viperML/dotfiles](https://github.com/viperML/dotfiles) - Personal configuration files for my PC
@@ -2743,7 +2739,7 @@
 - [haseeb-heaven/langchain-coder](https://github.com/haseeb-heaven/langchain-coder) - Web Application that can generate code and fix bugs and run using various LLM's (GPT,Gemini,PALM)
 - [friuns2/Leaked-GPTs](https://github.com/friuns2/Leaked-GPTs) - Leaked GPTs Prompts Bypass the 25 message limit or to try out GPTs without a Plus subscription.
 - [h2oai/h2o-llmstudio](https://github.com/h2oai/h2o-llmstudio) - H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs. Documentation: https://docs.h2o.ai/h2o-llmstudio/
-- [AJaySi/AI-Writer](https://github.com/AJaySi/AI-Writer) - Alwrity - AI contextual Content generation Suite. Prevents AI hallucinations, Web Researched factual, SEO optimized content. Get blog Images. Create your AI-Powered Content Agents team. Create content
+- [AJaySi/AI-Writer](https://github.com/AJaySi/AI-Writer) - ALwrity - All in One AI Content Platform. Contextual AI Content generation Suite for website, Social media & Ad copywriting. Prevents AI hallucinations, Web Researched factual, SEO optimized content. 
 - [different-ai/embedbase-ava](https://github.com/different-ai/embedbase-ava) - Obsidian + Embedbase = Ava
 - [databricks/dbrx](https://github.com/databricks/dbrx) - Code examples and resources for DBRX, a large language model developed by Databricks
 - [lucasmccabe/emailGPT](https://github.com/lucasmccabe/emailGPT) - a quick and easy interface to generate emails with ChatGPT
@@ -3316,7 +3312,7 @@
 - [1N3/Sn1per](https://github.com/1N3/Sn1per) - Attack Surface Management Platform
 - [docker-library/official-images](https://github.com/docker-library/official-images) - Primary source of truth for the Docker "Official Images" program
 - [offa/android-foss](https://github.com/offa/android-foss) - A list of Free and Open Source Software (FOSS) for Android – saving Freedom and Privacy.
-- [8483/notes](https://github.com/8483/notes) - Full-stack web development notes.
+- [8483/notes](https://github.com/8483/notes) - Full-stack web development notes
 - [ZetaOverlord/ZOAP-Artix-PostInstall](https://github.com/ZetaOverlord/ZOAP-Artix-PostInstall) - Post Installation Script for Artix
 - [salkin-mada/lsparu](https://github.com/salkin-mada/lsparu) - fzf cli for paru
 - [oem/dotfiles](https://github.com/oem/dotfiles) - system configuration, including vim
