@@ -2255,6 +2255,7 @@
 
 ## Others 
 
+- [rajannpatel/Pi-Hole-on-Google-Compute-Engine-Free-Tier-with-Full-Tunnel-and-Split-Tunnel-Wireguard-VPN-Configs](https://github.com/rajannpatel/Pi-Hole-on-Google-Compute-Engine-Free-Tier-with-Full-Tunnel-and-Split-Tunnel-Wireguard-VPN-Configs) - Run your own privacy-first ad blocking service at home, or in the cloud for free with Google Cloud Services.
 - [alphatrait/100000-ai-prompts-by-contentifyai](https://github.com/alphatrait/100000-ai-prompts-by-contentifyai) - Welcome to the ChatGPT Prompts Library! This repository contains a diverse collection of over 100,000 prompts tailored for ChatGPT. Our prompts cover a wide range of topics, including marketing, busin
 - [PriorityInterrupt/dungeon-chunk](https://github.com/PriorityInterrupt/dungeon-chunk) - Chunky pixel art font for pixel perfect user interfaces.
 - [koprab/monalisa-font](https://github.com/koprab/monalisa-font) - 
