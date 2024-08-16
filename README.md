@@ -164,7 +164,7 @@
 - [bakkeby/dusk](https://github.com/bakkeby/dusk) - Just another fork of dwm
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [gch1p/voidnsrun](https://github.com/gch1p/voidnsrun) - Run glibc binaries in musl libc Void Linux environment
-- [yshui/picom](https://github.com/yshui/picom) - A lightweight compositor for X11
+- [yshui/picom](https://github.com/yshui/picom) - A lightweight compositor for X11 with animation support
 - [phillbush/shod](https://github.com/phillbush/shod) - mouse-based window manager that can tile windows inside floating containers
 - [psychon/lualock](https://github.com/psychon/lualock) - A screenlocker that's highly configurable in lua
 - [moetunes/Nextwm](https://github.com/moetunes/Nextwm) - snapwm is an easy to configure, dynamic, tiling window manager. Built on dminiwm with a desktop switcher, info bar and reloadable rc file.
@@ -1345,6 +1345,7 @@
 
 ## Lua 
 
+- [goolord/alpha-nvim](https://github.com/goolord/alpha-nvim) - a lua powered greeter like vim-startify / dashboard-nvim
 - [dotfile/awesome](https://github.com/dotfile/awesome) - Awesome WM dotfiles
 - [Smeueg/Dotfiles](https://github.com/Smeueg/Dotfiles) - Very Smeueg™ Dotfiles
 - [ysfgrgO7/Dotfiles](https://github.com/ysfgrgO7/Dotfiles) - 
@@ -2257,6 +2258,7 @@
 
 ## Others 
 
+- [rwxrob/awesome-go](https://github.com/rwxrob/awesome-go) - 🌟 My personal "awesome" list of Go code, tools, books, and learning resources. I'm very picky about what makes it on. Want to learn Go? Start here.
 - [rajannpatel/Pi-Hole-on-Google-Compute-Engine-Free-Tier-with-Full-Tunnel-and-Split-Tunnel-Wireguard-VPN-Configs](https://github.com/rajannpatel/Pi-Hole-on-Google-Compute-Engine-Free-Tier-with-Full-Tunnel-and-Split-Tunnel-Wireguard-VPN-Configs) - Run your own privacy-first ad blocking service at home, or in the cloud for free with Google Cloud Services.
 - [alphatrait/100000-ai-prompts-by-contentifyai](https://github.com/alphatrait/100000-ai-prompts-by-contentifyai) - Welcome to the ChatGPT Prompts Library! This repository contains a diverse collection of over 100,000 prompts tailored for ChatGPT. Our prompts cover a wide range of topics, including marketing, busin
 - [PriorityInterrupt/dungeon-chunk](https://github.com/PriorityInterrupt/dungeon-chunk) - Chunky pixel art font for pixel perfect user interfaces.
@@ -2706,6 +2708,7 @@
 
 ## Python 
 
+- [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Interact with your documents using the power of GPT, 100% privately, no data leaks
 - [filiptronicek/filiptronicek](https://github.com/filiptronicek/filiptronicek) - My profile readme
 - [raghuboosetty/workday](https://github.com/raghuboosetty/workday) - Python script to apply for the jobs that are on Workday using the Selenium library and Chrome web driver.
 - [spcl/graph-of-thoughts](https://github.com/spcl/graph-of-thoughts) - Official Implementation of "Graph of Thoughts: Solving Elaborate Problems with Large Language Models"
@@ -3696,13 +3699,14 @@
 
 ## TypeScript 
 
+- [Taufik-H/neubeam](https://github.com/Taufik-H/neubeam) - Neubeam is an open-source project components library designed for Tailwind CSS with a Neubrutalism or retro-inspired style.
 - [austin-starks/Promptimizer](https://github.com/austin-starks/Promptimizer) - An Automated AI-Powered Prompt Optimization Framework
 - [spjpgrd/customize](https://github.com/spjpgrd/customize) - Create customized email signatures
 - [wikibonsai/semtree](https://github.com/wikibonsai/semtree) - Utilities to build a semantic tree (in markdown).
 - [dhavalCode/textshine.ai](https://github.com/dhavalCode/textshine.ai) - AI Powered Writing Tool
 - [mertthesamael/merto-dev](https://github.com/mertthesamael/merto-dev) - 
 - [crosstyan/generate-forever](https://github.com/crosstyan/generate-forever) - a userscript to generate forever for a novel site
-- [alsiam/folio](https://github.com/alsiam/folio) - Open Source Portfolio or Personal Website using NextJS. Feel free to check out the readme file, copy, fork, and use.
+- [alsiam/urFolio](https://github.com/alsiam/urFolio) - urFolio - Best Open Source Portfolio or Personal Website using NextJS. Feel free to check out the readme file, copy, fork, and use.
 - [MODSetter/neubrutalism_portfolio](https://github.com/MODSetter/neubrutalism_portfolio) - A simple neubrutalism-style inspired portfolio in Next.js.
 - [2017mike/daisyportfolio](https://github.com/2017mike/daisyportfolio) - My current portfolio. Written with Next, TypeScript, Tailwind, DaisyUI, and deployed with Vercel.
 - [mtharrison/promptscaper](https://github.com/mtharrison/promptscaper) - A client-only OpenAI LLM Playground for prototyping agents without writing any code.
