@@ -2717,7 +2717,7 @@
 - [526christian/AI-Image-PromptGenerator](https://github.com/526christian/AI-Image-PromptGenerator) - A flexible UI script to help create and expand on prompts for generative AI art models, such as Stable Diffusion and MidJourney. Get inspired, and create.
 - [kyegomez/the-compiler](https://github.com/kyegomez/the-compiler) - Seed, Code, Harvest: Grow Your Own App with Tree of Thoughts!
 - [YiVal/YiVal](https://github.com/YiVal/YiVal) - Your Automatic Prompt Engineering Assistant for GenAI Applications
-- [Ztrimus/ResumeFlow](https://github.com/Ztrimus/ResumeFlow) - Simplify and improve the job hunting experience by integrating LLMs to automate tasks such as resume and cover letter generation, as well as application submission, saving users time and effort.
+- [Ztrimus/job-llm](https://github.com/Ztrimus/job-llm) - Simplify and improve the job hunting experience by integrating LLMs to automate tasks such as resume and cover letter generation, as well as application submission, saving users time and effort.
 - [outlines-dev/prompts](https://github.com/outlines-dev/prompts) - A prompting library for large language models
 - [kyegomez/Algorithm-Of-Thoughts](https://github.com/kyegomez/Algorithm-Of-Thoughts) - My implementation of "Algorithm of Thoughts: Enhancing Exploration of Ideas in Large Language Models"
 - [kyegomez/tree-of-thoughts](https://github.com/kyegomez/tree-of-thoughts) - Plug in and Play Implementation of Tree of Thoughts: Deliberate Problem Solving with Large Language Models that Elevates Model Reasoning by atleast 70%
