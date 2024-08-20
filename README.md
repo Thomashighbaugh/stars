@@ -1172,7 +1172,6 @@
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
 - [richardtaylordawson/pwa-shields](https://github.com/richardtaylordawson/pwa-shields) - Personalize your app's README with custom, fun, PWA shields in SVG
 - [Crelloc/google-keep-react](https://github.com/Crelloc/google-keep-react) - Mock design of google keep. Developed with Docker, NGINX, React, Nodejs, and MongoDB
-- [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
 - [swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui) - Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
 - [google/eleventy-high-performance-blog](https://github.com/google/eleventy-high-performance-blog) - A high performance blog template for the 11ty static site generator.
 - [proksh/atomize](https://github.com/proksh/atomize) - Design System for developers build on styled-components & React JS.
@@ -1279,7 +1278,7 @@
 
 ## Jupyter Notebook 
 
-- [curiousily/AI-Bootcamp](https://github.com/curiousily/AI-Bootcamp) - Self-paced bootcamp on Generative AI. Tutorials on ML fundamentals, LLMs, RAGs, LangChain, Fine-tuning Llama 3 & AI Agents (CrewAI)
+- [curiousily/AI-Bootcamp](https://github.com/curiousily/AI-Bootcamp) - Self-paced bootcamp on Generative AI. Tutorials on ML fundamentals, LLMs, RAGs, LangChain, LangGraph, Fine-tuning Llama 3 & AI Agents (CrewAI)
 - [amazon-science/auto-cot](https://github.com/amazon-science/auto-cot) - Official implementation for "Automatic Chain of Thought Prompting in Large Language Models" (stay tuned & more will be updated)
 - [google-gemini/cookbook](https://github.com/google-gemini/cookbook) - Examples and guides for using the Gemini API.
 - [kwinkunks/promptly](https://github.com/kwinkunks/promptly) - A prompt collection for testing and evaluation of LLMs.
@@ -2105,7 +2104,7 @@
 - [srid/nixos-config](https://github.com/srid/nixos-config) - KISS NixOS configuration based on Flakes & flake-parts (supports macOS too)
 - [pantharshit00/nixos](https://github.com/pantharshit00/nixos) - Personal NixOS configuration using Nix Flakes and Nix Unstable 21.05
 - [dep-sys/nixos-zfs-installer](https://github.com/dep-sys/nixos-zfs-installer) - Install NixOS via kexec on hetzners hcloud - dedicated servers planned
-- [xyven1/nixos-configuration](https://github.com/xyven1/nixos-configuration) - 
+- [xyven1/nixos-configuration](https://github.com/xyven1/nixos-configuration) - My nixos configuration used on all my daily drivers.
 - [plmercereau/NixOS](https://github.com/plmercereau/NixOS) - NixOS config for servers in the field
 - [573/NixOS](https://github.com/573/NixOS) - MSF OCB NixOS config
 - [dawidd6/nixcfg](https://github.com/dawidd6/nixcfg) - :snowflake: My NixOS and home-manager configurations
