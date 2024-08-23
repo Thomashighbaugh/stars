@@ -946,7 +946,7 @@
 - [timqian/openprompt.co](https://github.com/timqian/openprompt.co) - Create. Use. Share. ChatGPT prompts
 - [nypublicradio/audiogram](https://github.com/nypublicradio/audiogram) - Turn audio into a shareable video.
 - [overdodactyl/ShadowFox](https://github.com/overdodactyl/ShadowFox) - A universal dark theme for Firefox
-- [WebPraktikos/universal-resume](https://github.com/WebPraktikos/universal-resume) - Minimal and formal résumé (CV) website template for print, mobile, and desktop. https://bit.ly/ur_demo
+- [WebPraktikos/universal-resume](https://github.com/WebPraktikos/universal-resume) - Minimal and formal résumé (CV) website template for print, mobile, and desktop.
 - [sandstorm-io/sandstorm](https://github.com/sandstorm-io/sandstorm) - Sandstorm is a self-hostable web productivity suite. It's implemented as a security-hardened web app package manager.
 - [darktrojan/newtabtools](https://github.com/darktrojan/newtabtools) - New Tab Tools add-on for Firefox and Chrome
 - [socioboard/Socioboard-5.0](https://github.com/socioboard/Socioboard-5.0) - Socioboard is world's first and open source Social Technology Enabler. Socioboard Core is our flagship product.
@@ -1220,7 +1220,7 @@
 - [caljrimmer/portfolio-redux-app](https://github.com/caljrimmer/portfolio-redux-app) - A portfolio template built with Redux and React
 - [HashemKhalifa/webpack-react-boilerplate](https://github.com/HashemKhalifa/webpack-react-boilerplate) - Minimal React 16 and Webpack 4 boilerplate with babel 7, using the new webpack-dev-server, react-hot-loader, CSS-Modules
 - [async-labs/builderbook](https://github.com/async-labs/builderbook) - Open source web application to learn JS stack: React, Material-UI, Next.js, Node.js, Express.js, Mongoose, MongoDB database.
-- [react-boilerplate/react-boilerplate](https://github.com/react-boilerplate/react-boilerplate) - :fire: A highly scalable, offline-first foundation with the best developer experience and a focus on performance and best practices.
+- [react-boilerplate/react-boilerplate](https://github.com/react-boilerplate/react-boilerplate) - 🔥 A highly scalable, offline-first foundation with the best developer experience and a focus on performance and best practices.
 - [mohannadsh/react-redux-boilerplate](https://github.com/mohannadsh/react-redux-boilerplate) - This is a boilerplate project with Reactjs, Reduc, SASS and Webpack installed, the boilerplate includes the initial structure that you are going to need in almost each project.
 - [ptrckmrgn/react-redux-starter](https://github.com/ptrckmrgn/react-redux-starter) - Simple React Redux template that includes Webpack, Babel, Sass, and basic structure/files.
 - [Lavitr/basic-react-redux-webpack4-boilerplate](https://github.com/Lavitr/basic-react-redux-webpack4-boilerplate) - Basic React-Webpack4 boilerplate with classic file structure  for React/Redux application .
@@ -1449,7 +1449,7 @@
 - [SoumyajitTech/AwesomeWM](https://github.com/SoumyajitTech/AwesomeWM) - This is my config for awesome window manager
 - [andOrlando/awesome-widgets](https://github.com/andOrlando/awesome-widgets) - A collection of a couple custom-made awesome widgets that (kinda) work in isolation so you can just grab
 - [Nooo37/glome](https://github.com/Nooo37/glome) - WIP
-- [2nthony/dotfiles](https://github.com/2nthony/dotfiles) - My personal dotfiles, neovim(typescript), fish, wezterm, etc.
+- [2nthony/dotfiles](https://github.com/2nthony/dotfiles) - My personal dotfiles, neovim, zsh, wezterm, etc.
 - [folke/lazy.nvim](https://github.com/folke/lazy.nvim) - 💤 A modern plugin manager for Neovim
 - [hpb0412/dotfiles](https://github.com/hpb0412/dotfiles) - My dot files collection over the time
 - [cufta22/dotfiles](https://github.com/cufta22/dotfiles) - [AwesomeWM] Outer Wilds - change branch for old rices
