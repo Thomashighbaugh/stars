@@ -219,6 +219,7 @@
 - [christophgysin/pasystray](https://github.com/christophgysin/pasystray) - PulseAudio system tray
 - [CristianHenzel/ClipIt](https://github.com/CristianHenzel/ClipIt) - ClipIt clipboard manager for GTK+
 - [conformal/spectrwm](https://github.com/conformal/spectrwm) - A small dynamic tiling window manager for X11.
+- [Embroidermodder/Embroidermodder](https://github.com/Embroidermodder/Embroidermodder) - Free machine embroidery software supporting a variety of formats.
 - [cfenollosa/os-tutorial](https://github.com/cfenollosa/os-tutorial) - How to create an OS from scratch
 
 ## C# # 
@@ -290,7 +291,6 @@
 - [diasurgical/devilutionX](https://github.com/diasurgical/devilutionX) - Diablo build for modern operating systems
 - [pbek/QOwnNotes](https://github.com/pbek/QOwnNotes) - QOwnNotes is a plain-text file notepad and todo-list manager with Markdown support and Nextcloud / ownCloud integration.
 - [robotology/yarp](https://github.com/robotology/yarp) - YARP - Yet Another Robot Platform
-- [Embroidermodder/Embroidermodder](https://github.com/Embroidermodder/Embroidermodder) - Free machine embroidery software supporting a variety of formats.
 - [lxqt/lxqt-panel](https://github.com/lxqt/lxqt-panel) - The LXQt desktop panel
 - [unetbootin/unetbootin](https://github.com/unetbootin/unetbootin) - UNetbootin installs Linux/BSD distributions to a partition or USB drive
 - [hannesschulze/conecto](https://github.com/hannesschulze/conecto) - Integrate your Android-phone with your PC - a GTK client for KDEConnect.
@@ -499,6 +499,7 @@
 
 ## Dart 
 
+- [free-explorers/veshell](https://github.com/free-explorers/veshell) - Veshell is a Wayland compositor providing an innovative workflow that utilizes humans natural spatial cognition to enhance navigation and organization in the digital environment.
 - [dahliaOS/utopia](https://github.com/dahliaOS/utopia) - Utopia Window Manager for Pangolin
 - [dahliaOS/pangolin_desktop](https://github.com/dahliaOS/pangolin_desktop) - Pangolin Desktop UI shell, designed for dahliaOS, written in Flutter.
 - [xsoulspace/last_answer](https://github.com/xsoulspace/last_answer) - App to write quickly Ideas and Notes
@@ -569,6 +570,7 @@
 
 ## Go 
 
+- [Achno/gocheat](https://github.com/Achno/gocheat) - A beautiful customizable Cheatsheet for keybindings,hotkeys and more in the terminal
 - [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
@@ -2374,7 +2376,6 @@
 - [Cyfrin/OpenPositions](https://github.com/Cyfrin/OpenPositions) - 
 - [coreb1t/awesome-pentest-cheat-sheets](https://github.com/coreb1t/awesome-pentest-cheat-sheets) - Collection of the cheat sheets useful for pentesting
 - [a8m/golang-cheat-sheet](https://github.com/a8m/golang-cheat-sheet) - An overview of Go syntax and features.
-- [free-explorers/veshell](https://github.com/free-explorers/veshell) - Veshell is a Wayland compositor providing an innovative workflow that utilizes humans natural spatial cognition to enhance navigation and organization in the digital environment.
 - [IonicaBizau/reset-your-facebook-account](https://github.com/IonicaBizau/reset-your-facebook-account) - :older_man: Some scripts to delete your Facebook posts, comments and likes.
 - [devbrones/llama-prompts](https://github.com/devbrones/llama-prompts) - A collection of prompts for Llama
 - [PickleBoxer/dev-chatgpt-prompts](https://github.com/PickleBoxer/dev-chatgpt-prompts) - 📚 Personal collection of ChatGPT prompts for developers!
@@ -3869,7 +3870,7 @@
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 - [notemarks/notemarks](https://github.com/notemarks/notemarks) - A git based labeling app to manage notes, documents, and bookmarks.
 - [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
-- [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
+- [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
 - [mvximenko/dunno](https://github.com/mvximenko/dunno) - Simplified version of IMDb
 - [KaterinaLupacheva/my-projects-dashboard](https://github.com/KaterinaLupacheva/my-projects-dashboard) - Next.js, Material UI, MongoDB Personal Dashboard with dev.to, GitHub, Twitter, and npm API integration.
 - [darekkay/dashboard](https://github.com/darekkay/dashboard) - Customizable personal dashboard and startpage
