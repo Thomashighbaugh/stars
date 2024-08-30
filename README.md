@@ -2712,6 +2712,7 @@
 
 ## Python 
 
+- [AnirudhMukherjee/story-generation](https://github.com/AnirudhMukherjee/story-generation) - Theme based story generation using a hierarchical approach
 - [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Interact with your documents using the power of GPT, 100% privately, no data leaks
 - [filiptronicek/filiptronicek](https://github.com/filiptronicek/filiptronicek) - My profile readme
 - [raghuboosetty/workday](https://github.com/raghuboosetty/workday) - Python script to apply for the jobs that are on Workday using the Selenium library and Chrome web driver.
