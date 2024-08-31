@@ -663,6 +663,7 @@
 
 ## HTML 
 
+- [ilse-langnar/notebook](https://github.com/ilse-langnar/notebook) - Tool for Thought. ʚɞ
 - [0xeb/TheBigPromptLibrary](https://github.com/0xeb/TheBigPromptLibrary) - A collection of prompts, system prompts and LLM instructions
 - [killshot13/google-web-stories-template](https://github.com/killshot13/google-web-stories-template) - This is a reference template for creating and editing AMP Web Stories (Google Stories)
 - [phanxuanquang/AI-Handbook](https://github.com/phanxuanquang/AI-Handbook) - The AI models used for my personal purposes and their usage (Gemini, Copilot, Dialogflow,...)
@@ -1968,6 +1969,7 @@
 
 ## Nix 
 
+- [TheMaxMur/NixOS-Configuration](https://github.com/TheMaxMur/NixOS-Configuration) - MaxMur NixOS config & Home-Manager config
 - [0xTux/nixos-config](https://github.com/0xTux/nixos-config) - NixOS configuration flake
 - [RGBCube/ThemeNix](https://github.com/RGBCube/ThemeNix) - Theme your NixOS configuration consistently.
 - [viperML/wrapper-manager](https://github.com/viperML/wrapper-manager) - Post-modern configuration management
@@ -2262,6 +2264,7 @@
 
 ## Others 
 
+- [CodingAce123/CodingAce123](https://github.com/CodingAce123/CodingAce123) - My GitHub profile-README (Don't Just Fork, star too 🥺)
 - [dave1010/tree-of-thought-prompting](https://github.com/dave1010/tree-of-thought-prompting) - Using Tree-of-Thought Prompting to boost ChatGPT's reasoning
 - [rwxrob/awesome-go](https://github.com/rwxrob/awesome-go) - 🌟 My personal "awesome" list of Go code, tools, books, and learning resources. I'm very picky about what makes it on. Want to learn Go? Start here.
 - [rajannpatel/Pi-Hole-on-Google-Compute-Engine-Free-Tier-with-Full-Tunnel-and-Split-Tunnel-Wireguard-VPN-Configs](https://github.com/rajannpatel/Pi-Hole-on-Google-Compute-Engine-Free-Tier-with-Full-Tunnel-and-Split-Tunnel-Wireguard-VPN-Configs) - Run your own privacy-first ad blocking service at home, or in the cloud for free with Google Cloud Services.
@@ -2712,6 +2715,7 @@
 
 ## Python 
 
+- [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
 - [AnirudhMukherjee/story-generation](https://github.com/AnirudhMukherjee/story-generation) - Theme based story generation using a hierarchical approach
 - [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Interact with your documents using the power of GPT, 100% privately, no data leaks
 - [filiptronicek/filiptronicek](https://github.com/filiptronicek/filiptronicek) - My profile readme
