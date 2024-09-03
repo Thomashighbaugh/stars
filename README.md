@@ -305,7 +305,7 @@
 ## CSS 
 
 - [thinkingjimmy/Learning-Prompt](https://github.com/thinkingjimmy/Learning-Prompt) - Free prompt engineering online course. ChatGPT and Midjourney tutorials are now included!
-- [KiKaraage/ArcWTF](https://github.com/KiKaraage/ArcWTF) - A userChrome.css theme to bring Arc Browser look on Windows to Firefox. Work with all processor generation, even if yours doesn't support BMI2 instruction set  ✨
+- [KiKaraage/ArcWTF](https://github.com/KiKaraage/ArcWTF) - A userChrome.css theme to bring Arc Browser look on Windows to Firefox. Work with Windows, Linux and macOS ✨
 - [soulhotel/FF-ULTIMA](https://github.com/soulhotel/FF-ULTIMA) - The Firefox theme with too many options.. FF Ultima.
 - [deluma/FontAwesome-6FREE-6PRO](https://github.com/deluma/FontAwesome-6FREE-6PRO) - Font Awesome 6 Pro is commercial software that requires a paid license. (OR DOES IT!!!!)
 - [Shina-SG/Shina-Fox](https://github.com/Shina-SG/Shina-Fox) - A Minimal, Cozy, Vertical Optimized Firefox Theme
@@ -603,7 +603,7 @@
 - [caarlos0/fork-cleaner](https://github.com/caarlos0/fork-cleaner) - Quickly clean up unused forks on your github account.
 - [muesli/beehive](https://github.com/muesli/beehive) - A flexible event/agent & automation system with lots of bees 🐝
 - [athul/shelby](https://github.com/athul/shelby) - Shelby is a fast ⚡️ , lightweight ☁️ , minimal✨,  shell prompt written in Go.
-- [xyproto/algernon](https://github.com/xyproto/algernon) - Small self-contained pure-Go web server with Lua, Teal, Markdown, Ollama, HTTP/2, QUIC, Redis and PostgreSQL support
+- [xyproto/algernon](https://github.com/xyproto/algernon) - Small self-contained pure-Go web server with Lua, Teal, Markdown, Ollama, HTTP/2, QUIC, Redis, SQLite and PostgreSQL support ++
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [jboursiquot/portscan](https://github.com/jboursiquot/portscan) - Port scanning examples to teach Go concurrency bounding
 - [OJ/gobuster](https://github.com/OJ/gobuster) - Directory/File, DNS and VHost busting tool written in Go
@@ -1969,6 +1969,7 @@
 
 ## Nix 
 
+- [aos/nix-config](https://github.com/aos/nix-config) - dotfiles + systems using nix
 - [TheMaxMur/NixOS-Configuration](https://github.com/TheMaxMur/NixOS-Configuration) - MaxMur NixOS config & Home-Manager config
 - [0xTux/nixos-config](https://github.com/0xTux/nixos-config) - NixOS configuration flake
 - [RGBCube/ThemeNix](https://github.com/RGBCube/ThemeNix) - Theme your NixOS configuration consistently.
@@ -3246,6 +3247,7 @@
 
 ## Shell 
 
+- [yeyushengfan258/Reversal-icon-theme](https://github.com/yeyushengfan258/Reversal-icon-theme) - A colorful Design Rectangle icon theme for linux desktops
 - [ready4mars/n8n-render](https://github.com/ready4mars/n8n-render) - Deploying n8n on Render (render.com) hosting, using separate Web Service (with Docker and Persistent Disk Storage) + Postgres DB.
 - [FlorianHeydrich/ColorScripts](https://github.com/FlorianHeydrich/ColorScripts) - Color scripts for modern terminal emulators.
 - [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
