@@ -125,7 +125,6 @@
 - [ReadyWidgets/filters](https://github.com/ReadyWidgets/filters) - Graphics filters for awesome - blurring, shadows and more
 - [ReadyWidgets/surface_filters](https://github.com/ReadyWidgets/surface_filters) - A library to add filter effects to the awesome window manager (like blurring)
 - [sushi-ae/dotfiles](https://github.com/sushi-ae/dotfiles) - My personal dotfiles that are constantly being updated.
-- [ralismark/nix-appimage](https://github.com/ralismark/nix-appimage) - Convert a nixos derivation into a self-contained binary
 - [unikraft/unikraft](https://github.com/unikraft/unikraft) - A next-generation cloud native kernel designed to unlock best-in-class performance, security primitives and efficiency savings.
 - [NVIDIA/open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules) - NVIDIA Linux open GPU kernel module source
 - [wolfi-dev/os](https://github.com/wolfi-dev/os) - Main package repository for production Wolfi images
@@ -544,7 +543,6 @@
 - [aruZeta/Dotfiles.nix](https://github.com/aruZeta/Dotfiles.nix) - My reproducible system config made with nix
 - [shtwzrd/friar](https://github.com/shtwzrd/friar) - Emacs REPL for interacting with AwesomeWM
 - [willbush/system](https://github.com/willbush/system) - Trying to build the perfect system
-- [nuxshed/dotfiles](https://github.com/nuxshed/dotfiles) - pls help
 - [russmatney/dotfiles](https://github.com/russmatney/dotfiles) - Doom Emacs, a few-years old vim config, tmux, i3, zsh, polybar
 - [meain/dotfiles](https://github.com/meain/dotfiles) - If there is a shell, there is a way!
 - [BasicWolf/dotrc](https://github.com/BasicWolf/dotrc) - My Emacs, AwesomeWM, zsh, git and other configurations
@@ -1626,6 +1624,7 @@
 - [frabjous/awesome](https://github.com/frabjous/awesome) - Dotfiles for awesomewm
 - [meriadec/awesome-efficient](https://github.com/meriadec/awesome-efficient) - Awesome WM 4 theme - Focused on elegance, minimalism & productivity
 - [mhmood-sf/turbo-awesome](https://github.com/mhmood-sf/turbo-awesome) - AwesomeWM dotfiles; archived, see my repo all-the-dots
+- [nuxshed/dotfiles](https://github.com/nuxshed/dotfiles) - pls help
 - [Kasper24/KwesomeDE](https://github.com/Kasper24/KwesomeDE) - A desktop environment made in AwesomeWM
 - [javacafe01/awesome-wallpaper](https://github.com/javacafe01/awesome-wallpaper) - 
 - [rochacbruno/dotfiles](https://github.com/rochacbruno/dotfiles) - My Environment Configurations
@@ -1938,7 +1937,7 @@
 
 ## Makefile 
 
-- [dr460nf1r3/firedragon-browser](https://github.com/dr460nf1r3/firedragon-browser) - A Floorp fork with custom branding 🐉 (mirrored from GitLab)
+- [dr460nf1r3/firedragon-browser](https://github.com/dr460nf1r3/firedragon-browser) - A Floorp fork with custom branding and opinionated settings 🐉 (mirrored from GitLab)
 - [tammymakesthings/markdown-ebook-template](https://github.com/tammymakesthings/markdown-ebook-template) - Template for creating books (ebook and paper) from Markdown files
 - [teamniteo/handbook](https://github.com/teamniteo/handbook) - The Niteo Handbook
 - [infectedmushi/android_device_oneplus_instantnoodle-dev](https://github.com/infectedmushi/android_device_oneplus_instantnoodle-dev) - TWRP tree Unified for OnePlus 8/8 Pro (instantnoodle, instantnoodlep)
@@ -2062,6 +2061,7 @@
 - [ghuntley/workshops](https://github.com/ghuntley/workshops) - 
 - [cideM/dotfiles](https://github.com/cideM/dotfiles) - No place like ~. Nix. All. The. Things.
 - [badele/nix-homelab](https://github.com/badele/nix-homelab) - Homelab and dotfiles made with NixOS
+- [ralismark/nix-appimage](https://github.com/ralismark/nix-appimage) - Convert a nixos derivation into a self-contained binary
 - [fabaff/nix-security-box](https://github.com/fabaff/nix-security-box) - Tool set for Information security professionals and all others
 - [donovanglover/nix-config](https://github.com/donovanglover/nix-config) - My NixOS configuration with Nix Flakes, Home Manager, Stylix, and Hyprland.
 - [srid/nix-config](https://github.com/srid/nix-config) - My NixOS configuration (DEPRECATED)
@@ -2088,7 +2088,7 @@
 - [chvp/nixos-config](https://github.com/chvp/nixos-config) - Configuration of my machines (main development happens at https://git.chvp.be/chvp/nixos-config these days)
 - [linyinfeng/dotfiles](https://github.com/linyinfeng/dotfiles) - My personal NixOS configurations.
 - [xddxdd/nixos-config](https://github.com/xddxdd/nixos-config) - Lan Tian's NixOS Configuration
-- [ryan4yin/nix-config](https://github.com/ryan4yin/nix-config) - ❄️ my nix config for both desktops(NixOS+macOS) and homelab servers(NixOS).
+- [ryan4yin/nix-config](https://github.com/ryan4yin/nix-config) - ❄️ My nix config for both desktops(NixOS+macOS) and homelab servers(NixOS).
 - [disassembler/network](https://github.com/disassembler/network) - Home Network
 - [the-argus/nixsys](https://github.com/the-argus/nixsys) - My NixOS system configuration.
 - [luftmensch-luftmensch/nix-config](https://github.com/luftmensch-luftmensch/nix-config) - NixOS Configuration
@@ -2266,6 +2266,7 @@
 
 ## Others 
 
+- [bpc-clone/bypass-paywalls-firefox-clean](https://github.com/bpc-clone/bypass-paywalls-firefox-clean) - 
 - [CodingAce123/CodingAce123](https://github.com/CodingAce123/CodingAce123) - My GitHub profile-README (Don't Just Fork, star too 🥺)
 - [dave1010/tree-of-thought-prompting](https://github.com/dave1010/tree-of-thought-prompting) - Using Tree-of-Thought Prompting to boost ChatGPT's reasoning
 - [rwxrob/awesome-go](https://github.com/rwxrob/awesome-go) - 🌟 My personal "awesome" list of Go code, tools, books, and learning resources. I'm very picky about what makes it on. Want to learn Go? Start here.
@@ -2716,6 +2717,7 @@
 
 ## Python 
 
+- [cheahjs/free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources) - A list of free LLM inference resources accessible via API.
 - [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
 - [AnirudhMukherjee/story-generation](https://github.com/AnirudhMukherjee/story-generation) - Theme based story generation using a hierarchical approach
 - [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Interact with your documents using the power of GPT, 100% privately, no data leaks
@@ -2842,7 +2844,7 @@
 - [Thomashighbaugh/gpt_scripts](https://github.com/Thomashighbaugh/gpt_scripts) - Python Scripts that prompt GPT-3 via API for free with GPT4Free
 - [dharmx/vile](https://github.com/dharmx/vile) - Waste of time. Smelly widgets feat. Spaghetti code. Built with eww-3.0.
 - [facundoolano/software-papers](https://github.com/facundoolano/software-papers) - 📚 A curated list of papers for Software Engineers
-- [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it. Completely separate team and codebase from the AI Web App builder https://gptengineer.app
+- [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Platform to experiment with the AI Software Engineer. Terminal based. NOTE: Very different from https://gptengineer.app
 - [ninewise/dotfiles](https://github.com/ninewise/dotfiles) - Some of my dotfiles.
 - [snwfdhmp/awesome-gpt-prompt-engineering](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering) - A curated list of awesome resources, tools, and other shiny things for GPT prompt engineering.
 - [beltoforion/openai-ghostwriter](https://github.com/beltoforion/openai-ghostwriter) - A python script for fully automatically generating web pages including images using OpenAI's GPT-3.
@@ -3552,7 +3554,7 @@
 - [noob-hackers/T-LOAD](https://github.com/noob-hackers/T-LOAD) - New Interface And Loading Screen For Termux Users
 - [kisslinux/kiss](https://github.com/kisslinux/kiss) - KISS Linux - Package Manager
 - [instantOS/instantOS](https://github.com/instantOS/instantOS) - instantOS - the out of the Box distro for powerusers
-- [i8ptrs/void-installer](https://github.com/i8ptrs/void-installer) - 
+- [jhert0/void-installer](https://github.com/jhert0/void-installer) - 
 - [obtekin/archlinuxarm-aarch64-rpi3](https://github.com/obtekin/archlinuxarm-aarch64-rpi3) - Archlinux on Rpi3
 - [b4skyx/dotfiles](https://github.com/b4skyx/dotfiles) - My personal linux dotfiles
 - [TheSpeedX/SDorker](https://github.com/TheSpeedX/SDorker) - SuperDorker gives you a huge list of websites for 0day attacks from Google Dorks
@@ -3852,7 +3854,7 @@
 - [GypsyDangerous/OneLink](https://github.com/GypsyDangerous/OneLink) - 🔗 OneLink is a linktree and flowpage clone built with Nextjs, MongoDb, and GraphQL
 - [heysagnik/Linkees](https://github.com/heysagnik/Linkees) - Awesome Linktree clone made with React ⚛️
 - [osmoscraft/osmosmemo](https://github.com/osmoscraft/osmosmemo) - Turn GitHub into a bookmark manager
-- [Shougo/ddc.vim](https://github.com/Shougo/ddc.vim) - Dark deno-powered completion framework for neovim/Vim
+- [Shougo/ddc.vim](https://github.com/Shougo/ddc.vim) - Dark deno-powered completion framework for Vim/NeoVim
 - [fontsource/fontsource](https://github.com/fontsource/fontsource) - Self-host Open Source fonts in neatly bundled NPM packages.
 - [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - The open source frontend for GitBook doc sites
 - [ant-design/ant-design-icons](https://github.com/ant-design/ant-design-icons) - ⭐ Ant Design SVG Icons
