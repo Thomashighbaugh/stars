@@ -929,7 +929,7 @@
 - [jeanrauwers/mern-course-bootcamp](https://github.com/jeanrauwers/mern-course-bootcamp) - Complete  Free Coding Bootcamp with the MERN Stack
 - [panshak/accountill](https://github.com/panshak/accountill) - Fullstack open source Invoicing application made with MongoDB, Express, React & Nodejs (MERN)
 - [jamAL108/nNote](https://github.com/jamAL108/nNote) - A notes app to store all your thoughts and ideas. Build using MERN STACK
-- [artiebits/fake-git-history](https://github.com/artiebits/fake-git-history) - Generate Git commits.
+- [artiebits/fake-git-history](https://github.com/artiebits/fake-git-history) - A command-line tool to generate GitHub and GitLab activity graph.
 - [jpvalery/portfolio](https://github.com/jpvalery/portfolio) - Photo Portfolio w/ Next.js + TailwindCSS + Contentful
 - [hardpixel/unite-shell](https://github.com/hardpixel/unite-shell) - Unite is an extension that makes GNOME Shell look like Ubuntu Unity Shell.
 - [madkarmaa/automatic-chatgpt-dan](https://github.com/madkarmaa/automatic-chatgpt-dan) - Browser userscript to automatically send DAN messages to ChatGPT
@@ -3520,7 +3520,7 @@
 - [aws/containers-roadmap](https://github.com/aws/containers-roadmap) - This is the public roadmap for AWS container services (ECS, ECR, Fargate, and EKS).
 - [brendangregg/perf-tools](https://github.com/brendangregg/perf-tools) - Performance analysis tools based on Linux perf_events (aka perf) and ftrace
 - [regolith-linux/regolith-ubuntu-iso-builder](https://github.com/regolith-linux/regolith-ubuntu-iso-builder) - 
-- [mvallim/live-custom-ubuntu-from-scratch](https://github.com/mvallim/live-custom-ubuntu-from-scratch) - (Yes, the project is still alive 😃) This procedure shows how to create a bootable and installable Ubuntu Live (along with the automatic hardware detection and configuration) from scratch.
+- [mvallim/live-custom-ubuntu-from-scratch](https://github.com/mvallim/live-custom-ubuntu-from-scratch) - (Yes, the project is still alive 😃) This procedure shows how to create a bootable and installable Ubuntu Live (along with the automatic hardware detection and configuration) from scratch. A Linux to c
 - [aecreations/sync-clippings](https://github.com/aecreations/sync-clippings) - Sync Clippings Helper
 - [davatorium/rofi-scripts](https://github.com/davatorium/rofi-scripts) - Small scripts for use with rofi
 - [sgleizes/xsh](https://github.com/sgleizes/xsh) - A simple framework for shell configuration management.
@@ -3921,7 +3921,7 @@
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [iamvishnusankar/next-sitemap](https://github.com/iamvishnusankar/next-sitemap) - Sitemap generator for next.js. Generate sitemap(s) and robots.txt for all static/pre-rendered/dynamic/server-side pages.
 - [nandorojo/moti](https://github.com/nandorojo/moti) - 🐼  The React Native (+ Web) animation library, powered by Reanimated 3.
-- [learn-anything/learn-anything.xyz](https://github.com/learn-anything/learn-anything.xyz) - Organize world's knowledge, explore connections and curate learning paths
+- [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
 - [vercel/commerce](https://github.com/vercel/commerce) - Next.js Commerce
 - [karlitos/KissMyResume](https://github.com/karlitos/KissMyResume) - Generate polished résumés and CVs in HTML, PDF,  MS Word and other formats and Keep It Simple.
 - [microsoft/fluentui](https://github.com/microsoft/fluentui) - Fluent UI web represents a collection of utilities, React components, and web components for building web applications.
