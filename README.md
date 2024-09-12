@@ -1282,7 +1282,7 @@
 
 - [curiousily/AI-Bootcamp](https://github.com/curiousily/AI-Bootcamp) - Self-paced bootcamp on Generative AI. Tutorials on ML fundamentals, LLMs, RAGs, LangChain, LangGraph, Fine-tuning Llama 3 & AI Agents (CrewAI)
 - [amazon-science/auto-cot](https://github.com/amazon-science/auto-cot) - Official implementation for "Automatic Chain of Thought Prompting in Large Language Models" (stay tuned & more will be updated)
-- [google-gemini/cookbook](https://github.com/google-gemini/cookbook) - Examples and guides for using the Gemini API.
+- [google-gemini/cookbook](https://github.com/google-gemini/cookbook) - Examples and guides for using the Gemini API
 - [kwinkunks/promptly](https://github.com/kwinkunks/promptly) - A prompt collection for testing and evaluation of LLMs.
 - [grahamwaters/lorebook_generator_for_novelai](https://github.com/grahamwaters/lorebook_generator_for_novelai) - Generates a lorebook for novelai
 - [NoDataFound/hackGPT](https://github.com/NoDataFound/hackGPT) - I leverage OpenAI and ChatGPT to do hackerish things
@@ -2446,7 +2446,6 @@
 - [meetpateltech/AI-Infinity](https://github.com/meetpateltech/AI-Infinity) - A set of AI tools that will help you explore the infinite possibilities of AI.
 - [Vitor238/DX](https://github.com/Vitor238/DX) - Squircle icon theme for Linux (WIP)
 - [tinted-theming/base16-schemes](https://github.com/tinted-theming/base16-schemes) - All the color schemes for use in base16 packages
-- [rynst/awesome-llm-engineering](https://github.com/rynst/awesome-llm-engineering) - 💻 An awesome & curated list of resources for large language model engineering (application layer: prompt engineering, fine tuning, etc.) [ Work In Progress, feel free to contribute! ]
 - [dukeluo/awesome-awesome-prompts](https://github.com/dukeluo/awesome-awesome-prompts) - An awesome list for collecting awesome lists related to prompt engineering.
 - [microsoft/prompt-engineering](https://github.com/microsoft/prompt-engineering) - Learn how to use AI models with prompt engineering
 - [altryne/awesome-ai-art-image-synthesis](https://github.com/altryne/awesome-ai-art-image-synthesis) - A list of awesome tools, ideas, prompt engineering tools, colabs, models, and helpers for the prompt designer playing with aiArt and image synthesis. Covers Dalle2, MidJourney, StableDiffusion, and op
@@ -2715,6 +2714,7 @@
 
 ## Python 
 
+- [craigsdennis/image-model-streamlit-workers-ai](https://github.com/craigsdennis/image-model-streamlit-workers-ai) - A Streamlit based starter kit to use Cloudflare Workers AI
 - [cheahjs/free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources) - A list of free LLM inference resources accessible via API.
 - [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
 - [AnirudhMukherjee/story-generation](https://github.com/AnirudhMukherjee/story-generation) - Theme based story generation using a hierarchical approach
