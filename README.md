@@ -2726,7 +2726,7 @@
 - [kyegomez/the-compiler](https://github.com/kyegomez/the-compiler) - Seed, Code, Harvest: Grow Your Own App with Tree of Thoughts!
 - [YiVal/YiVal](https://github.com/YiVal/YiVal) - Your Automatic Prompt Engineering Assistant for GenAI Applications
 - [Ztrimus/job-llm](https://github.com/Ztrimus/job-llm) - Simplify and improve the job hunting experience by integrating LLMs to automate tasks such as resume and cover letter generation, as well as application submission, saving users time and effort.
-- [outlines-dev/prompts](https://github.com/outlines-dev/prompts) - A prompting library for large language models
+- [dottxt-ai/prompts](https://github.com/dottxt-ai/prompts) - A prompting library
 - [kyegomez/Algorithm-Of-Thoughts](https://github.com/kyegomez/Algorithm-Of-Thoughts) - My implementation of "Algorithm of Thoughts: Enhancing Exploration of Ideas in Large Language Models"
 - [kyegomez/tree-of-thoughts](https://github.com/kyegomez/tree-of-thoughts) - Plug in and Play Implementation of Tree of Thoughts: Deliberate Problem Solving with Large Language Models that Elevates Model Reasoning by atleast 70%
 - [microsoft/promptflow](https://github.com/microsoft/promptflow) - Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring.
@@ -2943,7 +2943,7 @@
 - [kovidgoyal/bypy](https://github.com/kovidgoyal/bypy) - 
 - [chrissimpkins/codeface](https://github.com/chrissimpkins/codeface) - Typefaces for source code beautification
 - [cocuh/.dotfiles](https://github.com/cocuh/.dotfiles) - my awesome .dotfiles repository! wow!!
-- [PaddlePaddle/PaddleGAN](https://github.com/PaddlePaddle/PaddleGAN) - PaddlePaddle GAN library, including lots of interesting applications like First-Order motion transfer,  Wav2Lip, picture repair, image editing, photo2cartoon, image style transfer, GPEN, and so on.【安全
+- [PaddlePaddle/PaddleGAN](https://github.com/PaddlePaddle/PaddleGAN) - PaddlePaddle GAN library, including lots of interesting applications like First-Order motion transfer,  Wav2Lip, picture repair, image editing, photo2cartoon, image style transfer, GPEN, and so on.
 - [codebasics/cool_python_apps](https://github.com/codebasics/cool_python_apps) - Small and cool python apps including bitcoin mining, language translator etc.
 - [syegulalp/folio](https://github.com/syegulalp/folio) - Python-powered, Markdown-formatted personal wiki
 - [Catboy96/Universal-Linux-Script](https://github.com/Catboy96/Universal-Linux-Script) - A shell script with built-in variables which can simplify Linux shell script writing.
@@ -3726,7 +3726,7 @@
 - [redis/ioredis](https://github.com/redis/ioredis) - 🚀 A robust, performance-focused, and full-featured Redis client for Node.js.
 - [uixmat/firestarta](https://github.com/uixmat/firestarta) - Next.js SaaS boilerplate with NextAuth, Prisma, Supabase, Shadcn/ui & Lemon Squeezy Subscriptions
 - [The-Enthusiast-404/Designed](https://github.com/The-Enthusiast-404/Designed) - This is Open Source to Canva
-- [wikibonsai/vscode-wikibonsai](https://github.com/wikibonsai/vscode-wikibonsai) - PKM tooling for semantically inclined digital gardeners (with [[wikirefs]], semantic trees, and graphs).
+- [wikibonsai/vscode-tendr](https://github.com/wikibonsai/vscode-tendr) - PKM tooling for semantically inclined digital gardeners (with [[wikirefs]], semantic trees, and graphs).
 - [actions-js/profile-readme](https://github.com/actions-js/profile-readme) - 🗣 Display profile activity and other cool widgets in your profile README.md
 - [Seyma44/Neubrutalism-website](https://github.com/Seyma44/Neubrutalism-website) - Nextjs Tailwind Neubrutalism 90's Concept Website
 - [wxt-dev/wxt](https://github.com/wxt-dev/wxt) - ⚡ Next-gen Web Extension Framework
