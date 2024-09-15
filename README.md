@@ -939,7 +939,7 @@
 - [Laverna/laverna](https://github.com/Laverna/laverna) - Laverna is a JavaScript note taking application with Markdown editor and encryption support. Consider it like open source alternative to Evernote.
 - [zadam/trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
 - [dezgo-com/example-nodejs-simple](https://github.com/dezgo-com/example-nodejs-simple) - Minimal examples on how to use Dezgo's text2image / image2image / inpainting endpoints with NodeJS
-- [sunner/ChatALL](https://github.com/sunner/ChatALL) - Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers
+- [ai-shifu/ChatALL](https://github.com/ai-shifu/ChatALL) - Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers
 - [GopalSaraf/Spotify_Crack_For_MacOS-Windows-Linux](https://github.com/GopalSaraf/Spotify_Crack_For_MacOS-Windows-Linux) - Spotify crack for MacOS, Windows and Linux
 - [neptunian/react-photo-gallery](https://github.com/neptunian/react-photo-gallery) - React Photo Gallery
 - [TomorrowWontExist/FullstackMassiveNFTDevelopment](https://github.com/TomorrowWontExist/FullstackMassiveNFTDevelopment) - Instructional Walkthrough video of how to create and launch your own 10k NFT collection without any Coding or Crypto knowledge.
