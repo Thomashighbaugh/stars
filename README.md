@@ -3734,7 +3734,7 @@
 - [futantan/OpenGpt](https://github.com/futantan/OpenGpt) - Create your own ChatGPT App in seconds.
 - [kfirfitousi/blog](https://github.com/kfirfitousi/blog) - 👨‍💻 Dev blog built with Next.js 13, TypeScript, and Contentlayer, using latest Next.js features
 - [comoestassergio/portfolio-next](https://github.com/comoestassergio/portfolio-next) - Dynamically updated page to showcase my works from GitHub
-- [mckaywrigley/storybook-ai](https://github.com/mckaywrigley/storybook-ai) - Use AI to write complete stories.
+- [mckaywrigley/storybook-ai](https://github.com/mckaywrigley/storybook-ai) - Come join the best place on the internet to learn AI skills. Use code "storybookai" for an extra 20% off.
 - [hubtype/botonic](https://github.com/hubtype/botonic) - Build chatbots and conversational experiences using React
 - [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) - Open-source tool to enforce privacy & security best-practices on Windows, macOS and Linux, because privacy is sexy
 - [iandjx/next-js-daisy](https://github.com/iandjx/next-js-daisy) - Next JS, twin.macro, typescript, daisyUI, tailwindcss template
