@@ -2496,7 +2496,6 @@
 - [ReFUI/Artix-Linux-OpenRC-ZFS-iso](https://github.com/ReFUI/Artix-Linux-OpenRC-ZFS-iso) - This is simply a default Artix Linux iso with zfs-dkms installed on it  for ease of installation, linux kernel artix 8.5.3. Wanted to upload it so yall dont have to go through the hassle of installing
 - [szorfein/unix-portfolio](https://github.com/szorfein/unix-portfolio) - Screenshots of my many themes (uncompressed)
 - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
-- [ltfred/code-font](https://github.com/ltfred/code-font) - 收录编程字体
 - [dylanaraps/writing-a-tui-in-bash](https://github.com/dylanaraps/writing-a-tui-in-bash) - How to write a TUI in BASH
 - [addy-dclxvi/bitmap-font-collections](https://github.com/addy-dclxvi/bitmap-font-collections) - Custom bitmap fonts, based on M+, Tewi, Lemon, and Siji
 - [notion-enhancer/tweaks](https://github.com/notion-enhancer/tweaks) - A collection of user-submitted CSS tweaks for Notion
@@ -2797,7 +2796,6 @@
 - [earthonion/ChatGPT-Book-Generator](https://github.com/earthonion/ChatGPT-Book-Generator) - Input any book title and it will generate a full book in PDF format.
 - [mikavehns/BookGPT](https://github.com/mikavehns/BookGPT) - Writes complete books with given paramters, using GPT-3.
 - [fdtory/FictionGPT](https://github.com/fdtory/FictionGPT) - Write fiction stories with given parameters, using GPT-3,5
-- [rsxdalv/tts-generation-webui](https://github.com/rsxdalv/tts-generation-webui) - TTS Generation Web UI (Bark, MusicGen + AudioGen, Tortoise, RVC, Vocos, Demucs, SeamlessM4T, MAGNet, StyleTTS2, MMS)
 - [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models.
 - [zestor/Muses](https://github.com/zestor/Muses) - Artificial Intelligence (AI) Long Form Fiction Writer using OpenAI or NLP Cloud
 - [mozilla/fxemoji](https://github.com/mozilla/fxemoji) - FxEmojis - a friendly emoji set from Mozilla
@@ -3739,6 +3737,7 @@
 - [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) - Open-source tool to enforce privacy & security best-practices on Windows, macOS and Linux, because privacy is sexy
 - [iandjx/next-js-daisy](https://github.com/iandjx/next-js-daisy) - Next JS, twin.macro, typescript, daisyUI, tailwindcss template
 - [brandonsaldan/clover](https://github.com/brandonsaldan/clover) - Personal website built with NextJS, Tailwind, and Geist.
+- [rsxdalv/tts-generation-webui](https://github.com/rsxdalv/tts-generation-webui) - TTS Generation Web UI (Bark, MusicGen + AudioGen, Tortoise, RVC, Vocos, Demucs, SeamlessM4T, MAGNet, StyleTTS2, MMS)
 - [andyruwruw/andyruwruw](https://github.com/andyruwruw/andyruwruw) - Github profile README.md with dynamic images generated from React.js components. Inspired by natemoo-re
 - [rafalzawadzki/spellbook-forge](https://github.com/rafalzawadzki/spellbook-forge) - ✨ Make your LLM prompts executable and version controlled. ✨
 - [element-plus/element-plus-icons](https://github.com/element-plus/element-plus-icons) - Main package for storing Element Plus icon resources.
