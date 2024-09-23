@@ -410,6 +410,7 @@
 - [creativetimofficial/tailwind-starter-kit](https://github.com/creativetimofficial/tailwind-starter-kit) - Tailwind Starter Kit a beautiful extension for TailwindCSS, Free and Open Source
 - [elenapan/dotfiles](https://github.com/elenapan/dotfiles) - There is no place like ~/
 - [owl4ce/dotfiles](https://github.com/owl4ce/dotfiles) - :cherry_blossom: Aesthetic OpenboxWM Environment
+- [Thomashighbaugh/firefox](https://github.com/Thomashighbaugh/firefox) - Torturing Firefox with userchrome.js and userchrome.css in response to Mozilla's successive degradation of the browser window.
 - [obliviousofcraps/mf-dots](https://github.com/obliviousofcraps/mf-dots) - These are some of my ridiculously shit dotfiles that I use in my unproductive daily life.
 - [MrOtherGuy/firefox-csshacks](https://github.com/MrOtherGuy/firefox-csshacks) - Collection of userstyles affecting the browser
 - [mrmrs/colors](https://github.com/mrmrs/colors) - Smarter defaults for colors on the web.
@@ -853,7 +854,7 @@
 - [jvillegasd/Jvillegasd](https://github.com/jvillegasd/Jvillegasd) - Leave a star if you like it :D
 - [daisyui/daisyui-next](https://github.com/daisyui/daisyui-next) - Tailwind CSS, Next.js, daisyUI example repo
 - [marko-js/marko](https://github.com/marko-js/marko) - A declarative, HTML-based language that makes building web apps fun
-- [google/zx](https://github.com/google/zx) - 🔥🔥🔥 A tool for writing better scripts 🔥🔥🔥
+- [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [ishantchauhan710/WriterAI](https://github.com/ishantchauhan710/WriterAI) - WriterAI is an AI based content writing tool that helps users easily write high quality emails, blogs, letters, thesis and other stuff. One can also share their project with others and work as a team.
 - [Nick-Gabe/Nick-Gabe](https://github.com/Nick-Gabe/Nick-Gabe) - Self updating README
 - [pryv/open-pryv.io](https://github.com/pryv/open-pryv.io) - Open-source version of Pryv.io
@@ -1122,7 +1123,6 @@
 - [forwardemail/email-templates](https://github.com/forwardemail/email-templates) - Create, preview (browser/iOS Simulator), and send custom email templates for Node.js.  Made for @forwardemail, @ladjs, @cabinjs, @spamscanner, and @breejs.
 - [Thomashighbaugh/Opitx](https://github.com/Thomashighbaugh/Opitx) - A Markdown Editor for Those Who Are Tired of Loosing Their Work
 - [Thomashighbaugh/resurgens-iv](https://github.com/Thomashighbaugh/resurgens-iv) - The Fourth Resurgens Portfolio Site. Featuring React!!!
-- [Thomashighbaugh/firefox](https://github.com/Thomashighbaugh/firefox) - Torturing Firefox with userchrome.js and userchrome.css in response to Mozilla's successive degradation of the browser window.
 - [mikesprague/my-start-page](https://github.com/mikesprague/my-start-page) - Open source new tab extension
 - [decaporg/decap-cms](https://github.com/decaporg/decap-cms) - A Git-based CMS for Static Site Generators
 - [sintaxi/harp](https://github.com/sintaxi/harp) - Static Web Server/Generator/Bundler
@@ -1397,6 +1397,7 @@
 - [folke/edgy.nvim](https://github.com/folke/edgy.nvim) - Easily create and manage predefined window layouts, bringing a new edge to your workflow
 - [mrjones2014/dotfiles](https://github.com/mrjones2014/dotfiles) - ❄️ My dotfiles for NixOS and macOS as a Nix flake. Neovim, Fish shell, Wezterm, etc.
 - [vi013t/forge.nvim](https://github.com/vi013t/forge.nvim) - Language tool manager for Neovim using mason.nvim, nvim-treesitter, and more.
+- [mobsenpai/sugoi](https://github.com/mobsenpai/sugoi) - すごい Sugoi | Comfy environment for AwesomeWM
 - [folke/null-ls.nvim](https://github.com/folke/null-ls.nvim) - Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.
 - [mncc8337/bloatwaesome](https://github.com/mncc8337/bloatwaesome) - my old awesomewm config
 - [PoisonIsBestType/dotfiles](https://github.com/PoisonIsBestType/dotfiles) - awesomewm setup config files
@@ -2131,6 +2132,7 @@
 - [myme/dotfiles](https://github.com/myme/dotfiles) - My collection of dotfiles
 - [etu/nixconfig](https://github.com/etu/nixconfig) - My NixOS config
 - [c0c0n3/nixie](https://github.com/c0c0n3/nixie) - Personal, micro distro built on NixOS
+- [mobsenpai/hana](https://github.com/mobsenpai/hana) - 花 - Hana | Nixos dotfiles
 - [redcode-labs/RedNixOS](https://github.com/redcode-labs/RedNixOS) - NixOS-based 'distro' for cybersecurity enthusiasts
 - [kittywitch/infrastructure](https://github.com/kittywitch/infrastructure) - Personal infrastructure repository
 - [barrucadu/nixfiles](https://github.com/barrucadu/nixfiles) - My NixOS configuration and assorted other crap.
