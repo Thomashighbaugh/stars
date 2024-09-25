@@ -1976,6 +1976,7 @@
 - [RGBCube/ThemeNix](https://github.com/RGBCube/ThemeNix) - Theme your NixOS configuration consistently.
 - [viperML/wrapper-manager](https://github.com/viperML/wrapper-manager) - Post-modern configuration management
 - [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - My over complex system configurations
+- [Frost-Phoenix/nixos-config](https://github.com/Frost-Phoenix/nixos-config) - ❄️ NixOs / Hyprland rice with Home-Manager ❄️
 - [Lehmanator/nix-configs](https://github.com/Lehmanator/nix-configs) - Personal Nix / NixOS configs
 - [gabrieldlima/dotfiles](https://github.com/gabrieldlima/dotfiles) - NixOS & Home Manger configs :snowflake:
 - [IogaMaster/dotfiles](https://github.com/IogaMaster/dotfiles) - My NixOS flake.
@@ -2002,7 +2003,7 @@
 - [sodiboo/niri-flake](https://github.com/sodiboo/niri-flake) - Nix packages and modules for niri
 - [mahmoudk1000/nix-config](https://github.com/mahmoudk1000/nix-config) - mahmoudk1000's nixos configuration
 - [LutrisEng/nix-fly-template](https://github.com/LutrisEng/nix-fly-template) - Build an application with Nix and deploy it on Fly.io
-- [oluceps/nixos-config](https://github.com/oluceps/nixos-config) - My personal NixOS configurations & NUR.
+- [oluceps/nixos-config](https://github.com/oluceps/nixos-config) - Configuration for describing my systems.
 - [Ruixi-rebirth/flakes](https://github.com/Ruixi-rebirth/flakes) - 
 - [dr460nf1r3/dr460nixed](https://github.com/dr460nf1r3/dr460nixed) - Dr460nixed NixOS 🐉❄️
 - [m0lentum/dotfiles](https://github.com/m0lentum/dotfiles) - My NixOS config
@@ -3252,7 +3253,6 @@
 - [ready4mars/n8n-render](https://github.com/ready4mars/n8n-render) - Deploying n8n on Render (render.com) hosting, using separate Web Service (with Docker and Persistent Disk Storage) + Postgres DB.
 - [FlorianHeydrich/ColorScripts](https://github.com/FlorianHeydrich/ColorScripts) - Color scripts for modern terminal emulators.
 - [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
-- [Frost-Phoenix/nixos-config](https://github.com/Frost-Phoenix/nixos-config) - ❄️ NixOs / Hyprland rice with Home-Manager ❄️
 - [busterc/osx-iso](https://github.com/busterc/osx-iso) -  Create a bootable ISO of OS X / macOS, from the installation app file
 - [jgamblin/MacOS-Maid](https://github.com/jgamblin/MacOS-Maid) - Shell Script I Use To Automatically Clean Up My Mac.
 - [prasanthrangan/hyprdots](https://github.com/prasanthrangan/hyprdots) - // Aesthetic, dynamic and minimal dots for Arch hyprland
