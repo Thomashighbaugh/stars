@@ -127,7 +127,6 @@
 - [sushi-ae/dotfiles](https://github.com/sushi-ae/dotfiles) - My personal dotfiles that are constantly being updated.
 - [unikraft/unikraft](https://github.com/unikraft/unikraft) - A next-generation cloud native kernel designed to unlock best-in-class performance, security primitives and efficiency savings.
 - [NVIDIA/open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules) - NVIDIA Linux open GPU kernel module source
-- [wolfi-dev/os](https://github.com/wolfi-dev/os) - Main package repository for production Wolfi images
 - [beejjorgensen/bgc](https://github.com/beejjorgensen/bgc) - Beej's Guide to C Programming source
 - [Mange/rofi-emoji](https://github.com/Mange/rofi-emoji) - Emoji selector plugin for Rofi
 - [Nooo37/pinsel](https://github.com/Nooo37/pinsel) - Minimal screenshot annotation tool with lua config
@@ -583,7 +582,7 @@
 - [jollheef/appvm](https://github.com/jollheef/appvm) - Nix-based app VMs
 - [betapictoris/book](https://github.com/betapictoris/book) - 📖 Read ebooks from the comfort of your terminal.
 - [ssleert/zfxtop](https://github.com/ssleert/zfxtop) - [WIP] fetch top for gen Z with X written by bubbletea enjoyer
-- [usememos/memos](https://github.com/usememos/memos) - An open source, lightweight note-taking solution. The pain-less way to create your meaningful notes.
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes.
 - [cheshire137/gen-svgo-pattern](https://github.com/cheshire137/gen-svgo-pattern) - Generate Go code to create SVG patterns from a given SVG image.
 - [curusarn/resh](https://github.com/curusarn/resh) - RESH ❯❯ Contextual shell history for zsh and bash
 - [inancgumus/learngo](https://github.com/inancgumus/learngo) - ❤️ 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes. 🚀 Learn Go by fixing 1000+ tiny programs.
@@ -3286,6 +3285,7 @@
 - [martinspedro/logbook](https://github.com/martinspedro/logbook) - A command line tool to manage course notes, journals and other documents
 - [saitamasahil/Pixel-Launcher-Extended](https://github.com/saitamasahil/Pixel-Launcher-Extended) - Pixel Launcher Extended is a Magisk module by TeamFiles with many cool features.
 - [home-assistant/supervised-installer](https://github.com/home-assistant/supervised-installer) - Installer for a generic Linux system
+- [wolfi-dev/os](https://github.com/wolfi-dev/os) - Main package repository for production Wolfi images
 - [base-org/node](https://github.com/base-org/node) - Everything required to run your own Base node
 - [debuggyo/dots](https://github.com/debuggyo/dots) - more dots!
 - [phenax/nixos-dotfiles](https://github.com/phenax/nixos-dotfiles) - 
