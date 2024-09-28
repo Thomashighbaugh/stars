@@ -435,7 +435,6 @@
 - [codebushi/gatsby-starter-dimension](https://github.com/codebushi/gatsby-starter-dimension) - Gatsby.js V2 starter template based on Dimension, designed by HTML5 UP. Check out https://codebushi.com/gatsby-starters-and-themes/ for more Gatsby starters.
 - [akshat46/FlyingFox](https://github.com/akshat46/FlyingFox) - An opinionated set of configurations for firefox.
 - [channel-42/dotfiles](https://github.com/channel-42/dotfiles) - My dotfiles for my Arch-Install(s)
-- [colonelpanic8/dotfiles](https://github.com/colonelpanic8/dotfiles) - Configuration files for XMonad, Emacs, NixOS, Taffybar and more.
 - [vicky002/AlgoWiki](https://github.com/vicky002/AlgoWiki) - Repository which contains links and resources on different topics of Computer Science.
 - [georgeevans1995/Sassimate](https://github.com/georgeevans1995/Sassimate) - Sass mixin for dynamic animations
 - [sahat/megaboilerplate](https://github.com/sahat/megaboilerplate) - Handcrafted starter projects, optimized for simplicity and ease of use.
@@ -1282,7 +1281,7 @@
 - [curiousily/AI-Bootcamp](https://github.com/curiousily/AI-Bootcamp) - Self-paced bootcamp on Generative AI. Tutorials on ML fundamentals, LLMs, RAGs, LangChain, LangGraph, Fine-tuning Llama 3 & AI Agents (CrewAI)
 - [amazon-science/auto-cot](https://github.com/amazon-science/auto-cot) - Official implementation for "Automatic Chain of Thought Prompting in Large Language Models" (stay tuned & more will be updated)
 - [google-gemini/cookbook](https://github.com/google-gemini/cookbook) - Examples and guides for using the Gemini API
-- [kwinkunks/promptly](https://github.com/kwinkunks/promptly) - A prompt collection for testing and evaluation of LLMs.
+- [equinor/promptly](https://github.com/equinor/promptly) - A prompt collection for testing and evaluation of LLMs.
 - [grahamwaters/lorebook_generator_for_novelai](https://github.com/grahamwaters/lorebook_generator_for_novelai) - Generates a lorebook for novelai
 - [NoDataFound/hackGPT](https://github.com/NoDataFound/hackGPT) - I leverage OpenAI and ChatGPT to do hackerish things
 - [xiaowuc2/ChatGPT-Python-Applications](https://github.com/xiaowuc2/ChatGPT-Python-Applications) - ChatGPT Python Applications integrated with third party libraries and modules
@@ -2245,6 +2244,7 @@
 - [terlar/nix-config](https://github.com/terlar/nix-config) - Configuration for NixOS and user home (dot files).
 - [nix-community/nixos-generators](https://github.com/nix-community/nixos-generators) - Collection of image builders [maintainer=@Lassulus]
 - [maximbaz/dotfiles](https://github.com/maximbaz/dotfiles) - Configuration for NixOS, sway, kitty, helix, zsh and more
+- [colonelpanic8/dotfiles](https://github.com/colonelpanic8/dotfiles) - Configuration files for XMonad, Emacs, NixOS, Taffybar and more.
 
 ## Nunjucks 
 
