@@ -1286,7 +1286,7 @@
 - [NoDataFound/hackGPT](https://github.com/NoDataFound/hackGPT) - I leverage OpenAI and ChatGPT to do hackerish things
 - [xiaowuc2/ChatGPT-Python-Applications](https://github.com/xiaowuc2/ChatGPT-Python-Applications) - ChatGPT Python Applications integrated with third party libraries and modules
 - [verazuo/jailbreak_llms](https://github.com/verazuo/jailbreak_llms) - [CCS'24] A dataset consists of 15,140 ChatGPT prompts from Reddit, Discord, websites, and open-source datasets (including 1,405 jailbreak prompts).
-- [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 18 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
+- [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
 - [ruankie/ecrivai](https://github.com/ruankie/ecrivai) - Fully automated AI blog writer that uses LangChain and GPT type LLMs for topic selection and content generation
 - [dylanhogg/gptauthor](https://github.com/dylanhogg/gptauthor) - GPTAuthor is an AI tool for writing long form, multi-chapter stories given a story prompt.
 - [privateai/deid-examples](https://github.com/privateai/deid-examples) - Examples scripts that showcase how to use Private AI Text to de-identify, redact, hash, tokenize, mask and synthesize PII in text.
@@ -3029,7 +3029,7 @@
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 - [marcoobaid/qtile](https://github.com/marcoobaid/qtile) - Qtile configuration based on Arch Linux
 - [tinted-theming/base16-qutebrowser](https://github.com/tinted-theming/base16-qutebrowser) - base16 themes for qutebrowser
-- [InspectorMustache/base16-builder-python](https://github.com/InspectorMustache/base16-builder-python) - A base16 colorscheme builder for Python
+- [Pu-Anlai/base16-builder-python](https://github.com/Pu-Anlai/base16-builder-python) - A base16 colorscheme builder for Python
 - [Anupam-dagar/Portfolio-Generator](https://github.com/Anupam-dagar/Portfolio-Generator) - HoxNox - Portfolios Made Easy, Generate portfolios in 3 easy steps
 - [firecat53/networkmanager-dmenu](https://github.com/firecat53/networkmanager-dmenu) - Control NetworkManager via dmenu
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
