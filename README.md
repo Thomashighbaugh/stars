@@ -1654,7 +1654,7 @@
 - [PlatyPew/format-installer.nvim](https://github.com/PlatyPew/format-installer.nvim) - Neovim plugin for managing formatters/linters
 - [ellisonleao/carbon-now.nvim](https://github.com/ellisonleao/carbon-now.nvim) - Create beautiful code snippets directly from your neovim terminal
 - [brainfucksec/neovim-lua](https://github.com/brainfucksec/neovim-lua) - Neovim KISS configuration with Lua
-- [raexera/yoru](https://github.com/raexera/yoru) - 夜 - Yoru | Aesthetic and Beautiful Awesome  Environment :first_quarter_moon:
+- [raexera/yoru](https://github.com/raexera/yoru) - A custom Linux environment built on AwesomeWM
 - [yurukute/dotfiles](https://github.com/yurukute/dotfiles) - Archlinux dotfiles
 - [pansy27/Dotfiles](https://github.com/pansy27/Dotfiles) - My dotfiles repo
 - [Jeremie1001/awesome-dotfiles](https://github.com/Jeremie1001/awesome-dotfiles) - 
@@ -2511,7 +2511,7 @@
 - [arete/docker-latex](https://github.com/arete/docker-latex) - docker latex image based on glibc voidlinux
 - [SethStormR/Winter](https://github.com/SethStormR/Winter) - Winter icon set is based on WhiteSur, Bloom and Papirus icon set. Autumn is aimed for Deepin DE and elementary OS.
 - [im-yuria/My-Wallpapers](https://github.com/im-yuria/My-Wallpapers) - my wallpaper collection
-- [Blu3Jive001/Wallpapers](https://github.com/Blu3Jive001/Wallpapers) - The definitive collection of wallpapers: by Blu3Jive001
+- [bluejive/Wallpapers](https://github.com/bluejive/Wallpapers) - The definitive collection of wallpapers: by Blu3Jive001
 - [DeusMalsith/wallpaper-collection](https://github.com/DeusMalsith/wallpaper-collection) - 
 - [dennyzhang/popular-github-template](https://github.com/dennyzhang/popular-github-template) - :green_book: Repo Template: Make Your GitHub Repos More Popular
 - [TheAutodidactDidact/ObsidianMD-MSS](https://github.com/TheAutodidactDidact/ObsidianMD-MSS) - Obsidian Markdown MSS Folder
@@ -2748,7 +2748,7 @@
 - [cubinator/ext4](https://github.com/cubinator/ext4) - Reading Ext4 volumes
 - [gaurav18115/blogen](https://github.com/gaurav18115/blogen) - 🚀 BLOGEN - Your Blog Generation Companion! 📝  Effortlessly create captivating blog posts with AI-driven content generation. Input primary keywords, choose writing tones, and generate tailor-made conte
 - [Tom-Mumby/Language-model-text-generator](https://github.com/Tom-Mumby/Language-model-text-generator) - A python project which, when given a file containing some text (e.g. works of Shakespeare), aims to generate text in a similar style. It relies on the Hugging Face Transformers to finetune the GPT-2 1
-- [Pmking27/AutoTalker](https://github.com/Pmking27/AutoTalker) - The project focuses on leveraging technology to create new courses, personalize existing ones, and enhance the assessment process, ultimately contributing to the development of 21st-century skills in 
+- [prathamesh-mandavkar/AutoTalker](https://github.com/prathamesh-mandavkar/AutoTalker) - The project focuses on leveraging technology to create new courses, personalize existing ones, and enhance the assessment process, ultimately contributing to the development of 21st-century skills in 
 - [shamspias/langchain-gemini-api](https://github.com/shamspias/langchain-gemini-api) - An innovative AI conversation API leveraging Google's Gemini for multimodal understanding. Combines FastAPI, Langchain, and Redis for robust, scalable, and privacy-conscious text and image-based inter
 - [haseeb-heaven/langchain-coder](https://github.com/haseeb-heaven/langchain-coder) - Web Application that can generate code and fix bugs and run using various LLM's (GPT,Gemini,PALM)
 - [friuns2/Leaked-GPTs](https://github.com/friuns2/Leaked-GPTs) - Leaked GPTs Prompts Bypass the 25 message limit or to try out GPTs without a Plus subscription.
