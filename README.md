@@ -861,6 +861,7 @@
 - [emilamaj/bookwriter](https://github.com/emilamaj/bookwriter) - Let AI generate a complete book simply by providing a title and a description
 - [aeksco/react-typescript-web-extension-starter](https://github.com/aeksco/react-typescript-web-extension-starter) - :desktop_computer: Web Extension starter kit built with React, TypeScript, TailwindCSS, Storybook, Jest, EsLint, Prettier, and Webpack. Supports Google Chrome + Mozilla Firefox + Brave Browser + Micro
 - [jaynewey/charm-icons](https://github.com/jaynewey/charm-icons) - 🍀 Charming Open Source vector icons.
+- [carbon-design-system/carbon](https://github.com/carbon-design-system/carbon) - A design system built by IBM
 - [AI-Prompt-Genius/AI-Prompt-Genius](https://github.com/AI-Prompt-Genius/AI-Prompt-Genius) - Curate a custom library of AI Prompts
 - [CoreyGinnivan/system-uicons](https://github.com/CoreyGinnivan/system-uicons) - System UIcons is an icon library design for systems and products. Use how you want, without attribution.
 - [artcoholic/akar-icons](https://github.com/artcoholic/akar-icons) - Akar icons library as React components.
@@ -3744,7 +3745,6 @@
 - [element-plus/element-plus-icons](https://github.com/element-plus/element-plus-icons) - Main package for storing Element Plus icon resources.
 - [bytedance/IconPark](https://github.com/bytedance/IconPark) - 🍎Transform an SVG icon into multiple themes, and generate React icons，Vue icons，svg icons
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - Your friendliest open source AI automation tool ✨ Workflow automation tool 200+ integration / Enterprise automation tool / Zapier Alternative
-- [carbon-design-system/carbon](https://github.com/carbon-design-system/carbon) - A design system built by IBM
 - [radix-ui/icons](https://github.com/radix-ui/icons) - A crisp set of 15×15 icons designed by the @workos team.
 - [xarunoba/nextjs-daisyui-ssr](https://github.com/xarunoba/nextjs-daisyui-ssr) - Next.js 14 App Router + daisyUI. Switch themes and render in SSR.
 - [Aylur/ags](https://github.com/Aylur/ags) - A customizable and extensible shell
