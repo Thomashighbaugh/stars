@@ -2789,7 +2789,7 @@
 - [DevilsNerve/Python-openai-markdown-book-writer](https://github.com/DevilsNerve/Python-openai-markdown-book-writer) - OpenAI Markdown Book Writer: Auto-generate books in Markdown format using OpenAI's GPT API.
 - [moeoverflow/comicbook](https://github.com/moeoverflow/comicbook) - epub comic generator | nhentai.net | e-hentai.org | wnacg.org
 - [siddharth2016/quote-readme](https://github.com/siddharth2016/quote-readme) - A GitHub Action that allows you to place a random quote/fun-fact on your README file, from a collection of famous computer science quotes/facts !
-- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Open-source RAG Framework for building GenAI Second Brains 🧠  Build productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic,
+- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [roothaxor/Exif-Remove](https://github.com/roothaxor/Exif-Remove) - Remove exif data from all digital pictures in current directory by typing exif
 - [Nick-Gottschlich/Social-Amnesia](https://github.com/Nick-Gottschlich/Social-Amnesia) - Forget the past. Social Amnesia makes sure your social media accounts only show your posts from recent history, not from "that phase" 5 years ago.
 - [D4rk5t0rM/GTP-TextGen](https://github.com/D4rk5t0rM/GTP-TextGen) - Generate text (trying to make an AI write a book)
@@ -2827,7 +2827,7 @@
 - [ms-jpq/windows-in-docker](https://github.com/ms-jpq/windows-in-docker) - Manage Windows in Docker (easy)
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
-- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Open and self-hostable. Get answers from the internet or your docs. Use any online or local LLM (e.g gpt, claude, gemini, llama, qwen, mistral). Access from web, obsidian, emacs,
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the internet or your docs. Use any online or local LLM (e.g gpt, claude, gemini, llama, qwen, mistral). Build custom agents, personalized automati
 - [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
 - [llm-attacks/llm-attacks](https://github.com/llm-attacks/llm-attacks) - Universal and Transferable Attacks on Aligned Language Models
 - [mhmadmasrwe/w0lgix-tool](https://github.com/mhmadmasrwe/w0lgix-tool) - Some Of  MY TOOLS
@@ -3739,7 +3739,7 @@
 - [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) - Open-source tool to enforce privacy & security best-practices on Windows, macOS and Linux, because privacy is sexy
 - [iandjx/next-js-daisy](https://github.com/iandjx/next-js-daisy) - Next JS, twin.macro, typescript, daisyUI, tailwindcss template
 - [brandonsaldan/clover](https://github.com/brandonsaldan/clover) - Personal website built with NextJS, Tailwind, and Geist.
-- [rsxdalv/tts-generation-webui](https://github.com/rsxdalv/tts-generation-webui) - TTS Generation Web UI (Bark, MusicGen + AudioGen, Tortoise, RVC, Vocos, Demucs, SeamlessM4T, MAGNet, StyleTTS2, MMS)
+- [rsxdalv/tts-generation-webui](https://github.com/rsxdalv/tts-generation-webui) - TTS Generation Web UI (Bark, MusicGen + AudioGen, Tortoise, RVC, Vocos, Demucs, SeamlessM4T, MAGNet, StyleTTS2, MMS, Stable Audio, Mars5, F5-TTS, ParlerTTS)
 - [andyruwruw/andyruwruw](https://github.com/andyruwruw/andyruwruw) - Github profile README.md with dynamic images generated from React.js components. Inspired by natemoo-re
 - [rafalzawadzki/spellbook-forge](https://github.com/rafalzawadzki/spellbook-forge) - ✨ Make your LLM prompts executable and version controlled. ✨
 - [element-plus/element-plus-icons](https://github.com/element-plus/element-plus-icons) - Main package for storing Element Plus icon resources.
