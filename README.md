@@ -2782,6 +2782,7 @@
 
 ## Python 
 
+- [newm-next/newm-next](https://github.com/newm-next/newm-next) - 
 - [Soulter/hugging-chat-api](https://github.com/Soulter/hugging-chat-api) - HuggingChat Python API🤗
 - [Lxtharia/minegrub-theme](https://github.com/Lxtharia/minegrub-theme) - A Grub Theme in the style of Minecraft!
 - [conradbez/hstream](https://github.com/conradbez/hstream) - Hyper Stream
@@ -2814,7 +2815,6 @@
 - [dortania/OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher) - Experience macOS just like before
 - [praj2408/End-To-End-Resume-ATS-Tracking-LLM-Project-With-Google-Gemini-Pro](https://github.com/praj2408/End-To-End-Resume-ATS-Tracking-LLM-Project-With-Google-Gemini-Pro) - This is a project aiming to optimize the recruitment process. It integrates an advanced Applicant Tracking System with Google Gemini Pro, streamlining resume parsing, keyword matching, and candidate e
 - [ekramasif/ATS_Resume_Expert](https://github.com/ekramasif/ATS_Resume_Expert) - ATS Resume Expert uses AI to optimize your resume for Applicant Tracking Systems (ATS). Get past the filter & reach human reviewers. Increase your chances, land your dream job!
-- [luijait/DarkGPT](https://github.com/luijait/DarkGPT) - DarkGPT is an OSINT assistant based on GPT-4-200K (recommended use) designed to perform queries on leaked databases, thus providing an artificial intelligence assistant that can be useful in your trad
 - [adamidarrha/TopGptPrompts](https://github.com/adamidarrha/TopGptPrompts) - the leaked prompts from the best performing gpts
 - [javi22020/Prompt-Generator](https://github.com/javi22020/Prompt-Generator) - Use this project to create your own random prompts for Stable Diffusion! Besides, you'll be able to add your own adjectives, objects and styles in the code.
 - [bigscience-workshop/promptsource](https://github.com/bigscience-workshop/promptsource) - Toolkit for creating, sharing and using natural language prompts.
