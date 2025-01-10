@@ -359,7 +359,7 @@
 - [Godiesc/firefox-gx](https://github.com/Godiesc/firefox-gx) - Opera GX Skin for Firefox
 - [elkowar/dots-of-war](https://github.com/elkowar/dots-of-war) - My dotfiles, mostly. This is the wild west. don't expect to understand this mess. Don't try to understand this mess. This serves as a good way to backup my configs, nothing more.
 - [Soft-Bred/Brave-Fox](https://github.com/Soft-Bred/Brave-Fox) - Firefox Stylesheet To Add Brave-Like Elements
-- [ayushhroyy/elegantfox](https://github.com/ayushhroyy/elegantfox) - firefox themed context and bookmark menus
+- [ayushhroyy/elegantfox](https://github.com/ayushhroyy/elegantfox) - An "elegent" theme for Firefox
 - [siduck/dotfiles](https://github.com/siduck/dotfiles) - dotfiles for my beautiful rices!
 - [khaneliman/dotfiles](https://github.com/khaneliman/dotfiles) - Multi platform and desktop environment dotfiles for developers.
 - [shvedes/dotfiles](https://github.com/shvedes/dotfiles) - My .dotfiles
@@ -3375,7 +3375,7 @@
 - [mikeroyal/Linux-Mint-Guide](https://github.com/mikeroyal/Linux-Mint-Guide) - Linux Mint Guide
 - [gh0stzk/dotfiles](https://github.com/gh0stzk/dotfiles) - BSPWM environment with 18 themes. With a theme selector to change on the fly.
 - [olivierodo/Awesome-CV-action](https://github.com/olivierodo/Awesome-CV-action) - A GitHub action to keep you Awesome CV up to date through continuous integration
-- [fantasy0x1/dotfiles](https://github.com/fantasy0x1/dotfiles) - Dotfiles for my Arch Linux daily environment
+- [fantasy0x1/dotfiles](https://github.com/fantasy0x1/dotfiles) - Dotfiles for Arch Linux & MacOS
 - [ericdallo/dotfiles](https://github.com/ericdallo/dotfiles) - Dotfiles for my NixOS system based on Dracula theme
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
 - [shapeshed/notes](https://github.com/shapeshed/notes) - Simple, lightweight note taking from the command line
