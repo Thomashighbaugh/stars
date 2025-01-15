@@ -155,7 +155,7 @@
 - [pijulius/picom](https://github.com/pijulius/picom) - A lightweight compositor for X11
 - [dccsillag/picom](https://github.com/dccsillag/picom) - A lightweight compositor for X11
 - [hc0d3r/alfheim](https://github.com/hc0d3r/alfheim) - a linux process hacker tool
-- [nullchilly/CatNvim](https://github.com/nullchilly/CatNvim) - C at Nvim
+- [rewhile/CatNvim](https://github.com/rewhile/CatNvim) - C at Nvim
 - [bagyoni/procedural-wallpapers](https://github.com/bagyoni/procedural-wallpapers) - A collection of wallpaper generators
 - [RMerl/asuswrt-merlin.ng](https://github.com/RMerl/asuswrt-merlin.ng) - Third party firmware for Asus routers (newer codebase)
 - [VeltOS/graphene-desktop](https://github.com/VeltOS/graphene-desktop) - The default desktop environment of VeltOS
@@ -381,7 +381,7 @@
 - [zakuradev/dotfiles](https://github.com/zakuradev/dotfiles) - Awesome OpenboxWM Custom Environment!
 - [zombieFox/voltTab](https://github.com/zombieFox/voltTab) - 
 - [nullgorithm/fonts](https://github.com/nullgorithm/fonts) - My font collection I use for my Windows machine.
-- [saminyasar004/coding-fonts](https://github.com/saminyasar004/coding-fonts) - Here I put all of my fonts that I use while I'm coding.
+- [saminyasar004/coding-fonts](https://github.com/saminyasar004/coding-fonts) - 🎨 A curated collection of the most popular coding fonts for developers. Find your perfect font for coding, designed to improve readability and aesthetics. Explore, test, and elevate your coding experi
 - [johnpaulada/pandoc-markdown-book-template](https://github.com/johnpaulada/pandoc-markdown-book-template) - A template for creating epub books from markdown using pandoc.
 - [wikiti/pandoc-book-template](https://github.com/wikiti/pandoc-book-template) - A simple Pandoc template to build documents and ebooks.
 - [privaltr/Awesome-Theme](https://github.com/privaltr/Awesome-Theme) - Configs for my Arch-Linux setup.
@@ -1022,7 +1022,7 @@
 - [keymorph/notes](https://github.com/keymorph/notes) - A note-taking web application.
 - [keymorph/polywidget](https://github.com/keymorph/polywidget) - A free web application with helpful widgets.
 - [rodydavis/material-icon-pack-stream-deck](https://github.com/rodydavis/material-icon-pack-stream-deck) - Material Design icons for the Stream Deck
-- [paperwm/PaperWM](https://github.com/paperwm/PaperWM) - Tiled scrollable window management for Gnome Shell
+- [paperwm/PaperWM](https://github.com/paperwm/PaperWM) - Tiled scrollable window management for GNOME Shell
 - [DavidWells/advanced-markdown](https://github.com/DavidWells/advanced-markdown) - Learn about advanced markdown techniques
 - [DavidWells/markdown-magic](https://github.com/DavidWells/markdown-magic) - 💫  Automatically format markdown files via comment blocks using source code, external data & custom transforms.
 - [notion-enhancer/notion-enhancer](https://github.com/notion-enhancer/notion-enhancer) - An enhancer/customiser for the all-in-one productivity workspace Notion
@@ -1729,7 +1729,7 @@
 - [Elv13/luakit-config](https://github.com/Elv13/luakit-config) - My luakit config
 - [LunarVim/Neovim-from-scratch](https://github.com/LunarVim/Neovim-from-scratch) - 📚 A Neovim config designed from scratch to be understandable
 - [luakit/luakit](https://github.com/luakit/luakit) - Fast, small, webkit based browser framework extensible by Lua.
-- [Allaman/nvim](https://github.com/Allaman/nvim) - Straightforward and pure Lua based Neovim configuration for my work as DevOps/Cloud Engineer with batteries included for Python, Golang, and, of course, YAML
+- [Allaman/nvim](https://github.com/Allaman/nvim) - Minimal, blazingly fast, and pure Lua based Neovim configuration for my work as DevOps/Cloud Engineer with batteries included for Python, Golang, and, of course, YAML
 - [xiyaowong/nvim-cursorword](https://github.com/xiyaowong/nvim-cursorword) - highlight the word under the cursor.
 - [UltiRequiem/UltiVim](https://github.com/UltiRequiem/UltiVim) - 🌕 A blazing fast and highly documented configuration to serve as a guide.
 - [Jim8Knopf/awesome](https://github.com/Jim8Knopf/awesome) - This will be my awesomeWM config file that fittes my need
@@ -1777,7 +1777,7 @@
 - [nekonako/xresources-nvim](https://github.com/nekonako/xresources-nvim) - 🎨 Neovim colorscheme based on your xresources color
 - [lewis6991/impatient.nvim](https://github.com/lewis6991/impatient.nvim) - Improve startup time for Neovim
 - [s1n7ax/nvim-comment-frame](https://github.com/s1n7ax/nvim-comment-frame) - Detects the language using treesitter and adds a comment block
-- [n3wborn/nvim](https://github.com/n3wborn/nvim) - My own NVIM (&gt;=NVIM v0.11.0-dev-1335+g3f1d09bc94) lua config
+- [n3wborn/nvim](https://github.com/n3wborn/nvim) - My own NVIM (&gt;=NVIM v0.11.0-dev-1545+ga4f575abd8) lua config
 - [koniu/awesome-configs](https://github.com/koniu/awesome-configs) - koniu's awesome config
 - [kurbel/awesome-config](https://github.com/kurbel/awesome-config) - configuration files for the awesome window manager (awesomewm)
 - [nvim-lua/popup.nvim](https://github.com/nvim-lua/popup.nvim) - [WIP] An implementation of the Popup API from vim in Neovim. Hope to upstream when complete
@@ -2125,7 +2125,6 @@
 - [donovanglover/nix-config](https://github.com/donovanglover/nix-config) - My NixOS configuration with Nix Flakes, Home Manager, Stylix, and Hyprland.
 - [srid/nix-config](https://github.com/srid/nix-config) - My NixOS configuration (DEPRECATED)
 - [lucernae/nixos-pi](https://github.com/lucernae/nixos-pi) - How to install NixOS on raspberry PI
-- [samiulbasirfahim/melted.flakes](https://github.com/samiulbasirfahim/melted.flakes) - Xenoxanite's nixos configuration.
 - [qbit/xin](https://github.com/qbit/xin) - My nix setup
 - [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@rycee]
 - [RiscadoA/nixconfig](https://github.com/RiscadoA/nixconfig) - My NixOS configuration files.
@@ -2376,7 +2375,7 @@
 - [microsoft/prompts-for-edu](https://github.com/microsoft/prompts-for-edu) - 
 - [abilzerian/LLM-Prompt-Library](https://github.com/abilzerian/LLM-Prompt-Library) - Advanced Code and Text Manipulation Prompts for Various LLMs. Suitable for Siri, GPT-4o, Claude, Llama3, Gemini, and other high-performance open-source LLMs.
 - [ChatTeach/AutoGPT-Prompt](https://github.com/ChatTeach/AutoGPT-Prompt) - One Prompt that can Turned ChatGPT into AutoGPT.
-- [phillipclapham/neuroweaver](https://github.com/phillipclapham/neuroweaver) - Unlock natural genius with Neuroweaver – a living mental operating system that evolves human and AI cognitive capabilities. Through the dance of structure and spontaneity, discover extraordinary probl
+- [phillipclapham/neuroweaver](https://github.com/phillipclapham/neuroweaver) - A revolutionary Mental Operating System that unlocks your innate genius and peak mental performance through powerful cognitive patterns and principles, transforming how you live, think, learn, solve c
 - [successfulstudy/promptoftheyear](https://github.com/successfulstudy/promptoftheyear) - In the evolving world of Large Language Models (LLMs), crafting effective prompts has become an essential skill. That's why I've created this collection, showcasing the most impactful prompts of the y
 - [jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts) - Collection of leaked system prompts
 - [siempay/BlueWillowPromptsList](https://github.com/siempay/BlueWillowPromptsList) - A reference containing Styles and Keywords that you can use with Stable diffusion BlueWillow AI. There are also pages showing resolution comparison, image weights, and much more!
@@ -3806,6 +3805,7 @@
 
 ## TypeScript 
 
+- [Serpentian/AlfheimOS](https://github.com/Serpentian/AlfheimOS) - ❄️ AlfheimOS (NixOS + home-manager + hyprland + ags + neovim)
 - [cachix/cachix-action](https://github.com/cachix/cachix-action) - Build software only once and put it in a global cache
 - [jakobhoeg/nextjs-ollama-llm-ui](https://github.com/jakobhoeg/nextjs-ollama-llm-ui) - Fully-featured web interface for Ollama LLMs
 - [OpenPipe/OpenPipe](https://github.com/OpenPipe/OpenPipe) - Turn expensive prompts into cheap fine-tuned models
