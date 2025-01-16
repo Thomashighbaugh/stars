@@ -314,6 +314,7 @@
 - [angelbruni/BeautyFox](https://github.com/angelbruni/BeautyFox) - Internet Explorer 9+ theme for Firefox 115 ESR
 - [ashish-kus/MiniSthetic_Firefox](https://github.com/ashish-kus/MiniSthetic_Firefox) - SlimFox is a minimalist dark theme for Firefox that emphasizes simplicity and elegance. Crafted for a clean, personal browsing experience, it enhances usability with subtle, refined styling.
 - [AlbusPercivalDumbledore/SweetDarkFox](https://github.com/AlbusPercivalDumbledore/SweetDarkFox) - Firefox CSS, based on Sweet Dark GTK theme's colors
+- [GhoulBoii/foxdots](https://github.com/GhoulBoii/foxdots) - GhoulBoii's Firefox Dots
 - [thinkingjimmy/Learning-Prompt](https://github.com/thinkingjimmy/Learning-Prompt) - Free prompt engineering online course. ChatGPT and Midjourney tutorials are now included!
 - [KiKaraage/ArcWTF](https://github.com/KiKaraage/ArcWTF) - A userChrome.css theme to bring Arc Browser look on Windows to Firefox. Work with Windows, Linux and macOS ✨
 - [soulhotel/FF-ULTIMA](https://github.com/soulhotel/FF-ULTIMA) - The Firefox theme with too many options.. FF Ultima.
@@ -1081,6 +1082,7 @@
 - [BlankOn/blankon-installer](https://github.com/BlankOn/blankon-installer) - 
 - [ashishBharadwaj/flawesome](https://github.com/ashishBharadwaj/flawesome) - Productivity Tool
 - [rahul-jha98/Artistify.ai](https://github.com/rahul-jha98/Artistify.ai) - Web-app to generate artistically styled images generated using Style Transfer Model running in the browser.
+- [Bhupesh-V/til](https://github.com/Bhupesh-V/til) - Personal Wiki of Interesting things I learn every day at the intersection of software, life & stuff a.k.a my second brain 🧠️
 - [mvximenko/flat-ui-colors](https://github.com/mvximenko/flat-ui-colors) - Clone of Flat UI Colors
 - [mvximenko/gg](https://github.com/mvximenko/gg) - Game Finder built with Next
 - [mvximenko/rpg-card](https://github.com/mvximenko/rpg-card) - RPG Card Generator based on Magic: The Gathering
@@ -2435,7 +2437,6 @@
 - [michaelampr/jam](https://github.com/michaelampr/jam) - Jam icons is a set of SVG icons designed for web projects, illustrations, print projects, etc. Licensed under MIT
 - [kudakurage/LigatureSymbols](https://github.com/kudakurage/LigatureSymbols) - Ligature Symbols is WebFont project to display the symbol with a ligature features. This Font is licensed under the SIL Open Font License.
 - [icons8/WPF-UI-Framework](https://github.com/icons8/WPF-UI-Framework) - A set of UI controls that can be used for designing better user interfaces for Windows.
-- [raklaptudirm/raklaptudirm](https://github.com/raklaptudirm/raklaptudirm) - please stop starring this repo ;-;
 - [Templarian/MaterialDesign](https://github.com/Templarian/MaterialDesign) - ✒7000+ Material Design Icons from the Community
 - [halfmage/pixelarticons](https://github.com/halfmage/pixelarticons) - 👾 Beautiful pixel icons. For the pixel vibes.
 - [halfmage/majesticons](https://github.com/halfmage/majesticons) - 👑 Free Version – A versatile, beautiful, and scalable iconset. 760 icons each in line and solid style.
@@ -2773,7 +2774,6 @@
 
 ## PowerShell 
 
-- [GhoulBoii/foxdots](https://github.com/GhoulBoii/foxdots) - GhoulBoii's Firefox Dots
 - [alexfrancow/badusb_botnet](https://github.com/alexfrancow/badusb_botnet) - :busts_in_silhouette::smiling_imp: Infect a pc with badusb and establish a connection through telegram.
 - [dotnet/core](https://github.com/dotnet/core) - .NET news, announcements, release notes, and more!
 - [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) - A command-line installer for Windows.
@@ -2830,7 +2830,7 @@
 - [haseeb-heaven/langchain-coder](https://github.com/haseeb-heaven/langchain-coder) - Web Application that can generate code and fix bugs and run using various LLM's (GPT,Gemini,PALM)
 - [friuns2/Leaked-GPTs](https://github.com/friuns2/Leaked-GPTs) - Leaked GPTs Prompts Bypass the 25 message limit or to try out GPTs without a Plus subscription.
 - [h2oai/h2o-llmstudio](https://github.com/h2oai/h2o-llmstudio) - H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs. Documentation: https://docs.h2o.ai/h2o-llmstudio/
-- [AJaySi/AI-Writer](https://github.com/AJaySi/AI-Writer) - ALwrity - All in One AI Content Platform. AI Content generation for Website, Social media & Ad copywriting. Prevents AI hallucinations, Web Researched factual, SEO optimized content. Get blog Images. 
+- [AJaySi/AI-Writer](https://github.com/AJaySi/AI-Writer) - ALwrity - All-in-One AI Content Generation Platform. Content generation for Website, Social media & Ad copywriting. No AI hallucinations, Web Researched, SEO optimized content. Generate Text, Image, A
 - [different-ai/embedbase-ava](https://github.com/different-ai/embedbase-ava) - Obsidian + Embedbase = Ava
 - [databricks/dbrx](https://github.com/databricks/dbrx) - Code examples and resources for DBRX, a large language model developed by Databricks
 - [lucasmccabe/emailGPT](https://github.com/lucasmccabe/emailGPT) - a quick and easy interface to generate emails with ChatGPT
@@ -3006,7 +3006,6 @@
 - [Python-World/python-mini-projects](https://github.com/Python-World/python-mini-projects) - A collection of simple python mini projects to enhance your python skills
 - [DedSecInside/Awesome-Scripts](https://github.com/DedSecInside/Awesome-Scripts) - A collection of awesome scripts from developers around the globe.
 - [flaport/home](https://github.com/flaport/home) - My Portable Linux Home Folder
-- [Bhupesh-V/til](https://github.com/Bhupesh-V/til) - Personal Wiki of Interesting things I learn every day at the intersection of software, life & stuff a.k.a my second brain 🧠️
 - [pinry/pinry](https://github.com/pinry/pinry) - Pinry, a tiling image board system for people who want to save, tag, and share images, videos and webpages in an easy to skim through format. It's open-source and self-hosted.
 - [acierp/CryptoChecker](https://github.com/acierp/CryptoChecker) - A discord.py-based bitcoin confirmations checker and notifier.
 - [Schroedinger-Hat/ImageGoNord-pip](https://github.com/Schroedinger-Hat/ImageGoNord-pip) - A tool that can convert your rgb images to nordtheme palette
