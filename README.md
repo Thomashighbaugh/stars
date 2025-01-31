@@ -787,7 +787,6 @@
 - [lokesh-krishna/dotfiles](https://github.com/lokesh-krishna/dotfiles) - My dotfiles
 - [mavroudisv/plain-academic](https://github.com/mavroudisv/plain-academic) - A truly simple website template for academics
 - [randal-sean-harrison/academic-website-template-bs3](https://github.com/randal-sean-harrison/academic-website-template-bs3) - A simple template for an academic website using Bootstrap
-- [mayhemantt/Portfolio-Website](https://github.com/mayhemantt/Portfolio-Website) - Free to use portfolio website. Dont forget to start. Thank you.
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [visualjerk/vue-cion-design-system](https://github.com/visualjerk/vue-cion-design-system) - CION - Design system boilerplate for Vue.js
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
@@ -1329,6 +1328,7 @@
 - [Drizer909/GPTbook](https://github.com/Drizer909/GPTbook) - Made fully ai generater book version
 - [mshumer/gpt-author](https://github.com/mshumer/gpt-author) - 
 - [AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) - FinGPT: Open-Source Financial Large Language Models!  Revolutionize 🔥    We release the trained model on HuggingFace.
+- [hollowstrawberry/kohya-colab](https://github.com/hollowstrawberry/kohya-colab) - Accessible Google Colab notebooks for Stable Diffusion Lora training, based on the work of kohya-ss and Linaqruf
 - [OpenBioLink/ThoughtSource](https://github.com/OpenBioLink/ThoughtSource) - A central, open resource for data and tools related to chain-of-thought reasoning in large language models. Developed @ Samwald research group: https://samwald.info/
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [Nixtla/nixtla](https://github.com/Nixtla/nixtla) - TimeGPT-1: production ready pre-trained Time Series Foundation Model  for forecasting and anomaly detection. Generative pretrained transformer for time series trained on over 100B data points. It's ca
@@ -2005,6 +2005,7 @@
 
 ## Nix 
 
+- [ryantm/agenix](https://github.com/ryantm/agenix) - age-encrypted secrets for NixOS and Home manager
 - [nix-community/impermanence](https://github.com/nix-community/impermanence) - Modules to help you handle persistent state on systems with ephemeral root storage [maintainer=@talyz]
 - [jackdbd/nix-config](https://github.com/jackdbd/nix-config) - ❄️ NixOS and Home Manager configurations for my machines
 - [rubyowo/dotfiles](https://github.com/rubyowo/dotfiles) - dump for garbage files
@@ -2906,7 +2907,6 @@
 - [Ruu3f/freeGPT](https://github.com/Ruu3f/freeGPT) - freeGPT provides free access to text and image generation models.
 - [tuan3w/obsidian-template](https://github.com/tuan3w/obsidian-template) - Starter templates for Obsidian
 - [AI-Guru/writebookswithai](https://github.com/AI-Guru/writebookswithai) - Writing books with AI.
-- [hollowstrawberry/kohya-colab](https://github.com/hollowstrawberry/kohya-colab) - Accessible Google Colab notebooks for Stable Diffusion Lora training, based on the work of kohya-ss and Linaqruf
 - [protectai/ai-exploits](https://github.com/protectai/ai-exploits) - A collection of real world AI/ML exploits for responsibly disclosed vulnerabilities
 - [stjordanis/betterprompt](https://github.com/stjordanis/betterprompt) - Test suite for LLM prompts
 - [grandchild/autohidewibox](https://github.com/grandchild/autohidewibox) - Execute awesome wm commands on ModKey press/release
@@ -3011,7 +3011,7 @@
 - [eventuallyc0nsistent/gen-cover-letter](https://github.com/eventuallyc0nsistent/gen-cover-letter) - Generating cover letters is easy as writing to a CSV file and a sample cover letter.
 - [archivy/archivy](https://github.com/archivy/archivy) - Archivy is a self-hostable knowledge repository that allows you to learn and retain information in your own personal and extensible wiki.
 - [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / TypeScript / Python / C# / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / TypeScript / Python / C# / PHP / Go cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
 - [audibleblink/doxycannon](https://github.com/audibleblink/doxycannon) - A poorman's proxycannon and botnet, using docker, ovpn files, tor nodes, and dante socks5 proxies
 - [KCarretto/Arsenal](https://github.com/KCarretto/Arsenal) - Extensible Red Team Framework
 - [Tmpertor/Raven-Storm](https://github.com/Tmpertor/Raven-Storm) - Raven-Storm is a powerful DDoS toolkit for penetration tests, including attacks for several protocols written in python. Takedown many connections using several exotic and classic protocols.
