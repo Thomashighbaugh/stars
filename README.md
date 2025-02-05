@@ -312,7 +312,6 @@
 
 - [Astromations/LunarFox](https://github.com/Astromations/LunarFox) - neat lil' firefox theme
 - [sameemul-haque/dotfiles](https://github.com/sameemul-haque/dotfiles) - ✨ Hyprland + Waybar with Catppuccin theme • Arch Linux
-- [Tanvir1337x/firefox-config](https://github.com/Tanvir1337x/firefox-config) - Personal Firefox (Firefox-ESR) Browser Configuration
 - [etiennegnome/BottleGlass](https://github.com/etiennegnome/BottleGlass) - BottleGlass GTK3/Gnome theme
 - [angelbruni/BeautyFox](https://github.com/angelbruni/BeautyFox) - Internet Explorer 9+ theme for Firefox 115 ESR
 - [ashish-kus/MiniSthetic_Firefox](https://github.com/ashish-kus/MiniSthetic_Firefox) - SlimFox is a minimalist dark theme for Firefox that emphasizes simplicity and elegance. Crafted for a clean, personal browsing experience, it enhances usability with subtle, refined styling.
@@ -552,6 +551,7 @@
 
 ## Emacs Lisp 
 
+- [port19x/dotfiles](https://github.com/port19x/dotfiles) - My Linux Mint Configuration
 - [cjbassi/config](https://github.com/cjbassi/config) - 
 - [aruZeta/Dotfiles.nix](https://github.com/aruZeta/Dotfiles.nix) - My reproducible system config made with nix
 - [shtwzrd/friar](https://github.com/shtwzrd/friar) - Emacs REPL for interacting with AwesomeWM
@@ -700,7 +700,7 @@
 - [stephenhutchings/typicons.font](https://github.com/stephenhutchings/typicons.font) - 336 pixel perfect, all-purpose vector icons in a web-font kit
 - [krystonschwarze/coolicons](https://github.com/krystonschwarze/coolicons) - coolicons is a carefully designed collection of 440+ icons with a focus on simplicity and consistency. Perfectly suited for web, application and mobile design.
 - [ritaly/HTML-CSS-CV-demo](https://github.com/ritaly/HTML-CSS-CV-demo) - Template for Resume/CV in HTML and CSS
-- [aledipa/Free-GPT4-WEB-API](https://github.com/aledipa/Free-GPT4-WEB-API) - FreeGPT4-WEB-API is a python server that allows you to have a self-hosted GPT-4 Unlimited and Free WEB API, via the latest Bing's AI (and much more).
+- [aledipa/Free-GPT4-WEB-API](https://github.com/aledipa/Free-GPT4-WEB-API) - FreeGPT4-WEB-API is an easy to use python server that allows you to have a self-hosted, Unlimited and Free WEB API of the latest AI like DeepSeek R1 and GPT-4o
 - [Ja-sonYun/yew-template-for-github-io](https://github.com/Ja-sonYun/yew-template-for-github-io) - Template of yew project, using tailwind and webpack for css, trunk for build and serve, deployable as is for github.io
 - [aminblm/awesome-chatgpt-content-creation-prompts](https://github.com/aminblm/awesome-chatgpt-content-creation-prompts) - This repo includes ChatGPT content creation prompt curation to use ChatGPT for content creation better.
 - [jaantollander/Markdown-Templates](https://github.com/jaantollander/Markdown-Templates) - Templates for creating scientific, academic and technical documents using Markdown and Pandoc that support equations, code blocks, citations, Unicode symbols and vector graphics.
@@ -853,6 +853,7 @@
 
 ## JavaScript 
 
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, and more.
 - [kustodian/extended-statusbar](https://github.com/kustodian/extended-statusbar) - Firefox addon which adds a statusbar with speed, percentage, time and loaded size (similar to Opera's one)
 - [Spiderpig86/Spiderpig86](https://github.com/Spiderpig86/Spiderpig86) - :gem: Me. This is a self-updating README. Star it if you like it :)
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
@@ -1454,7 +1455,6 @@
 - [stevearc/dressing.nvim](https://github.com/stevearc/dressing.nvim) - Neovim plugin to improve the default vim.ui interfaces
 - [dankdezpair/hypr.files-V2](https://github.com/dankdezpair/hypr.files-V2) - 
 - [jcmuller/my-awesome-wm-config](https://github.com/jcmuller/my-awesome-wm-config) - My laptop's Awesome WM configuration
-- [Tanvir1337x/flex](https://github.com/Tanvir1337x/flex) - Extension Module for My AwesomeWM Configuration
 - [HoNamDuong/.dotfiles](https://github.com/HoNamDuong/.dotfiles) - My dotfiles for Linux
 - [PassiveLemon/lemonix](https://github.com/PassiveLemon/lemonix) - The Dotfiles for my NixOS systems
 - [gnomengineer/simpledesktop](https://github.com/gnomengineer/simpledesktop) - a lightweight and simple arch distro with own customization
@@ -1666,7 +1666,7 @@
 - [msaifi03/turbo-awesome](https://github.com/msaifi03/turbo-awesome) - AwesomeWM dotfiles; archived, see my repo all-the-dots
 - [nuxshed/dotfiles](https://github.com/nuxshed/dotfiles) - pls help
 - [Kasper24/KwesomeDE](https://github.com/Kasper24/KwesomeDE) - A desktop environment made in AwesomeWM
-- [javacafe01/awesome-wallpaper](https://github.com/javacafe01/awesome-wallpaper) - 
+- [gokulswam/awesome-wallpaper](https://github.com/gokulswam/awesome-wallpaper) - 
 - [rochacbruno/dotfiles](https://github.com/rochacbruno/dotfiles) - My Environment Configurations
 - [Crylia/crylia-theme](https://github.com/Crylia/crylia-theme) - A theme for AwesomeWM
 - [b0o/nvim-conf](https://github.com/b0o/nvim-conf) - ☄ Maddison's Neovim configuration!
@@ -1997,6 +1997,7 @@
 
 ## Mustache 
 
+- [danth/stylix](https://github.com/danth/stylix) - System-wide colorscheming and typography for NixOS
 - [kdrag0n/base16-kitty](https://github.com/kdrag0n/base16-kitty) - Base16 color scheme template for kitty
 
 ## Nim 
@@ -2007,6 +2008,7 @@
 
 ## Nix 
 
+- [SenchoPens/base16.nix](https://github.com/SenchoPens/base16.nix) - Theme applications with your favourite base16 colorschemes in Nix
 - [ryantm/agenix](https://github.com/ryantm/agenix) - age-encrypted secrets for NixOS and Home manager
 - [nix-community/impermanence](https://github.com/nix-community/impermanence) - Modules to help you handle persistent state on systems with ephemeral root storage [maintainer=@talyz]
 - [jackdbd/nix-config](https://github.com/jackdbd/nix-config) - ❄️ NixOS and Home Manager configurations for my machines
@@ -2064,7 +2066,6 @@
 - [ericmaustin/nixos-nebula](https://github.com/ericmaustin/nixos-nebula) - nixos flake for nebula
 - [Prometheus7435/nix-config](https://github.com/Prometheus7435/nix-config) - NixOS flake config with KDE and ZFS
 - [NixOS/nixos-hardware](https://github.com/NixOS/nixos-hardware) - A collection of NixOS modules covering hardware quirks.
-- [danth/stylix](https://github.com/danth/stylix) - System-wide colorscheming and typography for NixOS
 - [GaetanLepage/nix-config](https://github.com/GaetanLepage/nix-config) - 
 - [AlephNought0/Faery](https://github.com/AlephNought0/Faery) - My NixOS flake with the goal to have the most bleeding-edge technology in it.
 - [ardishko/OuterHeaven](https://github.com/ardishko/OuterHeaven) - My NixOS configuration that I try to keep simple and readable.
@@ -2345,6 +2346,8 @@
 
 ## Others 
 
+- [ossu/math](https://github.com/ossu/math) - 🧮  Path to a free self-taught education in Mathematics!
+- [n8n-io/self-hosted-ai-starter-kit](https://github.com/n8n-io/self-hosted-ai-starter-kit) - The Self-hosted AI Starter Kit is an open-source template that quickly sets up a local AI environment. Curated by n8n, it provides essential tools for creating secure, self-hosted AI workflows.
 - [Vezart/Tesseract](https://github.com/Vezart/Tesseract) - 
 - [saifulapm/my-fonts](https://github.com/saifulapm/my-fonts) - My Coding Fonts
 - [fearlessgeekmedia/Awesome-Ghostty](https://github.com/fearlessgeekmedia/Awesome-Ghostty) - A list of tools, shaders, and more for Ghostty, an awesome GPU-accelerated terminal emulator.
@@ -2422,7 +2425,7 @@
 - [D3vil0p3r/D3vil0p3r](https://github.com/D3vil0p3r/D3vil0p3r) - 
 - [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) - Awesome-LLM: a curated list of Large Language Model
 - [Xunzhuo/Xunzhuo](https://github.com/Xunzhuo/Xunzhuo) - About me
-- [taishi-i/awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories) - A curated list of resources dedicated to open source GitHub repositories related to ChatGPT
+- [taishi-i/awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories) - A curated list of resources dedicated to open source GitHub repositories related to ChatGPT and OpenAI API
 - [pingan8787/awesome-ai-tools](https://github.com/pingan8787/awesome-ai-tools) - Finding the AI tools you need!
 - [mustvlad/ChatGPT-System-Prompts](https://github.com/mustvlad/ChatGPT-System-Prompts) - This repository contains a collection of the best system prompts for ChatGPT, a conversational AI model developed by OpenAI. Star this repository to help us reach 5,000 stars!
 - [T4P4N/Awesome-Termux](https://github.com/T4P4N/Awesome-Termux) - Awesome Termux :- Bash Scripts, Wiki, Articles,Shells & Many More...
@@ -2801,6 +2804,7 @@
 
 ## Python 
 
+- [oumi-ai/oumi](https://github.com/oumi-ai/oumi) - Everything you need to build state-of-the-art foundation models, end-to-end.
 - [KazKozDev/NovelGenerator](https://github.com/KazKozDev/NovelGenerator) - 📚 NovelGenerator - AI-powered fiction book generator that uses Ollama's LLMs to create complete novels with coherent plot structures, developed characters and multiple writing styles.
 - [langroid/langroid](https://github.com/langroid/langroid) - Harness LLMs with Multi-Agent Programming
 - [langroid/langroid-examples](https://github.com/langroid/langroid-examples) - Using Langroid's Multi-Agent Framework to Build LLM Apps
@@ -3362,6 +3366,7 @@
 
 ## Shell 
 
+- [dodeeric/pdf2epubEX](https://github.com/dodeeric/pdf2epubEX) - Tool to convert a PDF file (myfile.pdf) to a fixed layout ePub file (myfile.epub). The layout is perfectly retained and all the fonts are embedded.
 - [cancng/fonts](https://github.com/cancng/fonts) - 
 - [MacroPower/MacroPower](https://github.com/MacroPower/MacroPower) - Profile with dynamic realtime coding stats.
 - [abxh/dotfiles](https://github.com/abxh/dotfiles) - my dotfiles
@@ -3418,7 +3423,6 @@
 - [GDR/dot](https://github.com/GDR/dot) - My personal config repo for my NixOS configurations. I use Nix flakes to manage dependencies and reproducibility.
 - [arminveres/dotfiles](https://github.com/arminveres/dotfiles) - Repository for personal Unix config files
 - [svrvt/re_tile](https://github.com/svrvt/re_tile) - dotfiles window manager
-- [port19x/dotfiles](https://github.com/port19x/dotfiles) - My Linux Mint Configuration
 - [AmitGolden/dotfiles](https://github.com/AmitGolden/dotfiles) - AmitGold's catppuccin dotfiles!
 - [notKamui/dotfiles](https://github.com/notKamui/dotfiles) - What's hidden sometimes makes you who you are
 - [pimterry/notes](https://github.com/pimterry/notes) - :pencil: Simple delightful note taking, with more unix and less lock-in.
@@ -3466,7 +3470,7 @@
 - [noctuid/dotfiles](https://github.com/noctuid/dotfiles) - Mouseless Workflow (WIP)
 - [CachyOS/CachyOS-Live-ISO](https://github.com/CachyOS/CachyOS-Live-ISO) - 
 - [CachyOS/CachyOS-Settings](https://github.com/CachyOS/CachyOS-Settings) - Settings used for CachyOS
-- [ivan-hc/AM](https://github.com/ivan-hc/AM) - AppImage Package Manager: Install, update and sandbox all AppImages, system-wide or locally. Use over 2500 AppImages and portable apps for GNU/Linux from its extensible and ever-growing AUR-inspired d
+- [ivan-hc/AM](https://github.com/ivan-hc/AM) - AppImage Package Manager: Install, update and sandbox all AppImages, system-wide or locally. 2500 AppImages and portable apps for GNU/Linux are available in its extensible and ever-growing AUR-inspire
 - [metis-os/metis-sideload](https://github.com/metis-os/metis-sideload) - // Ofiicial installer for @metis-os
 - [metis-os/repo-recon](https://github.com/metis-os/repo-recon) - 📦 Repository: recon, Hacking tools // pkgs
 - [archon-linux/archon-iso](https://github.com/archon-linux/archon-iso) - 
@@ -3833,6 +3837,7 @@
 
 ## TypeScript 
 
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Qwen /  DeepSeek), Knowledge Base (file upload / knowledge management 
 - [alexander-densley/portfolio](https://github.com/alexander-densley/portfolio) - 
 - [Serpentian/AlfheimOS](https://github.com/Serpentian/AlfheimOS) - ❄️ AlfheimOS (NixOS + home-manager + hyprland + ags + neovim)
 - [cachix/cachix-action](https://github.com/cachix/cachix-action) - Build software only once and put it in a global cache
