@@ -1,0 +1,16 @@
+# Pushes the contents of the repo to Codeberg repo for backup/redundancy
+name: Mirror Repository to Codeberg
+on:
+  workflow_dispatch: # Run workflow via GitHub website
+  schedule:
+    - cron: '30 3 * * *' # Run workflow automatically at 03:30 daily
+jobs:
+  codeberg:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with: { fetch-depth: 0 }
+      - uses: pixta-dev/repository-mirroring-action@v1
+        with:
+          target_repo_url: git@codeberg.org:ThomasHighbaugh/stars.git
+          ssh_private_key: ${{ secrets.CODEBERG_SSH }}
