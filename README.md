@@ -859,6 +859,7 @@
 
 ## JavaScript 
 
+- [WebOrigami/origami](https://github.com/WebOrigami/origami) - Monorepo for the primary Web Origami packages
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, and more.
 - [kustodian/extended-statusbar](https://github.com/kustodian/extended-statusbar) - Firefox addon which adds a statusbar with speed, percentage, time and loaded size (similar to Opera's one)
 - [Spiderpig86/Spiderpig86](https://github.com/Spiderpig86/Spiderpig86) - :gem: Me. This is a self-updating README. Star it if you like it :)
@@ -1849,9 +1850,9 @@
 - [mustaqimM/dotfiles](https://github.com/mustaqimM/dotfiles) - 
 - [figsoda/cfg](https://github.com/figsoda/cfg) - My NixOS configuration featuring awesome and neovim
 - [zliebersbach/awesome-md-cfg](https://github.com/zliebersbach/awesome-md-cfg) - Awesome WM configuration for multiple monitors, inspired by the Material Design guidelines.
+- [TLH-Deprecated-Linux-Configurations/awesome](https://github.com/TLH-Deprecated-Linux-Configurations/awesome) - or How I Learned to Stop Worrying and Love AwesomeWM
 - [aidanharris/awesome-config](https://github.com/aidanharris/awesome-config) - My config files for the Awesome window manager
 - [Ddorda/awesome](https://github.com/Ddorda/awesome) - My Awesome WM configuration
-- [ckoparkar/awesome-wm-config](https://github.com/ckoparkar/awesome-wm-config) - Configuration files for Awesome WM.
 - [ruslansin/snsome](https://github.com/ruslansin/snsome) - This is my theme for awesomeWM 4.1+. I am trying to use it as my main WM and customize it for myself
 - [timonv/cyberpunk-awesome](https://github.com/timonv/cyberpunk-awesome) - Theme and daily driver for AwesomeWM
 - [marcinn/awesome-desktop](https://github.com/marcinn/awesome-desktop) - A simple desktop environment based on AwesomeWM framework
@@ -1972,7 +1973,6 @@
 
 ## MDX 
 
-- [akhila-ariyachandra/akhilaariyachandra.com](https://github.com/akhila-ariyachandra/akhilaariyachandra.com) - ✨ My portfolio built with Next.js, Tailwind, Content Collections, Turso, Drizzle ORM, and Vercel.
 - [DeterminateSystems/zero-to-nix](https://github.com/DeterminateSystems/zero-to-nix) - Zero to Nix is your guide to learning Nix and flakes. Created by Determinate Systems.
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
@@ -2019,6 +2019,7 @@
 
 ## Nix 
 
+- [djacu/nixcv](https://github.com/djacu/nixcv) - A tool to separate resume/cv content from output products. The output products (e.g. plaintext, PDF, etc) are built with Nix.
 - [bobvanderlinden/nixos-config](https://github.com/bobvanderlinden/nixos-config) - My personal NixOS and home-manager configuration
 - [rasmus-kirk/nix-config](https://github.com/rasmus-kirk/nix-config) - My nix config for all my machines
 - [chayleaf/dotfiles](https://github.com/chayleaf/dotfiles) - my NixOS/home-manager config
@@ -2068,7 +2069,7 @@
 - [kessejones/dotfiles-nixos](https://github.com/kessejones/dotfiles-nixos) - NixOS dotfiles
 - [aos/nix-config](https://github.com/aos/nix-config) - dotfiles + systems using nix
 - [TheMaxMur/NixOS-Configuration](https://github.com/TheMaxMur/NixOS-Configuration) - MaxMur NixOS config & Home-Manager config
-- [tuxdotrs/nixos-config](https://github.com/tuxdotrs/nixos-config) - My entire infrastructure as a Nix flake.
+- [tuxdotrs/nix-config](https://github.com/tuxdotrs/nix-config) - My entire infrastructure as a Nix flake.
 - [RGBCube/ThemeNix](https://github.com/RGBCube/ThemeNix) - Theme your NixOS configuration consistently.
 - [viperML/wrapper-manager](https://github.com/viperML/wrapper-manager) - Post-modern configuration management
 - [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations
@@ -2362,6 +2363,7 @@
 
 ## Others 
 
+- [Zenjir0/Comicbook-Theme_Assets](https://github.com/Zenjir0/Comicbook-Theme_Assets) - GIMP XCF files and more for creating your own Comicbook Themes
 - [Leoyzen/KVM-Opencore](https://github.com/Leoyzen/KVM-Opencore) - Opencore Configuration of KVM Hackintosh with tweaks
 - [moertel/retro-mode](https://github.com/moertel/retro-mode) - Remote configuration for the Android pixel art icon pack Retro Mode
 - [impressivewebs/frontend-feeds](https://github.com/impressivewebs/frontend-feeds) - An up to date list of RSS feeds for front-end developers.
@@ -2376,7 +2378,7 @@
 - [atfortes/Awesome-LLM-Reasoning](https://github.com/atfortes/Awesome-LLM-Reasoning) - Reasoning in LLMs: Papers and Resources, including Chain-of-Thought, OpenAI o1, and DeepSeek-R1 🍓
 - [uhub/awesome-lua](https://github.com/uhub/awesome-lua) - A curated list of awesome Lua frameworks, libraries and software.
 - [quanbingyi/SREP-Community-Patches](https://github.com/quanbingyi/SREP-Community-Patches) - A List of community patches to use with SmokelessRuntimeEfiPatcher
-- [bst04/cybersources](https://github.com/bst04/cybersources) - A curated list of cybersecurity tools and resources.
+- [bst04/CyberSources](https://github.com/bst04/CyberSources) - A curated list of cybersecurity tools and resources.
 - [The-Swarm-Corporation/awesome-automated-prompt-engineering](https://github.com/The-Swarm-Corporation/awesome-automated-prompt-engineering) - This repository serves as a central hub for discovering tools and services focused on automated prompt engineering. Whether you're looking to optimize your prompts for generative AI models or enhance 
 - [Miruzuki/Stable-Diffusion-Prompt-Dictionary](https://github.com/Miruzuki/Stable-Diffusion-Prompt-Dictionary) - 
 - [jamesponddotco/llm-prompts](https://github.com/jamesponddotco/llm-prompts) - [READ-ONLY] A collection of prompts for enhancing productivity with large language models.
@@ -2455,7 +2457,7 @@
 - [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - A list of awesome beginners-friendly projects.
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 - [aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) - A one stop repository for generative AI research updates, interview resources, notebooks and much more!
-- [cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications) - A curated list of free courses with certifications.
+- [cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications) - A curated list of free courses with certifications. Also available at https://free-certifications.com/
 - [neysofu/awesome-github-actions-runners](https://github.com/neysofu/awesome-github-actions-runners) - Save $$$ and make GitHub Actions go brrr with 3rd-party runners ⚡🤖
 - [xtenzQ/xtenzQ](https://github.com/xtenzQ/xtenzQ) - 📝🚀 Minimalistic profile README.md. Please ⭐ if you like it! ❤
 - [ptprussak/GPTs](https://github.com/ptprussak/GPTs) - leaked prompts of GPTs
@@ -2823,6 +2825,11 @@
 
 ## Python 
 
+- [ragtag/gimp-book](https://github.com/ragtag/gimp-book) - Multi-page comic book manager for GIMP
+- [ollama/ollama-python](https://github.com/ollama/ollama-python) - Ollama Python library
+- [aravindavk/fontforge-python-cookbook](https://github.com/aravindavk/fontforge-python-cookbook) - Fontforge Python Scripts
+- [sickcodes/gpt-engineer](https://github.com/sickcodes/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
+- [kamilion/customizer](https://github.com/kamilion/customizer) - Ubuntu Live CD remastering tool
 - [feder-cr/Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk) - Jobs_Applier_AI_Agent_AIHawk aims to easy job hunt process by automating the job application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in a tailored way.
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - Make websites accessible for AI agents
 - [DAVEinside/GenAI_Job_Fit](https://github.com/DAVEinside/GenAI_Job_Fit) - 
@@ -3396,6 +3403,8 @@
 
 ## Shell 
 
+- [htmm/macos-bootable-usb](https://github.com/htmm/macos-bootable-usb) - Create macOS installation media outside MAS
+- [sickcodes/osx-optimizer](https://github.com/sickcodes/osx-optimizer) - OSX Optimizer: Optimize MacOS - Shell scripts to speed up your mac boot time, accelerate loading, and prevent unnecessary throttling.
 - [Foo-x/dotfiles](https://github.com/Foo-x/dotfiles) - 
 - [dodeeric/pdf2epubEX](https://github.com/dodeeric/pdf2epubEX) - Tool to convert a PDF file (myfile.pdf) to a fixed layout ePub file (myfile.epub). The layout is perfectly retained and all the fonts are embedded.
 - [cancng/fonts](https://github.com/cancng/fonts) - 
@@ -3867,6 +3876,7 @@
 
 ## TypeScript 
 
+- [Gaafar/dev-fonts](https://github.com/Gaafar/dev-fonts) - List of fonts for coding
 - [nickscamara/open-deep-research](https://github.com/nickscamara/open-deep-research) - An open source deep research clone. AI Agent that reasons large amounts of web data extracted with Firecrawl
 - [sing1ee/deepseekCoder](https://github.com/sing1ee/deepseekCoder) - Create apps with Deepseek
 - [codeskills-dev/responsive-email](https://github.com/codeskills-dev/responsive-email) - a utility for writing responsive email templates for jsx-email and react-email
@@ -3884,6 +3894,7 @@
 - [dhavalCode/textshine.ai](https://github.com/dhavalCode/textshine.ai) - AI Powered Writing Tool
 - [mertthesamael/merto-dev](https://github.com/mertthesamael/merto-dev) - 
 - [crosstyan/generate-forever](https://github.com/crosstyan/generate-forever) - a userscript to generate forever for a novel site
+- [akhila-ariyachandra/akhilaariyachandra.com](https://github.com/akhila-ariyachandra/akhilaariyachandra.com) - ✨ My portfolio built with Next.js, Tailwind, Content Collections, Turso, Drizzle ORM, and Vercel.
 - [alsiam/urFolio](https://github.com/alsiam/urFolio) - urFolio - Best Open Source Portfolio or Personal Website using NextJS. Feel free to check out the readme file, copy, fork, and use.
 - [MODSetter/neubrutalism_portfolio](https://github.com/MODSetter/neubrutalism_portfolio) - A simple neubrutalism-style inspired portfolio in Next.js.
 - [2017mike/daisyportfolio](https://github.com/2017mike/daisyportfolio) - My current portfolio. Written with Next, TypeScript, Tailwind, DaisyUI, and deployed with Vercel.
