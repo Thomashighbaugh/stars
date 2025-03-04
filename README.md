@@ -553,7 +553,6 @@
 
 ## Emacs Lisp 
 
-- [port19x/dotfiles](https://github.com/port19x/dotfiles) - Emacs EXWM on Arch Linux
 - [cjbassi/config](https://github.com/cjbassi/config) - 
 - [aruZeta/Dotfiles.nix](https://github.com/aruZeta/Dotfiles.nix) - My reproducible system config made with nix
 - [rasendubi/dotfiles](https://github.com/rasendubi/dotfiles) - My dotfiles
@@ -860,6 +859,7 @@
 
 ## JavaScript 
 
+- [intika/Librefox](https://github.com/intika/Librefox) - Librefox: Firefox with privacy enhancements
 - [betterbrowser/arcfox](https://github.com/betterbrowser/arcfox) - Make firefox flow like arc
 - [WebOrigami/origami](https://github.com/WebOrigami/origami) - Monorepo for the primary Web Origami packages
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, and more.
@@ -1397,7 +1397,6 @@
 ## Lua 
 
 - [stevearc/oil.nvim](https://github.com/stevearc/oil.nvim) - Neovim file explorer: edit your filesystem like a buffer
-- [calops/nix](https://github.com/calops/nix) - Personal NixOS and Home Manager configuration
 - [olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) - ✨ AI-powered coding, seamlessly in Neovim
 - [YaLTeR/dotfiles](https://github.com/YaLTeR/dotfiles) - 
 - [osmarmora05/dotfiles](https://github.com/osmarmora05/dotfiles) - ~/. My personal config files
@@ -1471,6 +1470,7 @@
 - [jcmuller/my-awesome-wm-config](https://github.com/jcmuller/my-awesome-wm-config) - My laptop's Awesome WM configuration
 - [HoNamDuong/.dotfiles](https://github.com/HoNamDuong/.dotfiles) - My dotfiles for Linux
 - [PassiveLemon/lemonix](https://github.com/PassiveLemon/lemonix) - The Dotfiles for my NixOS systems
+- [port19x/dotfiles](https://github.com/port19x/dotfiles) - AwesomeWM on Arch Linux
 - [gnomengineer/simpledesktop](https://github.com/gnomengineer/simpledesktop) - a lightweight and simple arch distro with own customization
 - [madhur/dotfiles](https://github.com/madhur/dotfiles) - Configuration files of my desktop computer running EndeavourOS Linux
 - [coderosh/.dots](https://github.com/coderosh/.dots) - 🐻 dots
@@ -2020,10 +2020,12 @@
 
 ## Nix 
 
+- [luravoid/nixos-config](https://github.com/luravoid/nixos-config) - 
 - [Sorixelle/nixmox](https://github.com/Sorixelle/nixmox) - Nix utilities for creating GTK+ and icon themes with Oomox/Themix project tools
 - [hadilq/nixos-configuration](https://github.com/hadilq/nixos-configuration) - My NixOS configuration
 - [adrianparvino/NixOSEncryptedLiveCD](https://github.com/adrianparvino/NixOSEncryptedLiveCD) - 
 - [djacu/nixcv](https://github.com/djacu/nixcv) - A tool to separate resume/cv content from output products. The output products (e.g. plaintext, PDF, etc) are built with Nix.
+- [calops/nix](https://github.com/calops/nix) - Personal NixOS and Home Manager configuration
 - [bobvanderlinden/nixos-config](https://github.com/bobvanderlinden/nixos-config) - My personal NixOS and home-manager configuration
 - [rasmus-kirk/nix-config](https://github.com/rasmus-kirk/nix-config) - My nix config for all my machines
 - [chayleaf/dotfiles](https://github.com/chayleaf/dotfiles) - my NixOS/home-manager config
@@ -2289,7 +2291,7 @@
 - [GTrunSec/nixos-flk](https://github.com/GTrunSec/nixos-flk) - highly structured NixOS configuration based on devos
 - [thiagokokada/nix-configs](https://github.com/thiagokokada/nix-configs) - My Nix{OS} configuration files
 - [nix-community/NixNG](https://github.com/nix-community/NixNG) - A linux distribution based on Nix [maintainer=@MagicRB]
-- [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config) - General purpose Nix dev environment for macOS / NixOS (simple install) ✨
+- [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config) - General purpose Nix configuration for macOS / NixOS (with stater templates!)
 - [kanashimia/nixos-config](https://github.com/kanashimia/nixos-config) - Configuration of my nixos systems.
 - [gautaz/phoenix](https://github.com/gautaz/phoenix) - Because I want my Nix workspaces to rise from their ashes
 - [wiltaylor/nix-iso](https://github.com/wiltaylor/nix-iso) - My collection of custom NixOS ISO files.
@@ -2367,6 +2369,7 @@
 
 ## Others 
 
+- [NDOY3M4N/galsen-grub](https://github.com/NDOY3M4N/galsen-grub) - Grub Theme Made In Senegal
 - [Zenjir0/Comicbook-Theme_Assets](https://github.com/Zenjir0/Comicbook-Theme_Assets) - GIMP XCF files and more for creating your own Comicbook Themes
 - [Leoyzen/KVM-Opencore](https://github.com/Leoyzen/KVM-Opencore) - Opencore Configuration of KVM Hackintosh with tweaks
 - [moertel/retro-mode](https://github.com/moertel/retro-mode) - Remote configuration for the Android pixel art icon pack Retro Mode
@@ -3001,7 +3004,7 @@
 - [poloclub/diffusiondb](https://github.com/poloclub/diffusiondb) - A large-scale text-to-image prompt gallery dataset based on Stable Diffusion
 - [structnull/dotfiles](https://github.com/structnull/dotfiles) - Dotfiles for ZoidBerg
 - [impshum/Multi-Quote](https://github.com/impshum/Multi-Quote) - Social Quote Generator Bot
-- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o3 mini and deepseek r1
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o3 and deepseek r1, gpt-4.5
 - [MarcVillain/EmailGenerator](https://github.com/MarcVillain/EmailGenerator) - Generate random emails with ease.
 - [paulpierre/informer](https://github.com/paulpierre/informer) - A Telegram Mass Surveillance Bot in Python
 - [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API
@@ -3406,6 +3409,7 @@
 
 ## Shell 
 
+- [M-L-P/grub2-androidx86](https://github.com/M-L-P/grub2-androidx86) - It is used to multiboot all kinds of Android-x86, which can set Kernel Command Line Parameters. Maybe it supports secure boot.
 - [tinted-theming/schemes](https://github.com/tinted-theming/schemes) - A common location to store all color scheme data for the Tinted theming project
 - [htmm/macos-bootable-usb](https://github.com/htmm/macos-bootable-usb) - Create macOS installation media outside MAS
 - [sickcodes/osx-optimizer](https://github.com/sickcodes/osx-optimizer) - OSX Optimizer: Optimize MacOS - Shell scripts to speed up your mac boot time, accelerate loading, and prevent unnecessary throttling.
@@ -3909,7 +3913,7 @@
 - [ajaymahadeven/Genie](https://github.com/ajaymahadeven/Genie) - This a lite version of a chatbot built to test Google's Gemini Models. Built using Next.js 14 & Google's Gemini.
 - [ttttonyhe/ouorz-mono](https://github.com/ttttonyhe/ouorz-mono) - A Monorepo for My ( :earth_asia: Personal Website / :microscope: Academic Profile ) and { Other Related Projects }
 - [remjx/coindrop](https://github.com/remjx/coindrop) - Create a custom webpage for zero-fee payments/donations/tips
-- [bangle-io/bangle-io](https://github.com/bangle-io/bangle-io) - A web only WYSIWYG note taking app that saves notes locally in markdown format.
+- [bangle-io/bangle-io](https://github.com/bangle-io/bangle-io) - A web only WYSIWYG note taking app that saves notes locally in markdown format. v2: https://staging.app.bangle.io/
 - [redis/ioredis](https://github.com/redis/ioredis) - 🚀 A robust, performance-focused, and full-featured Redis client for Node.js.
 - [uixmat/firestarta](https://github.com/uixmat/firestarta) - Next.js SaaS boilerplate with NextAuth, Prisma, Supabase, Shadcn/ui & Lemon Squeezy Subscriptions
 - [The-Enthusiast-404/Designed](https://github.com/The-Enthusiast-404/Designed) - This is Open Source to Canva
@@ -4008,7 +4012,7 @@
 - [jasonruesch/jasonruesch.old](https://github.com/jasonruesch/jasonruesch.old) - My personal portfolio web app
 - [JezerM/nody-greeter](https://github.com/JezerM/nody-greeter) - LightDM greeter that allows to create wonderful themes with web technologies. Made in Node.js
 - [InterwebAlchemy/obsidian-ai-research-assistant](https://github.com/InterwebAlchemy/obsidian-ai-research-assistant) - Prompt Engineering Research Tool for AI APIs
-- [arifszn/gitprofile](https://github.com/arifszn/gitprofile) - 🚀 Create and deploy a dynamic portfolio by just providing your GitHub username.
+- [arifszn/gitprofile](https://github.com/arifszn/gitprofile) - 🚀 Create and publish a dynamic portfolio by just providing your GitHub username.
 - [smakosh/next-portfolio-dev](https://github.com/smakosh/next-portfolio-dev) - A portfolio for developers (Next js version)
 - [harshgoel05/another-portfolio](https://github.com/harshgoel05/another-portfolio) - An eye-catching developer Portfolio, Built on NextJS.
 - [NuroDev/nuro.dev](https://github.com/NuroDev/nuro.dev) - 🌿  Personal Portfolio
