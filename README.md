@@ -195,7 +195,7 @@
 - [ocerman/zenmonitor](https://github.com/ocerman/zenmonitor) - Zen monitor is monitoring software for AMD Zen-based CPUs.
 - [ocerman/zenpower](https://github.com/ocerman/zenpower) - Zenpower is Linux kernel driver for reading temperature, voltage(SVI2), current(SVI2) and power(SVI2) for AMD Zen family CPUs.
 - [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software
-- [coreboot/coreboot](https://github.com/coreboot/coreboot) - Read-only mirror of https://review.coreboot.org/coreboot.git. We don't handle Pull Requests.
+- [coreboot/coreboot](https://github.com/coreboot/coreboot) - Read-only mirror of https://review.coreboot.org/coreboot.git. Synced every hour. We don't handle Pull Requests.
 - [JLErvin/berry](https://github.com/JLErvin/berry) - :strawberry: A healthy, byte-sized window manager
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
 - [cdown/clipmenu](https://github.com/cdown/clipmenu) - Clipboard management using dmenu
@@ -905,7 +905,6 @@
 - [emilamaj/bookwriter](https://github.com/emilamaj/bookwriter) - Let AI generate a complete book simply by providing a title and a description
 - [aeksco/react-typescript-web-extension-starter](https://github.com/aeksco/react-typescript-web-extension-starter) - :desktop_computer: Web Extension starter kit built with React, TypeScript, TailwindCSS, Storybook, Jest, EsLint, Prettier, and Webpack. Supports Google Chrome + Mozilla Firefox + Brave Browser + Micro
 - [jaynewey/charm-icons](https://github.com/jaynewey/charm-icons) - 🍀 Charming Open Source vector icons.
-- [carbon-design-system/carbon](https://github.com/carbon-design-system/carbon) - A design system built by IBM
 - [AI-Prompt-Genius/AI-Prompt-Genius](https://github.com/AI-Prompt-Genius/AI-Prompt-Genius) - Curate a custom library of AI Prompts
 - [CoreyGinnivan/system-uicons](https://github.com/CoreyGinnivan/system-uicons) - System UIcons is an icon library design for systems and products. Use how you want, without attribution.
 - [artcoholic/akar-icons](https://github.com/artcoholic/akar-icons) - Akar icons library as React components.
@@ -1396,6 +1395,8 @@
 
 ## Lua 
 
+- [David-Kunz/gen.nvim](https://github.com/David-Kunz/gen.nvim) - Neovim plugin to generate text using LLMs with customizable prompts
+- [ourgal/snowfall](https://github.com/ourgal/snowfall) - NixOS dotfiles
 - [stevearc/oil.nvim](https://github.com/stevearc/oil.nvim) - Neovim file explorer: edit your filesystem like a buffer
 - [olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) - ✨ AI-powered coding, seamlessly in Neovim
 - [YaLTeR/dotfiles](https://github.com/YaLTeR/dotfiles) - 
@@ -1470,7 +1471,6 @@
 - [jcmuller/my-awesome-wm-config](https://github.com/jcmuller/my-awesome-wm-config) - My laptop's Awesome WM configuration
 - [HoNamDuong/.dotfiles](https://github.com/HoNamDuong/.dotfiles) - My dotfiles for Linux
 - [PassiveLemon/lemonix](https://github.com/PassiveLemon/lemonix) - The Dotfiles for my NixOS systems
-- [port19x/dotfiles](https://github.com/port19x/dotfiles) - AwesomeWM on Arch Linux
 - [gnomengineer/simpledesktop](https://github.com/gnomengineer/simpledesktop) - a lightweight and simple arch distro with own customization
 - [madhur/dotfiles](https://github.com/madhur/dotfiles) - Configuration files of my desktop computer running EndeavourOS Linux
 - [coderosh/.dots](https://github.com/coderosh/.dots) - 🐻 dots
@@ -1680,7 +1680,7 @@
 - [msaifi03/turbo-awesome](https://github.com/msaifi03/turbo-awesome) - AwesomeWM dotfiles; archived, see my repo all-the-dots
 - [nuxshed/dotfiles](https://github.com/nuxshed/dotfiles) - pls help
 - [Kasper24/KwesomeDE](https://github.com/Kasper24/KwesomeDE) - A desktop environment made in AwesomeWM
-- [gokulswam/awesome-wallpaper](https://github.com/gokulswam/awesome-wallpaper) - 
+- [javacafe01/awesome-wallpaper](https://github.com/javacafe01/awesome-wallpaper) - 
 - [rochacbruno/dotfiles](https://github.com/rochacbruno/dotfiles) - My Environment Configurations
 - [Crylia/crylia-theme](https://github.com/Crylia/crylia-theme) - A theme for AwesomeWM
 - [b0o/nvim-conf](https://github.com/b0o/nvim-conf) - ☄ Maddison's Neovim configuration!
@@ -2020,6 +2020,11 @@
 
 ## Nix 
 
+- [thblt/nixos-config](https://github.com/thblt/nixos-config) - 
+- [mudrii/systst](https://github.com/mudrii/systst) - 
+- [getchoo/borealis](https://github.com/getchoo/borealis) - 🚢 my dotfiles, nix configurations, and personal infra
+- [zackartz/nixos-dots](https://github.com/zackartz/nixos-dots) - my personal nixos dotfiles c:
+- [YaroKasear/flakes](https://github.com/YaroKasear/flakes) - Nix/NixOS flakes
 - [luravoid/nixos-config](https://github.com/luravoid/nixos-config) - 
 - [Sorixelle/nixmox](https://github.com/Sorixelle/nixmox) - Nix utilities for creating GTK+ and icon themes with Oomox/Themix project tools
 - [hadilq/nixos-configuration](https://github.com/hadilq/nixos-configuration) - My NixOS configuration
@@ -2831,6 +2836,7 @@
 
 ## Python 
 
+- [blackary/st_pages](https://github.com/blackary/st_pages) - An experimental version of Streamlit Multi-Page Apps
 - [ragtag/gimp-book](https://github.com/ragtag/gimp-book) - Multi-page comic book manager for GIMP
 - [ollama/ollama-python](https://github.com/ollama/ollama-python) - Ollama Python library
 - [aravindavk/fontforge-python-cookbook](https://github.com/aravindavk/fontforge-python-cookbook) - Fontforge Python Scripts
@@ -2844,7 +2850,7 @@
 - [MrGri00/auto-emailer](https://github.com/MrGri00/auto-emailer) - A small Python-based script designed for personal use to automate sending personalized emails with optional attachments.
 - [THUDM/LongWriter](https://github.com/THUDM/LongWriter) - [ICLR 2025] LongWriter: Unleashing 10,000+ Word Generation from Long Context LLMs
 - [oumi-ai/oumi](https://github.com/oumi-ai/oumi) - Everything you need to build state-of-the-art foundation models, end-to-end.
-- [KazKozDev/NovelGenerator](https://github.com/KazKozDev/NovelGenerator) - 📚 NovelGenerator - AI-powered fiction book generator that uses Ollama's LLMs to create complete novels with coherent plot structures, developed characters and multiple writing styles.
+- [KazKozDev/NovelGenerator](https://github.com/KazKozDev/NovelGenerator) - 📚 NovelGenerator - AI-powered fiction book generator that uses Ollama's LLM to create complete novels with coherent plot structures, developed characters and multiple writing styles.
 - [langroid/langroid](https://github.com/langroid/langroid) - Harness LLMs with Multi-Agent Programming
 - [langroid/langroid-examples](https://github.com/langroid/langroid-examples) - Using Langroid's Multi-Agent Framework to Build LLM Apps
 - [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
@@ -3409,6 +3415,8 @@
 
 ## Shell 
 
+- [1000101/ni](https://github.com/1000101/ni) - NixOS Installer
+- [sigoden/llm-functions](https://github.com/sigoden/llm-functions) - Easily create LLM tools and agents using plain Bash/JavaScript/Python functions.
 - [M-L-P/grub2-androidx86](https://github.com/M-L-P/grub2-androidx86) - It is used to multiboot all kinds of Android-x86, which can set Kernel Command Line Parameters. Maybe it supports secure boot.
 - [tinted-theming/schemes](https://github.com/tinted-theming/schemes) - A common location to store all color scheme data for the Tinted theming project
 - [htmm/macos-bootable-usb](https://github.com/htmm/macos-bootable-usb) - Create macOS installation media outside MAS
@@ -3472,6 +3480,7 @@
 - [GDR/dot](https://github.com/GDR/dot) - My personal config repo for my NixOS configurations. I use Nix flakes to manage dependencies and reproducibility.
 - [arminveres/dotfiles](https://github.com/arminveres/dotfiles) - Repository for personal Unix config files
 - [svrvt/re_tile](https://github.com/svrvt/re_tile) - dotfiles window manager
+- [port19x/dotfiles](https://github.com/port19x/dotfiles) - AwesomeWM on Arch Linux
 - [AmitGolden/dotfiles](https://github.com/AmitGolden/dotfiles) - AmitGold's catppuccin dotfiles!
 - [notKamui/dotfiles](https://github.com/notKamui/dotfiles) - What's hidden sometimes makes you who you are
 - [pimterry/notes](https://github.com/pimterry/notes) - :pencil: Simple delightful note taking, with more unix and less lock-in.
@@ -3852,7 +3861,7 @@
 
 - [wikibonsai/germinator](https://github.com/wikibonsai/germinator) - AI-powered semantic seedling germination.
 - [wikibonsai/wikibonsai](https://github.com/wikibonsai/wikibonsai) - A jungle gym for thought with an API for the mind.
-- [taikoxyz/taiko-mono](https://github.com/taikoxyz/taiko-mono) - Taiko Alethia based rollup protocol 🥁 🌸
+- [taikoxyz/taiko-mono](https://github.com/taikoxyz/taiko-mono) - Taiko Alethia based rollup protocol 🥁
 - [morispolanco/books-by-ai](https://github.com/morispolanco/books-by-ai) - Books generated by AI
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 - [hertg/lightdm-neon](https://github.com/hertg/lightdm-neon) - :art: A customizable theme for web-greeter in a nostalgic but modern neon look
@@ -3936,6 +3945,7 @@
 - [element-plus/element-plus-icons](https://github.com/element-plus/element-plus-icons) - Main package for storing Element Plus icon resources.
 - [bytedance/IconPark](https://github.com/bytedance/IconPark) - 🍎Transform an SVG icon into multiple themes, and generate React icons，Vue icons，svg icons
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - Your friendliest open source AI automation tool ✨ Workflow automation tool 200+ integration / Enterprise automation tool / Zapier Alternative
+- [carbon-design-system/carbon](https://github.com/carbon-design-system/carbon) - A design system built by IBM
 - [radix-ui/icons](https://github.com/radix-ui/icons) - A crisp set of 15×15 icons designed by the @workos team.
 - [xarunoba/nextjs-daisyui-ssr](https://github.com/xarunoba/nextjs-daisyui-ssr) - Next.js 14 App Router + daisyUI. Switch themes and render in SSR.
 - [kevin-pek/portfolio-v2](https://github.com/kevin-pek/portfolio-v2) - Portfolio built using NextJs, TailwindCSS and DaisyUI.
