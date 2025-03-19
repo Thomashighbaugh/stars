@@ -78,6 +78,7 @@
 - [Swift](#swift)
 - [SystemVerilog](#systemverilog)
 - [TeX](#tex)
+- [Tree-sitter Query](#tree-sitter-query)
 - [Twig](#twig)
 - [TypeScript](#typescript)
 - [V](#v)
@@ -701,7 +702,7 @@
 - [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Guide to using YubiKey for GnuPG and SSH
 - [motform/IDK-Programming-2021-Course-Overview](https://github.com/motform/IDK-Programming-2021-Course-Overview) - 
 - [ilse-langnar/notebook](https://github.com/ilse-langnar/notebook) - Tool for Thought. ʚɞ
-- [phillipclapham/neuroweaver](https://github.com/phillipclapham/neuroweaver) - A revolutionary Mental Operating System that unlocks your innate genius and peak mental performance through powerful cognitive patterns and principles, transforming how you live, think, learn, solve c
+- [phillipclapham/neuroweaver](https://github.com/phillipclapham/neuroweaver) - A revolutionary multi-dimensional framework for conscious reality creation across physical, emotional, symbolic, cognitive, social and consciousness filtration systems. Transform how you perceive, cre
 - [0xeb/TheBigPromptLibrary](https://github.com/0xeb/TheBigPromptLibrary) - A collection of prompts, system prompts and LLM instructions
 - [killshot13/google-web-stories-template](https://github.com/killshot13/google-web-stories-template) - This is a reference template for creating and editing AMP Web Stories (Google Stories)
 - [phanxuanquang/AI-Handbook](https://github.com/phanxuanquang/AI-Handbook) - The AI models used for my personal purposes and their usage (Gemini, Copilot, Dialogflow,...)
@@ -912,7 +913,7 @@
 - [Nick-Gabe/Nick-Gabe](https://github.com/Nick-Gabe/Nick-Gabe) - Self updating README
 - [pryv/open-pryv.io](https://github.com/pryv/open-pryv.io) - Open-source version of Pryv.io
 - [davidmerfield/Stroke](https://github.com/davidmerfield/Stroke) - A text editor for first drafts
-- [davidmerfield/Blot](https://github.com/davidmerfield/Blot) - Turns a folder into a blog
+- [davidmerfield/blot](https://github.com/davidmerfield/blot) - Turns a folder into a website
 - [emilamaj/bookwriter](https://github.com/emilamaj/bookwriter) - Let AI generate a complete book simply by providing a title and a description
 - [aeksco/react-typescript-web-extension-starter](https://github.com/aeksco/react-typescript-web-extension-starter) - :desktop_computer: Web Extension starter kit built with React, TypeScript, TailwindCSS, Storybook, Jest, EsLint, Prettier, and Webpack. Supports Google Chrome + Mozilla Firefox + Brave Browser + Micro
 - [jaynewey/charm-icons](https://github.com/jaynewey/charm-icons) - 🍀 Charming Open Source vector icons.
@@ -1693,7 +1694,7 @@
 - [msaifi03/turbo-awesome](https://github.com/msaifi03/turbo-awesome) - AwesomeWM dotfiles; archived, see my repo all-the-dots
 - [nuxshed/dotfiles](https://github.com/nuxshed/dotfiles) - pls help
 - [Kasper24/KwesomeDE](https://github.com/Kasper24/KwesomeDE) - A desktop environment made in AwesomeWM
-- [javacafe01/awesome-wallpaper](https://github.com/javacafe01/awesome-wallpaper) - 
+- [gokulswam/awesome-wallpaper](https://github.com/gokulswam/awesome-wallpaper) - 
 - [rochacbruno/dotfiles](https://github.com/rochacbruno/dotfiles) - My Environment Configurations
 - [Crylia/crylia-theme](https://github.com/Crylia/crylia-theme) - A theme for AwesomeWM
 - [b0o/nvim-conf](https://github.com/b0o/nvim-conf) - ☄ Maddison's Neovim configuration!
@@ -2037,7 +2038,7 @@
 - [getchoo/borealis](https://github.com/getchoo/borealis) - 🚢 my dotfiles, nix configurations, and personal infra
 - [zackartz/nixos-dots](https://github.com/zackartz/nixos-dots) - my personal nixos dotfiles c:
 - [YaroKasear/flakes](https://github.com/YaroKasear/flakes) - Nix/NixOS flakes
-- [luravoid/nixos-config](https://github.com/luravoid/nixos-config) - 
+- [3333juul/nixos-config](https://github.com/3333juul/nixos-config) - 
 - [Sorixelle/nixmox](https://github.com/Sorixelle/nixmox) - Nix utilities for creating GTK+ and icon themes with Oomox/Themix project tools
 - [hadilq/nixos-configuration](https://github.com/hadilq/nixos-configuration) - My NixOS configuration
 - [adrianparvino/NixOSEncryptedLiveCD](https://github.com/adrianparvino/NixOSEncryptedLiveCD) - 
@@ -2837,7 +2838,7 @@
 
 - [blackinitial/openbox_dotfiles](https://github.com/blackinitial/openbox_dotfiles) - My Openbox Dotfiles
 - [mfontani/rofi-scripts](https://github.com/mfontani/rofi-scripts) - A bunch of rofi-related scripts I use on my laptop.
-- [tryton-vanmeer/archlinux](https://github.com/tryton-vanmeer/archlinux) - Custom Arch Linux Image
+- [trytonlux/archlinux](https://github.com/trytonlux/archlinux) - Custom Arch Linux Image
 
 ## PowerShell 
 
@@ -2848,6 +2849,8 @@
 
 ## Python 
 
+- [PygmalionAI/gradio-ui](https://github.com/PygmalionAI/gradio-ui) - Prototype UI for chatting with the Pygmalion models.
+- [vegu-ai/talemate](https://github.com/vegu-ai/talemate) - Roleplay with AI with a focus on strong narration, consistent world and game state tracking.
 - [DIVISIO-AI/stag](https://github.com/DIVISIO-AI/stag) - An AI based automatic image tagger
 - [blackary/st_pages](https://github.com/blackary/st_pages) - An experimental version of Streamlit Multi-Page Apps
 - [ragtag/gimp-book](https://github.com/ragtag/gimp-book) - Multi-page comic book manager for GIMP
@@ -2972,7 +2975,7 @@
 - [awekrx/AutoDoc-ChatGPT](https://github.com/awekrx/AutoDoc-ChatGPT) - AutoDoc-ChatGPT is a Python script that leverages the power of ChatGPT model to automatically generate documentation for any programming language. With AutoDoc-ChatGPT, you can easily generate compreh
 - [bigsky77/twitter-agent](https://github.com/bigsky77/twitter-agent) - Build AI-powered Agents for Twitter🐣
 - [nitebyte/GPTDraft](https://github.com/nitebyte/GPTDraft) - 
-- [chatanywhere/GPT_API_free](https://github.com/chatanywhere/GPT_API_free) - Free ChatGPT API Key，免费ChatGPT API，支持GPT4 API（免费），ChatGPT国内可用免费转发API，直连无需代理。可以搭配ChatBox等软件/插件使用，极大降低接口使用成本。国内即可无限制畅快聊天。
+- [chatanywhere/GPT_API_free](https://github.com/chatanywhere/GPT_API_free) - Free ChatGPT&DeepSeek API Key，免费ChatGPT&DeepSeek API。免费接入DeepSeek API和GPT4 API，支持 gpt | deepseek | claude | gemini | grok 等排名靠前的常用大模型。
 - [Ruu3f/freeGPT-discord](https://github.com/Ruu3f/freeGPT-discord) - Discord chatbot and image generator powered by freeGPT. Now with image detection.
 - [Ruu3f/freeGPT](https://github.com/Ruu3f/freeGPT) - freeGPT provides free access to text and image generation models.
 - [tuan3w/obsidian-template](https://github.com/tuan3w/obsidian-template) - Starter templates for Obsidian
@@ -3186,7 +3189,7 @@
 - [rjshkhr/dotfiles](https://github.com/rjshkhr/dotfiles) - ~/
 - [fennerm/flashfocus](https://github.com/fennerm/flashfocus) - Simple focus animations for tiling window managers.
 - [isyuck/dotfiles](https://github.com/isyuck/dotfiles) - linux/osx
-- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 275+ supported cars.
+- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.
 - [deviantfero/wpgtk](https://github.com/deviantfero/wpgtk) - :flower_playing_cards: a colorscheme, wallpaper and template manager for *nix
 - [tmux-python/tmuxp](https://github.com/tmux-python/tmuxp) - 🖥️ Session manager for tmux, build on libtmux.
 - [vt-vl-lab/3d-photo-inpainting](https://github.com/vt-vl-lab/3d-photo-inpainting) - [CVPR 2020] 3D Photography using Context-aware Layered Depth Inpainting
@@ -3420,7 +3423,6 @@
 
 ## Scheme 
 
-- [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) - Nvim Treesitter configurations and abstraction layer
 - [karlhof26/gimp-scheme](https://github.com/karlhof26/gimp-scheme) - Gimp scripts for Gimp 2.10.22 plus
 - [tshatrov/scriptfu](https://github.com/tshatrov/scriptfu) - My Script-Fu scripts for GIMP
 - [lepisma/gimp-export-favicons](https://github.com/lepisma/gimp-export-favicons) - Gimp Script-Fu for exporting favicons as provided by http://www.favicomatic.com/
@@ -3904,12 +3906,17 @@
 - [LukeSmithxyz/critique-of-reason](https://github.com/LukeSmithxyz/critique-of-reason) - Term paper on Rationality
 - [sysprog21/lkmpg](https://github.com/sysprog21/lkmpg) - The Linux Kernel Module Programming Guide (updated for 5.0+ kernels)
 
+## Tree-sitter Query 
+
+- [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) - Nvim Treesitter configurations and abstraction layer
+
 ## Twig 
 
 - [mattwaler/tea-stack](https://github.com/mattwaler/tea-stack) - A starter template for the TEA stack (Tailwind, Eleventy, Alpine).
 
 ## TypeScript 
 
+- [cyclic-software/starter-telegram-bot](https://github.com/cyclic-software/starter-telegram-bot) - Cyclic starter telegram bot
 - [akrv7591/portfolio-web](https://github.com/akrv7591/portfolio-web) - Portfolio website
 - [hoarder-app/hoarder](https://github.com/hoarder-app/hoarder) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [DevPalace/phoenix-ci](https://github.com/DevPalace/phoenix-ci) - 
