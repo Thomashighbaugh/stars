@@ -2036,7 +2036,7 @@
 - [getchoo/borealis](https://github.com/getchoo/borealis) - 🚢 my dotfiles, nix configurations, and personal infra
 - [zackartz/nixos-dots](https://github.com/zackartz/nixos-dots) - my personal nixos dotfiles c:
 - [YaroKasear/flakes](https://github.com/YaroKasear/flakes) - Nix/NixOS flakes
-- [3333juul/nixos-config](https://github.com/3333juul/nixos-config) - 
+- [3333juul/snowflake](https://github.com/3333juul/snowflake) - 
 - [Sorixelle/nixmox](https://github.com/Sorixelle/nixmox) - Nix utilities for creating GTK+ and icon themes with Oomox/Themix project tools
 - [hadilq/nixos-configuration](https://github.com/hadilq/nixos-configuration) - My NixOS configuration
 - [adrianparvino/NixOSEncryptedLiveCD](https://github.com/adrianparvino/NixOSEncryptedLiveCD) - 
@@ -2866,7 +2866,7 @@
 - [MrGri00/auto-emailer](https://github.com/MrGri00/auto-emailer) - A small Python-based script designed for personal use to automate sending personalized emails with optional attachments.
 - [THUDM/LongWriter](https://github.com/THUDM/LongWriter) - [ICLR 2025] LongWriter: Unleashing 10,000+ Word Generation from Long Context LLMs
 - [oumi-ai/oumi](https://github.com/oumi-ai/oumi) - Everything you need to build state-of-the-art foundation models, end-to-end.
-- [KazKozDev/NovelGenerator](https://github.com/KazKozDev/NovelGenerator) - 📚 NovelGenerator - AI-powered fiction book generator that uses Ollama's LLM to create complete novels with coherent plot structures, developed characters and multiple writing styles.
+- [KazKozDev/NovelGenerator](https://github.com/KazKozDev/NovelGenerator) - An AI-powered fiction book generator for writers, storytellers, and creative developers, using Ollama’s LLM to produce complete novels with coherent plot structures, developed characters, and diverse 
 - [langroid/langroid](https://github.com/langroid/langroid) - Harness LLMs with Multi-Agent Programming
 - [langroid/langroid-examples](https://github.com/langroid/langroid-examples) - Using Langroid's Multi-Agent Framework to Build LLM Apps
 - [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
