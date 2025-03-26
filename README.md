@@ -702,7 +702,7 @@
 - [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Guide to using YubiKey for GnuPG and SSH
 - [motform/IDK-Programming-2021-Course-Overview](https://github.com/motform/IDK-Programming-2021-Course-Overview) - 
 - [ilse-langnar/notebook](https://github.com/ilse-langnar/notebook) - Tool for Thought. ʚɞ
-- [phillipclapham/neuroweaver](https://github.com/phillipclapham/neuroweaver) - A revolutionary multi-dimensional framework for conscious reality creation across physical, emotional, symbolic, cognitive, social and consciousness filtration systems. Transform how you perceive, cre
+- [phillipclapham/neuroweaver](https://github.com/phillipclapham/neuroweaver) - A work of meta-recursive experiential fiction exploring the boundaries between truth, perception, consciousness, and reality.
 - [0xeb/TheBigPromptLibrary](https://github.com/0xeb/TheBigPromptLibrary) - A collection of prompts, system prompts and LLM instructions
 - [killshot13/google-web-stories-template](https://github.com/killshot13/google-web-stories-template) - This is a reference template for creating and editing AMP Web Stories (Google Stories)
 - [phanxuanquang/AI-Handbook](https://github.com/phanxuanquang/AI-Handbook) - The AI models used for my personal purposes and their usage (Gemini, Copilot, Dialogflow,...)
@@ -818,6 +818,7 @@
 - [icons8/flat-color-icons](https://github.com/icons8/flat-color-icons) - Free Flat Color Icons
 - [kubernetes/website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:
 - [Jaredk3nt/homepage](https://github.com/Jaredk3nt/homepage) - Custom homepage for use locally in browser
+- [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
 - [harrycresswell/ain-cards](https://github.com/harrycresswell/ain-cards) - A front end prototype for AIN cards
 - [Thomashighbaugh/RESURGENS-PORTFOLIO-HTML-CSS](https://github.com/Thomashighbaugh/RESURGENS-PORTFOLIO-HTML-CSS) - resurgens volume 1 still active as demo
 - [MicroPad/MicroPad-Electron](https://github.com/MicroPad/MicroPad-Electron) - The desktop app of https://github.com/MicroPad/MicroPad-Core
@@ -1515,7 +1516,7 @@
 - [demingongo/awesomewm-dotfiles](https://github.com/demingongo/awesomewm-dotfiles) - My awesome wm config
 - [eylles/dash-widgets](https://github.com/eylles/dash-widgets) - widgets for awesomewm
 - [Sanatana-Linux/nixos-awesomewm](https://github.com/Sanatana-Linux/nixos-awesomewm) - submodule of my nixos configuration containing my awesomewm configuration
-- [SoumyajitTech/AwesomeWM](https://github.com/SoumyajitTech/AwesomeWM) - This is my config for awesome window manager
+- [soumyajit-dev/AwesomeWM](https://github.com/soumyajit-dev/AwesomeWM) - This is my config for awesome window manager
 - [andOrlando/awesome-widgets](https://github.com/andOrlando/awesome-widgets) - A collection of a couple custom-made awesome widgets that (kinda) work in isolation so you can just grab
 - [Nooo37/glome](https://github.com/Nooo37/glome) - WIP
 - [2nthony/dotfiles](https://github.com/2nthony/dotfiles) - My personal dotfiles, neovim, zsh, wezterm, etc.
@@ -2411,7 +2412,7 @@
 - [Miruzuki/Stable-Diffusion-Prompt-Dictionary](https://github.com/Miruzuki/Stable-Diffusion-Prompt-Dictionary) - 
 - [jamesponddotco/llm-prompts](https://github.com/jamesponddotco/llm-prompts) - [READ-ONLY] A collection of prompts for enhancing productivity with large language models.
 - [doanhthong/awesome-pkm](https://github.com/doanhthong/awesome-pkm) - A curated list of awesome tools to take notes and build your own PKM. PRs are welcome.
-- [bpc-clone/bypass-paywalls-firefox-clean](https://github.com/bpc-clone/bypass-paywalls-firefox-clean) - 
+- [bpc-clone/bpc_firefox_support](https://github.com/bpc-clone/bpc_firefox_support) - 
 - [CodingAce123/CodingAce123](https://github.com/CodingAce123/CodingAce123) - My GitHub profile-README (Don't Just Fork, star too 🥺)
 - [dave1010/tree-of-thought-prompting](https://github.com/dave1010/tree-of-thought-prompting) - Using Tree-of-Thought Prompting to boost ChatGPT's reasoning
 - [rwxrob/awesome-go](https://github.com/rwxrob/awesome-go) - Go stuff that inspires awe
@@ -2799,7 +2800,6 @@
 - [numixproject/numix-icon-theme-circle](https://github.com/numixproject/numix-icon-theme-circle) - Linux packaging for Numix Circle
 - [slacka/WoeUSB](https://github.com/slacka/WoeUSB) - WoeUSB is a simple tool that enable you to create your own usb stick windows installer from an iso image or a real DVD. It is a fork of Congelli501's WinUSB.
 - [brillout/awesome-react-components](https://github.com/brillout/awesome-react-components) - Curated List of React Components & Libraries.
-- [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
 - [ForrestKnight/open-source-cs](https://github.com/ForrestKnight/open-source-cs) - Video discussing this curriculum:
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 - [numixproject/numix-icon-theme](https://github.com/numixproject/numix-icon-theme) - Official base icon theme from the Numix project.
@@ -2858,7 +2858,7 @@
 - [aravindavk/fontforge-python-cookbook](https://github.com/aravindavk/fontforge-python-cookbook) - Fontforge Python Scripts
 - [sickcodes/gpt-engineer](https://github.com/sickcodes/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
 - [kamilion/customizer](https://github.com/kamilion/customizer) - Ubuntu Live CD remastering tool
-- [feder-cr/Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk) - Jobs_Applier_AI_Agent_AIHawk aims to easy job hunt process by automating the job application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in a tailored way.
+- [feder-cr/Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk) - AIHawk aims to easy job hunt process by automating the job application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in a tailored way.
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - Make websites accessible for AI agents
 - [DAVEinside/GenAI_Job_Fit](https://github.com/DAVEinside/GenAI_Job_Fit) - 
 - [TengHu/ActionWeaver](https://github.com/TengHu/ActionWeaver) - Make function calling with LLM easier
@@ -2866,7 +2866,7 @@
 - [MrGri00/auto-emailer](https://github.com/MrGri00/auto-emailer) - A small Python-based script designed for personal use to automate sending personalized emails with optional attachments.
 - [THUDM/LongWriter](https://github.com/THUDM/LongWriter) - [ICLR 2025] LongWriter: Unleashing 10,000+ Word Generation from Long Context LLMs
 - [oumi-ai/oumi](https://github.com/oumi-ai/oumi) - Everything you need to build state-of-the-art foundation models, end-to-end.
-- [KazKozDev/NovelGenerator](https://github.com/KazKozDev/NovelGenerator) - An AI-powered fiction book generator for writers, storytellers, and creative developers, using Ollama’s LLM to produce complete novels with coherent plot structures, developed characters, and diverse 
+- [KazKozDev/NovelGenerator](https://github.com/KazKozDev/NovelGenerator) - Fiction generator using LLM to create complete novels with coherent plots, developed characters, and diverse writing styles.
 - [langroid/langroid](https://github.com/langroid/langroid) - Harness LLMs with Multi-Agent Programming
 - [langroid/langroid-examples](https://github.com/langroid/langroid-examples) - Using Langroid's Multi-Agent Framework to Build LLM Apps
 - [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
@@ -2921,7 +2921,7 @@
 - [haseeb-heaven/langchain-coder](https://github.com/haseeb-heaven/langchain-coder) - Web Application that can generate code and fix bugs and run using various LLM's (GPT,Gemini,PALM)
 - [friuns2/Leaked-GPTs](https://github.com/friuns2/Leaked-GPTs) - Leaked GPTs Prompts Bypass the 25 message limit or to try out GPTs without a Plus subscription.
 - [h2oai/h2o-llmstudio](https://github.com/h2oai/h2o-llmstudio) - H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs. Documentation: https://docs.h2o.ai/h2o-llmstudio/
-- [AJaySi/AI-Writer](https://github.com/AJaySi/AI-Writer) - ALwrity - All-in-One AI Content Generation Platform. Content generation for Website, Social media & Ad copywriting. Web Researched, SEO optimized content. Generate Text, Image, Audio. Content Brainsto
+- [AJaySi/AI-Writer](https://github.com/AJaySi/AI-Writer) - ALwrity - All-in-One AI Content Generation Platform for Website, Social media & copywriting. AI Deep Web Researcher, SEO optimized content. Generate Text, Image, Audio. Content planning & Brainstormin
 - [different-ai/embedbase-ava](https://github.com/different-ai/embedbase-ava) - Obsidian + Embedbase = Ava
 - [databricks/dbrx](https://github.com/databricks/dbrx) - Code examples and resources for DBRX, a large language model developed by Databricks
 - [lucasmccabe/emailGPT](https://github.com/lucasmccabe/emailGPT) - a quick and easy interface to generate emails with ChatGPT
@@ -3353,7 +3353,7 @@
 - [evestera/svg-halftone](https://github.com/evestera/svg-halftone) - Tool for converting raster images to SVG halftone patterns
 - [mikeroyal/Linux-Guide](https://github.com/mikeroyal/Linux-Guide) - Linux Guide. Learn about Linux Hardware vendors, Linux in the Cloud, Desktop Environments, Window Mangers, Linux Distributions, Linux Security, Graphics (AMD/NVIDIA/Intel ARC), and Software Apps.
 - [sharkdp/vivid](https://github.com/sharkdp/vivid) - A themeable LS_COLORS generator with a rich filetype datebase
-- [Start9Labs/start-os](https://github.com/Start9Labs/start-os) - Open source Linux distro optimized for self-hosting
+- [Start9Labs/start-os](https://github.com/Start9Labs/start-os) - Open source, Linuc-based server OS optimized for self-hosting
 - [jamestthompson3/tendril-wiki](https://github.com/jamestthompson3/tendril-wiki) - Personal knowledge management tool
 - [foresterre/sic](https://github.com/foresterre/sic) - 🦜 Accessible image processing and conversion from the terminal. Front-end for image-rs/image.
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
@@ -3978,7 +3978,7 @@
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [kranachan/escapeland](https://github.com/kranachan/escapeland) - Here is my portfolio, which is also my blog (&gt; &lt;)
 - [LHRUN/bubble](https://github.com/LHRUN/bubble) - Let's start changing your profile. (Readme Profile Collection)
-- [ioanat94/portfolio-website](https://github.com/ioanat94/portfolio-website) - Personal portfolio website written with Typescript, React/Next.js and Tailwind CSS.
+- [ioanat94/portfolio-website](https://github.com/ioanat94/portfolio-website) - My old personal portfolio website, written with Typescript, React/Next.js and Tailwind CSS.
 - [wojciechmarek/todo-list](https://github.com/wojciechmarek/todo-list) - Basic and simple the to-do list app representing modern UI design styles.
 - [fescherer/neobrutalism-portfolio](https://github.com/fescherer/neobrutalism-portfolio) - Portifolio
 - [zacharyLYH/design-patterns-in-typescript](https://github.com/zacharyLYH/design-patterns-in-typescript) - Practical projects demonstrating various design patterns, written in TypeScript.
@@ -4124,7 +4124,6 @@
 - [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi or any x86 system.
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - Your One-Stop Publication Workbench
 - [medyo/hackertab.dev](https://github.com/medyo/hackertab.dev) - A Chrome 🌐 & Firefox 🦊 extension to discover the latest developer news and tools in one tab!
-- [rfarine/art-portfolio](https://github.com/rfarine/art-portfolio) - raefarine.art
 - [Thomashighbaugh/startpage-zwei](https://github.com/Thomashighbaugh/startpage-zwei) - Second Implementation of a Startpage for my browser in Next.js using Typescript and Tailwind.css with Motion Animations and More
 - [notea-org/notea](https://github.com/notea-org/notea) - 📒 Self hosted note taking app stored on S3
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
