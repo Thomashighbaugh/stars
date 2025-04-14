@@ -603,7 +603,7 @@
 - [DBCDK/morph](https://github.com/DBCDK/morph) - NixOS deployment tool
 - [antonmedv/walk](https://github.com/antonmedv/walk) - Terminal file manager
 - [a-h/ollama2nix](https://github.com/a-h/ollama2nix) - Create a Nix expression for ollama repos.
-- [Achno/gocheat](https://github.com/Achno/gocheat) - A beautiful customizable Cheatsheet for keybindings,hotkeys and more in the terminal
+- [Achno/gocheat](https://github.com/Achno/gocheat) - A beautiful customizable TUI Cheatsheet for keybindings,hotkeys and more in the terminal
 - [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
@@ -1031,7 +1031,6 @@
 - [blocklistproject/Lists](https://github.com/blocklistproject/Lists) - Primary Block Lists
 - [kaiwalyakoparkar/Full-Stack-Development-Learning-Path](https://github.com/kaiwalyakoparkar/Full-Stack-Development-Learning-Path) - This repo contains all the things which I practice while learning the Full-stack web development
 - [octokatherine/readme.so](https://github.com/octokatherine/readme.so) - An online drag-and-drop editor to easily build READMEs
-- [Athena-OS/athena](https://github.com/Athena-OS/athena) - Athena OS is a Arch/Nix-based distro focused on Cybersecurity. Learn, practice and enjoy with any hacking tool!
 - [runningcheese/RunningCheese-Firefox](https://github.com/runningcheese/RunningCheese-Firefox) - A Graceful and Powerful Customized Firefox
 - [tkhquang/userChrome.js](https://github.com/tkhquang/userChrome.js) - userChrome.js for Firefox
 - [hanacchi/RestoreFirefoxJS](https://github.com/hanacchi/RestoreFirefoxJS) - userChromeJS scripts to restore Firefox features that have been removed or changed
@@ -2902,7 +2901,7 @@
 - [praj2408/End-To-End-Resume-ATS-Tracking-LLM-Project-With-Google-Gemini-Pro](https://github.com/praj2408/End-To-End-Resume-ATS-Tracking-LLM-Project-With-Google-Gemini-Pro) - This is a project aiming to optimize the recruitment process. It integrates an advanced Applicant Tracking System with Google Gemini Pro, streamlining resume parsing, keyword matching, and candidate e
 - [ekramasif/ATS_Resume_Expert](https://github.com/ekramasif/ATS_Resume_Expert) - ATS Resume Expert uses AI to optimize your resume for Applicant Tracking Systems (ATS). Get past the filter & reach human reviewers. Increase your chances, land your dream job!
 - [adamidarrha/TopGptPrompts](https://github.com/adamidarrha/TopGptPrompts) - the leaked prompts from the best performing gpts
-- [abilzerian/LLM-Prompt-Library](https://github.com/abilzerian/LLM-Prompt-Library) - My personal prompt library for various LLMs + scripts & tools. Suitable for models from Deepseek, OpenAI, Claude, Meta, Mistral, Google, Grok, and others.
+- [abilzerian/LLM-Prompt-Library](https://github.com/abilzerian/LLM-Prompt-Library) - Comprehensive prompt library for various LLMs + scripts & tools. Suitable for models from Deepseek, OpenAI, Claude, Meta, Mistral, Google, Grok, and others.
 - [javi22020/Prompt-Generator](https://github.com/javi22020/Prompt-Generator) - Use this project to create your own random prompts for Stable Diffusion! Besides, you'll be able to add your own adjectives, objects and styles in the code.
 - [bigscience-workshop/promptsource](https://github.com/bigscience-workshop/promptsource) - Toolkit for creating, sharing and using natural language prompts.
 - [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) - Focus on prompting and generating
@@ -3547,6 +3546,7 @@
 - [ivan-hc/AM](https://github.com/ivan-hc/AM) - AppImage Package Manager: AppImage sandboxing, local and system installation, update all AppImages, an extensible database of AppImages and portable apps, lists for AppImages and other GNU/Linux binar
 - [metis-os/metis-sideload](https://github.com/metis-os/metis-sideload) - // Ofiicial installer for @metis-os
 - [metis-os/repo-recon](https://github.com/metis-os/repo-recon) - 📦 Repository: recon, Hacking tools // pkgs
+- [Athena-OS/athena](https://github.com/Athena-OS/athena) - Athena OS is a Arch/Nix-based distro focused on Cybersecurity. Learn, practice and enjoy with any hacking tool!
 - [archon-linux/archon-iso](https://github.com/archon-linux/archon-iso) - 
 - [SeveredinTwain/nemesis](https://github.com/SeveredinTwain/nemesis) - Custom Linux ISO Build
 - [wenerme/alpine-image](https://github.com/wenerme/alpine-image) - AlpineLinux pre-build disk images
