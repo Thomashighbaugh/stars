@@ -224,7 +224,6 @@
 - [christophgysin/pasystray](https://github.com/christophgysin/pasystray) - PulseAudio system tray
 - [CristianHenzel/ClipIt](https://github.com/CristianHenzel/ClipIt) - ClipIt clipboard manager for GTK+
 - [conformal/spectrwm](https://github.com/conformal/spectrwm) - A small dynamic tiling window manager for X11.
-- [Embroidermodder/Embroidermodder](https://github.com/Embroidermodder/Embroidermodder) - Free machine embroidery software supporting a variety of formats.
 - [cfenollosa/os-tutorial](https://github.com/cfenollosa/os-tutorial) - How to create an OS from scratch
 
 ## C# # 
@@ -301,6 +300,7 @@
 - [diasurgical/DevilutionX](https://github.com/diasurgical/DevilutionX) - Diablo build for modern operating systems
 - [pbek/QOwnNotes](https://github.com/pbek/QOwnNotes) - QOwnNotes is a plain-text file notepad and todo-list manager with Markdown support and Nextcloud / ownCloud integration.
 - [robotology/yarp](https://github.com/robotology/yarp) - YARP - Yet Another Robot Platform
+- [Embroidermodder/Embroidermodder](https://github.com/Embroidermodder/Embroidermodder) - Free machine embroidery software supporting a variety of formats.
 - [lxqt/lxqt-panel](https://github.com/lxqt/lxqt-panel) - The LXQt desktop panel
 - [unetbootin/unetbootin](https://github.com/unetbootin/unetbootin) - UNetbootin installs Linux/BSD distributions to a partition or USB drive
 - [hannesschulze/conecto](https://github.com/hannesschulze/conecto) - Integrate your Android-phone with your PC - a GTK client for KDEConnect.
@@ -314,6 +314,12 @@
 
 ## CSS 
 
+- [PapirusDevelopmentTeam/firefox-papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/firefox-papirus-icon-theme) - Papirus icons for Firefox
+- [sinazadeh/Firefox-Moonlight-Theme](https://github.com/sinazadeh/Firefox-Moonlight-Theme) - 
+- [datguypiko/Firefox-Mod-Blur](https://github.com/datguypiko/Firefox-Mod-Blur) - Firefox CSS Theme - For dark theme lovers / More compact / Modular / Blur
+- [Guerra24/Firefox-UWP-Style](https://github.com/Guerra24/Firefox-UWP-Style) - Sun Valley + MDL2 Theme for Firefox
+- [Neikon/Fox11](https://github.com/Neikon/Fox11) - 
+- [APKUtils/piracyops](https://github.com/APKUtils/piracyops) - 
 - [Naezr/ShyFox](https://github.com/Naezr/ShyFox) - A very shy little theme that hides the entire browser interface in the window border
 - [oviung/DownToneUI-Firefox](https://github.com/oviung/DownToneUI-Firefox) - A modular UI customization for Firefox. Supports Sidebery styling.
 - [akkva/gwfox](https://github.com/akkva/gwfox) - 果味🦊皮...
@@ -706,6 +712,8 @@
 
 ## HTML 
 
+- [5hubham5ingh/foxpanel](https://github.com/5hubham5ingh/foxpanel) - Highly feature rich, firefox home-page, linux system control panel, built using Baremetal for Arch linux.
+- [utensils/mcp-nixos](https://github.com/utensils/mcp-nixos) - MCP-NixOS - Model Context Protocol Server for NixOS resources
 - [inulute/unlim-cloud](https://github.com/inulute/unlim-cloud) - UnlimCloud provides unlimited cloud storage for your files, utilizing Telegram as the storage solution. Simply log in using your Telegram ID, and you are good to go.
 - [javiereguiluz/easybook](https://github.com/javiereguiluz/easybook) - Book publishing as easy as it should be (built with Symfony components)
 - [EmailThis/typographic-email](https://github.com/EmailThis/typographic-email) - Responsive email template that is optimised for readability.
@@ -878,6 +886,17 @@
 
 ## JavaScript 
 
+- [gocom/pinceau](https://github.com/gocom/pinceau) - Personal Firefox userChrome and preference customizations
+- [nightson/userChromeJS](https://github.com/nightson/userChromeJS) - Scripts for Firefox extension UserChromeJS
+- [simsrw73/userstyle-gen](https://github.com/simsrw73/userstyle-gen) - Convert CSS to userstyles (user.css) and userscripts (user.js)
+- [Hakanbaban53/RealFire](https://github.com/Hakanbaban53/RealFire) - A minimalist animated oneliner theme for Firefox perfectly matching real Dark.
+- [earthlng/aboutconfig](https://github.com/earthlng/aboutconfig) - 
+- [filips123/PWAsForFirefox](https://github.com/filips123/PWAsForFirefox) - A tool to install, manage and use Progressive Web Apps (PWAs) in Mozilla Firefox
+- [Griever/userChromeJS](https://github.com/Griever/userChromeJS) - 
+- [ywzhaiqi/userChromeJS](https://github.com/ywzhaiqi/userChromeJS) - 我原创或修改或自用的 userChromeJS 脚本
+- [harv/userChromeJS](https://github.com/harv/userChromeJS) - My userChromeJS scripts!
+- [mozfreddyb/webext-firstpartyisolation](https://github.com/mozfreddyb/webext-firstpartyisolation) - Enable First Party Isolation Pref
+- [Ibit-to/google-unlocked](https://github.com/Ibit-to/google-unlocked) - Google Unlocked browser extension uncensor google search results
 - [LenAnderson/SillyTavern-WorldInfoInfo](https://github.com/LenAnderson/SillyTavern-WorldInfoInfo) - See which WorldInfo entries were active in the last generated message.
 - [leandrojofre/SillyTavern-Presence](https://github.com/leandrojofre/SillyTavern-Presence) - Gives each individual character their own memory.
 - [TheZennou/STExtension-Snapshot](https://github.com/TheZennou/STExtension-Snapshot) - Takes a snapshot of the current chat and makes an image of it for easy sharing.
@@ -915,7 +934,7 @@
 - [DisboxApp/web](https://github.com/DisboxApp/web) - Use Discord as a file storage service.
 - [lencx/Noi](https://github.com/lencx/Noi) - 🚀 Power Your World with AI - Explore, Extend, Empower.
 - [Pythonnego/CrackedBlackFriday-GPTs-Prompts](https://github.com/Pythonnego/CrackedBlackFriday-GPTs-Prompts) - List of free GPTs that doesn't require plus subscription
-- [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
+- [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [thesephist/thingboard](https://github.com/thesephist/thingboard) - A board of things, anywhere you want on the screen
 - [anup-a/svgwave](https://github.com/anup-a/svgwave) - SVG Wave is a tiny, free and beautiful SVG gradient waves generator for your next design.
 - [DustinBrett/daedalOS](https://github.com/DustinBrett/daedalOS) - Desktop environment in the browser
@@ -1014,7 +1033,6 @@
 - [davidshariff/computer-science](https://github.com/davidshariff/computer-science) - Contains the basic fundamental data structures and algorithms a front end engineer should know, written all in JavaScript.
 - [tinderzone/Feather](https://github.com/tinderzone/Feather) - 
 - [Laverna/laverna](https://github.com/Laverna/laverna) - Laverna is a JavaScript note taking application with Markdown editor and encryption support. Consider it like open source alternative to Evernote.
-- [TriliumNext/trilium](https://github.com/TriliumNext/trilium) - Build your personal knowledge base with Trilium Notes
 - [dezgo-com/example-nodejs-simple](https://github.com/dezgo-com/example-nodejs-simple) - Minimal examples on how to use Dezgo's text2image / image2image / inpainting endpoints with NodeJS
 - [ai-shifu/ChatALL](https://github.com/ai-shifu/ChatALL) - Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers
 - [GopalSaraf/Spotify_Crack_For_MacOS-Windows-Linux](https://github.com/GopalSaraf/Spotify_Crack_For_MacOS-Windows-Linux) - Spotify crack for MacOS, Windows and Linux
@@ -1143,6 +1161,7 @@
 - [vivek9patel/vivek9patel.github.io](https://github.com/vivek9patel/vivek9patel.github.io) - Web simulation of Ubuntu 20.04, made using NEXT.js & tailwind CSS
 - [feiruo/userChromeJS](https://github.com/feiruo/userChromeJS) - Firefox userChromeJS
 - [luismoralesarg/EnterTheMatrix](https://github.com/luismoralesarg/EnterTheMatrix) - The most faithful version of the Matrix rain.
+- [remorses/fumabase](https://github.com/remorses/fumabase) - The open source Mintlify. Agent that writes documentation for you.
 - [interactivethings/catalog](https://github.com/interactivethings/catalog) - Create living style guides using Markdown or React
 - [mipmip/awesomewm-screenshots](https://github.com/mipmip/awesomewm-screenshots) - AwesomeWM screenshot gallery. https://mipmip.github.io/awesomewm-screenshots/
 - [BlackCapCoder/scrimba-vim](https://github.com/BlackCapCoder/scrimba-vim) - Edit scrimba projects with vim
@@ -1348,6 +1367,7 @@
 ## Jinja 
 
 - [sasha0552/ToriLinux](https://github.com/sasha0552/ToriLinux) - Linux LiveCD for offline AI training and inference.
+- [abilzerian/LLM-Prompt-Library](https://github.com/abilzerian/LLM-Prompt-Library) - A playground of highly experimental prompts, Jinja2 templates & scripts for machine intelligence models from OpenAI, Anthropic, Meta, Mistral, Google, xAI & others. Alex Bilzerian (2022-2025).
 - [geerlingguy/internet-pi](https://github.com/geerlingguy/internet-pi) - Raspberry Pi config for all things Internet.
 - [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) - 🐳 Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker
 - [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
@@ -1391,7 +1411,7 @@
 - [jupyter-naas/awesome-notebooks](https://github.com/jupyter-naas/awesome-notebooks) - Data & AI Notebook templates catalog organized by tools, following the IMO (input, model, output) framework for easy usage and discovery..
 - [norahsakal/fine-tune-gpt3-model](https://github.com/norahsakal/fine-tune-gpt3-model) - How you can fine-tune a GPT-3 model with Python with your own data
 - [ratthachat/prompt_engineering](https://github.com/ratthachat/prompt_engineering) - Prompt Engineering
-- [EgoAlpha/prompt-in-context-learning](https://github.com/EgoAlpha/prompt-in-context-learning) - Awesome resources for in-context learning and prompt engineering: Mastery of the LLMs such as ChatGPT, GPT-3, and FlanT5, with up-to-date and cutting-edge updates.
+- [EgoAlpha/prompt-in-context-learning](https://github.com/EgoAlpha/prompt-in-context-learning) - Awesome resources for in-context learning and prompt engineering: Mastery of the LLMs such as ChatGPT, GPT-3, and FlanT5, with up-to-date and cutting-edge updates.   - Professor Yu Liu
 - [promptslab/Promptify](https://github.com/promptslab/Promptify) - Prompt Engineering | Prompt Versioning | Use GPT or other prompt based models to get structured output. Join our discord for Prompt-Engineering, LLMs and other latest research
 - [dosanjos44/FC-Python-Tutorials](https://github.com/dosanjos44/FC-Python-Tutorials) - Collection of tutorials and resources from fcpython.com
 - [pythonspaces/awesome-resources](https://github.com/pythonspaces/awesome-resources) - Free Learning Resources
@@ -1435,6 +1455,8 @@
 
 ## Lua 
 
+- [hidayry/dotfiles-awesomewm](https://github.com/hidayry/dotfiles-awesomewm) - Dotfiles about Awesomewm
+- [Daru-san/SnowyShell](https://github.com/Daru-san/SnowyShell) - A beautiful wayland shell written with lua, rust and astal.
 - [greggh/claude-code.nvim](https://github.com/greggh/claude-code.nvim) - Seamless integration between Claude Code AI assistant and Neovim
 - [adibhanna/nvim](https://github.com/adibhanna/nvim) - Neovim config
 - [NicoElbers/nvim-config](https://github.com/NicoElbers/nvim-config) - 
@@ -1694,7 +1716,7 @@
 - [folke/todo-comments.nvim](https://github.com/folke/todo-comments.nvim) - ✅  Highlight, list and search todo comments in your projects
 - [sudormrfbin/cheatsheet.nvim](https://github.com/sudormrfbin/cheatsheet.nvim) - A cheatsheet plugin for neovim with bundled cheatsheets for the editor, multiple vim plugins, nerd-fonts, regex, etc. with a Telescope fuzzy finder interface!
 - [mfussenegger/nvim-treehopper](https://github.com/mfussenegger/nvim-treehopper) - Region selection with hints on the AST nodes of a document powered by treesitter
-- [benbrastmckie/.config](https://github.com/benbrastmckie/.config) - NeoVim configuration optimized for writing in LaTeX
+- [benbrastmckie/.config](https://github.com/benbrastmckie/.config) - NeoVim configuration optimized for writing in LaTeX with AI integration for Avante, Lectic, and Claude-Code
 - [Abstract-IDE/Abstract](https://github.com/Abstract-IDE/Abstract) - neovim as an IDE
 - [jorenheit/awesome_alttab](https://github.com/jorenheit/awesome_alttab) - Familiar Alt-Tab functionality in Awesome WM (3.5.5)
 - [jorenheit/awesome_floattile](https://github.com/jorenheit/awesome_floattile) - Tiling in a floating environment for Awesome 3.5
@@ -1887,7 +1909,6 @@
 - [mustaqimM/dotfiles](https://github.com/mustaqimM/dotfiles) - 
 - [figsoda/cfg](https://github.com/figsoda/cfg) - My NixOS configuration featuring awesome and neovim
 - [zliebersbach/awesome-md-cfg](https://github.com/zliebersbach/awesome-md-cfg) - Awesome WM configuration for multiple monitors, inspired by the Material Design guidelines.
-- [TLH-Deprecated-Linux-Configurations/awesome](https://github.com/TLH-Deprecated-Linux-Configurations/awesome) - or How I Learned to Stop Worrying and Love AwesomeWM
 - [aidanharris/awesome-config](https://github.com/aidanharris/awesome-config) - My config files for the Awesome window manager
 - [Ddorda/awesome](https://github.com/Ddorda/awesome) - My Awesome WM configuration
 - [ruslansin/snsome](https://github.com/ruslansin/snsome) - This is my theme for awesomeWM 4.1+. I am trying to use it as my main WM and customize it for myself
@@ -2060,6 +2081,9 @@
 
 ## Nix 
 
+- [nix-community/flakelight](https://github.com/nix-community/flakelight) - Framework for simplifying flake setup [maintainer=@accelbread]
+- [nix-community/nix-index-database](https://github.com/nix-community/nix-index-database) - Weekly updated nix-index database [maintainer=@Mic92]
+- [AbooMinister25/dotfiles](https://github.com/AbooMinister25/dotfiles) - My NixOS system configuration and user configuration managed by home-manager.
 - [saygo-png/nixos](https://github.com/saygo-png/nixos) - Wasting my life away by writing a nixos config
 - [MatthewCroughan/NixThePlanet](https://github.com/MatthewCroughan/NixThePlanet) - Run macOS, Windows and more via a single Nix command, or simple nixosModules
 - [Janrupf/stable-diffusion-webui-nix](https://github.com/Janrupf/stable-diffusion-webui-nix) - Flake for running upstream stable diffusion webui on Nix
@@ -2144,7 +2168,7 @@
 - [AlephNought0/Faery](https://github.com/AlephNought0/Faery) - My NixOS flake with the goal to have the most bleeding-edge technology in it.
 - [ardishko/OuterHeaven](https://github.com/ardishko/OuterHeaven) - My NixOS configuration that I try to keep simple and readable.
 - [roastedcheese/nicks](https://github.com/roastedcheese/nicks) - My nixos flake
-- [NixOS/infra](https://github.com/NixOS/infra) - NixOS configurations for nixos.org and its servers
+- [NixOS/infra](https://github.com/NixOS/infra) - NixOS configurations for nixos.org and its servers [maintainers=@mweinelt, @Mic92, @arianvp, @edef1c, @vcunat, @jfly]
 - [Melkor333/milkOS](https://github.com/Melkor333/milkOS) - something to NixOS similar to what Manjaro is to Arch linux. Let's hope it doesn't age as the name suggests...
 - [Melkor333/nixos-boot](https://github.com/Melkor333/nixos-boot) - A NixOS Plymouth theme displaying a fancy growing and shrinking NixOS Logo
 - [n3oney/nixus](https://github.com/n3oney/nixus) - My NixOS configuration.
@@ -2223,6 +2247,7 @@
 - [RiscadoA/nixconfig](https://github.com/RiscadoA/nixconfig) - My NixOS configuration files.
 - [wiedzmin/nixos-config](https://github.com/wiedzmin/nixos-config) - My NixOS configuration
 - [luochen1990/nixos-config](https://github.com/luochen1990/nixos-config) - LC's personal NixOS Configuration
+- [juanibiapina/dotfiles](https://github.com/juanibiapina/dotfiles) - Dotfiles optimized for performance and high productivity in the terminal
 - [nixvital/vital-modules](https://github.com/nixvital/vital-modules) - A collection of NixOS modules serving as building blocks to construct NixOS configurations.
 - [PetarKirov/dotfiles](https://github.com/PetarKirov/dotfiles) - My personal system and $HOME configuration managed by Nix
 - [selfuryon/nixos-config](https://github.com/selfuryon/nixos-config) - My NixOS Configuration
@@ -2419,6 +2444,11 @@
 
 ## Others 
 
+- [Thomashighbaugh/Lenovo-Legion-Advanced-Bios](https://github.com/Thomashighbaugh/Lenovo-Legion-Advanced-Bios) - The contents of the flashdrive (and an ISO) that when booted from, I can access the Advanced Bios on my Legion Pro 5 16irx9
+- [jim-schwoebel/awesome_ai_agents](https://github.com/jim-schwoebel/awesome_ai_agents) - 🤖 A comprehensive list of 1,500+ resources and tools related to AI agents.
+- [CSMarckitus/Photoshop](https://github.com/CSMarckitus/Photoshop) - This program written in C will help you to automatically install everything you need and configure it so that you can run Photoshop on your Linux without problems.
+- [zayronxio/ketsa-icon-theme](https://github.com/zayronxio/ketsa-icon-theme) - Beautiful icons designed to detail with lots of light and elaborate shadows, Original Designs
+- [jtr13/bookdown-template](https://github.com/jtr13/bookdown-template) - Template for R bookdown books
 - [TensorBlock/awesome-mcp-servers](https://github.com/TensorBlock/awesome-mcp-servers) - A comprehensive collection of Model Context Protocol (MCP) servers
 - [lfnovo/open-notebook-boilerplate](https://github.com/lfnovo/open-notebook-boilerplate) - 
 - [Fausto-Korpsvart/Material-GTK-Themes](https://github.com/Fausto-Korpsvart/Material-GTK-Themes) - Material GTK Themes
@@ -2466,7 +2496,7 @@
 - [SecShiv/OneDorkForAll](https://github.com/SecShiv/OneDorkForAll) - An insane list of all dorks taken from everywhere from various different sources.
 - [SpitFire-666/Firefox-Stuff](https://github.com/SpitFire-666/Firefox-Stuff) - Firefox info, addons, extensions, themes, customisation and stuff
 - [banzr/RemoveMojaveApps](https://github.com/banzr/RemoveMojaveApps) - How to remove protected apps, such as News, Stocks, and Home from a Mojave macOS installation
-- [fmhy/FMHY](https://github.com/fmhy/FMHY) - /r/FREEMEDIAHECKYEAH
+- [fmhy/FMHY](https://github.com/fmhy/FMHY) - https://fmhy.net/
 - [blackosx/OpenCanopyIcons](https://github.com/blackosx/OpenCanopyIcons) - A range of .icns files designed specifically for OpenCanopy
 - [blackosx/BsxM1](https://github.com/blackosx/BsxM1) - An OpenCanopy Theme
 - [machinemindsai/secrets-of-tree-of-thoughts-tot](https://github.com/machinemindsai/secrets-of-tree-of-thoughts-tot) - Secrets of Tree of Thoughts for Programmers (Preview)
@@ -2588,7 +2618,7 @@
 - [SalGnt/cscs](https://github.com/SalGnt/cscs) - A curated list of Coding Style Conventions and Standards.
 - [hng/tech-coops](https://github.com/hng/tech-coops) - A list of tech coops and resources concerning tech coops and worker owned cooperatives in general.
 - [vicoyeh/pointers-for-software-engineers](https://github.com/vicoyeh/pointers-for-software-engineers) - A curated list of topics to start learning software engineering
-- [d-solis/dots](https://github.com/d-solis/dots) - For real this time. XD
+- [ch3gg5/dots](https://github.com/ch3gg5/dots) - For real this time. XD
 - [Amitabha37377/Awful-DOTS](https://github.com/Amitabha37377/Awful-DOTS) - 
 - [coderdost/full-stack-dev-2023](https://github.com/coderdost/full-stack-dev-2023) - Full Stack Developer Course 2023 - CoderDost Youtube channel
 - [zemmsoares/awesome-rices](https://github.com/zemmsoares/awesome-rices) - A curated list of awesome unix user rices!
@@ -2596,7 +2626,7 @@
 - [SuyashLakhotia/TechInterview](https://github.com/SuyashLakhotia/TechInterview) - :gem: Cheat sheet to prep for technical interviews.
 - [bootdotdev/curriculum](https://github.com/bootdotdev/curriculum) - An open roadmap for Boot.dev's backend development curriculum
 - [luisdnsantos/awesome-computer-graphics](https://github.com/luisdnsantos/awesome-computer-graphics) - :small_red_triangle::sunglasses: A curated list of awesome stuff to learn computer graphics
-- [ocean1/awesome-thesis](https://github.com/ocean1/awesome-thesis) - A curated list of practical tips and tricks to help you achieve an awesome CS master thesis [WIP] - contributions are welcome
+- [awesome-thesis/awesome-thesis](https://github.com/awesome-thesis/awesome-thesis) - A curated list of practical tips and tricks to help you achieve an awesome CS master thesis [WIP] - contributions are welcome
 - [d0r1h/ML-University](https://github.com/d0r1h/ML-University) - Machine Learning Open Source University
 - [enkidevs/curriculum](https://github.com/enkidevs/curriculum) - 👩‍🏫 👨‍🏫 The open-source curriculum of Enki!
 - [quobit/awesome-python-in-education](https://github.com/quobit/awesome-python-in-education) - A curated list about Python in Education :snake: :mortar_board:
@@ -2719,7 +2749,6 @@
 - [webdigi/AWS-VPN-Server-Setup](https://github.com/webdigi/AWS-VPN-Server-Setup) - Setup your own private, secure, free* VPN on the Amazon AWS Cloud in 10 minutes. CloudFormation
 - [bmorelli25/Become-A-Full-Stack-Web-Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer) - Free resources for learning Full Stack Web Development
 - [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
-- [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
 - [baquer/GATE-and-CSE-Resources-for-Students](https://github.com/baquer/GATE-and-CSE-Resources-for-Students) - 📚 📖 📚CSE GATE Resources for GATE and CSE Aspirants 😎 😁 . Show your ❤️ by ⭐️⭐️
 - [the-akira/Computer-Science-Resources](https://github.com/the-akira/Computer-Science-Resources) - A list of resources in different fields of Computer Science
 - [amilajack/reading](https://github.com/amilajack/reading) - A list of computer-science readings I recommend
@@ -2886,6 +2915,22 @@
 
 ## Python 
 
+- [mainframed/IconTheme](https://github.com/mainframed/IconTheme) - GTK Icon Theme Creator
+- [Panchovix/stable-diffusion-webui-reForge](https://github.com/Panchovix/stable-diffusion-webui-reForge) - 
+- [paulbricman/conceptarium](https://github.com/paulbricman/conceptarium) - A fluid medium for storing, relating, and surfacing thoughts.
+- [mehdihosseinimoghadam/open-sourced-nootbookLM](https://github.com/mehdihosseinimoghadam/open-sourced-nootbookLM) - Open Sourced NoteBookLM
+- [streamlit/theming-showcase-dark](https://github.com/streamlit/theming-showcase-dark) - Showcase app for Theming (Dark Theme)
+- [pyscaffold/pyscaffold](https://github.com/pyscaffold/pyscaffold) - 🛠 Python project template generator with batteries included
+- [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
+- [tezh404/Document-categorizer](https://github.com/tezh404/Document-categorizer) - AI-Powered Document Categorizer & Organizer
+- [sean1832/GPT-Brain](https://github.com/sean1832/GPT-Brain) - An AI-powered brain that efficiently stores, categorizes, and interrelates personal notes to optimize the management of creative ideas.
+- [LearningCircuit/local-deep-research](https://github.com/LearningCircuit/local-deep-research) - Local Deep Research is an AI-powered assistant that transforms complex questions into comprehensive, cited reports by conducting iterative analysis using any LLM across diverse knowledge sources inclu
+- [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) - An AI Hedge Fund Team
+- [Repello-AI/Agent-Wiz](https://github.com/Repello-AI/Agent-Wiz) - A CLI tool for threat modeling and visualizing AI agents built using popular frameworks like LangGraph, AutoGen, CrewAI, and more.
+- [TilmanGriesel/chipper](https://github.com/TilmanGriesel/chipper) - ✨ AI interface for tinkerers (Ollama, Haystack RAG, Python)
+- [imarkoff/Marble-shell-theme](https://github.com/imarkoff/Marble-shell-theme) - Shell theme for GNOME DE
+- [TechnicalParadox/GeminiProjectAssistant](https://github.com/TechnicalParadox/GeminiProjectAssistant) - An AI assistant powered by Google Gemini to help you manage, create, and debug your programming projects.
+- [stacklok/codegate](https://github.com/stacklok/codegate) - CodeGate: Security, Workspaces and Multiplexing for AI Agentic Frameworks
 - [rmusser01/tldw_chatbook](https://github.com/rmusser01/tldw_chatbook) - TUI Front-End app designed primarily for tldw
 - [darrenburns/elia](https://github.com/darrenburns/elia) - A snappy, keyboard-centric terminal user interface for interacting with large language models. Chat with ChatGPT, Claude, Llama 3, Phi 3, Mistral, Gemma and more.
 - [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) - An Open Source implementation of Notebook LM with more flexibility and features
@@ -2962,7 +3007,6 @@
 - [praj2408/End-To-End-Resume-ATS-Tracking-LLM-Project-With-Google-Gemini-Pro](https://github.com/praj2408/End-To-End-Resume-ATS-Tracking-LLM-Project-With-Google-Gemini-Pro) - This is a project aiming to optimize the recruitment process. It integrates an advanced Applicant Tracking System with Google Gemini Pro, streamlining resume parsing, keyword matching, and candidate e
 - [ekramasif/ATS_Resume_Expert](https://github.com/ekramasif/ATS_Resume_Expert) - ATS Resume Expert uses AI to optimize your resume for Applicant Tracking Systems (ATS). Get past the filter & reach human reviewers. Increase your chances, land your dream job!
 - [adamidarrha/TopGptPrompts](https://github.com/adamidarrha/TopGptPrompts) - the leaked prompts from the best performing gpts
-- [abilzerian/LLM-Prompt-Library](https://github.com/abilzerian/LLM-Prompt-Library) - A playground of highly experimental prompts, tools & scripts for machine intelligence models from Apple, DeepSeek, OpenAI, Anthropic, Meta, Mistral, Google, xAI & others. Created Alex Bilzerian, maint
 - [javi22020/Prompt-Generator](https://github.com/javi22020/Prompt-Generator) - Use this project to create your own random prompts for Stable Diffusion! Besides, you'll be able to add your own adjectives, objects and styles in the code.
 - [bigscience-workshop/promptsource](https://github.com/bigscience-workshop/promptsource) - Toolkit for creating, sharing and using natural language prompts.
 - [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) - Focus on prompting and generating
@@ -3021,7 +3065,7 @@
 - [earthonion/ChatGPT-Book-Generator](https://github.com/earthonion/ChatGPT-Book-Generator) - Input any book title and it will generate a full book in PDF format.
 - [mikavehns/BookGPT](https://github.com/mikavehns/BookGPT) - Writes complete books with given paramters, using GPT-3.
 - [fdtory/FictionGPT](https://github.com/fdtory/FictionGPT) - Write fiction stories with given parameters, using GPT-3,5
-- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models with support for multiple inference backends.
+- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - LLM UI with advanced features, easy setup, and multiple backend support.
 - [zestor/Muses](https://github.com/zestor/Muses) - Artificial Intelligence (AI) Long Form Fiction Writer using OpenAI or NLP Cloud
 - [mozilla/fxemoji](https://github.com/mozilla/fxemoji) - FxEmojis - a friendly emoji set from Mozilla
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - LLM based autonomous agent that conducts deep local and web research on any topic and generates a long report with citations.
@@ -3053,7 +3097,6 @@
 - [llm-attacks/llm-attacks](https://github.com/llm-attacks/llm-attacks) - Universal and Transferable Attacks on Aligned Language Models
 - [mhmadmasrwe/w0lgix-tool](https://github.com/mhmadmasrwe/w0lgix-tool) - Some Of  MY TOOLS
 - [huggingface/text-generation-inference](https://github.com/huggingface/text-generation-inference) - Large Language Model Text Generation Inference
-- [juanibiapina/dotfiles](https://github.com/juanibiapina/dotfiles) - Dotfiles optimized for performance and high productivity in the terminal
 - [idilsulo/ChatGPTify](https://github.com/idilsulo/ChatGPTify) - Spotify playlist generator via ChatGPT
 - [ludwig-ai/ludwig](https://github.com/ludwig-ai/ludwig) - Low-code framework for building custom LLMs, neural networks, and other AI models
 - [nix-community/NUR](https://github.com/nix-community/NUR) - Nix User Repository: User contributed nix packages [maintainer=@Pandapip1]
@@ -3178,7 +3221,7 @@
 - [demisto/content](https://github.com/demisto/content) - Demisto is now Cortex XSOAR. Automate and orchestrate your Security Operations with Cortex XSOAR's ever-growing Content Repository. Pull Requests are always welcome and highly appreciated!
 - [awesometoolbox/otf2ttf](https://github.com/awesometoolbox/otf2ttf) - Convert OpenType Font (OTF) to TrueType Font (TTF) format using fonttools.
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
-- [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
+- [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
 - [matplotlib/cheatsheets](https://github.com/matplotlib/cheatsheets) - Official Matplotlib cheat sheets
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [great-expectations/great_expectations](https://github.com/great-expectations/great_expectations) - Always know what to expect from your data.
@@ -3322,6 +3365,12 @@
 
 ## Rust 
 
+- [calcit-lang/calcit](https://github.com/calcit-lang/calcit) - Indentation-based ClojureScript dialect in Rust and compiling to JavaScript ES Modules
+- [subconsciousnetwork/noosphere](https://github.com/subconsciousnetwork/noosphere) - Noosphere is a protocol for thought; let's discover it together!
+- [appaquet/exomind](https://github.com/appaquet/exomind) - A personal knowledge management tool hosted on your own personal cloud
+- [Smithay/wayland-rs](https://github.com/Smithay/wayland-rs) - Rust implementation of the wayland protocol (client and server).
+- [hedonhermdev/zettl](https://github.com/hedonhermdev/zettl) - A blazing fast note-taking system
+- [PolyMeilex/Anodium](https://github.com/PolyMeilex/Anodium) - WIP Wayland Compositor
 - [erikgrinaker/toydb](https://github.com/erikgrinaker/toydb) - Distributed SQL database in Rust, written as an educational project
 - [sigoden/dynimgen](https://github.com/sigoden/dynimgen) - A dynamic image generator.
 - [catacombing/catacomb](https://github.com/catacombing/catacomb) - A Wayland Mobile Compositor
@@ -3485,6 +3534,8 @@
 
 ## Shell 
 
+- [AbkhazianDevelopers/AdobePhotoshopOnLinux](https://github.com/AbkhazianDevelopers/AdobePhotoshopOnLinux) - AdobePhotoshopOnLinux — это установщик на bash, созданный для облегчения установки Adobe Photoshop на операционные системы семейства Linux. Этот скрипт автоматизирует процесс установки, позволяя польз
+- [prosegrinder/pandoc-templates](https://github.com/prosegrinder/pandoc-templates) - An opinionated set of Pandoc templates and scripts for converting markdown to DOCX manuscripts that adhere to William Shunn's Proper Manuscript Format guidelines using Pandoc.
 - [EliverLara/dotfiles](https://github.com/EliverLara/dotfiles) - 
 - [yeyushengfan258/Intervals-grub-theme](https://github.com/yeyushengfan258/Intervals-grub-theme) - Intervals-grub-theme
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
@@ -3615,7 +3666,7 @@
 - [0TrashPanda/install-script-artix](https://github.com/0TrashPanda/install-script-artix) - 
 - [gavinlyonsrepo/cylon](https://github.com/gavinlyonsrepo/cylon) - A Terminal user interface for maintaining an Arch Linux distribution.
 - [ideas-man/artix-wizard](https://github.com/ideas-man/artix-wizard) - A collection of install/setup/configuration scripts for quick and painless workstation/server environment deployment under Artix Linux.
-- [MolassesLover/Nordzy-icon](https://github.com/MolassesLover/Nordzy-icon) - Nordzy is a free and open source icon theme for Linux desktops using the Nord color palette from Arctic Ice Studio and based on WhiteSur and Numix Icon Theme.
+- [MolassesLover/Nordzy-icon](https://github.com/MolassesLover/Nordzy-icon) - Nordzy is a free and open-source icon theme for Linux desktops, using the Nord color palette by Arctic Ice Studio, and based on the WhiteSur and Numix Icon themes.
 - [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps
 - [faisyl/alpine-runit](https://github.com/faisyl/alpine-runit) - Repo for the docker image of the same name.
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
@@ -3637,7 +3688,7 @@
 - [bensuperpc/scripts](https://github.com/bensuperpc/scripts) - Collection of useful scripts for Linux (git, docker, LUKS, Archlinux...)
 - [bensuperpc/docker-scripts](https://github.com/bensuperpc/docker-scripts) - Collection of useful scripts for docker
 - [Thomashighbaugh/color-scripts](https://github.com/Thomashighbaugh/color-scripts) - Shell Color Script Management Utility
-- [samrxth/.dotfiles](https://github.com/samrxth/.dotfiles) - My fish, alacritty, iterm2, tmux, nvim, tmux, discoss and zathura configs!
+- [samrathchadha/.dotfiles](https://github.com/samrathchadha/.dotfiles) - My fish, alacritty, iterm2, tmux, nvim, tmux, discoss and zathura configs!
 - [TermuxHackz/wifi-hacker](https://github.com/TermuxHackz/wifi-hacker) - Shell Script For Attacking Wireless Connections Using Built-In Kali Tools. Supports All Securities (WEP, WPS, WPA, WPA2)
 - [GabrielTenma/dotfiles](https://github.com/GabrielTenma/dotfiles) - Configuration files in Unix-like systems
 - [3enedict/Arch-Linux-ARM-installer](https://github.com/3enedict/Arch-Linux-ARM-installer) - 
@@ -3718,6 +3769,7 @@
 - [opsgang/alpine_build_scripts](https://github.com/opsgang/alpine_build_scripts) - ... collection of ash scripts to install various common pkgs.
 - [NTBBloodbath/dotfiles](https://github.com/NTBBloodbath/dotfiles) - /boot: No such file or directory. Discontinued, see https://github.com/NTBBloodbath/tundra
 - [chrispap-dev/dotfiles](https://github.com/chrispap-dev/dotfiles) - Collection of my config files i use in my Ubuntu daily driver
+- [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
 - [dhasirar/instax](https://github.com/dhasirar/instax) - instax is an tool to perform brute force attack against Instagram,(https://github.com/dhasirar/instax) by dhasirar under GNU LICENSE. WARNING! This tool was made for educational purposes! https://www.
 - [Lolzen/void-live-customizer](https://github.com/Lolzen/void-live-customizer) - script to build a customized livecd of void linux using void-mklive
 - [ahmetozer/whitedoor](https://github.com/ahmetozer/whitedoor) - Experimental embed linux build with containers
@@ -3973,6 +4025,13 @@
 
 ## TypeScript 
 
+- [ssdeanx/deep-research-mcp-server](https://github.com/ssdeanx/deep-research-mcp-server) - MCP Deep Research Server using Gemini creating a Research AI Agent
+- [miurla/morphic](https://github.com/miurla/morphic) - An AI-powered search engine with a generative UI
+- [Radionic/notesify](https://github.com/Radionic/notesify) - A cross-platform, AI-powered note taking app. An open source alternative to NotebookLM.
+- [vivliostyle/create-book](https://github.com/vivliostyle/create-book) - ⚡️ Fast & frictionless book template generator.
+- [stephanianevado/portfolio](https://github.com/stephanianevado/portfolio) - This is my portfolio showcasing my skills and way of coding ✨
+- [Abrockyt/rsc-dev-portfolio](https://github.com/Abrockyt/rsc-dev-portfolio) - # 💻 rsc-dev-portfolioExplore my developer portfolio, built with Next.js. This project highlights my web development skills and offers a clean, user-friendly experience. 🌟
+- [ntegrals/december](https://github.com/ntegrals/december) - A fully local Loveable, Replit, Bolt, v0 alternative that you can run with your own LLM. No monthly subscriptions, private by default.
 - [mtwn105/decipher-research-agent](https://github.com/mtwn105/decipher-research-agent) - Turn topics, links, and files into AI-generated research notebooks — summarize, explore, and ask anything.
 - [ThinkInAIXYZ/deepchat](https://github.com/ThinkInAIXYZ/deepchat) - 🐬DeepChat - A smart assistant that connects powerful AI to your personal world
 - [colemccracken/changelog](https://github.com/colemccracken/changelog) - 
@@ -3991,7 +4050,7 @@
 - [sing1ee/deepseekCoder](https://github.com/sing1ee/deepseekCoder) - Create apps with Deepseek
 - [codeskills-dev/responsive-email](https://github.com/codeskills-dev/responsive-email) - a utility for writing responsive email templates for jsx-email and react-email
 - [thegera4/nextjs-portfolio](https://github.com/thegera4/nextjs-portfolio) - This is my personal portfolio made with typescript, react, tailwind css and nextjs
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 4 / Gemini / Ollama / DeepSeek / Qwen), Knowledge Base (file upload / knowledge management /
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern design AI chat framework. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / knowledge managemen
 - [KazKozDev/NovelGenerator](https://github.com/KazKozDev/NovelGenerator) - Fiction generator using LLM to create complete novels with coherent plots, developed characters, and diverse writing styles.
 - [alexander-densley/portfolio](https://github.com/alexander-densley/portfolio) - 
 - [cachix/cachix-action](https://github.com/cachix/cachix-action) - Build software only once and put it in a global cache
@@ -4101,6 +4160,7 @@
 - [WorldBrain/Memex](https://github.com/WorldBrain/Memex) - Browser extension to curate, annotate, and discuss the most valuable content and ideas on the web. As individuals, teams and communities.
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 - [foambubble/foam](https://github.com/foambubble/foam) - A personal knowledge management and sharing system for VSCode
+- [TriliumNext/trilium](https://github.com/TriliumNext/trilium) - Build your personal knowledge base with Trilium Notes
 - [joaosilvalopes/linkedin-easy-apply-bot](https://github.com/joaosilvalopes/linkedin-easy-apply-bot) - 
 - [rupali-codes/LinksHub](https://github.com/rupali-codes/LinksHub) - LinksHub aims to provide developers with access to a wide range of free resources and tools that they can use in their work. These resources include links to free software, libraries, frameworks, and 
 - [rafasegat/opensea-nft-react-gallery](https://github.com/rafasegat/opensea-nft-react-gallery) - OpenSea NFT Gallery with filtering, sorting and other features.
@@ -4178,7 +4238,6 @@
 - [lailo/next-with-tailwindcss](https://github.com/lailo/next-with-tailwindcss) - NextJS with TypeScript and TailwindCSS (with dark theme switch)
 - [timroes/awesome-config](https://github.com/timroes/awesome-config) - My awesome wm configuration.
 - [adonig/nextjs-starter-preact-tailwindcss](https://github.com/adonig/nextjs-starter-preact-tailwindcss) - A Next.js starter project coming with Preact and Tailwind CSS built-in.
-- [remorses/fumabase](https://github.com/remorses/fumabase) - Effortless documentation with Next.js and MDX
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - Chakra UI is a component system for building SaaS products with speed ⚡️
 - [trufflesuite/truffle](https://github.com/trufflesuite/truffle) - :warning: The Truffle Suite is being sunset. For information on ongoing support, migration options and FAQs, visit the Consensys blog. Thank you for all the support over the years.
@@ -4196,7 +4255,7 @@
 - [medyo/hackertab.dev](https://github.com/medyo/hackertab.dev) - A Chrome 🌐 & Firefox 🦊 extension to discover the latest developer news and tools in one tab!
 - [Thomashighbaugh/startpage-zwei](https://github.com/Thomashighbaugh/startpage-zwei) - Second Implementation of a Startpage for my browser in Next.js using Typescript and Tailwind.css with Motion Animations and More
 - [notea-org/notea](https://github.com/notea-org/notea) - 📒 Self hosted note taking app stored on S3
-- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
+- [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [Charlie85270/tail-kit](https://github.com/Charlie85270/tail-kit) - Tail-kit is a free and open source components and templates kit fully coded with Tailwind css 3.0.
 - [windicss/windicss](https://github.com/windicss/windicss) - Next generation utility-first CSS framework.
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
@@ -4268,6 +4327,7 @@
 
 ## Vala 
 
+- [Aylur/astal](https://github.com/Aylur/astal) - Building blocks for creating custom desktop shells
 - [parnoldx/nasc](https://github.com/parnoldx/nasc) - Do maths like a normal person
 - [BlankOn/manokwari](https://github.com/BlankOn/manokwari) - Manokwari desktop shell for GNOME 3
 - [UbuntuBudgie/experimental](https://github.com/UbuntuBudgie/experimental) - Tweaks for your budgie-desktop
