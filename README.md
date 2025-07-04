@@ -70,6 +70,7 @@
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
+- [SVG](#svg)
 - [SaltStack](#saltstack)
 - [Scala](#scala)
 - [Scheme](#scheme)
@@ -2099,6 +2100,7 @@
 
 ## Nim 
 
+- [arashi-software/tsuki](https://github.com/arashi-software/tsuki) - A fast. simple theme switcher and template engine
 - [codic12/worm](https://github.com/codic12/worm) - A dynamic, tag-based window manager written in Nim
 - [juancarlospaco/nim-chonker](https://github.com/juancarlospaco/nim-chonker) - Arch Linux Pacman Optimizer: Your Arch Linux is too fat, lets make it lightweight
 - [avahe-kellenberger/nimdow](https://github.com/avahe-kellenberger/nimdow) - A window manager written in Nim (In Development)
@@ -2470,6 +2472,8 @@
 
 ## Others 
 
+- [EmbeddingBits/EmbeddingBits](https://github.com/EmbeddingBits/EmbeddingBits) - Config files for my GitHub profile.
+- [EmbeddingBits/archHypr_dotfiles](https://github.com/EmbeddingBits/archHypr_dotfiles) - Dotfiles for my Hyprland rice on Linux
 - [vanclute/chatGPT_Universal-RPG-Generator](https://github.com/vanclute/chatGPT_Universal-RPG-Generator) - This is a generic, one-size-fits-all, RPG adventure builder. It will ask you the universe/genre you want to play in, what character you want to play as, and generate an entire unique adventure in that
 - [mailchimp/email-blueprints](https://github.com/mailchimp/email-blueprints) - Email Blueprints is a collection of HTML email templates that can serve as a solid foundation and starting point for the design of emails
 - [jonathandion/awesome-emails](https://github.com/jonathandion/awesome-emails) - ✉️ An awesome list of resources to build better emails.
@@ -3366,6 +3370,7 @@
 
 ## QML 
 
+- [orangci/dots](https://github.com/orangci/dots) - orangc's dotfiles - NixOS + Hyprland
 - [L4ki/Shiny-Plasma-Themes](https://github.com/L4ki/Shiny-Plasma-Themes) - Shiny Plasma Themes For Plasma Desktop
 - [Calinix-Team/Calinix-Arch](https://github.com/Calinix-Team/Calinix-Arch) - CalinixOS Linux Distribution ISO Profiles
 
@@ -3564,6 +3569,10 @@
 - [mldangelo/personal-site](https://github.com/mldangelo/personal-site) - My personal website - built with React, React-Router, React-Snap for Static-Export, and GitHub Pages.
 - [StarLabsLtd/StarLabsTheme](https://github.com/StarLabsLtd/StarLabsTheme) - Star Labs GNOME Shell and GTK Theme
 - [Thomashighbaugh/startpage](https://github.com/Thomashighbaugh/startpage) - Browser startpage written in Next.js for those not afraid of  serverless hosting.
+
+## SVG 
+
+- [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons) - Showcase your skills on your Github readme or resumé with ease ✨
 
 ## SaltStack 
 
