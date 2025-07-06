@@ -46,6 +46,7 @@
 - [Just](#just)
 - [Kotlin](#kotlin)
 - [Less](#less)
+- [LiveScript](#livescript)
 - [Lua](#lua)
 - [MATLAB](#matlab)
 - [MDX](#mdx)
@@ -895,6 +896,17 @@
 
 ## JavaScript 
 
+- [3211/authorsNote-for-sillytavern](https://github.com/3211/authorsNote-for-sillytavern) - plugin for sillytavern
+- [Krakenos/Grimoire-ST-Extension](https://github.com/Krakenos/Grimoire-ST-Extension) - Grimoire Extension for SillyTavern
+- [artisticMink/sidebar-extensions-for-sillytavern](https://github.com/artisticMink/sidebar-extensions-for-sillytavern) - 
+- [InspectorCaracal/SillyTavern-ReMemory](https://github.com/InspectorCaracal/SillyTavern-ReMemory) - Yet another SillyTavern memory extension
+- [LenAnderson/SillyTavern-NotJustButtons](https://github.com/LenAnderson/SillyTavern-NotJustButtons) - Display Quick Replies as dropdowns or toggles.
+- [LenAnderson/SillyTavern-QuipQuiver](https://github.com/LenAnderson/SillyTavern-QuipQuiver) - Quick access to little blocks of text to paste into the currently focused text input.
+- [LenAnderson/SillyTavern-StreamRegex](https://github.com/LenAnderson/SillyTavern-StreamRegex) - Register regex that trigger Quick Replies through automation IDs during response streaming.
+- [SillyTavern/Extension-TopInfoBar](https://github.com/SillyTavern/Extension-TopInfoBar) - Adds a top bar to the chat window with shortcuts to quick actions.
+- [LenAnderson/SillyTavern-Variable-Viewer](https://github.com/LenAnderson/SillyTavern-Variable-Viewer) - 
+- [LenAnderson/SillyTavern-Wizard](https://github.com/LenAnderson/SillyTavern-Wizard) - Adds STscript commands to show a configurable Wizard to guide the user step-by-step through a list of pages.
+- [SillyTavern/SillyTavern](https://github.com/SillyTavern/SillyTavern) - LLM Frontend for Power Users.
 - [MAHDTech/nix-config](https://github.com/MAHDTech/nix-config) - Nix configuration dotfiles
 - [LenAnderson/SillyTavern-QuickBranchSwitch](https://github.com/LenAnderson/SillyTavern-QuickBranchSwitch) - 
 - [LenAnderson/SillyTavern-AssetRepoManager](https://github.com/LenAnderson/SillyTavern-AssetRepoManager) - Manage additional asset repositories
@@ -1475,6 +1487,10 @@
 - [praveenjuge/mynaui-icons](https://github.com/praveenjuge/mynaui-icons) - Beautifully crafted open source icons from Myna UI.
 - [edurbrito/markdown-notes](https://github.com/edurbrito/markdown-notes) - Templates for your Note Taking Markdown Workflow
 - [mescon/Muximux](https://github.com/mescon/Muximux) - A lightweight way to manage your HTPC
+
+## LiveScript 
+
+- [oprypin/userscripts](https://github.com/oprypin/userscripts) - A collection of JavaScript browser extensions
 
 ## Lua 
 
@@ -2107,6 +2123,7 @@
 
 ## Nix 
 
+- [lunik1/nix-wallpaper](https://github.com/lunik1/nix-wallpaper) - A configurable wallpaper for nix systems
 - [wmertens/nixos-config-lenovo-c940](https://github.com/wmertens/nixos-config-lenovo-c940) - 
 - [redxtech/nixfiles](https://github.com/redxtech/nixfiles) - Personal nixos and home-manager configurations.
 - [dustinlyons/nix-secrets-example](https://github.com/dustinlyons/nix-secrets-example) - Example of using a nix-secrets repo
@@ -2955,6 +2972,9 @@
 
 ## Python 
 
+- [Laszlobeer/Dungeo_ai_GUI](https://github.com/Laszlobeer/Dungeo_ai_GUI) - Dungeo ai just had a graphical update insted of a web ui is a gui
+- [Laszlobeer/Dungeo_ai_webui](https://github.com/Laszlobeer/Dungeo_ai_webui) - this is a dungeon ai run locally that use your llm whit webui
+- [l3uddz/dupeFinder](https://github.com/l3uddz/dupeFinder) - Scans a folder looking for duplicate episodes/movies
 - [lorey/obsi](https://github.com/lorey/obsi) - 💎 supercharge your note-taking with index pages, Anki decks, calendar pages, and more.
 - [corelight/LLM-Ninja](https://github.com/corelight/LLM-Ninja) - Scripts to help you use LLM AI models like a ninja.
 - [flepied/second-brain-agent](https://github.com/flepied/second-brain-agent) - 🧠 Second Brain AI agent
@@ -3370,6 +3390,7 @@
 
 ## QML 
 
+- [Ly-sec/nixos](https://github.com/Ly-sec/nixos) - 
 - [orangci/dots](https://github.com/orangci/dots) - orangc's dotfiles - NixOS + Hyprland
 - [L4ki/Shiny-Plasma-Themes](https://github.com/L4ki/Shiny-Plasma-Themes) - Shiny Plasma Themes For Plasma Desktop
 - [Calinix-Team/Calinix-Arch](https://github.com/Calinix-Team/Calinix-Arch) - CalinixOS Linux Distribution ISO Profiles
@@ -4086,6 +4107,7 @@
 
 ## TypeScript 
 
+- [AAbushady/sillytavern-to-sharegpt](https://github.com/AAbushady/sillytavern-to-sharegpt) - A TypeScript application that converts SillyTavern chat logs into formats suitable for LLM fine-tuning and sharing, including ShareGPT and Alpaca formats.
 - [codexu/note-gen](https://github.com/codexu/note-gen) - A cross-platform Markdown note-taking application dedicated to using AI to bridge recording and writing, organizing fragmented knowledge into a readable note.
 - [BuilderIO/micro-agent](https://github.com/BuilderIO/micro-agent) - An AI agent that writes (actually useful) code for you
 - [udevbe/greenfield](https://github.com/udevbe/greenfield) - HTML5 Wayland compositor  :seedling:
