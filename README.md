@@ -104,6 +104,7 @@
 
 ## Astro 
 
+- [JuditKaramazov/karamaBlog](https://github.com/JuditKaramazov/karamaBlog) - 🚀🌿 karamaSystem v2 - Personal blog allowing me to be digitally imprisoned yet free.
 - [NixOS/nixos-homepage](https://github.com/NixOS/nixos-homepage) - Sources for nixos.org
 - [joshbrgs/my-portfolio](https://github.com/joshbrgs/my-portfolio) - My portfolio site and blog made with React/NextJS, ESLint & Prettier, Typescript, NodeJS(Go in the future), and Ghost CMS for the blog. Display of my projects and skills.
 
@@ -625,6 +626,7 @@
 
 ## Go 
 
+- [opencode-ai/opencode](https://github.com/opencode-ai/opencode) - A powerful AI coding agent. Built for the terminal.
 - [tx3stn/pkb](https://github.com/tx3stn/pkb) - Config driven CLI to manage markdown files for a personal knowledge base.
 - [hmajid2301/OptiNix](https://github.com/hmajid2301/OptiNix) - A CLI tool written in go, for searching options in Nix. Mirrored from https://gitlab.com/hmajid2301/optinix
 - [DBCDK/morph](https://github.com/DBCDK/morph) - NixOS deployment tool
@@ -724,6 +726,7 @@
 
 ## HTML 
 
+- [denislemeshko/portfolio-front-end](https://github.com/denislemeshko/portfolio-front-end) - Denis Lemeshko portfolio front-end with CV.pdf
 - [5hubham5ingh/foxpanel](https://github.com/5hubham5ingh/foxpanel) - Highly feature rich, firefox home-page, linux system control panel, built using Baremetal for Arch linux.
 - [utensils/mcp-nixos](https://github.com/utensils/mcp-nixos) - MCP-NixOS - Model Context Protocol Server for NixOS resources
 - [inulute/unlim-cloud](https://github.com/inulute/unlim-cloud) - UnlimCloud provides unlimited cloud storage for your files, utilizing Telegram as the storage solution. Simply log in using your Telegram ID, and you are good to go.
@@ -896,6 +899,7 @@
 
 ## JavaScript 
 
+- [lilydjwg/userscripts](https://github.com/lilydjwg/userscripts) - My user scripts
 - [3211/authorsNote-for-sillytavern](https://github.com/3211/authorsNote-for-sillytavern) - plugin for sillytavern
 - [Krakenos/Grimoire-ST-Extension](https://github.com/Krakenos/Grimoire-ST-Extension) - Grimoire Extension for SillyTavern
 - [artisticMink/sidebar-extensions-for-sillytavern](https://github.com/artisticMink/sidebar-extensions-for-sillytavern) - 
@@ -1402,7 +1406,7 @@
 ## Jinja 
 
 - [sasha0552/ToriLinux](https://github.com/sasha0552/ToriLinux) - Linux LiveCD for offline AI training and inference.
-- [abilzerian/LLM-Prompt-Library](https://github.com/abilzerian/LLM-Prompt-Library) - A playground of highly experimental prompts, Jinja2 templates & scripts for machine intelligence models from OpenAI, Anthropic, Meta, Mistral, Google, xAI & others. Alex Bilzerian (2022-2025).
+- [abilzerian/LLM-Prompt-Library](https://github.com/abilzerian/LLM-Prompt-Library) - A playground of highly experimental prompts, Jinja2 templates & scripts for machine intelligence models from OpenAI, Anthropic, DeepSeek, Meta, Mistral, Google, xAI & others. Alex Bilzerian (2022-2025
 - [geerlingguy/internet-pi](https://github.com/geerlingguy/internet-pi) - Raspberry Pi config for all things Internet.
 - [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) - 🐳 Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker
 - [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
@@ -1633,7 +1637,7 @@
 - [mdmrk/policromia](https://github.com/mdmrk/policromia) - Lightweight aesthetic AwesomeWM dotfiles 🦜
 - [JayJaySea/dotfiles](https://github.com/JayJaySea/dotfiles) - 
 - [kosorin/awesome-rice](https://github.com/kosorin/awesome-rice) - Opinionated config for Awesome window manager.
-- [RaphaeleL/nvim](https://github.com/RaphaeleL/nvim) - ⚙️  My Neovim Configuration
+- [RaphaeleL/nvim](https://github.com/RaphaeleL/nvim) - My Neovim Configuration
 - [hadronized/config](https://github.com/hadronized/config) - My main configuration files
 - [cjnucette/nvim.lazy](https://github.com/cjnucette/nvim.lazy) - nvim using lazy.nvim plugin manager
 - [joelazar/nvim-config](https://github.com/joelazar/nvim-config) - My neovim config
@@ -2095,6 +2099,7 @@
 - [lyz-code/blue-book](https://github.com/lyz-code/blue-book) - My personal knowledge repository
 - [feroldi/ricing](https://github.com/feroldi/ricing) - a book about ricing unix-like systems
 - [docxy/website](https://github.com/docxy/website) - The website of Docxy.
+- [daniruiz/flat-remix](https://github.com/daniruiz/flat-remix) - Flat Remix is an icon theme inspired by material design. It is mostly flat using a colorful palette with some shadows, highlights, and gradients for some depth.
 
 ## Markdown 
 
@@ -2123,7 +2128,9 @@
 
 ## Nix 
 
+- [RossComputerGuy/dotfiles](https://github.com/RossComputerGuy/dotfiles) - My dotfiles for all of my Linux devices
 - [lunik1/nix-wallpaper](https://github.com/lunik1/nix-wallpaper) - A configurable wallpaper for nix systems
+- [orangci/dots](https://github.com/orangci/dots) - orangc's dotfiles - NixOS + Hyprland
 - [wmertens/nixos-config-lenovo-c940](https://github.com/wmertens/nixos-config-lenovo-c940) - 
 - [redxtech/nixfiles](https://github.com/redxtech/nixfiles) - Personal nixos and home-manager configurations.
 - [dustinlyons/nix-secrets-example](https://github.com/dustinlyons/nix-secrets-example) - Example of using a nix-secrets repo
@@ -2481,7 +2488,6 @@
 ## Objective-C 
 
 - [Zibri/ZiPhone](https://github.com/Zibri/ZiPhone) - The best iPhone unlocker.
-- [davidrjenni/files](https://github.com/davidrjenni/files) - dotfiles, dockerfiles and shell scripts
 
 ## OpenSCAD 
 
@@ -2489,6 +2495,7 @@
 
 ## Others 
 
+- [one-aalam/awesome-astro](https://github.com/one-aalam/awesome-astro) - Curated resources on building sites with Astro, a brand new way to build static and server rendered sites, with cross-framework components, styling and reactive store support.
 - [EmbeddingBits/EmbeddingBits](https://github.com/EmbeddingBits/EmbeddingBits) - Config files for my GitHub profile.
 - [EmbeddingBits/archHypr_dotfiles](https://github.com/EmbeddingBits/archHypr_dotfiles) - Dotfiles for my Hyprland rice on Linux
 - [vanclute/chatGPT_Universal-RPG-Generator](https://github.com/vanclute/chatGPT_Universal-RPG-Generator) - This is a generic, one-size-fits-all, RPG adventure builder. It will ask you the universe/genre you want to play in, what character you want to play as, and generate an entire unique adventure in that
@@ -2917,7 +2924,6 @@
 - [storm119/Tilix-Themes](https://github.com/storm119/Tilix-Themes) - Theme for Tilix Terminal
 - [hmaverickadams/Beginner-Network-Pentesting](https://github.com/hmaverickadams/Beginner-Network-Pentesting) - Notes for Beginner Network Pentesting Course
 - [EliverLara/candy-icons](https://github.com/EliverLara/candy-icons) - :lollipop: Sweet gradient icons
-- [daniruiz/flat-remix](https://github.com/daniruiz/flat-remix) - Flat Remix is an icon theme inspired by material design. It is mostly flat using a colorful palette with some shadows, highlights, and gradients for some depth.
 - [christopherkade/awesome-dev-websites](https://github.com/christopherkade/awesome-dev-websites) - 📄 A curated list of awesome developer personal websites
 - [numixproject/numix-icon-theme-circle](https://github.com/numixproject/numix-icon-theme-circle) - Linux packaging for Numix Circle
 - [slacka/WoeUSB](https://github.com/slacka/WoeUSB) - WoeUSB is a simple tool that enable you to create your own usb stick windows installer from an iso image or a real DVD. It is a fork of Congelli501's WinUSB.
@@ -2972,6 +2978,7 @@
 
 ## Python 
 
+- [sliday/monoresume](https://github.com/sliday/monoresume) - A minimalist coder portfolio design exploration
 - [Laszlobeer/Dungeo_ai_GUI](https://github.com/Laszlobeer/Dungeo_ai_GUI) - Dungeo ai just had a graphical update insted of a web ui is a gui
 - [Laszlobeer/Dungeo_ai_webui](https://github.com/Laszlobeer/Dungeo_ai_webui) - this is a dungeon ai run locally that use your llm whit webui
 - [l3uddz/dupeFinder](https://github.com/l3uddz/dupeFinder) - Scans a folder looking for duplicate episodes/movies
@@ -2993,7 +3000,7 @@
 - [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
 - [tezh404/Document-categorizer](https://github.com/tezh404/Document-categorizer) - AI-Powered Document Categorizer & Organizer
 - [sean1832/GPT-Brain](https://github.com/sean1832/GPT-Brain) - An AI-powered brain that efficiently stores, categorizes, and interrelates personal notes to optimize the management of creative ideas.
-- [LearningCircuit/local-deep-research](https://github.com/LearningCircuit/local-deep-research) - Local Deep Research achieves ~95% on SimpleQA benchmark (tested with GPT-4.1-mini) and includes benchmark tools to test on your own data. Searches 10+ sources - arXiv, PubMed, GitHub, web, and your pr
+- [LearningCircuit/local-deep-research](https://github.com/LearningCircuit/local-deep-research) - Local Deep Research achieves ~95% on SimpleQA benchmark (tested with GPT-4.1-mini) and includes benchmark tools to test on your own setup. Searches 10+ sources - arXiv, PubMed, GitHub, web, and your p
 - [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) - An AI Hedge Fund Team
 - [Repello-AI/Agent-Wiz](https://github.com/Repello-AI/Agent-Wiz) - A CLI tool for threat modeling and visualizing AI agents built using popular frameworks like LangGraph, AutoGen, CrewAI, and more.
 - [TilmanGriesel/chipper](https://github.com/TilmanGriesel/chipper) - ✨ AI interface for tinkerers (Ollama, Haystack RAG, Python)
@@ -3341,7 +3348,6 @@
 - [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud 
 - [jayfk/statuspage](https://github.com/jayfk/statuspage) - A statuspage generator that lets you host your statuspage for free on Github.
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
-- [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 - [themix-project/themix-gui](https://github.com/themix-project/themix-gui) - Graphical application for generating different color variations of Oomox (Numix-based) theme (GTK2, GTK3, Cinnamon, GNOME, Openbox, Xfwm), Archdroid, Gnome-Color, Numix, Papirus and Suru++ icon themes
 - [wdbm/bochica](https://github.com/wdbm/bochica) - GNU Privacy Guard encryption-decryption graphical user interface
@@ -3391,7 +3397,6 @@
 ## QML 
 
 - [Ly-sec/nixos](https://github.com/Ly-sec/nixos) - 
-- [orangci/dots](https://github.com/orangci/dots) - orangc's dotfiles - NixOS + Hyprland
 - [L4ki/Shiny-Plasma-Themes](https://github.com/L4ki/Shiny-Plasma-Themes) - Shiny Plasma Themes For Plasma Desktop
 - [Calinix-Team/Calinix-Arch](https://github.com/Calinix-Team/Calinix-Arch) - CalinixOS Linux Distribution ISO Profiles
 
@@ -3615,6 +3620,7 @@
 
 ## Shell 
 
+- [basaran/awmtt-ng](https://github.com/basaran/awmtt-ng) - awesomewm testing tool. This fork allows auto reload via entr.
 - [rwxrob/dot](https://github.com/rwxrob/dot) - The big ugly, enter at your own peril
 - [obuzek/llm-second-brain](https://github.com/obuzek/llm-second-brain) - The LM Desk project is a central entrypoint for configuring a set of awesome tools that will power your desktop productivity using generative AI. This is a project-of-projects that brings together the
 - [yeyushengfan258/Particle-circle-grub-theme](https://github.com/yeyushengfan258/Particle-circle-grub-theme) - Particle-circle-grub-theme
@@ -4136,7 +4142,7 @@
 - [sing1ee/deepseekCoder](https://github.com/sing1ee/deepseekCoder) - Create apps with Deepseek
 - [codeskills-dev/responsive-email](https://github.com/codeskills-dev/responsive-email) - a utility for writing responsive email templates for jsx-email and react-email
 - [thegera4/nextjs-portfolio](https://github.com/thegera4/nextjs-portfolio) - This is my personal portfolio made with typescript, react, tailwind css and nextjs
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern design AI chat framework. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / knowledge managemen
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern design AI chat framework. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / RAG ), one click in
 - [KazKozDev/NovelGenerator](https://github.com/KazKozDev/NovelGenerator) - Fiction generator using LLM to create complete novels with coherent plots, developed characters, and diverse writing styles.
 - [alexander-densley/portfolio](https://github.com/alexander-densley/portfolio) - 
 - [cachix/cachix-action](https://github.com/cachix/cachix-action) - Build software only once and put it in a global cache
@@ -4373,6 +4379,7 @@
 - [urbanogardun/monte-note](https://github.com/urbanogardun/monte-note) - Note taking application with a rich set of editing and management features
 - [taniarascia/takenote](https://github.com/taniarascia/takenote) - 📝  ‎ A web-based notes app for developers.
 - [vuejs/core](https://github.com/vuejs/core) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+- [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - [material-shell/material-shell](https://github.com/material-shell/material-shell) - A modern desktop interface for Linux. Improve your user experience and get rid of the anarchy of traditional desktop workflows. Designed to simplify navigation and reduce the need to manipulate window
 - [philippetedajo/philippe.tedajo](https://github.com/philippetedajo/philippe.tedajo) - My personal portfolio.
 - [raunofreiberg/ui-playbook](https://github.com/raunofreiberg/ui-playbook) - The documented collection of UI components 🤓
