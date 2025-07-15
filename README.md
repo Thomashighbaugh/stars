@@ -104,6 +104,7 @@
 
 ## Astro 
 
+- [LeVraiArdox/portfolio](https://github.com/LeVraiArdox/portfolio) - Personal portfolio
 - [JuditKaramazov/karamaBlog](https://github.com/JuditKaramazov/karamaBlog) - 🚀🌿 karamaSystem v2 - Personal blog allowing me to be digitally imprisoned yet free.
 - [NixOS/nixos-homepage](https://github.com/NixOS/nixos-homepage) - Sources for nixos.org
 - [joshbrgs/my-portfolio](https://github.com/joshbrgs/my-portfolio) - My portfolio site and blog made with React/NextJS, ESLint & Prettier, Typescript, NodeJS(Go in the future), and Ghost CMS for the blog. Display of my projects and skills.
@@ -409,7 +410,6 @@
 - [avahe-kellenberger/dotfiles](https://github.com/avahe-kellenberger/dotfiles) - Personal dotfiles for my multiple systems.
 - [matthewelsom/Project-ScssPlaybook](https://github.com/matthewelsom/Project-ScssPlaybook) - 📕 A quick start playbook that includes a simplified Scss structure.
 - [oomphinc/scss-scaffold](https://github.com/oomphinc/scss-scaffold) - A starter SCSS package to keep our projects consistent.
-- [Rasmagoric/Firefox2022](https://github.com/Rasmagoric/Firefox2022) - A new look for your Firefox browser.
 - [QNetITQ/WaveFox](https://github.com/QNetITQ/WaveFox) - Firefox CSS Theme/Style for manual customization
 - [leadweedy/Firefox-Proton-Square](https://github.com/leadweedy/Firefox-Proton-Square) - Makes Firefox Proton UI square again
 - [refact0r/midnight-fox](https://github.com/refact0r/midnight-fox) - A clean and simple firefox userchrome theme
@@ -736,6 +736,7 @@
 - [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Community guide to using YubiKey for GnuPG and SSH - protect secrets with hardware crypto.
 - [motform/IDK-Programming-2021-Course-Overview](https://github.com/motform/IDK-Programming-2021-Course-Overview) - 
 - [ilse-langnar/notebook](https://github.com/ilse-langnar/notebook) - Tool for Thought. ʚɞ
+- [CyberAlbSecOP/Awesome_GPT_Super_Prompting](https://github.com/CyberAlbSecOP/Awesome_GPT_Super_Prompting) - ChatGPT Jailbreaks, GPT Assistants Prompt Leaks, GPTs Prompt Injection, LLM Prompt Security, Super Prompts, Prompt Hack, Prompt Security, Ai Prompt Engineering, Adversarial Machine Learning.
 - [phillipclapham/neuroweaver](https://github.com/phillipclapham/neuroweaver) - A work of meta-recursive experiential fiction exploring the boundaries between truth, perception, consciousness, and reality.
 - [0xeb/TheBigPromptLibrary](https://github.com/0xeb/TheBigPromptLibrary) - A collection of prompts, system prompts and LLM instructions
 - [killshot13/google-web-stories-template](https://github.com/killshot13/google-web-stories-template) - This is a reference template for creating and editing AMP Web Stories (Google Stories)
@@ -899,6 +900,8 @@
 
 ## JavaScript 
 
+- [DDKnoll/SVGeneration](https://github.com/DDKnoll/SVGeneration) - Generate SVG background graphics and patterns
+- [AhmedNasser1010/astrofolio](https://github.com/AhmedNasser1010/astrofolio) - Astrofolio is a dynamic and innovative portfolio website that showcases your projects and skills.
 - [lilydjwg/userscripts](https://github.com/lilydjwg/userscripts) - My user scripts
 - [3211/authorsNote-for-sillytavern](https://github.com/3211/authorsNote-for-sillytavern) - plugin for sillytavern
 - [Krakenos/Grimoire-ST-Extension](https://github.com/Krakenos/Grimoire-ST-Extension) - Grimoire Extension for SillyTavern
@@ -911,7 +914,6 @@
 - [LenAnderson/SillyTavern-Variable-Viewer](https://github.com/LenAnderson/SillyTavern-Variable-Viewer) - 
 - [LenAnderson/SillyTavern-Wizard](https://github.com/LenAnderson/SillyTavern-Wizard) - Adds STscript commands to show a configurable Wizard to guide the user step-by-step through a list of pages.
 - [SillyTavern/SillyTavern](https://github.com/SillyTavern/SillyTavern) - LLM Frontend for Power Users.
-- [MAHDTech/nix-config](https://github.com/MAHDTech/nix-config) - Nix configuration dotfiles
 - [LenAnderson/SillyTavern-QuickBranchSwitch](https://github.com/LenAnderson/SillyTavern-QuickBranchSwitch) - 
 - [LenAnderson/SillyTavern-AssetRepoManager](https://github.com/LenAnderson/SillyTavern-AssetRepoManager) - Manage additional asset repositories
 - [LenAnderson/SillyTavern-FileExplorer](https://github.com/LenAnderson/SillyTavern-FileExplorer) - File Explorer for SillyTavern directories.
@@ -2131,6 +2133,7 @@
 - [RossComputerGuy/dotfiles](https://github.com/RossComputerGuy/dotfiles) - My dotfiles for all of my Linux devices
 - [lunik1/nix-wallpaper](https://github.com/lunik1/nix-wallpaper) - A configurable wallpaper for nix systems
 - [orangci/dots](https://github.com/orangci/dots) - orangc's dotfiles - NixOS + Hyprland
+- [MAHDTech/nix-config](https://github.com/MAHDTech/nix-config) - Nix configuration dotfiles
 - [wmertens/nixos-config-lenovo-c940](https://github.com/wmertens/nixos-config-lenovo-c940) - 
 - [redxtech/nixfiles](https://github.com/redxtech/nixfiles) - Personal nixos and home-manager configurations.
 - [dustinlyons/nix-secrets-example](https://github.com/dustinlyons/nix-secrets-example) - Example of using a nix-secrets repo
@@ -2229,7 +2232,7 @@
 - [nix-community/disko](https://github.com/nix-community/disko) - Declarative disk partitioning and formatting using nix [maintainers=Lassulus Enzime iFreilicht Mic92 phaer]
 - [erikbackman/nixos-config](https://github.com/erikbackman/nixos-config) - My NixOS configuration
 - [jakeisnt/nixcfg](https://github.com/jakeisnt/nixcfg) - A modular, Wayland-enabled NixOS configuration.
-- [sodiboo/niri-flake](https://github.com/sodiboo/niri-flake) - Nix packages and modules for niri
+- [sodiboo/niri-flake](https://github.com/sodiboo/niri-flake) - Nix-native configuration for niri
 - [mahmoudk1000/nix-config](https://github.com/mahmoudk1000/nix-config) - mahmoudk1000's nixos configuration
 - [LutrisEng/nix-fly-template](https://github.com/LutrisEng/nix-fly-template) - Build an application with Nix and deploy it on Fly.io
 - [oluceps/nixos-config](https://github.com/oluceps/nixos-config) - Configuration for describing my systems. And NUR
@@ -2296,7 +2299,7 @@
 - [srid/nix-config](https://github.com/srid/nix-config) - My NixOS configuration (DEPRECATED)
 - [lucernae/nixos-pi](https://github.com/lucernae/nixos-pi) - How to install NixOS on raspberry PI
 - [qbit/xin](https://github.com/qbit/xin) - My nix setup
-- [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@rycee]
+- [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@khaneliman, @rycee]
 - [RiscadoA/nixconfig](https://github.com/RiscadoA/nixconfig) - My NixOS configuration files.
 - [wiedzmin/nixos-config](https://github.com/wiedzmin/nixos-config) - My NixOS configuration
 - [luochen1990/nixos-config](https://github.com/luochen1990/nixos-config) - LC's personal NixOS Configuration
@@ -2495,6 +2498,7 @@
 
 ## Others 
 
+- [Ditectrev/awesome-gimp](https://github.com/Ditectrev/awesome-gimp) - 
 - [one-aalam/awesome-astro](https://github.com/one-aalam/awesome-astro) - Curated resources on building sites with Astro, a brand new way to build static and server rendered sites, with cross-framework components, styling and reactive store support.
 - [EmbeddingBits/EmbeddingBits](https://github.com/EmbeddingBits/EmbeddingBits) - Config files for my GitHub profile.
 - [EmbeddingBits/archHypr_dotfiles](https://github.com/EmbeddingBits/archHypr_dotfiles) - Dotfiles for my Hyprland rice on Linux
@@ -2572,7 +2576,6 @@
 - [Machine-Minds-AI/developer-prompts-chatgpt](https://github.com/Machine-Minds-AI/developer-prompts-chatgpt) - 📚 Collection of ChatGPT prompts for developers! https//whop.com/pfp
 - [B3o/GPTS-Prompt-Collection](https://github.com/B3o/GPTS-Prompt-Collection) - 收集GPTS的prompt  /   Collect the prompt of GPTS
 - [tjadamlee/GPTs-prompts](https://github.com/tjadamlee/GPTs-prompts) - System prompts for various famous GPTs
-- [CyberAlbSecOP/Awesome_GPT_Super_Prompting](https://github.com/CyberAlbSecOP/Awesome_GPT_Super_Prompting) - ChatGPT Jailbreaks, GPT Assistants Prompt Leaks, GPTs Prompt Injection, LLM Prompt Security, Super Prompts, Prompt Hack, Prompt Security, Ai Prompt Engineering, Adversarial Machine Learning.
 - [jamesmcroft/everyday-prompts](https://github.com/jamesmcroft/everyday-prompts) - A collection of prompts for LLM tools (ChatGPT, Microsoft Copilot, etc.) to help with general tasks.
 - [ora-sh/Awesome-GPT4-Prompts](https://github.com/ora-sh/Awesome-GPT4-Prompts) - A collection of awesome GPT4 prompts
 - [kevinamiri/Instructgpt-prompts](https://github.com/kevinamiri/Instructgpt-prompts) - A collection of ChatGPT and GPT-3.5 instruction-based prompts for generating and classifying text.
@@ -2978,6 +2981,7 @@
 
 ## Python 
 
+- [IvanIsCoding/ResuLLMe](https://github.com/IvanIsCoding/ResuLLMe) - Enhance your résumé with Large Language Models
 - [sliday/monoresume](https://github.com/sliday/monoresume) - A minimalist coder portfolio design exploration
 - [Laszlobeer/Dungeo_ai_GUI](https://github.com/Laszlobeer/Dungeo_ai_GUI) - Dungeo ai just had a graphical update insted of a web ui is a gui
 - [Laszlobeer/Dungeo_ai_webui](https://github.com/Laszlobeer/Dungeo_ai_webui) - this is a dungeon ai run locally that use your llm whit webui
@@ -4113,6 +4117,7 @@
 
 ## TypeScript 
 
+- [elrincondeldev/backgrounds-hub](https://github.com/elrincondeldev/backgrounds-hub) - 
 - [AAbushady/sillytavern-to-sharegpt](https://github.com/AAbushady/sillytavern-to-sharegpt) - A TypeScript application that converts SillyTavern chat logs into formats suitable for LLM fine-tuning and sharing, including ShareGPT and Alpaca formats.
 - [codexu/note-gen](https://github.com/codexu/note-gen) - A cross-platform Markdown note-taking application dedicated to using AI to bridge recording and writing, organizing fragmented knowledge into a readable note.
 - [BuilderIO/micro-agent](https://github.com/BuilderIO/micro-agent) - An AI agent that writes (actually useful) code for you
