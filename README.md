@@ -392,7 +392,6 @@
 - [fghaas/presentation-template](https://github.com/fghaas/presentation-template) - This repo is deprecated. Please use the Cookiecutter-based template instead!
 - [phodal/ebook-boilerplate](https://github.com/phodal/ebook-boilerplate) - A Markdown convert to Ebook :arrow_right: html、mobi、epub、pdf、rtf Template
 - [RLesur/pulpdown](https://github.com/RLesur/pulpdown) - A bookdown template with CSS paged media for pulp magazines (demo)
-- [Ritika-Agrawal811/storyboard-template](https://github.com/Ritika-Agrawal811/storyboard-template) - A storyboard template made using HTML and CSS.
 - [7KIR7/dots](https://github.com/7KIR7/dots) - my dotfiles
 - [Stetsed/.dotfiles](https://github.com/Stetsed/.dotfiles) - My dotfiles repository
 - [NeuronSooup/Gnome-topbar-le-dots](https://github.com/NeuronSooup/Gnome-topbar-le-dots) - This is my gnome configuration for both usability, look and feel
@@ -1917,7 +1916,7 @@
 - [nekonako/xresources-nvim](https://github.com/nekonako/xresources-nvim) - 🎨 Neovim colorscheme based on your xresources color
 - [lewis6991/impatient.nvim](https://github.com/lewis6991/impatient.nvim) - Improve startup time for Neovim
 - [s1n7ax/nvim-comment-frame](https://github.com/s1n7ax/nvim-comment-frame) - Detects the language using treesitter and adds a comment block
-- [n3wborn/nvim](https://github.com/n3wborn/nvim) - My own NVIM (&gt;=NVIM v0.12.0-dev-362+g69d04ee99f) config
+- [n3wborn/nvim](https://github.com/n3wborn/nvim) - My own NVIM (&gt;=NVIM v0.12.0-dev-855+gf2691199fa) config
 - [koniu/awesome-configs](https://github.com/koniu/awesome-configs) - koniu's awesome config
 - [kurbel/awesome-config](https://github.com/kurbel/awesome-config) - configuration files for the awesome window manager (awesomewm)
 - [nvim-lua/popup.nvim](https://github.com/nvim-lua/popup.nvim) - [WIP] An implementation of the Popup API from vim in Neovim. Hope to upstream when complete
@@ -2140,6 +2139,7 @@
 
 ## Nix 
 
+- [Padraic-O-Mhuiris/systems](https://github.com/Padraic-O-Mhuiris/systems) - 
 - [RossComputerGuy/dotfiles](https://github.com/RossComputerGuy/dotfiles) - My dotfiles for all of my Linux devices
 - [lunik1/nix-wallpaper](https://github.com/lunik1/nix-wallpaper) - A configurable wallpaper for nix systems
 - [orangci/dots](https://github.com/orangci/dots) - orangc's dotfiles - NixOS + Hyprland
@@ -2182,7 +2182,7 @@
 - [nix-community/srvos](https://github.com/nix-community/srvos) - NixOS profiles for servers [maintainer=@numtide]
 - [Serpentian/AlfheimOS](https://github.com/Serpentian/AlfheimOS) - ❄️ AlfheimOS (NixOS + home-manager + hyprland + ags + neovim)
 - [BatteredBunny/nix-ai-stuff](https://github.com/BatteredBunny/nix-ai-stuff) - Nix flake for several AI projects
-- [alyraffauf/nixcfg](https://github.com/alyraffauf/nixcfg) - Multi-host NixOS, Darwin, and home-manager deployments with Nix. Mirror of https://git.aly.codes/alyraffauf/nixcfg
+- [alyraffauf/nixcfg](https://github.com/alyraffauf/nixcfg) - Multi-host NixOS, Darwin, and home-manager deployments with Nix.
 - [richen604/hydenix](https://github.com/richen604/hydenix) - a nixos implementation of hyprdots, a HyDE dotfiles configuration
 - [Sly-Harvey/NixOS](https://github.com/Sly-Harvey/NixOS) - NixOS + Hyprland rice with flakes and home-manager
 - [wegank/nixos-config](https://github.com/wegank/nixos-config) - NixOS configuration
@@ -3635,6 +3635,7 @@
 
 ## Shell 
 
+- [raffaelschneider/walnut](https://github.com/raffaelschneider/walnut) - Walnut is an open, flexible, and POSIX-compatible standard for organizing personal knowledge bases—a modern "second brain" system.
 - [basaran/awmtt-ng](https://github.com/basaran/awmtt-ng) - awesomewm testing tool. This fork allows auto reload via entr.
 - [rwxrob/dot](https://github.com/rwxrob/dot) - The big ugly, enter at your own peril
 - [obuzek/llm-second-brain](https://github.com/obuzek/llm-second-brain) - The LM Desk project is a central entrypoint for configuring a set of awesome tools that will power your desktop productivity using generative AI. This is a project-of-projects that brings together the
@@ -3826,7 +3827,7 @@
 - [inmanturbo/alpine-iso-tweaks](https://github.com/inmanturbo/alpine-iso-tweaks) - 
 - [fvanniere/alpine-custom](https://github.com/fvanniere/alpine-custom) - Tools for building custom Alpine ISO with autoconfiguration from host
 - [jclab-joseph/test-alpine-live-iso](https://github.com/jclab-joseph/test-alpine-live-iso) - 
-- [Bugswriter/notflix](https://github.com/Bugswriter/notflix) - Notflix is a shell script to search and stream torrent.
+- [bugswriter/notflix](https://github.com/bugswriter/notflix) - Notflix is a shell script to search and stream torrent.
 - [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
 - [isair/dotfiles](https://github.com/isair/dotfiles) - 🖥️  Backup your packages, apps, and configurations directly to git in the form of profiles. Set up any new machine using a profile in one line. Share profiles between multiple machines. Configure auto
 - [angristan/wireguard-install](https://github.com/angristan/wireguard-install) - WireGuard VPN installer for Linux servers
@@ -4128,6 +4129,7 @@
 
 ## TypeScript 
 
+- [disnet/flint-note](https://github.com/disnet/flint-note) - Agent-first note-taking system
 - [elrincondeldev/backgrounds-hub](https://github.com/elrincondeldev/backgrounds-hub) - 
 - [AAbushady/sillytavern-to-sharegpt](https://github.com/AAbushady/sillytavern-to-sharegpt) - A TypeScript application that converts SillyTavern chat logs into formats suitable for LLM fine-tuning and sharing, including ShareGPT and Alpaca formats.
 - [codexu/note-gen](https://github.com/codexu/note-gen) - A cross-platform Markdown note-taking application dedicated to using AI to bridge recording and writing, organizing fragmented knowledge into a readable note.
