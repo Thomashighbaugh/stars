@@ -126,6 +126,7 @@
 
 ## C 
 
+- [Mentors4EDU/Reinvent-the-Internet](https://github.com/Mentors4EDU/Reinvent-the-Internet) - I want to change the way we transfer wireless data and utilize this for a series of projects
 - [migueldeoleiros/turtile](https://github.com/migueldeoleiros/turtile) - turtile 🐢 is a simple Wayland compositor written in C, based on wlroots
 - [DreamMaoMao/maomaowm](https://github.com/DreamMaoMao/maomaowm) - wayland compositor base wlroots and scenefx(dwl but no suckless)
 - [dqrk0jeste/mwc](https://github.com/dqrk0jeste/mwc) - tiling wayland compositor based on wlroots and scenefx
@@ -231,6 +232,7 @@
 - [christophgysin/pasystray](https://github.com/christophgysin/pasystray) - PulseAudio system tray
 - [CristianHenzel/ClipIt](https://github.com/CristianHenzel/ClipIt) - ClipIt clipboard manager for GTK+
 - [conformal/spectrwm](https://github.com/conformal/spectrwm) - A small dynamic tiling window manager for X11.
+- [Embroidermodder/Embroidermodder](https://github.com/Embroidermodder/Embroidermodder) - Free machine embroidery software supporting a variety of formats.
 - [cfenollosa/os-tutorial](https://github.com/cfenollosa/os-tutorial) - How to create an OS from scratch
 
 ## C# # 
@@ -603,7 +605,6 @@
 - [shtwzrd/friar](https://github.com/shtwzrd/friar) - Emacs REPL for interacting with AwesomeWM
 - [willbush/system](https://github.com/willbush/system) - Trying to build the perfect system
 - [russmatney/dotfiles](https://github.com/russmatney/dotfiles) - Doom Emacs, a few-years old vim config, tmux, i3, zsh, polybar
-- [BasicWolf/dotrc](https://github.com/BasicWolf/dotrc) - My Emacs, AwesomeWM, zsh, git and other configurations
 - [taylor-gl/dotfiles](https://github.com/taylor-gl/dotfiles) - My dotfiles [currently Linux Mint and vanilla emacs]
 - [xinhaoyuan/my-config](https://github.com/xinhaoyuan/my-config) - all config files managed by GNU stow
 - [carlosal1015/dune-archiso](https://github.com/carlosal1015/dune-archiso) - 
@@ -906,6 +907,8 @@
 
 ## JavaScript 
 
+- [juanprietob/clusterpost](https://github.com/juanprietob/clusterpost) - Post jobs to a computing grid and store the results in a couch database local or remote
+- [RetireJS/retire.js](https://github.com/RetireJS/retire.js) - scanner detecting the use of JavaScript libraries with known vulnerabilities. Can also generate an SBOM of the libraries it finds.
 - [DDKnoll/SVGeneration](https://github.com/DDKnoll/SVGeneration) - Generate SVG background graphics and patterns
 - [AhmedNasser1010/astrofolio](https://github.com/AhmedNasser1010/astrofolio) - Astrofolio is a dynamic and innovative portfolio website that showcases your projects and skills.
 - [lilydjwg/userscripts](https://github.com/lilydjwg/userscripts) - My user scripts
@@ -1104,7 +1107,7 @@
 - [maizzle/framework](https://github.com/maizzle/framework) - Quickly build HTML emails with Tailwind CSS.
 - [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
 - [sambeevors/tailwindcss-neumorphism](https://github.com/sambeevors/tailwindcss-neumorphism) - Generate soft UI CSS code using tailwindcss
-- [replicate/inpainter](https://github.com/replicate/inpainter) - A web GUI built with Next.js for inpainting with Stable Diffusion using the Replicate API.
+- [replicate/inpainter](https://github.com/replicate/inpainter) - A web GUI built with Next.js for inpainting with AI models using Replicate's API
 - [leungwensen/svg-icon](https://github.com/leungwensen/svg-icon) - An ultimate SVG icons collection DONE RIGHT, with over 10,000 SVG icons out of the box.
 - [zloirock/core-js](https://github.com/zloirock/core-js) - Standard Library
 - [jpetitcolas/ascii-art-converter](https://github.com/jpetitcolas/ascii-art-converter) - Convert any image into pure ASCII art using some JavaScript
@@ -2996,7 +2999,6 @@
 - [IvanIsCoding/ResuLLMe](https://github.com/IvanIsCoding/ResuLLMe) - Enhance your résumé with Large Language Models
 - [sliday/monoresume](https://github.com/sliday/monoresume) - A minimalist coder portfolio design exploration
 - [Laszlobeer/Dungeo_ai_GUI](https://github.com/Laszlobeer/Dungeo_ai_GUI) - Dungeo ai just had a graphical update insted of a web ui is a gui
-- [Laszlobeer/Dungeo_ai_webui](https://github.com/Laszlobeer/Dungeo_ai_webui) - this is a dungeon ai run locally that use your llm whit webui
 - [l3uddz/dupeFinder](https://github.com/l3uddz/dupeFinder) - Scans a folder looking for duplicate episodes/movies
 - [lorey/obsi](https://github.com/lorey/obsi) - 💎 supercharge your note-taking with index pages, Anki decks, calendar pages, and more.
 - [corelight/LLM-Ninja](https://github.com/corelight/LLM-Ninja) - Scripts to help you use LLM AI models like a ninja.
@@ -3394,7 +3396,6 @@
 - [snwh/moka-icon-theme](https://github.com/snwh/moka-icon-theme) - Moka Icon Theme
 - [achembarpu/pockyt](https://github.com/achembarpu/pockyt) - Automate & manage your Pocket.com collection.
 - [kynikos/outspline](https://github.com/kynikos/outspline) - Extensible outliner and personal time organizer to manage todo lists, schedule tasks, remind events.
-- [Embroidermodder/Embroidermodder](https://github.com/Embroidermodder/Embroidermodder) - Free machine embroidery software supporting a variety of formats.
 - [zim-desktop-wiki/zim-desktop-wiki](https://github.com/zim-desktop-wiki/zim-desktop-wiki) - Main repository of the zim desktop wiki project
 - [UbuntuBudgie/window-shuffler](https://github.com/UbuntuBudgie/window-shuffler) - GUI and keyboard friendly window arranger for the budgie and mate desktop
 - [sundarnagarajan/bootutils](https://github.com/sundarnagarajan/bootutils) - Utilities to create bootable disks, remaster ISO images, make multiboot ISO images
@@ -3710,7 +3711,6 @@
 - [phenax/nixos-dotfiles](https://github.com/phenax/nixos-dotfiles) - 
 - [GDR/dot](https://github.com/GDR/dot) - My personal config repo for my NixOS configurations. I use Nix flakes to manage dependencies and reproducibility.
 - [arminveres/dotfiles](https://github.com/arminveres/dotfiles) - Repository for personal Unix config files
-- [svrvt/re_tile](https://github.com/svrvt/re_tile) - dotfiles window manager
 - [port19x/dotfiles](https://github.com/port19x/dotfiles) - Mac OS
 - [AmitGolden/dotfiles](https://github.com/AmitGolden/dotfiles) - AmitGold's catppuccin dotfiles!
 - [notKamui/dotfiles](https://github.com/notKamui/dotfiles) - What's hidden sometimes makes you who you are
