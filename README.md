@@ -232,7 +232,6 @@
 - [christophgysin/pasystray](https://github.com/christophgysin/pasystray) - PulseAudio system tray
 - [CristianHenzel/ClipIt](https://github.com/CristianHenzel/ClipIt) - ClipIt clipboard manager for GTK+
 - [conformal/spectrwm](https://github.com/conformal/spectrwm) - A small dynamic tiling window manager for X11.
-- [Embroidermodder/Embroidermodder](https://github.com/Embroidermodder/Embroidermodder) - Free machine embroidery software supporting a variety of formats.
 - [cfenollosa/os-tutorial](https://github.com/cfenollosa/os-tutorial) - How to create an OS from scratch
 
 ## C# # 
@@ -311,6 +310,7 @@
 - [diasurgical/DevilutionX](https://github.com/diasurgical/DevilutionX) - Diablo build for modern operating systems
 - [pbek/QOwnNotes](https://github.com/pbek/QOwnNotes) - QOwnNotes is a plain-text file notepad and todo-list manager with Markdown support and Nextcloud / ownCloud integration.
 - [robotology/yarp](https://github.com/robotology/yarp) - YARP - Yet Another Robot Platform
+- [Embroidermodder/Embroidermodder](https://github.com/Embroidermodder/Embroidermodder) - Free machine embroidery software supporting a variety of formats.
 - [lxqt/lxqt-panel](https://github.com/lxqt/lxqt-panel) - The LXQt desktop panel
 - [unetbootin/unetbootin](https://github.com/unetbootin/unetbootin) - UNetbootin installs Linux/BSD distributions to a partition or USB drive
 - [hannesschulze/conecto](https://github.com/hannesschulze/conecto) - Integrate your Android-phone with your PC - a GTK client for KDEConnect.
@@ -2145,7 +2145,7 @@
 - [Padraic-O-Mhuiris/systems](https://github.com/Padraic-O-Mhuiris/systems) - 
 - [RossComputerGuy/dotfiles](https://github.com/RossComputerGuy/dotfiles) - My dotfiles for all of my Linux devices
 - [lunik1/nix-wallpaper](https://github.com/lunik1/nix-wallpaper) - A configurable wallpaper for nix systems
-- [orangci/dots](https://github.com/orangci/dots) - orangc's dotfiles - NixOS + Hyprland
+- [orangci/dots](https://github.com/orangci/dots) - My NixOS system configuration flake. Mirrored from https://orangc.net/g/dots
 - [MAHDTech/nix-config](https://github.com/MAHDTech/nix-config) - Nix configuration dotfiles
 - [wmertens/nixos-config-lenovo-c940](https://github.com/wmertens/nixos-config-lenovo-c940) - 
 - [redxtech/nixfiles](https://github.com/redxtech/nixfiles) - Personal nixos and home-manager configurations.
@@ -2993,6 +2993,8 @@
 
 ## Python 
 
+- [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - 
+- [CncAnon1/kkc](https://github.com/CncAnon1/kkc) - 
 - [0xarun/TreeGen](https://github.com/0xarun/TreeGen) - TreeGen is creates real folder and file structures from plain-text blueprints.
 - [Zalexanninev15/GetFreeChat](https://github.com/Zalexanninev15/GetFreeChat) - Automatic collection of free instances of AI text models (ChatGPT, Claude, llama and others)
 - [xtekky/deepseek4free](https://github.com/xtekky/deepseek4free) - Deepseek V3 and R1 private API, deep thinking, search, full requests. pow challenge reversed. deepseek api.
@@ -3636,6 +3638,7 @@
 
 ## Shell 
 
+- [mullvad/dns-blocklists](https://github.com/mullvad/dns-blocklists) - Lists and configuration for our DNS blocking service
 - [raffaelschneider/walnut](https://github.com/raffaelschneider/walnut) - Walnut is an open, flexible, and POSIX-compatible standard for organizing personal knowledge bases—a modern "second brain" system.
 - [basaran/awmtt-ng](https://github.com/basaran/awmtt-ng) - awesomewm testing tool. This fork allows auto reload via entr.
 - [rwxrob/dot](https://github.com/rwxrob/dot) - The big ugly, enter at your own peril
@@ -4129,6 +4132,7 @@
 
 ## TypeScript 
 
+- [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [disnet/flint-note](https://github.com/disnet/flint-note) - Agent-first note-taking system
 - [elrincondeldev/backgrounds-hub](https://github.com/elrincondeldev/backgrounds-hub) - 
 - [AAbushady/sillytavern-to-sharegpt](https://github.com/AAbushady/sillytavern-to-sharegpt) - A TypeScript application that converts SillyTavern chat logs into formats suitable for LLM fine-tuning and sharing, including ShareGPT and Alpaca formats.
