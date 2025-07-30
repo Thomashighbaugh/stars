@@ -126,6 +126,8 @@
 
 ## C 
 
+- [JanotLeLapin/dots](https://github.com/JanotLeLapin/dots) - my modular NixOS config
+- [icculus/fatelf](https://github.com/icculus/fatelf) - Universal binaries for Linux.
 - [Mentors4EDU/Reinvent-the-Internet](https://github.com/Mentors4EDU/Reinvent-the-Internet) - I want to change the way we transfer wireless data and utilize this for a series of projects
 - [migueldeoleiros/turtile](https://github.com/migueldeoleiros/turtile) - turtile 🐢 is a simple Wayland compositor written in C, based on wlroots
 - [DreamMaoMao/maomaowm](https://github.com/DreamMaoMao/maomaowm) - wayland compositor base wlroots and scenefx(dwl but no suckless)
@@ -907,6 +909,7 @@
 
 ## JavaScript 
 
+- [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money.
 - [juanprietob/clusterpost](https://github.com/juanprietob/clusterpost) - Post jobs to a computing grid and store the results in a couch database local or remote
 - [RetireJS/retire.js](https://github.com/RetireJS/retire.js) - scanner detecting the use of JavaScript libraries with known vulnerabilities. Can also generate an SBOM of the libraries it finds.
 - [DDKnoll/SVGeneration](https://github.com/DDKnoll/SVGeneration) - Generate SVG background graphics and patterns
@@ -1212,6 +1215,7 @@
 - [vivek9patel/vivek9patel.github.io](https://github.com/vivek9patel/vivek9patel.github.io) - Web simulation of Ubuntu 20.04, made using NEXT.js & tailwind CSS
 - [feiruo/userChromeJS](https://github.com/feiruo/userChromeJS) - Firefox userChromeJS
 - [luismoralesarg/EnterTheMatrix](https://github.com/luismoralesarg/EnterTheMatrix) - The most faithful version of the Matrix rain.
+- [remorses/fumabase](https://github.com/remorses/fumabase) - Docs websites for the agents era. Publish docs websites without maintaining any code. Built on top of Fumadocs
 - [interactivethings/catalog](https://github.com/interactivethings/catalog) - Create living style guides using Markdown or React
 - [mipmip/awesomewm-screenshots](https://github.com/mipmip/awesomewm-screenshots) - AwesomeWM screenshot gallery. https://mipmip.github.io/awesomewm-screenshots/
 - [BlackCapCoder/scrimba-vim](https://github.com/BlackCapCoder/scrimba-vim) - Edit scrimba projects with vim
@@ -2993,6 +2997,7 @@
 
 ## Python 
 
+- [FujiwaraChoki/MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter) - Automate Creation of YouTube Shorts using MoviePy.
 - [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - 
 - [CncAnon1/kkc](https://github.com/CncAnon1/kkc) - 
 - [0xarun/TreeGen](https://github.com/0xarun/TreeGen) - TreeGen is creates real folder and file structures from plain-text blueprints.
@@ -3258,7 +3263,6 @@
 - [deter0/xborder](https://github.com/deter0/xborder) - Active window border replacement for window managers.
 - [nivalderramas/awesomePalettes](https://github.com/nivalderramas/awesomePalettes) - Color Scheme generator for awesomeWM
 - [rdxshubham/instagram-post-scheduler](https://github.com/rdxshubham/instagram-post-scheduler) - Schedule your Instagram Post.
-- [karthik558/ddos-attack](https://github.com/karthik558/ddos-attack) - This script is designed for educational purposes only and allows users to simulate a DDoS attack. Please note that hacking is illegal and this script should not be used for any malicious activities. I
 - [openai/Video-Pre-Training](https://github.com/openai/Video-Pre-Training) - Video PreTraining (VPT): Learning to Act by Watching Unlabeled Online Videos
 - [MrPowerScripts/reddit-karma-farming-bot](https://github.com/MrPowerScripts/reddit-karma-farming-bot) - "Is karma really that important to you? Damn bro, you need a life" - YouTube Comment
 - [vm03/payload_dumper](https://github.com/vm03/payload_dumper) - Android OTA payload dumper
@@ -3463,6 +3467,9 @@
 
 ## Rust 
 
+- [replit/rippkgs](https://github.com/replit/rippkgs) - A CLI for indexing and searching packages in Nix expressions
+- [aumbriac/MistralCLI](https://github.com/aumbriac/MistralCLI) - Rust-powered CLI for interacting with the Mistral AI API
+- [AerynOS/blsforme](https://github.com/AerynOS/blsforme) - BLS compatible distro kernel management
 - [wayland-transpositor/wprs](https://github.com/wayland-transpositor/wprs) - 
 - [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) - The Fully Customizable Desktop Environment for Windows 10/11.
 - [oreboot/oreboot](https://github.com/oreboot/oreboot) - oreboot is a fork of coreboot, with C removed, written in Rust.
@@ -3558,6 +3565,7 @@
 - [jamestthompson3/tendril-wiki](https://github.com/jamestthompson3/tendril-wiki) - Personal knowledge management tool
 - [foresterre/imagineer](https://github.com/foresterre/imagineer) - 🦜 Accessible image processing and conversion from the terminal. Front-end for image-rs/image. Formerly 'sic'
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
+- [karthik558/ddos-attack](https://github.com/karthik558/ddos-attack) - Advanced Rust DDoS testing tool with Layer 4/7 attacks, Tor integration, evasion, and spoofing for security
 - [wezm/bar](https://github.com/wezm/bar) - A bar that lives in the awesome window manager wibar
 - [SuperCuber/dotter](https://github.com/SuperCuber/dotter) - A dotfile manager and templater written in rust 🦀
 - [r-darwish/alma](https://github.com/r-darwish/alma) - Create Arch Linux based bootable USB drives
@@ -3731,7 +3739,7 @@
 - [cmcculloh/GitScripts](https://github.com/cmcculloh/GitScripts) - Makes Git a little more user friendly and a little more user safe (idiot proof)
 - [KreitinnSoftware/SamFlasher-Tool](https://github.com/KreitinnSoftware/SamFlasher-Tool) - A simple tool to flash rom to samsung devices, based on heimdall
 - [nitsky/config](https://github.com/nitsky/config) - 
-- [athxrvx/IdempotentDots](https://github.com/athxrvx/IdempotentDots) - Configuration for setting up NixOS on tmpfs, my way
+- [athxrvx/IdempotentSystems](https://github.com/athxrvx/IdempotentSystems) - Configuration for setting up NixOS on tmpfs, my way
 - [fariasmateuss/favicon-generator](https://github.com/fariasmateuss/favicon-generator) - Bash Script to generate favicons in multiple sizes (.ico and .png)
 - [DrgnFireYellow/notenote](https://github.com/DrgnFireYellow/notenote) - The zsh plugin for taking notes.
 - [okitavera/dotfiles](https://github.com/okitavera/dotfiles) - All of my configuration files that currently used includes zsh, urxvt, awesomewm, and others
@@ -4350,7 +4358,6 @@
 - [lailo/next-with-tailwindcss](https://github.com/lailo/next-with-tailwindcss) - NextJS with TypeScript and TailwindCSS (with dark theme switch)
 - [timroes/awesome-config](https://github.com/timroes/awesome-config) - My awesome wm configuration.
 - [adonig/nextjs-starter-preact-tailwindcss](https://github.com/adonig/nextjs-starter-preact-tailwindcss) - A Next.js starter project coming with Preact and Tailwind CSS built-in.
-- [remorses/fumabase](https://github.com/remorses/fumabase) - Docs websites for the agents era. Publish docs websites without maintaining any code. Built on top of Fumadocs
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - Chakra UI is a component system for building SaaS products with speed ⚡️
 - [trufflesuite/truffle](https://github.com/trufflesuite/truffle) - :warning: The Truffle Suite is being sunset. For information on ongoing support, migration options and FAQs, visit the Consensys blog. Thank you for all the support over the years.
