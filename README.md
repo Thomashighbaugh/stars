@@ -609,9 +609,9 @@
 
 ## Emacs Lisp 
 
+- [port19x/dotfiles](https://github.com/port19x/dotfiles) - Mac OS
 - [cjbassi/config](https://github.com/cjbassi/config) - 
 - [aruZeta/Dotfiles.nix](https://github.com/aruZeta/Dotfiles.nix) - My reproducible system config made with nix
-- [rasendubi/dotfiles](https://github.com/rasendubi/dotfiles) - My dotfiles
 - [shtwzrd/friar](https://github.com/shtwzrd/friar) - Emacs REPL for interacting with AwesomeWM
 - [willbush/system](https://github.com/willbush/system) - Trying to build the perfect system
 - [russmatney/dotfiles](https://github.com/russmatney/dotfiles) - Doom Emacs, a few-years old vim config, tmux, i3, zsh, polybar
@@ -916,6 +916,11 @@
 
 ## JavaScript 
 
+- [LousyBook94/pollinations-task-master](https://github.com/LousyBook94/pollinations-task-master) - A fork of the original task master but uses pollinations instead to be used for free
+- [fisventurous/pollinationsai-enhancer](https://github.com/fisventurous/pollinationsai-enhancer) - UserScript for enhancing the web view on Pollinations.ai
+- [pollinations/pollinations](https://github.com/pollinations/pollinations) - Free Open-Source Image and Text Generation
+- [sebastiancarlos/beachpatrol](https://github.com/sebastiancarlos/beachpatrol) - 🏝️ A CLI Tool to Automate Your Everyday Web Browser.
+- [AbdurazaaqMohammed/userscripts](https://github.com/AbdurazaaqMohammed/userscripts) - Userscripts developed by me
 - [SillyTavern/Extension-QuickContextSize](https://github.com/SillyTavern/Extension-QuickContextSize) - Adds buttons to quickly set a context size without having to use a slider or type in a number.
 - [obra/Youtube2Webpage](https://github.com/obra/Youtube2Webpage) - I learn much better from text than from videos
 - [uuware/icons-font-customization](https://github.com/uuware/icons-font-customization) - Thanks for forking and starring! If you want any features please raise issues! A collection of over 78,000 high-quality free svg icons and tools for generating customized icon font. All icons are comp
@@ -989,7 +994,6 @@
 - [aminought/firefox-second-sidebar](https://github.com/aminought/firefox-second-sidebar) - A Firefox userChrome.js script for adding a second sidebar with web panels like in Vivaldi/Floorp/Zen but better.
 - [mcortt/FirefoxJS](https://github.com/mcortt/FirefoxJS) - Userchrome.js customizations for Firefox
 - [acestronautical/bookcover-js](https://github.com/acestronautical/bookcover-js) - An in browser tool for generating penguin clothbound classics style book cover SVG images
-- [ABER1047/PrettierGithub](https://github.com/ABER1047/PrettierGithub) - Make your Github Profile much Prettier🥳
 - [friuns2/Awesome-GPTs-Big-List](https://github.com/friuns2/Awesome-GPTs-Big-List) - Use OpenAI GPTs for Free: https://gptcall.net/
 - [soulhotel/BrowserHub](https://github.com/soulhotel/BrowserHub) - A 9 in 1 Button Hub. (Firefox accessibility extension)
 - [xinggsf/uc](https://github.com/xinggsf/uc) - firefox uc JS
@@ -2158,6 +2162,7 @@
 
 ## Nix 
 
+- [Plasmaa0/NixOS-config](https://github.com/Plasmaa0/NixOS-config) - My NixOS config
 - [ExpidusOS/expidusos](https://github.com/ExpidusOS/expidusos) - 
 - [Padraic-O-Mhuiris/systems](https://github.com/Padraic-O-Mhuiris/systems) - 
 - [RossComputerGuy/dotfiles](https://github.com/RossComputerGuy/dotfiles) - My dotfiles for all of my Linux devices
@@ -2240,6 +2245,7 @@
 - [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations
 - [Frost-Phoenix/nixos-config](https://github.com/Frost-Phoenix/nixos-config) - ❄️ NixOs / Hyprland rice with Home-Manager ❄️
 - [Lehmanator/nix-configs](https://github.com/Lehmanator/nix-configs) - Personal Nix / NixOS configs
+- [gabrieldlima/dotfiles](https://github.com/gabrieldlima/dotfiles) - NixOS & Home Manger configs
 - [IogaMaster/dotfiles](https://github.com/IogaMaster/dotfiles) - My NixOS flake.
 - [divnix/flake-bootstrap](https://github.com/divnix/flake-bootstrap) - 
 - [kira-bruneau/nixos-config](https://github.com/kira-bruneau/nixos-config) - My NixOS configuration. Mirror of code maintained at gitlab.com.
@@ -2379,6 +2385,7 @@
 - [chaotic-cx/nyx](https://github.com/chaotic-cx/nyx) - Nix flake for "too much bleeding-edge" and unreleased packages (e.g., mesa_git, linux_cachyos, firefox_nightly, sway_git, gamescope_git). And experimental modules (e.g., HDR, duckdns).
 - [nicekoishi/dotfiles](https://github.com/nicekoishi/dotfiles) - hello there
 - [pogobanane/dotfiles](https://github.com/pogobanane/dotfiles) - My dotfiles. Mostly NixOS config.
+- [WillPower3309/nixos-config](https://github.com/WillPower3309/nixos-config) - My personal nixos config
 - [gradientvera/GradientOS](https://github.com/gradientvera/GradientOS) - Flake for multiple NixOS system configurations
 - [oddlama/nix-config](https://github.com/oddlama/nix-config) - ❄️ My nix config and dotfiles
 - [numtide/flake-utils](https://github.com/numtide/flake-utils) - Pure Nix flake utility functions [maintainer=@zimbatm]
@@ -2416,6 +2423,7 @@
 - [gbtb/nix-stable-diffusion](https://github.com/gbtb/nix-stable-diffusion) - Flake for running SD on NixOS
 - [kalbasit/soxincfg](https://github.com/kalbasit/soxincfg) - Soxin configuration
 - [johnae/world](https://github.com/johnae/world) - NixOS configuration
+- [rasendubi/dotfiles](https://github.com/rasendubi/dotfiles) - My dotfiles
 - [Jomik/dotfiles](https://github.com/Jomik/dotfiles) - Repository for my dotfiles
 - [rszamszur/nixos-config](https://github.com/rszamszur/nixos-config) - My nixos configuration
 - [rapgru/nixos-config](https://github.com/rapgru/nixos-config) - 
@@ -2618,7 +2626,6 @@
 - [Bunn/macOSToPendrive](https://github.com/Bunn/macOSToPendrive) - Apple Script to create a bootable macOS pendrive
 - [ipfs/devgrants](https://github.com/ipfs/devgrants) - The IPFS Grant platform connects funding organizations with builders and researchers in the IPFS community.
 - [ai-boost/awesome-prompts](https://github.com/ai-boost/awesome-prompts) - Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt protect. Advanced Prompt Engineering papers.
-- [gabrieldlima/dotfiles](https://github.com/gabrieldlima/dotfiles) - Personal dotfiles (Windows and Linux)
 - [ridwanzal/ridwanzal](https://github.com/ridwanzal/ridwanzal) - My personal README for github profile. Cheers.
 - [chaozh/awesome-gpt-store](https://github.com/chaozh/awesome-gpt-store) - A place to find all Custom Stores and OpenAI store for ChatGPT and related apps
 - [herrbischoff/simple-svg-brand-logos](https://github.com/herrbischoff/simple-svg-brand-logos) - A collection of simplified brand logos in SVG format.
@@ -3004,7 +3011,6 @@
 
 ## PowerShell 
 
-- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [alexfrancow/badusb_botnet](https://github.com/alexfrancow/badusb_botnet) - :busts_in_silhouette::smiling_imp: Infect a pc with badusb and establish a connection through telegram.
 - [dotnet/core](https://github.com/dotnet/core) - .NET news, announcements, release notes, and more!
 - [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) - A command-line installer for Windows.
@@ -3089,7 +3095,7 @@
 - [roaldnefs/roaldnefs](https://github.com/roaldnefs/roaldnefs) - Personal GitHub Profile README that's automatically updated by GitHub Actions.
 - [MrGri00/auto-emailer](https://github.com/MrGri00/auto-emailer) - A small Python-based script designed for personal use to automate sending personalized emails with optional attachments.
 - [THUDM/LongWriter](https://github.com/THUDM/LongWriter) - [ICLR 2025] LongWriter: Unleashing 10,000+ Word Generation from Long Context LLMs
-- [oumi-ai/oumi](https://github.com/oumi-ai/oumi) - Easily fine-tune, evaluate and deploy Qwen3, DeepSeek-R1, Llama 4 or any open source LLM / VLM!
+- [oumi-ai/oumi](https://github.com/oumi-ai/oumi) - Easily fine-tune, evaluate and deploy gpt-oss, Qwen3, DeepSeek-R1, or any open source LLM / VLM!
 - [langroid/langroid](https://github.com/langroid/langroid) - Harness LLMs with Multi-Agent Programming
 - [langroid/langroid-examples](https://github.com/langroid/langroid-examples) - Using Langroid's Multi-Agent Framework to Build LLM Apps
 - [openinterpreter/open-interpreter](https://github.com/openinterpreter/open-interpreter) - A natural language interface for computers
@@ -3747,7 +3753,6 @@
 - [phenax/nixos-dotfiles](https://github.com/phenax/nixos-dotfiles) - 
 - [GDR/dot](https://github.com/GDR/dot) - My personal config repo for my NixOS configurations. I use Nix flakes to manage dependencies and reproducibility.
 - [arminveres/dotfiles](https://github.com/arminveres/dotfiles) - Repository for personal Unix config files
-- [port19x/dotfiles](https://github.com/port19x/dotfiles) - Mac OS
 - [AmitGolden/dotfiles](https://github.com/AmitGolden/dotfiles) - AmitGold's catppuccin dotfiles!
 - [notKamui/dotfiles](https://github.com/notKamui/dotfiles) - What's hidden sometimes makes you who you are
 - [pimterry/notes](https://github.com/pimterry/notes) - :pencil: Simple delightful note taking, with more unix and less lock-in.
@@ -3756,7 +3761,6 @@
 - [GoodBoyNeon/dotfiles](https://github.com/GoodBoyNeon/dotfiles) - My configuration for Arch Linux.
 - [jacg/nix-starters](https://github.com/jacg/nix-starters) - Templates for getting started with Nix: home-manager, Rust projects, Python projects, C++ projects, etc.
 - [a-schaefers/themelios](https://github.com/a-schaefers/themelios) - Bootstrap a zfs-on-root NixOS configuration in one command. Themelios automates the entire installation process using any NixOS livedisk with an internet connection and your git repo. Themelios is fle
-- [WillPower3309/nixos-config](https://github.com/WillPower3309/nixos-config) - My personal nixos config
 - [erikarvstedt/extra-container](https://github.com/erikarvstedt/extra-container) - Run declarative NixOS containers without full system rebuilds
 - [Distroshare/distroshare-ubuntu-imager](https://github.com/Distroshare/distroshare-ubuntu-imager) - Creates an installable live CD from an installed Ubuntu or derivative distribution
 - [emmett1/linuxliveiso](https://github.com/emmett1/linuxliveiso) - scripts to build linux live iso
@@ -3864,6 +3868,7 @@
 - [fvanniere/alpine-custom](https://github.com/fvanniere/alpine-custom) - Tools for building custom Alpine ISO with autoconfiguration from host
 - [jclab-joseph/test-alpine-live-iso](https://github.com/jclab-joseph/test-alpine-live-iso) - 
 - [bugswriter/notflix](https://github.com/bugswriter/notflix) - Notflix is a shell script to search and stream torrent.
+- [zanshin/dotfiles](https://github.com/zanshin/dotfiles) - My dotfiles.
 - [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
 - [isair/dotfiles](https://github.com/isair/dotfiles) - 🖥️  Backup your packages, apps, and configurations directly to git in the form of profiles. Set up any new machine using a profile in one line. Share profiles between multiple machines. Configure auto
 - [angristan/wireguard-install](https://github.com/angristan/wireguard-install) - WireGuard VPN installer for Linux servers
@@ -4165,11 +4170,12 @@
 
 ## TypeScript 
 
+- [lutzleonhardt/copilot-proxy](https://github.com/lutzleonhardt/copilot-proxy) - Copilot Proxy is a Visual Studio Code extension that exposes the VS Code Language Model API via an Express server. This experimental extension is intended solely for research and prototyping purposes 
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [disnet/flint-note](https://github.com/disnet/flint-note) - Agent-first note-taking system
 - [elrincondeldev/backgrounds-hub](https://github.com/elrincondeldev/backgrounds-hub) - 
 - [AAbushady/sillytavern-to-sharegpt](https://github.com/AAbushady/sillytavern-to-sharegpt) - A TypeScript application that converts SillyTavern chat logs into formats suitable for LLM fine-tuning and sharing, including ShareGPT and Alpaca formats.
-- [codexu/note-gen](https://github.com/codexu/note-gen) - A cross-platform Markdown note-taking application dedicated to using AI to bridge recording and writing, organizing fragmented knowledge into a readable note.
+- [codexu/note-gen](https://github.com/codexu/note-gen) - A cross-platform Markdown AI note-taking software.
 - [BuilderIO/micro-agent](https://github.com/BuilderIO/micro-agent) - An AI agent that writes (actually useful) code for you
 - [udevbe/greenfield](https://github.com/udevbe/greenfield) - HTML5 Wayland compositor  :seedling:
 - [ssdeanx/deep-research-mcp-server](https://github.com/ssdeanx/deep-research-mcp-server) - MCP Deep Research Server using Gemini creating a Research AI Agent
@@ -4181,6 +4187,7 @@
 - [ntegrals/december](https://github.com/ntegrals/december) - A fully local Loveable, Replit, Bolt, v0 alternative that you can run with your own LLM. No monthly subscriptions, private by default.
 - [mtwn105/decipher-research-agent](https://github.com/mtwn105/decipher-research-agent) - Turn topics, links, and files into AI-generated research notebooks — summarize, explore, and ask anything.
 - [ThinkInAIXYZ/deepchat](https://github.com/ThinkInAIXYZ/deepchat) - 🐬DeepChat - A smart assistant that connects powerful AI to your personal world
+- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [colemccracken/changelog](https://github.com/colemccracken/changelog) - 
 - [Tolga1452/ai-prompts](https://github.com/Tolga1452/ai-prompts) - A collection of original system prompts and tool data used for AI chatbots. Explore how companies such as ChatGPT prompt their AIs!
 - [bmen25124/SillyTavern-WorldInfo-Recommender](https://github.com/bmen25124/SillyTavern-WorldInfo-Recommender) - A SillyTavern extension that helps you manage world info based on the current context with LLMs using connection profiles.
@@ -4496,7 +4503,6 @@
 - [Arkham/dotfiles.nix](https://github.com/Arkham/dotfiles.nix) - Dotfiles super-powered by Nix and home-manager
 - [issadarkthing/artix-dotfiles](https://github.com/issadarkthing/artix-dotfiles) - My Artix linux dotfiles
 - [Ham5andw1ch/NewDots](https://github.com/Ham5andw1ch/NewDots) - Updated dotfiles since I'm too lazy to touch the old repo.
-- [zanshin/dotfiles](https://github.com/zanshin/dotfiles) - My dotfiles.
 - [hiecaq/dotfiles](https://github.com/hiecaq/dotfiles) - My dotfiles that set the world I live in
 - [Tuurlijk/dotfiles](https://github.com/Tuurlijk/dotfiles) - Make the shell great again!
 - [nikvdp/neomux](https://github.com/nikvdp/neomux) - Control Neovim from shells running inside Neovim.
