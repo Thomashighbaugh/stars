@@ -1173,7 +1173,7 @@
 - [montoulieu/link-ent](https://github.com/montoulieu/link-ent) - 🌲 A free Linktree alternative built with Next.js and Tailwind.
 - [RizkyRajitha/linkin](https://github.com/RizkyRajitha/linkin) - Linkin is a customizable self hosted link tree platform.
 - [Schneegans/Fly-Pie](https://github.com/Schneegans/Fly-Pie) - :pie: Fly-Pie is an innovative marking menu written as a GNOME Shell extension.
-- [tuberry/shuzhi](https://github.com/tuberry/shuzhi) - Wallpaper generation extension for GNOME Shell, inspired by Jizhi.
+- [tuberry/shuzhi](https://github.com/tuberry/shuzhi) - GNOME Shell extension to generate wallpapers featuring mottos, inspired by Jizhi
 - [tesserractmedia/entertainment-ayam](https://github.com/tesserractmedia/entertainment-ayam) - This is the Frontend Website of Entertainment Ayam a  sub-project and part of the Ayam Project ecosystem. This project's aim is to collect data on Hinduphobia being spread through entertainment medium
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [svgdotjs/svg.js](https://github.com/svgdotjs/svg.js) - The lightweight library for manipulating and animating SVG
@@ -2245,7 +2245,6 @@
 - [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations
 - [Frost-Phoenix/nixos-config](https://github.com/Frost-Phoenix/nixos-config) - ❄️ NixOs / Hyprland rice with Home-Manager ❄️
 - [Lehmanator/nix-configs](https://github.com/Lehmanator/nix-configs) - Personal Nix / NixOS configs
-- [gabrieldlima/dotfiles](https://github.com/gabrieldlima/dotfiles) - NixOS & Home Manger configs
 - [IogaMaster/dotfiles](https://github.com/IogaMaster/dotfiles) - My NixOS flake.
 - [divnix/flake-bootstrap](https://github.com/divnix/flake-bootstrap) - 
 - [kira-bruneau/nixos-config](https://github.com/kira-bruneau/nixos-config) - My NixOS configuration. Mirror of code maintained at gitlab.com.
@@ -2626,6 +2625,7 @@
 - [Bunn/macOSToPendrive](https://github.com/Bunn/macOSToPendrive) - Apple Script to create a bootable macOS pendrive
 - [ipfs/devgrants](https://github.com/ipfs/devgrants) - The IPFS Grant platform connects funding organizations with builders and researchers in the IPFS community.
 - [ai-boost/awesome-prompts](https://github.com/ai-boost/awesome-prompts) - Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt protect. Advanced Prompt Engineering papers.
+- [gabrieldlima/dotfiles](https://github.com/gabrieldlima/dotfiles) - Windows and NixOS configs
 - [ridwanzal/ridwanzal](https://github.com/ridwanzal/ridwanzal) - My personal README for github profile. Cheers.
 - [chaozh/awesome-gpt-store](https://github.com/chaozh/awesome-gpt-store) - A place to find all Custom Stores and OpenAI store for ChatGPT and related apps
 - [herrbischoff/simple-svg-brand-logos](https://github.com/herrbischoff/simple-svg-brand-logos) - A collection of simplified brand logos in SVG format.
