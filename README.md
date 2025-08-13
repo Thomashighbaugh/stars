@@ -916,6 +916,7 @@
 
 ## JavaScript 
 
+- [TuxedoTako/4chan-xt](https://github.com/TuxedoTako/4chan-xt) - Adds various features to anonymous imageboards.
 - [LousyBook94/pollinations-task-master](https://github.com/LousyBook94/pollinations-task-master) - A fork of the original task master but uses pollinations instead to be used for free
 - [fisventurous/pollinationsai-enhancer](https://github.com/fisventurous/pollinationsai-enhancer) - UserScript for enhancing the web view on Pollinations.ai
 - [pollinations/pollinations](https://github.com/pollinations/pollinations) - Free Open-Source Image and Text Generation
@@ -1587,7 +1588,7 @@
 - [brose55/awesome-config](https://github.com/brose55/awesome-config) - My changes to PapyElGringo/material-awesome
 - [singul4ri7y/not-awesome-at-all](https://github.com/singul4ri7y/not-awesome-at-all) - An AwesomeWM rice inspired by HikariKnight and PapyElGringo's work 👾
 - [nyngwang/suave.lua](https://github.com/nyngwang/suave.lua) - Multi-tabs project session automation
-- [chrisgrieser/nvim-rulebook](https://github.com/chrisgrieser/nvim-rulebook) - Add inline-comments to ignore rules or suppress formatters. Lookup rule documentation online.
+- [chrisgrieser/nvim-rulebook](https://github.com/chrisgrieser/nvim-rulebook) - All-around helper for dealing with errors and diagnostics: Add inline-comments to ignore rules or suppress formatters. Lookup rule documentation online.
 - [Exafunction/windsurf.nvim](https://github.com/Exafunction/windsurf.nvim) - A native neovim extension for Codeium
 - [loctvl842/monokai-pro.nvim](https://github.com/loctvl842/monokai-pro.nvim) - Monokai Pro theme for Neovim written in Lua, with multiple filters: Pro, Classic, Machine, Octagon, Ristretto, Spectrum
 - [dobrovolsky/kb-notes.nvim](https://github.com/dobrovolsky/kb-notes.nvim) - Note-taking plugin builtt on to of nvim
@@ -2039,7 +2040,6 @@
 - [bunburya/awesomerc](https://github.com/bunburya/awesomerc) - My AwesomeWM configuration Lua files.
 - [shmilee/config-awesome](https://github.com/shmilee/config-awesome) - Awesome Window Manager Config Files
 - [shmilee/awesome-away](https://github.com/shmilee/awesome-away) - wallpapers, widgets and utilities for Awesome WM 4.x.
-- [duckwork/cribbed](https://github.com/duckwork/cribbed) - AwesomeWM modules, widgets, etc.
 - [andOrlando/rubato](https://github.com/andOrlando/rubato) - Create smooth animations with a slope curve for awesomeWM
 - [rishitxyz/awesome-config](https://github.com/rishitxyz/awesome-config) - An awesomewm config for window manager users on linux system
 - [crater2150/awesomerc](https://github.com/crater2150/awesomerc) - My AwesomeWM config
@@ -2272,7 +2272,6 @@
 - [oluceps/nixos-config](https://github.com/oluceps/nixos-config) - Configuration for describing my systems. And NUR
 - [Ruixi-rebirth/flakes](https://github.com/Ruixi-rebirth/flakes) - My presonal NixOS config, etc.
 - [dr460nf1r3/dr460nixed](https://github.com/dr460nf1r3/dr460nixed) - Dr460nixed NixOS 🐉❄️
-- [m0lentum/dotfiles](https://github.com/m0lentum/dotfiles) - My NixOS config
 - [stepbrobd/dotfiles](https://github.com/stepbrobd/dotfiles) - yet another dotfiles repo with nix
 - [the-nix-way/nome](https://github.com/the-nix-way/nome) - My Nix home
 - [divnix/hive](https://github.com/divnix/hive) - The secretly open NixOS-Society
@@ -2299,7 +2298,7 @@
 - [z0al/dotfiles](https://github.com/z0al/dotfiles) - An opinionated flake-based system configuration ❄
 - [alexanderwallau/nix](https://github.com/alexanderwallau/nix) - Nixlas OS
 - [LavaDesu/flakes](https://github.com/LavaDesu/flakes) - NixOS config using flakes
-- [redyf/nixdots](https://github.com/redyf/nixdots) - Dotfiles for NixOS
+- [redyf/nixdots](https://github.com/redyf/nixdots) - Modular NixOS configuration
 - [nix-community/nix-bundle](https://github.com/nix-community/nix-bundle) - Bundle Nix derivations to run anywhere! [maintainer=@matthewbauer, @Artturin]
 - [mrjones2014/dotfiles](https://github.com/mrjones2014/dotfiles) - ❄️ My dotfiles for NixOS and macOS with nix-darwin as a Nix flake.
 - [NixOS/templates](https://github.com/NixOS/templates) - Flake templates
@@ -2672,6 +2671,7 @@
 - [ink-cow/ko-templates](https://github.com/ink-cow/ko-templates) - Templates for creating comics in Krita
 - [BlockchainCommons/Pseudonymity-Guide](https://github.com/BlockchainCommons/Pseudonymity-Guide) - How to securely create and operate a pseudonymous identity.
 - [sottlmarek/DevSecOps](https://github.com/sottlmarek/DevSecOps) - Ultimate DevSecOps library
+- [m0lentum/dotfiles](https://github.com/m0lentum/dotfiles) - My NixOS config
 - [dereknguyen269/dereknguyen269](https://github.com/dereknguyen269/dereknguyen269) - Don't fork only. Let's Fork and Star.
 - [wtsxDev/reverse-engineering](https://github.com/wtsxDev/reverse-engineering) - List of awesome reverse engineering resources
 - [domgetter/NCoC](https://github.com/domgetter/NCoC) - No Code of Conduct: A Code of Conduct for Adults in Open Source Software
@@ -3018,6 +3018,7 @@
 
 ## Python 
 
+- [griptape-ai/griptape](https://github.com/griptape-ai/griptape) - Modular Python framework for AI agents and workflows with chain-of-thought reasoning, tools, and memory.
 - [Arindam200/awesome-ai-apps](https://github.com/Arindam200/awesome-ai-apps) - A collection of projects showcasing RAG, agents, workflows, and other AI use cases
 - [Davidyz/VectorCode](https://github.com/Davidyz/VectorCode) - A code repository indexing tool to supercharge your LLM experience.
 - [bytemallet/openkeyfinder](https://github.com/bytemallet/openkeyfinder) - OpenKeyFinder is a Proof of Concept tool designed to retrieve OpenAI API Keys exposed on GitHub,
@@ -3774,7 +3775,6 @@
 - [okitavera/dotfiles](https://github.com/okitavera/dotfiles) - All of my configuration files that currently used includes zsh, urxvt, awesomewm, and others
 - [varlesh/volantes-cursors](https://github.com/varlesh/volantes-cursors) - Cursor Theme
 - [greglaurent/nixos-iso](https://github.com/greglaurent/nixos-iso) - Custom NixOS ISO
-- [k-vernooy/dotfiles](https://github.com/k-vernooy/dotfiles) - An organizational repository for my dotfiles and scripts
 - [folke/dot](https://github.com/folke/dot) - ☕️   My Dot Files
 - [emmett1/lfs-scripts](https://github.com/emmett1/lfs-scripts) - Automated script to build Multilib LFS system + livecd
 - [phisch/giph](https://github.com/phisch/giph) - simple video (gif, webm, mp4) recorder
@@ -4126,7 +4126,6 @@
 - [Bash-it/bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
 - [YunoHost-Apps/staticwebapp_ynh](https://github.com/YunoHost-Apps/staticwebapp_ynh) - Minimal web application for static files (vhost)
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
-- [theaquacadet/pillager](https://github.com/theaquacadet/pillager) - A wget script for pillaging.
 - [na--/ebook-tools](https://github.com/na--/ebook-tools) - Shell scripts for organizing and managing ebook collections
 - [nextcloud/nextcloudpi](https://github.com/nextcloud/nextcloudpi) - 📦 Build code for NextcloudPi: Raspberry Pi, Odroid, Rock64, curl installer...
 
@@ -4170,6 +4169,7 @@
 
 ## TypeScript 
 
+- [easychen/airole](https://github.com/easychen/airole) - Effortless AI Character Card Creator that Start with Image
 - [lutzleonhardt/copilot-proxy](https://github.com/lutzleonhardt/copilot-proxy) - Copilot Proxy is a Visual Studio Code extension that exposes the VS Code Language Model API via an Express server. This experimental extension is intended solely for research and prototyping purposes 
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [disnet/flint-note](https://github.com/disnet/flint-note) - Agent-first note-taking system
