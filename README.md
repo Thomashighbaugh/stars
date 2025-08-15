@@ -444,7 +444,6 @@
 - [privaltr/Awesome-Theme](https://github.com/privaltr/Awesome-Theme) - Configs for my Arch-Linux setup.
 - [AllJavi/tartarus-dotfiles](https://github.com/AllJavi/tartarus-dotfiles) - Just another awesomewm gruvbox dotfiles
 - [EliverLara/Kripton](https://github.com/EliverLara/Kripton) - A dark theme with flat style for GNOME
-- [alexhyett/linkinbio](https://github.com/alexhyett/linkinbio) - Link In Bio Page for Instagram, Twitter, Tumblr etc
 - [daniruiz/skeuos-gtk](https://github.com/daniruiz/skeuos-gtk) - Skeuos is a GTK application theme inspired by the latest skeumorphic design trends, by embracing the bevels, drop-shadows, and gradients most modern themes actively avoid.
 - [princekrvert/Ravana](https://github.com/princekrvert/Ravana) - Advanced phishing tool for learning
 - [luximus-hunter/FireFix](https://github.com/luximus-hunter/FireFix) - Small fixes for the FireFox UI to make it more consistent
@@ -609,7 +608,7 @@
 
 ## Emacs Lisp 
 
-- [port19x/dotfiles](https://github.com/port19x/dotfiles) - Mac OS
+- [port19x/dotfiles](https://github.com/port19x/dotfiles) - Emacs and Arch again
 - [cjbassi/config](https://github.com/cjbassi/config) - 
 - [aruZeta/Dotfiles.nix](https://github.com/aruZeta/Dotfiles.nix) - My reproducible system config made with nix
 - [shtwzrd/friar](https://github.com/shtwzrd/friar) - Emacs REPL for interacting with AwesomeWM
@@ -655,7 +654,7 @@
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
 - [ublue-os/fleek](https://github.com/ublue-os/fleek) - [deprecated] Own your $HOME
 - [carltheperson/10-things-linux](https://github.com/carltheperson/10-things-linux) - Getting better at Linux with 10 mini-projects.
-- [Aylur/ags](https://github.com/Aylur/ags) - Scaffolding CLI for Astal+TypeScript
+- [Aylur/ags](https://github.com/Aylur/ags) - Scaffolding CLI for Astal+Gnim
 - [ezeoleaf/larry](https://github.com/ezeoleaf/larry) - Larry 🐦 is a bot generator that post content from different providers to one or multiple publishers
 - [tazjin/nixery](https://github.com/tazjin/nixery) - Container registry which transparently builds images using the Nix package manager. Canonical repository is https://cs.tvl.fyi/depot/-/tree/tools/nixery
 - [base/node](https://github.com/base/node) - Everything required to run your own Base node
@@ -1468,7 +1467,7 @@
 - [AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) - FinGPT: Open-Source Financial Large Language Models!  Revolutionize 🔥    We release the trained model on HuggingFace.
 - [hollowstrawberry/kohya-colab](https://github.com/hollowstrawberry/kohya-colab) - Accessible Google Colab notebooks for Stable Diffusion Lora training, based on the work of kohya-ss and Linaqruf
 - [OpenBioLink/ThoughtSource](https://github.com/OpenBioLink/ThoughtSource) - A central, open resource for data and tools related to chain-of-thought reasoning in large language models. Developed @ Samwald research group: https://samwald.info/
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
 - [Nixtla/nixtla](https://github.com/Nixtla/nixtla) - TimeGPT-1: production ready pre-trained Time Series Foundation Model  for forecasting and anomaly detection. Generative pretrained transformer for time series trained on over 100B data points. It's ca
 - [jmpaz/promptlib](https://github.com/jmpaz/promptlib) - A collection of prompts for use with GPT-4 via ChatGPT, OpenAI API w/ Gradio frontend & notebook
 - [neonbjb/tortoise-tts](https://github.com/neonbjb/tortoise-tts) - A multi-voice TTS system trained with an emphasis on quality
@@ -2811,6 +2810,7 @@
 - [notion-enhancer/tweaks](https://github.com/notion-enhancer/tweaks) - A collection of user-submitted CSS tweaks for Notion
 - [archcraft-os/archcraft-hyprland](https://github.com/archcraft-os/archcraft-hyprland) - // Configuration : Hyprland
 - [ahmedtariq01/Cloud-DevOps-Learning-Resources](https://github.com/ahmedtariq01/Cloud-DevOps-Learning-Resources) - This repo includes Books and imp notes related to GCP, Azure, AWS, Docker, K8s, and DevOps. More, exam and interview prep notes.
+- [alexhyett/linkinbio](https://github.com/alexhyett/linkinbio) - This repository has moved.
 - [technomada/cloud-from-scratch](https://github.com/technomada/cloud-from-scratch) - Build yourself a private self-hosted full-stack personal cloud system.
 - [gopalindians/awesome-hinduism](https://github.com/gopalindians/awesome-hinduism) - Awesome collection of Sanatana dharma(सनातन धर्म)
 - [nix-community/awesome-nix](https://github.com/nix-community/awesome-nix) - 😎 A curated list of the best resources in the Nix community [maintainer=@cyntheticfox]
@@ -3150,7 +3150,7 @@
 - [haseeb-heaven/langchain-coder](https://github.com/haseeb-heaven/langchain-coder) - Web Application that can generate code and fix bugs and run using various LLM's (GPT,Gemini,PALM)
 - [friuns2/Leaked-GPTs](https://github.com/friuns2/Leaked-GPTs) - Leaked GPTs Prompts Bypass the 25 message limit or to try out GPTs without a Plus subscription.
 - [h2oai/h2o-llmstudio](https://github.com/h2oai/h2o-llmstudio) - H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs. Documentation: https://docs.h2o.ai/h2o-llmstudio/
-- [AJaySi/AI-Writer](https://github.com/AJaySi/AI-Writer) - 🚀 ALwrity - AI-Powered Content Creation & SEO Platform. Generate blogs, social media content, and marketing copy with 60+ AI tools. Features web research, SEO optimization, and multi-language support.
+- [AJaySi/ALwrity](https://github.com/AJaySi/ALwrity) - ALwrity - AI-Powered Multimodal Content Creation & Digital Marketing Platform. DIY AI Copilot, personalization on connected website, social platforms. RAG, SERP Factual, SEO optimization & multilingua
 - [different-ai/embedbase-ava](https://github.com/different-ai/embedbase-ava) - Obsidian + Embedbase = Ava
 - [databricks/dbrx](https://github.com/databricks/dbrx) - Code examples and resources for DBRX, a large language model developed by Databricks
 - [yingpengma/Awesome-Story-Generation](https://github.com/yingpengma/Awesome-Story-Generation) - This repository collects an extensive list of awesome papers about Story Generation / Storytelling, exclusively focusing on the era of Large Language Models (LLMs).
@@ -3734,6 +3734,7 @@
 - [vinceliuice/emerald-icon-theme](https://github.com/vinceliuice/emerald-icon-theme) - Fresh and simple personality icon theme
 - [chbrown/overdrive](https://github.com/chbrown/overdrive) - Fka. Bash script to download mp3s from the OverDrive audiobook service
 - [gabrieldlima/old-dotfiles](https://github.com/gabrieldlima/old-dotfiles) - old-dotfiles 🖥️
+- [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
 - [KiaraGrouwstra/nix-config](https://github.com/KiaraGrouwstra/nix-config) - my NixOS configuration
 - [chrisgrieser/zsh-magic-dashboard](https://github.com/chrisgrieser/zsh-magic-dashboard) - Pressing "enter" on an empty buffer displays an information-rich and pretty dashboard.
 - [TangoMan75/commitator](https://github.com/TangoMan75/commitator) - TangoMan Commitator is an awesome bash script to fake git commit history.
@@ -4261,7 +4262,6 @@
 - [fescherer/neobrutalism-portfolio](https://github.com/fescherer/neobrutalism-portfolio) - Portifolio
 - [zacharyLYH/design-patterns-in-typescript](https://github.com/zacharyLYH/design-patterns-in-typescript) - Practical projects demonstrating various design patterns, written in TypeScript.
 - [kunalkeshan/kunalkeshan.dev](https://github.com/kunalkeshan/kunalkeshan.dev) - Personal Portfolio made with ☕+❤. Built with Next.js + TypeScript.
-- [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
 - [js-template/daisy-nextjs-turbo-setup](https://github.com/js-template/daisy-nextjs-turbo-setup) - 
 - [briangershon/nextjs-starter](https://github.com/briangershon/nextjs-starter) - Starter template for Next.js v13 (using new app approach). With TypeScript, tailwindcss and daisyUI.
 - [builderz-labs/builderz-solana-dapp-scaffold](https://github.com/builderz-labs/builderz-solana-dapp-scaffold) - Builderz Solana dApp Scaffold (Nextjs14, App Dir, Typescript, TailwindCSS, MaterialUI, web3.js, ThemeSwitch (Dark/Light), Sonner Toast Notifications, Modal & Drawer)
