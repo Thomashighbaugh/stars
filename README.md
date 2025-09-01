@@ -329,6 +329,7 @@
 
 ## CSS 
 
+- [khaneliman/blurredfox](https://github.com/khaneliman/blurredfox) - A sleek, modern and elegant Firefox CSS theme
 - [Bali10050/FirefoxCSS](https://github.com/Bali10050/FirefoxCSS) - Custom firefox interface
 - [yiiyahui/Neptune-Firefox](https://github.com/yiiyahui/Neptune-Firefox) - A clean and compact Firefox theme.
 - [soulhotel/git-userChrome](https://github.com/soulhotel/git-userChrome) - An automation tool for installing userChrome Themes
@@ -658,7 +659,6 @@
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
 - [ublue-os/fleek](https://github.com/ublue-os/fleek) - [deprecated] Own your $HOME
 - [carltheperson/10-things-linux](https://github.com/carltheperson/10-things-linux) - Getting better at Linux with 10 mini-projects.
-- [Aylur/ags](https://github.com/Aylur/ags) - Scaffolding CLI for Astal+Gnim
 - [ezeoleaf/larry](https://github.com/ezeoleaf/larry) - Larry 🐦 is a bot generator that post content from different providers to one or multiple publishers
 - [tazjin/nixery](https://github.com/tazjin/nixery) - Container registry which transparently builds images using the Nix package manager. Canonical repository is https://cs.tvl.fyi/depot/-/tree/tools/nixery
 - [base/node](https://github.com/base/node) - Everything required to run your own Base node
@@ -923,6 +923,11 @@
 
 ## JavaScript 
 
+- [LenAnderson/SillyTavern-QuickReplyManager](https://github.com/LenAnderson/SillyTavern-QuickReplyManager) - 
+- [LenAnderson/SillyTavern-GoReadABook](https://github.com/LenAnderson/SillyTavern-GoReadABook) - Read your chat / story like a book.
+- [LenAnderson/SillyTavern-Files](https://github.com/LenAnderson/SillyTavern-Files) - 
+- [LenAnderson/SillyTavern-NovelMode](https://github.com/LenAnderson/SillyTavern-NovelMode) - Edit the whole chat as a single document.
+- [awesome-windows11/firefox](https://github.com/awesome-windows11/firefox) - 🦊 Awesome Firefox
 - [peterfritz/gradient-figlet](https://github.com/peterfritz/gradient-figlet) - A CLI tool that creates gradient ASCII art from text with FIGlet and style.
 - [tholian-network/stealth](https://github.com/tholian-network/stealth) - :rocket: Stealth - Secure, Peer-to-Peer, Private and Automateable Web Browser/Scraper/Proxy
 - [TuxedoTako/4chan-xt](https://github.com/TuxedoTako/4chan-xt) - Adds various features to anonymous imageboards.
@@ -1536,6 +1541,7 @@
 
 ## Lua 
 
+- [Mtendekuyokwa19/deathtotheworld](https://github.com/Mtendekuyokwa19/deathtotheworld) - 
 - [freddiehaddad/dotfiles](https://github.com/freddiehaddad/dotfiles) - Arch Linux System and User Configuration Files
 - [Kritiqual/Awesome](https://github.com/Kritiqual/Awesome) - [WIP] This repo contain all my config for AwesomeWM
 - [nesktf/dotfiles](https://github.com/nesktf/dotfiles) - haha funny dotfiles
@@ -1604,7 +1610,7 @@
 - [brose55/awesome-config](https://github.com/brose55/awesome-config) - My changes to PapyElGringo/material-awesome
 - [singul4ri7y/not-awesome-at-all](https://github.com/singul4ri7y/not-awesome-at-all) - An AwesomeWM rice inspired by HikariKnight and PapyElGringo's work 👾
 - [nyngwang/suave.lua](https://github.com/nyngwang/suave.lua) - Multi-tabs project session automation
-- [chrisgrieser/nvim-rulebook](https://github.com/chrisgrieser/nvim-rulebook) - All-around helper for dealing with errors and diagnostics: Add inline-comments to ignore rules or suppress formatters. Lookup rule documentation online.
+- [chrisgrieser/nvim-rulebook](https://github.com/chrisgrieser/nvim-rulebook) - All-around helper for dealing with errors and diagnostics: Prettify typescript errors, add inline-comments to ignore rules, and lookup rule documentation online.
 - [Exafunction/windsurf.nvim](https://github.com/Exafunction/windsurf.nvim) - A native neovim extension for Codeium
 - [loctvl842/monokai-pro.nvim](https://github.com/loctvl842/monokai-pro.nvim) - Monokai Pro theme for Neovim written in Lua, with multiple filters: Pro, Classic, Machine, Octagon, Ristretto, Spectrum
 - [dobrovolsky/kb-notes.nvim](https://github.com/dobrovolsky/kb-notes.nvim) - Note-taking plugin builtt on to of nvim
@@ -2266,7 +2272,7 @@
 - [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations
 - [Frost-Phoenix/nixos-config](https://github.com/Frost-Phoenix/nixos-config) - ❄️ NixOs / Hyprland rice with Home-Manager ❄️
 - [Lehmanator/nix-configs](https://github.com/Lehmanator/nix-configs) - Personal Nix / NixOS configs
-- [gabrieldlima/dotfiles](https://github.com/gabrieldlima/dotfiles) - Windows and NixOS configs
+- [gabrieldlima/dotfiles](https://github.com/gabrieldlima/dotfiles) - NixOS && Home-Manager dotfiles
 - [IogaMaster/dotfiles](https://github.com/IogaMaster/dotfiles) - My NixOS flake.
 - [divnix/flake-bootstrap](https://github.com/divnix/flake-bootstrap) - 
 - [kira-bruneau/nixos-config](https://github.com/kira-bruneau/nixos-config) - My NixOS configuration. Mirror of code maintained at gitlab.com.
@@ -3043,6 +3049,7 @@
 
 ## Python 
 
+- [pulpgen-dev/pulpgen](https://github.com/pulpgen-dev/pulpgen) - AI novel writing agent 🤖 Turns your idea into a complete first draft using Gemini. Features outlining, auto-writing, interactive AI editing, and CLI control. 📚✍️
 - [adamwlarson/ai-book-writer](https://github.com/adamwlarson/ai-book-writer) - Experimenting with AutoGen to see if an entire book can be written with AI agents
 - [fangfufu/LLM-book-generator](https://github.com/fangfufu/LLM-book-generator) - Let's generate books using LLM
 - [FaceDeer/storyteller](https://github.com/FaceDeer/storyteller) - A simple framework for using a local Koboldcpp LLM to help with story-writing
@@ -3221,7 +3228,6 @@
 - [siddharth2016/quote-readme](https://github.com/siddharth2016/quote-readme) - A GitHub Action that allows you to place a random quote/fun-fact on your README file, from a collection of famous computer science quotes/facts !
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [roothaxor/Exif-Remove](https://github.com/roothaxor/Exif-Remove) - Remove exif data from all digital pictures in current directory by typing exif
-- [mypdns/matrix](https://github.com/mypdns/matrix) - My Privacy DNS #Matrix lists for blacklisting
 - [Nick-Gottschlich/Social-Amnesia](https://github.com/Nick-Gottschlich/Social-Amnesia) - Forget the past. Social Amnesia makes sure your social media accounts only show your posts from recent history, not from "that phase" 5 years ago.
 - [D4rk5t0rM/GTP-TextGen](https://github.com/D4rk5t0rM/GTP-TextGen) - Generate text (trying to make an AI write a book)
 - [christiandarkin/Creative-Writers-Toolkit](https://github.com/christiandarkin/Creative-Writers-Toolkit) - Use gpt3 to brainstorm ideas for long form fiction (novels, screenplays, etc.)
@@ -3483,6 +3489,8 @@
 
 ## QML 
 
+- [noctalia-dev/noctalia-shell](https://github.com/noctalia-dev/noctalia-shell) - A sleek and minimal desktop shell thoughtfully crafted for Wayland, built with Quickshell.
+- [AhmedSaadi0/NibrasShell](https://github.com/AhmedSaadi0/NibrasShell) - A Linux "rice" configuration using Hyprland and Quickshell, featuring a curated selection of themes: Dracula, Catppuccin, Nord, Material, Gruvbox, and TokyoNight. Highly customizable for personalized 
 - [ec1oud/grefsen](https://github.com/ec1oud/grefsen) - A Qt/Wayland desktop
 - [Ly-sec/nixos](https://github.com/Ly-sec/nixos) - 
 - [L4ki/Shiny-Plasma-Themes](https://github.com/L4ki/Shiny-Plasma-Themes) - Shiny Plasma Themes For Plasma Desktop
@@ -3768,6 +3776,7 @@
 - [fikriomar16/mafetch](https://github.com/fikriomar16/mafetch) - System info for Unix-like operating systems.
 - [tbung/dotfiles](https://github.com/tbung/dotfiles) - There's no place like ~/
 - [davideolgiati/PartyLoud](https://github.com/davideolgiati/PartyLoud) - A simple tool to generate fake web browsing and mitigate tracking
+- [mypdns/matrix](https://github.com/mypdns/matrix) - My Privacy DNS #Matrix lists for blacklisting
 - [troy/simpleoptout](https://github.com/troy/simpleoptout) - Deep links to opt-out of data sharing by 100+ companies.
 - [Sebelino/nixos-config](https://github.com/Sebelino/nixos-config) - My NixOS configuration files in source control
 - [vinceliuice/emerald-icon-theme](https://github.com/vinceliuice/emerald-icon-theme) - Fresh and simple personality icon theme
@@ -4209,6 +4218,7 @@
 
 ## TypeScript 
 
+- [atasoya/komutan](https://github.com/atasoya/komutan) - A CLI tool for creating and managing CommanderJS CLI tools inspired by cobra-cli
 - [Gerome-Elassaad/CodingIT](https://github.com/Gerome-Elassaad/CodingIT) - Open-source alternative to lovable.dev, bolt.new, v0.dev, cursor, windsurf, retool, roocode, kilo & many more AI software development platforms
 - [allister-grange/startertab](https://github.com/allister-grange/startertab) - A custom new tab page, keeping all the best info handy (a work in progress, feedback is invaluable)
 - [garado/auriga](https://github.com/garado/auriga) - overengineered desktop config
@@ -4294,6 +4304,7 @@
 - [carbon-design-system/carbon](https://github.com/carbon-design-system/carbon) - A design system built by IBM
 - [radix-ui/icons](https://github.com/radix-ui/icons) - A crisp set of 15×15 icons designed by the @workos team.
 - [xarunoba/nextjs-daisyui-ssr](https://github.com/xarunoba/nextjs-daisyui-ssr) - Next.js 14 App Router + daisyUI. Switch themes and render in SSR.
+- [Aylur/ags](https://github.com/Aylur/ags) - Scaffolding CLI for Astal+Gnim
 - [kevin-pek/portfolio-v2](https://github.com/kevin-pek/portfolio-v2) - Portfolio built using NextJs, TailwindCSS and DaisyUI.
 - [windingwind/zotero-better-notes](https://github.com/windingwind/zotero-better-notes) - Everything about note management. All in Zotero.
 - [dothq/melon](https://github.com/dothq/melon) - 🍉 Build Firefox-based browsers with ease [wip]
