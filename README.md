@@ -329,6 +329,9 @@
 
 ## CSS 
 
+- [lunar-os/ZenCss](https://github.com/lunar-os/ZenCss) - 
+- [greeeen-dev/natsumi-browser](https://github.com/greeeen-dev/natsumi-browser) - Welcome to your personal internet.
+- [LoneWolf4713/new-wave](https://github.com/LoneWolf4713/new-wave) - Dotfiles for my Fedora Sway New Wave Rice!
 - [khaneliman/blurredfox](https://github.com/khaneliman/blurredfox) - A sleek, modern and elegant Firefox CSS theme
 - [Bali10050/FirefoxCSS](https://github.com/Bali10050/FirefoxCSS) - Custom firefox interface
 - [yiiyahui/Neptune-Firefox](https://github.com/yiiyahui/Neptune-Firefox) - A clean and compact Firefox theme.
@@ -478,7 +481,6 @@
 - [animate-css/animate.css](https://github.com/animate-css/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
 - [solus-project/evopop-gtk-theme](https://github.com/solus-project/evopop-gtk-theme) - Modern Desktop Theme Suite
 - [thedevdojo/wave](https://github.com/thedevdojo/wave) - Wave - The Software as a Service Starter Kit, designed to help you build the SAAS of your dreams 🚀 💰
-- [elenapan/dotfiles](https://github.com/elenapan/dotfiles) - There is no place like ~/
 - [owl4ce/dotfiles](https://github.com/owl4ce/dotfiles) - :cherry_blossom: Aesthetic OpenboxWM Environment
 - [obliviousofcraps/mf-dots](https://github.com/obliviousofcraps/mf-dots) - These are some of my ridiculously shit dotfiles that I use in my unproductive daily life.
 - [MrOtherGuy/firefox-csshacks](https://github.com/MrOtherGuy/firefox-csshacks) - Collection of userstyles affecting the browser
@@ -596,6 +598,7 @@
 - [kir4h/docker-hackmyresume-all-themes](https://github.com/kir4h/docker-hackmyresume-all-themes) - Docker image that allows generating multiple resume output formats using hackmyresume and that comes with some JSON resume preinstalled themes
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2024)
 - [nlhomme/archiso-builder](https://github.com/nlhomme/archiso-builder) - Build your own Arch Linux ISO made with 'archiso' using Docker
+- [vulhub/vulhub](https://github.com/vulhub/vulhub) - Pre-Built Vulnerable Environments Based on Docker-Compose
 - [jessfraz/dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
 - [linuxserver/docker-bookstack](https://github.com/linuxserver/docker-bookstack) - A Docker container for the BookStack documentation wiki
 
@@ -921,6 +924,7 @@
 
 ## JavaScript 
 
+- [CosmoCreeper/Sine](https://github.com/CosmoCreeper/Sine) - The ultimate theme manager for Firefox-based browsers.
 - [LenAnderson/SillyTavern-QuickReplyManager](https://github.com/LenAnderson/SillyTavern-QuickReplyManager) - 
 - [LenAnderson/SillyTavern-GoReadABook](https://github.com/LenAnderson/SillyTavern-GoReadABook) - Read your chat / story like a book.
 - [LenAnderson/SillyTavern-Files](https://github.com/LenAnderson/SillyTavern-Files) - 
@@ -1519,7 +1523,6 @@
 - [SimpleMobileTools/Simple-App-Launcher](https://github.com/SimpleMobileTools/Simple-App-Launcher) - A simple holder for favourite apps for quick & easy app launcher icon management
 - [MM2-0/Kvaesitso](https://github.com/MM2-0/Kvaesitso) - A search-focused Android launcher
 - [rektdeckard/iconpacktools](https://github.com/rektdeckard/iconpacktools) - A handy utility for Android icon pack creators to easily generate key assets and resources.
-- [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 - [osmanonurkoc/papirusadaptive](https://github.com/osmanonurkoc/papirusadaptive) - Famous Linux Icon theme port for android
 - [hadiyarajesh/insta-bot](https://github.com/hadiyarajesh/insta-bot) - Instagram automation library to perform likes, comments, follow, story viewing and much more.
 - [EmiyaSyahriel/CrossLauncher](https://github.com/EmiyaSyahriel/CrossLauncher) - XMB-like Android Launcher
@@ -2093,6 +2096,7 @@
 - [pinpox/wallpaper-generator](https://github.com/pinpox/wallpaper-generator) - Generate wallpaper images from mathematical functions
 - [bioe007/awesome-revelation](https://github.com/bioe007/awesome-revelation) - Show all clients per screen in Awesome window manager
 - [Mofiqul/awesome-shell](https://github.com/Mofiqul/awesome-shell) - This is a collection of awesome wm configuration files
+- [elenapan/dotfiles](https://github.com/elenapan/dotfiles) - There is no place like ~/
 - [ODEX-TOS/tos-desktop-environment](https://github.com/ODEX-TOS/tos-desktop-environment) - Home of TDE - The official desktop environment of TOS
 - [Mic92/awesome-dotfiles](https://github.com/Mic92/awesome-dotfiles) - Configuration files of the window manager awesome
 - [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
@@ -2565,7 +2569,7 @@
 - [Ditectrev/awesome-gimp](https://github.com/Ditectrev/awesome-gimp) - 
 - [one-aalam/awesome-astro](https://github.com/one-aalam/awesome-astro) - Curated resources on building sites with Astro, a brand new way to build static and server rendered sites, with cross-framework components, styling and reactive store support.
 - [EmbeddingBits/EmbeddingBits](https://github.com/EmbeddingBits/EmbeddingBits) - Config files for my GitHub profile.
-- [EmbeddingBits/archHypr_dotfiles](https://github.com/EmbeddingBits/archHypr_dotfiles) - Dotfiles for my Hyprland rice on Linux
+- [EmbeddingBits/arch_dotfiles](https://github.com/EmbeddingBits/arch_dotfiles) - Dotfiles for my Hyprland rice on Linux
 - [vanclute/chatGPT_Universal-RPG-Generator](https://github.com/vanclute/chatGPT_Universal-RPG-Generator) - This is a generic, one-size-fits-all, RPG adventure builder. It will ask you the universe/genre you want to play in, what character you want to play as, and generate an entire unique adventure in that
 - [mailchimp/email-blueprints](https://github.com/mailchimp/email-blueprints) - Email Blueprints is a collection of HTML email templates that can serve as a solid foundation and starting point for the design of emails
 - [jonathandion/awesome-emails](https://github.com/jonathandion/awesome-emails) - ✉️ An awesome list of resources to build better emails.
@@ -3045,6 +3049,8 @@
 
 ## Python 
 
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents; Announcing OpenMemory MCP - local and secure memory management.
+- [EzioDEVio/ai-knowledge-bot](https://github.com/EzioDEVio/ai-knowledge-bot) - his is my own custom-built offline AI bot that lets you chat with PDFs and web pages using **local embeddings** and **local LLMs** like LLaMA 3.  I built it step by step using LangChain, FAISS, Huggin
 - [trycua/cua](https://github.com/trycua/cua) - Cua is Docker for Computer-Use AI Agents
 - [BaoNguyen09/github-second-brain](https://github.com/BaoNguyen09/github-second-brain) - Providing tools to AI to explore github codebase like agent
 - [preethamb97/AIContentForge](https://github.com/preethamb97/AIContentForge) - A revolutionary AI system that generates factually accurate, research-enhanced YouTube video scripts. Every topic is automatically researched using DuckDuckGo and Wikipedia to ensure current, verified
@@ -3447,7 +3453,6 @@
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 - [vvmnnnkv/nodejs-style-transfer](https://github.com/vvmnnnkv/nodejs-style-transfer) - Sample Node.js app for image style transfer using libtorchjs
 - [Davide-sd/GIMP-style-transfer](https://github.com/Davide-sd/GIMP-style-transfer) - GIMP plugin that enable the style transfer functionality thanks to artificial intelligence algorithms
-- [vulhub/vulhub](https://github.com/vulhub/vulhub) - Pre-Built Vulnerable Environments Based on Docker-Compose
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [fluix-dev/dotfiles](https://github.com/fluix-dev/dotfiles) - My dotfiles and colorschemes for sway and a variety of other programs.
 - [hijkzzz/prisma](https://github.com/hijkzzz/prisma) - Prisma
@@ -3652,6 +3657,7 @@
 - [perfah/Rustland](https://github.com/perfah/Rustland) - A Wayland compositor written in Rust, hence the cool name
 - [solana-labs/solana](https://github.com/solana-labs/solana) - Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
 - [nuta/kerla](https://github.com/nuta/kerla) - A new operating system kernel with Linux binary compatibility written in Rust.
+- [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 - [rust-cv/cv](https://github.com/rust-cv/cv) - Rust CV mono-repo. Contains pure-Rust dependencies which attempt to encapsulate the capability of OpenCV, OpenMVG, and vSLAM frameworks in a cohesive set of APIs.
 - [sminez/penrose](https://github.com/sminez/penrose) - A library for writing an X11 tiling window manager
 - [elkowar/eww](https://github.com/elkowar/eww) - ElKowars wacky widgets
@@ -3672,6 +3678,7 @@
 
 ## SCSS 
 
+- [Fausto-Korpsvart/Nightfox-GTK-Theme](https://github.com/Fausto-Korpsvart/Nightfox-GTK-Theme) - A GTK theme based on the Nightfox colour palette.
 - [ckissane/materia-theme-transparent](https://github.com/ckissane/materia-theme-transparent) - A Material Design theme for GNOME/GTK based desktop environments
 - [yeyushengfan258/Reversal-gtk-theme](https://github.com/yeyushengfan258/Reversal-gtk-theme) - Reversal like theme for all gtk based desktops
 - [Fausto-Korpsvart/Material-GTK-Themes](https://github.com/Fausto-Korpsvart/Material-GTK-Themes) - Material GTK Themes
@@ -4230,7 +4237,7 @@
 - [JMPerez/spotify-dedup](https://github.com/JMPerez/spotify-dedup) - Remove duplicates from your Spotify Playlists
 - [SwordTM/Oraculum](https://github.com/SwordTM/Oraculum) - AI Powered Assistant that helps connect current knowledge in your Obsidian vault to enhance idea generation.
 - [atasoya/komutan](https://github.com/atasoya/komutan) - A CLI tool for creating and managing CommanderJS CLI tools inspired by cobra-cli
-- [Gerome-Elassaad/CodingIT](https://github.com/Gerome-Elassaad/CodingIT) - Build web pages and test components with AI
+- [Gerome-Elassaad/CodingIT](https://github.com/Gerome-Elassaad/CodingIT) - The #1 open source lovable.dev alternative build and ship your vibe coded apps for free with AI
 - [allister-grange/startertab](https://github.com/allister-grange/startertab) - A custom new tab page, keeping all the best info handy (a work in progress, feedback is invaluable)
 - [garado/auriga](https://github.com/garado/auriga) - overengineered desktop config
 - [easychen/airole](https://github.com/easychen/airole) - Effortless AI Character Card Creator that Start with Image
@@ -4408,7 +4415,7 @@
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
 - [rubenwardy/renewedtab](https://github.com/rubenwardy/renewedtab) - A mirror for the Renewed Tab repository: https://gitlab.com/rubenwardy/renewedtab/
 - [fand/MDMT](https://github.com/fand/MDMT) - 💊Markdown Document Template💊
-- [pieroproietti/penguins-eggs](https://github.com/pieroproietti/penguins-eggs) - On the road of Remastersys, Refracta, Systemback and father Knoppix!
+- [pieroproietti/penguins-eggs](https://github.com/pieroproietti/penguins-eggs) - A professional and universal remastering tool for all major distributions
 - [TechSquidTV/Shoutify](https://github.com/TechSquidTV/Shoutify) - An open source, self-hosted, and entirely free solution to social media management.
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
 - [nrwl/nx](https://github.com/nrwl/nx) - Get to green PRs in half the time. Nx optimizes your builds, scales your CI, and fixes failed PRs. Built for developers and AI agents.
