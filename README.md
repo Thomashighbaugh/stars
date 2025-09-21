@@ -246,7 +246,7 @@
 - [AlexWan/OsEngine](https://github.com/AlexWan/OsEngine) - Open Source algo trading platform
 - [git-ecosystem/git-credential-manager](https://github.com/git-ecosystem/git-credential-manager) - Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.
 - [dotnet-architecture/eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers) - Cross-platform .NET sample microservices and container based application that runs on Linux Windows and macOS. Powered by .NET 7, Docker Containers and Azure Kubernetes Services. Supports Visual Studi
-- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
+- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks
 - [ElevenPaths/FOCA](https://github.com/ElevenPaths/FOCA) - Tool to find metadata and hidden information in the documents.
 - [ppy/osu](https://github.com/ppy/osu) - rhythm is just a *click* away!
 - [0x7c13/Notepads](https://github.com/0x7c13/Notepads) - A modern, lightweight text editor with a minimalist design.
@@ -2884,7 +2884,7 @@
 - [bmorelli25/Become-A-Full-Stack-Web-Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer) - Free resources for learning Full Stack Web Development
 - [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
 - [baquer/GATE-and-CSE-Resources-for-Students](https://github.com/baquer/GATE-and-CSE-Resources-for-Students) - 📚 📖 📚CSE GATE Resources for GATE and CSE Aspirants 😎 😁 . Show your ❤️ by ⭐️⭐️
-- [the-akira/Computer-Science-Resources](https://github.com/the-akira/Computer-Science-Resources) - A list of resources in different fields of Computer Science
+- [the-akira/Computer-Science-Resources](https://github.com/the-akira/Computer-Science-Resources) - Collection of resources spanning key areas of Computer Science
 - [amilajack/reading](https://github.com/amilajack/reading) - A list of computer-science readings I recommend
 - [tehtbl/awesome-note-taking](https://github.com/tehtbl/awesome-note-taking) - A curated list of awesome note-taking software.
 - [anmol098/anmol098](https://github.com/anmol098/anmol098) - If you are forking please do not forget to star the repo
@@ -3042,6 +3042,7 @@
 
 ## PowerShell 
 
+- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [alexfrancow/badusb_botnet](https://github.com/alexfrancow/badusb_botnet) - :busts_in_silhouette::smiling_imp: Infect a pc with badusb and establish a connection through telegram.
 - [dotnet/core](https://github.com/dotnet/core) - .NET news, announcements, release notes, and more!
 - [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) - A command-line installer for Windows.
@@ -3495,7 +3496,7 @@
 
 ## QML 
 
-- [noctalia-dev/noctalia-shell](https://github.com/noctalia-dev/noctalia-shell) - A sleek and minimal desktop shell thoughtfully crafted for Wayland, built with Quickshell.
+- [noctalia-dev/noctalia-shell](https://github.com/noctalia-dev/noctalia-shell) - A sleek and minimal desktop shell thoughtfully crafted for Wayland.
 - [AhmedSaadi0/NibrasShell](https://github.com/AhmedSaadi0/NibrasShell) - A Linux "rice" configuration using Hyprland and Quickshell, featuring a curated selection of themes: Dracula, Catppuccin, Nord, Material, Gruvbox, and TokyoNight. Highly customizable for personalized 
 - [ec1oud/grefsen](https://github.com/ec1oud/grefsen) - A Qt/Wayland desktop
 - [Ly-sec/nixos](https://github.com/Ly-sec/nixos) - 
@@ -3608,7 +3609,7 @@
 - [arugaz/portfolio](https://github.com/arugaz/portfolio) - Portfolio with Yew Rust and Next.js
 - [rsbm/yab](https://github.com/rsbm/yab) - yew + axum + blog = yab
 - [khuedoan/blog](https://github.com/khuedoan/blog) - My personal website (written in Rust, blazingly fast, deployed on Kubernetes, &lt;insert a bunch of random buzzwords here&gt;, just lack content)
-- [itehax/rust-blog](https://github.com/itehax/rust-blog) - 
+- [itehax/rust-blog](https://github.com/itehax/rust-blog) - Blog powered by WebAssembly and Rust !
 - [thaw-ui/thaw](https://github.com/thaw-ui/thaw) - An easy to use leptos component library
 - [LighghtEeloo/flow.er](https://github.com/LighghtEeloo/flow.er) - A notebook app integrated with todo lists utility. Developed with Rust, WebAssembly, Yew and Trunk.
 - [srid/leptos-fullstack](https://github.com/srid/leptos-fullstack) - A Nix template for full-stack web apps in Rust using Leptos
@@ -3980,6 +3981,7 @@
 - [Lolzen/void-live-customizer](https://github.com/Lolzen/void-live-customizer) - script to build a customized livecd of void linux using void-mklive
 - [ahmetozer/whitedoor](https://github.com/ahmetozer/whitedoor) - Experimental embed linux build with containers
 - [Sharrisii/TAZ](https://github.com/Sharrisii/TAZ) - A slimmed down gentoo linux livecd/liveusb iso that allows to load different boot options and runs from RAM upon boot. A VCTLabs project.
+- [IncredibleHacker/insta-hack](https://github.com/IncredibleHacker/insta-hack) - All in one Instagram hacking tool available (Insta information gathering, Insta brute force, Insta account auto repoter)
 - [dcloud-ca/voidLuksSetup](https://github.com/dcloud-ca/voidLuksSetup) - Bash script for installing Void Linux with disk encryption
 - [xdeb-org/xdeb](https://github.com/xdeb-org/xdeb) - XDEB - Convert deb (Debian) packages to xbps (Void Linux)
 - [project-trident/trident-installer](https://github.com/project-trident/trident-installer) - Graphical system install utility
@@ -4233,6 +4235,7 @@
 
 ## TypeScript 
 
+- [PawanOsman/ChatGPT](https://github.com/PawanOsman/ChatGPT) - OpenAI API Free Reverse Proxy
 - [ephraimduncan/blocks](https://github.com/ephraimduncan/blocks) - An open-source library of UI blocks. Built with React, Tailwind and shadcn/ui
 - [JMPerez/spotify-dedup](https://github.com/JMPerez/spotify-dedup) - Remove duplicates from your Spotify Playlists
 - [SwordTM/Oraculum](https://github.com/SwordTM/Oraculum) - AI Powered Assistant that helps connect current knowledge in your Obsidian vault to enhance idea generation.
@@ -4258,7 +4261,6 @@
 - [ntegrals/december](https://github.com/ntegrals/december) - A fully local Loveable, Replit, Bolt, v0 alternative that you can run with your own LLM. No monthly subscriptions, private by default.
 - [mtwn105/decipher-research-agent](https://github.com/mtwn105/decipher-research-agent) - Turn topics, links, and files into AI-generated research notebooks — summarize, explore, and ask anything.
 - [ThinkInAIXYZ/deepchat](https://github.com/ThinkInAIXYZ/deepchat) - 🐬DeepChat - A smart assistant that connects powerful AI to your personal world
-- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [colemccracken/changelog](https://github.com/colemccracken/changelog) - 
 - [Tolga1452/ai-prompts](https://github.com/Tolga1452/ai-prompts) - A collection of original system prompts and tool data used for AI chatbots. Explore how companies such as ChatGPT prompt their AIs!
 - [bmen25124/SillyTavern-WorldInfo-Recommender](https://github.com/bmen25124/SillyTavern-WorldInfo-Recommender) - A SillyTavern extension that helps you manage world info based on the current context with LLMs using connection profiles.
@@ -4372,7 +4374,7 @@
 - [satvikvirmani/nextjs-artist-portfolio](https://github.com/satvikvirmani/nextjs-artist-portfolio) - A artist portfolio website to showcase your projects.
 - [mrluisfer/linktry](https://github.com/mrluisfer/linktry) - 🌟 🌟 🌟 A more custom version of Linktree made with react and tailwind for the use of developers
 - [Kattjakt/github-markdown-alerts](https://github.com/Kattjakt/github-markdown-alerts) - A utility for generating alerts/banners using SVG, making them embeddable in GitHub flavored markdown and all other platforms supporting SVG
-- [BUMBAIYA/amitchauhan-v2](https://github.com/BUMBAIYA/amitchauhan-v2) - Portfolio website made using Nextjs 13, Tailwindcss and Framer motion
+- [BUMBAIYA/portfolio-v2](https://github.com/BUMBAIYA/portfolio-v2) - Portfolio website made using Nextjs 13, Tailwindcss and Framer motion
 - [coreui/coreui-icons](https://github.com/coreui/coreui-icons) - CoreUI Free Icons -  Premium designed free icon set with marks in SVG, Webfont and raster formats
 - [vitorgouveia/Giffy](https://github.com/vitorgouveia/Giffy) - :camera: Gif recording made easy.
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – build and deploy fully‑managed AI agents and workflows
