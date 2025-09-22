@@ -924,6 +924,7 @@
 
 ## JavaScript 
 
+- [LenAnderson/SillyTavern-Export-HTML](https://github.com/LenAnderson/SillyTavern-Export-HTML) - Export chat history as an HTML document.
 - [CosmoCreeper/Sine](https://github.com/CosmoCreeper/Sine) - The ultimate theme manager for Firefox-based browsers.
 - [LenAnderson/SillyTavern-QuickReplyManager](https://github.com/LenAnderson/SillyTavern-QuickReplyManager) - 
 - [LenAnderson/SillyTavern-GoReadABook](https://github.com/LenAnderson/SillyTavern-GoReadABook) - Read your chat / story like a book.
