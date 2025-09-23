@@ -1462,6 +1462,7 @@
 
 ## Jupyter Notebook 
 
+- [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) - In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
 - [johnmai-dev/NotebookMLX](https://github.com/johnmai-dev/NotebookMLX) - 📋 NotebookMLX - An Open Source version of NotebookLM (Ported NotebookLlama)
 - [desik1998/PersonalizingStoriesUsingAI](https://github.com/desik1998/PersonalizingStoriesUsingAI) - This is an Attempt to personalize stories using AI
 - [ashuotaku/sillytavern](https://github.com/ashuotaku/sillytavern) - A repostiory for all my SillyTavern's presets, settings, regex, etc.
@@ -1846,7 +1847,7 @@
 - [msaifi03/turbo-awesome](https://github.com/msaifi03/turbo-awesome) - 
 - [nuxshed/dotfiles](https://github.com/nuxshed/dotfiles) - pls help
 - [Kasper24/KwesomeDE](https://github.com/Kasper24/KwesomeDE) - A desktop environment made in AwesomeWM
-- [crunchwrapsuprm/awesome-wallpaper](https://github.com/crunchwrapsuprm/awesome-wallpaper) - 
+- [chxpdev/awesome-wallpaper](https://github.com/chxpdev/awesome-wallpaper) - 
 - [rochacbruno/dotfiles](https://github.com/rochacbruno/dotfiles) - My Environment Configurations
 - [Crylia/crylia-theme](https://github.com/Crylia/crylia-theme) - A theme for AwesomeWM
 - [b0o/nvim-conf](https://github.com/b0o/nvim-conf) - ☄ Maddison's Neovim configuration!
@@ -3051,6 +3052,7 @@
 
 ## Python 
 
+- [OthersideAI/self-operating-computer](https://github.com/OthersideAI/self-operating-computer) - A framework to enable multimodal models to operate a computer.
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents; Announcing OpenMemory MCP - local and secure memory management.
 - [EzioDEVio/ai-knowledge-bot](https://github.com/EzioDEVio/ai-knowledge-bot) - his is my own custom-built offline AI bot that lets you chat with PDFs and web pages using **local embeddings** and **local LLMs** like LLaMA 3.  I built it step by step using LangChain, FAISS, Huggin
 - [trycua/cua](https://github.com/trycua/cua) - Cua is Docker for Computer-Use AI Agents
@@ -3297,7 +3299,6 @@
 - [thiagokokada/nix-alien](https://github.com/thiagokokada/nix-alien) - Run unpatched binaries on Nix/NixOS
 - [DRACULA-HACK/C-hacks](https://github.com/DRACULA-HACK/C-hacks) - All social Media hacking with information gathering
 - [Mic92/dotfiles](https://github.com/Mic92/dotfiles) - My NixOS dotfiles
-- [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Monterey + Ventura + Sonoma support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
 - [onny/OSX-KVM](https://github.com/onny/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Big Sur + Monterey + Ventura support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
 - [beejjorgensen/bgpython](https://github.com/beejjorgensen/bgpython) - Beej's Guide to Python Programming source
 - [AnonymousMeerkat/relinux](https://github.com/AnonymousMeerkat/relinux) - A free and open-source Linux distro creation toolkit
@@ -3826,6 +3827,7 @@
 - [jacg/nix-starters](https://github.com/jacg/nix-starters) - Templates for getting started with Nix: home-manager, Rust projects, Python projects, C++ projects, etc.
 - [a-schaefers/themelios](https://github.com/a-schaefers/themelios) - Bootstrap a zfs-on-root NixOS configuration in one command. Themelios automates the entire installation process using any NixOS livedisk with an internet connection and your git repo. Themelios is fle
 - [erikarvstedt/extra-container](https://github.com/erikarvstedt/extra-container) - Run declarative NixOS containers without full system rebuilds
+- [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Monterey + Ventura + Sonoma support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
 - [Distroshare/distroshare-ubuntu-imager](https://github.com/Distroshare/distroshare-ubuntu-imager) - Creates an installable live CD from an installed Ubuntu or derivative distribution
 - [emmett1/linuxliveiso](https://github.com/emmett1/linuxliveiso) - scripts to build linux live iso
 - [spider-linux/spiderlinux](https://github.com/spider-linux/spiderlinux) - Spider Linux is a modern, independent, free and open-source Linux distribution.
