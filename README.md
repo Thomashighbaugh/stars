@@ -105,6 +105,7 @@
 
 ## Astro 
 
+- [bdsqqq/psykip](https://github.com/bdsqqq/psykip) - The best way to read The Enchiridion from Epictetus — We compiled translations from different authors at different points of history alongside the original Enchiridion to make sure you can read your f
 - [LeVraiArdox/portfolio](https://github.com/LeVraiArdox/portfolio) - Personal portfolio
 - [JuditKaramazov/karamaBlog](https://github.com/JuditKaramazov/karamaBlog) - 🚀🌿 karamaSystem v2 - Personal blog allowing me to be digitally imprisoned yet free.
 - [NixOS/nixos-homepage](https://github.com/NixOS/nixos-homepage) - Sources for nixos.org
@@ -126,6 +127,8 @@
 
 ## C 
 
+- [Shringe/dwl](https://github.com/Shringe/dwl) - 
+- [labwc/labwc](https://github.com/labwc/labwc) - A Wayland window-stacking compositor
 - [siduck/chadwm](https://github.com/siduck/chadwm) - Making dwm as beautiful as possible!
 - [JanotLeLapin/dots](https://github.com/JanotLeLapin/dots) - my modular NixOS config
 - [icculus/fatelf](https://github.com/icculus/fatelf) - Universal binaries for Linux.
@@ -329,6 +332,7 @@
 
 ## CSS 
 
+- [soapdog/little-webby-press](https://github.com/soapdog/little-webby-press) - A PWA to generate eBooks
 - [lunar-os/ZenCss](https://github.com/lunar-os/ZenCss) - 
 - [greeeen-dev/natsumi-browser](https://github.com/greeeen-dev/natsumi-browser) - Welcome to your personal internet.
 - [LoneWolf4713/new-wave](https://github.com/LoneWolf4713/new-wave) - Dotfiles for my Fedora Sway New Wave Rice!
@@ -647,6 +651,7 @@
 
 ## Go 
 
+- [C-Loftus/QuickPiperAudiobook](https://github.com/C-Loftus/QuickPiperAudiobook) - With one command, create a natural-sounding audiobook from a variety of input formats (epub, mobi, txt, PDF, HTML and more!)
 - [shelepuginivan/powermenu](https://github.com/shelepuginivan/powermenu) - Configurable power menu for Wayland compositors based on GTK3 and Gtk Layer Shell
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘
 - [opencode-ai/opencode](https://github.com/opencode-ai/opencode) - A powerful AI coding agent. Built for the terminal.
@@ -1468,7 +1473,7 @@
 - [ashuotaku/sillytavern](https://github.com/ashuotaku/sillytavern) - A repostiory for all my SillyTavern's presets, settings, regex, etc.
 - [alvarojob20/IBM-Data-Analyst-Capstone-Project](https://github.com/alvarojob20/IBM-Data-Analyst-Capstone-Project) - It will be applied various Data Analytics skills and techniques that wehave learned in the IBM Data Analyst Professional Certificate. It will be assumed the role of an Associate Data Analyst and be pr
 - [xiaolai/most-common-american-idioms](https://github.com/xiaolai/most-common-american-idioms) - A book created by xiaolai with the help of ChatGPT and its TTS
-- [curiousily/AI-Bootcamp](https://github.com/curiousily/AI-Bootcamp) - Self-paced bootcamp on Generative AI. Tutorials on ML fundamentals, Ollama, LLMs, RAGs, LangChain, LangGraph, Fine-tuning Llama 3, DSPy & AI Agents (CrewAI)
+- [curiousily/AI-Bootcamp](https://github.com/curiousily/AI-Bootcamp) - Self-paced bootcamp on Generative AI. Tutorials on ML fundamentals, Ollama, LLMs, RAGs, LangChain, LangGraph, Fine-tuning, DSPy & AI Agents (CrewAI), (Using ChatGPT, gpt-oss, Claude, Qwen3, Gemma3, Ll
 - [amazon-science/auto-cot](https://github.com/amazon-science/auto-cot) - Official implementation for "Automatic Chain of Thought Prompting in Large Language Models" (stay tuned & more will be updated)
 - [google-gemini/cookbook](https://github.com/google-gemini/cookbook) - Examples and guides for using the Gemini API
 - [equinor/promptly](https://github.com/equinor/promptly) - A prompt collection for testing and evaluation of LLMs.
@@ -1544,6 +1549,10 @@
 
 ## Lua 
 
+- [sile-typesetter/casile](https://github.com/sile-typesetter/casile) - The CaSILE toolkit, a book publishing workflow employing SILE and other wizardry.
+- [Ngz91/dotfiles](https://github.com/Ngz91/dotfiles) - Configuration files & Installation guide for Arch
+- [isaksamsten/nvim-config](https://github.com/isaksamsten/nvim-config) - 
+- [tonybanters/nixos-from-scratch](https://github.com/tonybanters/nixos-from-scratch) - 
 - [Mtendekuyokwa19/deathtotheworld](https://github.com/Mtendekuyokwa19/deathtotheworld) - 
 - [freddiehaddad/dotfiles](https://github.com/freddiehaddad/dotfiles) - Arch Linux System and User Configuration Files
 - [Kritiqual/Awesome](https://github.com/Kritiqual/Awesome) - [WIP] This repo contain all my config for AwesomeWM
@@ -1599,7 +1608,7 @@
 - [zbirenbaum/copilot-cmp](https://github.com/zbirenbaum/copilot-cmp) - Lua plugin to turn github copilot into a cmp source
 - [Gwynsav/old_gwileful](https://github.com/Gwynsav/old_gwileful) - Based on the modularized config of AWM, a retry of my setup.
 - [worron/redflat](https://github.com/worron/redflat) - Extension module for Awesome WM
-- [btvtkh/awesomewm-dotfiles](https://github.com/btvtkh/awesomewm-dotfiles) - configurations for awesomewm
+- [btvtkh/awesome-de](https://github.com/btvtkh/awesome-de) - configurations for awesomewm
 - [folke/neodev.nvim](https://github.com/folke/neodev.nvim) - 💻  Neovim setup for init.lua and plugin development with full signature help, docs and completion for the nvim lua API.
 - [figsoda/nix-develop.nvim](https://github.com/figsoda/nix-develop.nvim) - Run `nix develop` without restarting neovim
 - [hidayry/awesomewm-dotfiles](https://github.com/hidayry/awesomewm-dotfiles) - dotfiles awesomewm
@@ -1675,6 +1684,7 @@
 - [soumyajit-dev/AwesomeWM](https://github.com/soumyajit-dev/AwesomeWM) - This is my config for awesome window manager
 - [andOrlando/awesome-widgets](https://github.com/andOrlando/awesome-widgets) - A collection of a couple custom-made awesome widgets that (kinda) work in isolation so you can just grab
 - [Nooo37/glome](https://github.com/Nooo37/glome) - WIP
+- [moni-dz/nix-config](https://github.com/moni-dz/nix-config) - NixOS/NixOS-WSL/nix-darwin configuration using Nix Flakes and flake-parts
 - [2nthony/dotfiles](https://github.com/2nthony/dotfiles) - My personal dotfiles, neovim, zsh, wezterm, etc.
 - [folke/lazy.nvim](https://github.com/folke/lazy.nvim) - 💤 A modern plugin manager for Neovim
 - [hpb0412/dotfiles](https://github.com/hpb0412/dotfiles) - My dot files collection over the time
@@ -1847,10 +1857,10 @@
 - [msaifi03/turbo-awesome](https://github.com/msaifi03/turbo-awesome) - 
 - [nuxshed/dotfiles](https://github.com/nuxshed/dotfiles) - pls help
 - [Kasper24/KwesomeDE](https://github.com/Kasper24/KwesomeDE) - A desktop environment made in AwesomeWM
-- [chxpdev/awesome-wallpaper](https://github.com/chxpdev/awesome-wallpaper) - 
+- [chxpdotdev/awesome-wallpaper](https://github.com/chxpdotdev/awesome-wallpaper) - 
 - [rochacbruno/dotfiles](https://github.com/rochacbruno/dotfiles) - My Environment Configurations
 - [Crylia/crylia-theme](https://github.com/Crylia/crylia-theme) - A theme for AwesomeWM
-- [b0o/nvim-conf](https://github.com/b0o/nvim-conf) - ☄ Maddison's Neovim configuration!
+- [b0o/dotfiles](https://github.com/b0o/dotfiles) - ☄ Maddison's dotfiles!
 - [ashincoder/StarVim](https://github.com/ashincoder/StarVim) - A neovim IDE which is beyond the moon 🌚
 - [mike325/nvim](https://github.com/mike325/nvim) - My personal lua configs for latest stable and nightly neovim
 - [Ham5andw1ch/AwesomeWM-Unity](https://github.com/Ham5andw1ch/AwesomeWM-Unity) - An attempt to recreate the Ubuntu Unity workflow in AwesomeWM
@@ -1872,7 +1882,6 @@
 - [MiaadTeam/lesvim](https://github.com/MiaadTeam/lesvim) - Nvim config focus on Javascript, Typescript, Rust and Lua -  🚀 💪 ( Fast and Powerfull ) - Deno and other typescript LSP working well together
 - [budswa/nvim](https://github.com/budswa/nvim) - 
 - [ReekenX/awesome-configs](https://github.com/ReekenX/awesome-configs) - Personal Awesome WM (window manager) configurations with Holo theme.
-- [Theory-of-Everything/dotfiles](https://github.com/Theory-of-Everything/dotfiles) - My Linux System Dotfiles
 - [MArpogaus/awesome](https://github.com/MArpogaus/awesome) - 
 - [PlatyPew/format-installer.nvim](https://github.com/PlatyPew/format-installer.nvim) - Neovim plugin for managing formatters/linters
 - [ellisonleao/carbon-now.nvim](https://github.com/ellisonleao/carbon-now.nvim) - Create beautiful code snippets directly from your neovim terminal
@@ -2151,6 +2160,8 @@
 
 ## Makefile 
 
+- [Kartones/cyoa-epub](https://github.com/Kartones/cyoa-epub) - Choose Your Own Adventure Epub Gamebook
+- [jp-fosterson/pandoc-novel](https://github.com/jp-fosterson/pandoc-novel) - Markdown text to a novel in ePub and PDF.
 - [dr460nf1r3/firedragon-browser](https://github.com/dr460nf1r3/firedragon-browser) - A Floorp fork with custom branding and opinionated settings 🐉 (mirrored from GitLab)
 - [tammymakesthings/markdown-ebook-template](https://github.com/tammymakesthings/markdown-ebook-template) - Template for creating books (ebook and paper) from Markdown files
 - [teamniteo/handbook](https://github.com/teamniteo/handbook) - The Niteo Handbook
@@ -2187,6 +2198,8 @@
 
 ## Nix 
 
+- [albe2669/dotfiles](https://github.com/albe2669/dotfiles) - 
+- [Shringe/nixdots](https://github.com/Shringe/nixdots) - Nix related dotfiles like home-manager and nixos.
 - [dc-tec/nixos-config](https://github.com/dc-tec/nixos-config) - NixOS Configuration Repository
 - [benvonh/nivem](https://github.com/benvonh/nivem) - My NixOS and Home Manager configurations
 - [khaneliman/khanelinix](https://github.com/khaneliman/khanelinix) - Nix configuration for my systems supporting macOS, NixOS, and WSL.
@@ -2416,7 +2429,6 @@
 - [gradientvera/GradientOS](https://github.com/gradientvera/GradientOS) - Flake for multiple NixOS system configurations
 - [oddlama/nix-config](https://github.com/oddlama/nix-config) - ❄️ My nix config and dotfiles
 - [numtide/flake-utils](https://github.com/numtide/flake-utils) - Pure Nix flake utility functions [maintainer=@zimbatm]
-- [moni-dz/nix-config](https://github.com/moni-dz/nix-config) - NixOS/NixOS-WSL/nix-darwin configuration using Nix Flakes and flake-parts
 - [rummik/nixos-config](https://github.com/rummik/nixos-config) - My NixOS/Nix-Darwin + home-manager configs
 - [MatthiasBenaets/nix-config](https://github.com/MatthiasBenaets/nix-config) - My Personal Nix, NixOS and Nix-Darwin System Configuration Flake
 - [Ruixi-rebirth/melted-flakes](https://github.com/Ruixi-rebirth/melted-flakes) - My presonal NixOS config.New config can get in https://github.com/Ruixi-rebirth/flakes
@@ -2442,7 +2454,6 @@
 - [Gerschtli/nix-config](https://github.com/Gerschtli/nix-config) - A collection of my system configs and dotfiles
 - [Baitinq/nixos-config](https://github.com/Baitinq/nixos-config) - My Personal Nix/NixOS Configuration.
 - [superherointj/NixNG](https://github.com/superherointj/NixNG) - A linux distribution based on Nix [maintainer=@MagicRB]
-- [FRidh/nix-config](https://github.com/FRidh/nix-config) - My Nix configuration files
 - [bobbbay/dotfiles](https://github.com/bobbbay/dotfiles) - ~. Nix all the things!
 - [archer-65/nix-dotfiles](https://github.com/archer-65/nix-dotfiles) - NixOS Configuration
 - [nixified-ai/flake](https://github.com/nixified-ai/flake) - A Nix flake for many AI projects
@@ -2512,7 +2523,7 @@
 - [wiltaylor/dotfiles-old](https://github.com/wiltaylor/dotfiles-old) - My personal dotfiles
 - [namishh/crystal](https://github.com/namishh/crystal) - nix dotfiles for chilly people
 - [cole-h/nixos-config](https://github.com/cole-h/nixos-config) - My flakes-powered NixOS configuration
-- [gvolpe/nix-config](https://github.com/gvolpe/nix-config) - :space_invader: NixOS configuration
+- [gvolpe/nix-config](https://github.com/gvolpe/nix-config) - :space_invader: NixOS configuration :space_invader:
 - [Zaechus/nixos-config](https://github.com/Zaechus/nixos-config) - My NixOS config and installer
 - [97nomad/nixos-config](https://github.com/97nomad/nixos-config) - 
 - [storvik/nix-config](https://github.com/storvik/nix-config) - My nix configuration
@@ -3044,7 +3055,6 @@
 
 ## PowerShell 
 
-- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [alexfrancow/badusb_botnet](https://github.com/alexfrancow/badusb_botnet) - :busts_in_silhouette::smiling_imp: Infect a pc with badusb and establish a connection through telegram.
 - [dotnet/core](https://github.com/dotnet/core) - .NET news, announcements, release notes, and more!
 - [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) - A command-line installer for Windows.
@@ -3052,13 +3062,14 @@
 
 ## Python 
 
+- [cgueret/Scriptorium](https://github.com/cgueret/Scriptorium) - Scriptorium is a text editor coupled with a plotting tool and a formatting tool. The objective is to provide writers with a simple and complete environment to plan, plot, write and edit e-books.
 - [OthersideAI/self-operating-computer](https://github.com/OthersideAI/self-operating-computer) - A framework to enable multimodal models to operate a computer.
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents; Announcing OpenMemory MCP - local and secure memory management.
 - [EzioDEVio/ai-knowledge-bot](https://github.com/EzioDEVio/ai-knowledge-bot) - his is my own custom-built offline AI bot that lets you chat with PDFs and web pages using **local embeddings** and **local LLMs** like LLaMA 3.  I built it step by step using LangChain, FAISS, Huggin
-- [trycua/cua](https://github.com/trycua/cua) - Cua is Docker for Computer-Use AI Agents
+- [trycua/cua](https://github.com/trycua/cua) - Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).
 - [BaoNguyen09/github-second-brain](https://github.com/BaoNguyen09/github-second-brain) - Providing tools to AI to explore github codebase like agent
 - [preethamb97/AIContentForge](https://github.com/preethamb97/AIContentForge) - A revolutionary AI system that generates factually accurate, research-enhanced YouTube video scripts. Every topic is automatically researched using DuckDuckGo and Wikipedia to ensure current, verified
-- [stitionai/devika](https://github.com/stitionai/devika) - Devika is an Agentic AI Software Engineer that can understand high-level human instructions, break them down into steps, research relevant information, and write code to achieve the given objective. D
+- [stitionai/devika](https://github.com/stitionai/devika) - Devika is now Opcode
 - [pulpgen-dev/pulpgen](https://github.com/pulpgen-dev/pulpgen) - AI novel writing agent 🤖 Turns your idea into a complete first draft using Gemini. Features outlining, auto-writing, interactive AI editing, and CLI control. 📚✍️
 - [adamwlarson/ai-book-writer](https://github.com/adamwlarson/ai-book-writer) - Experimenting with AutoGen to see if an entire book can be written with AI agents
 - [fangfufu/LLM-book-generator](https://github.com/fangfufu/LLM-book-generator) - Let's generate books using LLM
@@ -4238,12 +4249,15 @@
 
 ## TypeScript 
 
+- [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it!
+- [srikanth235/privy](https://github.com/srikanth235/privy) - An open-source alternative to GitHub copilot that runs locally.
+- [draedr/LorebookEditor](https://github.com/draedr/LorebookEditor) - A lorebook editor for SillyTavernAI lorebooks.
 - [PawanOsman/ChatGPT](https://github.com/PawanOsman/ChatGPT) - OpenAI API Free Reverse Proxy
 - [ephraimduncan/blocks](https://github.com/ephraimduncan/blocks) - An open-source library of UI blocks. Built with React, Tailwind and shadcn/ui
 - [JMPerez/spotify-dedup](https://github.com/JMPerez/spotify-dedup) - Remove duplicates from your Spotify Playlists
 - [SwordTM/Oraculum](https://github.com/SwordTM/Oraculum) - AI Powered Assistant that helps connect current knowledge in your Obsidian vault to enhance idea generation.
 - [atasoya/komutan](https://github.com/atasoya/komutan) - A CLI tool for creating and managing CommanderJS CLI tools inspired by cobra-cli
-- [Gerome-Elassaad/CodingIT](https://github.com/Gerome-Elassaad/CodingIT) - The #1 open source lovable.dev alternative build and ship your vibe coded apps for free with AI
+- [Gerome-Elassaad/CodingIT](https://github.com/Gerome-Elassaad/CodingIT) - The #1 open source lovable.dev alternative.
 - [allister-grange/startertab](https://github.com/allister-grange/startertab) - A custom new tab page, keeping all the best info handy (a work in progress, feedback is invaluable)
 - [garado/auriga](https://github.com/garado/auriga) - overengineered desktop config
 - [easychen/airole](https://github.com/easychen/airole) - Effortless AI Character Card Creator that Start with Image
@@ -4264,6 +4278,7 @@
 - [ntegrals/december](https://github.com/ntegrals/december) - A fully local Loveable, Replit, Bolt, v0 alternative that you can run with your own LLM. No monthly subscriptions, private by default.
 - [mtwn105/decipher-research-agent](https://github.com/mtwn105/decipher-research-agent) - Turn topics, links, and files into AI-generated research notebooks — summarize, explore, and ask anything.
 - [ThinkInAIXYZ/deepchat](https://github.com/ThinkInAIXYZ/deepchat) - 🐬DeepChat - A smart assistant that connects powerful AI to your personal world
+- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [colemccracken/changelog](https://github.com/colemccracken/changelog) - 
 - [Tolga1452/ai-prompts](https://github.com/Tolga1452/ai-prompts) - A collection of original system prompts and tool data used for AI chatbots. Explore how companies such as ChatGPT prompt their AIs!
 - [bmen25124/SillyTavern-WorldInfo-Recommender](https://github.com/bmen25124/SillyTavern-WorldInfo-Recommender) - A SillyTavern extension that helps you manage world info based on the current context with LLMs using connection profiles.
