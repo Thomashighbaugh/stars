@@ -2198,6 +2198,7 @@
 
 ## Nix 
 
+- [reo101/rix101](https://github.com/reo101/rix101) - My NixOS, nix-on-droid and nix-darwin configs.
 - [albe2669/dotfiles](https://github.com/albe2669/dotfiles) - 
 - [Shringe/nixdots](https://github.com/Shringe/nixdots) - Nix related dotfiles like home-manager and nixos.
 - [dc-tec/nixos-config](https://github.com/dc-tec/nixos-config) - NixOS Configuration Repository
@@ -4594,7 +4595,7 @@
 - [dominee/Termux-dotfiles](https://github.com/dominee/Termux-dotfiles) - .files for the Termux android terminal
 - [Exafunction/windsurf.vim](https://github.com/Exafunction/windsurf.vim) - Free, ultrafast Copilot alternative for Vim and Neovim
 - [Arkham/dotfiles.nix](https://github.com/Arkham/dotfiles.nix) - Dotfiles super-powered by Nix and home-manager
-- [issadarkthing/artix-dotfiles](https://github.com/issadarkthing/artix-dotfiles) - My Artix linux dotfiles
+- [raziman18/artix-dotfiles](https://github.com/raziman18/artix-dotfiles) - My Artix linux dotfiles
 - [Ham5andw1ch/NewDots](https://github.com/Ham5andw1ch/NewDots) - Updated dotfiles since I'm too lazy to touch the old repo.
 - [hiecaq/dotfiles](https://github.com/hiecaq/dotfiles) - My dotfiles that set the world I live in
 - [Tuurlijk/dotfiles](https://github.com/Tuurlijk/dotfiles) - Make the shell great again!
