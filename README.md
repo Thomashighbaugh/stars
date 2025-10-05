@@ -1012,10 +1012,10 @@
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.
 - [kustodian/extended-statusbar](https://github.com/kustodian/extended-statusbar) - Firefox addon which adds a statusbar with speed, percentage, time and loaded size (similar to Opera's one)
 - [Spiderpig86/Spiderpig86](https://github.com/Spiderpig86/Spiderpig86) - :gem: Me. This is a self-updating README. Star it if you like it :)
-- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
+- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 - [update692/firefox](https://github.com/update692/firefox) - Firefox userChrome.js scripts
 - [moritz-h/urls-list](https://github.com/moritz-h/urls-list) - Firefox Add-on to list URLs. Install here: https://addons.mozilla.org/addon/urls-list/
-- [aminought/firefox-second-sidebar](https://github.com/aminought/firefox-second-sidebar) - A Firefox userChrome.js script for adding a second sidebar with web panels like in Vivaldi/Floorp/Zen but better.
+- [aminought/firefox-second-sidebar](https://github.com/aminought/firefox-second-sidebar) - A Firefox userChrome.js script for adding a second sidebar with web panels like in Vivaldi/Edge/Floorp/Zen but better.
 - [mcortt/FirefoxJS](https://github.com/mcortt/FirefoxJS) - Userchrome.js customizations for Firefox
 - [acestronautical/bookcover-js](https://github.com/acestronautical/bookcover-js) - An in browser tool for generating penguin clothbound classics style book cover SVG images
 - [friuns2/Awesome-GPTs-Big-List](https://github.com/friuns2/Awesome-GPTs-Big-List) - Use OpenAI GPTs for Free: https://gptcall.net/
@@ -2551,7 +2551,7 @@
 - [terlar/nix-config](https://github.com/terlar/nix-config) - Configuration for NixOS and user home (dot files).
 - [nix-community/nixos-generators](https://github.com/nix-community/nixos-generators) - Collection of image builders [maintainer=@Lassulus]
 - [Sanatana-Linux/Sanatana-Linux-Grub-Theme](https://github.com/Sanatana-Linux/Sanatana-Linux-Grub-Theme) - Personal Grub Bootloader Theme
-- [maximbaz/dotfiles](https://github.com/maximbaz/dotfiles) - Configuration for NixOS, sway, kitty, helix, zsh and more
+- [max-baz/dotfiles](https://github.com/max-baz/dotfiles) - Configuration for NixOS, sway, kitty, helix, zsh and more
 - [colonelpanic8/dotfiles](https://github.com/colonelpanic8/dotfiles) - Configuration files for XMonad, Emacs, NixOS, Taffybar and more.
 
 ## Nunjucks 
@@ -3471,7 +3471,7 @@
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [fluix-dev/dotfiles](https://github.com/fluix-dev/dotfiles) - My dotfiles and colorschemes for sway and a variety of other programs.
 - [hijkzzz/prisma](https://github.com/hijkzzz/prisma) - Prisma
-- [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) - Pretrain, finetune ANY AI model of ANY size on multiple GPUs, TPUs with zero code changes.
+- [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) - Pretrain, finetune ANY AI model of ANY size on 1 or 10,000+ GPUs with zero code changes.
 - [fennerm/flashfocus](https://github.com/fennerm/flashfocus) - Simple focus animations for tiling window managers.
 - [isyuck/dotfiles](https://github.com/isyuck/dotfiles) - linux/osx
 - [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.
@@ -4258,7 +4258,7 @@
 - [JMPerez/spotify-dedup](https://github.com/JMPerez/spotify-dedup) - Remove duplicates from your Spotify Playlists
 - [SwordTM/Oraculum](https://github.com/SwordTM/Oraculum) - AI Powered Assistant that helps connect current knowledge in your Obsidian vault to enhance idea generation.
 - [atasoya/komutan](https://github.com/atasoya/komutan) - A CLI tool for creating and managing CommanderJS CLI tools inspired by cobra-cli
-- [Gerome-Elassaad/CodingIT](https://github.com/Gerome-Elassaad/CodingIT) - The #1 open source lovable.dev alternative.
+- [Gerome-Elassaad/CodingIT](https://github.com/Gerome-Elassaad/CodingIT) - The #1 open source lovable.dev, bolt.new & v0.dev alternative. AI artefacts with E2B sandbox integration.
 - [allister-grange/startertab](https://github.com/allister-grange/startertab) - A custom new tab page, keeping all the best info handy (a work in progress, feedback is invaluable)
 - [garado/auriga](https://github.com/garado/auriga) - overengineered desktop config
 - [easychen/airole](https://github.com/easychen/airole) - Effortless AI Character Card Creator that Start with Image
