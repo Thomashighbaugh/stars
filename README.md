@@ -1089,7 +1089,7 @@
 - [awesome-scripts/awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) - 📖  A curated list of Awesome Userscripts.
 - [danydodson/userscripts](https://github.com/danydodson/userscripts) - 🪚 Collection of UserScripts.
 - [Semantic-Org/Semantic-UI-React](https://github.com/Semantic-Org/Semantic-UI-React) - The official Semantic-UI-React integration
-- [nuejs/nue](https://github.com/nuejs/nue) - Standards first web framework taking HTML, CSS, JS, and WASM to their peak
+- [nuejs/nue](https://github.com/nuejs/nue) - Fastest way to build modern websites
 - [GuiDevloper/nullstack](https://github.com/GuiDevloper/nullstack) - Full-stack javascript components for one-dev armies.
 - [vitorgamer58/nullstack-herbs-url-shortener](https://github.com/vitorgamer58/nullstack-herbs-url-shortener) - Proof of concept of Nullstack integration with HerbsJs
 - [ddanielcruz/nullstack-linktree](https://github.com/ddanielcruz/nullstack-linktree) - Simple Linktree clone built with Nullstack and Tailwind
@@ -1655,7 +1655,7 @@
 - [guotsuan/awesome-revelation](https://github.com/guotsuan/awesome-revelation) - Show all clients all screens in Awesome window manager
 - [mireq/awesome-wm-config](https://github.com/mireq/awesome-wm-config) - 
 - [RRethy/base16-nvim](https://github.com/RRethy/base16-nvim) - Neovim plugin for building a sync base16 colorscheme. Includes support for Treesitter and LSP highlight groups.
-- [nosvagor/dotfiles](https://github.com/nosvagor/dotfiles) - 🍙 an Arch enabled PDE (Personalized Development Environment)
+- [cogikyo/dotfiles](https://github.com/cogikyo/dotfiles) - 🍙 an Arch enabled PDE (Personalized Development Environment)
 - [arsham/awesomewm-config](https://github.com/arsham/awesomewm-config) - Awesome Window Manager config
 - [gabeg805/awesomewm](https://github.com/gabeg805/awesomewm) - Configuration files for the Awesome window manager (WM) on Arch Linux.
 - [mel-edo/awesome-setup](https://github.com/mel-edo/awesome-setup) - My awesome config files
@@ -1682,7 +1682,6 @@
 - [soumyajit-dev/AwesomeWM](https://github.com/soumyajit-dev/AwesomeWM) - This is my config for awesome window manager
 - [andOrlando/awesome-widgets](https://github.com/andOrlando/awesome-widgets) - A collection of a couple custom-made awesome widgets that (kinda) work in isolation so you can just grab
 - [Nooo37/glome](https://github.com/Nooo37/glome) - WIP
-- [moni-dz/nix-config](https://github.com/moni-dz/nix-config) - NixOS/NixOS-WSL/nix-darwin configuration using Nix Flakes and flake-parts
 - [2nthony/dotfiles](https://github.com/2nthony/dotfiles) - My personal dotfiles, neovim, zsh, wezterm, etc.
 - [folke/lazy.nvim](https://github.com/folke/lazy.nvim) - 💤 A modern plugin manager for Neovim
 - [hpb0412/dotfiles](https://github.com/hpb0412/dotfiles) - My dot files collection over the time
@@ -2274,14 +2273,14 @@
 - [ConnorBaker/nixos-configs](https://github.com/ConnorBaker/nixos-configs) - 
 - [lilyinstarlight/foosteros](https://github.com/lilyinstarlight/foosteros) - FoosterOS/2 Warp - NixOS-based system configuration for my computers
 - [TheSmallTeaBoi/frogix](https://github.com/TheSmallTeaBoi/frogix) - Theo's NixOS config
-- [huantianad/nixos-config](https://github.com/huantianad/nixos-config) - 
+- [huantianad/nixos-config](https://github.com/huantianad/nixos-config) - A mostly function config for my desktops and servers.
 - [azuwis/nix-config](https://github.com/azuwis/nix-config) - 
 - [julius-boettger/dotfiles](https://github.com/julius-boettger/dotfiles) - NixOS configuration and other dotfiles
 - [AlphaTechnolog/nixmoment](https://github.com/AlphaTechnolog/nixmoment) - My effort to keep myself on nixos while having a comfy and crazy workstation
 - [kessejones/dotfiles-nixos](https://github.com/kessejones/dotfiles-nixos) - NixOS dotfiles
 - [aos/nix-config](https://github.com/aos/nix-config) - dotfiles + systems using nix
 - [TheMaxMur/NixOS-Configuration](https://github.com/TheMaxMur/NixOS-Configuration) - MaxMur NixOS config & Home-Manager config
-- [tuxdotrs/nix-config](https://github.com/tuxdotrs/nix-config) - My entire infrastructure as a Nix flake.
+- [tuxdotrs/nix-config](https://github.com/tuxdotrs/nix-config) - My entire infrastructure in a nix flake.
 - [RGBCube/ThemeNix](https://github.com/RGBCube/ThemeNix) - Theme your NixOS configuration consistently.
 - [viperML/wrapper-manager](https://github.com/viperML/wrapper-manager) - Post-modern configuration management
 - [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations
@@ -2428,6 +2427,7 @@
 - [gradientvera/GradientOS](https://github.com/gradientvera/GradientOS) - Flake for multiple NixOS system configurations
 - [oddlama/nix-config](https://github.com/oddlama/nix-config) - ❄️ My nix config and dotfiles
 - [numtide/flake-utils](https://github.com/numtide/flake-utils) - Pure Nix flake utility functions [maintainer=@zimbatm]
+- [moni-dz/nix-config](https://github.com/moni-dz/nix-config) - NixOS/NixOS-WSL/nix-darwin configuration using Nix Flakes and flake-parts
 - [rummik/nixos-config](https://github.com/rummik/nixos-config) - My NixOS/Nix-Darwin + home-manager configs
 - [MatthiasBenaets/nix-config](https://github.com/MatthiasBenaets/nix-config) - My Personal Nix, NixOS and Nix-Darwin System Configuration Flake
 - [Ruixi-rebirth/melted-flakes](https://github.com/Ruixi-rebirth/melted-flakes) - My presonal NixOS config.New config can get in https://github.com/Ruixi-rebirth/flakes
@@ -3877,7 +3877,6 @@
 - [ivan-hc/AM](https://github.com/ivan-hc/AM) - AppImage Package Manager: AppImage sandboxing, local and system installation, update all AppImages, an extensible database of AppImages and portable apps, lists for AppImages and other GNU/Linux binar
 - [metis-os/metis-sideload](https://github.com/metis-os/metis-sideload) - // Ofiicial installer for @metis-os
 - [metis-os/repo-recon](https://github.com/metis-os/repo-recon) - 📦 Repository: recon, Hacking tools // pkgs
-- [Athena-OS/athena](https://github.com/Athena-OS/athena) - Athena OS is a Arch/Nix-based distro focused on Cybersecurity. Learn, practice and enjoy with any hacking tool!
 - [archon-linux/archon-iso](https://github.com/archon-linux/archon-iso) - 
 - [SeveredinTwain/nemesis](https://github.com/SeveredinTwain/nemesis) - Custom Linux ISO Build
 - [wenerme/alpine-image](https://github.com/wenerme/alpine-image) - AlpineLinux pre-build disk images
@@ -4263,7 +4262,7 @@
 - [easychen/airole](https://github.com/easychen/airole) - Effortless AI Character Card Creator that Start with Image
 - [lutzleonhardt/copilot-proxy](https://github.com/lutzleonhardt/copilot-proxy) - Copilot Proxy is a Visual Studio Code extension that exposes the VS Code Language Model API via an Express server. This experimental extension is intended solely for research and prototyping purposes 
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
-- [disnet/flint-note](https://github.com/disnet/flint-note) - Agent-first note-taking system
+- [disnet/flint-note-mcp](https://github.com/disnet/flint-note-mcp) - Agent-first note-taking system
 - [elrincondeldev/backgrounds-hub](https://github.com/elrincondeldev/backgrounds-hub) - 
 - [AAbushady/sillytavern-to-sharegpt](https://github.com/AAbushady/sillytavern-to-sharegpt) - A TypeScript application that converts SillyTavern chat logs into formats suitable for LLM fine-tuning and sharing, including ShareGPT and Alpaca formats.
 - [codexu/note-gen](https://github.com/codexu/note-gen) - A cross-platform Markdown AI note-taking software.
@@ -4310,7 +4309,6 @@
 - [crosstyan/generate-forever](https://github.com/crosstyan/generate-forever) - a userscript to generate forever for a novel site
 - [akhila-ariyachandra/akhilaariyachandra.com](https://github.com/akhila-ariyachandra/akhilaariyachandra.com) - ✨ My portfolio built with Next.js, Tailwind, Content Collections, Prisma, Prisma Postgres, and Vercel.
 - [alsiam/urFolio](https://github.com/alsiam/urFolio) - urFolio - Best Open Source Portfolio or Personal Website using NextJS. Feel free to check out the readme file, copy, fork, and use.
-- [MODSetter/neubrutalism_portfolio](https://github.com/MODSetter/neubrutalism_portfolio) - A simple neubrutalism-style inspired portfolio in Next.js.
 - [2017mike/daisyportfolio](https://github.com/2017mike/daisyportfolio) - My current portfolio. Written with Next, TypeScript, Tailwind, DaisyUI, and deployed with Vercel.
 - [mtharrison/promptscaper](https://github.com/mtharrison/promptscaper) - A client-only OpenAI LLM Playground for prototyping agents without writing any code.
 - [ajaymahadeven/Genie](https://github.com/ajaymahadeven/Genie) - This a lite version of a chatbot built to test Google's Gemini Models. Built using Next.js 14 & Google's Gemini.
@@ -4594,6 +4592,7 @@
 - [dominee/Termux-dotfiles](https://github.com/dominee/Termux-dotfiles) - .files for the Termux android terminal
 - [Exafunction/windsurf.vim](https://github.com/Exafunction/windsurf.vim) - Free, ultrafast Copilot alternative for Vim and Neovim
 - [Arkham/dotfiles.nix](https://github.com/Arkham/dotfiles.nix) - Dotfiles super-powered by Nix and home-manager
+- [Athena-OS/athena](https://github.com/Athena-OS/athena) - Athena OS is a Arch/Nix-based distro focused on Cybersecurity. Learn, practice and enjoy with any hacking tool!
 - [raziman18/artix-dotfiles](https://github.com/raziman18/artix-dotfiles) - My Artix linux dotfiles
 - [Ham5andw1ch/NewDots](https://github.com/Ham5andw1ch/NewDots) - Updated dotfiles since I'm too lazy to touch the old repo.
 - [hiecaq/dotfiles](https://github.com/hiecaq/dotfiles) - My dotfiles that set the world I live in
