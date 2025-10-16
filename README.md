@@ -11,6 +11,7 @@
 - [Batchfile](#batchfile)
 - [BitBake](#bitbake)
 - [Blade](#blade)
+- [Brainfuck](#brainfuck)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -76,7 +77,6 @@
 - [Scala](#scala)
 - [Scheme](#scheme)
 - [Shell](#shell)
-- [Solidity](#solidity)
 - [Svelte](#svelte)
 - [Swift](#swift)
 - [SystemVerilog](#systemverilog)
@@ -124,6 +124,10 @@
 
 - [wireui/phosphoricons](https://github.com/wireui/phosphoricons) - The phosphoricons made for laravel blade by WireUI
 - [wireui/heroicons](https://github.com/wireui/heroicons) - The Tailwind Heroicons for laravel blade by WireUI
+
+## Brainfuck 
+
+- [Mtendekuyokwa19/deathtotheworld](https://github.com/Mtendekuyokwa19/deathtotheworld) - 
 
 ## C 
 
@@ -617,7 +621,6 @@
 
 ## Emacs Lisp 
 
-- [port19x/dotfiles](https://github.com/port19x/dotfiles) - Emacs and Arch again
 - [cjbassi/config](https://github.com/cjbassi/config) - 
 - [aruZeta/Dotfiles.nix](https://github.com/aruZeta/Dotfiles.nix) - My reproducible system config made with nix
 - [shtwzrd/friar](https://github.com/shtwzrd/friar) - Emacs REPL for interacting with AwesomeWM
@@ -698,6 +701,7 @@
 - [OJ/gobuster](https://github.com/OJ/gobuster) - Directory/File, DNS and VHost busting tool written in Go
 - [FyshOS/fynedesk](https://github.com/FyshOS/fynedesk) - A full desktop environment for Linux/Unix using Fyne
 - [codenotary/immudb](https://github.com/codenotary/immudb) - immudb - immutable database based on zero trust, SQL/Key-Value/Document model, tamperproof, data change history
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 - [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems
 - [KCarretto/paragon](https://github.com/KCarretto/paragon) - Red Team engagement platform with the goal of unifying offensive tools behind a simple UI
 - [tvrzna/emptty](https://github.com/tvrzna/emptty) - Dead simple CLI Display Manager on TTY
@@ -880,7 +884,6 @@
 - [Jaredk3nt/homepage](https://github.com/Jaredk3nt/homepage) - Custom homepage for use locally in browser
 - [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
 - [Thomashighbaugh/RESURGENS-PORTFOLIO-HTML-CSS](https://github.com/Thomashighbaugh/RESURGENS-PORTFOLIO-HTML-CSS) - resurgens volume 1 still active as demo
-- [nextcloud/documentation](https://github.com/nextcloud/documentation) - 📘 Nextcloud documentation
 - [MicroPad/MicroPad-Electron](https://github.com/MicroPad/MicroPad-Electron) - The desktop app of https://github.com/MicroPad/MicroPad-Core
 - [sovereign/sovereign](https://github.com/sovereign/sovereign) - A set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more.
 
@@ -1358,7 +1361,6 @@
 - [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 - [Kristories/awesome-guidelines](https://github.com/Kristories/awesome-guidelines) - A curated list of high quality coding style conventions and standards.
 - [aluxian/nwjs-starter](https://github.com/aluxian/nwjs-starter) - :zap: NW.js starter project powered by Gulp. :zap:
-- [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
 - [richardtaylordawson/pwa-shields](https://github.com/richardtaylordawson/pwa-shields) - Personalize your app's README with custom, fun, PWA shields in SVG
 - [Crelloc/google-keep-react](https://github.com/Crelloc/google-keep-react) - Mock design of google keep. Developed with Docker, NGINX, React, Nodejs, and MongoDB
 - [swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui) - Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
@@ -1452,6 +1454,7 @@
 - [schollz/rwtxt](https://github.com/schollz/rwtxt) - A cms for absolute minimalists.
 - [ghuser-io/ghuser.io](https://github.com/ghuser-io/ghuser.io) - :octocat: Better GitHub profiles
 - [pfraces-graveyard/git-install](https://github.com/pfraces-graveyard/git-install) - git-based package manager
+- [nextcloud/documentation](https://github.com/nextcloud/documentation) - 📘 Nextcloud documentation
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 
 ## Jinja 
@@ -1551,7 +1554,6 @@
 - [Ngz91/dotfiles](https://github.com/Ngz91/dotfiles) - Configuration files & Installation guide for Arch
 - [isaksamsten/nvim-config](https://github.com/isaksamsten/nvim-config) - 
 - [tonybanters/nixos-from-scratch](https://github.com/tonybanters/nixos-from-scratch) - 
-- [Mtendekuyokwa19/deathtotheworld](https://github.com/Mtendekuyokwa19/deathtotheworld) - 
 - [freddiehaddad/dotfiles](https://github.com/freddiehaddad/dotfiles) - Arch Linux System and User Configuration Files
 - [Kritiqual/Awesome](https://github.com/Kritiqual/Awesome) - [WIP] This repo contain all my config for AwesomeWM
 - [nesktf/dotfiles](https://github.com/nesktf/dotfiles) - haha funny dotfiles
@@ -2150,7 +2152,7 @@
 - [trigaten/Learn_Prompting](https://github.com/trigaten/Learn_Prompting) - Prompt Engineering, Generative AI, and LLM Guide by Learn Prompting | Join our discord for the largest Prompt Engineering learning community
 - [kpollich/kylepolli.ch](https://github.com/kpollich/kylepolli.ch) - My personal blog built with Astro
 - [theodorusclarence/theodorusclarence.com](https://github.com/theodorusclarence/theodorusclarence.com) - Old repository of my personal website. The revamped and new design is closed-source ✌️
-- [nikitavoloboev/nikiv](https://github.com/nikitavoloboev/nikiv) - Personal website, docs
+- [nikivdev/nikiv](https://github.com/nikivdev/nikiv) - Personal website, docs
 - [hamlim/blog](https://github.com/hamlim/blog) - My personal website and blog!
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 - [carbon-design-system/gatsby-theme-carbon](https://github.com/carbon-design-system/gatsby-theme-carbon) - A Carbon inspired Gatsby theme
@@ -2300,7 +2302,7 @@
 - [AlephNought0/Faery](https://github.com/AlephNought0/Faery) - My NixOS flake with the goal to have the most bleeding-edge technology in it.
 - [ardishko/OuterHeaven](https://github.com/ardishko/OuterHeaven) - My NixOS configuration that I try to keep simple and readable.
 - [roastedcheese/nicks](https://github.com/roastedcheese/nicks) - My nixos flake
-- [NixOS/infra](https://github.com/NixOS/infra) - NixOS configurations for nixos.org and its servers [maintainers=@mweinelt, @Mic92, @arianvp, @edef1c, @vcunat, @jfly]
+- [NixOS/infra](https://github.com/NixOS/infra) - NixOS configurations for nixos.org and its servers [maintainers=@mweinelt, @Mic92, @arianvp, @vcunat, @jfly]
 - [Melkor333/milkOS](https://github.com/Melkor333/milkOS) - something to NixOS similar to what Manjaro is to Arch linux. Let's hope it doesn't age as the name suggests...
 - [Melkor333/nixos-boot](https://github.com/Melkor333/nixos-boot) - A NixOS Plymouth theme displaying a fancy growing and shrinking NixOS Logo
 - [n3oney/nixus](https://github.com/n3oney/nixus) - My NixOS configuration.
@@ -2580,8 +2582,8 @@
 - [ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects) - The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, i
 - [Ditectrev/awesome-gimp](https://github.com/Ditectrev/awesome-gimp) - 
 - [one-aalam/awesome-astro](https://github.com/one-aalam/awesome-astro) - Curated resources on building sites with Astro, a brand new way to build static and server rendered sites, with cross-framework components, styling and reactive store support.
-- [EmbeddingBits/EmbeddingBits](https://github.com/EmbeddingBits/EmbeddingBits) - Config files for my GitHub profile.
-- [EmbeddingBits/arch_dotfiles](https://github.com/EmbeddingBits/arch_dotfiles) - Dotfiles for my Hyprland rice on Linux
+- [embeddingBits/EmbeddingBits](https://github.com/embeddingBits/EmbeddingBits) - Config files for my GitHub profile.
+- [embeddingBits/arch_dotfiles](https://github.com/embeddingBits/arch_dotfiles) - Dotfiles for my Hyprland rice on Linux
 - [vanclute/chatGPT_Universal-RPG-Generator](https://github.com/vanclute/chatGPT_Universal-RPG-Generator) - This is a generic, one-size-fits-all, RPG adventure builder. It will ask you the universe/genre you want to play in, what character you want to play as, and generate an entire unique adventure in that
 - [mailchimp/email-blueprints](https://github.com/mailchimp/email-blueprints) - Email Blueprints is a collection of HTML email templates that can serve as a solid foundation and starting point for the design of emails
 - [jonathandion/awesome-emails](https://github.com/jonathandion/awesome-emails) - ✉️ An awesome list of resources to build better emails.
@@ -2765,6 +2767,7 @@
 - [vicoyeh/pointers-for-software-engineers](https://github.com/vicoyeh/pointers-for-software-engineers) - A curated list of topics to start learning software engineering
 - [Amitabha37377/Awful-DOTS](https://github.com/Amitabha37377/Awful-DOTS) - 
 - [coderdost/full-stack-dev-2023](https://github.com/coderdost/full-stack-dev-2023) - Full Stack Developer Course 2023 - CoderDost Youtube channel
+- [port19x/dotfiles](https://github.com/port19x/dotfiles) - 
 - [zemmsoares/awesome-rices](https://github.com/zemmsoares/awesome-rices) - A curated list of awesome unix user rices!
 - [jobream/List-of-Learning-Resources](https://github.com/jobream/List-of-Learning-Resources) - This collection provides a list of educational resources for Software Engineers. Feel free to add your favorite resources as well and help others in their journey of learning.
 - [SuyashLakhotia/TechInterview](https://github.com/SuyashLakhotia/TechInterview) - :gem: Cheat sheet to prep for technical interviews.
@@ -2930,8 +2933,8 @@
 - [anu0012/awesome-computer-science-opportunities](https://github.com/anu0012/awesome-computer-science-opportunities) - An awesome list of events and fellowship opportunities for Computer Science students
 - [Linux-For-Everyone/contribute-foss](https://github.com/Linux-For-Everyone/contribute-foss) - Let's build an exhaustive Wiki page on how to contribute to the Linux and FOSS community, even WITHOUT knowing code!
 - [freereadorg/awesome-libgen](https://github.com/freereadorg/awesome-libgen) - 😎 Awesome list of Library Genesis, the world's largest free library.
-- [nikitavoloboev/find-work](https://github.com/nikitavoloboev/find-work) - Curated list of websites and resources to find work programming
-- [nikitavoloboev/privacy-respecting](https://github.com/nikitavoloboev/privacy-respecting) - Curated List of Privacy Respecting Services and Software
+- [nikivdev/find-work](https://github.com/nikivdev/find-work) - Curated list of websites and resources to find work programming
+- [nikivdev/privacy-respecting](https://github.com/nikivdev/privacy-respecting) - Curated List of Privacy Respecting Services and Software
 - [luvuong-le/awesome-software-dev](https://github.com/luvuong-le/awesome-software-dev) - :fire:  :100:  :book: Curated list of documentation, plugins, links and more for software developers :book:
 - [fnplus/learn-for-free](https://github.com/fnplus/learn-for-free) - All the best resources & recommendations from the fn+geeks community.
 - [logancyang/my-cs-degree](https://github.com/logancyang/my-cs-degree) - A CS degree with a focus on full-stack ML engineering, 2020
@@ -3094,7 +3097,6 @@
 - [xtekky/deepseek4free](https://github.com/xtekky/deepseek4free) - Deepseek V3 and R1 private API, deep thinking, search, full requests. pow challenge reversed. deepseek api.
 - [IvanIsCoding/ResuLLMe](https://github.com/IvanIsCoding/ResuLLMe) - Enhance your résumé with Large Language Models
 - [sliday/monoresume](https://github.com/sliday/monoresume) - A minimalist coder portfolio design exploration
-- [Laszlobeer/Dungeo_ai_GUI](https://github.com/Laszlobeer/Dungeo_ai_GUI) - Dungeo ai just had a graphical update insted of a web ui is a gui
 - [l3uddz/dupeFinder](https://github.com/l3uddz/dupeFinder) - Scans a folder looking for duplicate episodes/movies
 - [lorey/obsi](https://github.com/lorey/obsi) - 💎 supercharge your note-taking with index pages, Anki decks, calendar pages, and more.
 - [corelight/LLM-Ninja](https://github.com/corelight/LLM-Ninja) - Scripts to help you use LLM AI models like a ninja.
@@ -3370,7 +3372,6 @@
 - [roddhjav/pass-import](https://github.com/roddhjav/pass-import) - A pass extension for importing data from most existing password managers
 - [archivy/archivy](https://github.com/archivy/archivy) - Archivy is a self-hostable knowledge repository that allows you to learn and retain information in your own personal and extensible wiki.
 - [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 - [audibleblink/doxycannon](https://github.com/audibleblink/doxycannon) - A poorman's proxycannon and botnet, using docker, ovpn files, tor nodes, and dante socks5 proxies
 - [KCarretto/Arsenal](https://github.com/KCarretto/Arsenal) - Extensible Red Team Framework
 - [Tmpertor/Raven-Storm](https://github.com/Tmpertor/Raven-Storm) - Raven-Storm is a powerful DDoS toolkit for penetration tests, including attacks for several protocols written in python. Takedown many connections using several exotic and classic protocols.
@@ -3518,7 +3519,7 @@
 
 ## Rich Text Format 
 
-- [prchann/fonts](https://github.com/prchann/fonts) - My favorite fonts: SF Pro Text, Pingfang SC, Avenir Next, Roboto, Uber and more.
+- [perychan/fonts](https://github.com/perychan/fonts) - My favorite fonts: SF Pro Text, Pingfang SC, Avenir Next, Roboto, Uber and more.
 
 ## Roff 
 
@@ -4205,14 +4206,11 @@
 - [na--/ebook-tools](https://github.com/na--/ebook-tools) - Shell scripts for organizing and managing ebook collections
 - [nextcloud/nextcloudpi](https://github.com/nextcloud/nextcloudpi) - 📦 Build code for NextcloudPi: Raspberry Pi, Odroid, Rock64, curl installer...
 
-## Solidity 
-
-- [taikoxyz/taiko-mono](https://github.com/taikoxyz/taiko-mono) - Taiko Alethia based rollup protocol 🥁
-
 ## Svelte 
 
 - [wikibonsai/germinator](https://github.com/wikibonsai/germinator) - AI-powered semantic seedling germination.
 - [wikibonsai/wikibonsai](https://github.com/wikibonsai/wikibonsai) - A jungle gym for thought with an API for the mind.
+- [taikoxyz/taiko-mono](https://github.com/taikoxyz/taiko-mono) - Taiko Alethia based rollup protocol 🥁
 - [morispolanco/books-by-ai](https://github.com/morispolanco/books-by-ai) - Books generated by AI
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 - [hertg/lightdm-neon](https://github.com/hertg/lightdm-neon) - :art: A customizable theme for web-greeter in a nostalgic but modern neon look
@@ -4525,6 +4523,7 @@
 - [contentkit/contentkit](https://github.com/contentkit/contentkit) - ContentKit is a headless markdown-based CMS with version control.
 - [getmeli/meli](https://github.com/getmeli/meli) - Platform for deploying static sites and frontend applications easily. Automatic SSL, deploy previews, reverse proxy, and more.
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
+- [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
 - [whoisryosuke/ryosuke-gatsby-blog](https://github.com/whoisryosuke/ryosuke-gatsby-blog) - Static PWA React-powered portfolio and blog built with GatsbyJS
 - [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
 - [urbanogardun/monte-note](https://github.com/urbanogardun/monte-note) - Note taking application with a rich set of editing and management features
