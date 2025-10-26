@@ -677,7 +677,7 @@
 - [jollheef/appvm](https://github.com/jollheef/appvm) - Nix-based app VMs
 - [betapictoris/book](https://github.com/betapictoris/book) - 📖 Read ebooks from the comfort of your terminal.
 - [ssleert/zfxtop](https://github.com/ssleert/zfxtop) - [WIP] fetch top for gen Z with X written by bubbletea enjoyer
-- [usememos/memos](https://github.com/usememos/memos) - A modern, open-source, self-hosted knowledge management and note-taking platform designed for privacy-conscious users and organizations.
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted alternative to cloud note-taking services. No tracking, no ads, no subscription fees — just a clean, fast way to capture and organize your ideas.
 - [cheshire137/gen-svgo-pattern](https://github.com/cheshire137/gen-svgo-pattern) - Generate Go code to create SVG patterns from a given SVG image.
 - [curusarn/resh](https://github.com/curusarn/resh) - RESH ❯❯ Contextual shell history for zsh and bash
 - [inancgumus/learngo](https://github.com/inancgumus/learngo) - ❤️ 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes. 🚀 Learn Go by fixing 1000+ tiny programs.
@@ -919,7 +919,7 @@
 - [Neamar/KISS](https://github.com/Neamar/KISS) - Lightning fast, open-source, &lt; 250kb Android launcher
 - [siddhi-io/siddhi](https://github.com/siddhi-io/siddhi) - Stream Processing and Complex Event Processing Engine
 - [NoticEditorTeam/NoticEditor](https://github.com/NoticEditorTeam/NoticEditor) - A hierarchical note editor with markdown support
-- [validator/validator](https://github.com/validator/validator) - Nu Html Checker – Helps you catch problems in your HTML/CSS/SVG
+- [validator/validator](https://github.com/validator/validator) - The Nu Html Checker (vnu)
 - [zjkhiyori/hack-root](https://github.com/zjkhiyori/hack-root) - Android APP get root-level permissions without rooted system
 - [brucetieu/JobApplicationBot](https://github.com/brucetieu/JobApplicationBot) - An Indeed, Glassdoor, and LinkedIn job application Bot.
 - [hackpad/hackpad](https://github.com/hackpad/hackpad) - Hackpad is a web-based realtime wiki.
@@ -943,7 +943,7 @@
 - [TuxedoTako/4chan-xt](https://github.com/TuxedoTako/4chan-xt) - Adds various features to anonymous imageboards.
 - [LousyBook94/pollinations-task-master](https://github.com/LousyBook94/pollinations-task-master) - A fork of the original task master but uses pollinations instead to be used for free
 - [fisventurous/pollinationsai-enhancer](https://github.com/fisventurous/pollinationsai-enhancer) - UserScript for enhancing the web view on Pollinations.ai
-- [pollinations/pollinations](https://github.com/pollinations/pollinations) - Free Open-Source Image and Text Generation
+- [pollinations/pollinations](https://github.com/pollinations/pollinations) - Your Friendly Open-Source Gen-AI Platform
 - [sebastiancarlos/beachpatrol](https://github.com/sebastiancarlos/beachpatrol) - 🏝️ A CLI Tool to Automate Your Everyday Web Browser.
 - [AbdurazaaqMohammed/userscripts](https://github.com/AbdurazaaqMohammed/userscripts) - Userscripts developed by me
 - [SillyTavern/Extension-QuickContextSize](https://github.com/SillyTavern/Extension-QuickContextSize) - Adds buttons to quickly set a context size without having to use a slider or type in a number.
@@ -1467,6 +1467,9 @@
 
 ## Jupyter Notebook 
 
+- [sinanuozdemir/oreilly-ai-agents](https://github.com/sinanuozdemir/oreilly-ai-agents) - An introduction to the world of AI Agents
+- [genieincodebottle/generative-ai](https://github.com/genieincodebottle/generative-ai) - Comprehensive resources on Generative AI, including a detailed roadmap, projects, use cases, interview preparation, and coding preparation.
+- [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners) - This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, Rust and Python. Designed for
 - [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) - In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
 - [johnmai-dev/NotebookMLX](https://github.com/johnmai-dev/NotebookMLX) - 📋 NotebookMLX - An Open Source version of NotebookLM (Ported NotebookLlama)
 - [desik1998/PersonalizingStoriesUsingAI](https://github.com/desik1998/PersonalizingStoriesUsingAI) - This is an Attempt to personalize stories using AI
@@ -1588,7 +1591,7 @@
 - [dotfile/awesome](https://github.com/dotfile/awesome) - Awesome WM dotfiles
 - [Smeueg/Dotfiles](https://github.com/Smeueg/Dotfiles) - Very Smeueg™ Dotfiles
 - [ysfgrgO7/Dotfiles](https://github.com/ysfgrgO7/Dotfiles) - 
-- [rachartier/tiny-inline-diagnostic.nvim](https://github.com/rachartier/tiny-inline-diagnostic.nvim) - A Neovim plugin that display prettier diagnostic messages. Display diagnostic messages where the cursor is, with icons and colors.
+- [rachartier/tiny-inline-diagnostic.nvim](https://github.com/rachartier/tiny-inline-diagnostic.nvim) - A Neovim plugin for displaying inline diagnostic messages with customizable styles and icons.
 - [jakobkhansen/journal.nvim](https://github.com/jakobkhansen/journal.nvim) - 🖋️ Highly extensible journaling system for Neovim
 - [Leerv474/.dotfiles-awesome](https://github.com/Leerv474/.dotfiles-awesome) - Personal dotfiles
 - [NormalNvim/NormalNvim](https://github.com/NormalNvim/NormalNvim) - A normal Neovim distribution
@@ -1691,7 +1694,7 @@
 - [vincentbernat/awesome-configuration](https://github.com/vincentbernat/awesome-configuration) - My ~/.config/awesome directory
 - [gnomengineer/StartView](https://github.com/gnomengineer/StartView) - 
 - [pablonoya/awesomewm-configuration](https://github.com/pablonoya/awesomewm-configuration) - My personal AwesomeWM configuration
-- [redshifttt/dotfiles](https://github.com/redshifttt/dotfiles) - all my dotfiles
+- [rdshft/dotfiles](https://github.com/rdshft/dotfiles) - all my dotfiles
 - [dnordstrom/dotfiles](https://github.com/dnordstrom/dotfiles) - Flake-based NixOS configuration used on Dell XPS laptop and Ryzen 7 desktop.
 - [camilof99/dotfiles-awesome](https://github.com/camilof99/dotfiles-awesome) - 
 - [LudoPinelli/comment-box.nvim](https://github.com/LudoPinelli/comment-box.nvim) - :sparkles: Clarify and beautify your comments and plain text files using boxes and lines.
@@ -1732,7 +1735,7 @@
 - [RobSis/treesome](https://github.com/RobSis/treesome) - Tree-based tiling layout for Awesome Window Manager.
 - [xinhaoyuan/awexygen](https://github.com/xinhaoyuan/awexygen) - 
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) - Neovim config for the lazy
-- [CharlesChiuGit/nvimdots.lua](https://github.com/CharlesChiuGit/nvimdots.lua) - Lazy AF neovim config, well structured in lua.
+- [charliie-dev/nvimdots.lua](https://github.com/charliie-dev/nvimdots.lua) - Lazy AF neovim config, well structured in lua.
 - [ayamir/nvimdots](https://github.com/ayamir/nvimdots) - A well configured and structured Neovim.
 - [ChristianChiarulli/nvim](https://github.com/ChristianChiarulli/nvim) - My neovim config
 - [Aire-One/awesome-slot](https://github.com/Aire-One/awesome-slot) - A declarative API to connect signals for the AwesomeWM
@@ -1853,7 +1856,7 @@
 - [msaifi03/turbo-awesome](https://github.com/msaifi03/turbo-awesome) - 
 - [nuxshed/dotfiles](https://github.com/nuxshed/dotfiles) - pls help
 - [Kasper24/KwesomeDE](https://github.com/Kasper24/KwesomeDE) - A desktop environment made in AwesomeWM
-- [chxpdotdev/awesome-wallpaper](https://github.com/chxpdotdev/awesome-wallpaper) - 
+- [javacafe01/awesome-wallpaper](https://github.com/javacafe01/awesome-wallpaper) - 
 - [rochacbruno/dotfiles](https://github.com/rochacbruno/dotfiles) - My Environment Configurations
 - [Crylia/crylia-theme](https://github.com/Crylia/crylia-theme) - A theme for AwesomeWM
 - [b0o/dotfiles](https://github.com/b0o/dotfiles) - ☄ Maddison's dotfiles!
@@ -2653,7 +2656,7 @@
 - [tjadamlee/GPTs-prompts](https://github.com/tjadamlee/GPTs-prompts) - System prompts for various famous GPTs
 - [jamesmcroft/everyday-prompts](https://github.com/jamesmcroft/everyday-prompts) - A collection of prompts for LLM tools (ChatGPT, Microsoft Copilot, etc.) to help with general tasks.
 - [ora-sh/Awesome-GPT4-Prompts](https://github.com/ora-sh/Awesome-GPT4-Prompts) - A collection of awesome GPT4 prompts
-- [kevinamiri/Instructgpt-prompts](https://github.com/kevinamiri/Instructgpt-prompts) - A collection of ChatGPT and GPT-3.5 instruction-based prompts for generating and classifying text.
+- [kevinamiri/Instructgpt-prompts](https://github.com/kevinamiri/Instructgpt-prompts) - Instruction-based prompts for generating and classifying text.
 - [ximilsoft/awesome-ai-prompts](https://github.com/ximilsoft/awesome-ai-prompts) - Collection of custom AI prompts for ChatGPT and Gemini, designed following best practices to achieve optimal results.
 - [microsoft/prompts-for-edu](https://github.com/microsoft/prompts-for-edu) - 
 - [ChatTeach/AutoGPT-Prompt](https://github.com/ChatTeach/AutoGPT-Prompt) - One Prompt that can Turned ChatGPT into AutoGPT.
@@ -3846,7 +3849,6 @@
 - [athxrvx/IdempotentSystems](https://github.com/athxrvx/IdempotentSystems) - Configuration for setting up NixOS on tmpfs, my way
 - [fariasmateuss/favicon-generator](https://github.com/fariasmateuss/favicon-generator) - Bash Script to generate favicons in multiple sizes (.ico and .png)
 - [DrgnFireYellow/notenote](https://github.com/DrgnFireYellow/notenote) - The zsh plugin for taking notes.
-- [okitavera/dotfiles](https://github.com/okitavera/dotfiles) - All of my configuration files that currently used includes zsh, urxvt, awesomewm, and others
 - [varlesh/volantes-cursors](https://github.com/varlesh/volantes-cursors) - Cursor Theme
 - [greglaurent/nixos-iso](https://github.com/greglaurent/nixos-iso) - Custom NixOS ISO
 - [folke/dot](https://github.com/folke/dot) - ☕️   My Dot Files
