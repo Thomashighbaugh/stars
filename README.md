@@ -137,7 +137,7 @@
 - [icculus/fatelf](https://github.com/icculus/fatelf) - Universal binaries for Linux.
 - [Mentors4EDU/Reinvent-the-Internet](https://github.com/Mentors4EDU/Reinvent-the-Internet) - I want to change the way we transfer wireless data and utilize this for a series of projects
 - [migueldeoleiros/turtile](https://github.com/migueldeoleiros/turtile) - turtile 🐢 is a simple Wayland compositor written in C, based on wlroots
-- [DreamMaoMao/mangowc](https://github.com/DreamMaoMao/mangowc) - wayland compositor base wlroots and scenefx(dwl but no suckless)
+- [DreamMaoMao/mangowc](https://github.com/DreamMaoMao/mangowc) - wayland compositor base wlroots and scenefx(dwm but wayland)
 - [nikoloc/mwc](https://github.com/nikoloc/mwc) - tiling wayland compositor based on wlroots and scenefx
 - [TeaInside/teavpn2](https://github.com/TeaInside/teavpn2) - TeaVPN2 - An open source VPN Software (currently supported platform is only Linux).
 - [Cudiph/cwcwm](https://github.com/Cudiph/cwcwm) - Hackable wayland compositor
@@ -677,7 +677,7 @@
 - [jollheef/appvm](https://github.com/jollheef/appvm) - Nix-based app VMs
 - [betapictoris/book](https://github.com/betapictoris/book) - 📖 Read ebooks from the comfort of your terminal.
 - [ssleert/zfxtop](https://github.com/ssleert/zfxtop) - [WIP] fetch top for gen Z with X written by bubbletea enjoyer
-- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking services. No tracking, no ads, no subscription fees — just a clean, fast way to capture your ideas.
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
 - [cheshire137/gen-svgo-pattern](https://github.com/cheshire137/gen-svgo-pattern) - Generate Go code to create SVG patterns from a given SVG image.
 - [curusarn/resh](https://github.com/curusarn/resh) - RESH ❯❯ Contextual shell history for zsh and bash
 - [inancgumus/learngo](https://github.com/inancgumus/learngo) - ❤️ 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes. 🚀 Learn Go by fixing 1000+ tiny programs.
@@ -931,6 +931,9 @@
 
 ## JavaScript 
 
+- [Hikarushmz/fetch-retry](https://github.com/Hikarushmz/fetch-retry) - SillyTavern extension that retries failed fetch requests automatically
+- [kaldigo/SillyTavern-Tracker](https://github.com/kaldigo/SillyTavern-Tracker) - 
+- [SpicyMarinara/rpg-companion-sillytavern](https://github.com/SpicyMarinara/rpg-companion-sillytavern) - RPG Companion extension for SillyTavern - Track characters, quests, inventory, and game state with AI-generated content
 - [Omegastick/SillyTavern-CacheChunker](https://github.com/Omegastick/SillyTavern-CacheChunker) - Extension for improving cache utilization in Silly Tavern
 - [LenAnderson/SillyTavern-Export-HTML](https://github.com/LenAnderson/SillyTavern-Export-HTML) - Export chat history as an HTML document.
 - [CosmoCreeper/Sine](https://github.com/CosmoCreeper/Sine) - The ultimate theme manager for Firefox-based browsers.
@@ -1139,7 +1142,7 @@
 - [nypublicradio/audiogram](https://github.com/nypublicradio/audiogram) - Turn audio into a shareable video.
 - [overdodactyl/ShadowFox](https://github.com/overdodactyl/ShadowFox) - A universal dark theme for Firefox
 - [WebPraktikos/universal-resume](https://github.com/WebPraktikos/universal-resume) - Minimal and formal résumé (CV) website template for print, mobile, and desktop.
-- [sandstorm-io/sandstorm](https://github.com/sandstorm-io/sandstorm) - Sandstorm is a self-hostable web productivity suite. It's implemented as a security-hardened web app package manager.
+- [sandstorm-io/sandstorm](https://github.com/sandstorm-io/sandstorm) - Sandstorm is a self-hostable web productivity suite. It's implemented as a security-hardened web app package manager. | Actively sponsored by our friends at LambdaTest
 - [darktrojan/newtabtools](https://github.com/darktrojan/newtabtools) - New Tab Tools add-on for Firefox and Chrome
 - [socioboard/Socioboard-5.0](https://github.com/socioboard/Socioboard-5.0) - Socioboard is world's first and open source Social Technology Enabler. Socioboard Core is our flagship product.
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
