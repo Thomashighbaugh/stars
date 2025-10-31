@@ -2893,7 +2893,6 @@
 - [ibhagwan/picom-ibhagwan-template](https://github.com/ibhagwan/picom-ibhagwan-template) - Void Linux template file for xbps-src
 - [UbuntuBudgie/pocillo](https://github.com/UbuntuBudgie/pocillo) - Icon Theme for Ubuntu Budgie
 - [vascoalexander/gimp-brush-collection](https://github.com/vascoalexander/gimp-brush-collection) - A large Collection of "raw" Brushes for Gimp
-- [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes) - Full reference of LinkedIn answers 2024 for skill assessments (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, python, machine-learning, power-point) linkedin excel test
 - [webdigi/AWS-VPN-Server-Setup](https://github.com/webdigi/AWS-VPN-Server-Setup) - Setup your own private, secure, free* VPN on the Amazon AWS Cloud in 10 minutes. CloudFormation
 - [bmorelli25/Become-A-Full-Stack-Web-Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer) - Free resources for learning Full Stack Web Development
 - [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
@@ -3269,7 +3268,7 @@
 - [tuan3w/obsidian-template](https://github.com/tuan3w/obsidian-template) - Starter templates for Obsidian
 - [AI-Guru/writebookswithai](https://github.com/AI-Guru/writebookswithai) - Writing books with AI.
 - [protectai/ai-exploits](https://github.com/protectai/ai-exploits) - A collection of real world AI/ML exploits for responsibly disclosed vulnerabilities
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
 - [stjordanis/betterprompt](https://github.com/stjordanis/betterprompt) - Test suite for LLM prompts
 - [grandchild/autohidewibox](https://github.com/grandchild/autohidewibox) - Execute awesome wm commands on ModKey press/release
 - [detailyang/awesome-cheatsheet](https://github.com/detailyang/awesome-cheatsheet) - :beers: awesome cheatsheet
@@ -3384,6 +3383,7 @@
 - [Python-World/Python_and_the_Web](https://github.com/Python-World/Python_and_the_Web) - Build Bots, Scrape a website or use an API to solve a problem.
 - [Python-World/python-mini-projects](https://github.com/Python-World/python-mini-projects) - A collection of simple python mini projects to enhance your python skills
 - [DedSecInside/Awesome-Scripts](https://github.com/DedSecInside/Awesome-Scripts) - A collection of awesome scripts from developers around the globe.
+- [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes) - Full reference of LinkedIn answers 2024 for skill assessments (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, python, machine-learning, power-point) linkedin excel test
 - [flaport/home](https://github.com/flaport/home) - My Portable Linux Home Folder
 - [pinry/pinry](https://github.com/pinry/pinry) - Pinry, a tiling image board system for people who want to save, tag, and share images, videos and webpages in an easy to skim through format. It's open-source and self-hosted.
 - [acierp/CryptoChecker](https://github.com/acierp/CryptoChecker) - A discord.py-based bitcoin confirmations checker and notifier.
@@ -3602,7 +3602,7 @@
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
 - [FuelLabs/fuel-core](https://github.com/FuelLabs/fuel-core) - Rust full node implementation of the Fuel v2 protocol.
 - [FuelLabs/fuels-rs](https://github.com/FuelLabs/fuels-rs) - Fuel Network Rust SDK
-- [oahlen/huey](https://github.com/oahlen/huey) - Neovim lua color scheme generator written in Rust.
+- [oahlen/huevim](https://github.com/oahlen/huevim) - Neovim lua color scheme generator written in Rust.
 - [ntex-rs/ntex](https://github.com/ntex-rs/ntex) - framework for composable networking services
 - [tokio-rs/axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper
 - [poem-web/poem](https://github.com/poem-web/poem) - A full-featured and easy-to-use web framework with the Rust programming language.
@@ -4295,7 +4295,7 @@
 - [sing1ee/deepseekCoder](https://github.com/sing1ee/deepseekCoder) - Create apps with Deepseek
 - [codeskills-dev/responsive-email](https://github.com/codeskills-dev/responsive-email) - a utility for writing responsive email templates for jsx-email and react-email
 - [thegera4/nextjs-portfolio](https://github.com/thegera4/nextjs-portfolio) - This is my personal portfolio made with typescript, react, tailwind css and nextjs
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern design AI chat framework. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / RAG ), one click in
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / RAG ), one click ins
 - [KazKozDev/NovelGenerator](https://github.com/KazKozDev/NovelGenerator) - Fiction generator using LLM agents to create complete novels with coherent plots, developed characters, and diverse writing styles.
 - [alexander-densley/portfolio](https://github.com/alexander-densley/portfolio) - 
 - [cachix/cachix-action](https://github.com/cachix/cachix-action) - Build software only once and put it in a global cache
