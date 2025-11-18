@@ -2753,7 +2753,7 @@
 - [manuscripts/book-starter](https://github.com/manuscripts/book-starter) - Book Quick Starter Kit - Write Your Own Book in Plain Text (with Markdown)
 - [mundimark/awesome-markdown](https://github.com/mundimark/awesome-markdown) - A collection of awesome markdown goodies (libraries, services, editors, tools, cheatsheets, etc.)
 - [barrosohub/remote-jobs-for-devs](https://github.com/barrosohub/remote-jobs-for-devs) - 🔍 Are you searching for remote job opportunities? Our repository offers a curated list of remote job platforms, from software development to customer service, with regular updates. Browse our list and
-- [RezShakeri/beautify-github-profile](https://github.com/RezShakeri/beautify-github-profile) - This repository will assist you in creating a more beautiful and appealing github profile, and you will have access to a comprehensive range of tools and tutorials for beautifying your github profile.
+- [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository will assist you in creating a more beautiful and appealing github profile, and you will have access to a comprehensive range of tools and tutorials for beautifying your github profile.
 - [sanidhyy/sanidhyy](https://github.com/sanidhyy/sanidhyy) - :octocat: Hello there! This repository is for the welcome message on my Github Profile.
 - [ink-cow/ko-templates](https://github.com/ink-cow/ko-templates) - Templates for creating comics in Krita
 - [BlockchainCommons/Pseudonymity-Guide](https://github.com/BlockchainCommons/Pseudonymity-Guide) - How to securely create and operate a pseudonymous identity.
@@ -3179,6 +3179,7 @@
 - [darrenburns/elia](https://github.com/darrenburns/elia) - A snappy, keyboard-centric terminal user interface for interacting with large language models. Chat with ChatGPT, Claude, Llama 3, Phi 3, Mistral, Gemma and more.
 - [kleer001/Text_Loom](https://github.com/kleer001/Text_Loom) - Network for procedural editing of text with LLMs
 - [FartyPants/StoryCrafter](https://github.com/FartyPants/StoryCrafter) - Writing Extension for Text Generation WebUI
+- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [rmusser01/tldw_server](https://github.com/rmusser01/tldw_server) - tl/dw (Too Long, Didn't Watch): Your Personal Research Multi-Tool - a naive attempt at 'A Young Lady's Illustrated Primer' (Open Source NotebookLM)
 - [the-crypt-keeper/tldw](https://github.com/the-crypt-keeper/tldw) - Too Long, Didn't Watch: End-to-End Rolling Summarizer of Long Videos
 - [cunnymessiah/keychecker](https://github.com/cunnymessiah/keychecker) - a key checker for various AI services
@@ -4166,7 +4167,7 @@
 - [agners/archlinuxarm-docker](https://github.com/agners/archlinuxarm-docker) - Arch Linux ARM Docker images
 - [thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) - 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
 - [wrzlbrmft/arch-pi](https://github.com/wrzlbrmft/arch-pi) - A simple script automatically installing Arch Linux for the Raspberry Pi.
-- [pi-hole/docker-pi-hole](https://github.com/pi-hole/docker-pi-hole) - Pi-hole in a docker container
+- [pi-hole/docker-pi-hole](https://github.com/pi-hole/docker-pi-hole) - The official Pi-hole Docker image from pi-hole.net
 - [InBetweenNames/gentooLTO](https://github.com/InBetweenNames/gentooLTO) - A Gentoo Portage configuration for building with -O3, Graphite, and LTO optimizations
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
 - [mdaffin/arch-pkgs](https://github.com/mdaffin/arch-pkgs) - Management repo for my Arch Linux systems. Mirror of https://gitlab.com/mdaffin/arch-pkgs
@@ -4338,7 +4339,6 @@
 - [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) - An Open Source implementation of Notebook LM with more flexibility and features
 - [mtwn105/decipher-research-agent](https://github.com/mtwn105/decipher-research-agent) - Turn topics, links, and files into AI-generated research notebooks — summarize, explore, and ask anything.
 - [ThinkInAIXYZ/deepchat](https://github.com/ThinkInAIXYZ/deepchat) - 🐬DeepChat - A smart assistant that connects powerful AI to your personal world
-- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [colemccracken/changelog](https://github.com/colemccracken/changelog) - 
 - [Tolga1452/ai-prompts](https://github.com/Tolga1452/ai-prompts) - A collection of original system prompts and tool data used for AI chatbots. Explore how companies such as ChatGPT prompt their AIs!
 - [bmen25124/SillyTavern-WorldInfo-Recommender](https://github.com/bmen25124/SillyTavern-WorldInfo-Recommender) - A SillyTavern extension that helps you manage world info based on the current context with LLMs using connection profiles.
