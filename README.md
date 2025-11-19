@@ -467,7 +467,6 @@
 - [EliverLara/Kripton](https://github.com/EliverLara/Kripton) - A dark theme with flat style for GNOME
 - [daniruiz/skeuos-gtk](https://github.com/daniruiz/skeuos-gtk) - Skeuos is a GTK application theme inspired by the latest skeumorphic design trends, by embracing the bevels, drop-shadows, and gradients most modern themes actively avoid.
 - [princekrvert/Ravana](https://github.com/princekrvert/Ravana) - Advanced phishing tool for learning
-- [luximus-hunter/FireFix](https://github.com/luximus-hunter/FireFix) - Small fixes for the FireFox UI to make it more consistent
 - [possibly-not/Firefox-UI-Fix](https://github.com/possibly-not/Firefox-UI-Fix) - 🦊 I respect proton UI but I miss the panel icons!
 - [K4zoku/dotfiles](https://github.com/K4zoku/dotfiles) - My personal linux configuration files (dotfiles)
 - [sadparadiseinhell/tea-green](https://github.com/sadparadiseinhell/tea-green) - Simple startpage with weather and to-do list features.
@@ -708,6 +707,7 @@
 - [OJ/gobuster](https://github.com/OJ/gobuster) - Directory/File, DNS and VHost busting tool written in Go
 - [FyshOS/fynedesk](https://github.com/FyshOS/fynedesk) - A full desktop environment for Linux/Unix using Fyne
 - [codenotary/immudb](https://github.com/codenotary/immudb) - immudb - immutable database based on zero trust, SQL/Key-Value/Document model, tamperproof, data change history
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 - [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems
 - [KCarretto/paragon](https://github.com/KCarretto/paragon) - Red Team engagement platform with the goal of unifying offensive tools behind a simple UI
 - [tvrzna/emptty](https://github.com/tvrzna/emptty) - Dead simple CLI Display Manager on TTY
@@ -2609,6 +2609,7 @@
 
 ## Others 
 
+- [yunwei37/prompt-hacker-collections](https://github.com/yunwei37/prompt-hacker-collections) - prompt attack-defense, prompt Injection, reverse engineering notes and examples | 提示词对抗、破解例子与笔记
 - [edo0/awesome-libgen](https://github.com/edo0/awesome-libgen) - 😎 Awesome list of Library Genesis, the world's largest free library.
 - [Huzderu/poppet-rp-framework](https://github.com/Huzderu/poppet-rp-framework) - Comprehensive prompt engineering framework that eliminates AI writing failures and enforces ultra-realistic character behavior in roleplay. Includes COT template and specialized prompts for authentic 
 - [avanis-hideout/avanijb-avijb](https://github.com/avanis-hideout/avanijb-avijb) - repo for easy viewing
@@ -3107,6 +3108,9 @@
 
 ## Python 
 
+- [yanshengjia/ml-road](https://github.com/yanshengjia/ml-road) - Machine Learning and Agentic AI Resources, Practice and Research
+- [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin9938
+- [benapetr/clia](https://github.com/benapetr/clia) - Simple stupid LLM based CLI Agent
 - [Zer0F0xX/pinterest-bulk-pinner](https://github.com/Zer0F0xX/pinterest-bulk-pinner) - 
 - [oraios/serena](https://github.com/oraios/serena) - A powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server & other integrations)
 - [StonyBrookNLP/appworld](https://github.com/StonyBrookNLP/appworld) - 🌍 AppWorld: A Controllable World of Apps and People for Benchmarking Function Calling and Interactive Coding Agent, ACL'24 Best Resource Paper.
@@ -3179,7 +3183,6 @@
 - [darrenburns/elia](https://github.com/darrenburns/elia) - A snappy, keyboard-centric terminal user interface for interacting with large language models. Chat with ChatGPT, Claude, Llama 3, Phi 3, Mistral, Gemma and more.
 - [kleer001/Text_Loom](https://github.com/kleer001/Text_Loom) - Network for procedural editing of text with LLMs
 - [FartyPants/StoryCrafter](https://github.com/FartyPants/StoryCrafter) - Writing Extension for Text Generation WebUI
-- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [rmusser01/tldw_server](https://github.com/rmusser01/tldw_server) - tl/dw (Too Long, Didn't Watch): Your Personal Research Multi-Tool - a naive attempt at 'A Young Lady's Illustrated Primer' (Open Source NotebookLM)
 - [the-crypt-keeper/tldw](https://github.com/the-crypt-keeper/tldw) - Too Long, Didn't Watch: End-to-End Rolling Summarizer of Long Videos
 - [cunnymessiah/keychecker](https://github.com/cunnymessiah/keychecker) - a key checker for various AI services
@@ -3424,7 +3427,6 @@
 - [roddhjav/pass-import](https://github.com/roddhjav/pass-import) - A pass extension for importing data from most existing password managers
 - [archivy/archivy](https://github.com/archivy/archivy) - Archivy is a self-hostable knowledge repository that allows you to learn and retain information in your own personal and extensible wiki.
 - [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 - [audibleblink/doxycannon](https://github.com/audibleblink/doxycannon) - A poorman's proxycannon and botnet, using docker, ovpn files, tor nodes, and dante socks5 proxies
 - [KCarretto/Arsenal](https://github.com/KCarretto/Arsenal) - Extensible Red Team Framework
 - [Tmpertor/Raven-Storm](https://github.com/Tmpertor/Raven-Storm) - Raven-Storm is a powerful DDoS toolkit for penetration tests, including attacks for several protocols written in python. Takedown many connections using several exotic and classic protocols.
@@ -3815,6 +3817,7 @@
 - [prosegrinder/pandoc-templates](https://github.com/prosegrinder/pandoc-templates) - An opinionated set of Pandoc templates and scripts for converting markdown to DOCX manuscripts that adhere to William Shunn's Proper Manuscript Format guidelines using Pandoc.
 - [EliverLara/dotfiles](https://github.com/EliverLara/dotfiles) - 
 - [yeyushengfan258/Intervals-grub-theme](https://github.com/yeyushengfan258/Intervals-grub-theme) - Intervals-grub-theme
+- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [TeddyBearKilla/Qogir-Cursors-Recolored](https://github.com/TeddyBearKilla/Qogir-Cursors-Recolored) - Recolors of the original Qogir Cursors that I've personally made.
 - [TeddyBearKilla/Afterglow-Cursors-Recolored](https://github.com/TeddyBearKilla/Afterglow-Cursors-Recolored) - Recolors of the original Afterglow Cursors that I've personally made.
 - [akhiljalagam/rofi-fontawesome](https://github.com/akhiljalagam/rofi-fontawesome) - Search a font awesome icon by name and copy it to the clipboard.
@@ -4317,7 +4320,7 @@
 - [JMPerez/spotify-dedup](https://github.com/JMPerez/spotify-dedup) - Remove duplicates from your Spotify Playlists
 - [SwordTM/Oraculum](https://github.com/SwordTM/Oraculum) - AI Powered Assistant that helps connect current knowledge in your Obsidian vault to enhance idea generation.
 - [atasoya/komutan](https://github.com/atasoya/komutan) - A CLI tool for creating and managing CommanderJS CLI tools inspired by cobra-cli
-- [Gerome-Elassaad/CodingIT](https://github.com/Gerome-Elassaad/CodingIT) - Open-source, local AI app builder ✨ A fresh alternative to Lovable & Bolt 🌟 Star to support the project!
+- [Gerome-Elassaad/CodingIT](https://github.com/Gerome-Elassaad/CodingIT) - Open-source, local AI app builder ✨ Web template to Lovable & Bolt 🌟 Star to support the project!
 - [allister-grange/startertab](https://github.com/allister-grange/startertab) - A custom new tab page, keeping all the best info handy (a work in progress, feedback is invaluable)
 - [garado/auriga](https://github.com/garado/auriga) - overengineered linux desktop
 - [easychen/airole](https://github.com/easychen/airole) - Effortless AI Character Card Creator that Start with Image
