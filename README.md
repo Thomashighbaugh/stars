@@ -358,7 +358,7 @@
 - [hakan-demirli/Firefox_Custom_CSS](https://github.com/hakan-demirli/Firefox_Custom_CSS) - Firefox CSS theme to maximize the vertical space of your monitor.
 - [Catgrills/Firefox.userChrome](https://github.com/Catgrills/Firefox.userChrome) - A userChrome and userContent scripts for Mozilla Firefox
 - [gabeweb/Firefox-Browser-UI-Custom](https://github.com/gabeweb/Firefox-Browser-UI-Custom) - A custom userChrome.css and userContext.css for Firefox 84+ (January 2021). For personal purpose only.
-- [zapSNH/zapsCoolPhotonTheme](https://github.com/zapSNH/zapsCoolPhotonTheme) - party like it's firefox 87!
+- [zapSNH/zapsCoolPhotonTheme](https://github.com/zapSNH/zapsCoolPhotonTheme) - z cool photon theme: party like it's firefox 87!
 - [xmansyx/Pro-Fox](https://github.com/xmansyx/Pro-Fox) - A custome CSS Theme for firefox
 - [Tnings/CompactFox](https://github.com/Tnings/CompactFox) - 
 - [Filip-Sutkowy/blurclean-firefox-theme](https://github.com/Filip-Sutkowy/blurclean-firefox-theme) - Clean, transparent firefox theme
@@ -707,6 +707,7 @@
 - [OJ/gobuster](https://github.com/OJ/gobuster) - Directory/File, DNS and VHost busting tool written in Go
 - [FyshOS/fynedesk](https://github.com/FyshOS/fynedesk) - A full desktop environment for Linux/Unix using Fyne
 - [codenotary/immudb](https://github.com/codenotary/immudb) - immudb - immutable database based on zero trust, SQL/Key-Value/Document model, tamperproof, data change history
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 - [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems
 - [KCarretto/paragon](https://github.com/KCarretto/paragon) - Red Team engagement platform with the goal of unifying offensive tools behind a simple UI
 - [tvrzna/emptty](https://github.com/tvrzna/emptty) - Dead simple CLI Display Manager on TTY
@@ -939,6 +940,8 @@
 
 ## JavaScript 
 
+- [ceruleandeep/SillyTavern-ChatNamer](https://github.com/ceruleandeep/SillyTavern-ChatNamer) - SillyTavern tool for your bot/agent/character to use, that sets the name of the current chat.
+- [nbrown725/SillyTavern-AlternateDescriptions](https://github.com/nbrown725/SillyTavern-AlternateDescriptions) - 
 - [ceruleandeep/SillyTavern-ComfierPlaceholders](https://github.com/ceruleandeep/SillyTavern-ComfierPlaceholders) - 
 - [Wolfsblvt/SillyTavern-Pronouns](https://github.com/Wolfsblvt/SillyTavern-Pronouns) - Add pronouns functionality to personas and characters to SillyTavern
 - [dfaker/st-mode-toggles](https://github.com/dfaker/st-mode-toggles) - Clickable cinematic “mode” toggles for SillyTavern that prepend flavorful meta-directives to your prompt and add a floating microchip menu to flip vibes on the fly.
@@ -954,7 +957,7 @@
 - [everestpipkin/image-scrubber](https://github.com/everestpipkin/image-scrubber) - A friendly browser-based tool for anonymizing photographs taken at protests
 - [LenAnderson/SillyTavern-CssSnippets](https://github.com/LenAnderson/SillyTavern-CssSnippets) - 
 - [HO-git/st-qdrant-memory](https://github.com/HO-git/st-qdrant-memory) - 
-- [Coneja-Chibi/RAGbooks_Rabbit-Augmented-Generation](https://github.com/Coneja-Chibi/RAGbooks_Rabbit-Augmented-Generation) - A Powerful tool meant to revolutionize RAG as you know it!
+- [Coneja-Chibi/VectHare](https://github.com/Coneja-Chibi/VectHare) - A Powerful tool meant to revolutionize RAG as you know it!
 - [RivelleDays/SillyTavern-ChatCompletionTabs](https://github.com/RivelleDays/SillyTavern-ChatCompletionTabs) - Adds tabs to the Chat Completion presets settings.
 - [RivelleDays/SillyTavern-MoonlitEchoesTheme](https://github.com/RivelleDays/SillyTavern-MoonlitEchoesTheme) - A modern, minimalist, and elegant theme for SillyTavern. Inspired by moonlit nights and gentle echoes of serenity.
 - [LenAnderson/SillyTavern-ExtensionManagerPlugin](https://github.com/LenAnderson/SillyTavern-ExtensionManagerPlugin) - 
@@ -1499,6 +1502,7 @@
 ## Jinja 
 
 - [sasha0552/ToriLinux](https://github.com/sasha0552/ToriLinux) - Linux LiveCD for offline AI training and inference.
+- [abilzerian/LLM-Prompt-Library](https://github.com/abilzerian/LLM-Prompt-Library) - A playground of highly experimental prompts, Jinja2 templates & scripts for machine intelligence models from OpenAI, Anthropic, DeepSeek, Meta, Mistral, Google, xAI & others. Alex Bilzerian (2022-2025
 - [geerlingguy/internet-pi](https://github.com/geerlingguy/internet-pi) - Raspberry Pi config for all things Internet.
 - [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) - 🐳 Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker
 
@@ -1745,7 +1749,6 @@
 - [mdmrk/policromia](https://github.com/mdmrk/policromia) - Lightweight aesthetic AwesomeWM dotfiles 🦜
 - [JayJaySea/dotfiles](https://github.com/JayJaySea/dotfiles) - 
 - [kosorin/awesome-rice](https://github.com/kosorin/awesome-rice) - Opinionated config for Awesome window manager.
-- [kclejeune/system](https://github.com/kclejeune/system) - Declarative system configurations using nixOS, nix-darwin, and home-manager
 - [RaphaeleL/nvim](https://github.com/RaphaeleL/nvim) - My Neovim Configuration
 - [hadronized/config](https://github.com/hadronized/config) - My main configuration files
 - [cjnucette/nvim.lazy](https://github.com/cjnucette/nvim.lazy) - nvim using lazy.nvim plugin manager
@@ -2099,7 +2102,7 @@
 - [spheenik/awesome](https://github.com/spheenik/awesome) - my awesome wm config
 - [amireh/my_awesome_setup](https://github.com/amireh/my_awesome_setup) - Config files for my Awesome WM desktop setup
 - [Determinant/awesome-retropunk](https://github.com/Determinant/awesome-retropunk) - A complete and minimalist retro-style Awesome WM config.
-- [Stup0r38/iceberg-awesome](https://github.com/Stup0r38/iceberg-awesome) - Dotfiles for awesome people using the awesomewm linux environment
+- [Orbis38/iceberg-awesome](https://github.com/Orbis38/iceberg-awesome) - Dotfiles for awesome people using the awesomewm linux environment
 - [pablokbs/awesome-configs](https://github.com/pablokbs/awesome-configs) - My fork of anrxc's config for awesomewm http://git.sysphere.org/awesome-configs/
 - [Quisl/Awesome-4.0-Config](https://github.com/Quisl/Awesome-4.0-Config) - My setup for the Awesome WM 4.0. This is meant to run on a Thinkpad T410
 - [Stebalien/awesomewm-config](https://github.com/Stebalien/awesomewm-config) - My AwesomeWM config files
@@ -2526,6 +2529,7 @@
 - [the-nix-way/dev-templates](https://github.com/the-nix-way/dev-templates) - Dev environments for numerous languages based on Nix flakes [maintainer=@lucperkins]
 - [wagdav/homelab](https://github.com/wagdav/homelab) - Because at home you keep devopsing
 - [jakehamilton/config](https://github.com/jakehamilton/config) - My Nix configuration for packages, systems, etc.
+- [kclejeune/system](https://github.com/kclejeune/system) - Declarative system configurations using nixOS, nix-darwin, and home-manager
 - [reckenrode/nixos-configs](https://github.com/reckenrode/nixos-configs) - My NixOS and nix-darwin configs
 - [ZilchOS/core](https://github.com/ZilchOS/core) - ZilchOS Core, a decidedly tiny Nix-based distro to play with
 - [Sanatana-Linux/nixos-config](https://github.com/Sanatana-Linux/nixos-config) - Immutable, reproducible, aesthetic, all-encompassing.
@@ -2609,6 +2613,7 @@
 
 ## Others 
 
+- [SepsisShock/GLM_4.6](https://github.com/SepsisShock/GLM_4.6) - 
 - [LimeBlogs/Sudachi-Next](https://github.com/LimeBlogs/Sudachi-Next) - A SillyTavern Preset｜一个给酒馆使用的预设
 - [streaak/keyhacks](https://github.com/streaak/keyhacks) - Keyhacks is a repository which shows quick ways in which API keys leaked by a bug bounty program can be checked to see if they're valid.
 - [yunwei37/prompt-hacker-collections](https://github.com/yunwei37/prompt-hacker-collections) - prompt attack-defense, prompt Injection, reverse engineering notes and examples | 提示词对抗、破解例子与笔记
@@ -2703,7 +2708,7 @@
 - [Machine-Minds-AI/developer-prompts-chatgpt](https://github.com/Machine-Minds-AI/developer-prompts-chatgpt) - 📚 Collection of ChatGPT prompts for developers! https//whop.com/pfp
 - [B3o/GPTS-Prompt-Collection](https://github.com/B3o/GPTS-Prompt-Collection) - 收集GPTS的prompt  /   Collect the prompt of GPTS
 - [tjadamlee/GPTs-prompts](https://github.com/tjadamlee/GPTs-prompts) - System prompts for various famous GPTs
-- [jamesmcroft/everyday-prompts](https://github.com/jamesmcroft/everyday-prompts) - A collection of prompts for LLM tools (ChatGPT, Microsoft Copilot, etc.) to help with general tasks.
+- [jamesmcroft/everyday-prompts](https://github.com/jamesmcroft/everyday-prompts) - A collection of prompts for AI tools (ChatGPT, Microsoft Copilot, etc.) to help with your everyday tasks!
 - [ora-sh/Awesome-GPT4-Prompts](https://github.com/ora-sh/Awesome-GPT4-Prompts) - A collection of awesome GPT4 prompts
 - [kevinamiri/Instructgpt-prompts](https://github.com/kevinamiri/Instructgpt-prompts) - Instruction-based prompts for generating and classifying text.
 - [ximilsoft/awesome-ai-prompts](https://github.com/ximilsoft/awesome-ai-prompts) - Collection of custom AI prompts for ChatGPT and Gemini, designed following best practices to achieve optimal results.
@@ -3110,6 +3115,7 @@
 
 ## Python 
 
+- [Comfy-Org/ComfyUI-Manager](https://github.com/Comfy-Org/ComfyUI-Manager) - ComfyUI-Manager is an extension designed to enhance the usability of ComfyUI. It offers management functions to install, remove, disable, and enable various custom nodes of ComfyUI. Furthermore, this 
 - [yanshengjia/ml-road](https://github.com/yanshengjia/ml-road) - Machine Learning and Agentic AI Resources, Practice and Research
 - [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin9938
 - [benapetr/clia](https://github.com/benapetr/clia) - Simple stupid LLM based CLI Agent
@@ -3196,7 +3202,7 @@
 - [TheBlewish/Web-LLM-Assistant-Llamacpp-Ollama](https://github.com/TheBlewish/Web-LLM-Assistant-Llamacpp-Ollama) - A Python-based web-assisted large language model (LLM) search assistant using Llama.cpp
 - [abetlen/llama-cpp-python](https://github.com/abetlen/llama-cpp-python) - Python bindings for llama.cpp
 - [TheBlewish/Automated-AI-Web-Researcher-Ollama](https://github.com/TheBlewish/Automated-AI-Web-Researcher-Ollama) - A python program that turns an LLM, running on Ollama, into an automated researcher, which will with a single query determine focus areas to investigate, do websearches and scrape content from various
-- [conneroisu/awesome-vaults](https://github.com/conneroisu/awesome-vaults) - This is an List of Obsidian Vaults that show off features or collections of Notes.
+- [connerohnesorge/awesome-vaults](https://github.com/connerohnesorge/awesome-vaults) - This is an List of Obsidian Vaults that show off features or collections of Notes.
 - [Mimic-Tools/name-generation](https://github.com/Mimic-Tools/name-generation) - Generate fantasy character names for your RPG, Novel or any creative endeavour.
 - [siva1999/llm](https://github.com/siva1999/llm) - Fine Tuning LLM For Story Generation
 - [ChanMeng666/interactive-story-generator](https://github.com/ChanMeng666/interactive-story-generator) - 【Join our constellation of stargazers!⭐️】An interactive AI-powered story generator that creates dynamic narratives through collaborative storytelling between users and Meta's Llama model. Built with G
@@ -3429,7 +3435,6 @@
 - [roddhjav/pass-import](https://github.com/roddhjav/pass-import) - A pass extension for importing data from most existing password managers
 - [archivy/archivy](https://github.com/archivy/archivy) - Archivy is a self-hostable knowledge repository that allows you to learn and retain information in your own personal and extensible wiki.
 - [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 - [audibleblink/doxycannon](https://github.com/audibleblink/doxycannon) - A poorman's proxycannon and botnet, using docker, ovpn files, tor nodes, and dante socks5 proxies
 - [KCarretto/Arsenal](https://github.com/KCarretto/Arsenal) - Extensible Red Team Framework
 - [Tmpertor/Raven-Storm](https://github.com/Tmpertor/Raven-Storm) - Raven-Storm is a powerful DDoS toolkit for penetration tests, including attacks for several protocols written in python. Takedown many connections using several exotic and classic protocols.
@@ -3661,6 +3666,7 @@
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
 - [FuelLabs/fuel-core](https://github.com/FuelLabs/fuel-core) - Rust full node implementation of the Fuel v2 protocol.
 - [FuelLabs/fuels-rs](https://github.com/FuelLabs/fuels-rs) - Fuel Network Rust SDK
+- [taikoxyz/taiko-mono](https://github.com/taikoxyz/taiko-mono) - Taiko Alethia based rollup protocol 🥁
 - [oahlen/huevim](https://github.com/oahlen/huevim) - Neovim lua color scheme generator written in Rust.
 - [ntex-rs/ntex](https://github.com/ntex-rs/ntex) - framework for composable networking services
 - [tokio-rs/axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper
@@ -4271,7 +4277,6 @@
 
 - [wikibonsai/germinator](https://github.com/wikibonsai/germinator) - AI-powered semantic seedling germination.
 - [wikibonsai/wikibonsai](https://github.com/wikibonsai/wikibonsai) - A jungle gym for thought with an API for the mind.
-- [taikoxyz/taiko-mono](https://github.com/taikoxyz/taiko-mono) - Taiko Alethia based rollup protocol 🥁
 - [morispolanco/books-by-ai](https://github.com/morispolanco/books-by-ai) - Books generated by AI
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 - [hertg/lightdm-neon](https://github.com/hertg/lightdm-neon) - :art: A customizable theme for web-greeter in a nostalgic but modern neon look
@@ -4323,7 +4328,7 @@
 - [JMPerez/spotify-dedup](https://github.com/JMPerez/spotify-dedup) - Remove duplicates from your Spotify Playlists
 - [SwordTM/Oraculum](https://github.com/SwordTM/Oraculum) - AI Powered Assistant that helps connect current knowledge in your Obsidian vault to enhance idea generation.
 - [atasoya/komutan](https://github.com/atasoya/komutan) - A CLI tool for creating and managing CommanderJS CLI tools inspired by cobra-cli
-- [Gerome-Elassaad/CodingIT](https://github.com/Gerome-Elassaad/CodingIT) - Open-source, local AI app builder ✨ Web template to Lovable & Bolt 🌟 Star to support the project!
+- [Gerome-Elassaad/CodingIT](https://github.com/Gerome-Elassaad/CodingIT) - Open-source, AI app builder web template demo 🌟 Star to support the project!
 - [allister-grange/startertab](https://github.com/allister-grange/startertab) - A custom new tab page, keeping all the best info handy (a work in progress, feedback is invaluable)
 - [garado/auriga](https://github.com/garado/auriga) - overengineered linux desktop
 - [easychen/airole](https://github.com/easychen/airole) - Effortless AI Character Card Creator that Start with Image
@@ -4374,7 +4379,7 @@
 - [dhavalCode/textshine.ai](https://github.com/dhavalCode/textshine.ai) - AI Powered Writing Tool
 - [mertthesamael/merto-dev](https://github.com/mertthesamael/merto-dev) - 
 - [crosstyan/generate-forever](https://github.com/crosstyan/generate-forever) - a userscript to generate forever for a novel site
-- [akhila-ariyachandra/akhilaariyachandra.com](https://github.com/akhila-ariyachandra/akhilaariyachandra.com) - ✨ My portfolio built with Next.js, Tailwind, Content Collections, Prisma, Prisma Postgres, and Vercel.
+- [akhila-ariyachandra/akhilaariyachandra.com](https://github.com/akhila-ariyachandra/akhilaariyachandra.com) - ✨ My portfolio built with Next.js, Tailwind, Content Collections, PostgreSQL, Drizzle ORM, and Vercel.
 - [alsiam/urFolio](https://github.com/alsiam/urFolio) - urFolio - Best Open Source Portfolio or Personal Website using NextJS. Feel free to check out the readme file, copy, fork, and use.
 - [2017mike/daisyportfolio](https://github.com/2017mike/daisyportfolio) - My current portfolio. Written with Next, TypeScript, Tailwind, DaisyUI, and deployed with Vercel.
 - [mtharrison/promptscaper](https://github.com/mtharrison/promptscaper) - A client-only OpenAI LLM Playground for prototyping agents without writing any code.
@@ -4621,7 +4626,7 @@
 - [kremalicious/portfolio](https://github.com/kremalicious/portfolio) - 👔 Portfolio thingy
 - [kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit) - Modern React starter kit with Bun, TypeScript, Tailwind CSS, tRPC, and Cloudflare Workers. Production-ready monorepo for building fast web apps.
 - [async-labs/saas](https://github.com/async-labs/saas) - Build your own SaaS business with SaaS boilerplate. Productive stack: React, Material-UI, Next, MobX, WebSockets, Express, Node, Mongoose, MongoDB. Written with TypeScript.
-- [mldangelo/personal-site](https://github.com/mldangelo/personal-site) - My personal website - built with React, React-Router, React-Snap for Static-Export, and GitHub Pages.
+- [mldangelo/personal-site](https://github.com/mldangelo/personal-site) - My personal website - built with Next for Static-Export, and GitHub Pages.
 - [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
 - [electron/fiddle](https://github.com/electron/fiddle) - :electron: 🚀 The easiest way to get started with Electron
 - [Sn8z/Poddr](https://github.com/Sn8z/Poddr) - Podcatcher made with Electron and Angular
