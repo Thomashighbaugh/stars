@@ -401,7 +401,7 @@
 - [Shina-SG/Shina-Fox](https://github.com/Shina-SG/Shina-Fox) - A Minimal, Cozy, Vertical Optimized Firefox Theme
 - [Kaskapa/Monochrome-Neubrutalism-Firefox-Theme](https://github.com/Kaskapa/Monochrome-Neubrutalism-Firefox-Theme) - 
 - [EliverLara/Andromeda-gtk](https://github.com/EliverLara/Andromeda-gtk) - 
-- [corinneling/comic-template](https://github.com/corinneling/comic-template) - A template for web comics using css grid to position panels.
+- [quinn-joyce/comic-template](https://github.com/quinn-joyce/comic-template) - A template for web comics using css grid to position panels.
 - [simplysabir/AI-Writing-Assistant](https://github.com/simplysabir/AI-Writing-Assistant) - DeepWrite AI is Made with the Help of ChatGPT3 and Specific Model is Prepared for Generating Perfect Blog Post with atmost Clarity.  This is Just the Version 1.0 More Improvement Will be Implemented.
 - [kkothari2001/twAIn](https://github.com/kkothari2001/twAIn) - An AI that creates incredible stories!
 - [mandli-nirav/Creating-Chatbot-Using-Python-Flask-and-DialogFlow](https://github.com/mandli-nirav/Creating-Chatbot-Using-Python-Flask-and-DialogFlow) - This is a webhook made in python (Flask) to perform actions in Dialogflow chatbot.
@@ -940,6 +940,7 @@
 
 ## JavaScript 
 
+- [RossAscends/ST-ClickToCloseEdits](https://github.com/RossAscends/ST-ClickToCloseEdits) - 
 - [ceruleandeep/SillyTavern-ChatNamer](https://github.com/ceruleandeep/SillyTavern-ChatNamer) - SillyTavern tool for your bot/agent/character to use, that sets the name of the current chat.
 - [nbrown725/SillyTavern-AlternateDescriptions](https://github.com/nbrown725/SillyTavern-AlternateDescriptions) - 
 - [ceruleandeep/SillyTavern-ComfierPlaceholders](https://github.com/ceruleandeep/SillyTavern-ComfierPlaceholders) - 
@@ -1561,7 +1562,7 @@
 - [mrdbourke/tensorflow-deep-learning](https://github.com/mrdbourke/tensorflow-deep-learning) - All course materials for the Zero to Mastery Deep Learning with TensorFlow course.
 - [pfnet/PaintsChainer](https://github.com/pfnet/PaintsChainer) - line drawing colorization using chainer
 - [spmallick/learnopencv](https://github.com/spmallick/learnopencv) - Learn OpenCV  : C++ and Python Examples
-- [The-Art-of-Hacking/h4cker](https://github.com/The-Art-of-Hacking/h4cker) - This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking, bug bounties, digital forensics and incident response (DFIR), artif
+- [The-Art-of-Hacking/h4cker](https://github.com/The-Art-of-Hacking/h4cker) - This repository is maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking, bug bounties, digital forensics and incident response (DFIR), AI security, vu
 
 ## Just 
 
