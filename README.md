@@ -569,7 +569,7 @@
 
 - [jepsen-io/maelstrom](https://github.com/jepsen-io/maelstrom) - A workbench for writing toy implementations of distributed systems.
 - [Flexiana/notion-to-md](https://github.com/Flexiana/notion-to-md) - A tool for fetching Notion page trees, written in Clojure.
-- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
+- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://discuss.logseq.com/t/logseq-product-roadmap
 - [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
 - [mswift42/themecreator](https://github.com/mswift42/themecreator) - https://mswift42.github.io/themecreator/ create themes for intellij, textmate, textadept, atom, emacs, vim and gnome terminal.
 
@@ -1147,7 +1147,6 @@
 - [GuiDevloper/nullstack-polyable](https://github.com/GuiDevloper/nullstack-polyable) - :earth_americas: Making Nullstack framework able to read any template vocable you type
 - [mococa/ns-chat](https://github.com/mococa/ns-chat) - Nullstack chat app
 - [nullstack/nullstack](https://github.com/nullstack/nullstack) - Feature-Driven Full Stack JavaScript Components
-- [CryptoDappRun/EasyNFT-Generator-Bulk-NFT-to-Opensea](https://github.com/CryptoDappRun/EasyNFT-Generator-Bulk-NFT-to-Opensea) - EasyNFT Generator-Bulk NFT to Opensea.generate multi NFTs upload to IPFS and publish on opensea automatically. Defi crypto Dapp
 - [lumamontes/artist-portfolio-website](https://github.com/lumamontes/artist-portfolio-website) - Artist porfolio website with Next.js, Prismic and Web3Forms
 - [simarmannsingh/silverlux](https://github.com/simarmannsingh/silverlux) - 💻 A fully-responsive Gatsby based blog template using NetlifyCMS as CMS.
 - [Akshay090/svg-banners](https://github.com/Akshay090/svg-banners) - Styled banners for your Readme made with html/css in SVG !!
