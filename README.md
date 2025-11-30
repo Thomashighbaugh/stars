@@ -3112,6 +3112,7 @@
 
 ## Python 
 
+- [AndrewPaglusch/auto-avbroot](https://github.com/AndrewPaglusch/auto-avbroot) - A script to automate the tediousness of re-signing GrapheneOS OTA updates and installing them with custota
 - [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) - all of the workflows of n8n i could find (also from the site itself)
 - [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) - [EMNLP2025] "LightRAG: Simple and Fast Retrieval-Augmented Generation"
 - [volcengine/verl](https://github.com/volcengine/verl) - verl: Volcano Engine Reinforcement Learning for LLMs
@@ -3628,6 +3629,7 @@
 
 ## Rust 
 
+- [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 - [nferhat/fht-compositor](https://github.com/nferhat/fht-compositor) - A dynamic tiling Wayland compositor.
 - [replit/rippkgs](https://github.com/replit/rippkgs) - A CLI for indexing and searching packages in Nix expressions
 - [aumbriac/MistralCLI](https://github.com/aumbriac/MistralCLI) - Rust-powered CLI for interacting with the Mistral AI API
@@ -4297,7 +4299,7 @@
 
 ## TeX 
 
-- [simbleau/resume](https://github.com/simbleau/resume) - My personal résumé's source code.
+- [nuzzles/resume](https://github.com/nuzzles/resume) - My personal résumé's source code.
 - [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV) - :page_facing_up: Awesome CV is LaTeX template for your outstanding job application
 - [teaching-lab/stack-cs-activities](https://github.com/teaching-lab/stack-cs-activities) - A stack of activities to teach advanced computer science (developed by the Teaching Lab community at the Faculty of Informatics, Masaryk University)
 - [akss13/Resume-builder](https://github.com/akss13/Resume-builder) - Automated resume builder
