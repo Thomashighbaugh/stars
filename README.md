@@ -109,6 +109,7 @@
 - [JuditKaramazov/karamaBlog](https://github.com/JuditKaramazov/karamaBlog) - 🚀🌿 karamaSystem v2 - Personal blog allowing me to be digitally imprisoned yet free.
 - [NixOS/nixos-homepage](https://github.com/NixOS/nixos-homepage) - Sources for nixos.org
 - [joshbrgs/my-portfolio](https://github.com/joshbrgs/my-portfolio) - My portfolio site and blog made with React/NextJS, ESLint & Prettier, Typescript, NodeJS(Go in the future), and Ghost CMS for the blog. Display of my projects and skills.
+- [Thomashighbaugh/Personal-Site](https://github.com/Thomashighbaugh/Personal-Site) - My portfolio site's new form and fresh branding
 
 ## Batchfile 
 
@@ -1139,7 +1140,6 @@
 - [GuiDevloper/nullstack](https://github.com/GuiDevloper/nullstack) - Full-stack javascript components for one-dev armies.
 - [vitorgamer58/nullstack-herbs-url-shortener](https://github.com/vitorgamer58/nullstack-herbs-url-shortener) - Proof of concept of Nullstack integration with HerbsJs
 - [ddanielcruz/nullstack-linktree](https://github.com/ddanielcruz/nullstack-linktree) - Simple Linktree clone built with Nullstack and Tailwind
-- [GuiDevloper/nullstack-payments](https://github.com/GuiDevloper/nullstack-payments) - :moneybag: Examples of payments APIs integrations made in Nullstack
 - [GuiDevloper/create-nullstatic-app](https://github.com/GuiDevloper/create-nullstatic-app) - Crawls every accessible link in your application and generates static HTML.
 - [GuiDevloper/create-nullstack-app](https://github.com/GuiDevloper/create-nullstack-app) - The fastest way to start using Nullstack.
 - [edysegura/pwa-pokedex](https://github.com/edysegura/pwa-pokedex) - A PWA Pokédex
@@ -1187,7 +1187,6 @@
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [FirefoxBar/WebExt-build-tool](https://github.com/FirefoxBar/WebExt-build-tool) - A tool to build webextension
 - [dupontjoy/UCScriptsCollections](https://github.com/dupontjoy/UCScriptsCollections) - UC scripts collections, include UC scripts I don't use for now and UC scripts collected from others' sharing. Just for me to find them easily in the future.
-- [Aylur/gnome-extensions](https://github.com/Aylur/gnome-extensions) - gnome extension
 - [arifszn/blog.js](https://github.com/arifszn/blog.js) - JavaScript client to get recent blog posts from your blogging platforms.
 - [maizzle/framework](https://github.com/maizzle/framework) - Quickly build HTML emails with Tailwind CSS.
 - [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
@@ -1399,6 +1398,7 @@
 - [deepjyoti30/startpage](https://github.com/deepjyoti30/startpage) - A minimal starpage for Chrome and Firefox
 - [arkenfox/user.js](https://github.com/arkenfox/user.js) - Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening
 - [h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
+- [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 - [Kristories/awesome-guidelines](https://github.com/Kristories/awesome-guidelines) - A curated list of high quality coding style conventions and standards.
 - [aluxian/nwjs-starter](https://github.com/aluxian/nwjs-starter) - :zap: NW.js starter project powered by Gulp. :zap:
 - [richardtaylordawson/pwa-shields](https://github.com/richardtaylordawson/pwa-shields) - Personalize your app's README with custom, fun, PWA shields in SVG
@@ -3818,6 +3818,7 @@
 
 ## Shell 
 
+- [NixOS/flake-registry](https://github.com/NixOS/flake-registry) - Global registry of Nix flakes
 - [adtac/climate](https://github.com/adtac/climate) - The swiss-army knife of utility tools for Linux.
 - [forsonny/book-os](https://github.com/forsonny/book-os) - Novel-OS is a structured workflow system that gives AI the context it needs to help you write   compelling fiction—consistently and efficiently. It provides three layers of context (Standards,   Novel
 - [erikdubois/edu-dot-files](https://github.com/erikdubois/edu-dot-files) - 
@@ -4464,6 +4465,7 @@
 - [Floorp-Projects/Floorp](https://github.com/Floorp-Projects/Floorp) - All of source code of version 10 or later of Floorp Browser, the most Advanced and Fastest Firefox derivative 🦊
 - [brunolm/get-short-video](https://github.com/brunolm/get-short-video) - Nullstack project to easily make short videos
 - [brunolm/brunolm.github.io](https://github.com/brunolm/brunolm.github.io) - BrunoLM personal website!
+- [GuiDevloper/nullstack-payments](https://github.com/GuiDevloper/nullstack-payments) - :moneybag: Examples of payments APIs integrations made in Nullstack
 - [natanfeitosa/nullstack-fontawesome](https://github.com/natanfeitosa/nullstack-fontawesome) - Font Awesome Nullstack component
 - [GuiDevloper/nullstack-tsx-example](https://github.com/GuiDevloper/nullstack-tsx-example) - Nullstack project using TSX files
 - [GuiDevloper/nulla](https://github.com/GuiDevloper/nulla) - :woman_technologist: CLI for Nullstack fed by Nulla-chan powers and will
@@ -4498,6 +4500,7 @@
 - [jasonruesch/jasonruesch.old](https://github.com/jasonruesch/jasonruesch.old) - My personal portfolio web app
 - [JezerM/nody-greeter](https://github.com/JezerM/nody-greeter) - LightDM greeter that allows to create wonderful themes with web technologies. Made in Node.js
 - [InterwebAlchemy/obsidian-ai-research-assistant](https://github.com/InterwebAlchemy/obsidian-ai-research-assistant) - Prompt Engineering Research Tool for AI APIs
+- [Aylur/gnome-extensions](https://github.com/Aylur/gnome-extensions) - Gnome Extensions
 - [arifszn/gitprofile](https://github.com/arifszn/gitprofile) - 🚀 Create and publish a dynamic portfolio by just providing your GitHub username.
 - [smakosh/next-portfolio-dev](https://github.com/smakosh/next-portfolio-dev) - A portfolio for developers (Next js version)
 - [harshgoel05/another-portfolio](https://github.com/harshgoel05/another-portfolio) - An eye-catching developer Portfolio, Built on NextJS.
@@ -4585,7 +4588,6 @@
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [heysafronov/square-react-dashboard](https://github.com/heysafronov/square-react-dashboard) - [2018] React Dashboard Template built with TypeScript
 - [motiondivision/motion](https://github.com/motiondivision/motion) - A modern animation library for React and JavaScript
-- [Thomashighbaugh/Personal-Site](https://github.com/Thomashighbaugh/Personal-Site) - My portfolio site's new form and fresh branding
 - [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Progressive Web Framework.
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
@@ -4598,7 +4600,7 @@
 - [iamvishnusankar/next-sitemap](https://github.com/iamvishnusankar/next-sitemap) - Sitemap generator for next.js. Generate sitemap(s) and robots.txt for all static/pre-rendered/dynamic/server-side pages.
 - [nandorojo/moti](https://github.com/nandorojo/moti) - 🐼  The React Native (+ Web) animation library, powered by Reanimated 3.
 - [linsa-io/linsa](https://github.com/linsa-io/linsa) - Save anything privately. Share it.
-- [nikivdev/research](https://github.com/nikivdev/research) - Research (code, docs, ..)
+- [nikivdev/research](https://github.com/nikivdev/research) - 
 - [vercel/commerce](https://github.com/vercel/commerce) - Next.js Commerce
 - [karlitos/KissMyResume](https://github.com/karlitos/KissMyResume) - Generate polished résumés and CVs in HTML, PDF,  MS Word and other formats and Keep It Simple.
 - [microsoft/fluentui](https://github.com/microsoft/fluentui) - Fluent UI web represents a collection of utilities, React components, and web components for building web applications.
@@ -4722,7 +4724,6 @@
 - [Schroedinger-Hat/ImageGoNord-Web](https://github.com/Schroedinger-Hat/ImageGoNord-Web) - A tool that can convert your rgb images to nordtheme palette
 - [lostdesign/webgems](https://github.com/lostdesign/webgems) - A curated list of resources for devs and designers. Join me on devcord.com if you are up for a chit chat :)
 - [Litarvan/lightdm-webkit-theme-litarvan](https://github.com/Litarvan/lightdm-webkit-theme-litarvan) - Litarvan's LightDM HTML Theme
-- [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 - [Exauthor/lightdm-webkit-theme-osmos](https://github.com/Exauthor/lightdm-webkit-theme-osmos) - Osmos
 - [bencodezen/vuepress-blog-boilerplate](https://github.com/bencodezen/vuepress-blog-boilerplate) - An ever-evolving and opinionated dev environment for people who want to use VuePress to power their blogs.
 - [oleksiikhr/Social-Cleaner](https://github.com/oleksiikhr/Social-Cleaner) - Cleaning of any data (wall, documents, video, image, etc.) from various social networks with logs and preliminary verification
