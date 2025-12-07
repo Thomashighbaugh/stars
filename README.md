@@ -83,6 +83,7 @@
 - [Tree-sitter Query](#tree-sitter-query)
 - [Twig](#twig)
 - [TypeScript](#typescript)
+- [Typst](#typst)
 - [V](#v)
 - [Vala](#vala)
 - [Vim Script](#vim-script)
@@ -156,7 +157,6 @@
 - [sushi-ae/dotfiles](https://github.com/sushi-ae/dotfiles) - My personal dotfiles that are constantly being updated.
 - [unikraft/unikraft](https://github.com/unikraft/unikraft) - A next-generation cloud native kernel designed to unlock best-in-class performance, security primitives and efficiency savings.
 - [NVIDIA/open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules) - NVIDIA Linux open GPU kernel module source
-- [beejjorgensen/bgc](https://github.com/beejjorgensen/bgc) - Beej's Guide to C Programming source
 - [Mange/rofi-emoji](https://github.com/Mange/rofi-emoji) - Emoji selector plugin for Rofi
 - [Nooo37/pinsel](https://github.com/Nooo37/pinsel) - Minimal screenshot annotation tool with lua config
 - [ArtsyMacaw/wlogout](https://github.com/ArtsyMacaw/wlogout) - A wayland based logout menu
@@ -209,7 +209,7 @@
 - [deadbok/eden-linux](https://github.com/deadbok/eden-linux) - Linux distribution build system
 - [bats3c/shad0w](https://github.com/bats3c/shad0w) - A post exploitation framework designed to operate covertly on heavily monitored environments
 - [plasmoduck/modwm](https://github.com/plasmoduck/modwm) - MODWM - Modular Dynamic Window Manager
-- [raspberrypi/usbboot](https://github.com/raspberrypi/usbboot) - Raspberry Pi USB booting code, moved from tools repository
+- [raspberrypi/usbboot](https://github.com/raspberrypi/usbboot) - Raspberry Pi USB device provisioning tool (RPIBOOT)
 - [instantOS/instantWM](https://github.com/instantOS/instantWM) - The window manager for instantOS
 - [mitchweaver/suckless](https://github.com/mitchweaver/suckless) - 🇸 Collection of http://suckless.org tools I use and my modifications for them.
 - [i3/i3status](https://github.com/i3/i3status) - Generates status bar to use with i3bar, dzen2 or xmobar
@@ -709,7 +709,6 @@
 - [OJ/gobuster](https://github.com/OJ/gobuster) - Directory/File, DNS and VHost busting tool written in Go
 - [FyshOS/fynedesk](https://github.com/FyshOS/fynedesk) - A full desktop environment for Linux/Unix using Fyne
 - [codenotary/immudb](https://github.com/codenotary/immudb) - immudb - immutable database based on zero trust, SQL/Key-Value/Document model, tamperproof, data change history
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 - [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems
 - [KCarretto/paragon](https://github.com/KCarretto/paragon) - Red Team engagement platform with the goal of unifying offensive tools behind a simple UI
 - [tvrzna/emptty](https://github.com/tvrzna/emptty) - Dead simple CLI Display Manager on TTY
@@ -1592,6 +1591,7 @@
 
 ## Lua 
 
+- [pkazmier/nvim](https://github.com/pkazmier/nvim) - My personal neovim configuration
 - [sile-typesetter/casile](https://github.com/sile-typesetter/casile) - The CaSILE toolkit, a book publishing workflow employing SILE and other wizardry.
 - [Ngz91/dotfiles](https://github.com/Ngz91/dotfiles) - Configuration files & Installation guide for Arch
 - [isaksamsten/nvim-config](https://github.com/isaksamsten/nvim-config) - 
@@ -1894,7 +1894,7 @@
 - [msaifi03/turbo-awesome](https://github.com/msaifi03/turbo-awesome) - 
 - [nuxshed/dotfiles](https://github.com/nuxshed/dotfiles) - pls help
 - [Kasper24/KwesomeDE](https://github.com/Kasper24/KwesomeDE) - A desktop environment made in AwesomeWM
-- [javacafe01/awesome-wallpaper](https://github.com/javacafe01/awesome-wallpaper) - 
+- [chxp82q/awesome-wallpaper](https://github.com/chxp82q/awesome-wallpaper) - 
 - [rochacbruno/dotfiles](https://github.com/rochacbruno/dotfiles) - My Environment Configurations
 - [Crylia/crylia-theme](https://github.com/Crylia/crylia-theme) - A theme for AwesomeWM
 - [b0o/dotfiles](https://github.com/b0o/dotfiles) - ☄ Maddison's dotfiles!
@@ -2233,6 +2233,8 @@
 
 ## Nix 
 
+- [SeniorMatt/Matthew-s-NixOS](https://github.com/SeniorMatt/Matthew-s-NixOS) - My NixOS configuration
+- [polygon/scalpel](https://github.com/polygon/scalpel) - Minimally invasive safe secret provisioning to Nix-generated service config files
 - [yunfachi/denix](https://github.com/yunfachi/denix) - Extensible Nix library for creating scalable NixOS, Home Manager, and Nix-Darwin configurations with modules, hosts, and rices
 - [DivitMittal/OS-nixCfg](https://github.com/DivitMittal/OS-nixCfg) - nix (via nix-darwin, nixos, nix-on-droid, home-manager, etc.) declarative configurations to attain my deterministically reproducible layer
 - [reo101/rix101](https://github.com/reo101/rix101) - My NixOS, nix-on-droid and nix-darwin configs.
@@ -3115,6 +3117,9 @@
 
 ## Python 
 
+- [Fajar-RahmadJaya/google-dawg](https://github.com/Fajar-RahmadJaya/google-dawg) - Automate Google dorking without getting banned
+- [helallao/perplexity-ai](https://github.com/helallao/perplexity-ai) - Unofficial API Wrapper for Perplexity.ai + Account Generator with Web Interface
+- [Bachkhairi/study_assistant](https://github.com/Bachkhairi/study_assistant) - A modular CLI tool that automates note-taking, summarization, and Q&A, integrating with Notion and YouTube to help you learn faster and retain knowledge efficiently.
 - [chroma-core/bullet](https://github.com/chroma-core/bullet) - 🚅 Interactive prompts made simple. Build a prompt like stacking blocks.
 - [AndrewPaglusch/auto-avbroot](https://github.com/AndrewPaglusch/auto-avbroot) - A script to automate the tediousness of re-signing GrapheneOS OTA updates and installing them with custota
 - [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) - all of the workflows of n8n i could find (also from the site itself)
@@ -3440,6 +3445,7 @@
 - [roddhjav/pass-import](https://github.com/roddhjav/pass-import) - A pass extension for importing data from most existing password managers
 - [archivy/archivy](https://github.com/archivy/archivy) - Archivy is a self-hostable knowledge repository that allows you to learn and retain information in your own personal and extensible wiki.
 - [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 - [audibleblink/doxycannon](https://github.com/audibleblink/doxycannon) - A poorman's proxycannon and botnet, using docker, ovpn files, tor nodes, and dante socks5 proxies
 - [KCarretto/Arsenal](https://github.com/KCarretto/Arsenal) - Extensible Red Team Framework
 - [Tmpertor/Raven-Storm](https://github.com/Tmpertor/Raven-Storm) - Raven-Storm is a powerful DDoS toolkit for penetration tests, including attacks for several protocols written in python. Takedown many connections using several exotic and classic protocols.
@@ -3673,7 +3679,6 @@
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
 - [FuelLabs/fuel-core](https://github.com/FuelLabs/fuel-core) - Rust full node implementation of the Fuel v2 protocol.
 - [FuelLabs/fuels-rs](https://github.com/FuelLabs/fuels-rs) - Fuel Network Rust SDK
-- [taikoxyz/taiko-mono](https://github.com/taikoxyz/taiko-mono) - Taiko Alethia based rollup protocol 🥁
 - [oahlen/huevim](https://github.com/oahlen/huevim) - Neovim lua color scheme generator written in Rust.
 - [ntex-rs/ntex](https://github.com/ntex-rs/ntex) - framework for composable networking services
 - [tokio-rs/axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper
@@ -3818,6 +3823,7 @@
 
 ## Shell 
 
+- [rodrigogalura/bak-rstr](https://github.com/rodrigogalura/bak-rstr) - Simple Backup & Restore: Compress, upload, and secure your files to Dropbox with a single command!
 - [NixOS/flake-registry](https://github.com/NixOS/flake-registry) - Global registry of Nix flakes
 - [adtac/climate](https://github.com/adtac/climate) - The swiss-army knife of utility tools for Linux.
 - [forsonny/book-os](https://github.com/forsonny/book-os) - Novel-OS is a structured workflow system that gives AI the context it needs to help you write   compelling fiction—consistently and efficiently. It provides three layers of context (Standards,   Novel
@@ -4051,6 +4057,7 @@
 - [cjpbirkbeck/dots](https://github.com/cjpbirkbeck/dots) - Dot files
 - [zdykstra/fuzzypkg](https://github.com/zdykstra/fuzzypkg) - 
 - [ExpertAnonymous/PhoneInfoga](https://github.com/ExpertAnonymous/PhoneInfoga) - PhoneInfoga is one of the most advanced tools to scan phone numbers using only free resources.
+- [Quiterion/dotfiles](https://github.com/Quiterion/dotfiles) - Dotfiles for my i3 Arch setup, uploaded for redundancy and easy installation on new machines
 - [zoddDev/dotfiles](https://github.com/zoddDev/dotfiles) - My bspwm dotfiles. Get whatever you need! :)
 - [Tomas-M/linux-live](https://github.com/Tomas-M/linux-live) - Linux Live Kit
 - [saymoncoppi/xlunchr](https://github.com/saymoncoppi/xlunchr) - A simple xlunch modernization
@@ -4286,6 +4293,7 @@
 
 - [wikibonsai/germinator](https://github.com/wikibonsai/germinator) - AI-powered semantic seedling germination.
 - [wikibonsai/wikibonsai](https://github.com/wikibonsai/wikibonsai) - A jungle gym for thought with an API for the mind.
+- [taikoxyz/taiko-mono](https://github.com/taikoxyz/taiko-mono) - Taiko Alethia based rollup protocol 🥁
 - [morispolanco/books-by-ai](https://github.com/morispolanco/books-by-ai) - Books generated by AI
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 - [hertg/lightdm-neon](https://github.com/hertg/lightdm-neon) - :art: A customizable theme for web-greeter in a nostalgic but modern neon look
@@ -4321,6 +4329,9 @@
 
 ## TypeScript 
 
+- [nbrown725/SillyTavern-Character-Creator-Chat](https://github.com/nbrown725/SillyTavern-Character-Creator-Chat) - A SillyTavern extension that creates character LLMs.
+- [sst/opentui](https://github.com/sst/opentui) - OpenTUI is a library for building terminal user interfaces (TUIs)
+- [web-agent-master/google-search](https://github.com/web-agent-master/google-search) - A Playwright-based Node.js tool that bypasses search engine anti-scraping mechanisms to execute Google searches. Local alternative to SERP APIs with MCP server integration.
 - [nicotsx/zerobyte](https://github.com/nicotsx/zerobyte) - Backup automation for self-hosters
 - [vercel/next-devtools-mcp](https://github.com/vercel/next-devtools-mcp) - Next.js Development for Coding Agent
 - [Nano-Collective/nanocoder](https://github.com/Nano-Collective/nanocoder) - A beautiful local-first coding agent running in your terminal - built by the community for the community ⚒
@@ -4569,7 +4580,7 @@
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - Chakra UI is a component system for building SaaS products with speed ⚡️
 - [ConsenSys-archive/truffle](https://github.com/ConsenSys-archive/truffle) - :warning: The Truffle Suite is being sunset. For information on ongoing support, migration options and FAQs, visit the Consensys blog. Thank you for all the support over the years.
 - [linnovate/mean](https://github.com/linnovate/mean) - The MEAN stack uses Mongo, Express, Angular(6) and Node for simple and scalable fullstack js applications
-- [nitin27may/mean-docker](https://github.com/nitin27may/mean-docker) - A full-featured contact management system built with TypeScript-powered MEAN stack (MongoDB, Express.js, Angular 19, Node.js). Features JWT authentication, responsive Bootstrap 5 UI, Angular SSR, and 
+- [nitin27may/mean-docker](https://github.com/nitin27may/mean-docker) - A full-featured contact management system built with TypeScript-powered MEAN stack (MongoDB, Express.js, Angular 21, Node.js). Features JWT authentication, responsive Bootstrap 5 UI, Angular SSR, and 
 - [saksmt/awesomewm.d.ts](https://github.com/saksmt/awesomewm.d.ts) - typescript typings for awesome-wm based on typescript-to-lua
 - [Rixcy/community](https://github.com/Rixcy/community) - Community SaaS built using Blitzjs
 - [tsamantanis/react-glassmorphism](https://github.com/tsamantanis/react-glassmorphism) - A react UI component library for glassmorphic components
@@ -4650,6 +4661,10 @@
 - [akveo/eva-icons](https://github.com/akveo/eva-icons) - A pack of more than 480 beautifully crafted Open Source icons. SVG, Sketch, Web Font and Animations support.
 - [streamich/libreact](https://github.com/streamich/libreact) - Collection of useful React components
 
+## Typst 
+
+- [beejjorgensen/bgc](https://github.com/beejjorgensen/bgc) - Beej's Guide to C Programming source
+
 ## V 
 
 - [thecodrr/boxx](https://github.com/thecodrr/boxx) - 📦 Create highly customizable terminal boxes that also look great!
@@ -4682,7 +4697,6 @@
 - [Ham5andw1ch/NewDots](https://github.com/Ham5andw1ch/NewDots) - Updated dotfiles since I'm too lazy to touch the old repo.
 - [hiecaq/dotfiles](https://github.com/hiecaq/dotfiles) - My dotfiles that set the world I live in
 - [nikvdp/neomux](https://github.com/nikvdp/neomux) - Control Neovim from shells running inside Neovim.
-- [Quiterion/dotfiles](https://github.com/Quiterion/dotfiles) - Dotfiles for my i3 Arch setup, uploaded for redundancy and easy installation on new machines
 - [sheerun/vim-polyglot](https://github.com/sheerun/vim-polyglot) - A solid language pack for Vim.
 - [lambdalisue/vim-suda](https://github.com/lambdalisue/vim-suda) - 🥪 An alternative sudo.vim for Vim and Neovim, limited support sudo in Windows
 - [vimwiki/vimwiki](https://github.com/vimwiki/vimwiki) - Personal Wiki for Vim
