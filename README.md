@@ -709,6 +709,7 @@
 - [OJ/gobuster](https://github.com/OJ/gobuster) - Directory/File, DNS and VHost busting tool written in Go
 - [FyshOS/fynedesk](https://github.com/FyshOS/fynedesk) - A full desktop environment for Linux/Unix using Fyne
 - [codenotary/immudb](https://github.com/codenotary/immudb) - immudb - immutable database based on zero trust, SQL/Key-Value/Document model, tamperproof, data change history
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 - [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems
 - [KCarretto/paragon](https://github.com/KCarretto/paragon) - Red Team engagement platform with the goal of unifying offensive tools behind a simple UI
 - [tvrzna/emptty](https://github.com/tvrzna/emptty) - Dead simple CLI Display Manager on TTY
@@ -941,6 +942,9 @@
 
 ## JavaScript 
 
+- [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.
+- [nimit95/Real-world-Design-Patterns-Node-JS](https://github.com/nimit95/Real-world-Design-Patterns-Node-JS) - All the 23 (GoF) design patterns implemented in Javascript with Real World Example using Node.js APIs
+- [ejpir/CVE-2025-55182-research](https://github.com/ejpir/CVE-2025-55182-research) - CVE-2025-55182 POC
 - [mia13165/SillyTavern-BotBrowser](https://github.com/mia13165/SillyTavern-BotBrowser) - Browse character bots and lorebooks from various sources directly in SillyTavern.
 - [RossAscends/ST-ClickToCloseEdits](https://github.com/RossAscends/ST-ClickToCloseEdits) - 
 - [ceruleandeep/SillyTavern-ChatNamer](https://github.com/ceruleandeep/SillyTavern-ChatNamer) - SillyTavern tool for your bot/agent/character to use, that sets the name of the current chat.
@@ -1567,6 +1571,7 @@
 
 ## Kotlin 
 
+- [YangDai2003/Kori](https://github.com/YangDai2003/Kori) - AI-powered Markdown notepad built with Compose Multiplatform.
 - [Kvaesitso/Plugin-GoogleApps](https://github.com/Kvaesitso/Plugin-GoogleApps) - 
 - [kumarsushil10/journal-note](https://github.com/kumarsushil10/journal-note) - Check out Simple Android jetpack compose based app build for making notes
 - [fork-maintainers/iceraven-browser](https://github.com/fork-maintainers/iceraven-browser) - Iceraven Browser
@@ -1891,7 +1896,6 @@
 - [awesomeWM/awesome-www](https://github.com/awesomeWM/awesome-www) - Website of AwesomeWM
 - [frabjous/awesome](https://github.com/frabjous/awesome) - Dotfiles for awesomewm
 - [meriadec/awesome-efficient](https://github.com/meriadec/awesome-efficient) - Awesome WM 4 theme - Focused on elegance, minimalism & productivity
-- [msaifi03/turbo-awesome](https://github.com/msaifi03/turbo-awesome) - 
 - [nuxshed/dotfiles](https://github.com/nuxshed/dotfiles) - pls help
 - [Kasper24/KwesomeDE](https://github.com/Kasper24/KwesomeDE) - A desktop environment made in AwesomeWM
 - [chxp82q/awesome-wallpaper](https://github.com/chxp82q/awesome-wallpaper) - 
@@ -3445,7 +3449,6 @@
 - [roddhjav/pass-import](https://github.com/roddhjav/pass-import) - A pass extension for importing data from most existing password managers
 - [archivy/archivy](https://github.com/archivy/archivy) - Archivy is a self-hostable knowledge repository that allows you to learn and retain information in your own personal and extensible wiki.
 - [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 - [audibleblink/doxycannon](https://github.com/audibleblink/doxycannon) - A poorman's proxycannon and botnet, using docker, ovpn files, tor nodes, and dante socks5 proxies
 - [KCarretto/Arsenal](https://github.com/KCarretto/Arsenal) - Extensible Red Team Framework
 - [Tmpertor/Raven-Storm](https://github.com/Tmpertor/Raven-Storm) - Raven-Storm is a powerful DDoS toolkit for penetration tests, including attacks for several protocols written in python. Takedown many connections using several exotic and classic protocols.
@@ -3600,6 +3603,7 @@
 
 ## Roff 
 
+- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
 - [oasislinux/oasis](https://github.com/oasislinux/oasis) - a small statically-linked linux system
 - [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 
@@ -3638,6 +3642,7 @@
 
 ## Rust 
 
+- [BoundaryML/baml](https://github.com/BoundaryML/baml) - The AI framework that adds the engineering to prompt engineering (Python/TS/Ruby/Java/C#/Rust/Go compatible)
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 - [nferhat/fht-compositor](https://github.com/nferhat/fht-compositor) - A dynamic tiling Wayland compositor.
 - [replit/rippkgs](https://github.com/replit/rippkgs) - A CLI for indexing and searching packages in Nix expressions
@@ -4329,6 +4334,7 @@
 
 ## TypeScript 
 
+- [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
 - [nbrown725/SillyTavern-Character-Creator-Chat](https://github.com/nbrown725/SillyTavern-Character-Creator-Chat) - A SillyTavern extension that creates character LLMs.
 - [sst/opentui](https://github.com/sst/opentui) - OpenTUI is a library for building terminal user interfaces (TUIs)
 - [web-agent-master/google-search](https://github.com/web-agent-master/google-search) - A Playwright-based Node.js tool that bypasses search engine anti-scraping mechanisms to execute Google searches. Local alternative to SERP APIs with MCP server integration.
