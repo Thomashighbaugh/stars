@@ -337,6 +337,7 @@
 
 ## CSS 
 
+- [nyxkrage/st-discord-inspired](https://github.com/nyxkrage/st-discord-inspired) - Discord Inspired Theme for SillyTavern
 - [reizumii/parfait](https://github.com/reizumii/parfait) - A tasty theme modification for Firefox 🦊
 - [giulihejt/custom-firefox-bookmarks-toolbar](https://github.com/giulihejt/custom-firefox-bookmarks-toolbar) - Customize your Firefox bookmarks toolbar with custom folder icons, adjustable sizing, icon-only mode, multi-row layout, and auto-hide options. Simple userChrome.css template for a personalized browsin
 - [bmFtZQ/edge-frfox](https://github.com/bmFtZQ/edge-frfox) - A Firefox userChrome.css theme that aims to recreate the look and feel of Microsoft Edge.
@@ -942,6 +943,8 @@
 
 ## JavaScript 
 
+- [unkarelian/timeline-memory](https://github.com/unkarelian/timeline-memory) - A tool-call based memory system for SillyTavern
+- [IceFog72/SillyTavern-ProbablyTooManyTabs](https://github.com/IceFog72/SillyTavern-ProbablyTooManyTabs) - 
 - [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.
 - [nimit95/Real-world-Design-Patterns-Node-JS](https://github.com/nimit95/Real-world-Design-Patterns-Node-JS) - All the 23 (GoF) design patterns implemented in Javascript with Real World Example using Node.js APIs
 - [ejpir/CVE-2025-55182-research](https://github.com/ejpir/CVE-2025-55182-research) - CVE-2025-55182 POC
@@ -2617,6 +2620,9 @@
 
 ## Others 
 
+- [unkarelian/timeline-extension-prompts](https://github.com/unkarelian/timeline-extension-prompts) - Prompts for the timeline extension
+- [cha1latte/universal-lorebook-creator](https://github.com/cha1latte/universal-lorebook-creator) - Auto-generate SillyTavern lorebooks from lore text using AI
+- [IceFog72/ST-Basic-Discord-Layout-Theme](https://github.com/IceFog72/ST-Basic-Discord-Layout-Theme) - Basic Discord layout theme for SillyTavern
 - [Min3Mast3r4653/SillyTavern-Extensions-and-Themes](https://github.com/Min3Mast3r4653/SillyTavern-Extensions-and-Themes) - A list of extensions and themes for SillyTavern.
 - [SepsisShock/GLM_4.6](https://github.com/SepsisShock/GLM_4.6) - 
 - [LimeBlogs/Sudachi-Next](https://github.com/LimeBlogs/Sudachi-Next) - A SillyTavern Preset｜一个给酒馆使用的预设
@@ -4065,7 +4071,6 @@
 - [Quiterion/dotfiles](https://github.com/Quiterion/dotfiles) - Dotfiles for my i3 Arch setup, uploaded for redundancy and easy installation on new machines
 - [zoddDev/dotfiles](https://github.com/zoddDev/dotfiles) - My bspwm dotfiles. Get whatever you need! :)
 - [Tomas-M/linux-live](https://github.com/Tomas-M/linux-live) - Linux Live Kit
-- [saymoncoppi/xlunchr](https://github.com/saymoncoppi/xlunchr) - A simple xlunch modernization
 - [klausweiss/dotfiles](https://github.com/klausweiss/dotfiles) - 
 - [Manas140/sh](https://github.com/Manas140/sh) - Collection Of My Sh Scripts.
 - [leahneukirchen/hrmpf](https://github.com/leahneukirchen/hrmpf) - hrmpf rescue system, built on Void Linux
@@ -4334,6 +4339,7 @@
 
 ## TypeScript 
 
+- [endege/JS-Slash-Runner](https://github.com/endege/JS-Slash-Runner) - 
 - [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
 - [nbrown725/SillyTavern-Character-Creator-Chat](https://github.com/nbrown725/SillyTavern-Character-Creator-Chat) - A SillyTavern extension that creates character LLMs.
 - [sst/opentui](https://github.com/sst/opentui) - OpenTUI is a library for building terminal user interfaces (TUIs)
@@ -4355,7 +4361,7 @@
 - [JMPerez/spotify-dedup](https://github.com/JMPerez/spotify-dedup) - Remove duplicates from your Spotify Playlists
 - [SwordTM/Oraculum](https://github.com/SwordTM/Oraculum) - AI Powered Assistant that helps connect current knowledge in your Obsidian vault to enhance idea generation.
 - [atasoya/komutan](https://github.com/atasoya/komutan) - A CLI tool for creating and managing CommanderJS CLI tools inspired by cobra-cli
-- [Gerome-Elassaad/CodingIT](https://github.com/Gerome-Elassaad/CodingIT) - Open-source, AI app builder web template demo 🌟 Star to support the project!
+- [Gerome-Elassaad/CodingIT](https://github.com/Gerome-Elassaad/CodingIT) - CodinIT.dev | Open-source, AI app builder prototype 🌟 Star to support the project!
 - [allister-grange/startertab](https://github.com/allister-grange/startertab) - A custom new tab page, keeping all the best info handy (a work in progress, feedback is invaluable)
 - [garado/auriga](https://github.com/garado/auriga) - overengineered linux desktop
 - [easychen/airole](https://github.com/easychen/airole) - Effortless AI Character Card Creator that Start with Image
