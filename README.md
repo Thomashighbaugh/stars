@@ -482,7 +482,6 @@
 - [cascadefox/cascade](https://github.com/cascadefox/cascade) - A responsive One-Line CSS Theme for Firefox
 - [rtkay123/dotfiles](https://github.com/rtkay123/dotfiles) - 
 - [halfmoonui/halfmoon](https://github.com/halfmoonui/halfmoon) - Halfmoon is a highly customizable, drop-in Bootstrap replacement. It comes with three built-in core themes, with dark mode support for all themes and components.
-- [MartinKavik/kavik.cz](https://github.com/MartinKavik/kavik.cz) - Personal website in Rust.
 - [FrenzyExists/dotfiles](https://github.com/FrenzyExists/dotfiles) - My chaotic dotfiles, it ain't much, but its honest work
 - [ProgrammingFonts/ProgrammingFonts](https://github.com/ProgrammingFonts/ProgrammingFonts) - This is a collection of programming fonts, just share this with the programmers. Now there are 108 kinds of fantastic fonts!
 - [Tsuyoken/dotfiles](https://github.com/Tsuyoken/dotfiles) - Backup Dotfiles
@@ -673,6 +672,7 @@
 - [antonmedv/walk](https://github.com/antonmedv/walk) - Terminal file manager
 - [a-h/ollama2nix](https://github.com/a-h/ollama2nix) - Create a Nix expression for ollama repos.
 - [Achno/gocheat](https://github.com/Achno/gocheat) - A beautiful customizable TUI Cheatsheet for keybindings,hotkeys and more in the terminal
+- [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) - Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
@@ -710,7 +710,6 @@
 - [FyshOS/fynedesk](https://github.com/FyshOS/fynedesk) - A full desktop environment for Linux/Unix using Fyne
 - [codenotary/immudb](https://github.com/codenotary/immudb) - immudb - immutable database based on zero trust, SQL/Key-Value/Document model, tamperproof, data change history
 - [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems
-- [nikvdp/neomux](https://github.com/nikvdp/neomux) - Control Neovim from shells running inside Neovim.
 - [KCarretto/paragon](https://github.com/KCarretto/paragon) - Red Team engagement platform with the goal of unifying offensive tools behind a simple UI
 - [tvrzna/emptty](https://github.com/tvrzna/emptty) - Dead simple CLI Display Manager on TTY
 - [nknorg/nkn](https://github.com/nknorg/nkn) - Official Go implementation of NKN full node.
@@ -942,6 +941,8 @@
 
 ## JavaScript 
 
+- [Sovex666/SillyTavern-CharacterStyleCustomizer](https://github.com/Sovex666/SillyTavern-CharacterStyleCustomizer) - Character Style Customizer lets you assign custom colors and CSS styles to each character or persona in SillyTavern.
+- [IceFog72/SillyTavern-CustomThemeStyleInputs](https://github.com/IceFog72/SillyTavern-CustomThemeStyleInputs) - 
 - [gusta01010/SillyTavern-Smart-Dialogue-Colorizer-Extended](https://github.com/gusta01010/SillyTavern-Smart-Dialogue-Colorizer-Extended) - SillyTavern extension with intelligent dialogue color extraction and quality filtering
 - [unkarelian/timeline-memory](https://github.com/unkarelian/timeline-memory) - A tool-call based memory system for SillyTavern
 - [IceFog72/SillyTavern-ProbablyTooManyTabs](https://github.com/IceFog72/SillyTavern-ProbablyTooManyTabs) - 
@@ -1079,7 +1080,6 @@
 - [DisboxApp/web](https://github.com/DisboxApp/web) - Use Discord as a file storage service.
 - [lencx/Noi](https://github.com/lencx/Noi) - 🚀 Power Your World with AI - Explore, Extend, Empower.
 - [Pythonnego/CrackedBlackFriday-GPTs-Prompts](https://github.com/Pythonnego/CrackedBlackFriday-GPTs-Prompts) - List of free GPTs that doesn't require plus subscription
-- [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) - Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [thesephist/thingboard](https://github.com/thesephist/thingboard) - A board of things, anywhere you want on the screen
 - [anup-a/svgwave](https://github.com/anup-a/svgwave) - SVG Wave is a tiny, free and beautiful SVG gradient waves generator for your next design.
 - [DustinBrett/daedalOS](https://github.com/DustinBrett/daedalOS) - Desktop environment in the browser
@@ -1271,7 +1271,7 @@
 - [piskelapp/piskel](https://github.com/piskelapp/piskel) - A simple web-based tool for Spriting and Pixel art.
 - [Splode/jin](https://github.com/Splode/jin) - A CLI app for taking simple notes without ever leaving the terminal.
 - [IonicaBizau/idea](https://github.com/IonicaBizau/idea) - :bulb: A lightweight CLI tool and module for keeping ideas in a safe place quick and easy.
-- [pop-os/cosmic](https://github.com/pop-os/cosmic) - GNOME Shell extension. See cosmic-epoch for COSMIC Epoch
+- [pop-os/gnome-shell-extension-pop-cosmic](https://github.com/pop-os/gnome-shell-extension-pop-cosmic) - GNOME Shell extension. See cosmic-epoch for COSMIC Epoch
 - [Sporif/firefox-quantum-userchromejs](https://github.com/Sporif/firefox-quantum-userchromejs) - Firefox Quantum-compatible custom javascript in browser context — no extension, userChromeJS replacement
 - [skygear-demo/skypad](https://github.com/skygear-demo/skypad) - Skypad
 - [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io
@@ -1281,6 +1281,7 @@
 - [aminomancer/uc.css.js](https://github.com/aminomancer/uc.css.js) - A dark indigo CSS theme for Firefox and a large collection of privileged scripts to add new buttons, menus, behaviors and other opinionated features. The theme is similar to other userChrome styleshee
 - [MrOtherGuy/fx-autoconfig](https://github.com/MrOtherGuy/fx-autoconfig) - Load custom javascript in browser context
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
+- [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
 - [webpack/webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AM
 - [expressjs/express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
 - [chartjs/Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the &lt;canvas&gt; tag
@@ -1402,7 +1403,6 @@
 - [deepjyoti30/startpage](https://github.com/deepjyoti30/startpage) - A minimal starpage for Chrome and Firefox
 - [arkenfox/user.js](https://github.com/arkenfox/user.js) - Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening
 - [h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
-- [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 - [Kristories/awesome-guidelines](https://github.com/Kristories/awesome-guidelines) - A curated list of high quality coding style conventions and standards.
 - [aluxian/nwjs-starter](https://github.com/aluxian/nwjs-starter) - :zap: NW.js starter project powered by Gulp. :zap:
 - [richardtaylordawson/pwa-shields](https://github.com/richardtaylordawson/pwa-shields) - Personalize your app's README with custom, fun, PWA shields in SVG
@@ -2617,6 +2617,7 @@
 
 ## Others 
 
+- [prolix-oc/ST-Presets](https://github.com/prolix-oc/ST-Presets) - 
 - [unkarelian/timeline-extension-prompts](https://github.com/unkarelian/timeline-extension-prompts) - Prompts for the timeline extension
 - [cha1latte/universal-lorebook-creator](https://github.com/cha1latte/universal-lorebook-creator) - Auto-generate SillyTavern lorebooks from lore text using AI
 - [IceFog72/ST-Basic-Discord-Layout-Theme](https://github.com/IceFog72/ST-Basic-Discord-Layout-Theme) - Basic Discord layout theme for SillyTavern
@@ -2651,7 +2652,6 @@
 - [chuanqisun/memo](https://github.com/chuanqisun/memo) - A personal knowledge base, a Today I Learned (TIL) journal, A Second brain. Automated with osmos::memo
 - [AYaroslavskiy91/obsidian-starter-vault](https://github.com/AYaroslavskiy91/obsidian-starter-vault) - A starter vault in Obsidian for both work and personal knowledge management, complete with seamless workflows.
 - [danielrosehill/My-LLM-KM-Idea](https://github.com/danielrosehill/My-LLM-KM-Idea) - "High level" documentation/thinking for a system I'm working on for storing large language model (LLM) derived information in a graph-backed knowledge base system
-- [akusayudodograu/Agentic-RAG-Story-Generation-with-Multimodal-GenAI](https://github.com/akusayudodograu/Agentic-RAG-Story-Generation-with-Multimodal-GenAI) - Multimodal Agentic GenAI Workflow – Seamlessly blends retrieval and generation for intelligent storytelling
 - [natpen/awesome-wayland](https://github.com/natpen/awesome-wayland) - A curated list of Wayland code and resources.
 - [Thomashighbaugh/Lenovo-Legion-Advanced-Bios](https://github.com/Thomashighbaugh/Lenovo-Legion-Advanced-Bios) - The contents of the flashdrive (and an ISO) that when booted from, I can access the Advanced Bios on my Legion Pro 5 16irx9
 - [jim-schwoebel/awesome_ai_agents](https://github.com/jim-schwoebel/awesome_ai_agents) - 🤖 A comprehensive list of 1,500+ resources and tools related to AI agents.
@@ -3138,7 +3138,7 @@
 - [yanshengjia/ml-road](https://github.com/yanshengjia/ml-road) - Machine Learning and Agentic AI Resources, Practice and Research
 - [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin9938
 - [benapetr/clia](https://github.com/benapetr/clia) - Simple stupid LLM based CLI Agent
-- [annaexists/pinterest-bulk-pinner](https://github.com/annaexists/pinterest-bulk-pinner) - 
+- [ANNA-xAE/pinterest-bulk-pinner](https://github.com/ANNA-xAE/pinterest-bulk-pinner) - 
 - [oraios/serena](https://github.com/oraios/serena) - A powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server & other integrations)
 - [StonyBrookNLP/appworld](https://github.com/StonyBrookNLP/appworld) - 🌍 AppWorld: A Controllable World of Apps and People for Benchmarking Function Calling and Interactive Coding Agent, ACL'24 Best Resource Paper.
 - [SWE-agent/SWE-ReX](https://github.com/SWE-agent/SWE-ReX) - Sandboxed code execution for AI agents, locally or on the cloud. Massively parallel, easy to extend. Powering SWE-agent and more.
@@ -3367,7 +3367,6 @@
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
-- [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
 - [llm-attacks/llm-attacks](https://github.com/llm-attacks/llm-attacks) - Universal and Transferable Attacks on Aligned Language Models
 - [mhmadmasrwe/w0lgix-tool](https://github.com/mhmadmasrwe/w0lgix-tool) - Some Of  MY TOOLS
 - [huggingface/text-generation-inference](https://github.com/huggingface/text-generation-inference) - Large Language Model Text Generation Inference
@@ -3426,7 +3425,7 @@
 - [opsdisk/pagodo](https://github.com/opsdisk/pagodo) - pagodo (Passive Google Dork) - Automate Google Hacking Database scraping and searching
 - [kieran-mackle/AutoTrader](https://github.com/kieran-mackle/AutoTrader) - A Python-based development platform for automated trading systems - from backtesting to optimisation to livetrading.
 - [ivopetiz/algotrading](https://github.com/ivopetiz/algotrading) - Algorithmic trading framework for cryptocurrencies.
-- [Drakkar-Software/OctoBot](https://github.com/Drakkar-Software/OctoBot) - Open source crypto trading bot
+- [Drakkar-Software/OctoBot](https://github.com/Drakkar-Software/OctoBot) - Free open source crypto trading bot to automate AI, Grid, DCA and TradingView strategies on Binance, Hyperliquid and 15+ exchanges, with a simple interface.
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
 - [kovidgoyal/kitty-themes](https://github.com/kovidgoyal/kitty-themes) - Themes for the kitty terminal emulator
 - [qtile/qtile](https://github.com/qtile/qtile) - :cookie: A full-featured, hackable tiling window manager written and configured in Python (X11 + Wayland)
@@ -3682,7 +3681,7 @@
 - [lencx/nofwl](https://github.com/lencx/nofwl) - NoFWL Desktop Application
 - [nix-community/nix-index](https://github.com/nix-community/nix-index) - Quickly locate nix packages with specific files [maintainers=@bennofs @figsoda @raitobezarius]
 - [JohnnyMorganz/StyLua](https://github.com/JohnnyMorganz/StyLua) - A Lua code formatter
-- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command. 一键打包网页生成轻量桌面应用
+- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
 - [BrianHicks/nix-script](https://github.com/BrianHicks/nix-script) - write scripts in compiled languages that run in the nix ecosystem, with no separate build step
 - [chroma-core/chroma](https://github.com/chroma-core/chroma) - Open-source search and retrieval database for AI applications.
 - [char/charwiki](https://github.com/char/charwiki) - Personal wiki software in Rust (using axum)
@@ -3764,6 +3763,7 @@
 - [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 - [rust-cv/cv](https://github.com/rust-cv/cv) - Rust CV mono-repo. Contains pure-Rust dependencies which attempt to encapsulate the capability of OpenCV, OpenMVG, and vSLAM frameworks in a cohesive set of APIs.
 - [sminez/penrose](https://github.com/sminez/penrose) - A library for writing an X11 tiling window manager
+- [MartinKavik/kavik.cz](https://github.com/MartinKavik/kavik.cz) - Personal website in Rust.
 - [elkowar/eww](https://github.com/elkowar/eww) - ElKowars wacky widgets
 - [Kintaro/wtftw](https://github.com/Kintaro/wtftw) - Window Tiling For The Win. A tiling window manager written in Rust
 - [perceptia/perceptia](https://github.com/perceptia/perceptia) - Dynamic window manager with support for Wayland
@@ -4584,7 +4584,6 @@
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 - [notemarks/notemarks](https://github.com/notemarks/notemarks) - A git based labeling app to manage notes, documents, and bookmarks.
 - [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
-- [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
 - [mvximenko/dunno](https://github.com/mvximenko/dunno) - Simplified version of IMDb
 - [KaterinaLupacheva/my-projects-dashboard](https://github.com/KaterinaLupacheva/my-projects-dashboard) - Next.js, Material UI, MongoDB Personal Dashboard with dev.to, GitHub, Twitter, and npm API integration.
 - [darekkay/dashboard](https://github.com/darekkay/dashboard) - Customizable personal dashboard and startpage
@@ -4712,6 +4711,7 @@
 - [raziman18/artix-dotfiles](https://github.com/raziman18/artix-dotfiles) - My Artix linux dotfiles
 - [Ham5andw1ch/NewDots](https://github.com/Ham5andw1ch/NewDots) - Updated dotfiles since I'm too lazy to touch the old repo.
 - [hiecaq/dotfiles](https://github.com/hiecaq/dotfiles) - My dotfiles that set the world I live in
+- [nikvdp/neomux](https://github.com/nikvdp/neomux) - Control Neovim from shells running inside Neovim.
 - [sheerun/vim-polyglot](https://github.com/sheerun/vim-polyglot) - A solid language pack for Vim.
 - [lambdalisue/vim-suda](https://github.com/lambdalisue/vim-suda) - 🥪 An alternative sudo.vim for Vim and Neovim, limited support sudo in Windows
 - [vimwiki/vimwiki](https://github.com/vimwiki/vimwiki) - Personal Wiki for Vim
@@ -4753,6 +4753,7 @@
 - [Schroedinger-Hat/ImageGoNord-Web](https://github.com/Schroedinger-Hat/ImageGoNord-Web) - A tool that can convert your rgb images to nordtheme palette
 - [lostdesign/webgems](https://github.com/lostdesign/webgems) - A curated list of resources for devs and designers. Join me on devcord.com if you are up for a chit chat :)
 - [Litarvan/lightdm-webkit-theme-litarvan](https://github.com/Litarvan/lightdm-webkit-theme-litarvan) - Litarvan's LightDM HTML Theme
+- [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 - [Exauthor/lightdm-webkit-theme-osmos](https://github.com/Exauthor/lightdm-webkit-theme-osmos) - Osmos
 - [bencodezen/vuepress-blog-boilerplate](https://github.com/bencodezen/vuepress-blog-boilerplate) - An ever-evolving and opinionated dev environment for people who want to use VuePress to power their blogs.
 - [oleksiikhr/Social-Cleaner](https://github.com/oleksiikhr/Social-Cleaner) - Cleaning of any data (wall, documents, video, image, etc.) from various social networks with logs and preliminary verification
