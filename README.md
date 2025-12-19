@@ -4345,7 +4345,7 @@
 - [nbrown725/SillyTavern-Character-Creator-Chat](https://github.com/nbrown725/SillyTavern-Character-Creator-Chat) - A SillyTavern extension that creates character LLMs.
 - [sst/opentui](https://github.com/sst/opentui) - OpenTUI is a library for building terminal user interfaces (TUIs)
 - [web-agent-master/google-search](https://github.com/web-agent-master/google-search) - A Playwright-based Node.js tool that bypasses search engine anti-scraping mechanisms to execute Google searches. Local alternative to SERP APIs with MCP server integration.
-- [nicotsx/zerobyte](https://github.com/nicotsx/zerobyte) - Backup automation for self-hosters
+- [nicotsx/zerobyte](https://github.com/nicotsx/zerobyte) - Backup automation for self-hosters. Built on top of restic
 - [vercel/next-devtools-mcp](https://github.com/vercel/next-devtools-mcp) - Next.js Development for Coding Agent
 - [Nano-Collective/nanocoder](https://github.com/Nano-Collective/nanocoder) - A beautiful local-first coding agent running in your terminal - built by the community for the community ⚒
 - [bradennapier/character-cards-v2](https://github.com/bradennapier/character-cards-v2) - The missing (AI Generated) Character Card explainer
