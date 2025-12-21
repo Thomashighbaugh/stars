@@ -920,6 +920,7 @@
 
 ## Java 
 
+- [dic1911/Momogram](https://github.com/dic1911/Momogram) - A third-party Telegram android app.
 - [metaloom/video4j-fingerprint](https://github.com/metaloom/video4j-fingerprint) - Digital Video Fingerprinting Implementation for Video4j
 - [JesusFreke/smali](https://github.com/JesusFreke/smali) - smali/baksmali
 - [tanjeffreyz/github-statistics](https://github.com/tanjeffreyz/github-statistics) - GitHub stat tracker that uses GraphQL to retrieve both public and private user statistics, which can then be displayed on profile READMEs
@@ -941,6 +942,8 @@
 
 ## JavaScript 
 
+- [ResoluteTear/Draft-Hider](https://github.com/ResoluteTear/Draft-Hider) - Hide your last user message with a click of a button!
+- [b4bysw0rld/SillyTavern-TypefaceR](https://github.com/b4bysw0rld/SillyTavern-TypefaceR) - A SillyTavern extension that allows you to customize fonts for chat messages, including support for local system fonts and Google Fonts.
 - [Sovex666/SillyTavern-CharacterStyleCustomizer](https://github.com/Sovex666/SillyTavern-CharacterStyleCustomizer) - Character Style Customizer lets you assign custom colors and CSS styles to each character or persona in SillyTavern.
 - [IceFog72/SillyTavern-CustomThemeStyleInputs](https://github.com/IceFog72/SillyTavern-CustomThemeStyleInputs) - 
 - [gusta01010/SillyTavern-Smart-Dialogue-Colorizer-Extended](https://github.com/gusta01010/SillyTavern-Smart-Dialogue-Colorizer-Extended) - SillyTavern extension with intelligent dialogue color extraction and quality filtering
@@ -1210,7 +1213,6 @@
 - [zero-to-mastery/JS_Fun_Practice](https://github.com/zero-to-mastery/JS_Fun_Practice) - A list of small & fun functional programming exercises in JavaScript
 - [bgoonz/Markdown-Templates](https://github.com/bgoonz/Markdown-Templates) - 
 - [ollelauribostrom/rebus](https://github.com/ollelauribostrom/rebus) - 🌟 👣 Take your first steps as an open source contributor
-- [blocklistproject/Lists](https://github.com/blocklistproject/Lists) - Primary Block Lists
 - [kaiwalyakoparkar/Full-Stack-Development-Learning-Path](https://github.com/kaiwalyakoparkar/Full-Stack-Development-Learning-Path) - This repo contains all the things which I practice while learning the Full-stack web development
 - [octokatherine/readme.so](https://github.com/octokatherine/readme.so) - An online drag-and-drop editor to easily build READMEs
 - [runningcheese/RunningCheese-Firefox](https://github.com/runningcheese/RunningCheese-Firefox) - A Graceful and Powerful Customized Firefox
@@ -3416,6 +3418,7 @@
 - [wodsuz/EasyApplyJobsBot](https://github.com/wodsuz/EasyApplyJobsBot) - A python bot to automatically apply all Linkedin,Glassdoor, etc Easy Apply jobs based on your preferences. Auto login, auto fill additional questions, apply automatically!
 - [offa/android-foss](https://github.com/offa/android-foss) - A list of Free and Open Source Software (FOSS) for Android – saving Freedom and Privacy.
 - [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
+- [blocklistproject/Lists](https://github.com/blocklistproject/Lists) - Primary Block Lists
 - [thezeroalpha/dotfiles](https://github.com/thezeroalpha/dotfiles) - My personal shell configs and stuff
 - [Phoenix124/scribd-downloader](https://github.com/Phoenix124/scribd-downloader) - 
 - [NoahCardoza/audiobookcup-dl](https://github.com/NoahCardoza/audiobookcup-dl) - Download audiobooks from audiobookcup.com
@@ -3593,6 +3596,7 @@
 
 ## QML 
 
+- [antonjah/nix-monitor](https://github.com/antonjah/nix-monitor) - A DMS plugin for monitoring Nix store disk usage and home-manager generations with integrated system management capabilities
 - [caelestia-dots/shell](https://github.com/caelestia-dots/shell) - ‼️ No waybar here ‼️
 - [noctalia-dev/noctalia-shell](https://github.com/noctalia-dev/noctalia-shell) - A sleek and minimal desktop shell thoughtfully crafted for Wayland.
 - [AhmedSaadi0/NibrasShell](https://github.com/AhmedSaadi0/NibrasShell) - A feature-rich Hyprland shell built with Quickshell. Introduces an interactive "Smart Capsule", wallpaper depth effects, and active system monitoring with resource alerts. Includes weather services, a
@@ -4378,7 +4382,7 @@
 - [ssdeanx/deep-research-mcp-server](https://github.com/ssdeanx/deep-research-mcp-server) - MCP Deep Research Server using Gemini creating a Research AI Agent
 - [miurla/morphic](https://github.com/miurla/morphic) - An AI-powered search engine with a generative UI
 - [Radionic/notesify](https://github.com/Radionic/notesify) - A cross-platform, AI-powered note taking app. An open source alternative to NotebookLM.
-- [vivliostyle/create-book](https://github.com/vivliostyle/create-book) - ⚡️ Fast & frictionless book template generator.
+- [vivliostyle/create-book](https://github.com/vivliostyle/create-book) - This project has been moved to the Vivliostyle CLI repository: https://github.com/vivliostyle/vivliostyle-cli/tree/HEAD/packages/create-book
 - [stephanianevado/portfolio](https://github.com/stephanianevado/portfolio) - This is my portfolio showcasing my skills and way of coding ✨
 - [Abrockyt/rsc-dev-portfolio](https://github.com/Abrockyt/rsc-dev-portfolio) - # 💻 rsc-dev-portfolioExplore my developer portfolio, built with Next.js. This project highlights my web development skills and offers a clean, user-friendly experience. 🌟
 - [ntegrals/december](https://github.com/ntegrals/december) - A fully local Loveable, Replit, Bolt, v0 alternative that you can run with your own LLM. No monthly subscriptions, private by default.
