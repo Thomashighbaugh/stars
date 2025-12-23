@@ -709,6 +709,7 @@
 - [OJ/gobuster](https://github.com/OJ/gobuster) - Directory/File, DNS and VHost busting tool written in Go
 - [FyshOS/fynedesk](https://github.com/FyshOS/fynedesk) - A full desktop environment for Linux/Unix using Fyne
 - [codenotary/immudb](https://github.com/codenotary/immudb) - immudb - immutable database based on zero trust, SQL/Key-Value/Document model, tamperproof, data change history
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 - [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems
 - [KCarretto/paragon](https://github.com/KCarretto/paragon) - Red Team engagement platform with the goal of unifying offensive tools behind a simple UI
 - [tvrzna/emptty](https://github.com/tvrzna/emptty) - Dead simple CLI Display Manager on TTY
@@ -1755,6 +1756,7 @@
 - [mdmrk/policromia](https://github.com/mdmrk/policromia) - Lightweight aesthetic AwesomeWM dotfiles 🦜
 - [JayJaySea/dotfiles](https://github.com/JayJaySea/dotfiles) - 
 - [kosorin/awesome-rice](https://github.com/kosorin/awesome-rice) - Opinionated config for Awesome window manager.
+- [kclejeune/system](https://github.com/kclejeune/system) - Declarative system configurations using nixOS, nix-darwin, and home-manager
 - [RaphaeleL/nvim](https://github.com/RaphaeleL/nvim) - My Neovim Configuration
 - [hadronized/config](https://github.com/hadronized/config) - My main configuration files
 - [cjnucette/nvim.lazy](https://github.com/cjnucette/nvim.lazy) - nvim using lazy.nvim plugin manager
@@ -2334,7 +2336,6 @@
 - [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations
 - [Frost-Phoenix/nixos-config](https://github.com/Frost-Phoenix/nixos-config) - ❄️ NixOs / Hyprland rice with Home-Manager ❄️
 - [Lehmanator/nix-configs](https://github.com/Lehmanator/nix-configs) - Personal Nix / NixOS configs
-- [gabrieldlima/dotfiles](https://github.com/gabrieldlima/dotfiles) - NixOS && Home-Manager dotfiles
 - [IogaMaster/dotfiles](https://github.com/IogaMaster/dotfiles) - My NixOS flake.
 - [divnix/flake-bootstrap](https://github.com/divnix/flake-bootstrap) - 
 - [kira-bruneau/nixos-config](https://github.com/kira-bruneau/nixos-config) - My NixOS configuration. Mirror of code maintained at gitlab.com.
@@ -2535,7 +2536,6 @@
 - [the-nix-way/dev-templates](https://github.com/the-nix-way/dev-templates) - Dev environments for numerous languages based on Nix flakes [maintainer=@lucperkins]
 - [wagdav/homelab](https://github.com/wagdav/homelab) - Because at home you keep devopsing
 - [jakehamilton/config](https://github.com/jakehamilton/config) - My Nix configuration for packages, systems, etc.
-- [kclejeune/system](https://github.com/kclejeune/system) - Declarative system configurations using nixOS, nix-darwin, and home-manager
 - [reckenrode/nixos-configs](https://github.com/reckenrode/nixos-configs) - My NixOS and nix-darwin configs
 - [ZilchOS/core](https://github.com/ZilchOS/core) - ZilchOS Core, a decidedly tiny Nix-based distro to play with
 - [Sanatana-Linux/nixos-config](https://github.com/Sanatana-Linux/nixos-config) - Immutable, reproducible, aesthetic, all-encompassing.
@@ -3288,6 +3288,7 @@
 - [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) - Focus on prompting and generating
 - [chtmp223/topicGPT](https://github.com/chtmp223/topicGPT) - TopicGPT: A Prompt-Based Framework for Topic Modeling (NAACL'24)
 - [GinoCipo/AI_book_generator](https://github.com/GinoCipo/AI_book_generator) - 
+- [gabrieldlima/dotfiles](https://github.com/gabrieldlima/dotfiles) - My dotfiles
 - [Agapitus1/Python-Decoding-a-Message-from-a-Text-File](https://github.com/Agapitus1/Python-Decoding-a-Message-from-a-Text-File) - In this exercise, you will develop a function named decode(message_file). This function should read an encoded message from a .txt file and return its decoded version as a string.
 - [ryanadoty/Amazon-Bedrock-Document-Generator-POC](https://github.com/ryanadoty/Amazon-Bedrock-Document-Generator-POC) - This is sample code demonstrating the use of Amazon Bedrock and Generative AI to implement a document generation use case. The application is constructed with a simple streamlit frontend where users c
 - [cubinator/ext4](https://github.com/cubinator/ext4) - Reading Ext4 volumes
@@ -3455,7 +3456,6 @@
 - [roddhjav/pass-import](https://github.com/roddhjav/pass-import) - A pass extension for importing data from most existing password managers
 - [archivy/archivy](https://github.com/archivy/archivy) - Archivy is a self-hostable knowledge repository that allows you to learn and retain information in your own personal and extensible wiki.
 - [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 - [audibleblink/doxycannon](https://github.com/audibleblink/doxycannon) - A poorman's proxycannon and botnet, using docker, ovpn files, tor nodes, and dante socks5 proxies
 - [KCarretto/Arsenal](https://github.com/KCarretto/Arsenal) - Extensible Red Team Framework
 - [Tmpertor/Raven-Storm](https://github.com/Tmpertor/Raven-Storm) - Raven-Storm is a powerful DDoS toolkit for penetration tests, including attacks for several protocols written in python. Takedown many connections using several exotic and classic protocols.
