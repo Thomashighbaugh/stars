@@ -786,7 +786,6 @@
 - [killshot13/google-web-stories-template](https://github.com/killshot13/google-web-stories-template) - This is a reference template for creating and editing AMP Web Stories (Google Stories)
 - [phanxuanquang/AI-Handbook](https://github.com/phanxuanquang/AI-Handbook) - The AI models used for my personal purposes and their usage (Gemini, Copilot, Dialogflow,...)
 - [LouisShark/chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt) - A collection of GPT system prompts and various prompt injection/leaking knowledge.
-- [aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) - A one stop repository for generative AI research updates, interview resources, notebooks and much more!
 - [Rishit-dagli/Rishit-dagli](https://github.com/Rishit-dagli/Rishit-dagli) - My GitHub profile README
 - [aitoolsau/EbookWriter](https://github.com/aitoolsau/EbookWriter) - AI powered e-book writer
 - [microsoft/fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons) - Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.
@@ -943,6 +942,7 @@
 
 ## JavaScript 
 
+- [unkarelian/openvault](https://github.com/unkarelian/openvault) - Free and Open Source character memory
 - [ResoluteTear/Draft-Hider](https://github.com/ResoluteTear/Draft-Hider) - Hide your last user message with a click of a button!
 - [b4bysw0rld/SillyTavern-TypefaceR](https://github.com/b4bysw0rld/SillyTavern-TypefaceR) - A SillyTavern extension that allows you to customize fonts for chat messages, including support for local system fonts and Google Fonts.
 - [Sovex666/SillyTavern-CharacterStyleCustomizer](https://github.com/Sovex666/SillyTavern-CharacterStyleCustomizer) - Character Style Customizer lets you assign custom colors and CSS styles to each character or persona in SillyTavern.
@@ -2619,6 +2619,7 @@
 
 ## Others 
 
+- [cha1latte/sillytavern-preset-creator](https://github.com/cha1latte/sillytavern-preset-creator) - Prompts for creating SillyTavern presets with AI - from basic parameters to 60+ module mega-presets
 - [prolix-oc/ST-Presets](https://github.com/prolix-oc/ST-Presets) - 
 - [unkarelian/timeline-extension-prompts](https://github.com/unkarelian/timeline-extension-prompts) - Prompts for the timeline extension
 - [cha1latte/universal-lorebook-creator](https://github.com/cha1latte/universal-lorebook-creator) - Auto-generate SillyTavern lorebooks from lore text using AI
@@ -2758,6 +2759,7 @@
 - [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources
 - [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - A list of awesome beginners-friendly projects.
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
+- [aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) - A one stop repository for generative AI research updates, interview resources, notebooks and much more!
 - [cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications) - A curated list of free courses with certifications. Also available at https://free-certifications.com/
 - [neysofu/awesome-github-actions-runners](https://github.com/neysofu/awesome-github-actions-runners) - Save $$$ and make GitHub Actions go brrr with 3rd-party runners ⚡🤖
 - [xtenzQ/xtenzQ](https://github.com/xtenzQ/xtenzQ) - 📝🚀 Minimalistic profile README.md. Please ⭐ if you like it! ❤
@@ -3997,7 +3999,7 @@
 - [ODEX-TOS/wm-debug](https://github.com/ODEX-TOS/wm-debug) - A simple script to make debugging window manager easier
 - [jaromaz/MacintoshPi](https://github.com/jaromaz/MacintoshPi) - MacintoshPi is a project that allows running full-screen versions of Apple's Mac OS 7, Mac OS 8 and Mac OS 9 with sound, active online connection and modem emulation under Raspberry Pi.
 - [simoniz0r/OpenDM](https://github.com/simoniz0r/OpenDM) - WIP - A simple GUI Display Manager written entirely in bash that uses xinit to start X sessions
-- [elw00d/awesome-deb-docker](https://github.com/elw00d/awesome-deb-docker) - Dockerfile that builds deb package (unofficial) with fresh awesomewm
+- [igor-kostromin/awesome-deb-docker](https://github.com/igor-kostromin/awesome-deb-docker) - Dockerfile that builds deb package (unofficial) with fresh awesomewm
 - [kstep/zsh-config](https://github.com/kstep/zsh-config) - 
 - [hoelzro/zsh-config](https://github.com/hoelzro/zsh-config) - My ZSH configuration
 - [marrobHD/proxmox-tools](https://github.com/marrobHD/proxmox-tools) - 📦 A collection of stuff that I and others wrote for Proxmox 📦
