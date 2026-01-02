@@ -1510,6 +1510,7 @@
 
 ## Jinja 
 
+- [IvanIsCoding/ResuLLMe](https://github.com/IvanIsCoding/ResuLLMe) - Enhance your résumé with Large Language Models
 - [sasha0552/ToriLinux](https://github.com/sasha0552/ToriLinux) - Linux LiveCD for offline AI training and inference.
 - [abilzerian/LLM-Prompt-Library](https://github.com/abilzerian/LLM-Prompt-Library) - A playground of highly experimental prompts, Jinja2 templates & scripts for machine intelligence models from OpenAI, Anthropic, DeepSeek, Meta, Mistral, Google, xAI & others. Alex Bilzerian (2022-2025
 - [geerlingguy/internet-pi](https://github.com/geerlingguy/internet-pi) - Raspberry Pi config for all things Internet.
@@ -3187,7 +3188,6 @@
 - [0xarun/TreeGen](https://github.com/0xarun/TreeGen) - TreeGen is creates real folder and file structures from plain-text blueprints.
 - [Zalexanninev15/GetFreeChat](https://github.com/Zalexanninev15/GetFreeChat) - Automatic collection of free instances of AI text models (ChatGPT, Claude, llama and others)
 - [xtekky/deepseek4free](https://github.com/xtekky/deepseek4free) - Deepseek V3 and R1 private API, deep thinking, search, full requests. pow challenge reversed. deepseek api.
-- [IvanIsCoding/ResuLLMe](https://github.com/IvanIsCoding/ResuLLMe) - Enhance your résumé with Large Language Models
 - [sliday/monoresume](https://github.com/sliday/monoresume) - A minimalist coder portfolio design exploration
 - [l3uddz/dupeFinder](https://github.com/l3uddz/dupeFinder) - Scans a folder looking for duplicate episodes/movies
 - [lorey/obsi](https://github.com/lorey/obsi) - 💎 supercharge your note-taking with index pages, Anki decks, calendar pages, and more.
