@@ -773,7 +773,6 @@
 - [natthasath/vibe-liquid-macos](https://github.com/natthasath/vibe-liquid-macos) - Vibe Liquid macOS brings the sleek look and feel of macOS’s liquid-style interface to your browser. Enjoy smooth animations, elegant design, and intuitive interactions that mimic the macOS experience—
 - [denislemeshko/portfolio-front-end](https://github.com/denislemeshko/portfolio-front-end) - Denis Lemeshko portfolio front-end with CV.pdf
 - [5hubham5ingh/foxpanel](https://github.com/5hubham5ingh/foxpanel) - Highly feature rich, firefox home-page, linux system control panel, built using Baremetal for Arch linux.
-- [utensils/mcp-nixos](https://github.com/utensils/mcp-nixos) - MCP-NixOS - Model Context Protocol Server for NixOS resources
 - [inulute/unlim-cloud](https://github.com/inulute/unlim-cloud) - UnlimCloud provides unlimited cloud storage for your files, utilizing Telegram as the storage solution. Simply log in using your Telegram ID, and you are good to go.
 - [javiereguiluz/easybook](https://github.com/javiereguiluz/easybook) - Book publishing as easy as it should be (built with Symfony components)
 - [EmailThis/typographic-email](https://github.com/EmailThis/typographic-email) - Responsive email template that is optimised for readability.
@@ -921,6 +920,7 @@
 
 ## Java 
 
+- [ibilux/MobyDroid](https://github.com/ibilux/MobyDroid) - Android Device Manager with a Graphic User Interface (GUI) – Manage Android on Linux, Windows and MacOS.
 - [dic1911/Momogram](https://github.com/dic1911/Momogram) - A third-party Telegram android app.
 - [metaloom/video4j-fingerprint](https://github.com/metaloom/video4j-fingerprint) - Digital Video Fingerprinting Implementation for Video4j
 - [JesusFreke/smali](https://github.com/JesusFreke/smali) - smali/baksmali
@@ -943,6 +943,8 @@
 
 ## JavaScript 
 
+- [gusta01010/characters-autorefresh](https://github.com/gusta01010/characters-autorefresh) - A SillyTavern extension that automatically updates the character list when you add or delete a card file without reloading the page.
+- [tomatoesahoy/director](https://github.com/tomatoesahoy/director) - 
 - [imaginezz/whatsthetech](https://github.com/imaginezz/whatsthetech) - 
 - [LenAnderson/SillyTavern-MessageInteractivity](https://github.com/LenAnderson/SillyTavern-MessageInteractivity) - 
 - [BF-GitH/bf-ooc-injection](https://github.com/BF-GitH/bf-ooc-injection) - Stop repetitive AI responses in SillyTavern. Automatically injects randomized narrative instructions every message - varies length, adds plot twists, shifts character behavior & tone. Hidden from hist
@@ -951,7 +953,7 @@
 - [b4bysw0rld/SillyTavern-TypefaceR](https://github.com/b4bysw0rld/SillyTavern-TypefaceR) - A SillyTavern extension that allows you to customize fonts for chat messages, including support for local system fonts and Google Fonts.
 - [Sovex666/SillyTavern-CharacterStyleCustomizer](https://github.com/Sovex666/SillyTavern-CharacterStyleCustomizer) - Character Style Customizer lets you assign custom colors and CSS styles to each character or persona in SillyTavern.
 - [IceFog72/SillyTavern-CustomThemeStyleInputs](https://github.com/IceFog72/SillyTavern-CustomThemeStyleInputs) - 
-- [gusta01010/SillyTavern-Smart-Dialogue-Colorizer-Extended](https://github.com/gusta01010/SillyTavern-Smart-Dialogue-Colorizer-Extended) - SillyTavern extension with intelligent dialogue color extraction and quality filtering
+- [gusta01010/SillyTavern-Smart-Dialogue-Colorizer-Extended](https://github.com/gusta01010/SillyTavern-Smart-Dialogue-Colorizer-Extended) - SillyTavern extension with intelligent syntax coloring and quality filtering. Highly customizable.
 - [unkarelian/timeline-memory](https://github.com/unkarelian/timeline-memory) - A tool-call based memory system for SillyTavern
 - [IceFog72/SillyTavern-ProbablyTooManyTabs](https://github.com/IceFog72/SillyTavern-ProbablyTooManyTabs) - 
 - [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.
@@ -1086,7 +1088,6 @@
 - [xinggsf/uc](https://github.com/xinggsf/uc) - firefox uc JS
 - [tientq64/userscripts](https://github.com/tientq64/userscripts) - 📜 The userscript collection I wrote makes life easier and better.
 - [DisboxApp/web](https://github.com/DisboxApp/web) - Use Discord as a file storage service.
-- [lencx/Noi](https://github.com/lencx/Noi) - 🚀 Power Your World with AI - Explore, Extend, Empower.
 - [Pythonnego/CrackedBlackFriday-GPTs-Prompts](https://github.com/Pythonnego/CrackedBlackFriday-GPTs-Prompts) - List of free GPTs that doesn't require plus subscription
 - [thesephist/thingboard](https://github.com/thesephist/thingboard) - A board of things, anywhere you want on the screen
 - [anup-a/svgwave](https://github.com/anup-a/svgwave) - SVG Wave is a tiny, free and beautiful SVG gradient waves generator for your next design.
@@ -1834,6 +1835,7 @@
 - [serhez/dotfiles](https://github.com/serhez/dotfiles) - Configuration of my working environment.
 - [senchpimy/awesomewmconfig](https://github.com/senchpimy/awesomewmconfig) - 
 - [magalhaesh/awesome](https://github.com/magalhaesh/awesome) - My AwesomeWM configuration. Tried i3 but didn't like it, sorry.
+- [ragu-manjegowda/config](https://github.com/ragu-manjegowda/config) - Profile Management with Git and Github
 - [JimmyCozza/bling](https://github.com/JimmyCozza/bling) - Utilities for the awesome window manager
 - [nivalderramas/awesome-config](https://github.com/nivalderramas/awesome-config) - Config files for awesomeWM
 - [nivalderramas/dotfiles_old](https://github.com/nivalderramas/dotfiles_old) - Personal dotfiles
@@ -2340,7 +2342,6 @@
 - [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - my over complex system configurations
 - [Frost-Phoenix/nixos-config](https://github.com/Frost-Phoenix/nixos-config) - ❄️ NixOs / Hyprland rice with Home-Manager ❄️
 - [Lehmanator/nix-configs](https://github.com/Lehmanator/nix-configs) - Personal Nix / NixOS configs
-- [gabrieldlima/dotfiles](https://github.com/gabrieldlima/dotfiles) - My dotfiles
 - [IogaMaster/dotfiles](https://github.com/IogaMaster/dotfiles) - My entire infrastructure and computing environment.
 - [divnix/flake-bootstrap](https://github.com/divnix/flake-bootstrap) - 
 - [kira-bruneau/nixos-config](https://github.com/kira-bruneau/nixos-config) - My NixOS configuration. Mirror of code maintained at gitlab.com.
@@ -2659,7 +2660,7 @@
 - [jonathandion/awesome-emails](https://github.com/jonathandion/awesome-emails) - ✉️ An awesome list of resources to build better emails.
 - [nicolodiamante/notefy](https://github.com/nicolodiamante/notefy) - Streamline your note-taking with ChatGPT's AI expertise and Whisper's precise transcription, enabling fast and efficient summarising.
 - [chuanqisun/memo](https://github.com/chuanqisun/memo) - A personal knowledge base, a Today I Learned (TIL) journal, A Second brain. Automated with osmos::memo
-- [AYaroslavskiy91/obsidian-starter-vault](https://github.com/AYaroslavskiy91/obsidian-starter-vault) - A starter vault in Obsidian for both work and personal knowledge management, complete with seamless workflows.
+- [alexyaroslavskiy/obsidian-starter-vault](https://github.com/alexyaroslavskiy/obsidian-starter-vault) - A starter vault in Obsidian for both work and personal knowledge management, complete with seamless workflows.
 - [danielrosehill/My-LLM-KM-Idea](https://github.com/danielrosehill/My-LLM-KM-Idea) - "High level" documentation/thinking for a system I'm working on for storing large language model (LLM) derived information in a graph-backed knowledge base system
 - [natpen/awesome-wayland](https://github.com/natpen/awesome-wayland) - A curated list of Wayland code and resources.
 - [Thomashighbaugh/Lenovo-Legion-Advanced-Bios](https://github.com/Thomashighbaugh/Lenovo-Legion-Advanced-Bios) - The contents of the flashdrive (and an ISO) that when booted from, I can access the Advanced Bios on my Legion Pro 5 16irx9
@@ -3148,7 +3149,7 @@
 - [yanshengjia/ml-road](https://github.com/yanshengjia/ml-road) - Machine Learning and Agentic AI Resources, Practice and Research
 - [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin9938
 - [benapetr/clia](https://github.com/benapetr/clia) - Simple stupid LLM based CLI Agent
-- [ANNA-xAE/pinterest-bulk-pinner](https://github.com/ANNA-xAE/pinterest-bulk-pinner) - 
+- [thaafox/pinterest-bulk-pinner](https://github.com/thaafox/pinterest-bulk-pinner) - Bulk upload images to Pinterest boards. Python automation tool.
 - [oraios/serena](https://github.com/oraios/serena) - A powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server & other integrations)
 - [StonyBrookNLP/appworld](https://github.com/StonyBrookNLP/appworld) - 🌍 AppWorld: A Controllable World of Apps and People for Benchmarking Function Calling and Interactive Coding Agent, ACL'24 Best Resource Paper.
 - [SWE-agent/SWE-ReX](https://github.com/SWE-agent/SWE-ReX) - Sandboxed code execution for AI agents, locally or on the cloud. Massively parallel, easy to extend. Powering SWE-agent and more.
@@ -3213,6 +3214,7 @@
 - [TilmanGriesel/chipper](https://github.com/TilmanGriesel/chipper) - ✨ AI interface for tinkerers (Ollama, Haystack RAG, Python)
 - [imarkoff/Marble-shell-theme](https://github.com/imarkoff/Marble-shell-theme) - Shell theme for GNOME DE
 - [TechnicalParadox/GeminiProjectAssistant](https://github.com/TechnicalParadox/GeminiProjectAssistant) - An AI assistant powered by Google Gemini to help you manage, create, and debug your programming projects.
+- [utensils/mcp-nixos](https://github.com/utensils/mcp-nixos) - MCP-NixOS - Model Context Protocol Server for NixOS resources
 - [stacklok/codegate](https://github.com/stacklok/codegate) - CodeGate: Security, Workspaces and Multiplexing for AI Agentic Frameworks
 - [rmusser01/tldw_chatbook](https://github.com/rmusser01/tldw_chatbook) - Standalone Client for tldw_server; NotebookLM(+more) in your terminal; No tracking/Can run entirely offline
 - [darrenburns/elia](https://github.com/darrenburns/elia) - A snappy, keyboard-centric terminal user interface for interacting with large language models. Chat with ChatGPT, Claude, Llama 3, Phi 3, Mistral, Gemma and more.
@@ -3294,6 +3296,7 @@
 - [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) - Focus on prompting and generating
 - [chtmp223/topicGPT](https://github.com/chtmp223/topicGPT) - TopicGPT: A Prompt-Based Framework for Topic Modeling (NAACL'24)
 - [GinoCipo/AI_book_generator](https://github.com/GinoCipo/AI_book_generator) - 
+- [gabrieldlima/dotfiles](https://github.com/gabrieldlima/dotfiles) - My dotfiles
 - [Agapitus1/Python-Decoding-a-Message-from-a-Text-File](https://github.com/Agapitus1/Python-Decoding-a-Message-from-a-Text-File) - In this exercise, you will develop a function named decode(message_file). This function should read an encoded message from a .txt file and return its decoded version as a string.
 - [ryanadoty/Amazon-Bedrock-Document-Generator-POC](https://github.com/ryanadoty/Amazon-Bedrock-Document-Generator-POC) - This is sample code demonstrating the use of Amazon Bedrock and Generative AI to implement a document generation use case. The application is constructed with a simple streamlit frontend where users c
 - [cubinator/ext4](https://github.com/cubinator/ext4) - Reading Ext4 volumes
@@ -3701,7 +3704,7 @@
 - [taikoxyz/taiko-mono](https://github.com/taikoxyz/taiko-mono) - Taiko Alethia based rollup protocol 🥁
 - [oahlen/huevim](https://github.com/oahlen/huevim) - Neovim lua color scheme generator written in Rust.
 - [ntex-rs/ntex](https://github.com/ntex-rs/ntex) - framework for composable networking services
-- [tokio-rs/axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper
+- [tokio-rs/axum](https://github.com/tokio-rs/axum) - HTTP routing and request-handling library for Rust that focuses on ergonomics and modularity
 - [poem-web/poem](https://github.com/poem-web/poem) - A full-featured and easy-to-use web framework with the Rust programming language.
 - [aralroca/aralroca](https://github.com/aralroca/aralroca) - My GitHub profile
 - [isala404/Tera](https://github.com/isala404/Tera) - Tera is an AI assistant which is tailored just for you and runs fully locally.
@@ -3995,7 +3998,6 @@
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 - [lincheney/fzf-tab-completion](https://github.com/lincheney/fzf-tab-completion) - Tab completion using fzf
 - [jorgeloopzz/dotfiles](https://github.com/jorgeloopzz/dotfiles) - ❤️ My dotfiles repo, where you can find all my window managers and apps configurations.
-- [ragu-manjegowda/config](https://github.com/ragu-manjegowda/config) - Profile Management with Git and Github
 - [gusbemacbe/suru-plus-aspromauros](https://github.com/gusbemacbe/suru-plus-aspromauros) - A Suru++-like monochromatic icons theme for users of dark environments
 - [Git-Fal7/artix-buildiso](https://github.com/Git-Fal7/artix-buildiso) - my buildisos for artix linux
 - [dovahkiin0424/artix-install](https://github.com/dovahkiin0424/artix-install) - Simple artix linux installer script. Just clone it and run the .sh file
@@ -4351,6 +4353,7 @@
 
 ## TypeScript 
 
+- [fefnik/wrec](https://github.com/fefnik/wrec) - 
 - [dmitryplyaskin/SillyInnkeeper](https://github.com/dmitryplyaskin/SillyInnkeeper) - SillyInnkeeper is an open-source local character card manager for SillyTavern. It scans PNG cards, extracts metadata, generates previews, and provides a UI for organizing and managing large character 
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [endege/JS-Slash-Runner](https://github.com/endege/JS-Slash-Runner) - 
@@ -4376,7 +4379,7 @@
 - [SwordTM/Oraculum](https://github.com/SwordTM/Oraculum) - AI Powered Assistant that helps connect current knowledge in your Obsidian vault to enhance idea generation.
 - [atasoya/komutan](https://github.com/atasoya/komutan) - A CLI tool for creating and managing CommanderJS CLI tools inspired by cobra-cli
 - [Gerome-Elassaad/CodingIT](https://github.com/Gerome-Elassaad/CodingIT) - CodinIT.dev Demo | Open-source, AI app builder prototype 🌟 Star to support the project!
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open source alternative to NotebookLM, Perplexity, and Glean. Connects to search engines, Slack, Linear, Jira, ClickUp, Notion, Discord, and 15+ more connectors.  Join our Discord: https://discord.gg/
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Connect any LLM to your internal knowledge sources and chat with it in real time alongside your team. OSS alternative to NotebookLM, Perplexity, and Glean. Join our Discord: https://discord.gg/ejRNvft
 - [allister-grange/startertab](https://github.com/allister-grange/startertab) - A custom new tab page, keeping all the best info handy (a work in progress, feedback is invaluable)
 - [garado/auriga](https://github.com/garado/auriga) - overengineered linux desktop
 - [easychen/airole](https://github.com/easychen/airole) - Effortless AI Character Card Creator that Start with Image
@@ -4425,6 +4428,7 @@
 - [austin-starks/Promptimizer](https://github.com/austin-starks/Promptimizer) - An Automated AI-Powered Prompt Optimization Framework
 - [spjpgrd/customize](https://github.com/spjpgrd/customize) - Create customized email signatures
 - [wikibonsai/semtree](https://github.com/wikibonsai/semtree) - Utilities to build a semantic tree (in markdown).
+- [lencx/Noi](https://github.com/lencx/Noi) - 🚀 Less chaos. More flow.
 - [dhavalCode/textshine.ai](https://github.com/dhavalCode/textshine.ai) - AI Powered Writing Tool
 - [mertthesamael/merto-dev](https://github.com/mertthesamael/merto-dev) - 
 - [crosstyan/generate-forever](https://github.com/crosstyan/generate-forever) - a userscript to generate forever for a novel site
@@ -4549,7 +4553,7 @@
 - [yarnpkg/berry](https://github.com/yarnpkg/berry) - 📦🐈 Active development trunk for Yarn ⚒
 - [folke/polydock](https://github.com/folke/polydock) - ✨ A shiny and hackable application dock
 - [edgarlr/magazine](https://github.com/edgarlr/magazine) - Next.js Digital Magazine Starter Kit
-- [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
+- [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
 - [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The sol
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 - [brianlovin/briOS](https://github.com/brianlovin/briOS) - My personal website.
@@ -4628,7 +4632,7 @@
 - [heysafronov/square-react-dashboard](https://github.com/heysafronov/square-react-dashboard) - [2018] React Dashboard Template built with TypeScript
 - [motiondivision/motion](https://github.com/motiondivision/motion) - A modern animation library for React and JavaScript
 - [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
-- [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Progressive Web Framework.
+- [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Full-Stack Vue Framework.
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [hexojs/hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
 - [effector/effector](https://github.com/effector/effector) - Business logic with ease ☄️
