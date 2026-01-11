@@ -951,7 +951,7 @@
 - [tomatoesahoy/director](https://github.com/tomatoesahoy/director) - 
 - [imaginezz/whatsthetech](https://github.com/imaginezz/whatsthetech) - 
 - [LenAnderson/SillyTavern-MessageInteractivity](https://github.com/LenAnderson/SillyTavern-MessageInteractivity) - 
-- [BF-GitH/bf-ooc-injection](https://github.com/BF-GitH/bf-ooc-injection) - Stop repetitive AI responses in SillyTavern. Automatically injects randomized narrative instructions every message - varies length, adds plot twists, shifts character behavior & tone. Hidden from hist
+- [BF-GitH/bf-ooc-injection](https://github.com/BF-GitH/bf-ooc-injection) - SillyTavern extension that prevents repetitive LLM responses through automated, randomized prompt injection. Clean history, zero maintenance.
 - [unkarelian/openvault](https://github.com/unkarelian/openvault) - Free and Open Source character memory
 - [ResoluteTear/Draft-Hider](https://github.com/ResoluteTear/Draft-Hider) - Hide your last user message with a click of a button!
 - [b4bysw0rld/SillyTavern-TypefaceR](https://github.com/b4bysw0rld/SillyTavern-TypefaceR) - A SillyTavern extension that allows you to customize fonts for chat messages, including support for local system fonts and Google Fonts.
@@ -1588,7 +1588,6 @@
 
 - [YangDai2003/Kori](https://github.com/YangDai2003/Kori) - AI-powered Markdown notepad built with Compose Multiplatform.
 - [Kvaesitso/Plugin-GoogleApps](https://github.com/Kvaesitso/Plugin-GoogleApps) - 
-- [kumarsushil10/journal-note](https://github.com/kumarsushil10/journal-note) - Check out Simple Android jetpack compose based app build for making notes
 - [fork-maintainers/iceraven-browser](https://github.com/fork-maintainers/iceraven-browser) - Iceraven Browser
 - [iamrasel/lunar-launcher](https://github.com/iamrasel/lunar-launcher) - Feature rich android home with minimal look. 🇵🇸
 - [udevbe/westford](https://github.com/udevbe/westford) - Westford Wayland Compositor
