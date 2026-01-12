@@ -417,7 +417,7 @@
 - [tablecheck/vesper-icons](https://github.com/tablecheck/vesper-icons) - Vesper Icons: Icons for your app, compatible with FontAwesome
 - [iconic/open-iconic](https://github.com/iconic/open-iconic) - An open source icon set with 223 marks in SVG, webfont and raster formats
 - [mingcute-design/mingcute-icons](https://github.com/mingcute-design/mingcute-icons) - Carefully Designed Icon Library. MingCute is a set of simple and exquisite open-source icon library. Whether you're a designer or a developer, it's perfect for use in web and mobile.
-- [atisawd/boxicons](https://github.com/atisawd/boxicons) - High Quality web friendly icons
+- [box-icons/boxicons](https://github.com/box-icons/boxicons) - High Quality web friendly icons
 - [basscss/basscss](https://github.com/basscss/basscss) - Low-level CSS Toolkit – the original Functional/Utility/Atomic CSS library
 - [teotimepacreau/Swiss-International-Style-Responsive](https://github.com/teotimepacreau/Swiss-International-Style-Responsive) - Responsive and accessible International Typographic Style classical posters web adaptation.
 - [Godiesc/firefox-one](https://github.com/Godiesc/firefox-one) - Firefox Theme for Opera One skin Lovers
@@ -922,6 +922,7 @@
 
 ## Java 
 
+- [Aegis-plus/SillyTavern-Android](https://github.com/Aegis-plus/SillyTavern-Android) - A lightweight Android launcher for SillyTavern, providing a full-screen WebView experience with native support for file uploads, camera, and microphone.
 - [ibilux/MobyDroid](https://github.com/ibilux/MobyDroid) - Android Device Manager with a Graphic User Interface (GUI) – Manage Android on Linux, Windows and MacOS.
 - [dic1911/Momogram](https://github.com/dic1911/Momogram) - A third-party Telegram android app.
 - [metaloom/video4j-fingerprint](https://github.com/metaloom/video4j-fingerprint) - Digital Video Fingerprinting Implementation for Video4j
@@ -945,6 +946,7 @@
 
 ## JavaScript 
 
+- [Therosin/ST-Extension-Lua](https://github.com/Therosin/ST-Extension-Lua) - Provides Lua scripting support for ST
 - [Loggo-presets/SillyTavern-SpellBook](https://github.com/Loggo-presets/SillyTavern-SpellBook) - The Spell Book: Markdown Notepad for SillyTavern A feature-rich, glassmorphism-style floating notepad extension. Organize your notes, spell lores, references, and creative content with style.
 - [LenAnderson/SillyTavern-Lore-Variables](https://github.com/LenAnderson/SillyTavern-Lore-Variables) - Variable manager for lorebook / world info entries.
 - [gusta01010/characters-autorefresh](https://github.com/gusta01010/characters-autorefresh) - A SillyTavern extension that automatically updates the character list when you add or delete a card file without reloading the page.
@@ -1147,7 +1149,7 @@
 - [lelouchB/next-image-gallery](https://github.com/lelouchB/next-image-gallery) - Image Gallery built with Next.js, Pexels API and Chakra UI.
 - [Alex313031/Mercury](https://github.com/Alex313031/Mercury) - Firefox fork with compiler optimizations and patches from Librewolf, Waterfox, and GNU IceCat.
 - [SimonWaldherr/AI-Book-Generator](https://github.com/SimonWaldherr/AI-Book-Generator) - kickstart your book writing process with AI (Proof of concept)
-- [farshed/duofolio](https://github.com/farshed/duofolio) - An ebook reader for linguaphiles 📖
+- [farshed/duofolio](https://github.com/farshed/duofolio) - Ebook reader for linguaphiles 📖
 - [barretlee/kindleBookMaker](https://github.com/barretlee/kindleBookMaker) - Kindle Book Maker with KindleGen, Make Book from RSS/single URL/directory and so on.
 - [easychen/book-by-ai](https://github.com/easychen/book-by-ai) - Generate high-quality books with AI
 - [Ede123/userscripts](https://github.com/Ede123/userscripts) - My humble collection of userscripts!
@@ -1921,7 +1923,6 @@
 - [ashincoder/StarVim](https://github.com/ashincoder/StarVim) - A neovim IDE which is beyond the moon 🌚
 - [mike325/nvim](https://github.com/mike325/nvim) - My personal lua configs for latest stable and nightly neovim
 - [Ham5andw1ch/AwesomeWM-Unity](https://github.com/Ham5andw1ch/AwesomeWM-Unity) - An attempt to recreate the Ubuntu Unity workflow in AwesomeWM
-- [EdenEast/nyx](https://github.com/EdenEast/nyx) - ⚙️Nix[OS] Configuration
 - [jazz-g/shining-plum](https://github.com/jazz-g/shining-plum) - Dotfiles for r/unixporn
 - [fedepujol/move.nvim](https://github.com/fedepujol/move.nvim) - Gain the power to move lines and blocks and auto-indent them!
 - [BlackArch/blackarch-iso](https://github.com/BlackArch/blackarch-iso) - BlackArch Linux ISOs
@@ -2600,6 +2601,7 @@
 - [utdemir/dotfiles-nix](https://github.com/utdemir/dotfiles-nix) - Comprehensive configurations of my NixOS workstations and home server.
 - [LEXUGE/nixos](https://github.com/LEXUGE/nixos) - A fully automated replicable nixos configuration set
 - [davidtwco/veritas](https://github.com/davidtwco/veritas) - @davidtwco's deprecated personal mono-repo - containing the declarative configuration of servers, desktops and laptops - including dotfiles; a collection of packages; a static site generator and sourc
+- [EdenEast/nyx](https://github.com/EdenEast/nyx) - ⚙️Nix[OS] Configuration
 - [numtide/devshell](https://github.com/numtide/devshell) - Per project developer environments
 - [hlissner/dotfiles](https://github.com/hlissner/dotfiles) - And I say hey, what's going on?
 - [ivanbrennan/nixbox](https://github.com/ivanbrennan/nixbox) - NixOS configuration
@@ -2631,6 +2633,7 @@
 
 ## Others 
 
+- [zebbern/no-cost-ai](https://github.com/zebbern/no-cost-ai) - A Collection of no cost ai websites with models such as Claude 4 sonnet/opus, Grok 4, o3 Pro, Gemini 2.5 Pro for free & much more...
 - [sakanomichi/LumiaDLC](https://github.com/sakanomichi/LumiaDLC) - Personality packs and prompts/alterations for Lucid Loom.
 - [cha1latte/sillytavern-preset-creator](https://github.com/cha1latte/sillytavern-preset-creator) - Prompts for creating SillyTavern presets with AI - from basic parameters to 60+ module mega-presets
 - [prolix-oc/ST-Presets](https://github.com/prolix-oc/ST-Presets) - 
@@ -4613,7 +4616,7 @@
 - [lailo/next-with-tailwindcss](https://github.com/lailo/next-with-tailwindcss) - NextJS with TypeScript and TailwindCSS (with dark theme switch)
 - [timroes/awesome-config](https://github.com/timroes/awesome-config) - My awesome wm configuration.
 - [adonig/nextjs-starter-preact-tailwindcss](https://github.com/adonig/nextjs-starter-preact-tailwindcss) - A Next.js starter project coming with Preact and Tailwind CSS built-in.
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - The developers' cloud
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - Chakra UI is a component system for building SaaS products with speed ⚡️
 - [ConsenSys-archive/truffle](https://github.com/ConsenSys-archive/truffle) - :warning: The Truffle Suite is being sunset. For information on ongoing support, migration options and FAQs, visit the Consensys blog. Thank you for all the support over the years.
 - [linnovate/mean](https://github.com/linnovate/mean) - The MEAN stack uses Mongo, Express, Angular(6) and Node for simple and scalable fullstack js applications
