@@ -245,6 +245,7 @@
 - [christophgysin/pasystray](https://github.com/christophgysin/pasystray) - PulseAudio system tray
 - [CristianHenzel/ClipIt](https://github.com/CristianHenzel/ClipIt) - ClipIt clipboard manager for GTK+
 - [conformal/spectrwm](https://github.com/conformal/spectrwm) - A small dynamic tiling window manager for X11.
+- [Embroidermodder/Embroidermodder](https://github.com/Embroidermodder/Embroidermodder) - Free machine embroidery software supporting a variety of formats.
 - [cfenollosa/os-tutorial](https://github.com/cfenollosa/os-tutorial) - How to create an OS from scratch
 
 ## C# # 
@@ -279,7 +280,7 @@
 - [p3tr0s/PhiSiFi](https://github.com/p3tr0s/PhiSiFi) - WiFi Hacking with an ESP8266 - Deauth combined with Evil Twin attack
 - [Miriway/Miriway](https://github.com/Miriway/Miriway) - Mir based Wayland compositor
 - [jechasteen/gratuitous](https://github.com/jechasteen/gratuitous) - IDE for awesome window manager configuration and themes. Start and stop a Xephyr preview, syntax highlighting, editor splitting.
-- [Alex313031/thorium](https://github.com/Alex313031/thorium) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md.
+- [Alex313031/thorium](https://github.com/Alex313031/thorium) - Chromium fork named after radioactive element No. 90. Source code and Linux releases. Windows/MacOS/ARM builds served in different repos, links are towards the top of the README.md.
 - [MCredstoner2004/ImageLOL](https://github.com/MCredstoner2004/ImageLOL) - simple program to store a file into a PNG image
 - [Curve/aawmtt](https://github.com/Curve/aawmtt) - Another AwesomeWM Testing Tool 🚀
 - [Duckonaut/hyprload](https://github.com/Duckonaut/hyprload) - A Hyprland plugin manager
@@ -325,7 +326,6 @@
 - [diasurgical/DevilutionX](https://github.com/diasurgical/DevilutionX) - Diablo build for modern operating systems
 - [pbek/QOwnNotes](https://github.com/pbek/QOwnNotes) - QOwnNotes is a plain-text file notepad and todo-list manager with Markdown support and Nextcloud / ownCloud integration.
 - [robotology/yarp](https://github.com/robotology/yarp) - YARP - Yet Another Robot Platform
-- [Embroidermodder/Embroidermodder](https://github.com/Embroidermodder/Embroidermodder) - Free machine embroidery software supporting a variety of formats.
 - [lxqt/lxqt-panel](https://github.com/lxqt/lxqt-panel) - The LXQt desktop panel
 - [unetbootin/unetbootin](https://github.com/unetbootin/unetbootin) - UNetbootin installs Linux/BSD distributions to a partition or USB drive
 - [hannesschulze/conecto](https://github.com/hannesschulze/conecto) - Integrate your Android-phone with your PC - a GTK client for KDEConnect.
@@ -665,7 +665,7 @@
 - [skrashevich/authy-export](https://github.com/skrashevich/authy-export) - Go library and program to access your Authy TOTP secrets.
 - [C-Loftus/QuickPiperAudiobook](https://github.com/C-Loftus/QuickPiperAudiobook) - With one command, create a natural-sounding audiobook from a variety of input formats (epub, mobi, txt, PDF, HTML and more!)
 - [shelepuginivan/powermenu](https://github.com/shelepuginivan/powermenu) - Configurable power menu for Wayland compositors based on GTK3 and Gtk Layer Shell
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for all 💘
 - [opencode-ai/opencode](https://github.com/opencode-ai/opencode) - A powerful AI coding agent. Built for the terminal.
 - [tx3stn/pkb](https://github.com/tx3stn/pkb) - Config driven CLI to manage markdown files for a personal knowledge base.
 - [hmajid2301/OptiNix](https://github.com/hmajid2301/OptiNix) - A CLI tool written in go, for searching options in Nix. Mirrored from https://gitlab.com/hmajid2301/optinix
@@ -946,6 +946,9 @@
 
 ## JavaScript 
 
+- [CarmentaGit/Carmy-InfoBoard](https://github.com/CarmentaGit/Carmy-InfoBoard) - 
+- [subzero5544/favorites-carousel](https://github.com/subzero5544/favorites-carousel) - hey everyone a friend of mine asked me if i could make this so here it is.
+- [showdownjs/showdown](https://github.com/showdownjs/showdown) - A bidirectional Markdown to HTML to Markdown converter written in Javascript
 - [Therosin/ST-Extension-Lua](https://github.com/Therosin/ST-Extension-Lua) - Provides Lua scripting support for ST
 - [Loggo-presets/SillyTavern-SpellBook](https://github.com/Loggo-presets/SillyTavern-SpellBook) - The Spell Book: Markdown Notepad for SillyTavern A feature-rich, glassmorphism-style floating notepad extension. Organize your notes, spell lores, references, and creative content with style.
 - [LenAnderson/SillyTavern-Lore-Variables](https://github.com/LenAnderson/SillyTavern-Lore-Variables) - Variable manager for lorebook / world info entries.
@@ -1567,7 +1570,7 @@
 - [norahsakal/fine-tune-gpt3-model](https://github.com/norahsakal/fine-tune-gpt3-model) - How you can fine-tune a GPT-3 model with Python with your own data
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [ratthachat/prompt_engineering](https://github.com/ratthachat/prompt_engineering) - Prompt Engineering
-- [EgoAlpha/prompt-in-context-learning](https://github.com/EgoAlpha/prompt-in-context-learning) - Awesome resources for in-context learning and prompt engineering: Mastery of the LLMs such as ChatGPT, GPT-3, and FlanT5, with up-to-date and cutting-edge updates.   - Professor Yu Liu
+- [EgoAlpha/prompt-in-context-learning](https://github.com/EgoAlpha/prompt-in-context-learning) - Awesome resources for in-context learning and prompt engineering: Mastery of the LLMs such as ChatGPT, GPT-3, and FlanT5, with up-to-date and cutting-edge updates.
 - [promptslab/Promptify](https://github.com/promptslab/Promptify) - Prompt Engineering | Prompt Versioning | Use GPT or other prompt based models to get structured output. Join our discord for Prompt-Engineering, LLMs and other latest research
 - [dosanjos44/FC-Python-Tutorials](https://github.com/dosanjos44/FC-Python-Tutorials) - Collection of tutorials and resources from fcpython.com
 - [pythonspaces/awesome-resources](https://github.com/pythonspaces/awesome-resources) - Free Learning Resources
@@ -1622,7 +1625,7 @@
 - [Kritiqual/Awesome](https://github.com/Kritiqual/Awesome) - [WIP] This repo contain all my config for AwesomeWM
 - [nesktf/dotfiles](https://github.com/nesktf/dotfiles) - haha funny dotfiles
 - [slicetext/awm_dots](https://github.com/slicetext/awm_dots) - My dotfiles
-- [Gwynsav/heraclitian-nix](https://github.com/Gwynsav/heraclitian-nix) - Everything flows, nothing remains the same. NixOS configuration centered around ephemeral roots and the impermanence module.
+- [sewergweller/heraclitian-nix](https://github.com/sewergweller/heraclitian-nix) - Everything flows, nothing remains the same. NixOS configuration centered around ephemeral roots and the impermanence module.
 - [Kuroneer/awm_kmodules](https://github.com/Kuroneer/awm_kmodules) - Group of small modules for AwesomeWM 4
 - [tuxdotrs/tawm](https://github.com/tuxdotrs/tawm) - My awesomeWM configuration
 - [FirmScythe/Config-Files](https://github.com/FirmScythe/Config-Files) - This repository contains my personal configuration files for various development tools that I use daily to create a powerful and efficient development workflow.
@@ -1661,7 +1664,7 @@
 - [ReadyWidgets/awesome-extrautils](https://github.com/ReadyWidgets/awesome-extrautils) - A library providing many utility functions for use with the awesome window manager
 - [Selyss/mind.nvim](https://github.com/Selyss/mind.nvim) - Simple tree-based note taking system for Neovim
 - [michaelrommel/nvim-silicon](https://github.com/michaelrommel/nvim-silicon) - neovim plugin to create code images using the external silicon tool.
-- [Gwynsav/gwileful](https://github.com/Gwynsav/gwileful) - Have I finally created something that isn't a lua-programmed nuke? Maybe...
+- [sewergweller/gwileful](https://github.com/sewergweller/gwileful) - Have I finally created something that isn't a lua-programmed nuke? Maybe...
 - [danxliu/awm](https://github.com/danxliu/awm) - An AwesomeWM configuration
 - [rifsxd/oh-my-awesomewm-dots](https://github.com/rifsxd/oh-my-awesomewm-dots) - OMAWM - My personal awesome window manager - themes - widgets  -  configs
 - [mahmoudk1000/awedots](https://github.com/mahmoudk1000/awedots) - my awesomewm config
@@ -1669,7 +1672,7 @@
 - [joepigott/dots](https://github.com/joepigott/dots) - dotfiles
 - [uga-rosa/cmp-dictionary](https://github.com/uga-rosa/cmp-dictionary) - A dictionary completion source for nvim-cmp
 - [zbirenbaum/copilot-cmp](https://github.com/zbirenbaum/copilot-cmp) - Lua plugin to turn github copilot into a cmp source
-- [Gwynsav/old_gwileful](https://github.com/Gwynsav/old_gwileful) - Based on the modularized config of AWM, a retry of my setup.
+- [sewergweller/old_gwileful](https://github.com/sewergweller/old_gwileful) - Based on the modularized config of AWM, a retry of my setup.
 - [worron/redflat](https://github.com/worron/redflat) - Extension module for Awesome WM
 - [btvtkh/awesome-de](https://github.com/btvtkh/awesome-de) - configurations for awesomewm
 - [folke/neodev.nvim](https://github.com/folke/neodev.nvim) - 💻  Neovim setup for init.lua and plugin development with full signature help, docs and completion for the nvim lua API.
@@ -1769,7 +1772,6 @@
 - [mdmrk/policromia](https://github.com/mdmrk/policromia) - Lightweight aesthetic AwesomeWM dotfiles 🦜
 - [JayJaySea/dotfiles](https://github.com/JayJaySea/dotfiles) - 
 - [kosorin/awesome-rice](https://github.com/kosorin/awesome-rice) - Opinionated config for Awesome window manager.
-- [kclejeune/system](https://github.com/kclejeune/system) - Declarative system configurations using nixOS, nix-darwin, and home-manager
 - [RaphaeleL/nvim](https://github.com/RaphaeleL/nvim) - My Neovim Configuration
 - [hadronized/config](https://github.com/hadronized/config) - My main configuration files
 - [cjnucette/nvim.lazy](https://github.com/cjnucette/nvim.lazy) - nvim using lazy.nvim plugin manager
@@ -2494,6 +2496,7 @@
 - [MatthiasBenaets/nix-config](https://github.com/MatthiasBenaets/nix-config) - My Personal Nix, NixOS and Nix-Darwin System Configuration Flake
 - [Ruixi-rebirth/melted-flakes](https://github.com/Ruixi-rebirth/melted-flakes) - My presonal NixOS config.New config can get in https://github.com/Ruixi-rebirth/flakes
 - [notohh/snowflake](https://github.com/notohh/snowflake) - NixOS Config(s) - mirrored from https://git.flake.sh/notohh/snowflake
+- [Mic92/dotfiles](https://github.com/Mic92/dotfiles) - My NixOS dotfiles
 - [myme/dotfiles](https://github.com/myme/dotfiles) - My collection of dotfiles
 - [etu/nixconfig](https://github.com/etu/nixconfig) - My NixOS config
 - [c0c0n3/nixie](https://github.com/c0c0n3/nixie) - Personal, micro distro built on NixOS
@@ -2548,6 +2551,7 @@
 - [the-nix-way/dev-templates](https://github.com/the-nix-way/dev-templates) - Dev environments for numerous languages based on Nix flakes [maintainer=@lucperkins]
 - [wagdav/homelab](https://github.com/wagdav/homelab) - Because at home you keep devopsing
 - [jakehamilton/config](https://github.com/jakehamilton/config) - My Nix configuration for packages, systems, etc.
+- [kclejeune/system](https://github.com/kclejeune/system) - Declarative system configurations using nixOS, nix-darwin, and home-manager
 - [reckenrode/nixos-configs](https://github.com/reckenrode/nixos-configs) - My NixOS and nix-darwin configs
 - [ZilchOS/core](https://github.com/ZilchOS/core) - ZilchOS Core, a decidedly tiny Nix-based distro to play with
 - [Sanatana-Linux/nixos-config](https://github.com/Sanatana-Linux/nixos-config) - Immutable, reproducible, aesthetic, all-encompassing.
@@ -2833,10 +2837,10 @@
 - [chow-petit/awesome-curated-tools](https://github.com/chow-petit/awesome-curated-tools) - A curated list of digital tools we use, ranging from accounting and data science to scientific research and liquid democracy. Commented, connected, by everyone and for everyone !
 - [haidar47x/curated-fullstack-books](https://github.com/haidar47x/curated-fullstack-books) - A curated list of full-stack development books.
 - [pawamoy/awesome-repository](https://github.com/pawamoy/awesome-repository) - A curated list of services, tools and standards about (open source) repository management.
-- [linsa-io/documentaries](https://github.com/linsa-io/documentaries) - Awesome Documentaries
+- [learn-anything/documentaries](https://github.com/learn-anything/documentaries) - Awesome Documentaries
 - [AthenaAI/community-search](https://github.com/AthenaAI/community-search) - A community-curated repository of 🔥 learning resources
 - [osromusic/Glitch-Arts-Resources](https://github.com/osromusic/Glitch-Arts-Resources) - A curated list of resources for all arts glitch.
-- [linsa-io/command-line-tools](https://github.com/linsa-io/command-line-tools) - Awesome Command Line Utilities
+- [learn-anything/command-line-tools](https://github.com/learn-anything/command-line-tools) - Awesome Command Line Utilities
 - [cedrickchee/awesome-wireguard](https://github.com/cedrickchee/awesome-wireguard) - A curated list of WireGuard tools, projects, and resources.
 - [chobeat/awesome-critical-tech-reading-list](https://github.com/chobeat/awesome-critical-tech-reading-list) - A reading list for the modern critical programmer
 - [minar09/awesome-virtual-try-on](https://github.com/minar09/awesome-virtual-try-on) - A curated list of awesome research papers, projects, code, dataset, workshops etc. related to virtual try-on.
@@ -2916,7 +2920,7 @@
 - [thomasdesr/Google-dorks](https://github.com/thomasdesr/Google-dorks) - Common google dorks and others you prolly donn know :P
 - [BullsEye0/google_dork_list](https://github.com/BullsEye0/google_dork_list) - Google Dorks | Google helps you to find Vulnerable Websites that Indexed in Google Search Results. Here is the latest collection of Google Dorks. A collection of 13.760 Dorks. Author: Jolanda de Koff
 - [cipher387/Dorks-collections-list](https://github.com/cipher387/Dorks-collections-list) - List of Github repositories and articles with list of dorks for different search engines
-- [linsa-io/firefox-extensions](https://github.com/linsa-io/firefox-extensions) - Awesome Firefox Extensions
+- [learn-anything/firefox-extensions](https://github.com/learn-anything/firefox-extensions) - Awesome Firefox Extensions
 - [brettkromkamp/awesome-knowledge-management](https://github.com/brettkromkamp/awesome-knowledge-management) - A curated list of amazingly awesome articles, people, applications, software libraries and projects related to the knowledge management space
 - [matthiasn/talk-transcripts](https://github.com/matthiasn/talk-transcripts) - Transcripts of Clojure-related talks
 - [spencerpauly/awesome-notion](https://github.com/spencerpauly/awesome-notion) - A curated list of awesome Notion related things.
@@ -3410,7 +3414,6 @@
 - [EvilDrPorkChop/OpenSea-NFT-Creator](https://github.com/EvilDrPorkChop/OpenSea-NFT-Creator) - A collection of python scripts which help you programatically create PNGs or GIFs and their Metadata in bulk with custom rarity rates, upload them to OpenSea & list them for sale.
 - [thiagokokada/nix-alien](https://github.com/thiagokokada/nix-alien) - Run unpatched binaries on Nix/NixOS
 - [DRACULA-HACK/C-hacks](https://github.com/DRACULA-HACK/C-hacks) - All social Media hacking with information gathering
-- [Mic92/dotfiles](https://github.com/Mic92/dotfiles) - My NixOS dotfiles
 - [onny/OSX-KVM](https://github.com/onny/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Big Sur + Monterey + Ventura support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
 - [beejjorgensen/bgpython](https://github.com/beejjorgensen/bgpython) - Beej's Guide to Python Programming source
 - [AnonymousMeerkat/relinux](https://github.com/AnonymousMeerkat/relinux) - A free and open-source Linux distro creation toolkit
@@ -3856,6 +3859,7 @@
 
 ## Shell 
 
+- [dockur/macos](https://github.com/dockur/macos) - MacOS inside a Docker container.
 - [rodrigogalura/bak-rstr](https://github.com/rodrigogalura/bak-rstr) - Simple Backup & Restore: Compress, upload, and secure your files to Dropbox with a single command!
 - [NixOS/flake-registry](https://github.com/NixOS/flake-registry) - Global registry of Nix flakes
 - [samuelcaldas/Bruteforce-Bootloader-Unlocker](https://github.com/samuelcaldas/Bruteforce-Bootloader-Unlocker) - Bruteforce Bootloader Unlocker for android devices with fastboot unlock support.
@@ -4650,7 +4654,7 @@
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [iamvishnusankar/next-sitemap](https://github.com/iamvishnusankar/next-sitemap) - Sitemap generator for next.js. Generate sitemap(s) and robots.txt for all static/pre-rendered/dynamic/server-side pages.
 - [nandorojo/moti](https://github.com/nandorojo/moti) - 🐼  The React Native (+ Web) animation library, powered by Reanimated 3.
-- [linsa-io/linsa](https://github.com/linsa-io/linsa) - Save anything. Share, sell or collaborate. Privately.
+- [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Learn and keep track of any topic
 - [nikivdev/research](https://github.com/nikivdev/research) - 
 - [vercel/commerce](https://github.com/vercel/commerce) - Next.js Commerce
 - [karlitos/KissMyResume](https://github.com/karlitos/KissMyResume) - Generate polished résumés and CVs in HTML, PDF,  MS Word and other formats and Keep It Simple.
