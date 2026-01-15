@@ -665,7 +665,7 @@
 - [skrashevich/authy-export](https://github.com/skrashevich/authy-export) - Go library and program to access your Authy TOTP secrets.
 - [C-Loftus/QuickPiperAudiobook](https://github.com/C-Loftus/QuickPiperAudiobook) - With one command, create a natural-sounding audiobook from a variety of input formats (epub, mobi, txt, PDF, HTML and more!)
 - [shelepuginivan/powermenu](https://github.com/shelepuginivan/powermenu) - Configurable power menu for Wayland compositors based on GTK3 and Gtk Layer Shell
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for all 💘
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘
 - [opencode-ai/opencode](https://github.com/opencode-ai/opencode) - A powerful AI coding agent. Built for the terminal.
 - [tx3stn/pkb](https://github.com/tx3stn/pkb) - Config driven CLI to manage markdown files for a personal knowledge base.
 - [hmajid2301/OptiNix](https://github.com/hmajid2301/OptiNix) - A CLI tool written in go, for searching options in Nix. Mirrored from https://gitlab.com/hmajid2301/optinix
@@ -711,6 +711,7 @@
 - [OJ/gobuster](https://github.com/OJ/gobuster) - Directory/File, DNS and VHost busting tool written in Go
 - [FyshOS/fynedesk](https://github.com/FyshOS/fynedesk) - A full desktop environment for Linux/Unix using Fyne
 - [codenotary/immudb](https://github.com/codenotary/immudb) - immudb - immutable database based on zero trust, SQL/Key-Value/Document model, tamperproof, data change history
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 - [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems
 - [KCarretto/paragon](https://github.com/KCarretto/paragon) - Red Team engagement platform with the goal of unifying offensive tools behind a simple UI
 - [tvrzna/emptty](https://github.com/tvrzna/emptty) - Dead simple CLI Display Manager on TTY
@@ -1533,6 +1534,7 @@
 
 ## Jupyter Notebook 
 
+- [decodingai-magazine/second-brain-ai-assistant-course](https://github.com/decodingai-magazine/second-brain-ai-assistant-course) - Learn to build your Second Brain AI assistant with LLMs, agents, RAG, fine-tuning, LLMOps and AI systems techniques.
 - [ksm26/AI-Agentic-Design-Patterns-with-AutoGen](https://github.com/ksm26/AI-Agentic-Design-Patterns-with-AutoGen) - Learn to build and customize multi-agent systems using the AutoGen. The course teaches you to implement complex AI applications through agent collaboration and advanced design patterns.
 - [sinanuozdemir/oreilly-ai-agents](https://github.com/sinanuozdemir/oreilly-ai-agents) - An introduction to the world of AI Agents
 - [genieincodebottle/generative-ai](https://github.com/genieincodebottle/generative-ai) - Comprehensive resources on Generative AI, including a detailed roadmap, projects, use cases, interview preparation, and coding preparation.
@@ -1614,6 +1616,7 @@
 
 ## Lua 
 
+- [nacro90/numb.nvim](https://github.com/nacro90/numb.nvim) - Peek lines just when you intend
 - [aidinio/awbar](https://github.com/aidinio/awbar) - An awesomeWM control center, aiming to be as efficient as possible
 - [sudo-tee/opencode.nvim](https://github.com/sudo-tee/opencode.nvim) - neovim frontend for opencode - a terminal-based AI coding agent
 - [pkazmier/nvim](https://github.com/pkazmier/nvim) - My personal neovim configuration
@@ -2637,6 +2640,7 @@
 
 ## Others 
 
+- [mind-network/Awesome-LLM-based-AI-Agents-Knowledge](https://github.com/mind-network/Awesome-LLM-based-AI-Agents-Knowledge) - LLM-based AI Agent Knowledge Sharing
 - [zebbern/no-cost-ai](https://github.com/zebbern/no-cost-ai) - A Collection of no cost ai websites with models such as Claude 4 sonnet/opus, Grok 4, o3 Pro, Gemini 2.5 Pro for free & much more...
 - [sakanomichi/LumiaDLC](https://github.com/sakanomichi/LumiaDLC) - Personality packs and prompts/alterations for Lucid Loom.
 - [cha1latte/sillytavern-preset-creator](https://github.com/cha1latte/sillytavern-preset-creator) - Prompts for creating SillyTavern presets with AI - from basic parameters to 60+ module mega-presets
@@ -3145,6 +3149,7 @@
 
 ## Python 
 
+- [sweetdevilprincess/RP-Launcher](https://github.com/sweetdevilprincess/RP-Launcher) - RP Launcher
 - [jim-plus/llm-abliteration](https://github.com/jim-plus/llm-abliteration) - Make abliterated models with transformers, easy and fast
 - [serpapi/google-search-results-python](https://github.com/serpapi/google-search-results-python) - Google Search Results via SERP API pip Python Package
 - [prolix-oc/BananaBread](https://github.com/prolix-oc/BananaBread) - 
@@ -3168,7 +3173,6 @@
 - [MemoriLabs/Memori](https://github.com/MemoriLabs/Memori) - SQL Native Memory Layer for LLMs, AI Agents & Multi-Agent Systems
 - [character-ai/prompt-poet](https://github.com/character-ai/prompt-poet) - Streamlines and simplifies prompt design for both developers and non-technical users with a low code approach.
 - [UnkL4b/GitMiner3](https://github.com/UnkL4b/GitMiner3) - Tool for advanced mining for content on Github
-- [sweetdevilprincess/RP-Launcher](https://github.com/sweetdevilprincess/RP-Launcher) - RP Launcher
 - [FaceDeer/pyqt_tavernai_character_editor](https://github.com/FaceDeer/pyqt_tavernai_character_editor) - A simple PyQt5 UI for editing TavernAI character cards
 - [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
 - [cgueret/Scriptorium](https://github.com/cgueret/Scriptorium) - Scriptorium is a text editor coupled with a plotting tool and a formatting tool. The objective is to provide writers with a simple and complete environment to plan, plot, write and edit e-books.
@@ -3475,7 +3479,6 @@
 - [roddhjav/pass-import](https://github.com/roddhjav/pass-import) - A pass extension for importing data from most existing password managers
 - [archivy/archivy](https://github.com/archivy/archivy) - Archivy is a self-hostable knowledge repository that allows you to learn and retain information in your own personal and extensible wiki.
 - [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 - [audibleblink/doxycannon](https://github.com/audibleblink/doxycannon) - A poorman's proxycannon and botnet, using docker, ovpn files, tor nodes, and dante socks5 proxies
 - [KCarretto/Arsenal](https://github.com/KCarretto/Arsenal) - Extensible Red Team Framework
 - [Tmpertor/Raven-Storm](https://github.com/Tmpertor/Raven-Storm) - Raven-Storm is a powerful DDoS toolkit for penetration tests, including attacks for several protocols written in python. Takedown many connections using several exotic and classic protocols.
@@ -4241,7 +4244,7 @@
 - [brinkOS/brinkOS](https://github.com/brinkOS/brinkOS) - Arch based Linux distribution for Engineers
 - [ctlos/ctlosiso](https://github.com/ctlos/ctlosiso) - Ctlos Linux source. Arch based distro x86-64(64-bit).
 - [agostaxyz/dotfiles](https://github.com/agostaxyz/dotfiles) - Arch dotfiles and shell scripts for KDE Plasma and BSPWM.
-- [laurent85v/archuseriso](https://github.com/laurent85v/archuseriso) - A set of bash script programs to create bootable Arch Linux images and to create bootable USB flash drives with a desktop environment.
+- [laurent85v/archuseriso](https://github.com/laurent85v/archuseriso) - A collection of Bash scripts for creating bootable Arch Linux images and USB drives with desktop environments.
 - [kennystrawnmusic/TriggerLinux](https://github.com/kennystrawnmusic/TriggerLinux) - Break the grip of censorship
 - [wstam88/rofi-fontawesome](https://github.com/wstam88/rofi-fontawesome) - fontawesome icon list for rofi dmenu
 - [snori74/linuxupskillchallenge](https://github.com/snori74/linuxupskillchallenge) - Learn the skills required to sysadmin a remote Linux server from the commandline.
@@ -4366,6 +4369,8 @@
 
 ## TypeScript 
 
+- [djarumcoklatt/KnowNote](https://github.com/djarumcoklatt/KnowNote) - 🧠 Transform documents into a private, intelligent knowledge base with KnowNote, the open-source alternative to Google NotebookLM for learners and developers.
+- [CaviraOSS/PageLM](https://github.com/CaviraOSS/PageLM) - PageLM is a community driven version of NotebookLM & a education platform that transforms study materials into interactive resources like quizzes, flashcards, notes, and podcasts.
 - [fefnik/wrec](https://github.com/fefnik/wrec) - 
 - [dmitryplyaskin/SillyInnkeeper](https://github.com/dmitryplyaskin/SillyInnkeeper) - SillyInnkeeper is an open-source local character card manager for SillyTavern. It scans PNG cards, extracts metadata, generates previews, and provides a UI for organizing and managing large character 
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
