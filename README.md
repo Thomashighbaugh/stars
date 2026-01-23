@@ -948,6 +948,10 @@
 
 ## JavaScript 
 
+- [nyxkrage/st-nyxlib](https://github.com/nyxkrage/st-nyxlib) - Collection of various SillyTavern functions packaged up as a UI extension (fetch from websites, manipulate JSON, assign JSON to variables)
+- [ThiagoRibas-dev/SillyTavern-State](https://github.com/ThiagoRibas-dev/SillyTavern-State) - Silly Tavern extension
+- [Slowlife01/ff-mediacontrols](https://github.com/Slowlife01/ff-mediacontrols) - Toolbar Media Controls For Firefox
+- [Vertex-Mods/Advanced-Tab-Groups](https://github.com/Vertex-Mods/Advanced-Tab-Groups) - Improves Tab Folders & Groups for Zen Browser
 - [BibekBhusal0/zen-custom-js](https://github.com/BibekBhusal0/zen-custom-js) - Personal customization userscripts and css files for enhancing browsing experience in Zen Browser.
 - [aikohanasaki/SillyTavern-WorldInfoInfo](https://github.com/aikohanasaki/SillyTavern-WorldInfoInfo) - See which WorldInfo entries were active in the last generated message.
 - [alyssaxuu/omni](https://github.com/alyssaxuu/omni) - The all-in-one tool to supercharge your productivity ⌨️
@@ -2648,6 +2652,8 @@
 
 ## Others 
 
+- [ceruleandeep/SillyTavern-SelfExpression](https://github.com/ceruleandeep/SillyTavern-SelfExpression) - Experiments in self-selection and self-generation of agent images
+- [multianimus/Jacks-Silly-QuickReplies](https://github.com/multianimus/Jacks-Silly-QuickReplies) - Quick replies for SillyTavern
 - [mind-network/Awesome-LLM-based-AI-Agents-Knowledge](https://github.com/mind-network/Awesome-LLM-based-AI-Agents-Knowledge) - LLM-based AI Agent Knowledge Sharing
 - [zebbern/no-cost-ai](https://github.com/zebbern/no-cost-ai) - A Collection of no cost ai websites with models such as Claude 4 sonnet/opus, Grok 4, o3 Pro, Gemini 2.5 Pro for free & much more...
 - [sakanomichi/LumiaDLC](https://github.com/sakanomichi/LumiaDLC) - Personality packs and prompts/alterations for Lucid Loom.
