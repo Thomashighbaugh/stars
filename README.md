@@ -83,7 +83,6 @@
 - [Tree-sitter Query](#tree-sitter-query)
 - [Twig](#twig)
 - [TypeScript](#typescript)
-- [Typst](#typst)
 - [V](#v)
 - [Vala](#vala)
 - [Vim Script](#vim-script)
@@ -160,6 +159,7 @@
 - [sushi-ae/dotfiles](https://github.com/sushi-ae/dotfiles) - My personal dotfiles that are constantly being updated.
 - [unikraft/unikraft](https://github.com/unikraft/unikraft) - A next-generation cloud native kernel designed to unlock best-in-class performance, security primitives and efficiency savings.
 - [NVIDIA/open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules) - NVIDIA Linux open GPU kernel module source
+- [beejjorgensen/bgc](https://github.com/beejjorgensen/bgc) - Beej's Guide to C Programming source
 - [Mange/rofi-emoji](https://github.com/Mange/rofi-emoji) - Emoji selector plugin for Rofi
 - [Nooo37/pinsel](https://github.com/Nooo37/pinsel) - Minimal screenshot annotation tool with lua config
 - [ArtsyMacaw/wlogout](https://github.com/ArtsyMacaw/wlogout) - A wayland based logout menu
@@ -300,7 +300,7 @@
 - [Nitrux/maui-shell](https://github.com/Nitrux/maui-shell) - Maui Shell is a convergent shell for desktops, tablets, and phones.
 - [cutefishos-ubuntu/fishui](https://github.com/cutefishos-ubuntu/fishui) - CutefishOS GUI library, based on Qt Quick.
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
-- [skift-org/skift](https://github.com/skift-org/skift) - 🥑 A modern delightful operating system (readonly mirror)
+- [skift-org/skift](https://github.com/skift-org/skift) - 🥑 A modern delightful operating system (mirror)
 - [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
 - [AHXR/ghost](https://github.com/AHXR/ghost) - :ghost: RAT (Remote Access Trojan) - Silent Botnet - Full Remote Command-Line Access - Download & Execute Programs - Spread Virus' & Malware
 - [maestron/botnets](https://github.com/maestron/botnets) - This is a collection of #botnet source codes, unorganized. For EDUCATIONAL PURPOSES ONLY
@@ -948,6 +948,16 @@
 
 ## JavaScript 
 
+- [awesome-opencode/awesome-opencode](https://github.com/awesome-opencode/awesome-opencode) - A curated list of awesome plugins, themes, agents, projects, and resources for https://opencode.ai
+- [harrywenjie/SillyTavern-Tracker-Enhanced](https://github.com/harrywenjie/SillyTavern-Tracker-Enhanced) - 
+- [OldAccountPendingDelete/Sillytavern-Loretips](https://github.com/OldAccountPendingDelete/Sillytavern-Loretips) - Shows you a tooltip of potential Lorebook entries while typing
+- [Hexicy/ST-CharacterPreview](https://github.com/Hexicy/ST-CharacterPreview) - Character preview for Sillytavern
+- [aikohanasaki/SillyTavern-MemoryBooks](https://github.com/aikohanasaki/SillyTavern-MemoryBooks) - Saves SillyTavern chat memories to lorebooks
+- [myonmu0/SillyTavern-MessageQueue](https://github.com/myonmu0/SillyTavern-MessageQueue) - Message queue extension for SillyTavern.
+- [chaaruze/SillyTavern-Too-Many-Chats](https://github.com/chaaruze/SillyTavern-Too-Many-Chats) - 📁 SillyTavern extension for organizing chats into folders. Made with Google Antigravity.
+- [AbhinavTheDev/potion](https://github.com/AbhinavTheDev/potion) - Intelligent Note-Taking Assistant
+- [phampyk/SillyTavern-CharacterName](https://github.com/phampyk/SillyTavern-CharacterName) - Allows setting a separate chat name for characters that overrides the card name
+- [phampyk/SillyTavern-AvatarBanner](https://github.com/phampyk/SillyTavern-AvatarBanner) - SillyTavern Extension to show the avatars as banners on the chat
 - [nyxkrage/st-nyxlib](https://github.com/nyxkrage/st-nyxlib) - Collection of various SillyTavern functions packaged up as a UI extension (fetch from websites, manipulate JSON, assign JSON to variables)
 - [ThiagoRibas-dev/SillyTavern-State](https://github.com/ThiagoRibas-dev/SillyTavern-State) - Silly Tavern extension
 - [Slowlife01/ff-mediacontrols](https://github.com/Slowlife01/ff-mediacontrols) - Toolbar Media Controls For Firefox
@@ -2652,6 +2662,7 @@
 
 ## Others 
 
+- [ZDOSt/Game-Master](https://github.com/ZDOSt/Game-Master) - SillyTavern Preset for those who want to be a "player" while LLM acts as the Game Master. Complete with dice mechanics, relationship engine, and random event generator.
 - [ceruleandeep/SillyTavern-SelfExpression](https://github.com/ceruleandeep/SillyTavern-SelfExpression) - Experiments in self-selection and self-generation of agent images
 - [multianimus/Jacks-Silly-QuickReplies](https://github.com/multianimus/Jacks-Silly-QuickReplies) - Quick replies for SillyTavern
 - [mind-network/Awesome-LLM-based-AI-Agents-Knowledge](https://github.com/mind-network/Awesome-LLM-based-AI-Agents-Knowledge) - LLM-based AI Agent Knowledge Sharing
@@ -2685,7 +2696,6 @@
 - [Ditectrev/awesome-gimp](https://github.com/Ditectrev/awesome-gimp) - 
 - [one-aalam/awesome-astro](https://github.com/one-aalam/awesome-astro) - Curated resources on building sites with Astro, a brand new way to build static and server rendered sites, with cross-framework components, styling and reactive store support.
 - [embeddingBits/arch_dotfiles](https://github.com/embeddingBits/arch_dotfiles) - Dotfiles for my Hyprland rice on Linux
-- [vanclute/chatGPT_Universal-RPG-Generator](https://github.com/vanclute/chatGPT_Universal-RPG-Generator) - This is a generic, one-size-fits-all, RPG adventure builder. It will ask you the universe/genre you want to play in, what character you want to play as, and generate an entire unique adventure in that
 - [mailchimp/email-blueprints](https://github.com/mailchimp/email-blueprints) - Email Blueprints is a collection of HTML email templates that can serve as a solid foundation and starting point for the design of emails
 - [jonathandion/awesome-emails](https://github.com/jonathandion/awesome-emails) - ✉️ An awesome list of resources to build better emails.
 - [nicolodiamante/notefy](https://github.com/nicolodiamante/notefy) - Streamline your note-taking with ChatGPT's AI expertise and Whisper's precise transcription, enabling fast and efficient summarising.
@@ -3822,6 +3832,7 @@
 
 ## SCSS 
 
+- [edelvarden/material-fox-updated](https://github.com/edelvarden/material-fox-updated) - 🦊 Firefox user CSS theme looks similar to Chrome
 - [Fausto-Korpsvart/Nightfox-GTK-Theme](https://github.com/Fausto-Korpsvart/Nightfox-GTK-Theme) - A GTK theme based on the Nightfox colour palette.
 - [ckissane/materia-theme-transparent](https://github.com/ckissane/materia-theme-transparent) - A Material Design theme for GNOME/GTK based desktop environments
 - [yeyushengfan258/Reversal-gtk-theme](https://github.com/yeyushengfan258/Reversal-gtk-theme) - Reversal like theme for all gtk based desktops
@@ -4383,6 +4394,14 @@
 
 ## TypeScript 
 
+- [simonwjackson/opencode-direnv](https://github.com/simonwjackson/opencode-direnv) - OpenCode plugin that automatically loads direnv environment variables at session start
+- [tickernelz/opencode-mem](https://github.com/tickernelz/opencode-mem) - OpenCode plugin that gives coding agents persistent memory using local vector database
+- [boxpositron/with-context-mcp](https://github.com/boxpositron/with-context-mcp) - Enhanced note taking for AI Agents with supervision.
+- [welvet/SillyTavern-BananaGen](https://github.com/welvet/SillyTavern-BananaGen) - 
+- [Inktomi93/SillyTavern-CardRefinery](https://github.com/Inktomi93/SillyTavern-CardRefinery) - A SillyTavern extension providing an iterative AI pipeline (Score → Rewrite → Analyze) to evaluate, fix, and refine character cards while preserving their core personality.
+- [signerlabs/Klee](https://github.com/signerlabs/Klee) - Secure and local AI on your desktop with a built-in RAG knowledge base and Markdown note support.
+- [bmen25124/SillyTavern-Custom-Scenario](https://github.com/bmen25124/SillyTavern-Custom-Scenario) - A SillyTavern extension that allows you to create and play interactive character cards.  Want to customize the scenario before starting? Define character traits, starting location, or any other key el
+- [lunarblazepony/BlazeTracker](https://github.com/lunarblazepony/BlazeTracker) - A SillyTavern extension that uses LLM analysis to track and maintain scene state across roleplay conversations. Helps AI models stay consistent with physical positions, outfits, time of day, mood, and
 - [Rudhra517/Sillytavern-forge](https://github.com/Rudhra517/Sillytavern-forge) - Ai based advance character generator
 - [nanogpt-community/nanocode](https://github.com/nanogpt-community/nanocode) - The open source coding agent for nano-gpt
 - [djarumcoklatt/KnowNote](https://github.com/djarumcoklatt/KnowNote) - 🧠 Transform documents into a private, intelligent knowledge base with KnowNote, the open-source alternative to Google NotebookLM for learners and developers.
@@ -4724,10 +4743,6 @@
 - [gpmer/gpm.js](https://github.com/gpmer/gpm.js) - :gem:Git Package Manager, make you manage the repository easier, Power by Typescript & Nodejs
 - [akveo/eva-icons](https://github.com/akveo/eva-icons) - A pack of more than 480 beautifully crafted Open Source icons. SVG, Sketch, Web Font and Animations support.
 - [streamich/libreact](https://github.com/streamich/libreact) - Collection of useful React components
-
-## Typst 
-
-- [beejjorgensen/bgc](https://github.com/beejjorgensen/bgc) - Beej's Guide to C Programming source
 
 ## V 
 
