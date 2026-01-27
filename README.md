@@ -340,6 +340,7 @@
 
 ## CSS 
 
+- [vinceliuice/WhiteSur-firefox-theme](https://github.com/vinceliuice/WhiteSur-firefox-theme) - Mac OS Safari theme for Firefox on Linux
 - [nyxkrage/st-discord-inspired](https://github.com/nyxkrage/st-discord-inspired) - Discord Inspired Theme for SillyTavern
 - [reizumii/parfait](https://github.com/reizumii/parfait) - A tasty theme modification for Firefox 🦊
 - [giulihejt/custom-firefox-bookmarks-toolbar](https://github.com/giulihejt/custom-firefox-bookmarks-toolbar) - Customize your Firefox bookmarks toolbar with custom folder icons, adjustable sizing, icon-only mode, multi-row layout, and auto-hide options. Simple userChrome.css template for a personalized browsin
@@ -684,6 +685,7 @@
 - [tazjin/nixery](https://github.com/tazjin/nixery) - Container registry which transparently builds images using the Nix package manager. Canonical repository is https://cs.tvl.fyi/depot/-/tree/tools/nixery
 - [base/node](https://github.com/base/node) - Everything required to run your own Base node
 - [pinpox/pinpox](https://github.com/pinpox/pinpox) - Profile readme
+- [cogikyo/dotfiles](https://github.com/cogikyo/dotfiles) - 🍙 an Arch enabled PDE (Personalized Development Environment)
 - [jetify-com/devbox](https://github.com/jetify-com/devbox) - Instant, easy, and predictable development environments
 - [jollheef/appvm](https://github.com/jollheef/appvm) - Nix-based app VMs
 - [betapictoris/book](https://github.com/betapictoris/book) - 📖 Read ebooks from the comfort of your terminal.
@@ -1749,7 +1751,6 @@
 - [guotsuan/awesome-revelation](https://github.com/guotsuan/awesome-revelation) - Show all clients all screens in Awesome window manager
 - [mireq/awesome-wm-config](https://github.com/mireq/awesome-wm-config) - 
 - [RRethy/base16-nvim](https://github.com/RRethy/base16-nvim) - Neovim plugin for building a sync base16 colorscheme. Includes support for Treesitter and LSP highlight groups.
-- [cogikyo/dotfiles](https://github.com/cogikyo/dotfiles) - 🍙 an Arch enabled PDE (Personalized Development Environment)
 - [arsham/awesomewm-config](https://github.com/arsham/awesomewm-config) - Awesome Window Manager config
 - [gabeg805/awesomewm](https://github.com/gabeg805/awesomewm) - Configuration files for the Awesome window manager (WM) on Arch Linux.
 - [mel-edo/awesome-setup](https://github.com/mel-edo/awesome-setup) - My awesome config files
@@ -4395,6 +4396,7 @@
 
 ## TypeScript 
 
+- [spoons-and-mirrors/pocket-universe](https://github.com/spoons-and-mirrors/pocket-universe) - Agentic closed loop with async capabilities
 - [simonwjackson/opencode-direnv](https://github.com/simonwjackson/opencode-direnv) - OpenCode plugin that automatically loads direnv environment variables at session start
 - [tickernelz/opencode-mem](https://github.com/tickernelz/opencode-mem) - OpenCode plugin that gives coding agents persistent memory using local vector database
 - [boxpositron/with-context-mcp](https://github.com/boxpositron/with-context-mcp) - Enhanced note taking for AI Agents with supervision.
@@ -4470,7 +4472,7 @@
 - [sing1ee/deepseekCoder](https://github.com/sing1ee/deepseekCoder) - Create apps with Deepseek
 - [codeskills-dev/responsive-email](https://github.com/codeskills-dev/responsive-email) - a utility for writing responsive email templates for jsx-email and react-email
 - [thegera4/nextjs-portfolio](https://github.com/thegera4/nextjs-portfolio) - This is my personal portfolio made with typescript, react, tailwind css and nextjs
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers, Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - :exploding_head: LobeHub - The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling mult
 - [KazKozDev/NovelGenerator](https://github.com/KazKozDev/NovelGenerator) - Fiction generator using LLM agents to create complete novels with coherent plots, developed characters, and diverse writing styles.
 - [alexander-densley/portfolio](https://github.com/alexander-densley/portfolio) - 
 - [cachix/cachix-action](https://github.com/cachix/cachix-action) - Build software only once and put it in a global cache
