@@ -2478,7 +2478,7 @@
 - [AntonHakansson/nixos-config](https://github.com/AntonHakansson/nixos-config) - NixOS configuration of my machines
 - [smashstate/gnome-manager](https://github.com/smashstate/gnome-manager) - NixOS module for GNOME configuration
 - [nix-community/plasma-manager](https://github.com/nix-community/plasma-manager) - Manage KDE Plasma with Home Manager [maintainer=@HeitorAugustoLN]
-- [ocfox/den](https://github.com/ocfox/den) - And...
+- [ocfox/island](https://github.com/ocfox/island) - And...
 - [svend/user-env-nix](https://github.com/svend/user-env-nix) - Reproducible development environment powered by Nix Flakes
 - [wochap/nix-config](https://github.com/wochap/nix-config) - Personal NixOS configuration
 - [rouven0/nixos-config](https://github.com/rouven0/nixos-config) - My NixOS configuration files
@@ -2713,7 +2713,6 @@
 - [TensorBlock/awesome-mcp-servers](https://github.com/TensorBlock/awesome-mcp-servers) - A comprehensive collection of Model Context Protocol (MCP) servers
 - [lfnovo/open-notebook-boilerplate](https://github.com/lfnovo/open-notebook-boilerplate) - 
 - [joonspk-research/generative_agents](https://github.com/joonspk-research/generative_agents) - Generative Agents: Interactive Simulacra of Human Behavior
-- [NonakaVal/MyObsidianSetup](https://github.com/NonakaVal/MyObsidianSetup) - My Vault Overview and Notes
 - [martonlederer/old-profile-readme](https://github.com/martonlederer/old-profile-readme) - Please star too, don't just fork
 - [proxifly/free-proxy-list](https://github.com/proxifly/free-proxy-list) - 🚀 Free HTTP, SOCKS4, & SOCKS5 Proxy List * Updated every 5 minutes *
 - [erikgrinaker/readings](https://github.com/erikgrinaker/readings) - Interesting readings and talks on computer science
@@ -3174,6 +3173,7 @@
 
 ## Python 
 
+- [jjmartres/opencode](https://github.com/jjmartres/opencode) - A powerful, custom opencode configuration, complete with a suite of agents, commands, rules, skills, and a pre-configured MCP server. It's designed to be a flexible starting point for you to build upo
 - [seapear/AffinityOnLinux](https://github.com/seapear/AffinityOnLinux) - A repository that helps users get affinity software working on GNU/Linux 🐧
 - [sweetdevilprincess/RP-Launcher](https://github.com/sweetdevilprincess/RP-Launcher) - RP Launcher
 - [jim-plus/llm-abliteration](https://github.com/jim-plus/llm-abliteration) - Make abliterated models with transformers, easy and fast
@@ -3187,7 +3187,7 @@
 - [AndrewPaglusch/auto-avbroot](https://github.com/AndrewPaglusch/auto-avbroot) - A script to automate the tediousness of re-signing GrapheneOS OTA updates and installing them with custota
 - [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) - all of the workflows of n8n i could find (also from the site itself)
 - [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) - [EMNLP2025] "LightRAG: Simple and Fast Retrieval-Augmented Generation"
-- [volcengine/verl](https://github.com/volcengine/verl) - verl: Volcano Engine Reinforcement Learning for LLMs
+- [verl-project/verl](https://github.com/verl-project/verl) - verl: Volcano Engine Reinforcement Learning for LLMs
 - [Comfy-Org/ComfyUI-Manager](https://github.com/Comfy-Org/ComfyUI-Manager) - ComfyUI-Manager is an extension designed to enhance the usability of ComfyUI. It offers management functions to install, remove, disable, and enable various custom nodes of ComfyUI. Furthermore, this 
 - [yanshengjia/ml-road](https://github.com/yanshengjia/ml-road) - Machine Learning and Agentic AI Resources, Practice and Research
 - [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin9938
@@ -3266,6 +3266,7 @@
 - [the-crypt-keeper/tldw](https://github.com/the-crypt-keeper/tldw) - Too Long, Didn't Watch: End-to-End Rolling Summarizer of Long Videos
 - [cunnymessiah/keychecker](https://github.com/cunnymessiah/keychecker) - a key checker for various AI services
 - [microsoft/magentic-ui](https://github.com/microsoft/magentic-ui) - A research prototype of a human-centered web agent
+- [NonakaVal/MyObsidianSetup](https://github.com/NonakaVal/MyObsidianSetup) - My Vault Overview and Notes
 - [AstraBert/everything-ai](https://github.com/AstraBert/everything-ai) - Your fully proficient, AI-powered and local chatbot assistant🤖
 - [xlang-ai/OpenAgents](https://github.com/xlang-ai/OpenAgents) - [COLM 2024] OpenAgents: An Open Platform for Language Agents in the Wild
 - [SamuelSchmidgall/AgentLaboratory](https://github.com/SamuelSchmidgall/AgentLaboratory) - Agent Laboratory is an end-to-end autonomous research workflow meant to assist you as the human researcher toward implementing your research ideas
@@ -4396,6 +4397,7 @@
 
 ## TypeScript 
 
+- [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - AI Agent + Coding Agent + 300+ assistants: agentic AI desktop with autonomous coding, intelligent automation, and unified access to frontier LLMs.
 - [spoons-and-mirrors/pocket-universe](https://github.com/spoons-and-mirrors/pocket-universe) - Agentic closed loop with async capabilities
 - [simonwjackson/opencode-direnv](https://github.com/simonwjackson/opencode-direnv) - OpenCode plugin that automatically loads direnv environment variables at session start
 - [tickernelz/opencode-mem](https://github.com/tickernelz/opencode-mem) - OpenCode plugin that gives coding agents persistent memory using local vector database
@@ -4472,7 +4474,7 @@
 - [sing1ee/deepseekCoder](https://github.com/sing1ee/deepseekCoder) - Create apps with Deepseek
 - [codeskills-dev/responsive-email](https://github.com/codeskills-dev/responsive-email) - a utility for writing responsive email templates for jsx-email and react-email
 - [thegera4/nextjs-portfolio](https://github.com/thegera4/nextjs-portfolio) - This is my personal portfolio made with typescript, react, tailwind css and nextjs
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - :exploding_head: LobeHub - The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling mult
+- [lobehub/lobehub](https://github.com/lobehub/lobehub) - The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effo
 - [KazKozDev/NovelGenerator](https://github.com/KazKozDev/NovelGenerator) - Fiction generator using LLM agents to create complete novels with coherent plots, developed characters, and diverse writing styles.
 - [alexander-densley/portfolio](https://github.com/alexander-densley/portfolio) - 
 - [cachix/cachix-action](https://github.com/cachix/cachix-action) - Build software only once and put it in a global cache
