@@ -716,6 +716,7 @@
 - [OJ/gobuster](https://github.com/OJ/gobuster) - Directory/File, DNS and VHost busting tool written in Go
 - [FyshOS/fynedesk](https://github.com/FyshOS/fynedesk) - A full desktop environment for Linux/Unix using Fyne
 - [codenotary/immudb](https://github.com/codenotary/immudb) - immudb - immutable database based on zero trust, SQL/Key-Value/Document model, tamperproof, data change history
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 - [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems
 - [KCarretto/paragon](https://github.com/KCarretto/paragon) - Red Team engagement platform with the goal of unifying offensive tools behind a simple UI
 - [tvrzna/emptty](https://github.com/tvrzna/emptty) - Dead simple CLI Display Manager on TTY
@@ -952,6 +953,7 @@
 
 ## JavaScript 
 
+- [ComposioHQ/open-claude-cowork](https://github.com/ComposioHQ/open-claude-cowork) - Open Source version of Claude Cowork with 500+ SaaS app integrations
 - [Vibecoder9000/SillyTavern-ModelFolders](https://github.com/Vibecoder9000/SillyTavern-ModelFolders) - This is a SillyTavern Extension that you can use to sort giant lists of models effectively.
 - [awesome-opencode/awesome-opencode](https://github.com/awesome-opencode/awesome-opencode) - A curated list of awesome plugins, themes, agents, projects, and resources for https://opencode.ai
 - [harrywenjie/SillyTavern-Tracker-Enhanced](https://github.com/harrywenjie/SillyTavern-Tracker-Enhanced) - 
@@ -1803,7 +1805,6 @@
 - [JayJaySea/dotfiles](https://github.com/JayJaySea/dotfiles) - 
 - [kosorin/awesome-rice](https://github.com/kosorin/awesome-rice) - Opinionated config for Awesome window manager.
 - [RaphaeleL/nvim](https://github.com/RaphaeleL/nvim) - My Neovim Configuration
-- [Aylur/dotfiles](https://github.com/Aylur/dotfiles) - My personal config files
 - [hadronized/config](https://github.com/hadronized/config) - My main configuration files
 - [cjnucette/nvim.lazy](https://github.com/cjnucette/nvim.lazy) - nvim using lazy.nvim plugin manager
 - [joelazar/nvim-config](https://github.com/joelazar/nvim-config) - My neovim config
@@ -2587,6 +2588,7 @@
 - [reckenrode/nixos-configs](https://github.com/reckenrode/nixos-configs) - My NixOS and nix-darwin configs
 - [ZilchOS/core](https://github.com/ZilchOS/core) - ZilchOS Core, a decidedly tiny Nix-based distro to play with
 - [Sanatana-Linux/nixos-config](https://github.com/Sanatana-Linux/nixos-config) - Immutable, reproducible, aesthetic, all-encompassing.
+- [Aylur/dotfiles](https://github.com/Aylur/dotfiles) - My personal config files
 - [GTrunSec/nixos-flk](https://github.com/GTrunSec/nixos-flk) - highly structured NixOS configuration based on devos
 - [thiagokokada/nix-configs](https://github.com/thiagokokada/nix-configs) - My Nix{OS} configuration files
 - [nix-community/NixNG](https://github.com/nix-community/NixNG) - A linux distribution based on Nix [maintainer=@MagicRB]
@@ -3180,6 +3182,7 @@
 
 ## Python 
 
+- [deadnews/images-upload-cli](https://github.com/deadnews/images-upload-cli) - Upload images via APIs
 - [jjmartres/opencode](https://github.com/jjmartres/opencode) - A powerful, custom opencode configuration, complete with a suite of agents, commands, rules, skills, and a pre-configured MCP server. It's designed to be a flexible starting point for you to build upo
 - [seapear/AffinityOnLinux](https://github.com/seapear/AffinityOnLinux) - A repository that helps users get affinity software working on GNU/Linux 🐧
 - [sweetdevilprincess/RP-Launcher](https://github.com/sweetdevilprincess/RP-Launcher) - RP Launcher
@@ -3512,7 +3515,6 @@
 - [roddhjav/pass-import](https://github.com/roddhjav/pass-import) - A pass extension for importing data from most existing password managers
 - [archivy/archivy](https://github.com/archivy/archivy) - Archivy is a self-hostable knowledge repository that allows you to learn and retain information in your own personal and extensible wiki.
 - [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 - [audibleblink/doxycannon](https://github.com/audibleblink/doxycannon) - A poorman's proxycannon and botnet, using docker, ovpn files, tor nodes, and dante socks5 proxies
 - [KCarretto/Arsenal](https://github.com/KCarretto/Arsenal) - Extensible Red Team Framework
 - [Tmpertor/Raven-Storm](https://github.com/Tmpertor/Raven-Storm) - Raven-Storm is a powerful DDoS toolkit for penetration tests, including attacks for several protocols written in python. Takedown many connections using several exotic and classic protocols.
@@ -3895,6 +3897,7 @@
 
 ## Shell 
 
+- [djdembeck/opencode-nanogpt](https://github.com/djdembeck/opencode-nanogpt) - Automated setup scripts for configuring OpenCode with NanoGPT integration, featuring automatic model updates, reasoning model support, and built-in MCP server.
 - [dockur/macos](https://github.com/dockur/macos) - MacOS inside a Docker container.
 - [rodrigogalura/bak-rstr](https://github.com/rodrigogalura/bak-rstr) - Simple Backup & Restore: Compress, upload, and secure your files to Dropbox with a single command!
 - [NixOS/flake-registry](https://github.com/NixOS/flake-registry) - Global registry of Nix flakes
@@ -4403,6 +4406,7 @@
 
 ## TypeScript 
 
+- [CaviraOSS/OpenMemory](https://github.com/CaviraOSS/OpenMemory) - Local persistent memory store for LLM applications including claude desktop, github copilot, codex, antigravity, etc.
 - [darrenhinde/OpenAgentsControl](https://github.com/darrenhinde/OpenAgentsControl) - AI agent framework for plan-first development workflows with approval-based execution. Multi-language support (TypeScript, Python, Go, Rust) with automatic testing, code review, and validation built f
 - [victor20252025/opencode-config](https://github.com/victor20252025/opencode-config) - 🛠️ Streamline your custom opencode setup with tools for Git state, repo analysis, and task management, enhancing efficiency in your development workflow.
 - [malhashemi/opencode-skills](https://github.com/malhashemi/opencode-skills) - 
@@ -4723,7 +4727,7 @@
 - [urbanogardun/monte-note](https://github.com/urbanogardun/monte-note) - Note taking application with a rich set of editing and management features
 - [taniarascia/takenote](https://github.com/taniarascia/takenote) - 📝  ‎ A web-based notes app for developers.
 - [vuejs/core](https://github.com/vuejs/core) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
-- [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
+- [realworld-apps/realworld](https://github.com/realworld-apps/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - [material-shell/material-shell](https://github.com/material-shell/material-shell) - A modern desktop interface for Linux. Improve your user experience and get rid of the anarchy of traditional desktop workflows. Designed to simplify navigation and reduce the need to manipulate window
 - [philippetedajo/philippe.tedajo](https://github.com/philippetedajo/philippe.tedajo) - My personal portfolio.
 - [raunofreiberg/ui-playbook](https://github.com/raunofreiberg/ui-playbook) - The documented collection of UI components 🤓
