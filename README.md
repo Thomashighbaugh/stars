@@ -364,7 +364,7 @@
 - [hakan-demirli/Firefox_Custom_CSS](https://github.com/hakan-demirli/Firefox_Custom_CSS) - Firefox CSS theme to maximize the vertical space of your monitor.
 - [Catgrills/Firefox.userChrome](https://github.com/Catgrills/Firefox.userChrome) - A userChrome and userContent scripts for Mozilla Firefox
 - [gabeweb/Firefox-Browser-UI-Custom](https://github.com/gabeweb/Firefox-Browser-UI-Custom) - A custom userChrome.css and userContext.css for Firefox 84+ (January 2021). For personal purpose only.
-- [zapSNH/zapsCoolPhotonTheme](https://github.com/zapSNH/zapsCoolPhotonTheme) - z cool photon theme: party like it's firefox 87!
+- [zapSNH/zapsCoolPhotonTheme](https://github.com/zapSNH/zapsCoolPhotonTheme) - party like it's firefox 87!
 - [xmansyx/Pro-Fox](https://github.com/xmansyx/Pro-Fox) - A custome CSS Theme for firefox
 - [Tnings/CompactFox](https://github.com/Tnings/CompactFox) - 
 - [Filip-Sutkowy/blurclean-firefox-theme](https://github.com/Filip-Sutkowy/blurclean-firefox-theme) - Clean, transparent firefox theme
@@ -1512,7 +1512,6 @@
 - [rvpanoz/luna](https://github.com/rvpanoz/luna) - Manage npm dependencies through a modern UI.
 - [hundredrabbits/Themes](https://github.com/hundredrabbits/Themes) - Simple Theme Framework
 - [electron/minimal-repro](https://github.com/electron/minimal-repro) - Clone to try a simple Electron app
-- [xiaolin/react-image-gallery](https://github.com/xiaolin/react-image-gallery) - React carousel image gallery component with thumbnail support  🖼
 - [marcio/react-skylight](https://github.com/marcio/react-skylight) - A react component for modals and dialogs
 - [AnarchyLinux/installer](https://github.com/AnarchyLinux/installer) - Anarchy Linux - A simple and intuitive Arch Linux installer. https://anarchyinstaller.org/
 - [avivace/dotfiles](https://github.com/avivace/dotfiles) - i3 + Plasma: using the i3 window manager on the top of KDE Plasma and other dotfiles, configurations, scripts, workarounds and practises from my Debian Sid machines.
@@ -2886,7 +2885,6 @@
 - [vicoyeh/pointers-for-software-engineers](https://github.com/vicoyeh/pointers-for-software-engineers) - A curated list of topics to start learning software engineering
 - [Amitabha37377/Awful-DOTS](https://github.com/Amitabha37377/Awful-DOTS) - 
 - [coderdost/full-stack-dev-2023](https://github.com/coderdost/full-stack-dev-2023) - Full Stack Developer Course 2023 - CoderDost Youtube channel
-- [port19x/dotfiles](https://github.com/port19x/dotfiles) - 
 - [zemmsoares/awesome-rices](https://github.com/zemmsoares/awesome-rices) - A curated list of awesome unix user rices!
 - [jobream/List-of-Learning-Resources](https://github.com/jobream/List-of-Learning-Resources) - This collection provides a list of educational resources for Software Engineers. Feel free to add your favorite resources as well and help others in their journey of learning.
 - [SuyashLakhotia/TechInterview](https://github.com/SuyashLakhotia/TechInterview) - :gem: Cheat sheet to prep for technical interviews.
@@ -3362,7 +3360,7 @@
 - [AJaySi/ALwrity](https://github.com/AJaySi/ALwrity) - ALwrity - AI Digital Marketing Platform. AI-first personalization. RAG, SERP Factual, SEO & multilingual support. AI Content Plan, Generate, Publish, Engage, Analyze, ReMarket. (WIP)
 - [different-ai/embedbase-ava](https://github.com/different-ai/embedbase-ava) - Obsidian + Embedbase = Ava
 - [yingpengma/Awesome-Story-Generation](https://github.com/yingpengma/Awesome-Story-Generation) - This repository collects an extensive list of awesome papers about Story Generation / Storytelling, exclusively focusing on the era of Large Language Models (LLMs).
-- [Mohit6304/FableForgeAI-StoryEngine](https://github.com/Mohit6304/FableForgeAI-StoryEngine) - FableForgeAI-StoryEngine integrates cutting-edge AI technologies including Gemini-Pro, Hugging Face models, and Gradio interfaces to provide an immersive platform for generating stories, engaging with
+- [nkmohit/FableForgeAI-StoryEngine](https://github.com/nkmohit/FableForgeAI-StoryEngine) - FableForgeAI-StoryEngine integrates cutting-edge AI technologies including Gemini-Pro, Hugging Face models, and Gradio interfaces to provide an immersive platform for generating stories, engaging with
 - [Amm1rr/WebAI-to-API](https://github.com/Amm1rr/WebAI-to-API) - Gemini to API (Don't need API KEY) (ChatGPT, Claude, DeeepSeek, Grok and more)
 - [xusenlinzy/api-for-open-llm](https://github.com/xusenlinzy/api-for-open-llm) - Openai style api for open large language models, using LLMs just as chatgpt! Support for LLaMA, LLaMA-2, BLOOM, Falcon, Baichuan, Qwen, Xverse, SqlCoder, CodeLLaMA, ChatGLM, ChatGLM2, ChatGLM3 etc. 开源
 - [dhruvk2002/ats](https://github.com/dhruvk2002/ats) - This is an ATS based resume tracker which will help students to improve their resume and get a job.
@@ -3989,6 +3987,7 @@
 - [GDR/dot](https://github.com/GDR/dot) - My personal config repo for my NixOS configurations. I use Nix flakes to manage dependencies and reproducibility.
 - [arminveres/dotfiles](https://github.com/arminveres/dotfiles) - Repository for personal Unix config files
 - [juanibiapina/dotfiles](https://github.com/juanibiapina/dotfiles) - Dotfiles optimized for performance and high productivity in the terminal
+- [port19x/dotfiles](https://github.com/port19x/dotfiles) - 
 - [AmitGolden/dotfiles](https://github.com/AmitGolden/dotfiles) - AmitGold's catppuccin dotfiles!
 - [notKamui/dotfiles](https://github.com/notKamui/dotfiles) - What's hidden sometimes makes you who you are
 - [pimterry/notes](https://github.com/pimterry/notes) - :pencil: Simple delightful note taking, with more unix and less lock-in.
@@ -4755,6 +4754,7 @@
 - [async-labs/saas](https://github.com/async-labs/saas) - Build your own SaaS business with SaaS boilerplate. Productive stack: React, Material-UI, Next, MobX, WebSockets, Express, Node, Mongoose, MongoDB. Written with TypeScript.
 - [mldangelo/personal-site](https://github.com/mldangelo/personal-site) - My personal website - built with Next for Static-Export, and GitHub Pages.
 - [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
+- [xiaolin/react-image-gallery](https://github.com/xiaolin/react-image-gallery) - React carousel image gallery component with thumbnail support  🖼
 - [electron/fiddle](https://github.com/electron/fiddle) - :electron: 🚀 The easiest way to get started with Electron
 - [Sn8z/Poddr](https://github.com/Sn8z/Poddr) - Podcatcher made with Electron and Angular
 - [samuelmeuli/mini-diary](https://github.com/samuelmeuli/mini-diary) - 📘 Simple and secure journal app
