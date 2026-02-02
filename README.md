@@ -1150,6 +1150,7 @@
 - [emilamaj/bookwriter](https://github.com/emilamaj/bookwriter) - Let AI generate a complete book simply by providing a title and a description
 - [aeksco/react-typescript-web-extension-starter](https://github.com/aeksco/react-typescript-web-extension-starter) - :desktop_computer: Web Extension starter kit built with React, TypeScript, TailwindCSS, Storybook, Jest, EsLint, Prettier, and Webpack. Supports Google Chrome + Mozilla Firefox + Brave Browser + Micro
 - [jaynewey/charm-icons](https://github.com/jaynewey/charm-icons) - 🍀 Charming Open Source vector icons.
+- [carbon-design-system/carbon](https://github.com/carbon-design-system/carbon) - A design system built by IBM
 - [AI-Prompt-Genius/AI-Prompt-Genius](https://github.com/AI-Prompt-Genius/AI-Prompt-Genius) - Curate a custom library of AI Prompts
 - [CoreyGinnivan/system-uicons](https://github.com/CoreyGinnivan/system-uicons) - System UIcons is an icon library design for systems and products. Use how you want, without attribution.
 - [artcoholic/akar-icons](https://github.com/artcoholic/akar-icons) - Akar icons library as React components.
@@ -2472,6 +2473,7 @@
 - [RiscadoA/nixconfig](https://github.com/RiscadoA/nixconfig) - My NixOS configuration files.
 - [wiedzmin/nixos-config](https://github.com/wiedzmin/nixos-config) - My NixOS configuration
 - [luochen1990/nixos-config](https://github.com/luochen1990/nixos-config) - LC's personal NixOS Configuration
+- [GDR/dot](https://github.com/GDR/dot) - My personal config repo for my NixOS configurations. I use Nix flakes to manage dependencies and reproducibility.
 - [ozwaldorf/flake](https://github.com/ozwaldorf/flake) - ozwaldorf's nixos flake for everything
 - [nixvital/vital-modules](https://github.com/nixvital/vital-modules) - A collection of NixOS modules serving as building blocks to construct NixOS configurations.
 - [PetarKirov/dotfiles](https://github.com/PetarKirov/dotfiles) - My personal system and $HOME configuration managed by Nix
@@ -3069,6 +3071,7 @@
 - [Lifka/hacking-resources](https://github.com/Lifka/hacking-resources) - Hacking resources and cheat sheets. References, tools, scripts, tutorials, and other resources that help offensive and defensive security professionals.
 - [mossailem/flappe](https://github.com/mossailem/flappe) - Flappe (Flat UI Colors Pallete for Inkscape) is collection of color pallete for Inkscape that inspired from Flat UI Colors Pallete.
 - [Robert-96/inkscape-templates](https://github.com/Robert-96/inkscape-templates) - A collection of SVG templates for Inkscape.
+- [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 - [Data4Democracy/ethics-resources](https://github.com/Data4Democracy/ethics-resources) - 
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [appacademy/welcome-to-open](https://github.com/appacademy/welcome-to-open) - Overview of App Academy Open
@@ -3865,7 +3868,6 @@
 - [IanLunn/Hover](https://github.com/IanLunn/Hover) - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in C
 - [prakhar1989/docker-curriculum](https://github.com/prakhar1989/docker-curriculum) - :dolphin: A comprehensive tutorial on getting started with Docker!
 - [Thomashighbaugh/Not-Another-Devlog](https://github.com/Thomashighbaugh/Not-Another-Devlog) - Final form of my devlog. Built with React, Gatsby, SASS, Bootstrap, FontAwesome and SpaceMacs!
-- [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 - [TLH-Deprecated-Linux-Configurations/Dhumavati-Theme](https://github.com/TLH-Deprecated-Linux-Configurations/Dhumavati-Theme) - A Skeuos fork with the vice color scheme and select enhancements
 - [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - Cheatsheets for web development - devhints.io
 - [NCSU-Libraries/jekyll-academic](https://github.com/NCSU-Libraries/jekyll-academic) - 
@@ -3984,7 +3986,6 @@
 - [wolfi-dev/os](https://github.com/wolfi-dev/os) - Main package repository for production Wolfi images
 - [debuggyo/dots](https://github.com/debuggyo/dots) - more dots!
 - [phenax/nixos-dotfiles](https://github.com/phenax/nixos-dotfiles) - 
-- [GDR/dot](https://github.com/GDR/dot) - My personal config repo for my NixOS configurations. I use Nix flakes to manage dependencies and reproducibility.
 - [arminveres/dotfiles](https://github.com/arminveres/dotfiles) - Repository for personal Unix config files
 - [juanibiapina/dotfiles](https://github.com/juanibiapina/dotfiles) - Dotfiles optimized for performance and high productivity in the terminal
 - [port19x/dotfiles](https://github.com/port19x/dotfiles) - 
@@ -4533,7 +4534,6 @@
 - [element-plus/element-plus-icons](https://github.com/element-plus/element-plus-icons) - Main package for storing Element Plus icon resources.
 - [bytedance/IconPark](https://github.com/bytedance/IconPark) - 🍎Transform an SVG icon into multiple themes, and generate React icons，Vue icons，svg icons
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
-- [carbon-design-system/carbon](https://github.com/carbon-design-system/carbon) - A design system built by IBM
 - [radix-ui/icons](https://github.com/radix-ui/icons) - A crisp set of 15×15 icons designed by the @workos team.
 - [xarunoba/nextjs-daisyui-ssr](https://github.com/xarunoba/nextjs-daisyui-ssr) - Next.js 14 App Router + daisyUI. Switch themes and render in SSR.
 - [Aylur/ags](https://github.com/Aylur/ags) - Scaffolding CLI for Astal+Gnim
