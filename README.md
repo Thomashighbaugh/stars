@@ -259,7 +259,7 @@
 - [AlexWan/OsEngine](https://github.com/AlexWan/OsEngine) - Open Source algo trading platform
 - [git-ecosystem/git-credential-manager](https://github.com/git-ecosystem/git-credential-manager) - Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.
 - [dotnet-architecture/eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers) - Cross-platform .NET sample microservices and container based application that runs on Linux Windows and macOS. Powered by .NET 7, Docker Containers and Azure Kubernetes Services. Supports Visual Studi
-- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks
+- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
 - [ElevenPaths/FOCA](https://github.com/ElevenPaths/FOCA) - Tool to find metadata and hidden information in the documents.
 - [ppy/osu](https://github.com/ppy/osu) - rhythm is just a *click* away!
 - [0x7c13/Notepads](https://github.com/0x7c13/Notepads) - A modern, lightweight text editor with a minimalist design.
@@ -952,6 +952,7 @@
 
 ## JavaScript 
 
+- [confluence/firehacks](https://github.com/confluence/firehacks) - My personal customisation hacks for Firefox
 - [ComposioHQ/open-claude-cowork](https://github.com/ComposioHQ/open-claude-cowork) - Open Source version of Claude Cowork with 500+ SaaS app integrations
 - [Vibecoder9000/SillyTavern-ModelFolders](https://github.com/Vibecoder9000/SillyTavern-ModelFolders) - This is a SillyTavern Extension that you can use to sort giant lists of models effectively.
 - [awesome-opencode/awesome-opencode](https://github.com/awesome-opencode/awesome-opencode) - A curated list of awesome plugins, themes, agents, projects, and resources for https://opencode.ai
@@ -1928,6 +1929,7 @@
 - [folke/todo-comments.nvim](https://github.com/folke/todo-comments.nvim) - ✅  Highlight, list and search todo comments in your projects
 - [sudormrfbin/cheatsheet.nvim](https://github.com/sudormrfbin/cheatsheet.nvim) - A cheatsheet plugin for neovim with bundled cheatsheets for the editor, multiple vim plugins, nerd-fonts, regex, etc. with a Telescope fuzzy finder interface!
 - [mfussenegger/nvim-treehopper](https://github.com/mfussenegger/nvim-treehopper) - Region selection with hints on the AST nodes of a document powered by treesitter
+- [benbrastmckie/.config](https://github.com/benbrastmckie/.config) - NeoVim configuration optimized for writing in LaTeX with AI integration for Avante, Lectic, and Claude-Code
 - [Abstract-IDE/Abstract](https://github.com/Abstract-IDE/Abstract) - neovim as an IDE
 - [jorenheit/awesome_alttab](https://github.com/jorenheit/awesome_alttab) - Familiar Alt-Tab functionality in Awesome WM (3.5.5)
 - [jorenheit/awesome_floattile](https://github.com/jorenheit/awesome_floattile) - Tiling in a floating environment for Awesome 3.5
@@ -2241,6 +2243,7 @@
 - [huggingface/agents-course](https://github.com/huggingface/agents-course) - This repository contains the Hugging Face Agents Course.
 - [DeterminateSystems/zero-to-nix](https://github.com/DeterminateSystems/zero-to-nix) - Zero to Nix is your guide to learning Nix and flakes. Created by Determinate Systems.
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
+- [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [trigaten/Learn_Prompting](https://github.com/trigaten/Learn_Prompting) - Prompt Engineering, Generative AI, and LLM Guide by Learn Prompting | Join our discord for the largest Prompt Engineering learning community
 - [kpollich/kylepolli.ch](https://github.com/kpollich/kylepolli.ch) - My personal blog built with Astro
 - [theodorusclarence/theodorusclarence.com](https://github.com/theodorusclarence/theodorusclarence.com) - Old repository of my personal website. The revamped and new design is closed-source ✌️
@@ -2436,7 +2439,7 @@
 - [GTrunSec/hivebus](https://github.com/GTrunSec/hivebus) - A declarative configuration framework based on the structural theory of std.
 - [z0al/dotfiles](https://github.com/z0al/dotfiles) - An opinionated flake-based system configuration ❄
 - [alexanderwallau/nix](https://github.com/alexanderwallau/nix) - Nixlas OS
-- [LavaDesu/flakes](https://github.com/LavaDesu/flakes) - NixOS config using flakes
+- [cillynder/flakes](https://github.com/cillynder/flakes) - NixOS config using flakes
 - [redyf/nixdots](https://github.com/redyf/nixdots) - Modular NixOS configuration
 - [nix-community/nix-bundle](https://github.com/nix-community/nix-bundle) - Bundle Nix derivations to run anywhere! [maintainer=@matthewbauer, @Artturin]
 - [mrjones2014/dotfiles](https://github.com/mrjones2014/dotfiles) - ❄️ My dotfiles for NixOS and macOS with nix-darwin as a Nix flake.
@@ -2520,7 +2523,7 @@
 - [dawidd6/nixcfg](https://github.com/dawidd6/nixcfg) - :snowflake: My NixOS and home-manager configurations
 - [chaotic-cx/nyx](https://github.com/chaotic-cx/nyx) - Nix flake for "too much bleeding-edge" and unreleased packages (e.g., mesa_git, linux_cachyos, firefox_nightly, sway_git, gamescope_git). And experimental modules (e.g., HDR, duckdns).
 - [nicekoishi/dotfiles](https://github.com/nicekoishi/dotfiles) - hello there
-- [pogobanane/dotfiles](https://github.com/pogobanane/dotfiles) - My dotfiles. Mostly NixOS config.
+- [pogoba/dotfiles](https://github.com/pogoba/dotfiles) - My dotfiles. Mostly NixOS config.
 - [WillPower3309/nixos-config](https://github.com/WillPower3309/nixos-config) - My personal nixos config
 - [gradientvera/GradientOS](https://github.com/gradientvera/GradientOS) - Flake for multiple NixOS system configurations
 - [oddlama/nix-config](https://github.com/oddlama/nix-config) - ❄️ My nix config and dotfiles
@@ -4074,7 +4077,6 @@
 - [andrewboring/alarm-images](https://github.com/andrewboring/alarm-images) - Arch Linux Arm Base Images for Raspberry Pi
 - [cbrnix/Newaita-reborn](https://github.com/cbrnix/Newaita-reborn) - Remaster Newaia icon theme
 - [Vaeralie/ArchLinux-Maintenance-Script](https://github.com/Vaeralie/ArchLinux-Maintenance-Script) - An all-in-one script that simplifies system maintenance on Arch Linux.
-- [benbrastmckie/.config](https://github.com/benbrastmckie/.config) - NeoVim configuration optimized for writing in LaTeX with AI integration for Avante, Lectic, and Claude-Code
 - [yeyushengfan258/Honor-icon-theme-](https://github.com/yeyushengfan258/Honor-icon-theme-) - A colorful Design Rectangle icon theme for linux desktops
 - [maxrooted/instashell](https://github.com/maxrooted/instashell) - 
 - [NNBnh/superb-bootstrap](https://github.com/NNBnh/superb-bootstrap) - 🅱️ OS dotfiles-manager framework that SuperB
@@ -4615,7 +4617,6 @@
 - [jasonruesch/jasonruesch.old](https://github.com/jasonruesch/jasonruesch.old) - My personal portfolio web app
 - [JezerM/nody-greeter](https://github.com/JezerM/nody-greeter) - LightDM greeter that allows to create wonderful themes with web technologies. Made in Node.js
 - [InterwebAlchemy/obsidian-ai-research-assistant](https://github.com/InterwebAlchemy/obsidian-ai-research-assistant) - Prompt Engineering Research Tool for AI APIs
-- [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [Aylur/gnome-extensions](https://github.com/Aylur/gnome-extensions) - Gnome Extensions
 - [arifszn/gitprofile](https://github.com/arifszn/gitprofile) - 🚀 Create and publish a dynamic portfolio by just providing your GitHub username.
 - [smakosh/next-portfolio-dev](https://github.com/smakosh/next-portfolio-dev) - A portfolio for developers (Next js version)
