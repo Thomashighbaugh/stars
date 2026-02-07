@@ -226,7 +226,7 @@
 - [dylanaraps/sowm](https://github.com/dylanaraps/sowm) - An itsy bitsy floating window manager (220~ sloc!).
 - [util-linux/util-linux](https://github.com/util-linux/util-linux) - 
 - [systemd/systemd](https://github.com/systemd/systemd) - The systemd System and Service Manager
-- [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
+- [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTMP, RTMPS, 
 - [buffet/kiwmi](https://github.com/buffet/kiwmi) - A fully programmable Wayland Compositor
 - [bakkeby/dwm-flexipatch](https://github.com/bakkeby/dwm-flexipatch) - A dwm build with preprocessor directives to decide which patches to include during build time
 - [ashish-yadav11/dsblocks](https://github.com/ashish-yadav11/dsblocks) - Modular status monitor for dwm written and meant to be configured in C.
@@ -395,7 +395,6 @@
 - [Astromations/LunarFox](https://github.com/Astromations/LunarFox) - neat lil' firefox theme
 - [sameemul-haque/dotfiles](https://github.com/sameemul-haque/dotfiles) - ✨ Hyprland + Waybar with Catppuccin theme • Arch Linux
 - [etiennegnome/BottleGlass](https://github.com/etiennegnome/BottleGlass) - BottleGlass GTK3/Gnome theme
-- [VitaliyVstyle/VitaliyVstyle.github.io](https://github.com/VitaliyVstyle/VitaliyVstyle.github.io) - UserChromeFiles, Webextensions Experiments
 - [dominichayesferen/BeautyFox](https://github.com/dominichayesferen/BeautyFox) - Internet Explorer 9+ theme for Firefox 115 ESR
 - [ashish-kus/MiniSthetic_Firefox](https://github.com/ashish-kus/MiniSthetic_Firefox) - SlimFox is a minimalist dark theme for Firefox that emphasizes simplicity and elegance. Crafted for a clean, personal browsing experience, it enhances usability with subtle, refined styling.
 - [AlbusPercivalDumbledore/SweetDarkFox](https://github.com/AlbusPercivalDumbledore/SweetDarkFox) - Firefox CSS, based on Sweet Dark GTK theme's colors
@@ -831,6 +830,7 @@
 - [maizzle/starter-postmark](https://github.com/maizzle/starter-postmark) - A Maizzle starter based on Postmark's transactional email templates.
 - [Amitabha37377/HomePage](https://github.com/Amitabha37377/HomePage) - 
 - [ryangrose/easy-pandoc-templates](https://github.com/ryangrose/easy-pandoc-templates) - A collection of portable pandoc templates with no dependencies
+- [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [davidarroyo1234/InstagramUnfollowers](https://github.com/davidarroyo1234/InstagramUnfollowers) - Check if people follows you back on Instagram.
 - [leemunroe/responsive-html-email-template](https://github.com/leemunroe/responsive-html-email-template) - A free simple responsive HTML email template
 - [adevade/color-scheme-generator](https://github.com/adevade/color-scheme-generator) - When you just need some UI colors, fast.
@@ -1115,6 +1115,7 @@
 - [kustodian/extended-statusbar](https://github.com/kustodian/extended-statusbar) - Firefox addon which adds a statusbar with speed, percentage, time and loaded size (similar to Opera's one)
 - [Spiderpig86/Spiderpig86](https://github.com/Spiderpig86/Spiderpig86) - :gem: Me. This is a self-updating README. Star it if you like it :)
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
+- [VitaliyVstyle/VitaliyVstyle.github.io](https://github.com/VitaliyVstyle/VitaliyVstyle.github.io) - UserChromeFiles, Webextensions Experiments
 - [update692/firefox](https://github.com/update692/firefox) - Firefox userChrome.js scripts
 - [moritz-h/urls-list](https://github.com/moritz-h/urls-list) - Firefox Add-on to list URLs. Install here: https://addons.mozilla.org/addon/urls-list/
 - [aminought/firefox-second-sidebar](https://github.com/aminought/firefox-second-sidebar) - A Firefox userChrome.js script that brings a second sidebar with web panels like in Vivaldi/Edge/Floorp but better.
@@ -1929,7 +1930,7 @@
 - [folke/todo-comments.nvim](https://github.com/folke/todo-comments.nvim) - ✅  Highlight, list and search todo comments in your projects
 - [sudormrfbin/cheatsheet.nvim](https://github.com/sudormrfbin/cheatsheet.nvim) - A cheatsheet plugin for neovim with bundled cheatsheets for the editor, multiple vim plugins, nerd-fonts, regex, etc. with a Telescope fuzzy finder interface!
 - [mfussenegger/nvim-treehopper](https://github.com/mfussenegger/nvim-treehopper) - Region selection with hints on the AST nodes of a document powered by treesitter
-- [benbrastmckie/.config](https://github.com/benbrastmckie/.config) - NeoVim configuration optimized for writing in LaTeX with AI integration for Avante, Lectic, and Claude-Code
+- [benbrastmckie/nvim](https://github.com/benbrastmckie/nvim) - NeoVim configuration optimized for writing in LaTeX with AI integration for Avante, Lectic, and Claude-Code
 - [Abstract-IDE/Abstract](https://github.com/Abstract-IDE/Abstract) - neovim as an IDE
 - [jorenheit/awesome_alttab](https://github.com/jorenheit/awesome_alttab) - Familiar Alt-Tab functionality in Awesome WM (3.5.5)
 - [jorenheit/awesome_floattile](https://github.com/jorenheit/awesome_floattile) - Tiling in a floating environment for Awesome 3.5
@@ -2243,7 +2244,6 @@
 - [huggingface/agents-course](https://github.com/huggingface/agents-course) - This repository contains the Hugging Face Agents Course.
 - [DeterminateSystems/zero-to-nix](https://github.com/DeterminateSystems/zero-to-nix) - Zero to Nix is your guide to learning Nix and flakes. Created by Determinate Systems.
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
-- [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [trigaten/Learn_Prompting](https://github.com/trigaten/Learn_Prompting) - Prompt Engineering, Generative AI, and LLM Guide by Learn Prompting | Join our discord for the largest Prompt Engineering learning community
 - [kpollich/kylepolli.ch](https://github.com/kpollich/kylepolli.ch) - My personal blog built with Astro
 - [theodorusclarence/theodorusclarence.com](https://github.com/theodorusclarence/theodorusclarence.com) - Old repository of my personal website. The revamped and new design is closed-source ✌️
@@ -3901,7 +3901,6 @@
 
 ## Shell 
 
-- [djdembeck/opencode-nanogpt](https://github.com/djdembeck/opencode-nanogpt) - Automated setup scripts for configuring OpenCode with NanoGPT integration, featuring automatic model updates, reasoning model support, and built-in MCP server.
 - [dockur/macos](https://github.com/dockur/macos) - MacOS inside a Docker container.
 - [rodrigogalura/bak-rstr](https://github.com/rodrigogalura/bak-rstr) - Simple Backup & Restore: Compress, upload, and secure your files to Dropbox with a single command!
 - [NixOS/flake-registry](https://github.com/NixOS/flake-registry) - Global registry of Nix flakes
@@ -4411,6 +4410,7 @@
 ## TypeScript 
 
 - [NoeFabris/opencode-antigravity-auth](https://github.com/NoeFabris/opencode-antigravity-auth) - Enable Opencode to authenticate against Antigravity (Google's IDE) via OAuth so you can use Antigravity rate limits and access models like gemini-3-pro and claude-opus-4-5-thinking with your Google cr
+- [djdembeck/opencode-nanogpt](https://github.com/djdembeck/opencode-nanogpt) - Automated setup scripts for configuring OpenCode with NanoGPT integration, featuring automatic model updates, reasoning model support, and built-in MCP server.
 - [CaviraOSS/OpenMemory](https://github.com/CaviraOSS/OpenMemory) - Local persistent memory store for LLM applications including claude desktop, github copilot, codex, antigravity, etc.
 - [darrenhinde/OpenAgentsControl](https://github.com/darrenhinde/OpenAgentsControl) - AI agent framework for plan-first development workflows with approval-based execution. Multi-language support (TypeScript, Python, Go, Rust) with automatic testing, code review, and validation built f
 - [victor20252025/opencode-config](https://github.com/victor20252025/opencode-config) - 🛠️ Streamline your custom opencode setup with tools for Git state, repo analysis, and task management, enhancing efficiency in your development workflow.
