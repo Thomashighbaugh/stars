@@ -1497,6 +1497,7 @@
 - [docker-archive-public/docker.kitematic](https://github.com/docker-archive-public/docker.kitematic) - Visual Docker Container Management on Mac & Windows
 - [algokun/the404blog](https://github.com/algokun/the404blog) - An OpenSource Fully Working Blog built with GatsbyJS
 - [blahsd/snwe](https://github.com/blahsd/snwe) - 🚀 Extensible, customisable, menubar replacement for macOS/UNIX.
+- [lodeapp/lode](https://github.com/lodeapp/lode) - A universal GUI for unit testing built with Electron and Vue.js
 - [luqin/systemjs-starter-kit](https://github.com/luqin/systemjs-starter-kit) - ES6 Modules starter project that uses Gulp, Babel, SystemJS, React, react-router, react-bootstrap, ECharts, three.js
 - [Manoz/k-legrand.com](https://github.com/Manoz/k-legrand.com) - My website powered by Gatsby v2 ❤️
 - [nethruster/ptemplate](https://github.com/nethruster/ptemplate) - A personal website template that's not a pain in the ass to setup and use
@@ -2802,7 +2803,6 @@
 - [waymbers/badbard](https://github.com/waymbers/badbard) - Badbard - Google Bard's Gemini Unleashed Unrestricted and
 - [dqbd/GPTs](https://github.com/dqbd/GPTs) - leaked prompts of GPTs
 - [friuns2/BlackFriday-GPTs-Prompts](https://github.com/friuns2/BlackFriday-GPTs-Prompts) - List of free GPTs that doesn't require plus subscription
-- [gregoryg/AIPIHKAL](https://github.com/gregoryg/AIPIHKAL) - AI (LLM) Prompts I Have Known And Loved
 - [brahmai-research/aiforcause](https://github.com/brahmai-research/aiforcause) - Providing free-to-use API for AI Models to all. #aiforcause by DEEPNIGHT.
 - [vaaski/vaaski](https://github.com/vaaski/vaaski) - Overengineered, animated SVG for my GitHub profile.
 - [zhiwehu/Python-programming-exercises](https://github.com/zhiwehu/Python-programming-exercises) - 100+ Python challenging programming exercises
@@ -3789,7 +3789,7 @@
 - [justinrubek/wayland-playground](https://github.com/justinrubek/wayland-playground) - My space for experimenting with wayland
 - [pinnacle-comp/pinnacle](https://github.com/pinnacle-comp/pinnacle) - A Smithay-based Wayland compositor, inspired by AwesomeWM and configured in Lua or Rust
 - [StrataWM/strata](https://github.com/StrataWM/strata) - A cutting-edge, robust and sleek Wayland compositor with batteries included.
-- [YaLTeR/niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor.
+- [niri-wm/niri](https://github.com/niri-wm/niri) - A scrollable-tiling Wayland compositor.
 - [Smithay/smithay](https://github.com/Smithay/smithay) - A smithy for rusty wayland compositors
 - [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) - App source + Nix packages + Docker = Image
 - [jakeisnt/rustlings-nix](https://github.com/jakeisnt/rustlings-nix) - :crab: Small exercises to get you used to reading and writing Rust code - with a Nix Flakes build!
@@ -3952,6 +3952,7 @@
 - [busterc/osx-iso](https://github.com/busterc/osx-iso) -  Create a bootable ISO of OS X / macOS, from the installation app file
 - [jgamblin/MacOS-Maid](https://github.com/jgamblin/MacOS-Maid) - Shell Script I Use To Automatically Clean Up My Mac.
 - [prasanthrangan/hyprdots](https://github.com/prasanthrangan/hyprdots) - // Aesthetic, dynamic and minimal dots for Arch hyprland
+- [gregoryg/AIPIHKAL](https://github.com/gregoryg/AIPIHKAL) - AI (LLM) Prompts I Have Known And Loved
 - [nomadics9/NixOS-Flake](https://github.com/nomadics9/NixOS-Flake) - My NixOS Flake + dotfiles
 - [nix-community/nix-direnv](https://github.com/nix-community/nix-direnv) - A fast, persistent use_nix/use_flake implementation for direnv [maintainer=@Mic92 / @bbenne10]
 - [0xacx/chatGPT-shell-cli](https://github.com/0xacx/chatGPT-shell-cli) - Simple shell script to use OpenAI's ChatGPT and DALL-E from the terminal. No Python or JS required.
@@ -4748,7 +4749,6 @@
 - [GPortfolio/GPortfolio](https://github.com/GPortfolio/GPortfolio) - Creating an automatic portfolio based on Github profile
 - [nomcopter/react-mosaic](https://github.com/nomcopter/react-mosaic) - A React tiling window manager
 - [Graviton-Code-Editor/Graviton-App](https://github.com/Graviton-Code-Editor/Graviton-App) - 🚀 A modern-looking Code Editor
-- [lodeapp/lode](https://github.com/lodeapp/lode) - A universal GUI for unit testing built with Electron and Vue.js
 - [mjswensen/themer](https://github.com/mjswensen/themer) - 🎨 themer takes a set of colors and outputs themes for your apps (editors, terminals, wallpapers, and more).
 - [kremalicious/portfolio](https://github.com/kremalicious/portfolio) - 👔 Portfolio thingy
 - [kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit) - Modern React starter kit with Bun, TypeScript, Tailwind CSS, tRPC, and Cloudflare Workers. Production-ready monorepo for building fast web apps.
