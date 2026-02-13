@@ -352,6 +352,7 @@
 - [hazyfossa/ShyFox](https://github.com/hazyfossa/ShyFox) - A very shy little theme that hides the entire browser interface in the window border
 - [soapdog/little-webby-press](https://github.com/soapdog/little-webby-press) - A PWA to generate eBooks
 - [lunar-os/ZenCss](https://github.com/lunar-os/ZenCss) - 
+- [greeeen-dev/natsumi-browser](https://github.com/greeeen-dev/natsumi-browser) - Welcome to your personal internet.
 - [LoneWolf4713/new-wave](https://github.com/LoneWolf4713/new-wave) - Dotfiles for my Fedora Sway New Wave Rice!
 - [khaneliman/blurredfox](https://github.com/khaneliman/blurredfox) - A sleek, modern and elegant Firefox CSS theme
 - [Bali10050/FirefoxCSS](https://github.com/Bali10050/FirefoxCSS) - Custom firefox interface
@@ -748,6 +749,7 @@
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [OpenDiablo2/OpenDiablo2](https://github.com/OpenDiablo2/OpenDiablo2) - An open source re-implementation of Diablo 2
 - [micro-editor/micro](https://github.com/micro-editor/micro) - A modern and intuitive terminal-based text editor
+- [mescon/Muximux](https://github.com/mescon/Muximux) - A self-hosted homelab dashboard with an optional built-in reverse proxy that makes stubborn apps work in iframes
 - [exercism/cli](https://github.com/exercism/cli) - A Go based command line tool for exercism.org.
 - [syncloud/platform](https://github.com/syncloud/platform) - Run popular services on your device with one click
 - [cmars/ormesh](https://github.com/cmars/ormesh) - [UNMAINTAINED: Try https://github.com/cmars/oniongrok instead] onion-routed mesh
@@ -1031,7 +1033,6 @@
 - [SpicyMarinara/rpg-companion-sillytavern](https://github.com/SpicyMarinara/rpg-companion-sillytavern) - RPG Companion extension for SillyTavern - Track characters, quests, inventory, and game state with AI-generated content
 - [Omegastick/SillyTavern-CacheChunker](https://github.com/Omegastick/SillyTavern-CacheChunker) - Extension for improving cache utilization in Silly Tavern
 - [LenAnderson/SillyTavern-Export-HTML](https://github.com/LenAnderson/SillyTavern-Export-HTML) - Export chat history as an HTML document.
-- [greeeen-dev/natsumi-browser](https://github.com/greeeen-dev/natsumi-browser) - Welcome to your personal internet.
 - [CosmoCreeper/Sine](https://github.com/CosmoCreeper/Sine) - The ultimate theme manager for Firefox-based browsers.
 - [LenAnderson/SillyTavern-QuickReplyManager](https://github.com/LenAnderson/SillyTavern-QuickReplyManager) - 
 - [LenAnderson/SillyTavern-GoReadABook](https://github.com/LenAnderson/SillyTavern-GoReadABook) - Read your chat / story like a book.
@@ -3457,7 +3458,6 @@
 - [beejjorgensen/bgpython](https://github.com/beejjorgensen/bgpython) - Beej's Guide to Python Programming source
 - [AnonymousMeerkat/relinux](https://github.com/AnonymousMeerkat/relinux) - A free and open-source Linux distro creation toolkit
 - [poloclub/diffusiondb](https://github.com/poloclub/diffusiondb) - A large-scale text-to-image prompt gallery dataset based on Stable Diffusion
-- [structnull/dotfiles](https://github.com/structnull/dotfiles) - Dotfiles for ZoidBerg
 - [impshum/Multi-Quote](https://github.com/impshum/Multi-Quote) - Social Quote Generator Bot
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | opus 4.6 gpt 5.3 kimi 2.5 deepseek v3.2 gemini 3
 - [MarcVillain/EmailGenerator](https://github.com/MarcVillain/EmailGenerator) - Generate random emails with ease.
@@ -3661,6 +3661,7 @@
 - [AhmedSaadi0/NibrasShell](https://github.com/AhmedSaadi0/NibrasShell) - AI‑powered Quickshell UI for Hyprland with a smart capsule and dynamic theming. expressive eyes, and dynamic system integration. It blends responsive widgets, themed visuals, and intelligence to make 
 - [ec1oud/grefsen](https://github.com/ec1oud/grefsen) - A Qt/Wayland desktop
 - [Ly-sec/nixos](https://github.com/Ly-sec/nixos) - 
+- [structnull/dotfiles](https://github.com/structnull/dotfiles) - Dotfiles for ZoidBerg
 - [L4ki/Shiny-Plasma-Themes](https://github.com/L4ki/Shiny-Plasma-Themes) - Shiny Plasma Themes For Plasma Desktop
 - [Calinix-Team/Calinix-Arch](https://github.com/Calinix-Team/Calinix-Arch) - CalinixOS Linux Distribution ISO Profiles
 
@@ -4376,7 +4377,6 @@
 - [perfect-things/perfect-home](https://github.com/perfect-things/perfect-home) - firefox newtab/home replacement
 - [catchspider2002/svelte-svg-patterns](https://github.com/catchspider2002/svelte-svg-patterns) - Create seamless patterns in SVG to use as website backgrounds, header images, stationery design and package design
 - [EddieHubCommunity/good-first-issue-finder](https://github.com/EddieHubCommunity/good-first-issue-finder) - Issue-Crawler for GitHub based on Sveltekit
-- [mescon/Muximux](https://github.com/mescon/Muximux) - A lightweight way to manage your HTPC
 
 ## Swift 
 
@@ -4413,7 +4413,7 @@
 - [victor20252025/opencode-config](https://github.com/victor20252025/opencode-config) - 🛠️ Streamline your custom opencode setup with tools for Git state, repo analysis, and task management, enhancing efficiency in your development workflow.
 - [malhashemi/opencode-skills](https://github.com/malhashemi/opencode-skills) - 
 - [R44VC0RP/opencode.cafe](https://github.com/R44VC0RP/opencode.cafe) - A plugin and extension cafe for OpenCode.
-- [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - AI Agent + Coding Agent + 300+ assistants: agentic AI desktop with autonomous coding, intelligent automation, and unified access to frontier LLMs.
+- [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs
 - [spoons-and-mirrors/pocket-universe](https://github.com/spoons-and-mirrors/pocket-universe) - Agentic closed loop with async capabilities
 - [simonwjackson/opencode-direnv](https://github.com/simonwjackson/opencode-direnv) - OpenCode plugin that automatically loads direnv environment variables at session start
 - [tickernelz/opencode-mem](https://github.com/tickernelz/opencode-mem) - OpenCode plugin that gives coding agents persistent memory using local vector database
