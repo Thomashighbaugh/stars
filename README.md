@@ -12,6 +12,7 @@
 - [BitBake](#bitbake)
 - [Blade](#blade)
 - [Brainfuck](#brainfuck)
+- [Bru](#bru)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -129,6 +130,10 @@
 ## Brainfuck 
 
 - [Mtendekuyokwa19/deathtotheworld](https://github.com/Mtendekuyokwa19/deathtotheworld) - 
+
+## Bru 
+
+- [realworld-apps/realworld](https://github.com/realworld-apps/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 
 ## C 
 
@@ -715,6 +720,7 @@
 - [OJ/gobuster](https://github.com/OJ/gobuster) - Directory/File, DNS and VHost busting tool written in Go
 - [FyshOS/fynedesk](https://github.com/FyshOS/fynedesk) - A full desktop environment for Linux/Unix using Fyne
 - [codenotary/immudb](https://github.com/codenotary/immudb) - immudb - immutable database based on zero trust, SQL/Key-Value/Document model, tamperproof, data change history
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 - [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems
 - [KCarretto/paragon](https://github.com/KCarretto/paragon) - Red Team engagement platform with the goal of unifying offensive tools behind a simple UI
 - [tvrzna/emptty](https://github.com/tvrzna/emptty) - Dead simple CLI Display Manager on TTY
@@ -1496,7 +1502,6 @@
 - [docker-archive-public/docker.kitematic](https://github.com/docker-archive-public/docker.kitematic) - Visual Docker Container Management on Mac & Windows
 - [algokun/the404blog](https://github.com/algokun/the404blog) - An OpenSource Fully Working Blog built with GatsbyJS
 - [blahsd/snwe](https://github.com/blahsd/snwe) - 🚀 Extensible, customisable, menubar replacement for macOS/UNIX.
-- [lodeapp/lode](https://github.com/lodeapp/lode) - A universal GUI for unit testing built with Electron and Vue.js
 - [luqin/systemjs-starter-kit](https://github.com/luqin/systemjs-starter-kit) - ES6 Modules starter project that uses Gulp, Babel, SystemJS, React, react-router, react-bootstrap, ECharts, three.js
 - [Manoz/k-legrand.com](https://github.com/Manoz/k-legrand.com) - My website powered by Gatsby v2 ❤️
 - [nethruster/ptemplate](https://github.com/nethruster/ptemplate) - A personal website template that's not a pain in the ass to setup and use
@@ -3001,7 +3006,6 @@
 - [nicholasglazer/anarchy-firefox](https://github.com/nicholasglazer/anarchy-firefox) - Anarchy is dark, clean and simple. It's oriented to enhance your web experience by emphasizing important parts to stay focused and at the same time relaxed. This theme is a part of my Linux configurat
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [ShadowWhisperer/IPs](https://github.com/ShadowWhisperer/IPs) - IP block lists for: Malware, Bots, Hackers, scanners, etc.
-- [gilescope/cyberpunkfonts](https://github.com/gilescope/cyberpunkfonts) - Cyberpunk inspired fonts for coding
 - [stephhappens/awesome-tools-for-junior-developers](https://github.com/stephhappens/awesome-tools-for-junior-developers) - A curated list of popular tools, tips and tricks for aspiring developers.
 - [dypsilon/frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) - Manually curated collection of resources for frontend web developers.
 - [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.
@@ -3514,10 +3518,10 @@
 - [roddhjav/pass-import](https://github.com/roddhjav/pass-import) - A pass extension for importing data from most existing password managers
 - [archivy/archivy](https://github.com/archivy/archivy) - Archivy is a self-hostable knowledge repository that allows you to learn and retain information in your own personal and extensible wiki.
 - [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 - [audibleblink/doxycannon](https://github.com/audibleblink/doxycannon) - A poorman's proxycannon and botnet, using docker, ovpn files, tor nodes, and dante socks5 proxies
 - [KCarretto/Arsenal](https://github.com/KCarretto/Arsenal) - Extensible Red Team Framework
 - [Tmpertor/Raven-Storm](https://github.com/Tmpertor/Raven-Storm) - Raven-Storm is a powerful DDoS toolkit for penetration tests, including attacks for several protocols written in python. Takedown many connections using several exotic and classic protocols.
+- [gilescope/cyberpunkfonts](https://github.com/gilescope/cyberpunkfonts) - Cyberpunk inspired fonts for coding
 - [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
 - [gnebbia/kb](https://github.com/gnebbia/kb) - A minimalist command line knowledge base manager
 - [PaulMcInnis/JobFunnel](https://github.com/PaulMcInnis/JobFunnel) - Scrape job websites into a single spreadsheet with no duplicates.
@@ -3569,7 +3573,6 @@
 - [tuxity/insta-unfollower](https://github.com/tuxity/insta-unfollower) - An Instagram script to unfollow accounts who doesn't follow-you-back
 - [InstaPy/instapy-docker](https://github.com/InstaPy/instapy-docker) - 🐳 Docker config and documentation for running InstaPy with Docker
 - [jarun/buku](https://github.com/jarun/buku) - :bookmark: Personal mini-web in text
-- [lucidrains/x-transformers](https://github.com/lucidrains/x-transformers) - A concise but complete full-attention transformer with a set of promising experimental features from various papers
 - [noob-hackers/ipdrone](https://github.com/noob-hackers/ipdrone) - Track Location With Live Address And Accuracy In Termux
 - [Shpota/github-activity-generator](https://github.com/Shpota/github-activity-generator) - A script that helps generate a rich GitHub Contribution Graph for your account 🤖
 - [archlinux/archinstall](https://github.com/archlinux/archinstall) - Arch Linux installer - guided, templates etc.
@@ -3578,7 +3581,6 @@
 - [kritiksoman/GIMP-ML](https://github.com/kritiksoman/GIMP-ML) - AI for GNU Image Manipulation Program
 - [theupdateframework/python-tuf](https://github.com/theupdateframework/python-tuf) - Python reference implementation of The Update Framework (TUF)
 - [maximtrp/tab](https://github.com/maximtrp/tab) - Start Page Generator in Python :bookmark_tabs:
-- [lucidrains/deep-daze](https://github.com/lucidrains/deep-daze) - Simple command line tool for text to image generation using OpenAI's CLIP and Siren (Implicit neural representation network). Technique was originally created by https://twitter.com/advadnoun
 - [dirkjanm/CVE-2020-1472](https://github.com/dirkjanm/CVE-2020-1472) - PoC for Zerologon - all research credits go to Tom Tervoort of Secura
 - [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
 - [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager
@@ -4729,7 +4731,6 @@
 - [urbanogardun/monte-note](https://github.com/urbanogardun/monte-note) - Note taking application with a rich set of editing and management features
 - [taniarascia/takenote](https://github.com/taniarascia/takenote) - 📝  ‎ A web-based notes app for developers.
 - [vuejs/core](https://github.com/vuejs/core) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
-- [realworld-apps/realworld](https://github.com/realworld-apps/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - [material-shell/material-shell](https://github.com/material-shell/material-shell) - A modern desktop interface for Linux. Improve your user experience and get rid of the anarchy of traditional desktop workflows. Designed to simplify navigation and reduce the need to manipulate window
 - [philippetedajo/philippe.tedajo](https://github.com/philippetedajo/philippe.tedajo) - My personal portfolio.
 - [raunofreiberg/ui-playbook](https://github.com/raunofreiberg/ui-playbook) - The documented collection of UI components 🤓
@@ -4747,6 +4748,7 @@
 - [GPortfolio/GPortfolio](https://github.com/GPortfolio/GPortfolio) - Creating an automatic portfolio based on Github profile
 - [nomcopter/react-mosaic](https://github.com/nomcopter/react-mosaic) - A React tiling window manager
 - [Graviton-Code-Editor/Graviton-App](https://github.com/Graviton-Code-Editor/Graviton-App) - 🚀 A modern-looking Code Editor
+- [lodeapp/lode](https://github.com/lodeapp/lode) - A universal GUI for unit testing built with Electron and Vue.js
 - [mjswensen/themer](https://github.com/mjswensen/themer) - 🎨 themer takes a set of colors and outputs themes for your apps (editors, terminals, wallpapers, and more).
 - [kremalicious/portfolio](https://github.com/kremalicious/portfolio) - 👔 Portfolio thingy
 - [kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit) - Modern React starter kit with Bun, TypeScript, Tailwind CSS, tRPC, and Cloudflare Workers. Production-ready monorepo for building fast web apps.
