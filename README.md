@@ -692,7 +692,6 @@
 - [tazjin/nixery](https://github.com/tazjin/nixery) - Container registry which transparently builds images using the Nix package manager. Canonical repository is https://cs.tvl.fyi/depot/-/tree/tools/nixery
 - [base/node](https://github.com/base/node) - Everything required to run your own Base node
 - [pinpox/pinpox](https://github.com/pinpox/pinpox) - Profile readme
-- [cogikyo/dotfiles](https://github.com/cogikyo/dotfiles) - 🍙 an Arch enabled PDE (Personalized Development Environment)
 - [jetify-com/devbox](https://github.com/jetify-com/devbox) - Instant, easy, and predictable development environments
 - [jollheef/appvm](https://github.com/jollheef/appvm) - Nix-based app VMs
 - [betapictoris/book](https://github.com/betapictoris/book) - 📖 Read ebooks from the comfort of your terminal.
@@ -2149,6 +2148,7 @@
 - [4ban/awesome-pro](https://github.com/4ban/awesome-pro) - Awesome WM 4.x themes configs
 - [4ban/awesome-ban](https://github.com/4ban/awesome-ban) - Awesome WM 4.x theme configs
 - [tony/awesome-config](https://github.com/tony/awesome-config) - :closed_book: Example awesome wm configuration. Includes personalization support (personal.vim), theme, polyglot unicode taglists, mpd support.
+- [s1as3r/dotfiles](https://github.com/s1as3r/dotfiles) - dotfiles
 - [NlGHT/dotfiles](https://github.com/NlGHT/dotfiles) - Dotfiles, with AwesomeWM config based on https://github.com/manilarome/the-glorious-dotfiles (Floppy) but modified to suit my workflow and applications.
 - [lawsdontapplytopigs/dotfiles](https://github.com/lawsdontapplytopigs/dotfiles) - welcome to my crybb 😎😎😎😎😎😎
 - [akshat46/dotfiles-1](https://github.com/akshat46/dotfiles-1) - welcome to my crybb 😎😎😎😎😎😎
@@ -3660,7 +3660,7 @@
 - [antonjah/nix-monitor](https://github.com/antonjah/nix-monitor) - A DMS plugin for monitoring and managing nix systems.
 - [caelestia-dots/shell](https://github.com/caelestia-dots/shell) - ‼️ No waybar here ‼️
 - [noctalia-dev/noctalia-shell](https://github.com/noctalia-dev/noctalia-shell) - A sleek and minimal desktop shell thoughtfully crafted for Wayland.
-- [AhmedSaadi0/NibrasShell](https://github.com/AhmedSaadi0/NibrasShell) - AI‑powered Quickshell UI for Hyprland with a smart capsule and dynamic theming. expressive eyes, and dynamic system integration. It blends responsive widgets, themed visuals, and intelligence to make 
+- [AhmedSaadi0/NibrasShell](https://github.com/AhmedSaadi0/NibrasShell) - AI‑integrated shell.
 - [ec1oud/grefsen](https://github.com/ec1oud/grefsen) - A Qt/Wayland desktop
 - [Ly-sec/nixos](https://github.com/Ly-sec/nixos) - 
 - [structnull/dotfiles](https://github.com/structnull/dotfiles) - Dotfiles for ZoidBerg
@@ -3993,6 +3993,7 @@
 - [port19x/dotfiles](https://github.com/port19x/dotfiles) - 
 - [AmitGolden/dotfiles](https://github.com/AmitGolden/dotfiles) - AmitGold's catppuccin dotfiles!
 - [notKamui/dotfiles](https://github.com/notKamui/dotfiles) - What's hidden sometimes makes you who you are
+- [cogikyo/dotfiles](https://github.com/cogikyo/dotfiles) - 🍙 an Arch enabled PDE (Personalized Development Environment)
 - [pimterry/notes](https://github.com/pimterry/notes) - :pencil: Simple delightful note taking, with more unix and less lock-in.
 - [BachoSeven/dotfiles](https://github.com/BachoSeven/dotfiles) - rice repo
 - [filisko/fat32-formatter](https://github.com/filisko/fat32-formatter) - Partition table cleaner and FAT32 formatter.
@@ -4200,7 +4201,6 @@
 - [CuarzoSoftware/CuarzoOS](https://github.com/CuarzoSoftware/CuarzoOS) - CuarzoOS
 - [kotoko/voidlinux-iso-extra](https://github.com/kotoko/voidlinux-iso-extra) - Void (Linux) installation ISO with additional programs
 - [alealexpro100/linux_install](https://github.com/alealexpro100/linux_install) - Install any distribution using only package mirror. Lightweight, easy-to-use and customizable.
-- [s1as3r/dotfiles](https://github.com/s1as3r/dotfiles) - dotfiles
 - [diemol/cud](https://github.com/diemol/cud) - Set of scripts to set an Ubuntu desktop with VNC in the cloud
 - [guysoft/RealtimePi](https://github.com/guysoft/RealtimePi) - An out-of-the-box raspebrrypi/raspbian distro with a realtime kernel
 - [aferrero2707/gimp-plugins-collection](https://github.com/aferrero2707/gimp-plugins-collection) - 
