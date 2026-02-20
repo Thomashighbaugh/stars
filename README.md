@@ -719,6 +719,7 @@
 - [OJ/gobuster](https://github.com/OJ/gobuster) - Directory/File, DNS and VHost busting tool written in Go
 - [FyshOS/fynedesk](https://github.com/FyshOS/fynedesk) - A full desktop environment for Linux/Unix using Fyne
 - [codenotary/immudb](https://github.com/codenotary/immudb) - immudb - immutable database based on zero trust, SQL/Key-Value/Document model, tamperproof, data change history
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 - [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems
 - [KCarretto/paragon](https://github.com/KCarretto/paragon) - Red Team engagement platform with the goal of unifying offensive tools behind a simple UI
 - [tvrzna/emptty](https://github.com/tvrzna/emptty) - Dead simple CLI Display Manager on TTY
@@ -998,6 +999,7 @@
 - [gusta01010/SillyTavern-Smart-Dialogue-Colorizer-Extended](https://github.com/gusta01010/SillyTavern-Smart-Dialogue-Colorizer-Extended) - SillyTavern extension with intelligent syntax coloring and quality filtering. Highly customizable.
 - [unkarelian/timeline-memory](https://github.com/unkarelian/timeline-memory) - A tool-call based memory system for SillyTavern
 - [IceFog72/SillyTavern-ProbablyTooManyTabs](https://github.com/IceFog72/SillyTavern-ProbablyTooManyTabs) - 
+- [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.
 - [nimit95/Real-world-Design-Patterns-Node-JS](https://github.com/nimit95/Real-world-Design-Patterns-Node-JS) - All the 23 (GoF) design patterns implemented in Javascript with Real World Example using Node.js APIs
 - [ejpir/CVE-2025-55182-research](https://github.com/ejpir/CVE-2025-55182-research) - CVE-2025-55182 POC
 - [mia13165/SillyTavern-BotBrowser](https://github.com/mia13165/SillyTavern-BotBrowser) - Browse character bots and lorebooks from various sources directly in SillyTavern.
@@ -3515,7 +3517,6 @@
 - [roddhjav/pass-import](https://github.com/roddhjav/pass-import) - A pass extension for importing data from most existing password managers
 - [archivy/archivy](https://github.com/archivy/archivy) - Archivy is a self-hostable knowledge repository that allows you to learn and retain information in your own personal and extensible wiki.
 - [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 - [audibleblink/doxycannon](https://github.com/audibleblink/doxycannon) - A poorman's proxycannon and botnet, using docker, ovpn files, tor nodes, and dante socks5 proxies
 - [KCarretto/Arsenal](https://github.com/KCarretto/Arsenal) - Extensible Red Team Framework
 - [Tmpertor/Raven-Storm](https://github.com/Tmpertor/Raven-Storm) - Raven-Storm is a powerful DDoS toolkit for penetration tests, including attacks for several protocols written in python. Takedown many connections using several exotic and classic protocols.
@@ -4051,7 +4052,6 @@
 - [faisyl/alpine-runit](https://github.com/faisyl/alpine-runit) - Repo for the docker image of the same name.
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 - [lincheney/fzf-tab-completion](https://github.com/lincheney/fzf-tab-completion) - Tab completion using fzf
-- [jorgeloopzz/dotfiles](https://github.com/jorgeloopzz/dotfiles) - ❤️ My dotfiles repo, where you can find all my window managers and apps configurations.
 - [gusbemacbe/suru-plus-aspromauros](https://github.com/gusbemacbe/suru-plus-aspromauros) - A Suru++-like monochromatic icons theme for users of dark environments
 - [Git-Fal7/artix-buildiso](https://github.com/Git-Fal7/artix-buildiso) - my buildisos for artix linux
 - [dovahkiin0424/artix-install](https://github.com/dovahkiin0424/artix-install) - Simple artix linux installer script. Just clone it and run the .sh file
@@ -4435,7 +4435,6 @@
 - [dmitryplyaskin/SillyInnkeeper](https://github.com/dmitryplyaskin/SillyInnkeeper) - SillyInnkeeper is an open-source local character card manager for SillyTavern. It scans PNG cards, extracts metadata, generates previews, and provides a UI for organizing and managing large character 
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [endege/JS-Slash-Runner](https://github.com/endege/JS-Slash-Runner) - 
-- [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.
 - [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
 - [nbrown725/SillyTavern-Character-Creator-Chat](https://github.com/nbrown725/SillyTavern-Character-Creator-Chat) - A SillyTavern extension that creates character LLMs.
 - [anomalyco/opentui](https://github.com/anomalyco/opentui) - OpenTUI is a library for building terminal user interfaces (TUIs)
