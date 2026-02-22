@@ -12,7 +12,6 @@
 - [BitBake](#bitbake)
 - [Blade](#blade)
 - [Brainfuck](#brainfuck)
-- [Bru](#bru)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -131,12 +130,9 @@
 
 - [Mtendekuyokwa19/deathtotheworld](https://github.com/Mtendekuyokwa19/deathtotheworld) - 
 
-## Bru 
-
-- [realworld-apps/realworld](https://github.com/realworld-apps/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
-
 ## C 
 
+- [simrat39/simwm](https://github.com/simrat39/simwm) - sim's wayland compositor (wip)
 - [kaansenol5/VibeOS](https://github.com/kaansenol5/VibeOS) - A completely vibecoded operating system targeting Aarch64
 - [brailcom/speechd](https://github.com/brailcom/speechd) - Common high-level interface to speech synthesis
 - [utelle/SQLite3MultipleCiphers](https://github.com/utelle/SQLite3MultipleCiphers) - SQLite3 encryption extension with support for multiple ciphers
@@ -958,6 +954,7 @@
 
 ## JavaScript 
 
+- [X00LA/Extension-DynamicLore](https://github.com/X00LA/Extension-DynamicLore) - SillyTavern extension for automatically updating World Info entries
 - [confluence/firehacks](https://github.com/confluence/firehacks) - My personal customisation hacks for Firefox
 - [ComposioHQ/open-claude-cowork](https://github.com/ComposioHQ/open-claude-cowork) - Open Source version of Claude Cowork with 500+ SaaS app integrations
 - [Vibecoder9000/SillyTavern-ModelFolders](https://github.com/Vibecoder9000/SillyTavern-ModelFolders) - This is a SillyTavern Extension that you can use to sort giant lists of models effectively.
@@ -2291,6 +2288,7 @@
 
 ## Nix 
 
+- [akibahmed229/nixos](https://github.com/akibahmed229/nixos) - My NixOS Configuration
 - [AniviaFlome/nix-config](https://github.com/AniviaFlome/nix-config) - My Nixos Config
 - [SeniorMatt/Matthew-s-NixOS](https://github.com/SeniorMatt/Matthew-s-NixOS) - My NixOS configuration
 - [polygon/scalpel](https://github.com/polygon/scalpel) - Minimally invasive safe secret provisioning to Nix-generated service config files
@@ -3709,6 +3707,8 @@
 
 ## Rust 
 
+- [ohogb/hyu](https://github.com/ohogb/hyu) - A wayland compositor
+- [geekylthyosaur/well](https://github.com/geekylthyosaur/well) - Wayland compositor
 - [alexpasmantier/television](https://github.com/alexpasmantier/television) - A very fast, portable and hackable fuzzy finder.
 - [rustybucket-cloud/tarantula](https://github.com/rustybucket-cloud/tarantula) - 
 - [BoundaryML/baml](https://github.com/BoundaryML/baml) - The AI framework that adds the engineering to prompt engineering (Python/TS/Ruby/Java/C#/Rust/Go compatible)
@@ -4733,6 +4733,7 @@
 - [urbanogardun/monte-note](https://github.com/urbanogardun/monte-note) - Note taking application with a rich set of editing and management features
 - [taniarascia/takenote](https://github.com/taniarascia/takenote) - 📝  ‎ A web-based notes app for developers.
 - [vuejs/core](https://github.com/vuejs/core) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+- [realworld-apps/realworld](https://github.com/realworld-apps/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - [material-shell/material-shell](https://github.com/material-shell/material-shell) - A modern desktop interface for Linux. Improve your user experience and get rid of the anarchy of traditional desktop workflows. Designed to simplify navigation and reduce the need to manipulate window
 - [philippetedajo/philippe.tedajo](https://github.com/philippetedajo/philippe.tedajo) - My personal portfolio.
 - [raunofreiberg/ui-playbook](https://github.com/raunofreiberg/ui-playbook) - The documented collection of UI components 🤓
