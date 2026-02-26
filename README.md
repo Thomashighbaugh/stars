@@ -1416,7 +1416,7 @@
 - [sintaxi/harp](https://github.com/sintaxi/harp) - Static Web Server/Generator/Bundler
 - [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
 - [react-static/react-static](https://github.com/react-static/react-static) - ⚛️ 🚀 A progressive static site generator for React.
-- [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The best React-based framework with performance, scalability and security built in.
+- [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - React-based framework with performance, scalability, and security built in.
 - [11ty/eleventy](https://github.com/11ty/eleventy) - A simpler site generator. Transforms a directory of templates (of varying types) into HTML.
 - [get-alex/alex](https://github.com/get-alex/alex) - Catch insensitive, inconsiderate writing
 - [softvar/enhanced-github](https://github.com/softvar/enhanced-github) - :rocket: Browser extension to display size of each file, download link and copy file contents directly to the clipboard
@@ -3425,7 +3425,6 @@
 - [gohanko/asanitize](https://github.com/gohanko/asanitize) - A simple commandline tool to bulk delete messages and posts from your social media accounts.
 - [NixOS/nixops](https://github.com/NixOS/nixops) - NixOps is a tool for deploying to NixOS machines in a network or cloud.
 - [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - The first real AI developer
-- [HugoReeves/elemental](https://github.com/HugoReeves/elemental) - Elemental, the component parts of a Nix/OS development system.
 - [jekil/awesome-hacking](https://github.com/jekil/awesome-hacking) - Awesome hacking is an awesome collection of hacking tools.
 - [maximedrn/opensea-automatic-bulk-upload-and-sale](https://github.com/maximedrn/opensea-automatic-bulk-upload-and-sale) - A Selenium Python bot to automatically and bulk upload/ mint and list your NFTs on OpenSea. All metadata compatible, Ethereum and Polygon blockchains supported, reCAPTCHA solvers included.
 - [AaronWLChan/file-organiser](https://github.com/AaronWLChan/file-organiser) - Simple File Organiser
