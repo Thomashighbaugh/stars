@@ -2076,7 +2076,6 @@
 - [kurbel/awesome-config](https://github.com/kurbel/awesome-config) - configuration files for the awesome window manager (awesomewm)
 - [nvim-lua/popup.nvim](https://github.com/nvim-lua/popup.nvim) - [WIP] An implementation of the Popup API from vim in Neovim. Hope to upstream when complete
 - [ibhagwan/nvim-lua](https://github.com/ibhagwan/nvim-lua) - 
-- [elianiva/dotfiles](https://github.com/elianiva/dotfiles) - .
 - [Degete/nvim-config](https://github.com/Degete/nvim-config) - ⚙️ Neovim config files
 - [s1n7ax/nvim-window-picker](https://github.com/s1n7ax/nvim-window-picker) - This plugins prompts the user to pick a window and returns the window id of the picked window
 - [rafcamlet/nvim-luapad](https://github.com/rafcamlet/nvim-luapad) - Interactive real time neovim scratchpad for embedded lua engine - type and watch!
@@ -2332,7 +2331,6 @@
 - [hadilq/nixos-configuration](https://github.com/hadilq/nixos-configuration) - My NixOS configuration
 - [adrianparvino/NixOSEncryptedLiveCD](https://github.com/adrianparvino/NixOSEncryptedLiveCD) - 
 - [djacu/nixcv](https://github.com/djacu/nixcv) - A tool to separate resume/cv content from output products. The output products (e.g. plaintext, PDF, etc) are built with Nix.
-- [calops/nix](https://github.com/calops/nix) - Personal NixOS and Home Manager configuration
 - [bobvanderlinden/nixos-config](https://github.com/bobvanderlinden/nixos-config) - My personal NixOS and home-manager configuration
 - [rasmus-kirk/nix-config](https://github.com/rasmus-kirk/nix-config) - My nix config for all my machines
 - [chayleaf/dotfiles](https://github.com/chayleaf/dotfiles) - my NixOS/home-manager config
@@ -3119,7 +3117,7 @@
 - [SlashArash/slashicon](https://github.com/SlashArash/slashicon) - SlashIcon is an icon theme for Linux. It's included cursor and icon theme.
 - [endeavouros-team/repo](https://github.com/endeavouros-team/repo) - 
 - [alma4rebi/Plank-Themes-1](https://github.com/alma4rebi/Plank-Themes-1) - Huge Plank Theme Collection ( 107 themes )
-- [dipakkr/A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - ✅  Curated list of resources for college students
+- [dipakkr/A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - ✅  Curated list of resources for developers
 - [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:
 - [Jaredk3nt/laserwave](https://github.com/Jaredk3nt/laserwave) - A retro outrun / cyberpunk inspired VS Code theme
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
@@ -3228,7 +3226,7 @@
 - [FaceDeer/storyteller](https://github.com/FaceDeer/storyteller) - A simple framework for using a local Koboldcpp LLM to help with story-writing
 - [sologuy/BookmarkSummarizer](https://github.com/sologuy/BookmarkSummarizer) - 🧠 Turn Chrome bookmarks into a personal knowledge base with AI summaries. Supports OpenAI, Deepseek, Qwen, and Ollama.
 - [mikecreighton/knowledge-generator](https://github.com/mikecreighton/knowledge-generator) - A simple tool for generating information about a topic to be fed into NotebookLM.
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Connect any LLM to your internal knowledge sources and chat with it in real time alongside your team. OSS alternative to NotebookLM, Perplexity, and Glean. Join our Discord: https://discord.gg/ejRNvft
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open source alternative to NotebookLM for teams. Join our Discord: https://discord.gg/ejRNvftDp9
 - [pop-os/icon-theme](https://github.com/pop-os/icon-theme) - System76 Pop icon theme for Linux
 - [chigwell/langchain_llm7](https://github.com/chigwell/langchain_llm7) - 
 - [jaxparrow07/Androidx86-Installer-Linux](https://github.com/jaxparrow07/Androidx86-Installer-Linux) - Advanced Android x86 Installer for Linux
@@ -3663,6 +3661,7 @@
 - [AhmedSaadi0/NibrasShell](https://github.com/AhmedSaadi0/NibrasShell) - AI‑integrated shell.
 - [ec1oud/grefsen](https://github.com/ec1oud/grefsen) - A Qt/Wayland desktop
 - [Ly-sec/nixos](https://github.com/Ly-sec/nixos) - 
+- [calops/nix](https://github.com/calops/nix) - Personal NixOS and Home Manager configuration
 - [structnull/dotfiles](https://github.com/structnull/dotfiles) - Dotfiles for ZoidBerg
 - [L4ki/Shiny-Plasma-Themes](https://github.com/L4ki/Shiny-Plasma-Themes) - Shiny Plasma Themes For Plasma Desktop
 - [Calinix-Team/Calinix-Arch](https://github.com/Calinix-Team/Calinix-Arch) - CalinixOS Linux Distribution ISO Profiles
@@ -4679,6 +4678,7 @@
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 - [notemarks/notemarks](https://github.com/notemarks/notemarks) - A git based labeling app to manage notes, documents, and bookmarks.
+- [elianiva/dotfiles](https://github.com/elianiva/dotfiles) - .
 - [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
 - [mvximenko/dunno](https://github.com/mvximenko/dunno) - Simplified version of IMDb
 - [KaterinaLupacheva/my-projects-dashboard](https://github.com/KaterinaLupacheva/my-projects-dashboard) - Next.js, Material UI, MongoDB Personal Dashboard with dev.to, GitHub, Twitter, and npm API integration.
@@ -4769,7 +4769,7 @@
 - [samuelmeuli/mini-diary](https://github.com/samuelmeuli/mini-diary) - 📘 Simple and secure journal app
 - [digimezzo/knowte](https://github.com/digimezzo/knowte) - Cross platform note taking application
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
-- [nteract/nteract](https://github.com/nteract/nteract) - 📘 The interactive computing suite for you!  ✨
+- [nteract/archived-desktop-app](https://github.com/nteract/archived-desktop-app) - The old electron based nteract notebook
 - [gpmer/gpm.js](https://github.com/gpmer/gpm.js) - :gem:Git Package Manager, make you manage the repository easier, Power by Typescript & Nodejs
 - [akveo/eva-icons](https://github.com/akveo/eva-icons) - A pack of more than 480 beautifully crafted Open Source icons. SVG, Sketch, Web Font and Animations support.
 - [streamich/libreact](https://github.com/streamich/libreact) - Collection of useful React components
