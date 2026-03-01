@@ -145,7 +145,7 @@
 - [icculus/fatelf](https://github.com/icculus/fatelf) - Universal binaries for Linux.
 - [Mentors4EDU/Reinvent-the-Internet](https://github.com/Mentors4EDU/Reinvent-the-Internet) - I want to change the way we transfer wireless data and utilize this for a series of projects
 - [migueldeoleiros/turtile](https://github.com/migueldeoleiros/turtile) - turtile 🐢 is a simple Wayland compositor written in C, based on wlroots
-- [DreamMaoMao/mangowc](https://github.com/DreamMaoMao/mangowc) - Practical and Powerful wayland compositor (dwm but wayland)
+- [mangowm/mango](https://github.com/mangowm/mango) - Practical and Powerful wayland compositor (dwm but wayland)
 - [nikoloc/mwc](https://github.com/nikoloc/mwc) - tiling wayland compositor based on wlroots and scenefx
 - [TeaInside/teavpn2](https://github.com/TeaInside/teavpn2) - TeaVPN2 - An open source VPN Software (currently supported platform is only Linux).
 - [Cudiph/cwcwm](https://github.com/Cudiph/cwcwm) - Hackable wayland compositor
@@ -905,6 +905,7 @@
 - [kubernetes/website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:
 - [Jaredk3nt/homepage](https://github.com/Jaredk3nt/homepage) - Custom homepage for use locally in browser
 - [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
+- [UbuntuBudgie/budgie-desktop-environment](https://github.com/UbuntuBudgie/budgie-desktop-environment) - Metapackage to install all components of the Ubuntu Budgie desktop environment
 - [Thomashighbaugh/RESURGENS-PORTFOLIO-HTML-CSS](https://github.com/Thomashighbaugh/RESURGENS-PORTFOLIO-HTML-CSS) - resurgens volume 1 still active as demo
 - [MicroPad/MicroPad-Electron](https://github.com/MicroPad/MicroPad-Electron) - The desktop app of https://github.com/MicroPad/MicroPad-Core
 - [sovereign/sovereign](https://github.com/sovereign/sovereign) - A set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more.
@@ -2345,7 +2346,7 @@
 - [cynicsketch/nix-mineral](https://github.com/cynicsketch/nix-mineral) - Conveniently and reasonably harden NixOS.
 - [ibizaman/skarabox](https://github.com/ibizaman/skarabox) - Opinionated and simplified headless NixOS installer.
 - [ibizaman/selfhostblocks](https://github.com/ibizaman/selfhostblocks) - Modular server management based on NixOS modules and focused on best practices.
-- [ksevelyar/idempotent-desktop](https://github.com/ksevelyar/idempotent-desktop) - ❄️  nixos, fish, neovim, leftwm
+- [ksevelyar/idempotent-desktop](https://github.com/ksevelyar/idempotent-desktop) - ❄️  nixos, fish, neovim, hyprland
 - [PaulGrandperrin/nix-systems](https://github.com/PaulGrandperrin/nix-systems) - 
 - [nix-community/srvos](https://github.com/nix-community/srvos) - NixOS profiles for servers [maintainer=@numtide]
 - [Serpentian/AlfheimOS](https://github.com/Serpentian/AlfheimOS) - ❄️ AlfheimOS (NixOS + home-manager + hyprland + ags + neovim)
@@ -3644,7 +3645,6 @@
 - [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
 - [gto76/python-cheatsheet](https://github.com/gto76/python-cheatsheet) - Comprehensive Python Cheatsheet
 - [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
-- [UbuntuBudgie/budgie-desktop-environment](https://github.com/UbuntuBudgie/budgie-desktop-environment) - Metapackage to install all components of the Ubuntu Budgie desktop environment
 - [cmoscardi/lilite](https://github.com/cmoscardi/lilite) - Lilite: A Linux package installer
 - [scottslowe/learning-tools](https://github.com/scottslowe/learning-tools) - A collection of tools and files for learning new technologies
 - [deepgram/kur](https://github.com/deepgram/kur) - Descriptive Deep Learning
@@ -4663,7 +4663,7 @@
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [anirudhvarma12/rabbit-hole-webext](https://github.com/anirudhvarma12/rabbit-hole-webext) - A Browser Extension to trace your Wikipedia Journeys
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
-- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
+- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2026
 - [pawelmalak/flame](https://github.com/pawelmalak/flame) - Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors.
 - [hood/homie](https://github.com/hood/homie) - A minimalistic personal dashboard.
 - [Thomashighbaugh/startpage-figma-balls-nextjs](https://github.com/Thomashighbaugh/startpage-figma-balls-nextjs) - A recreation of a startpage posted on Reddit without the source, so I rewrote it in Next.js + Tailwind for the open source community.
