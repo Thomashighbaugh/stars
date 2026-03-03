@@ -1000,7 +1000,6 @@
 - [gusta01010/SillyTavern-Smart-Dialogue-Colorizer-Extended](https://github.com/gusta01010/SillyTavern-Smart-Dialogue-Colorizer-Extended) - SillyTavern extension with intelligent syntax coloring and quality filtering. Highly customizable.
 - [unkarelian/timeline-memory](https://github.com/unkarelian/timeline-memory) - A tool-call based memory system for SillyTavern
 - [IceFog72/SillyTavern-ProbablyTooManyTabs](https://github.com/IceFog72/SillyTavern-ProbablyTooManyTabs) - 
-- [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.
 - [nimit95/Real-world-Design-Patterns-Node-JS](https://github.com/nimit95/Real-world-Design-Patterns-Node-JS) - All the 23 (GoF) design patterns implemented in Javascript with Real World Example using Node.js APIs
 - [ejpir/CVE-2025-55182-research](https://github.com/ejpir/CVE-2025-55182-research) - CVE-2025-55182 POC
 - [mia13165/SillyTavern-BotBrowser](https://github.com/mia13165/SillyTavern-BotBrowser) - Browse character bots and lorebooks from various sources directly in SillyTavern.
@@ -2682,7 +2681,7 @@
 - [ceruleandeep/SillyTavern-SelfExpression](https://github.com/ceruleandeep/SillyTavern-SelfExpression) - Experiments in self-selection and self-generation of agent images
 - [multianimus/Jacks-Silly-QuickReplies](https://github.com/multianimus/Jacks-Silly-QuickReplies) - Quick replies for SillyTavern
 - [mind-network/Awesome-LLM-based-AI-Agents-Knowledge](https://github.com/mind-network/Awesome-LLM-based-AI-Agents-Knowledge) - LLM-based AI Agent Knowledge Sharing
-- [zebbern/no-cost-ai](https://github.com/zebbern/no-cost-ai) - A Collection of no cost ai websites with models such as Claude 4 sonnet/opus, Grok 4, o3 Pro, Gemini 2.5 Pro for free & much more...
+- [zebbern/no-cost-ai](https://github.com/zebbern/no-cost-ai) - 80+ free AI services for chat, image, video, voice & APIs (may sometimes include access to lead gen ai models for free)
 - [sakanomichi/LumiaDLC](https://github.com/sakanomichi/LumiaDLC) - Personality packs and prompts/alterations for Lucid Loom.
 - [cha1latte/sillytavern-preset-creator](https://github.com/cha1latte/sillytavern-preset-creator) - Prompts for creating SillyTavern presets with AI - from basic parameters to 60+ module mega-presets
 - [prolix-oc/ST-Presets](https://github.com/prolix-oc/ST-Presets) - 
@@ -3192,6 +3191,7 @@
 - [serpapi/google-search-results-python](https://github.com/serpapi/google-search-results-python) - Google Search Results via SERP API pip Python Package
 - [prolix-oc/BananaBread](https://github.com/prolix-oc/BananaBread) - 
 - [us/linkedIn_auto_jobs_applier_with_AI_fast](https://github.com/us/linkedIn_auto_jobs_applier_with_AI_fast) - LinkedIn_AIHawk is a tool that automates  the jobs application process on LinkedIn. Utilizing artificial intelligence, it enables users to apply for multiple job offers in an automated and personalize
+- [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.
 - [Fajar-RahmadJaya/google-dawg](https://github.com/Fajar-RahmadJaya/google-dawg) - Automate Google dorking without getting banned
 - [helallao/perplexity-ai](https://github.com/helallao/perplexity-ai) - Unofficial API Wrapper for Perplexity.ai + Account Generator with Web Interface
 - [Bachkhairi/study_assistant](https://github.com/Bachkhairi/study_assistant) - A modular CLI tool that automates note-taking, summarization, and Q&A, integrating with Notion and YouTube to help you learn faster and retain knowledge efficiently.
@@ -3416,7 +3416,7 @@
 - [tuan3w/obsidian-template](https://github.com/tuan3w/obsidian-template) - Starter templates for Obsidian
 - [AI-Guru/writebookswithai](https://github.com/AI-Guru/writebookswithai) - Writing books with AI.
 - [protectai/ai-exploits](https://github.com/protectai/ai-exploits) - A collection of real world AI/ML exploits for responsibly disclosed vulnerabilities
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform
 - [stjordanis/betterprompt](https://github.com/stjordanis/betterprompt) - Test suite for LLM prompts
 - [grandchild/autohidewibox](https://github.com/grandchild/autohidewibox) - Execute awesome wm commands on ModKey press/release
 - [detailyang/awesome-cheatsheet](https://github.com/detailyang/awesome-cheatsheet) - :beers: awesome cheatsheet
@@ -3694,7 +3694,7 @@
 - [middleman/middleman](https://github.com/middleman/middleman) - Hand-crafted frontend development
 - [jekyll/jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
 - [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
-- [Terrastories/terrastories](https://github.com/Terrastories/terrastories) - Terrastories is a geostorytelling application for mapping, managing and sharing place-based stories.
+- [Terrastories/terrastories](https://github.com/Terrastories/terrastories) - Terrastories is an open-source geostorytelling application for mapping, managing and sharing place-based stories. The application is being co-created with Indigenous and other local communities to col
 - [sds/scss-lint](https://github.com/sds/scss-lint) - Configurable tool for writing clean, consistent SCSS
 - [itkin/proselytism](https://github.com/itkin/proselytism) - Ruby document converter, text and image extractor using OpenOffice headless server, pdf_tools and net_pbm (RoR engine)
 - [angela-d/resgen](https://github.com/angela-d/resgen) - Keep track of jobs you've applied to, automate resume & cover letter creation; generate PDFs from .odt templates on the fly while scraping the job post and tracking employer status.
