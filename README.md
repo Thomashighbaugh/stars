@@ -1659,7 +1659,7 @@
 - [Ngz91/dotfiles](https://github.com/Ngz91/dotfiles) - Configuration files & Installation guide for Arch
 - [isaksamsten/nvim-config](https://github.com/isaksamsten/nvim-config) - 
 - [tonybanters/nixos-from-scratch](https://github.com/tonybanters/nixos-from-scratch) - 
-- [Kritiqual/Awesome](https://github.com/Kritiqual/Awesome) - [WIP] This repo contain all my config for AwesomeWM
+- [Kritiqual/awesome](https://github.com/Kritiqual/awesome) - [WIP] This repo contain all my config for AwesomeWM
 - [nesktf/dotfiles](https://github.com/nesktf/dotfiles) - haha funny dotfiles
 - [slicetext/awm_dots](https://github.com/slicetext/awm_dots) - My dotfiles
 - [sewergweller/heraclitian-nix](https://github.com/sewergweller/heraclitian-nix) - Everything flows, nothing remains the same. NixOS configuration centered around ephemeral roots and the impermanence module.
@@ -1908,6 +1908,7 @@
 - [berlam/awesome-remember-geometry](https://github.com/berlam/awesome-remember-geometry) - Remember client location when switching between floating, tiling and maximized
 - [bytes-chaser/neon-dream](https://github.com/bytes-chaser/neon-dream) - AwesomeWM setup
 - [eromatiya/awesome-glorious-widgets](https://github.com/eromatiya/awesome-glorious-widgets) - A stash of widgets I wrote while ricing
+- [samrathchadha/.dotfiles](https://github.com/samrathchadha/.dotfiles) - My fish, alacritty, iterm2, tmux, nvim, tmux, discoss and zathura configs!
 - [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins
 - [jaeheonji/nvim](https://github.com/jaeheonji/nvim) - Simple and extensible neovim config with awesome community plugins 🚀
 - [alohaia/nvimcfg](https://github.com/alohaia/nvimcfg) - My NeoVim configuration with built-in packer, written in Lua.
@@ -4070,7 +4071,6 @@
 - [bensuperpc/scripts](https://github.com/bensuperpc/scripts) - Collection of useful scripts for Linux (git, docker, LUKS, Archlinux...)
 - [bensuperpc/docker-scripts](https://github.com/bensuperpc/docker-scripts) - Collection of useful scripts for docker
 - [Thomashighbaugh/color-scripts](https://github.com/Thomashighbaugh/color-scripts) - Shell Color Script Management Utility
-- [samrathchadha/.dotfiles](https://github.com/samrathchadha/.dotfiles) - My fish, alacritty, iterm2, tmux, nvim, tmux, discoss and zathura configs!
 - [TermuxHackz/wifi-hacker](https://github.com/TermuxHackz/wifi-hacker) - Shell Script For Attacking Wireless Connections Using Built-In Kali Tools. Supports All Securities (WEP, WPS, WPA, WPA2)
 - [GabrielTenma/dotfiles](https://github.com/GabrielTenma/dotfiles) - Configuration files in Unix-like systems
 - [3enedict/Arch-Linux-ARM-installer](https://github.com/3enedict/Arch-Linux-ARM-installer) - 
