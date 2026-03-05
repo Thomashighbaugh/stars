@@ -342,6 +342,7 @@
 ## CSS 
 
 - [EliverLara/firefox-sweet-theme](https://github.com/EliverLara/firefox-sweet-theme) - :candy: A dark and modern theme for firefox with vibrant colors
+- [jjmartres/opencode](https://github.com/jjmartres/opencode) - A powerful, custom opencode configuration, complete with a suite of agents, commands, rules, skills, and a pre-configured MCP server. It's designed to be a flexible starting point for you to build upo
 - [vinceliuice/WhiteSur-firefox-theme](https://github.com/vinceliuice/WhiteSur-firefox-theme) - Mac OS Safari theme for Firefox on Linux
 - [nyxkrage/st-discord-inspired](https://github.com/nyxkrage/st-discord-inspired) - Discord Inspired Theme for SillyTavern
 - [reizumii/parfait](https://github.com/reizumii/parfait) - A tasty theme modification for Firefox 🦊
@@ -3185,7 +3186,6 @@
 ## Python 
 
 - [deadnews/images-upload-cli](https://github.com/deadnews/images-upload-cli) - Upload images via APIs
-- [jjmartres/opencode](https://github.com/jjmartres/opencode) - A powerful, custom opencode configuration, complete with a suite of agents, commands, rules, skills, and a pre-configured MCP server. It's designed to be a flexible starting point for you to build upo
 - [seapear/AffinityOnLinux](https://github.com/seapear/AffinityOnLinux) - A repository that helps users get affinity software working on GNU/Linux 🐧
 - [sweetdevilprincess/RP-Launcher](https://github.com/sweetdevilprincess/RP-Launcher) - RP Launcher
 - [jim-plus/llm-abliteration](https://github.com/jim-plus/llm-abliteration) - Make abliterated models with transformers, easy and fast
