@@ -691,7 +691,6 @@
 - [pinpox/pinpox](https://github.com/pinpox/pinpox) - Profile readme
 - [jetify-com/devbox](https://github.com/jetify-com/devbox) - Instant, easy, and predictable development environments
 - [jollheef/appvm](https://github.com/jollheef/appvm) - Nix-based app VMs
-- [betapictoris/book](https://github.com/betapictoris/book) - 📖 Read ebooks from the comfort of your terminal.
 - [ssleert/zfxtop](https://github.com/ssleert/zfxtop) - [WIP] fetch top for gen Z with X written by bubbletea enjoyer
 - [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking tool. Capture thoughts instantly, own them completely — no tracking, no ads, no subscription fees.
 - [cheshire137/gen-svgo-pattern](https://github.com/cheshire137/gen-svgo-pattern) - Generate Go code to create SVG patterns from a given SVG image.
@@ -780,7 +779,6 @@
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
 - [5nacks/OSINTBookmarks](https://github.com/5nacks/OSINTBookmarks) - OSINT Bookmarks for Firefox / Chrome / Edge / Safari
 - [WalterBarrett/sillytavern-actions](https://github.com/WalterBarrett/sillytavern-actions) - 
-- [rwietter/nixos](https://github.com/rwietter/nixos) - ⚡ rwietter's NixOS settings
 - [MuftiAnees/StartPage](https://github.com/MuftiAnees/StartPage) - A startpage for web browsers
 - [HirotakaDango/iframes](https://github.com/HirotakaDango/iframes) - Split screens through iframes.
 - [natthasath/vibe-liquid-macos](https://github.com/natthasath/vibe-liquid-macos) - Vibe Liquid macOS brings the sleek look and feel of macOS’s liquid-style interface to your browser. Enjoy smooth animations, elegant design, and intuitive interactions that mimic the macOS experience—
@@ -1661,6 +1659,7 @@
 - [Ngz91/dotfiles](https://github.com/Ngz91/dotfiles) - Configuration files & Installation guide for Arch
 - [isaksamsten/nvim-config](https://github.com/isaksamsten/nvim-config) - 
 - [tonybanters/nixos-from-scratch](https://github.com/tonybanters/nixos-from-scratch) - 
+- [rwietter/nixos](https://github.com/rwietter/nixos) - ⚡ rwietter's NixOS settings
 - [Kritiqual/awesome](https://github.com/Kritiqual/awesome) - [WIP] This repo contain all my config for AwesomeWM
 - [nesktf/dotfiles](https://github.com/nesktf/dotfiles) - haha funny dotfiles
 - [slicetext/awm_dots](https://github.com/slicetext/awm_dots) - My dotfiles
@@ -2433,6 +2432,7 @@
 - [malob/nix-config](https://github.com/malob/nix-config) - My Nix system configs!
 - [tiredofit/nixos-config](https://github.com/tiredofit/nixos-config) - NixOS configurations
 - [jethrokuan/nix-config](https://github.com/jethrokuan/nix-config) - 
+- [PsychoLlama/recommendations](https://github.com/PsychoLlama/recommendations) - A list of the most impactful things I go out of my way to recommend.
 - [erictossell/nixflakes](https://github.com/erictossell/nixflakes) - My nixdots, but flaked.
 - [workflow/dotfiles](https://github.com/workflow/dotfiles) - 💫 NixOS configuration files
 - [nix-community/nixGL](https://github.com/nix-community/nixGL) - A wrapper tool for nix OpenGL application [maintainer=@guibou]
@@ -2857,7 +2857,6 @@
 - [wikibonsai/garden-beds](https://github.com/wikibonsai/garden-beds) - Starter digital gardens
 - [yokoffing/ChatGPT-Prompts](https://github.com/yokoffing/ChatGPT-Prompts) - ChatGPT and Bing AI prompt curation
 - [FredaXin/itslit](https://github.com/FredaXin/itslit) - A GitHub template which you can use to create automated git commits daily
-- [PsychoLlama/recommendations](https://github.com/PsychoLlama/recommendations) - A list of the most impactful things I go out of my way to recommend.
 - [zama-ai/awesome-zama](https://github.com/zama-ai/awesome-zama) - A curated list of amazing Fully Homomorphic Encryption (FHE) resources created by the team at Zama.
 - [hedyhli/hedyhli](https://github.com/hedyhli/hedyhli) - Yet another profile readme.
 - [Cyfrin/OpenPositions](https://github.com/Cyfrin/OpenPositions) - 
@@ -3196,7 +3195,7 @@
 - [serpapi/google-search-results-python](https://github.com/serpapi/google-search-results-python) - Google Search Results via SERP API pip Python Package
 - [prolix-oc/BananaBread](https://github.com/prolix-oc/BananaBread) - 
 - [us/linkedIn_auto_jobs_applier_with_AI_fast](https://github.com/us/linkedIn_auto_jobs_applier_with_AI_fast) - LinkedIn_AIHawk is a tool that automates  the jobs application process on LinkedIn. Utilizing artificial intelligence, it enables users to apply for multiple job offers in an automated and personalize
-- [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.
+- [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
 - [Fajar-RahmadJaya/google-dawg](https://github.com/Fajar-RahmadJaya/google-dawg) - Automate Google dorking without getting banned
 - [helallao/perplexity-ai](https://github.com/helallao/perplexity-ai) - Unofficial API Wrapper for Perplexity.ai + Account Generator with Web Interface
 - [Bachkhairi/study_assistant](https://github.com/Bachkhairi/study_assistant) - A modular CLI tool that automates note-taking, summarization, and Q&A, integrating with Notion and YouTube to help you learn faster and retain knowledge efficiently.
@@ -3225,7 +3224,7 @@
 - [BaoNguyen09/github-second-brain](https://github.com/BaoNguyen09/github-second-brain) - Providing tools to AI to explore github codebase like agent
 - [preethamb97/AIContentForge](https://github.com/preethamb97/AIContentForge) - A revolutionary AI system that generates factually accurate, research-enhanced YouTube video scripts. Every topic is automatically researched using DuckDuckGo and Wikipedia to ensure current, verified
 - [stitionai/devika](https://github.com/stitionai/devika) - Devika is the first open-source implementation of an Agentic Software Engineer. Initially started as an open-source alternative to Devin.
-- [pulpgen-dev/pulpgen](https://github.com/pulpgen-dev/pulpgen) - AI novel writing agent 🤖 Turns your idea into a complete first draft using Gemini. Features outlining, auto-writing, interactive AI editing, and CLI control. 📚✍️
+- [muckelverk/pulpgen](https://github.com/muckelverk/pulpgen) - AI novel writing agent 🤖 Turns your idea into a complete first draft using Gemini. Features outlining, auto-writing, interactive AI editing, and CLI control. 📚✍️
 - [adamwlarson/ai-book-writer](https://github.com/adamwlarson/ai-book-writer) - Experimenting with AutoGen to see if an entire book can be written with AI agents
 - [fangfufu/LLM-book-generator](https://github.com/fangfufu/LLM-book-generator) - Let's generate books using LLM
 - [FaceDeer/storyteller](https://github.com/FaceDeer/storyteller) - A simple framework for using a local Koboldcpp LLM to help with story-writing
@@ -3917,7 +3916,7 @@
 - [mullvad/dns-blocklists](https://github.com/mullvad/dns-blocklists) - Lists and configuration for our DNS blocking service
 - [raffaelschneider/walnut](https://github.com/raffaelschneider/walnut) - Walnut is an open, flexible, and POSIX-compatible standard for organizing personal knowledge bases—a modern "second brain" system.
 - [basaran/awmtt-ng](https://github.com/basaran/awmtt-ng) - awesomewm testing tool. This fork allows auto reload via entr.
-- [rwxrob/dot](https://github.com/rwxrob/dot) - The big ugly, enter at your own peril
+- [rwxrob/dot](https://github.com/rwxrob/dot) - The big ugly, enter at your own peril (cleanup branch has latest)
 - [obuzek/llm-second-brain](https://github.com/obuzek/llm-second-brain) - The LM Desk project is a central entrypoint for configuring a set of awesome tools that will power your desktop productivity using generative AI. This is a project-of-projects that brings together the
 - [yeyushengfan258/Particle-circle-grub-theme](https://github.com/yeyushengfan258/Particle-circle-grub-theme) - Particle-circle-grub-theme
 - [AbkhazianDevelopers/AdobePhotoshopOnLinux](https://github.com/AbkhazianDevelopers/AdobePhotoshopOnLinux) - AdobePhotoshopOnLinux — это установщик на bash, созданный для облегчения установки Adobe Photoshop на операционные системы семейства Linux. Этот скрипт автоматизирует процесс установки, позволяя польз
