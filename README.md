@@ -133,6 +133,7 @@
 
 ## C 
 
+- [killvxk/openforbusiness-realoriginal](https://github.com/killvxk/openforbusiness-realoriginal) - WIP:A generic UEFI shellcode intended to be patched into a DXE phase driver or `bootmgfw` on the ESP volume of the hard drive to toggle off integrity checks for Kernel Driver testing purposes.
 - [aitorfirm/BlackIris](https://github.com/aitorfirm/BlackIris) - Thats it! An Open-Source Windows UEFI Rootkit
 - [LongSoft/CrScreenshotDxe](https://github.com/LongSoft/CrScreenshotDxe) - UEFI DXE driver to take screenshots from GOP-compatible graphic consoles
 - [celestial-wl/celestial](https://github.com/celestial-wl/celestial) - Celestial Wayland Compositor
@@ -670,6 +671,7 @@
 
 ## Go 
 
+- [andyrewlee/amux](https://github.com/andyrewlee/amux) - TUI for easily running parallel coding agents
 - [containerd/containerd](https://github.com/containerd/containerd) - An open and reliable container runtime
 - [3timeslazy/nix-search-tv](https://github.com/3timeslazy/nix-search-tv) - Fuzzy search for Nix packages.
 - [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
@@ -1571,6 +1573,7 @@
 
 ## Jupyter Notebook 
 
+- [mikexcohen/calculusWithPython](https://github.com/mikexcohen/calculusWithPython) - Master calculus 1 using Python: derivatives and applications
 - [decodingai-magazine/second-brain-ai-assistant-course](https://github.com/decodingai-magazine/second-brain-ai-assistant-course) - Learn to build your Second Brain AI assistant with LLMs, agents, RAG, fine-tuning, LLMOps and AI systems techniques.
 - [ksm26/AI-Agentic-Design-Patterns-with-AutoGen](https://github.com/ksm26/AI-Agentic-Design-Patterns-with-AutoGen) - Learn to build and customize multi-agent systems using the AutoGen. The course teaches you to implement complex AI applications through agent collaboration and advanced design patterns.
 - [sinanuozdemir/oreilly-ai-agents](https://github.com/sinanuozdemir/oreilly-ai-agents) - An introduction to the world of AI Agents
@@ -2375,7 +2378,7 @@
 - [BirdeeHub/birdeeSystems](https://github.com/BirdeeHub/birdeeSystems) - my personal nix config (install at your own risk, there are no instructions and the installer alias reformats drives)
 - [GoogleBot42/nix-config](https://github.com/GoogleBot42/nix-config) - My NixOS Configurations
 - [jakubgs/nixos-config](https://github.com/jakubgs/nixos-config) - Configuration for my hosts running NixOS
-- [CHN-beta/nixos](https://github.com/CHN-beta/nixos) - my nixos configuration
+- [CHN-beta/nixos](https://github.com/CHN-beta/nixos) - All my cyber infra, as code
 - [nmasur/dotfiles](https://github.com/nmasur/dotfiles) - Nix configuration and settings
 - [solomon-b/nixos-config](https://github.com/solomon-b/nixos-config) - Homelab managed wtih Nix Flakes
 - [ConnorBaker/nixos-configs](https://github.com/ConnorBaker/nixos-configs) - 
@@ -2681,6 +2684,9 @@
 
 ## Others 
 
+- [alt-0191/Lenovo-UEFI-Unlocker](https://github.com/alt-0191/Lenovo-UEFI-Unlocker) - A backup of SmokelessRuntimeEFIPatcher
+- [Maxinator500/SREP-Patches](https://github.com/Maxinator500/SREP-Patches) - 
+- [LearnMachineLearning/the-math-of-intelligence](https://github.com/LearnMachineLearning/the-math-of-intelligence) - List of resources & possible pathway for the Math of Machine Learning and AI.
 - [Haxxnet/Compose-Examples](https://github.com/Haxxnet/Compose-Examples) - Various Docker Compose examples of selfhosted FOSS and proprietary projects.
 - [KhazP/vibe-coding-prompt-template](https://github.com/KhazP/vibe-coding-prompt-template) - Templates and workflow for generating PRDs, Tech Designs, and MVP and more using LLMs for AI IDEs
 - [JRedeker/opencode-shell-strategy](https://github.com/JRedeker/opencode-shell-strategy) - Teaches LLMs to use non-interactive shell flags in OpenCode (no TTY/PTY available)
@@ -3857,6 +3863,7 @@
 
 ## SCSS 
 
+- [zelestcarlyone/stacks](https://github.com/zelestcarlyone/stacks) - Lightweight download manager for Anna's Archive with fast downloads, web UI, and API support.
 - [edelvarden/material-fox-updated](https://github.com/edelvarden/material-fox-updated) - 🦊 Firefox user CSS theme looks similar to Chrome
 - [Fausto-Korpsvart/Nightfox-GTK-Theme](https://github.com/Fausto-Korpsvart/Nightfox-GTK-Theme) - A GTK theme based on the Nightfox colour palette.
 - [ckissane/materia-theme-transparent](https://github.com/ckissane/materia-theme-transparent) - A Material Design theme for GNOME/GTK based desktop environments
@@ -3909,6 +3916,7 @@
 
 ## Shell 
 
+- [IamJony/book-scraping](https://github.com/IamJony/book-scraping) - A Bash script to search and download books using  shadows libraries
 - [Rakosn1cek/xc-manager](https://github.com/Rakosn1cek/xc-manager) - Small script to save your commands and descriptions
 - [dockur/macos](https://github.com/dockur/macos) - MacOS inside a Docker container.
 - [rodrigogalura/bak-rstr](https://github.com/rodrigogalura/bak-rstr) - Simple Backup & Restore: Compress, upload, and secure your files to Dropbox with a single command!
@@ -4417,6 +4425,7 @@
 
 ## TypeScript 
 
+- [agnusdei1207/opencode-orchestrator](https://github.com/agnusdei1207/opencode-orchestrator) - Opencode Plugin for AI-Agent Orchestration
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [joelhooks/swarm-tools](https://github.com/joelhooks/swarm-tools) - 🐝 Multi-agent swarm coordination for OpenCode with learning capabilities, agent issue tracking, and management
 - [ryaker/zora](https://github.com/ryaker/zora) - Zora — a long‑running local AI agent with provider registry and secure tool access.
