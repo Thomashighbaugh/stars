@@ -2435,7 +2435,6 @@
 - [shazow/nixfiles](https://github.com/shazow/nixfiles) - Some of my .nix files
 - [NobbZ/nix-dotfiles](https://github.com/NobbZ/nix-dotfiles) - 
 - [SolidRhino/nixos-config-1](https://github.com/SolidRhino/nixos-config-1) - My Personal Nix, NixOS and Nix-Darwin System Configuration Flake
-- [malob/nix-config](https://github.com/malob/nix-config) - My Nix system configs!
 - [tiredofit/nixos-config](https://github.com/tiredofit/nixos-config) - NixOS configurations
 - [jethrokuan/nix-config](https://github.com/jethrokuan/nix-config) - 
 - [PsychoLlama/recommendations](https://github.com/PsychoLlama/recommendations) - A list of the most impactful things I go out of my way to recommend.
@@ -3413,6 +3412,7 @@
 - [earthonion/ChatGPT-Book-Generator](https://github.com/earthonion/ChatGPT-Book-Generator) - Input any book title and it will generate a full book in PDF format.
 - [mikavehns/BookGPT](https://github.com/mikavehns/BookGPT) - Writes complete books with given paramters, using GPT-3.
 - [fdtory/FictionGPT](https://github.com/fdtory/FictionGPT) - Write fiction stories with given parameters, using GPT-3,5
+- [malob/nix-config](https://github.com/malob/nix-config) - My Nix system configs!
 - [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - The best local UI for large language models, with easy setup and powerful features. 100% offline.
 - [zestor/Muses](https://github.com/zestor/Muses) - Artificial Intelligence (AI) Long Form Fiction Writer using OpenAI or NLP Cloud
 - [mozilla/fxemoji](https://github.com/mozilla/fxemoji) - FxEmojis - a friendly emoji set from Mozilla
@@ -4363,7 +4363,7 @@
 - [kilbith/smi](https://github.com/kilbith/smi) - Simple Multiboot Integrator powered by GRUB
 - [thias/glim](https://github.com/thias/glim) - GRUB Live ISO Multiboot
 - [lilyinstarlight/mkusb](https://github.com/lilyinstarlight/mkusb) - A shell script to create ISO multiboot USB flash drives that support both legacy and EFI boot
-- [jaredallard/dotfiles](https://github.com/jaredallard/dotfiles) - [MIRROR] These are my dotfiles. There are many like them, but these are mine.
+- [jaredallard/dotfiles](https://github.com/jaredallard/dotfiles) - [MIGRATED] These are my dotfiles. There are many like them, but these are mine.
 - [grm34/archboot](https://github.com/grm34/archboot) - 💠 Arch Linux Installer | No more maintained, please use https://github.com/archlinux/archinstall
 - [cbrnix/Newaita](https://github.com/cbrnix/Newaita) - Linux icon theme
 - [Thomashighbaugh/colt45gui](https://github.com/Thomashighbaugh/colt45gui) - Quickly Provision Your Linux Desktop With Useful Applications With a GUI Installer Menu
@@ -4399,6 +4399,7 @@
 
 ## Swift 
 
+- [signerlabs/Klee](https://github.com/signerlabs/Klee) - A native macOS AI chat app powered by MLX. 100% local inference on Apple Silicon, no cloud required. Built with ShipSwift.
 - [ianyh/Amethyst](https://github.com/ianyh/Amethyst) - Automatic tiling window manager for macOS à la xmonad.
 
 ## SystemVerilog 
@@ -4446,7 +4447,6 @@
 - [boxpositron/with-context-mcp](https://github.com/boxpositron/with-context-mcp) - Enhanced note taking for AI Agents with supervision.
 - [welvet/SillyTavern-BananaGen](https://github.com/welvet/SillyTavern-BananaGen) - 
 - [Inktomi93/SillyTavern-CardRefinery](https://github.com/Inktomi93/SillyTavern-CardRefinery) - A SillyTavern extension providing an iterative AI pipeline (Score → Rewrite → Analyze) to evaluate, fix, and refine character cards while preserving their core personality.
-- [signerlabs/Klee](https://github.com/signerlabs/Klee) - Secure and local AI on your desktop with a built-in RAG knowledge base and Markdown note support.
 - [bmen25124/SillyTavern-Custom-Scenario](https://github.com/bmen25124/SillyTavern-Custom-Scenario) - A SillyTavern extension that allows you to create and play interactive character cards.  Want to customize the scenario before starting? Define character traits, starting location, or any other key el
 - [lunarblazepony/BlazeTracker](https://github.com/lunarblazepony/BlazeTracker) - A SillyTavern extension that uses LLM analysis to track and maintain scene state across roleplay conversations. Helps AI models stay consistent with physical positions, outfits, time of day, mood, and
 - [Rudhra517/Sillytavern-forge](https://github.com/Rudhra517/Sillytavern-forge) - Ai based advance character generator
