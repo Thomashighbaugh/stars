@@ -1642,6 +1642,7 @@
 - [SimpleMobileTools/Simple-App-Launcher](https://github.com/SimpleMobileTools/Simple-App-Launcher) - A simple holder for favourite apps for quick & easy app launcher icon management
 - [MM2-0/Kvaesitso](https://github.com/MM2-0/Kvaesitso) - A search-focused Android launcher
 - [rektdeckard/iconpacktools](https://github.com/rektdeckard/iconpacktools) - A handy utility for Android icon pack creators to easily generate key assets and resources.
+- [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 - [osmanonurkoc/papirusadaptive](https://github.com/osmanonurkoc/papirusadaptive) - Famous Linux Icon theme port for android
 - [hadiyarajesh/insta-bot](https://github.com/hadiyarajesh/insta-bot) - Instagram automation library to perform likes, comments, follow, story viewing and much more.
 - [EmiyaSyahriel/CrossLauncher](https://github.com/EmiyaSyahriel/CrossLauncher) - XMB-like Android Launcher
@@ -2426,7 +2427,6 @@
 - [oluceps/nixos-config](https://github.com/oluceps/nixos-config) - Configuration for describing my systems. And NUR
 - [Ruixi-rebirth/flakes](https://github.com/Ruixi-rebirth/flakes) - My presonal NixOS config, etc.
 - [dr460nf1r3/dr460nixed](https://github.com/dr460nf1r3/dr460nixed) - Dr460nixed NixOS 🐉❄️
-- [stepbrobd/dotfiles](https://github.com/stepbrobd/dotfiles) - yet another dotfiles repo with nix
 - [the-nix-way/nome](https://github.com/the-nix-way/nome) - My Nix home
 - [divnix/hive](https://github.com/divnix/hive) - The secretly open NixOS-Society
 - [infinisil/system](https://github.com/infinisil/system) - My system configuration
@@ -3078,7 +3078,7 @@
 - [Thomashighbaugh/stars](https://github.com/Thomashighbaugh/stars) - A curated list of my GitHub stars!
 - [zeikar/fairy-of-grass](https://github.com/zeikar/fairy-of-grass) - :octocat: Auto generating Github contributions everyday using Github Actions.
 - [neutralinojs/evaluation](https://github.com/neutralinojs/evaluation) - Neutralinojs vs Electron vs Nw.js
-- [saturn-abhishek/awesome-github-profile-readme](https://github.com/saturn-abhishek/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile which updates in real time
+- [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile which updates in real time
 - [aniftyco/awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss) - 😎 Awesome things related to Tailwind CSS
 - [Lifka/hacking-resources](https://github.com/Lifka/hacking-resources) - Hacking resources and cheat sheets. References, tools, scripts, tutorials, and other resources that help offensive and defensive security professionals.
 - [mossailem/flappe](https://github.com/mossailem/flappe) - Flappe (Flat UI Colors Pallete for Inkscape) is collection of color pallete for Inkscape that inspired from Flat UI Colors Pallete.
@@ -3668,6 +3668,7 @@
 
 ## QML 
 
+- [noctalia-dev/noctalia-plugins](https://github.com/noctalia-dev/noctalia-plugins) - Noctalia's official plugins
 - [xZepyx/nucleus-shell](https://github.com/xZepyx/nucleus-shell) - A modular desktop shell written with qml, c++ and javascript
 - [ZerkerEOD/shell](https://github.com/ZerkerEOD/shell) - A very segsy desktop shell
 - [antonjah/nix-monitor](https://github.com/antonjah/nix-monitor) - A DMS plugin for monitoring and managing nix systems.
@@ -3843,7 +3844,6 @@
 - [perfah/Rustland](https://github.com/perfah/Rustland) - A Wayland compositor written in Rust, hence the cool name
 - [solana-labs/solana](https://github.com/solana-labs/solana) - Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
 - [nuta/kerla](https://github.com/nuta/kerla) - A new operating system kernel with Linux binary compatibility written in Rust.
-- [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 - [rust-cv/cv](https://github.com/rust-cv/cv) - Rust CV mono-repo. Contains pure-Rust dependencies which attempt to encapsulate the capability of OpenCV, OpenMVG, and vSLAM frameworks in a cohesive set of APIs.
 - [sminez/penrose](https://github.com/sminez/penrose) - A library for writing an X11 tiling window manager
 - [MartinKavik/kavik.cz](https://github.com/MartinKavik/kavik.cz) - Personal website in Rust.
@@ -3919,6 +3919,7 @@
 
 ## Shell 
 
+- [23blocks-OS/ai-maestro-plugins](https://github.com/23blocks-OS/ai-maestro-plugins) - Build custom skill sets for your AI agents. Pick skills from GitHub, mix your own, assemble a tailored Claude Code plugin. Like uploading Kung Fu into Neo — but for your AI.
 - [IamJony/book-scraping](https://github.com/IamJony/book-scraping) - A Bash script to search and download books using  shadows libraries
 - [Rakosn1cek/xc-manager](https://github.com/Rakosn1cek/xc-manager) - Small script to save your commands and descriptions
 - [dockur/macos](https://github.com/dockur/macos) - MacOS inside a Docker container.
