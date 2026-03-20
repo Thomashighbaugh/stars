@@ -1374,7 +1374,6 @@
 - [gautamkrishnar/refined-github-feeds](https://github.com/gautamkrishnar/refined-github-feeds) - This browser extension enables you to filter the GitHub news feeds based on different event types.
 - [basharovV/StumbleUponAwesome](https://github.com/basharovV/StumbleUponAwesome) - ⚡️A browser extension that takes you to a random site from one of the awesome curated lists. Like good ol' StumbleUpon, for developers, tech & science lovers.
 - [manojVivek/medium-unlimited](https://github.com/manojVivek/medium-unlimited) - A browser extension to read medium.com articles for free without membership.
-- [johnjones4/InBrief](https://github.com/johnjones4/InBrief) - InBrief is a personal briefing app and dashboard powered by Electron and React
 - [inbasic/open-two-factor-authenticator](https://github.com/inbasic/open-two-factor-authenticator) - A sync-able open-source two-factor authenticator for Firefox, Opera, Safari, Chrome and Android
 - [embarklabs/embark](https://github.com/embarklabs/embark) - Framework for serverless Decentralized Applications using Ethereum, IPFS and other platforms
 - [Thomashighbaugh/coolStarter](https://github.com/Thomashighbaugh/coolStarter) - A Gatsby starter with TinaCMS inspired by TinaGrande
@@ -1657,6 +1656,7 @@
 
 ## Lua 
 
+- [pirafrank/what-size.yazi](https://github.com/pirafrank/what-size.yazi) - A plugin for yazi to calculate the size of current selection or current working directory
 - [stevearc/conform.nvim](https://github.com/stevearc/conform.nvim) - Lightweight yet powerful formatter plugin for Neovim
 - [chrisgrieser/nvim-lsp-endhints](https://github.com/chrisgrieser/nvim-lsp-endhints) - Display LSP inlay hints at the end of the line, rather than within the line.
 - [2KAbhishek/nerdy.nvim](https://github.com/2KAbhishek/nerdy.nvim) - Find Nerd Glyphs Easily 🤓🔭
@@ -2686,6 +2686,7 @@
 
 ## Others 
 
+- [andyrewlee/awesome-agent-orchestrators](https://github.com/andyrewlee/awesome-agent-orchestrators) - List of agent orchestrators
 - [alt-0191/Lenovo-UEFI-Unlocker](https://github.com/alt-0191/Lenovo-UEFI-Unlocker) - A backup of SmokelessRuntimeEFIPatcher
 - [Maxinator500/SREP-Patches](https://github.com/Maxinator500/SREP-Patches) - 
 - [LearnMachineLearning/the-math-of-intelligence](https://github.com/LearnMachineLearning/the-math-of-intelligence) - List of resources & possible pathway for the Math of Machine Learning and AI.
@@ -3002,7 +3003,6 @@
 - [arete/docker-latex](https://github.com/arete/docker-latex) - docker latex image based on glibc voidlinux
 - [SethStormR/Winter](https://github.com/SethStormR/Winter) - Winter icon set is based on WhiteSur, Bloom and Papirus icon set. Autumn is aimed for Deepin DE and elementary OS.
 - [im-yuria/My-Wallpapers](https://github.com/im-yuria/My-Wallpapers) - my wallpaper collection
-- [bluejive/Wallpapers](https://github.com/bluejive/Wallpapers) - The definitive collection of wallpapers: by Blu3Jive001
 - [DeusMalsith/wallpaper-collection](https://github.com/DeusMalsith/wallpaper-collection) - 
 - [dennyzhang/popular-github-template](https://github.com/dennyzhang/popular-github-template) - :green_book: Repo Template: Make Your GitHub Repos More Popular
 - [TheAutodidactDidact/ObsidianMD-MSS](https://github.com/TheAutodidactDidact/ObsidianMD-MSS) - Obsidian Markdown MSS Folder
@@ -3467,7 +3467,6 @@
 - [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl) - Collect your thoughts and notes without leaving the command line.
 - [jbuchermn/newm](https://github.com/jbuchermn/newm) - Wayland compositor
 - [new92/igfi](https://github.com/new92/igfi) - 🤖 IGFI: InstaGram Followers Increaser 📈 | Written in Python 🐍 | Don't forget to ⭐ the repo !
-- [Darkkal44/Cozytile](https://github.com/Darkkal44/Cozytile) - A Cozy rice ❃
 - [EvilDrPorkChop/OpenSea-NFT-Creator](https://github.com/EvilDrPorkChop/OpenSea-NFT-Creator) - A collection of python scripts which help you programatically create PNGs or GIFs and their Metadata in bulk with custom rarity rates, upload them to OpenSea & list them for sale.
 - [thiagokokada/nix-alien](https://github.com/thiagokokada/nix-alien) - Run unpatched binaries on Nix/NixOS
 - [DRACULA-HACK/C-hacks](https://github.com/DRACULA-HACK/C-hacks) - All social Media hacking with information gathering
@@ -3730,6 +3729,7 @@
 
 ## Rust 
 
+- [gioleppe/SpixelaTUIr](https://github.com/gioleppe/SpixelaTUIr) - TUI based rust image glitcher
 - [ohogb/hyu](https://github.com/ohogb/hyu) - A wayland compositor
 - [geekylthyosaur/well](https://github.com/geekylthyosaur/well) - Wayland compositor
 - [alexpasmantier/television](https://github.com/alexpasmantier/television) - A very fast, portable and hackable fuzzy finder.
@@ -4004,7 +4004,7 @@
 - [mikeroyal/Linux-Mint-Guide](https://github.com/mikeroyal/Linux-Mint-Guide) - Linux Mint Guide
 - [gh0stzk/dotfiles](https://github.com/gh0stzk/dotfiles) - BSPWM environment with 18 themes. With a theme selector to change on the fly.
 - [olivierodo/Awesome-CV-action](https://github.com/olivierodo/Awesome-CV-action) - A GitHub action to keep you Awesome CV up to date through continuous integration
-- [exorcize/dotfiles](https://github.com/exorcize/dotfiles) - Dotfiles for Arch Linux & MacOS
+- [exorcize/dotfiles](https://github.com/exorcize/dotfiles) - [OUT] Dotfiles for Arch Linux & MacOS
 - [ericdallo/dotfiles](https://github.com/ericdallo/dotfiles) - Dotfiles for my NixOS system based on Dracula theme
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
 - [shapeshed/notes](https://github.com/shapeshed/notes) - Simple, lightweight note taking from the command line
