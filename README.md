@@ -272,6 +272,7 @@
 
 ## C++ 
 
+- [quickshell-mirror/quickshell](https://github.com/quickshell-mirror/quickshell) - Flexible toolkit for making desktop shells with QtQuick, for Wayland and X11
 - [IllicitFrog/luapulse](https://github.com/IllicitFrog/luapulse) - 
 - [IllicitFrog/luaclip](https://github.com/IllicitFrog/luaclip) - Clipboard manager for awesomewm Text only!
 - [RMTT/lua-pam](https://github.com/RMTT/lua-pam) - A module for lua  to use PAM.
@@ -671,6 +672,7 @@
 
 ## Go 
 
+- [sgreben/yeetgif](https://github.com/sgreben/yeetgif) - gif effects CLI. single binary, no dependencies. linux, osx, windows. #1 workplace productivity booster. #yeetgif #eggplant #golang
 - [andyrewlee/amux](https://github.com/andyrewlee/amux) - TUI for easily running parallel coding agents
 - [containerd/containerd](https://github.com/containerd/containerd) - An open and reliable container runtime
 - [3timeslazy/nix-search-tv](https://github.com/3timeslazy/nix-search-tv) - Fuzzy search for Nix packages.
@@ -966,6 +968,8 @@
 
 ## JavaScript 
 
+- [zlouis/react-photography](https://github.com/zlouis/react-photography) - Photography website built with ReactJs & MongoDB
+- [5hubham5ingh/kitty-panel](https://github.com/5hubham5ingh/kitty-panel) - Kitty terminal based system panel for linux.
 - [X00LA/Extension-DynamicLore](https://github.com/X00LA/Extension-DynamicLore) - SillyTavern extension for automatically updating World Info entries
 - [confluence/firehacks](https://github.com/confluence/firehacks) - My personal customisation hacks for Firefox
 - [ComposioHQ/open-claude-cowork](https://github.com/ComposioHQ/open-claude-cowork) - Open Source version of Claude Cowork with 500+ SaaS app integrations
@@ -3196,6 +3200,8 @@
 
 ## Python 
 
+- [volcengine/OpenViking](https://github.com/volcengine/OpenViking) - OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need throu
+- [smerchek/claude-epub-skill](https://github.com/smerchek/claude-epub-skill) - A Claude Skill for converting markdown documents, chat summaries, or research reports into a downloadable epub file that can be sent to kindle
 - [AreteDriver/animus](https://github.com/AreteDriver/animus) - An exocortex architecture for personal cognitive sovereignty
 - [Yavuz-Kagan-Yadigar/Qt6-SVG-Re-color-Tool](https://github.com/Yavuz-Kagan-Yadigar/Qt6-SVG-Re-color-Tool) - A Qt6 GUI SVG re-color tool to match icon packs to your Linux theme
 - [microsoft/qlib](https://github.com/microsoft/qlib) - Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, incl
@@ -3467,6 +3473,7 @@
 - [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl) - Collect your thoughts and notes without leaving the command line.
 - [jbuchermn/newm](https://github.com/jbuchermn/newm) - Wayland compositor
 - [new92/igfi](https://github.com/new92/igfi) - 🤖 IGFI: InstaGram Followers Increaser 📈 | Written in Python 🐍 | Don't forget to ⭐ the repo !
+- [Darkkal44/Cozytile](https://github.com/Darkkal44/Cozytile) - A Cozy rice ❃
 - [EvilDrPorkChop/OpenSea-NFT-Creator](https://github.com/EvilDrPorkChop/OpenSea-NFT-Creator) - A collection of python scripts which help you programatically create PNGs or GIFs and their Metadata in bulk with custom rarity rates, upload them to OpenSea & list them for sale.
 - [thiagokokada/nix-alien](https://github.com/thiagokokada/nix-alien) - Run unpatched binaries on Nix/NixOS
 - [DRACULA-HACK/C-hacks](https://github.com/DRACULA-HACK/C-hacks) - All social Media hacking with information gathering
@@ -3670,6 +3677,9 @@
 
 ## QML 
 
+- [DerMaista/dotfiles_mangowc](https://github.com/DerMaista/dotfiles_mangowc) - my mangowc dotfiles
+- [melatonia/meloworld-dotfiles](https://github.com/melatonia/meloworld-dotfiles) - My mangowm and quickshell rice heavily influenced by crylia theme!
+- [jslandau/dms-unified-taskbar](https://github.com/jslandau/dms-unified-taskbar) - Unified Taskbar plugin for Dank Material Shell - workspace-grouped taskbar widget
 - [Hashtaxx/blurshell](https://github.com/Hashtaxx/blurshell) - Blurshell is a customizable, modern Linux shell UI built with QML. It features a sleek design, animated components, notification system, control center, launcher, and modular architecture, providing a
 - [noctalia-dev/noctalia-plugins](https://github.com/noctalia-dev/noctalia-plugins) - Noctalia's official plugins
 - [xZepyx/nucleus-shell](https://github.com/xZepyx/nucleus-shell) - A modular desktop shell written with qml, c++ and javascript
@@ -3729,6 +3739,7 @@
 
 ## Rust 
 
+- [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang) - Open-source Agent Operating System
 - [gioleppe/SpixelaTUIr](https://github.com/gioleppe/SpixelaTUIr) - TUI based rust image glitcher
 - [ohogb/hyu](https://github.com/ohogb/hyu) - A wayland compositor
 - [geekylthyosaur/well](https://github.com/geekylthyosaur/well) - Wayland compositor
@@ -4396,7 +4407,7 @@
 ## Svelte 
 
 - [wikibonsai/germinator](https://github.com/wikibonsai/germinator) - AI-powered semantic seedling germination.
-- [wikibonsai/wikibonsai](https://github.com/wikibonsai/wikibonsai) - A jungle gym for thought with an API for the mind.
+- [wikibonsai/wikibonsai](https://github.com/wikibonsai/wikibonsai) - A structured knowledge layer in plain text.
 - [morispolanco/books-by-ai](https://github.com/morispolanco/books-by-ai) - Books generated by AI
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 - [hertg/lightdm-neon](https://github.com/hertg/lightdm-neon) - :art: A customizable theme for web-greeter in a nostalgic but modern neon look
