@@ -3677,6 +3677,8 @@
 
 ## QML 
 
+- [tripathiji1312/quickshell](https://github.com/tripathiji1312/quickshell) - A highly customizable, modular, and performant desktop quickshell configuration
+- [pterror/config-quickshell](https://github.com/pterror/config-quickshell) - quickshell config
 - [DerMaista/dotfiles_mangowc](https://github.com/DerMaista/dotfiles_mangowc) - my mangowc dotfiles
 - [melatonia/meloworld-dotfiles](https://github.com/melatonia/meloworld-dotfiles) - My mangowm and quickshell rice heavily influenced by crylia theme!
 - [jslandau/dms-unified-taskbar](https://github.com/jslandau/dms-unified-taskbar) - Unified Taskbar plugin for Dank Material Shell - workspace-grouped taskbar widget
@@ -4444,6 +4446,7 @@
 
 ## TypeScript 
 
+- [xuemian168/android-locker](https://github.com/xuemian168/android-locker) - A comprehensive, community-maintained hub for comparing bootloader unlock, kernel source, and warranty policies across major Android manufacturers. Supports multilingual SEO (Chinese, Hindi, English) 
 - [agnusdei1207/opencode-orchestrator](https://github.com/agnusdei1207/opencode-orchestrator) - Opencode Plugin for AI-Agent Orchestration
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [joelhooks/swarm-tools](https://github.com/joelhooks/swarm-tools) - 🐝 Multi-agent swarm coordination for OpenCode with learning capabilities, agent issue tracking, and management
