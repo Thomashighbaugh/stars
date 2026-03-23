@@ -691,7 +691,7 @@
 - [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) - Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
-- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers,
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
 - [ublue-os/fleek](https://github.com/ublue-os/fleek) - [deprecated] Own your $HOME
 - [carltheperson/10-things-linux](https://github.com/carltheperson/10-things-linux) - Getting better at Linux with 10 mini-projects.
 - [ezeoleaf/larry](https://github.com/ezeoleaf/larry) - Larry 🐦 is a bot generator that post content from different providers to one or multiple publishers
@@ -2306,6 +2306,7 @@
 
 ## Nix 
 
+- [djacu/nixos-modules-lessons](https://github.com/djacu/nixos-modules-lessons) - Lessons and examples for learning NixOS Modules.
 - [ALH477/Oligarchy](https://github.com/ALH477/Oligarchy) - Oligarchy NixOS is a custom NixOS distribution with CachyOS' BORE or Zen kernel. This distribution is made for power users who need peak performance. This distribution is my daily driver which allows 
 - [Maroka-chan/NixOS-config](https://github.com/Maroka-chan/NixOS-config) - 
 - [otaleghani/prism](https://github.com/otaleghani/prism) - A fully configured, stable-by-design, opinionated Linux. Powered by Nix. Refracts your system into isolated personas (Dev, Gamer, Custom) with atomic updates.
@@ -3200,6 +3201,7 @@
 
 ## Python 
 
+- [djacu/nixos-on-zfs](https://github.com/djacu/nixos-on-zfs) - A collection of setup scripts for installing nixOS on my work laptop.
 - [volcengine/OpenViking](https://github.com/volcengine/OpenViking) - OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need throu
 - [smerchek/claude-epub-skill](https://github.com/smerchek/claude-epub-skill) - A Claude Skill for converting markdown documents, chat summaries, or research reports into a downloadable epub file that can be sent to kindle
 - [AreteDriver/animus](https://github.com/AreteDriver/animus) - An exocortex architecture for personal cognitive sovereignty
@@ -3212,7 +3214,6 @@
 - [serpapi/google-search-results-python](https://github.com/serpapi/google-search-results-python) - Google Search Results via SERP API pip Python Package
 - [prolix-oc/BananaBread](https://github.com/prolix-oc/BananaBread) - 
 - [us/linkedIn_auto_jobs_applier_with_AI_fast](https://github.com/us/linkedIn_auto_jobs_applier_with_AI_fast) - LinkedIn_AIHawk is a tool that automates  the jobs application process on LinkedIn. Utilizing artificial intelligence, it enables users to apply for multiple job offers in an automated and personalize
-- [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
 - [Fajar-RahmadJaya/google-dawg](https://github.com/Fajar-RahmadJaya/google-dawg) - Automate Google dorking without getting banned
 - [helallao/perplexity-ai](https://github.com/helallao/perplexity-ai) - Unofficial API Wrapper for Perplexity.ai + Account Generator with Web Interface
 - [Bachkhairi/study_assistant](https://github.com/Bachkhairi/study_assistant) - A modular CLI tool that automates note-taking, summarization, and Q&A, integrating with Notion and YouTube to help you learn faster and retain knowledge efficiently.
@@ -3569,7 +3570,7 @@
 - [codebasics/cool_python_apps](https://github.com/codebasics/cool_python_apps) - Small and cool python apps including bitcoin mining, language translator etc.
 - [syegulalp/folio](https://github.com/syegulalp/folio) - Python-powered, Markdown-formatted personal wiki
 - [playercatboy/Universal-Linux-Script](https://github.com/playercatboy/Universal-Linux-Script) - A shell script with built-in variables which can simplify Linux shell script writing.
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources.
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [jaakkopasanen/AutoEq](https://github.com/jaakkopasanen/AutoEq) - Automatic headphone equalization from frequency responses
 - [ahmed2m/dotfiles](https://github.com/ahmed2m/dotfiles) - My own config dotfiles for qtile/kde/awesomewm on Arch based distros
@@ -3709,7 +3710,7 @@
 ## Ruby 
 
 - [mental32/mental32](https://github.com/mental32/mental32) - 
-- [superiorlu/AITreasureBox](https://github.com/superiorlu/AITreasureBox) - 🤖 Collect practical AI repos, tools, websites, papers and tutorials on AI. 实用的AI百宝箱 💎
+- [superiorlu/AITreasureBox](https://github.com/superiorlu/AITreasureBox) - 🤖 Curated & automatically updated AI resources: repos, tools, websites, papers & tutorials. 实用AI百宝箱 💎
 - [henrylawson/photish](https://github.com/henrylawson/photish) - Fast, simple, configurable photo portfolio website generator
 - [markevans/dragonfly](https://github.com/markevans/dragonfly) - A Ruby gem for on-the-fly processing - suitable for image uploading in Rails, Sinatra and much more!
 - [juanjoSanz/aws-pentesting-lab](https://github.com/juanjoSanz/aws-pentesting-lab) - Pentesting lab with a Kali Linux instance accessible via ssh & wireguard VPN and with vulnerable instances in a private subnet
@@ -4477,6 +4478,7 @@
 - [dmitryplyaskin/SillyInnkeeper](https://github.com/dmitryplyaskin/SillyInnkeeper) - SillyInnkeeper is an open-source local character card manager for SillyTavern. It scans PNG cards, extracts metadata, generates previews, and provides a UI for organizing and managing large character 
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [endege/JS-Slash-Runner](https://github.com/endege/JS-Slash-Runner) - 
+- [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
 - [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
 - [nbrown725/SillyTavern-Character-Creator-Chat](https://github.com/nbrown725/SillyTavern-Character-Creator-Chat) - A SillyTavern extension that creates character LLMs.
 - [anomalyco/opentui](https://github.com/anomalyco/opentui) - OpenTUI is a library for building terminal user interfaces (TUIs)
