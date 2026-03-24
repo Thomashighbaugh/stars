@@ -114,6 +114,7 @@
 
 ## Batchfile 
 
+- [SillyTavern/SillyTavern-Launcher](https://github.com/SillyTavern/SillyTavern-Launcher) - Launcher scripts for SillyTavern and ST-Extras.
 - [ContinuumOperand/SillyTavern-SimpleBackupScript](https://github.com/ContinuumOperand/SillyTavern-SimpleBackupScript) - Simple and effective batch script to back up your SillyTavern data and settings effortlessly. Just download, drop it into your SillyTavern folder, run the script, and the backup will be created.
 - [mozilla/policy-templates](https://github.com/mozilla/policy-templates) - Policy Templates for Firefox
 - [AveYo/fox](https://github.com/AveYo/fox) - Firefox stuff
@@ -672,6 +673,7 @@
 
 ## Go 
 
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
 - [sgreben/yeetgif](https://github.com/sgreben/yeetgif) - gif effects CLI. single binary, no dependencies. linux, osx, windows. #1 workplace productivity booster. #yeetgif #eggplant #golang
 - [andyrewlee/amux](https://github.com/andyrewlee/amux) - TUI for easily running parallel coding agents
 - [containerd/containerd](https://github.com/containerd/containerd) - An open and reliable container runtime
@@ -1223,7 +1225,7 @@
 - [simarmannsingh/silverlux](https://github.com/simarmannsingh/silverlux) - 💻 A fully-responsive Gatsby based blog template using NetlifyCMS as CMS.
 - [Akshay090/svg-banners](https://github.com/Akshay090/svg-banners) - Styled banners for your Readme made with html/css in SVG !!
 - [kampka/nix-packages](https://github.com/kampka/nix-packages) - My personal nix repository
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 5900 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 6000 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [leepenney/markdown-gallery](https://github.com/leepenney/markdown-gallery) - Converts a list of images into gallery mark-up
 - [ujjalacharya/awesome-ecom](https://github.com/ujjalacharya/awesome-ecom) - A complete online ecommerce portal (Node, React, Mongo, NextJS, ReactNative)
 - [amand33p/stack-underflow](https://github.com/amand33p/stack-underflow) - Feature-rich ‘stack overflow’ (QnA site) clone. Made using MERN + GraphQL stack.
@@ -1370,7 +1372,7 @@
 - [mipmip/awesomewm-screenshots](https://github.com/mipmip/awesomewm-screenshots) - AwesomeWM screenshot gallery. https://mipmip.github.io/awesomewm-screenshots/
 - [BlackCapCoder/scrimba-vim](https://github.com/BlackCapCoder/scrimba-vim) - Edit scrimba projects with vim
 - [HashLips/generative-art-node](https://github.com/HashLips/generative-art-node) - Create generative art by using the canvas api and node js
-- [timothypholmes/startup-page](https://github.com/timothypholmes/startup-page) - A custom startup page for your browser.
+- [tim-codes-tech/startup-page](https://github.com/tim-codes-tech/startup-page) - A custom startup page for your browser.
 - [kikiklang/pomme-page](https://github.com/kikiklang/pomme-page) - Big buttons with easy click startpage for a browser.
 - [YouTransfer/YouTransfer](https://github.com/YouTransfer/YouTransfer) - The simple but elegant self-hosted file transfer & sharing solution
 - [LingDong-/fishdraw](https://github.com/LingDong-/fishdraw) - procedurally generated fish drawings
@@ -1749,6 +1751,7 @@
 - [loctvl842/nvim](https://github.com/loctvl842/nvim) - neovim config using lazy
 - [crivotz/nv-ide](https://github.com/crivotz/nv-ide) - Neovim custom configuration, oriented for full stack developers (Ruby on Rails, ruby, php, html, css, SCSS, javascript)
 - [folke/edgy.nvim](https://github.com/folke/edgy.nvim) - Easily create and manage predefined window layouts, bringing a new edge to your workflow
+- [mrjones2014/dotfiles](https://github.com/mrjones2014/dotfiles) - ❄️ My dotfiles for NixOS and macOS with nix-darwin as a Nix flake.
 - [vi013t/forge.nvim](https://github.com/vi013t/forge.nvim) - Language tool manager for Neovim using mason.nvim, nvim-treesitter, and more.
 - [mobsenpai/sugoi](https://github.com/mobsenpai/sugoi) - すごい Sugoi | Comfy environment for AwesomeWM
 - [folke/null-ls.nvim](https://github.com/folke/null-ls.nvim) - Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.
@@ -2343,7 +2346,7 @@
 - [thblt/nixos-config](https://github.com/thblt/nixos-config) - 
 - [mudrii/systst](https://github.com/mudrii/systst) - 
 - [getchoo/borealis](https://github.com/getchoo/borealis) - 🚢 my dotfiles, nix configurations, and personal infra
-- [zackartz/nixos-dots](https://github.com/zackartz/nixos-dots) - my personal nixos dotfiles c:
+- [zoeyycodes/nixos-dots](https://github.com/zoeyycodes/nixos-dots) - my personal nixos dotfiles c:
 - [YaroKasear/flakes](https://github.com/YaroKasear/flakes) - Nix/NixOS flakes
 - [ourgal/snowfall](https://github.com/ourgal/snowfall) - NixOS dotfiles
 - [3333juul/snowflake](https://github.com/3333juul/snowflake) - 
@@ -2459,7 +2462,6 @@
 - [cillynder/flakes](https://github.com/cillynder/flakes) - NixOS config using flakes
 - [redyf/nixdots](https://github.com/redyf/nixdots) - Modular NixOS configuration
 - [nix-community/nix-bundle](https://github.com/nix-community/nix-bundle) - Bundle Nix derivations to run anywhere! [maintainer=@matthewbauer, @Artturin]
-- [mrjones2014/dotfiles](https://github.com/mrjones2014/dotfiles) - ❄️ My dotfiles for NixOS and macOS with nix-darwin as a Nix flake.
 - [NixOS/templates](https://github.com/NixOS/templates) - Flake templates
 - [vyorkin/nixos-config](https://github.com/vyorkin/nixos-config) - My NixOS configuration
 - [dwarfmaster/arkenfox-nixos](https://github.com/dwarfmaster/arkenfox-nixos) - Utilities to use arkenfox/user.js in NixOS
@@ -3595,6 +3597,7 @@
 - [tuxity/insta-unfollower](https://github.com/tuxity/insta-unfollower) - An Instagram script to unfollow accounts who doesn't follow-you-back
 - [InstaPy/instapy-docker](https://github.com/InstaPy/instapy-docker) - 🐳 Docker config and documentation for running InstaPy with Docker
 - [jarun/buku](https://github.com/jarun/buku) - :bookmark: Personal mini-web in text
+- [lucidrains/x-transformers](https://github.com/lucidrains/x-transformers) - A concise but complete full-attention transformer with a set of promising experimental features from various papers
 - [noob-hackers/ipdrone](https://github.com/noob-hackers/ipdrone) - Track Location With Live Address And Accuracy In Termux
 - [Shpota/github-activity-generator](https://github.com/Shpota/github-activity-generator) - A script that helps generate a rich GitHub Contribution Graph for your account 🤖
 - [archlinux/archinstall](https://github.com/archlinux/archinstall) - Arch Linux installer - guided, templates etc.
@@ -3603,6 +3606,7 @@
 - [kritiksoman/GIMP-ML](https://github.com/kritiksoman/GIMP-ML) - AI for GNU Image Manipulation Program
 - [theupdateframework/python-tuf](https://github.com/theupdateframework/python-tuf) - Python reference implementation of The Update Framework (TUF)
 - [maximtrp/tab](https://github.com/maximtrp/tab) - Start Page Generator in Python :bookmark_tabs:
+- [lucidrains/deep-daze](https://github.com/lucidrains/deep-daze) - Simple command line tool for text to image generation using OpenAI's CLIP and Siren (Implicit neural representation network). Technique was originally created by https://twitter.com/advadnoun
 - [dirkjanm/CVE-2020-1472](https://github.com/dirkjanm/CVE-2020-1472) - PoC for Zerologon - all research credits go to Tom Tervoort of Secura
 - [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
 - [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager
@@ -3742,6 +3746,7 @@
 
 ## Rust 
 
+- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
 - [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang) - Open-source Agent Operating System
 - [gioleppe/SpixelaTUIr](https://github.com/gioleppe/SpixelaTUIr) - TUI based rust image glitcher
 - [ohogb/hyu](https://github.com/ohogb/hyu) - A wayland compositor
@@ -3937,6 +3942,7 @@
 
 ## Shell 
 
+- [wmarais/nixos-installer](https://github.com/wmarais/nixos-installer) - A simple script to install NixOs.
 - [23blocks-OS/ai-maestro-plugins](https://github.com/23blocks-OS/ai-maestro-plugins) - Build custom skill sets for your AI agents. Pick skills from GitHub, mix your own, assemble a tailored Claude Code plugin. Like uploading Kung Fu into Neo — but for your AI.
 - [IamJony/book-scraping](https://github.com/IamJony/book-scraping) - A Bash script to search and download books using  shadows libraries
 - [Rakosn1cek/xc-manager](https://github.com/Rakosn1cek/xc-manager) - Small script to save your commands and descriptions
@@ -4658,7 +4664,7 @@
 - [JakeStanger/next-gallery](https://github.com/JakeStanger/next-gallery) - Web gallery built with nextjs
 - [steven-tey/precedent](https://github.com/steven-tey/precedent) - An opinionated collection of components, hooks, and utilities for your Next.js project.
 - [mattnigh/ChatGPT-Free-Prompt-List](https://github.com/mattnigh/ChatGPT-Free-Prompt-List) - A free guide for learning to create ChatGPT3 Prompts
-- [avitorio/outstatic](https://github.com/avitorio/outstatic) - Outstatic - A static CMS for Next.js
+- [avitorio/outstatic](https://github.com/avitorio/outstatic) - Outstatic - A Powerful CMS for Markdown. A dashboard to write, edit, and publish Markdown and MDX stored in your GitHub repository.
 - [jasonruesch/jasonruesch.old](https://github.com/jasonruesch/jasonruesch.old) - My personal portfolio web app
 - [JezerM/nody-greeter](https://github.com/JezerM/nody-greeter) - LightDM greeter that allows to create wonderful themes with web technologies. Made in Node.js
 - [InterwebAlchemy/obsidian-ai-research-assistant](https://github.com/InterwebAlchemy/obsidian-ai-research-assistant) - Prompt Engineering Research Tool for AI APIs
