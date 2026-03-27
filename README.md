@@ -450,7 +450,6 @@
 - [Vertecedoc4545/DeMorkeNorskeRamnen-GnomeShell-Theme](https://github.com/Vertecedoc4545/DeMorkeNorskeRamnen-GnomeShell-Theme) - 
 - [Phantas0s/sharetoall](https://github.com/Phantas0s/sharetoall) - This was meant to offer a free service similar to Buffer / Hootsuite
 - [Godiesc/firefox-gx](https://github.com/Godiesc/firefox-gx) - Opera GX Skin for Firefox
-- [elkowar/dots-of-war](https://github.com/elkowar/dots-of-war) - My dotfiles, mostly. This is the wild west. don't expect to understand this mess. Don't try to understand this mess. This serves as a good way to backup my configs, nothing more.
 - [JaceThings/Brave-Fox](https://github.com/JaceThings/Brave-Fox) - Firefox Stylesheet To Add Brave-Like Elements
 - [ayushhroyy/elegantfox](https://github.com/ayushhroyy/elegantfox) - An "elegent" theme for Firefox
 - [siduck/dotfiles](https://github.com/siduck/dotfiles) - dotfiles for my beautiful rices! (OUTDATED BUT WORKS)
@@ -972,6 +971,7 @@
 
 ## JavaScript 
 
+- [LenAnderson/SillyTavern-MoreFlexibleContinues](https://github.com/LenAnderson/SillyTavern-MoreFlexibleContinues) - 
 - [AugieIsHere/Extension-DynamicLore](https://github.com/AugieIsHere/Extension-DynamicLore) - SillyTavern extension for automatically updating World Info entries
 - [zlouis/react-photography](https://github.com/zlouis/react-photography) - Photography website built with ReactJs & MongoDB
 - [5hubham5ingh/kitty-panel](https://github.com/5hubham5ingh/kitty-panel) - Kitty terminal based system panel for linux.
@@ -1375,7 +1375,7 @@
 - [mipmip/awesomewm-screenshots](https://github.com/mipmip/awesomewm-screenshots) - AwesomeWM screenshot gallery. https://mipmip.github.io/awesomewm-screenshots/
 - [BlackCapCoder/scrimba-vim](https://github.com/BlackCapCoder/scrimba-vim) - Edit scrimba projects with vim
 - [HashLips/generative-art-node](https://github.com/HashLips/generative-art-node) - Create generative art by using the canvas api and node js
-- [tim-codes-tech/startup-page](https://github.com/tim-codes-tech/startup-page) - A custom startup page for your browser.
+- [technical-timmy/startup-page](https://github.com/technical-timmy/startup-page) - A custom startup page for your browser.
 - [kikiklang/pomme-page](https://github.com/kikiklang/pomme-page) - Big buttons with easy click startpage for a browser.
 - [YouTransfer/YouTransfer](https://github.com/YouTransfer/YouTransfer) - The simple but elegant self-hosted file transfer & sharing solution
 - [LingDong-/fishdraw](https://github.com/LingDong-/fishdraw) - procedurally generated fish drawings
@@ -1554,6 +1554,7 @@
 - [abahmed/Deer](https://github.com/abahmed/Deer) - :pencil2:A modern, fast, beautiful note taking app, built on Electron and React
 - [JakeChampion/fetch](https://github.com/JakeChampion/fetch) - A window.fetch JavaScript polyfill.
 - [Chhekur/colon-ide](https://github.com/Chhekur/colon-ide) - Colon is a flexible text editor, built on Electron, and based on everything we love about our favorite editors. We are trying to designe it to be fully customizable.
+- [Blacksuan19/Dotfiles](https://github.com/Blacksuan19/Dotfiles) - KDE Plasma for twm users.
 - [fsahin/artist-explorer](https://github.com/fsahin/artist-explorer) - Artist Explorer is a music discovery tool to to explore artists and music by browsing artists through a relationship tree
 - [aviaryan/work](https://github.com/aviaryan/work) - My open source projects portfolio. Built with React.
 - [GoogleChromeLabs/quicklink](https://github.com/GoogleChromeLabs/quicklink) - ⚡️Faster subsequent page-loads by prefetching in-viewport links during idle time
@@ -2494,7 +2495,6 @@
 - [donovanglover/nix-config](https://github.com/donovanglover/nix-config) - My NixOS configuration with Nix Flakes, Home Manager, Stylix, and Hyprland.
 - [srid/nix-config](https://github.com/srid/nix-config) - My NixOS configuration (DEPRECATED)
 - [lucernae/nixos-pi](https://github.com/lucernae/nixos-pi) - How to install NixOS on raspberry PI
-- [qbit/xin](https://github.com/qbit/xin) - My nix setup
 - [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@khaneliman, @rycee]
 - [RiscadoA/nixconfig](https://github.com/RiscadoA/nixconfig) - My NixOS configuration files.
 - [wiedzmin/nixos-config](https://github.com/wiedzmin/nixos-config) - My NixOS configuration
@@ -3209,6 +3209,7 @@
 
 ## Python 
 
+- [muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) - A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effe
 - [openai/skills](https://github.com/openai/skills) - Skills Catalog for Codex
 - [djacu/nixos-on-zfs](https://github.com/djacu/nixos-on-zfs) - A collection of setup scripts for installing nixOS on my work laptop.
 - [volcengine/OpenViking](https://github.com/volcengine/OpenViking) - OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need throu
@@ -3498,7 +3499,6 @@
 - [paulpierre/informer](https://github.com/paulpierre/informer) - A Telegram Mass Surveillance Bot in Python
 - [promptslab/Promptify](https://github.com/promptslab/Promptify) - Prompt Engineering | Prompt Versioning | Use GPT or other prompt based models to get structured output. Join our discord for Prompt-Engineering, LLMs and other latest research
 - [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API
-- [promptslab/Awesome-Prompt-Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) - This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM etc
 - [juminai/dotfiles](https://github.com/juminai/dotfiles) - average dotfiles
 - [microsoft/unilm](https://github.com/microsoft/unilm) - Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities
 - [avgupta456/github-trends](https://github.com/avgupta456/github-trends) - 🚀 Level up your GitHub profile readme with customizable cards including LOC statistics!
@@ -3698,7 +3698,7 @@
 - [jslandau/dms-unified-taskbar](https://github.com/jslandau/dms-unified-taskbar) - Unified Taskbar plugin for Dank Material Shell - workspace-grouped taskbar widget
 - [Hashtaxx/blurshell](https://github.com/Hashtaxx/blurshell) - Blurshell is a customizable, modern Linux shell UI built with QML. It features a sleek design, animated components, notification system, control center, launcher, and modular architecture, providing a
 - [noctalia-dev/noctalia-plugins](https://github.com/noctalia-dev/noctalia-plugins) - Noctalia's official plugins
-- [xZepyx/nucleus-shell](https://github.com/xZepyx/nucleus-shell) - A modular desktop shell written with qml, c++ and javascript
+- [nucleus-hq/nucleus-shell](https://github.com/nucleus-hq/nucleus-shell) - A flexible, extensible desktop shell built with QML, C++, and JavaScript
 - [ZerkerEOD/shell](https://github.com/ZerkerEOD/shell) - A very segsy desktop shell
 - [antonjah/nix-monitor](https://github.com/antonjah/nix-monitor) - A DMS plugin for monitoring and managing nix systems.
 - [caelestia-dots/shell](https://github.com/caelestia-dots/shell) - ‼️ No waybar here ‼️
@@ -3709,6 +3709,7 @@
 - [calops/nix](https://github.com/calops/nix) - Personal NixOS and Home Manager configuration
 - [bobvanderlinden/nixos-config](https://github.com/bobvanderlinden/nixos-config) - My personal NixOS and home-manager configuration
 - [structnull/dotfiles](https://github.com/structnull/dotfiles) - Dotfiles for ZoidBerg
+- [elkowar/dots-of-war](https://github.com/elkowar/dots-of-war) - My dotfiles, mostly. This is the wild west. don't expect to understand this mess. Don't try to understand this mess. This serves as a good way to backup my configs, nothing more.
 - [L4ki/Shiny-Plasma-Themes](https://github.com/L4ki/Shiny-Plasma-Themes) - Shiny Plasma Themes For Plasma Desktop
 - [Calinix-Team/Calinix-Arch](https://github.com/Calinix-Team/Calinix-Arch) - CalinixOS Linux Distribution ISO Profiles
 
@@ -3723,7 +3724,7 @@
 ## Ruby 
 
 - [mental32/mental32](https://github.com/mental32/mental32) - 
-- [superiorlu/AITreasureBox](https://github.com/superiorlu/AITreasureBox) - 🤖 Curated & automatically updated AI resources: repos, tools, websites, papers & tutorials. 实用AI百宝箱 💎
+- [superiorlu/AITreasureBox](https://github.com/superiorlu/AITreasureBox) - 🤖 Automatically collected AI : repos, tools, websites, papers & tutorials. 实用AI百宝箱 💎
 - [henrylawson/photish](https://github.com/henrylawson/photish) - Fast, simple, configurable photo portfolio website generator
 - [markevans/dragonfly](https://github.com/markevans/dragonfly) - A Ruby gem for on-the-fly processing - suitable for image uploading in Rails, Sinatra and much more!
 - [juanjoSanz/aws-pentesting-lab](https://github.com/juanjoSanz/aws-pentesting-lab) - Pentesting lab with a Kali Linux instance accessible via ssh & wireguard VPN and with vulnerable instances in a private subnet
@@ -3951,6 +3952,7 @@
 
 ## Shell 
 
+- [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [wmarais/nixos-installer](https://github.com/wmarais/nixos-installer) - A simple script to install NixOs.
 - [23blocks-OS/ai-maestro-plugins](https://github.com/23blocks-OS/ai-maestro-plugins) - Build custom skill sets for your AI agents. Pick skills from GitHub, mix your own, assemble a tailored Claude Code plugin. Like uploading Kung Fu into Neo — but for your AI.
 - [IamJony/book-scraping](https://github.com/IamJony/book-scraping) - A Bash script to search and download books using  shadows libraries
@@ -4404,7 +4406,6 @@
 - [cbrnix/Newaita](https://github.com/cbrnix/Newaita) - Linux icon theme
 - [Thomashighbaugh/colt45gui](https://github.com/Thomashighbaugh/colt45gui) - Quickly Provision Your Linux Desktop With Useful Applications With a GUI Installer Menu
 - [dvilelaf/alfred](https://github.com/dvilelaf/alfred) - A script to install all your favourite applications and perform the most common tasks in GNU/Linux.
-- [Blacksuan19/Dotfiles](https://github.com/Blacksuan19/Dotfiles) - KDE Plasma for twm users.
 - [vinceliuice/Tela-icon-theme](https://github.com/vinceliuice/Tela-icon-theme) - A flat colorful Design icon theme
 - [powerline/fonts](https://github.com/powerline/fonts) - Patched fonts for Powerline users.
 - [OrancheloTeam/oranchelo-icon-theme](https://github.com/OrancheloTeam/oranchelo-icon-theme) - :tangerine: Oranchelo icon theme by http://zayronxio.deviantart.com/
@@ -4677,6 +4678,7 @@
 - [jasonruesch/jasonruesch.old](https://github.com/jasonruesch/jasonruesch.old) - My personal portfolio web app
 - [JezerM/nody-greeter](https://github.com/JezerM/nody-greeter) - LightDM greeter that allows to create wonderful themes with web technologies. Made in Node.js
 - [InterwebAlchemy/obsidian-ai-research-assistant](https://github.com/InterwebAlchemy/obsidian-ai-research-assistant) - Prompt Engineering Research Tool for AI APIs
+- [promptslab/Awesome-Prompt-Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) - This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM etc
 - [Aylur/gnome-extensions](https://github.com/Aylur/gnome-extensions) - Gnome Extensions
 - [arifszn/gitprofile](https://github.com/arifszn/gitprofile) - 🚀 Create and publish a dynamic portfolio by just providing your GitHub username.
 - [smakosh/next-portfolio-dev](https://github.com/smakosh/next-portfolio-dev) - A portfolio for developers (Next js version)
