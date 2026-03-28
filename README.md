@@ -1022,7 +1022,6 @@
 - [ceruleandeep/SillyTavern-ChatNamer](https://github.com/ceruleandeep/SillyTavern-ChatNamer) - SillyTavern tool for your bot/agent/character to use, that sets the name of the current chat.
 - [nbrown725/SillyTavern-AlternateDescriptions](https://github.com/nbrown725/SillyTavern-AlternateDescriptions) - 
 - [ceruleandeep/SillyTavern-ComfierPlaceholders](https://github.com/ceruleandeep/SillyTavern-ComfierPlaceholders) - 
-- [Wolfsblvt/SillyTavern-Pronouns](https://github.com/Wolfsblvt/SillyTavern-Pronouns) - Add pronouns functionality to personas and characters to SillyTavern
 - [dfaker/st-mode-toggles](https://github.com/dfaker/st-mode-toggles) - Clickable cinematic “mode” toggles for SillyTavern that prepend flavorful meta-directives to your prompt and add a floating microchip menu to flip vibes on the fly.
 - [FirefoxCSS-Store/FirefoxCSS-Store.github.io](https://github.com/FirefoxCSS-Store/FirefoxCSS-Store.github.io) - A collection site of Firefox userchrome themes, mostly from FirefoxCSS Reddit community.
 - [Merci-chao/userChrome.js](https://github.com/Merci-chao/userChrome.js) - Firefox userChrome.js scripts: Multi Tab Rows, History Submenus II, Page Title in URL Bar, and more...
@@ -2697,6 +2696,9 @@
 
 ## Others 
 
+- [vkarampinis/awesome-icons](https://github.com/vkarampinis/awesome-icons) - A curated list of awesome Web Font Icons
+- [xiyaowong/Operator-Fonts](https://github.com/xiyaowong/Operator-Fonts) - 
+- [skillmatic-ai/awesome-agent-skills](https://github.com/skillmatic-ai/awesome-agent-skills) - The definitive resource for Agent Skills - modular capabilities revolutionizing AI agent architecture
 - [kedbin/relearning-flow](https://github.com/kedbin/relearning-flow) - OpenCode skills and agents for AI-assisted content creation with research integration and audio narration
 - [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) - Fully autonomous AI Agents system capable of performing complex penetration testing tasks
 - [andyrewlee/awesome-agent-orchestrators](https://github.com/andyrewlee/awesome-agent-orchestrators) - List of agent orchestrators
@@ -3724,7 +3726,7 @@
 ## Ruby 
 
 - [mental32/mental32](https://github.com/mental32/mental32) - 
-- [superiorlu/AITreasureBox](https://github.com/superiorlu/AITreasureBox) - 🤖 Automatically collected AI : repos, tools, websites, papers & tutorials. 实用AI百宝箱 💎
+- [superiorlu/AITreasureBox](https://github.com/superiorlu/AITreasureBox) - 🤖 Automatically collected AI repos, tools, websites, papers & tutorials. 实用AI百宝箱 💎
 - [henrylawson/photish](https://github.com/henrylawson/photish) - Fast, simple, configurable photo portfolio website generator
 - [markevans/dragonfly](https://github.com/markevans/dragonfly) - A Ruby gem for on-the-fly processing - suitable for image uploading in Rails, Sinatra and much more!
 - [juanjoSanz/aws-pentesting-lab](https://github.com/juanjoSanz/aws-pentesting-lab) - Pentesting lab with a Kali Linux instance accessible via ssh & wireguard VPN and with vulnerable instances in a private subnet
@@ -3816,7 +3818,7 @@
 - [pop-os/cosmic-greeter](https://github.com/pop-os/cosmic-greeter) - libcosmic greeter for greetd, which can be run inside cosmic-comp
 - [LeVuMinhHuy/blog](https://github.com/LeVuMinhHuy/blog) - just another blog, but built with rust
 - [leptos-rs/start-actix-0.6](https://github.com/leptos-rs/start-actix-0.6) - Starter template for use with the Leptos web framework.
-- [flox/flox](https://github.com/flox/flox) - Developer environments you can take with you
+- [flox/flox](https://github.com/flox/flox) - The Deterministic Foundation for your SDLC
 - [leptos-rs/leptos-website](https://github.com/leptos-rs/leptos-website) - A website for the Leptos Web Framework!
 - [Kanerix/portfolio-rs](https://github.com/Kanerix/portfolio-rs) - My portfolio website, made with Leptos
 - [steadylearner/Rust-Full-Stack](https://github.com/steadylearner/Rust-Full-Stack) - Rust projects here are easy to use. There are blog posts for them also.
@@ -4463,6 +4465,7 @@
 
 ## TypeScript 
 
+- [nmandal/harness-engineering](https://github.com/nmandal/harness-engineering) - Harness engineering starter: agent-first docs, architecture guardrails, runtime evidence checks, and one-command domain scaffolding.
 - [joshuadavidthomas/opencode-agent-skills](https://github.com/joshuadavidthomas/opencode-agent-skills) - An OpenCode plugin that provides tools for using agent skills
 - [xuemian168/android-locker](https://github.com/xuemian168/android-locker) - A comprehensive, community-maintained hub for comparing bootloader unlock, kernel source, and warranty policies across major Android manufacturers. Supports multilingual SEO (Chinese, Hindi, English) 
 - [agnusdei1207/opencode-orchestrator](https://github.com/agnusdei1207/opencode-orchestrator) - Opencode Plugin for AI-Agent Orchestration
