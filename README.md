@@ -1374,7 +1374,7 @@
 - [mipmip/awesomewm-screenshots](https://github.com/mipmip/awesomewm-screenshots) - AwesomeWM screenshot gallery. https://mipmip.github.io/awesomewm-screenshots/
 - [BlackCapCoder/scrimba-vim](https://github.com/BlackCapCoder/scrimba-vim) - Edit scrimba projects with vim
 - [HashLips/generative-art-node](https://github.com/HashLips/generative-art-node) - Create generative art by using the canvas api and node js
-- [technical-timmy/startup-page](https://github.com/technical-timmy/startup-page) - A custom startup page for your browser.
+- [timh-dev/startup-page](https://github.com/timh-dev/startup-page) - A custom startup page for your browser.
 - [kikiklang/pomme-page](https://github.com/kikiklang/pomme-page) - Big buttons with easy click startpage for a browser.
 - [YouTransfer/YouTransfer](https://github.com/YouTransfer/YouTransfer) - The simple but elegant self-hosted file transfer & sharing solution
 - [LingDong-/fishdraw](https://github.com/LingDong-/fishdraw) - procedurally generated fish drawings
