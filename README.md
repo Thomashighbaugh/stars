@@ -137,7 +137,6 @@
 - [killvxk/openforbusiness-realoriginal](https://github.com/killvxk/openforbusiness-realoriginal) - WIP:A generic UEFI shellcode intended to be patched into a DXE phase driver or `bootmgfw` on the ESP volume of the hard drive to toggle off integrity checks for Kernel Driver testing purposes.
 - [aitorfirm/BlackIris](https://github.com/aitorfirm/BlackIris) - Thats it! An Open-Source Windows UEFI Rootkit
 - [LongSoft/CrScreenshotDxe](https://github.com/LongSoft/CrScreenshotDxe) - UEFI DXE driver to take screenshots from GOP-compatible graphic consoles
-- [celestial-wl/celestial](https://github.com/celestial-wl/celestial) - Celestial Wayland Compositor
 - [wmww/gtk4-layer-shell](https://github.com/wmww/gtk4-layer-shell) - A library to create panels and other desktop components for Wayland using the Layer Shell protocol and GTK4
 - [simrat39/simwm](https://github.com/simrat39/simwm) - sim's wayland compositor (wip)
 - [kaansenol5/VibeOS](https://github.com/kaansenol5/VibeOS) - A completely vibecoded operating system targeting Aarch64
@@ -673,6 +672,7 @@
 
 ## Go 
 
+- [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) - Fully autonomous AI Agents system capable of performing complex penetration testing tasks
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
 - [sgreben/yeetgif](https://github.com/sgreben/yeetgif) - gif effects CLI. single binary, no dependencies. linux, osx, windows. #1 workplace productivity booster. #yeetgif #eggplant #golang
 - [andyrewlee/amux](https://github.com/andyrewlee/amux) - TUI for easily running parallel coding agents
@@ -755,7 +755,7 @@
 - [deepfence/SecretScanner](https://github.com/deepfence/SecretScanner) - :unlock: :unlock: Find secrets and passwords in container images and file systems :unlock: :unlock:
 - [upspin/upspin](https://github.com/upspin/upspin) - Upspin: A framework for naming everyone's everything.
 - [petr-korobeinikov/scm](https://github.com/petr-korobeinikov/scm) - scm is a tool that aims to keep your workspace to be strongly organized
-- [nikivdev/go](https://github.com/nikivdev/go) - Go tools, libraries and other code
+- [nikivdev/go](https://github.com/nikivdev/go) - Go tools, libraries
 - [rabbitstack/fibratus](https://github.com/rabbitstack/fibratus) - Adversary tradecraft detection, protection, and hunting
 - [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) - Git extension for versioning large files
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
@@ -856,6 +856,7 @@
 - [CachyOS/CachyOS-Browser-Common](https://github.com/CachyOS/CachyOS-Browser-Common) - 
 - [henrylawson/photish-montage](https://github.com/henrylawson/photish-montage) - A demo site of Photish
 - [wangzhe3224/awesome-systematic-trading](https://github.com/wangzhe3224/awesome-systematic-trading) - A curated list of insanely awesome libraries, packages and resources for systematic trading. Crypto, Stock, Futures, Options, CFDs, FX, and more | 量化交易 | 量化投资
+- [TLH-Deprecated-Linux-Configurations/electric-tantra-artix-iso](https://github.com/TLH-Deprecated-Linux-Configurations/electric-tantra-artix-iso) - Artix ISO build of the Electric Tantra Linux
 - [themagicalmammal/dotfiles](https://github.com/themagicalmammal/dotfiles) - @themagicalmammal does dotfiles
 - [StefanoCecere/markdown_pandoc_book_template](https://github.com/StefanoCecere/markdown_pandoc_book_template) - a template to create pdf/ePub/html/docx books by Markdown via Pandoc
 - [festackcode/dev-fonts](https://github.com/festackcode/dev-fonts) - 
@@ -2311,6 +2312,7 @@
 
 ## Nix 
 
+- [ketgg/Awe](https://github.com/ketgg/Awe) - ❄️ Flakes with Awm
 - [hans-chrstn/.dotfiles](https://github.com/hans-chrstn/.dotfiles) - My NixOS home-manager and flakes configs
 - [djacu/nixos-modules-lessons](https://github.com/djacu/nixos-modules-lessons) - Lessons and examples for learning NixOS Modules.
 - [ALH477/Oligarchy](https://github.com/ALH477/Oligarchy) - Oligarchy NixOS is a custom NixOS distribution with CachyOS' BORE or Zen kernel. This distribution is made for power users who need peak performance. This distribution is my daily driver which allows 
@@ -2700,7 +2702,6 @@
 - [xiyaowong/Operator-Fonts](https://github.com/xiyaowong/Operator-Fonts) - 
 - [skillmatic-ai/awesome-agent-skills](https://github.com/skillmatic-ai/awesome-agent-skills) - The definitive resource for Agent Skills - modular capabilities revolutionizing AI agent architecture
 - [kedbin/relearning-flow](https://github.com/kedbin/relearning-flow) - OpenCode skills and agents for AI-assisted content creation with research integration and audio narration
-- [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) - Fully autonomous AI Agents system capable of performing complex penetration testing tasks
 - [andyrewlee/awesome-agent-orchestrators](https://github.com/andyrewlee/awesome-agent-orchestrators) - List of agent orchestrators
 - [alt-0191/Lenovo-UEFI-Unlocker](https://github.com/alt-0191/Lenovo-UEFI-Unlocker) - A backup of SmokelessRuntimeEFIPatcher
 - [Maxinator500/SREP-Patches](https://github.com/Maxinator500/SREP-Patches) - 
@@ -4014,7 +4015,7 @@
 - [gregoryg/AIPIHKAL](https://github.com/gregoryg/AIPIHKAL) - AI (LLM) Prompts I Have Known And Loved
 - [nomadics9/NixOS-Flake](https://github.com/nomadics9/NixOS-Flake) - My NixOS Flake + dotfiles
 - [nix-community/nix-direnv](https://github.com/nix-community/nix-direnv) - A fast, persistent use_nix/use_flake implementation for direnv [maintainer=@Mic92 / @bbenne10]
-- [0xacx/chatGPT-shell-cli](https://github.com/0xacx/chatGPT-shell-cli) - Simple shell script to use OpenAI's ChatGPT and DALL-E from the terminal. No Python or JS required.
+- [0xacx/chatGPT-shell-cli](https://github.com/0xacx/chatGPT-shell-cli) - Simple shell script to use OpenAI's ChatGPT and DALL-E from the terminal. No Python or JS required. Formerly https://gptshell.cc
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [mayTermux/myTermux](https://github.com/mayTermux/myTermux) - Make your Termux look better
 - [evgvs/turboarch](https://github.com/evgvs/turboarch) - TurboArch - Seamlessly Replace Your Current OS with Arch Linux NOW!
@@ -4855,6 +4856,7 @@
 
 ## Vim Script 
 
+- [sainnhe/sonokai](https://github.com/sainnhe/sonokai) - High Contrast & Vivid Color Scheme based on Monokai Pro
 - [gelguy/wilder.nvim](https://github.com/gelguy/wilder.nvim) - A more adventurous wildmenu
 - [boson-joe/YANP](https://github.com/boson-joe/YANP) - Notetaking plugin that supports recurring topics structure and customisable syntax.
 - [lervag/wiki.vim](https://github.com/lervag/wiki.vim) - A wiki plugin for Vim
