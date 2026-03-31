@@ -1469,7 +1469,6 @@
 - [deepjyoti30/startpage](https://github.com/deepjyoti30/startpage) - A minimal starpage for Chrome and Firefox
 - [arkenfox/user.js](https://github.com/arkenfox/user.js) - Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening
 - [h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
-- [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 - [Kristories/awesome-guidelines](https://github.com/Kristories/awesome-guidelines) - A curated list of high quality coding style conventions and standards.
 - [aluxian/nwjs-starter](https://github.com/aluxian/nwjs-starter) - :zap: NW.js starter project powered by Gulp. :zap:
 - [richardtaylordawson/pwa-shields](https://github.com/richardtaylordawson/pwa-shields) - Personalize your app's README with custom, fun, PWA shields in SVG
@@ -1666,6 +1665,7 @@
 
 ## Lua 
 
+- [maheshbansod/todo-marker.nvim](https://github.com/maheshbansod/todo-marker.nvim) - A NeoVim plugin to toggle todo items in markdown or TODO file
 - [trip-zip/somewm](https://github.com/trip-zip/somewm) - Not quite awesome...just some.
 - [pirafrank/what-size.yazi](https://github.com/pirafrank/what-size.yazi) - A plugin for yazi to calculate the size of current selection or current working directory
 - [stevearc/conform.nvim](https://github.com/stevearc/conform.nvim) - Lightweight yet powerful formatter plugin for Neovim
@@ -2168,7 +2168,6 @@
 - [4ban/awesome-pro](https://github.com/4ban/awesome-pro) - Awesome WM 4.x themes configs
 - [4ban/awesome-ban](https://github.com/4ban/awesome-ban) - Awesome WM 4.x theme configs
 - [tony/awesome-config](https://github.com/tony/awesome-config) - :closed_book: Example awesome wm configuration. Includes personalization support (personal.vim), theme, polyglot unicode taglists, mpd support.
-- [s1as3r/dotfiles](https://github.com/s1as3r/dotfiles) - dotfiles
 - [NlGHT/dotfiles](https://github.com/NlGHT/dotfiles) - Dotfiles, with AwesomeWM config based on https://github.com/manilarome/the-glorious-dotfiles (Floppy) but modified to suit my workflow and applications.
 - [lawsdontapplytopigs/dotfiles](https://github.com/lawsdontapplytopigs/dotfiles) - welcome to my crybb 😎😎😎😎😎😎
 - [akshat46/dotfiles-1](https://github.com/akshat46/dotfiles-1) - welcome to my crybb 😎😎😎😎😎😎
@@ -3865,7 +3864,6 @@
 - [evestera/svg-halftone](https://github.com/evestera/svg-halftone) - Tool for converting raster images to SVG halftone patterns
 - [mikeroyal/Linux-Guide](https://github.com/mikeroyal/Linux-Guide) - Linux Guide. Learn about Linux Hardware vendors, Linux in the Cloud, Desktop Environments, Window Mangers, Linux Distributions, Linux Security, Graphics (AMD/NVIDIA/Intel ARC), and Software Apps.
 - [sharkdp/vivid](https://github.com/sharkdp/vivid) - A themeable LS_COLORS generator with a rich filetype datebase
-- [Start9Labs/start-os](https://github.com/Start9Labs/start-os) - A graphical server OS optimized for self-hosting
 - [jamestthompson3/tendril-wiki](https://github.com/jamestthompson3/tendril-wiki) - Personal knowledge management tool
 - [foresterre/imagineer](https://github.com/foresterre/imagineer) - 🦜 Accessible image processing and conversion from the terminal. Front-end for image-rs/image. Formerly 'sic'
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
@@ -3955,6 +3953,7 @@
 
 ## Shell 
 
+- [2KAbhishek/termux2k](https://github.com/2KAbhishek/termux2k) - CLI Dev Setup in Your Hands ✋📱
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [wmarais/nixos-installer](https://github.com/wmarais/nixos-installer) - A simple script to install NixOs.
 - [23blocks-OS/ai-maestro-plugins](https://github.com/23blocks-OS/ai-maestro-plugins) - Build custom skill sets for your AI agents. Pick skills from GitHub, mix your own, assemble a tailored Claude Code plugin. Like uploading Kung Fu into Neo — but for your AI.
@@ -4258,6 +4257,7 @@
 - [CuarzoSoftware/CuarzoOS](https://github.com/CuarzoSoftware/CuarzoOS) - CuarzoOS
 - [kotoko/voidlinux-iso-extra](https://github.com/kotoko/voidlinux-iso-extra) - Void (Linux) installation ISO with additional programs
 - [alealexpro100/linux_install](https://github.com/alealexpro100/linux_install) - Install any distribution using only package mirror. Lightweight, easy-to-use and customizable.
+- [s1as3r/dotfiles](https://github.com/s1as3r/dotfiles) - dotfiles
 - [diemol/cud](https://github.com/diemol/cud) - Set of scripts to set an Ubuntu desktop with VNC in the cloud
 - [guysoft/RealtimePi](https://github.com/guysoft/RealtimePi) - An out-of-the-box raspebrrypi/raspbian distro with a realtime kernel
 - [aferrero2707/gimp-plugins-collection](https://github.com/aferrero2707/gimp-plugins-collection) - 
@@ -4466,6 +4466,7 @@
 
 ## TypeScript 
 
+- [jenslys/opencode-gemini-auth](https://github.com/jenslys/opencode-gemini-auth) - Gemini auth plugin for opencode
 - [nmandal/harness-engineering](https://github.com/nmandal/harness-engineering) - Harness engineering starter: agent-first docs, architecture guardrails, runtime evidence checks, and one-command domain scaffolding.
 - [joshuadavidthomas/opencode-agent-skills](https://github.com/joshuadavidthomas/opencode-agent-skills) - An OpenCode plugin that provides tools for using agent skills
 - [xuemian168/android-locker](https://github.com/xuemian168/android-locker) - A comprehensive, community-maintained hub for comparing bootloader unlock, kernel source, and warranty policies across major Android manufacturers. Supports multilingual SEO (Chinese, Hindi, English) 
@@ -4702,6 +4703,7 @@
 - [fand/MDMT](https://github.com/fand/MDMT) - 💊Markdown Document Template💊
 - [pieroproietti/penguins-eggs](https://github.com/pieroproietti/penguins-eggs) - A professional and universal remastering tool for all major distributions
 - [TechSquidTV/Shoutify](https://github.com/TechSquidTV/Shoutify) - An open source, self-hosted, and entirely free solution to social media management.
+- [Start9Labs/start-os](https://github.com/Start9Labs/start-os) - A graphical server OS optimized for self-hosting
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
 - [nrwl/nx](https://github.com/nrwl/nx) - The Monorepo Platform that amplifies both developers and AI agents. Nx optimizes your builds, scales your CI, and fixes failed PRs automatically. Ship in half the time.
 - [LasCC/HackTools](https://github.com/LasCC/HackTools) - The all-in-one browser extension for offensive security professionals 🛠
@@ -4912,6 +4914,7 @@
 - [Schroedinger-Hat/ImageGoNord-Web](https://github.com/Schroedinger-Hat/ImageGoNord-Web) - A tool that can convert your rgb images to nordtheme palette
 - [lostdesign/webgems](https://github.com/lostdesign/webgems) - A curated list of resources for devs and designers. Join me on devcord.com if you are up for a chit chat :)
 - [Litarvan/lightdm-webkit-theme-litarvan](https://github.com/Litarvan/lightdm-webkit-theme-litarvan) - Litarvan's LightDM HTML Theme
+- [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 - [Exauthor/lightdm-webkit-theme-osmos](https://github.com/Exauthor/lightdm-webkit-theme-osmos) - Osmos
 - [bencodezen/vuepress-blog-boilerplate](https://github.com/bencodezen/vuepress-blog-boilerplate) - An ever-evolving and opinionated dev environment for people who want to use VuePress to power their blogs.
 - [oleksiikhr/Social-Cleaner](https://github.com/oleksiikhr/Social-Cleaner) - Cleaning of any data (wall, documents, video, image, etc.) from various social networks with logs and preliminary verification
