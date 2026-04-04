@@ -1023,7 +1023,6 @@
 - [ceruleandeep/SillyTavern-ChatNamer](https://github.com/ceruleandeep/SillyTavern-ChatNamer) - SillyTavern tool for your bot/agent/character to use, that sets the name of the current chat.
 - [nbrown725/SillyTavern-AlternateDescriptions](https://github.com/nbrown725/SillyTavern-AlternateDescriptions) - 
 - [ceruleandeep/SillyTavern-ComfierPlaceholders](https://github.com/ceruleandeep/SillyTavern-ComfierPlaceholders) - 
-- [Wolfsblvt/SillyTavern-Pronouns](https://github.com/Wolfsblvt/SillyTavern-Pronouns) - Add pronouns functionality to personas and characters to SillyTavern
 - [dfaker/st-mode-toggles](https://github.com/dfaker/st-mode-toggles) - Clickable cinematic “mode” toggles for SillyTavern that prepend flavorful meta-directives to your prompt and add a floating microchip menu to flip vibes on the fly.
 - [FirefoxCSS-Store/FirefoxCSS-Store.github.io](https://github.com/FirefoxCSS-Store/FirefoxCSS-Store.github.io) - A collection site of Firefox userchrome themes, mostly from FirefoxCSS Reddit community.
 - [Merci-chao/userChrome.js](https://github.com/Merci-chao/userChrome.js) - Firefox userChrome.js scripts: Multi Tab Rows, History Submenus II, Page Title in URL Bar, and more...
@@ -3218,10 +3217,8 @@
 - [djacu/nixos-on-zfs](https://github.com/djacu/nixos-on-zfs) - A collection of setup scripts for installing nixOS on my work laptop.
 - [volcengine/OpenViking](https://github.com/volcengine/OpenViking) - OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need throu
 - [smerchek/claude-epub-skill](https://github.com/smerchek/claude-epub-skill) - A Claude Skill for converting markdown documents, chat summaries, or research reports into a downloadable epub file that can be sent to kindle
-- [AreteDriver/animus](https://github.com/AreteDriver/animus) - An exocortex architecture for personal cognitive sovereignty
 - [Yavuz-Kagan-Yadigar/Qt6-SVG-Re-color-Tool](https://github.com/Yavuz-Kagan-Yadigar/Qt6-SVG-Re-color-Tool) - A Qt6 GUI SVG re-color tool to match icon packs to your Linux theme
 - [microsoft/qlib](https://github.com/microsoft/qlib) - Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, incl
-- [deadnews/images-upload-cli](https://github.com/deadnews/images-upload-cli) - Upload images via APIs
 - [seapear/AffinityOnLinux](https://github.com/seapear/AffinityOnLinux) - A repository that helps users get affinity software working on GNU/Linux 🐧
 - [sweetdevilprincess/RP-Launcher](https://github.com/sweetdevilprincess/RP-Launcher) - RP Launcher
 - [jim-plus/llm-abliteration](https://github.com/jim-plus/llm-abliteration) - Make abliterated models with transformers, easy and fast
@@ -3241,7 +3238,7 @@
 - [yanshengjia/ml-road](https://github.com/yanshengjia/ml-road) - Machine Learning and Agentic AI Resources, Practice and Research
 - [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin9938
 - [benapetr/clia](https://github.com/benapetr/clia) - Simple stupid LLM based CLI Agent
-- [oraios/serena](https://github.com/oraios/serena) - A powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server & other integrations)
+- [oraios/serena](https://github.com/oraios/serena) - A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent
 - [StonyBrookNLP/appworld](https://github.com/StonyBrookNLP/appworld) - 🌍 AppWorld: A Controllable World of Apps and People for Benchmarking Function Calling and Interactive Coding Agent, ACL'24 Best Resource Paper.
 - [SWE-agent/SWE-ReX](https://github.com/SWE-agent/SWE-ReX) - Sandboxed code execution for AI agents, locally or on the cloud. Massively parallel, easy to extend. Powering SWE-agent and more.
 - [MemoriLabs/Memori](https://github.com/MemoriLabs/Memori) - Memori is agent-native memory infrastructure. A SQL-native, LLM-agnostic layer that turns agent execution and interactions into structured, persistent state for production systems.
@@ -3263,7 +3260,7 @@
 - [FaceDeer/storyteller](https://github.com/FaceDeer/storyteller) - A simple framework for using a local Koboldcpp LLM to help with story-writing
 - [sologuy/BookmarkSummarizer](https://github.com/sologuy/BookmarkSummarizer) - 🧠 Turn Chrome bookmarks into a personal knowledge base with AI summaries. Supports OpenAI, Deepseek, Qwen, and Ollama.
 - [mikecreighton/knowledge-generator](https://github.com/mikecreighton/knowledge-generator) - A simple tool for generating information about a topic to be fed into NotebookLM.
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open source alternative to NotebookLM for teams. Join our Discord: https://discord.gg/ejRNvftDp9
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - An open source, privacy focused alternative to NotebookLM for teams with no data limit's. Join our Discord: https://discord.gg/ejRNvftDp9
 - [pop-os/icon-theme](https://github.com/pop-os/icon-theme) - System76 Pop icon theme for Linux
 - [chigwell/langchain_llm7](https://github.com/chigwell/langchain_llm7) - 
 - [jaxparrow07/Androidx86-Installer-Linux](https://github.com/jaxparrow07/Androidx86-Installer-Linux) - Advanced Android x86 Installer for Linux
@@ -3766,6 +3763,7 @@
 - [ohogb/hyu](https://github.com/ohogb/hyu) - A wayland compositor
 - [geekylthyosaur/well](https://github.com/geekylthyosaur/well) - Wayland compositor
 - [alexpasmantier/television](https://github.com/alexpasmantier/television) - A very fast, portable and hackable fuzzy finder.
+- [deadnews/imgup](https://github.com/deadnews/imgup) - Upload images via APIs
 - [rustybucket-cloud/tarantula](https://github.com/rustybucket-cloud/tarantula) - 
 - [BoundaryML/baml](https://github.com/BoundaryML/baml) - The AI framework that adds the engineering to prompt engineering (Python/TS/Ruby/Java/C#/Rust/Go compatible)
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
