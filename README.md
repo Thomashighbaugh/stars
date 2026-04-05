@@ -972,6 +972,7 @@
 
 ## JavaScript 
 
+- [city-unit/st-bulk-card-manager](https://github.com/city-unit/st-bulk-card-manager) - Silly Tavern Bulk Card Manager
 - [LenAnderson/SillyTavern-MoreFlexibleContinues](https://github.com/LenAnderson/SillyTavern-MoreFlexibleContinues) - 
 - [AugieIsHere/Extension-DynamicLore](https://github.com/AugieIsHere/Extension-DynamicLore) - SillyTavern extension for automatically updating World Info entries
 - [zlouis/react-photography](https://github.com/zlouis/react-photography) - Photography website built with ReactJs & MongoDB
@@ -3286,7 +3287,7 @@
 - [SartajBhuvaji/Story-Forge](https://github.com/SartajBhuvaji/Story-Forge) - An interactive LLM Powered Story Writer. Be the protagonist of the story and watch as your decisions shape the story.
 - [aomukai/Writingway](https://github.com/aomukai/Writingway) - Writingway is an AI-powered creative writing tool that helps authors brainstorm, refine prose, analyze story structure, and manage context dynamically. It features a chat-based workshop, customizable 
 - [jackaduma/Recurrent-LLM](https://github.com/jackaduma/Recurrent-LLM) - The open-source LLM  implementation of paper: RecurrentGPT: Interactive Generation of (Arbitrarily) Long Text.  AI 写小说，AI写作
-- [farrimoh/tweet_generator](https://github.com/farrimoh/tweet_generator) - Generate a 5-tweet research thread using LLaMA 3, Ollama, and LangChain; perfect for labs and learners exploring local LLM apps.
+- [farrimoh/gen-ai-tools](https://github.com/farrimoh/gen-ai-tools) - generative AI demos and utilities
 - [mainframed/IconTheme](https://github.com/mainframed/IconTheme) - GTK Icon Theme Creator
 - [Panchovix/stable-diffusion-webui-reForge](https://github.com/Panchovix/stable-diffusion-webui-reForge) - 
 - [paulbricman/conceptarium](https://github.com/paulbricman/conceptarium) - A fluid medium for storing, relating, and surfacing thoughts.
