@@ -2274,6 +2274,7 @@
 
 ## Makefile 
 
+- [5kahoisaac/opencode-configs](https://github.com/5kahoisaac/opencode-configs) - Personal configs of OpenCode, including agents, skills, commands and plugins
 - [Kartones/cyoa-epub](https://github.com/Kartones/cyoa-epub) - Choose Your Own Adventure Epub Gamebook
 - [jp-fosterson/pandoc-novel](https://github.com/jp-fosterson/pandoc-novel) - Markdown text to a novel in ePub and PDF.
 - [tammymakesthings/markdown-ebook-template](https://github.com/tammymakesthings/markdown-ebook-template) - Template for creating books (ebook and paper) from Markdown files
@@ -2698,6 +2699,7 @@
 
 ## Others 
 
+- [bruhismyname/opencode-ultimate-starter](https://github.com/bruhismyname/opencode-ultimate-starter) - The Ultimate OpenCode Starter Kit. Includes Oh My OpenCode config, Superpowers installation fix, MCP Setup, and Windows Crash Fix (exit_code: -1073740791). Panduan lengkap Bahasa Indonesia & English.
 - [vkarampinis/awesome-icons](https://github.com/vkarampinis/awesome-icons) - A curated list of awesome Web Font Icons
 - [xiyaowong/Operator-Fonts](https://github.com/xiyaowong/Operator-Fonts) - 
 - [skillmatic-ai/awesome-agent-skills](https://github.com/skillmatic-ai/awesome-agent-skills) - The definitive resource for Agent Skills - modular capabilities revolutionizing AI agent architecture
@@ -3213,6 +3215,7 @@
 
 ## Python 
 
+- [gotar/opencode-config](https://github.com/gotar/opencode-config) - OpenCode AI configuration with specialized agents, commands, context standards, and skills
 - [muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) - A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effe
 - [openai/skills](https://github.com/openai/skills) - Skills Catalog for Codex
 - [djacu/nixos-on-zfs](https://github.com/djacu/nixos-on-zfs) - A collection of setup scripts for installing nixOS on my work laptop.
@@ -3242,7 +3245,7 @@
 - [oraios/serena](https://github.com/oraios/serena) - A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent
 - [StonyBrookNLP/appworld](https://github.com/StonyBrookNLP/appworld) - 🌍 AppWorld: A Controllable World of Apps and People for Benchmarking Function Calling and Interactive Coding Agent, ACL'24 Best Resource Paper.
 - [SWE-agent/SWE-ReX](https://github.com/SWE-agent/SWE-ReX) - Sandboxed code execution for AI agents, locally or on the cloud. Massively parallel, easy to extend. Powering SWE-agent and more.
-- [MemoriLabs/Memori](https://github.com/MemoriLabs/Memori) - Memori is agent-native memory infrastructure. A SQL-native, LLM-agnostic layer that turns agent execution and interactions into structured, persistent state for production systems.
+- [MemoriLabs/Memori](https://github.com/MemoriLabs/Memori) - Memori is agent-native memory infrastructure. A SQL-native, LLM-agnostic layer that turns agent execution and conversation into structured, persistent state for production systems.
 - [character-ai/prompt-poet](https://github.com/character-ai/prompt-poet) - Streamlines and simplifies prompt design for both developers and non-technical users with a low code approach.
 - [UnkL4b/GitMiner3](https://github.com/UnkL4b/GitMiner3) - Tool for advanced mining for content on Github
 - [FaceDeer/pyqt_tavernai_character_editor](https://github.com/FaceDeer/pyqt_tavernai_character_editor) - A simple PyQt5 UI for editing TavernAI character cards
@@ -3954,6 +3957,8 @@
 
 ## Shell 
 
+- [actionbook/rust-skills](https://github.com/actionbook/rust-skills) - Rust Developer AI Assistance System — Meta-Problem-Driven Knowledge Indexing
+- [flpbalada/my-opencode-config](https://github.com/flpbalada/my-opencode-config) - 
 - [2KAbhishek/termux2k](https://github.com/2KAbhishek/termux2k) - CLI Dev Setup in Your Hands ✋📱
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [wmarais/nixos-installer](https://github.com/wmarais/nixos-installer) - A simple script to install NixOs.
@@ -4467,6 +4472,7 @@
 
 ## TypeScript 
 
+- [upstash/context7](https://github.com/upstash/context7) - Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
 - [jenslys/opencode-gemini-auth](https://github.com/jenslys/opencode-gemini-auth) - Gemini auth plugin for opencode
 - [nmandal/harness-engineering](https://github.com/nmandal/harness-engineering) - Harness engineering starter: agent-first docs, architecture guardrails, runtime evidence checks, and one-command domain scaffolding.
 - [joshuadavidthomas/opencode-agent-skills](https://github.com/joshuadavidthomas/opencode-agent-skills) - An OpenCode plugin that provides tools for using agent skills
@@ -4597,7 +4603,7 @@
 - [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) - Open-source tool to enforce privacy & security best-practices on Windows, macOS and Linux, because privacy is sexy
 - [iandjx/next-js-daisy](https://github.com/iandjx/next-js-daisy) - Next JS, twin.macro, typescript, daisyUI, tailwindcss template
 - [brandonsaldan/clover](https://github.com/brandonsaldan/clover) - Personal website built with NextJS, Tailwind, and Geist.
-- [rsxdalv/TTS-WebUI](https://github.com/rsxdalv/TTS-WebUI) - A single Gradio + React WebUI with extensions for ACE-Step, Kimi Audio, Piper TTS, GPT-SoVITS, CosyVoice, XTTSv2, DIA, Kokoro, OpenVoice, ParlerTTS, Stable Audio, MMS, StyleTTS2, MAGNet, AudioGen, Mus
+- [rsxdalv/TTS-WebUI](https://github.com/rsxdalv/TTS-WebUI) - A single Gradio + React WebUI with extensions for ACE-Step, OmniVoice, Kimi Audio, Piper TTS, GPT-SoVITS, CosyVoice, XTTSv2, DIA, Kokoro, OpenVoice, ParlerTTS, Stable Audio, MMS, StyleTTS2, MAGNet, Au
 - [andyruwruw/andyruwruw](https://github.com/andyruwruw/andyruwruw) - Github profile README.md with dynamic images generated from React.js components. Inspired by natemoo-re
 - [rafalzawadzki/spellbook-forge](https://github.com/rafalzawadzki/spellbook-forge) - ✨ Make your LLM prompts executable and version controlled. ✨
 - [element-plus/element-plus-icons](https://github.com/element-plus/element-plus-icons) - Main package for storing Element Plus icon resources.
@@ -4621,7 +4627,7 @@
 - [js-template/daisy-nextjs-turbo-setup](https://github.com/js-template/daisy-nextjs-turbo-setup) - 
 - [briangershon/nextjs-starter](https://github.com/briangershon/nextjs-starter) - Starter template for Next.js v13 (using new app approach). With TypeScript, tailwindcss and daisyUI.
 - [builderz-labs/builderz-solana-dapp-scaffold](https://github.com/builderz-labs/builderz-solana-dapp-scaffold) - Builderz Solana dApp Scaffold (Nextjs14, App Dir, Typescript, TailwindCSS, MaterialUI, web3.js, ThemeSwitch (Dark/Light), Sonner Toast Notifications, Modal & Drawer)
-- [Jkker/metasearch-tampermonkey](https://github.com/Jkker/metasearch-tampermonkey) - 
+- [jkker/metasearch-tampermonkey](https://github.com/jkker/metasearch-tampermonkey) - 
 - [osmoscraft/osmosfeed](https://github.com/osmoscraft/osmosfeed) - Turn GitHub into an RSS reader
 - [umutyesildal/yesildal.me-personal-portfolio](https://github.com/umutyesildal/yesildal.me-personal-portfolio) - A lightweight, customizable and responsive single-page personal portfolio website, created by using Reactjs and Nextjs.
 - [wslyvh/autodelete-me](https://github.com/wslyvh/autodelete-me) - Reduce your digital footprint and auto delete your online profiles 🧹
@@ -4655,7 +4661,7 @@
 - [GuiDevloper/nulla](https://github.com/GuiDevloper/nulla) - :woman_technologist: CLI for Nullstack fed by Nulla-chan powers and will
 - [nullwind/nullwind](https://github.com/nullwind/nullwind) - https://www.nullwind.dev
 - [satvikvirmani/nextjs-artist-portfolio](https://github.com/satvikvirmani/nextjs-artist-portfolio) - A sleek, PWA-enabled portfolio website that lets artists beautifully display their work with real-time updates, offline support, and an admin panel for easy content management.
-- [mrluisfer/linktry](https://github.com/mrluisfer/linktry) - 🌟 🌟 🌟 A more custom version of Linktree made with react and tailwind for the use of developers
+- [mrluisfer/linktry](https://github.com/mrluisfer/linktry) - A customizable Linktree clone built with Next.js, TypeScript & Tailwind CSS
 - [Kattjakt/github-markdown-alerts](https://github.com/Kattjakt/github-markdown-alerts) - A utility for generating alerts/banners using SVG, making them embeddable in GitHub flavored markdown and all other platforms supporting SVG
 - [BUMBAIYA/portfolio-v2](https://github.com/BUMBAIYA/portfolio-v2) - Portfolio website made using Nextjs 13, Tailwindcss and Framer motion
 - [coreui/coreui-icons](https://github.com/coreui/coreui-icons) - CoreUI Free Icons -  Premium designed free icon set with marks in SVG, Webfont and raster formats
