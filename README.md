@@ -134,6 +134,7 @@
 
 ## C 
 
+- [LongQT-sea/OpenCore-ISO](https://github.com/LongQT-sea/OpenCore-ISO) - A properly configured OpenCore-ISO image for Proxmox VE and QEMU/KVM - Support Mac OS X 10.4 to macOS 26
 - [killvxk/openforbusiness-realoriginal](https://github.com/killvxk/openforbusiness-realoriginal) - WIP:A generic UEFI shellcode intended to be patched into a DXE phase driver or `bootmgfw` on the ESP volume of the hard drive to toggle off integrity checks for Kernel Driver testing purposes.
 - [aitorfirm/BlackIris](https://github.com/aitorfirm/BlackIris) - Thats it! An Open-Source Windows UEFI Rootkit
 - [LongSoft/CrScreenshotDxe](https://github.com/LongSoft/CrScreenshotDxe) - UEFI DXE driver to take screenshots from GOP-compatible graphic consoles
@@ -360,7 +361,6 @@
 - [hazyfossa/ShyFox](https://github.com/hazyfossa/ShyFox) - A very shy little theme that hides the entire browser interface in the window border
 - [soapdog/little-webby-press](https://github.com/soapdog/little-webby-press) - A PWA to generate eBooks
 - [lunar-os/ZenCss](https://github.com/lunar-os/ZenCss) - 
-- [greeeen-dev/natsumi-browser](https://github.com/greeeen-dev/natsumi-browser) - Welcome to your personal internet.
 - [LoneWolf4713/new-wave](https://github.com/LoneWolf4713/new-wave) - Dotfiles for my Fedora Sway New Wave Rice!
 - [khaneliman/blurredfox](https://github.com/khaneliman/blurredfox) - A sleek, modern and elegant Firefox CSS theme
 - [Bali10050/FirefoxCSS](https://github.com/Bali10050/FirefoxCSS) - Custom firefox interface
@@ -1054,6 +1054,7 @@
 - [SpicyMarinara/rpg-companion-sillytavern](https://github.com/SpicyMarinara/rpg-companion-sillytavern) - RPG Companion extension for SillyTavern - Track characters, quests, inventory, and game state with AI-generated content
 - [Omegastick/SillyTavern-CacheChunker](https://github.com/Omegastick/SillyTavern-CacheChunker) - Extension for improving cache utilization in Silly Tavern
 - [LenAnderson/SillyTavern-Export-HTML](https://github.com/LenAnderson/SillyTavern-Export-HTML) - Export chat history as an HTML document.
+- [greeeen-dev/natsumi-browser](https://github.com/greeeen-dev/natsumi-browser) - Welcome to your personal internet.
 - [CosmoCreeper/Sine](https://github.com/CosmoCreeper/Sine) - The ultimate theme manager for Firefox-based browsers.
 - [LenAnderson/SillyTavern-QuickReplyManager](https://github.com/LenAnderson/SillyTavern-QuickReplyManager) - 
 - [LenAnderson/SillyTavern-GoReadABook](https://github.com/LenAnderson/SillyTavern-GoReadABook) - Read your chat / story like a book.
@@ -1666,6 +1667,7 @@
 
 ## Lua 
 
+- [SkyyySi/SlimeOS-awesome](https://github.com/SkyyySi/SlimeOS-awesome) - 
 - [maheshbansod/todo-marker.nvim](https://github.com/maheshbansod/todo-marker.nvim) - A NeoVim plugin to toggle todo items in markdown or TODO file
 - [trip-zip/somewm](https://github.com/trip-zip/somewm) - Not quite awesome...just some.
 - [pirafrank/what-size.yazi](https://github.com/pirafrank/what-size.yazi) - A plugin for yazi to calculate the size of current selection or current working directory
@@ -3701,7 +3703,7 @@
 - [DerMaista/dotfiles_mangowc](https://github.com/DerMaista/dotfiles_mangowc) - my mangowc dotfiles
 - [melatonia/meloworld-dotfiles](https://github.com/melatonia/meloworld-dotfiles) - My mangowm and quickshell rice heavily influenced by crylia theme!
 - [jslandau/dms-unified-taskbar](https://github.com/jslandau/dms-unified-taskbar) - Unified Taskbar plugin for Dank Material Shell - workspace-grouped taskbar widget
-- [Hashtaxx/blurshell](https://github.com/Hashtaxx/blurshell) - Blurshell is a customizable, modern Linux shell UI built with QML. It features a sleek design, animated components, notification system, control center, launcher, and modular architecture, providing a
+- [sirschdev/blurshell](https://github.com/sirschdev/blurshell) - Blurshell is a customizable, modern Linux shell UI built with QML. It features a sleek design, animated components, notification system, control center, launcher, and modular architecture, providing a
 - [noctalia-dev/noctalia-plugins](https://github.com/noctalia-dev/noctalia-plugins) - Noctalia's official plugins
 - [nucleus-hq/nucleus-shell](https://github.com/nucleus-hq/nucleus-shell) - A flexible, extensible desktop shell built with QML, C++, and JavaScript
 - [ZerkerEOD/shell](https://github.com/ZerkerEOD/shell) - A very segsy desktop shell
@@ -3957,6 +3959,7 @@
 
 ## Shell 
 
+- [Bliss-Bass/bass-os](https://github.com/Bliss-Bass/bass-os) - 
 - [actionbook/rust-skills](https://github.com/actionbook/rust-skills) - Rust Developer AI Assistance System — Meta-Problem-Driven Knowledge Indexing
 - [flpbalada/my-opencode-config](https://github.com/flpbalada/my-opencode-config) - 
 - [2KAbhishek/termux2k](https://github.com/2KAbhishek/termux2k) - CLI Dev Setup in Your Hands ✋📱
