@@ -1024,6 +1024,7 @@
 - [ceruleandeep/SillyTavern-ChatNamer](https://github.com/ceruleandeep/SillyTavern-ChatNamer) - SillyTavern tool for your bot/agent/character to use, that sets the name of the current chat.
 - [nbrown725/SillyTavern-AlternateDescriptions](https://github.com/nbrown725/SillyTavern-AlternateDescriptions) - 
 - [ceruleandeep/SillyTavern-ComfierPlaceholders](https://github.com/ceruleandeep/SillyTavern-ComfierPlaceholders) - 
+- [Wolfsblvt/SillyTavern-Pronouns](https://github.com/Wolfsblvt/SillyTavern-Pronouns) - Add pronouns functionality to personas and characters to SillyTavern
 - [dfaker/st-mode-toggles](https://github.com/dfaker/st-mode-toggles) - Clickable cinematic “mode” toggles for SillyTavern that prepend flavorful meta-directives to your prompt and add a floating microchip menu to flip vibes on the fly.
 - [FirefoxCSS-Store/FirefoxCSS-Store.github.io](https://github.com/FirefoxCSS-Store/FirefoxCSS-Store.github.io) - A collection site of Firefox userchrome themes, mostly from FirefoxCSS Reddit community.
 - [Merci-chao/userChrome.js](https://github.com/Merci-chao/userChrome.js) - Firefox userChrome.js scripts: Multi Tab Rows, History Submenus II, Page Title in URL Bar, and more...
@@ -1372,7 +1373,6 @@
 - [vivek9patel/vivek9patel.github.io](https://github.com/vivek9patel/vivek9patel.github.io) - Web simulation of Ubuntu 20.04, made using NEXT.js & tailwind CSS
 - [feiruo/userChromeJS](https://github.com/feiruo/userChromeJS) - Firefox userChromeJS
 - [luismoralesarg/EnterTheMatrix](https://github.com/luismoralesarg/EnterTheMatrix) - The most faithful version of the Matrix rain.
-- [remorses/holocron](https://github.com/remorses/holocron) - Lovable for docs websites
 - [interactivethings/catalog](https://github.com/interactivethings/catalog) - Create living style guides using Markdown or React
 - [mipmip/awesomewm-screenshots](https://github.com/mipmip/awesomewm-screenshots) - AwesomeWM screenshot gallery. https://mipmip.github.io/awesomewm-screenshots/
 - [BlackCapCoder/scrimba-vim](https://github.com/BlackCapCoder/scrimba-vim) - Edit scrimba projects with vim
@@ -1667,6 +1667,7 @@
 
 ## Lua 
 
+- [beckkake/.files](https://github.com/beckkake/.files) - mah dotfiles
 - [SkyyySi/SlimeOS-awesome](https://github.com/SkyyySi/SlimeOS-awesome) - 
 - [maheshbansod/todo-marker.nvim](https://github.com/maheshbansod/todo-marker.nvim) - A NeoVim plugin to toggle todo items in markdown or TODO file
 - [trip-zip/somewm](https://github.com/trip-zip/somewm) - Not quite awesome...just some.
@@ -2095,7 +2096,7 @@
 - [nekonako/xresources-nvim](https://github.com/nekonako/xresources-nvim) - 🎨 Neovim colorscheme based on your xresources color
 - [lewis6991/impatient.nvim](https://github.com/lewis6991/impatient.nvim) - Improve startup time for Neovim
 - [s1n7ax/nvim-comment-frame](https://github.com/s1n7ax/nvim-comment-frame) - Detects the language using treesitter and adds a comment block
-- [n3wborn/nvim](https://github.com/n3wborn/nvim) - My own NVIM (&gt;=NVIM  v0.12.0-dev-1627+gd464dffd2f) config
+- [n3wborn/nvim](https://github.com/n3wborn/nvim) - My own NVIM (&gt;=NVIM  v0.13.0-dev-108+g5d66ef188f) config
 - [koniu/awesome-configs](https://github.com/koniu/awesome-configs) - koniu's awesome config
 - [kurbel/awesome-config](https://github.com/kurbel/awesome-config) - configuration files for the awesome window manager (awesomewm)
 - [nvim-lua/popup.nvim](https://github.com/nvim-lua/popup.nvim) - [WIP] An implementation of the Popup API from vim in Neovim. Hope to upstream when complete
@@ -2526,6 +2527,7 @@
 - [the-argus/nixsys](https://github.com/the-argus/nixsys) - My NixOS system configuration.
 - [luftmensch-luftmensch/nix-config](https://github.com/luftmensch-luftmensch/nix-config) - NixOS Configuration
 - [thaenalpha/dotfiles](https://github.com/thaenalpha/dotfiles) - And I say hey, what's going on?
+- [numtide/system-manager](https://github.com/numtide/system-manager) - Manage system config using nix on any distro
 - [hercules-ci/flake-parts](https://github.com/hercules-ci/flake-parts) - ❄️ Simplify Nix Flakes with the module system
 - [legendofmiracles/dotnix](https://github.com/legendofmiracles/dotnix) - nix stuff
 - [lovesegfault/nix-config](https://github.com/lovesegfault/nix-config) - My personal NixOS config
@@ -3859,7 +3861,6 @@
 - [MagmaWM/MagmaWM](https://github.com/MagmaWM/MagmaWM) - A versatile and customizable Window Manager and Wayland Compositor
 - [badboy/mdbook-toc](https://github.com/badboy/mdbook-toc) - A preprocessor for mdbook to add inline Table of Contents support.
 - [snowfallorg/snow](https://github.com/snowfallorg/snow) - A commandline wrapper for the Nix package manager
-- [numtide/system-manager](https://github.com/numtide/system-manager) - Manage system config using nix on any distro
 - [orhun/menyoki](https://github.com/orhun/menyoki) - Screen{shot,cast} and perform ImageOps on the command line 🌱 🏞️
 - [zzhgithub/juner_os](https://github.com/zzhgithub/juner_os) - Rust developed OS based on blog_os Trying a repl environment running in kernel state lisp developed based on mal implementation
 - [rusty-ferris-club/backpack](https://github.com/rusty-ferris-club/backpack) - 🎒 CLI to create starters from repos + Templates 🤖 + Actions 🚀
@@ -4448,6 +4449,7 @@
 
 ## Swift 
 
+- [Kruszoneq/macUSB](https://github.com/Kruszoneq/macUSB) - Creating bootable macOS and OS X USB drives has never been easier!
 - [signerlabs/Klee](https://github.com/signerlabs/Klee) - A native macOS AI chat app powered by MLX. 100% local inference on Apple Silicon, no cloud required. Built with ShipSwift.
 - [ianyh/Amethyst](https://github.com/ianyh/Amethyst) - Automatic tiling window manager for macOS à la xmonad.
 
@@ -4761,6 +4763,7 @@
 - [lailo/next-with-tailwindcss](https://github.com/lailo/next-with-tailwindcss) - NextJS with TypeScript and TailwindCSS (with dark theme switch)
 - [timroes/awesome-config](https://github.com/timroes/awesome-config) - My awesome wm configuration.
 - [adonig/nextjs-starter-preact-tailwindcss](https://github.com/adonig/nextjs-starter-preact-tailwindcss) - A Next.js starter project coming with Preact and Tailwind CSS built-in.
+- [remorses/holocron](https://github.com/remorses/holocron) - Lovable for docs websites
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - Chakra UI is a component system for building SaaS products with speed ⚡️
 - [ConsenSys-archive/truffle](https://github.com/ConsenSys-archive/truffle) - :warning: The Truffle Suite is being sunset. For information on ongoing support, migration options and FAQs, visit the Consensys blog. Thank you for all the support over the years.
