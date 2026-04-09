@@ -134,6 +134,7 @@
 
 ## C 
 
+- [adnanpri/legion-wmi](https://github.com/adnanpri/legion-wmi) - A WMI driver for Lenovo Legion series of laptops
 - [LongQT-sea/OpenCore-ISO](https://github.com/LongQT-sea/OpenCore-ISO) - A properly configured OpenCore-ISO image for Proxmox VE and QEMU/KVM - Support Mac OS X 10.4 to macOS 26
 - [killvxk/openforbusiness-realoriginal](https://github.com/killvxk/openforbusiness-realoriginal) - WIP:A generic UEFI shellcode intended to be patched into a DXE phase driver or `bootmgfw` on the ESP volume of the hard drive to toggle off integrity checks for Kernel Driver testing purposes.
 - [aitorfirm/BlackIris](https://github.com/aitorfirm/BlackIris) - Thats it! An Open-Source Windows UEFI Rootkit
@@ -1916,7 +1917,7 @@
 - [RyaWcksn/Neko-Vim](https://github.com/RyaWcksn/Neko-Vim) - Neovim distribution, IDE wannabe
 - [bryant-the-coder/NvHack](https://github.com/bryant-the-coder/NvHack) - My personal Neovim config / NvHack entirely written in Lua
 - [tjdevries/config_manager](https://github.com/tjdevries/config_manager) - My configuration files and tools
-- [unusualpepe/awesome-systray-switcher](https://github.com/unusualpepe/awesome-systray-switcher) - Move the systray to the focused screen on awesome window manager
+- [realblaag/awesome-systray-switcher](https://github.com/realblaag/awesome-systray-switcher) - Move the systray to the focused screen on awesome window manager
 - [minh-p/awesomewm-blue-cacti](https://github.com/minh-p/awesomewm-blue-cacti) - An awesomewm rice.
 - [Hyperboid/awesome](https://github.com/Hyperboid/awesome) - A pretty awesome awesome configuration
 - [iacchus/awesomewm-capslock-widget](https://github.com/iacchus/awesomewm-capslock-widget) - AwesomeWM widget that shows Caps_Lock status
@@ -2336,7 +2337,7 @@
 - [khaneliman/khanelinix](https://github.com/khaneliman/khanelinix) - Nix configuration for my systems supporting macOS, NixOS, and WSL.
 - [bertof/nix-rice](https://github.com/bertof/nix-rice) - A library to functionally define your configuration and theme (rice) with Nix
 - [Ahwxorg/nixos-config](https://github.com/Ahwxorg/nixos-config) - Do things and be happy, mostly just doing things though.
-- [garado/auriga](https://github.com/garado/auriga) - personal nix config
+- [garado/auriga](https://github.com/garado/auriga) - Nix config for my laptop and home server.
 - [Plasmaa0/NixOS-config](https://github.com/Plasmaa0/NixOS-config) - My NixOS config
 - [ExpidusOS/expidusos](https://github.com/ExpidusOS/expidusos) - 
 - [RossComputerGuy/dotfiles](https://github.com/RossComputerGuy/dotfiles) - My dotfiles for all of my Linux devices
@@ -3219,6 +3220,7 @@
 
 ## Python 
 
+- [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [gotar/opencode-config](https://github.com/gotar/opencode-config) - OpenCode AI configuration with specialized agents, commands, context standards, and skills
 - [muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) - A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effe
 - [openai/skills](https://github.com/openai/skills) - Skills Catalog for Codex
@@ -3699,6 +3701,7 @@
 
 ## QML 
 
+- [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - Usability-first dotfiles
 - [hans-chrstn/.quickshell](https://github.com/hans-chrstn/.quickshell) - My quickshell config
 - [tripathiji1312/quickshell](https://github.com/tripathiji1312/quickshell) - A highly customizable, modular, and performant desktop quickshell configuration
 - [pterror/config-quickshell](https://github.com/pterror/config-quickshell) - quickshell config
@@ -4763,7 +4766,7 @@
 - [lailo/next-with-tailwindcss](https://github.com/lailo/next-with-tailwindcss) - NextJS with TypeScript and TailwindCSS (with dark theme switch)
 - [timroes/awesome-config](https://github.com/timroes/awesome-config) - My awesome wm configuration.
 - [adonig/nextjs-starter-preact-tailwindcss](https://github.com/adonig/nextjs-starter-preact-tailwindcss) - A Next.js starter project coming with Preact and Tailwind CSS built-in.
-- [remorses/holocron](https://github.com/remorses/holocron) - Lovable for docs websites
+- [remorses/holocron](https://github.com/remorses/holocron) - Open source drop-in replacement for Mintlify as a Vite plugin
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - Chakra UI is a component system for building SaaS products with speed ⚡️
 - [ConsenSys-archive/truffle](https://github.com/ConsenSys-archive/truffle) - :warning: The Truffle Suite is being sunset. For information on ongoing support, migration options and FAQs, visit the Consensys blog. Thank you for all the support over the years.
