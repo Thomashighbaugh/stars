@@ -973,6 +973,9 @@
 
 ## JavaScript 
 
+- [inmve/free-ai-coding](https://github.com/inmve/free-ai-coding) - AI coding tools that give free Claude Opus/Sonnet, GPT-5, Gemini Pro, and other pro-grade models
+- [vava-nessa/free-coding-models](https://github.com/vava-nessa/free-coding-models) - Find, benchmark and install in CLI 200+ FREE coding LLM models across 20+ providers in real time
+- [Rapptz/power-tabs](https://github.com/Rapptz/power-tabs) - Vertical tab groups for Firefox
 - [city-unit/st-bulk-card-manager](https://github.com/city-unit/st-bulk-card-manager) - Silly Tavern Bulk Card Manager
 - [LenAnderson/SillyTavern-MoreFlexibleContinues](https://github.com/LenAnderson/SillyTavern-MoreFlexibleContinues) - 
 - [AugieIsHere/Extension-DynamicLore](https://github.com/AugieIsHere/Extension-DynamicLore) - SillyTavern extension for automatically updating World Info entries
@@ -1119,7 +1122,6 @@
 - [leandrojofre/SillyTavern-Presence](https://github.com/leandrojofre/SillyTavern-Presence) - Gives each individual character their own memory.
 - [TheZennou/STExtension-Snapshot](https://github.com/TheZennou/STExtension-Snapshot) - Takes a snapshot of the current chat and makes an image of it for easy sharing.
 - [ForgottenGlory/ST-SuperObjective](https://github.com/ForgottenGlory/ST-SuperObjective) - A major enhancement and partial rewrite of the existing Objective extension for SillyTavern.
-- [Hayanaga/SillyTavern-LandingPage-PersonalCustom](https://github.com/Hayanaga/SillyTavern-LandingPage-PersonalCustom) - 
 - [SoRobby/ObsidianStarterVault](https://github.com/SoRobby/ObsidianStarterVault) - Organize your Universe: An Obsidian starter vault for everyone, bridging the gap between ideas and actions
 - [Naezr/shyfox.js](https://github.com/Naezr/shyfox.js) - 
 - [Zabooby/firefox-config](https://github.com/Zabooby/firefox-config) - My Firefox configuration
@@ -3221,6 +3223,8 @@
 
 ## Python 
 
+- [Prat011/awesome-llm-skills](https://github.com/Prat011/awesome-llm-skills) - A curated list of awesome LLM and AI Agent Skills, resources and tools for customising AI Agent workflows - that works with Claude Code, Codex, Gemini CLI and your custom AI Agents
+- [foryourhealth111-pixel/Vibe-Skills](https://github.com/foryourhealth111-pixel/Vibe-Skills) - Wherever your AI supports skills, VibeSkills works. 340+ governed skills spanning coding, research, automation & creative work.
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [gotar/opencode-config](https://github.com/gotar/opencode-config) - OpenCode AI configuration with specialized agents, commands, context standards, and skills
 - [muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) - A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effe
@@ -4481,6 +4485,8 @@
 
 ## TypeScript 
 
+- [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer) - The best way to get AI coding agents to solve hard problems in complex codebases.
+- [gotalab/cc-sdd](https://github.com/gotalab/cc-sdd) - Spec-driven development (SDD) for your team's workflow. Kiro style commands that enforce structured requirements→design→tasks workflow and steering, transforming how you build with AI. Support Claude 
 - [upstash/context7](https://github.com/upstash/context7) - Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
 - [jenslys/opencode-gemini-auth](https://github.com/jenslys/opencode-gemini-auth) - Gemini auth plugin for opencode
 - [nmandal/harness-engineering](https://github.com/nmandal/harness-engineering) - Harness engineering starter: agent-first docs, architecture guardrails, runtime evidence checks, and one-command domain scaffolding.
