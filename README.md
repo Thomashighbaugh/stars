@@ -2319,6 +2319,7 @@
 
 ## Nix 
 
+- [i-am-logger/mynixos](https://github.com/i-am-logger/mynixos) - A NixOS-based distribution. Defaults that work, mkDefault so you always win.
 - [MatthewCroughan/nixinate](https://github.com/MatthewCroughan/nixinate) - Another NixOS Deployment Tool - Nixinate your systems 🕶️
 - [ketgg/Awe](https://github.com/ketgg/Awe) - ❄️ Flakes with Awm
 - [hans-chrstn/.dotfiles](https://github.com/hans-chrstn/.dotfiles) - My NixOS home-manager and flakes configs
