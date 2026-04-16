@@ -212,7 +212,7 @@
 - [kisslinux/repo](https://github.com/kisslinux/repo) - KISS Linux - Official Repositories
 - [way-cooler/way-cooler](https://github.com/way-cooler/way-cooler) - Wayland compositor for AwesomeWM
 - [facebook/zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
-- [openssl/openssl](https://github.com/openssl/openssl) - TLS/SSL and crypto library
+- [openssl/openssl](https://github.com/openssl/openssl) - General purpose TLS and crypto library
 - [libgit2/libgit2](https://github.com/libgit2/libgit2) - A cross-platform, linkable library implementation of Git that you can use in your application.
 - [trezor/trezor-firmware](https://github.com/trezor/trezor-firmware) - :lock: Trezor Firmware Monorepo
 - [fluent/fluent-bit](https://github.com/fluent/fluent-bit) - Fast and Lightweight Logs, Metrics and Traces processor for Linux, BSD, OSX and Windows
@@ -794,6 +794,7 @@
 - [mia13165/SillyTavern-BotBrowser](https://github.com/mia13165/SillyTavern-BotBrowser) - Browse character bots and lorebooks from various sources directly in SillyTavern.
 - [5nacks/OSINTBookmarks](https://github.com/5nacks/OSINTBookmarks) - OSINT Bookmarks for Firefox / Chrome / Edge / Safari
 - [WalterBarrett/sillytavern-actions](https://github.com/WalterBarrett/sillytavern-actions) - 
+- [trycua/cua](https://github.com/trycua/cua) - Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).
 - [MuftiAnees/StartPage](https://github.com/MuftiAnees/StartPage) - A startpage for web browsers
 - [HirotakaDango/iframes](https://github.com/HirotakaDango/iframes) - Split screens through iframes.
 - [natthasath/vibe-liquid-macos](https://github.com/natthasath/vibe-liquid-macos) - Vibe Liquid macOS brings the sleek look and feel of macOS’s liquid-style interface to your browser. Enjoy smooth animations, elegant design, and intuitive interactions that mimic the macOS experience—
@@ -974,6 +975,7 @@
 
 ## JavaScript 
 
+- [RedIceCider/SillyQR-Buttons](https://github.com/RedIceCider/SillyQR-Buttons) - Extension for SillyTavern. Execute QuickReplies with HTML buttons in chat body.
 - [inmve/free-ai-coding](https://github.com/inmve/free-ai-coding) - AI coding tools that give free Claude Opus/Sonnet, GPT-5, Gemini Pro, and other pro-grade models
 - [vava-nessa/free-coding-models](https://github.com/vava-nessa/free-coding-models) - Find, benchmark and install in CLI 200+ FREE coding LLM models across 20+ providers in real time
 - [Rapptz/power-tabs](https://github.com/Rapptz/power-tabs) - Vertical tab groups for Firefox
@@ -3271,7 +3273,6 @@
 - [OthersideAI/self-operating-computer](https://github.com/OthersideAI/self-operating-computer) - A framework to enable multimodal models to operate a computer.
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
 - [EzioDEVio/ai-knowledge-bot](https://github.com/EzioDEVio/ai-knowledge-bot) - his is my own custom-built offline AI bot that lets you chat with PDFs and web pages using **local embeddings** and **local LLMs** like LLaMA 3.  I built it step by step using LangChain, FAISS, Huggin
-- [trycua/cua](https://github.com/trycua/cua) - Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).
 - [BaoNguyen09/github-second-brain](https://github.com/BaoNguyen09/github-second-brain) - Providing tools to AI to explore github codebase like agent
 - [preethamb97/AIContentForge](https://github.com/preethamb97/AIContentForge) - A revolutionary AI system that generates factually accurate, research-enhanced YouTube video scripts. Every topic is automatically researched using DuckDuckGo and Wikipedia to ensure current, verified
 - [stitionai/devika](https://github.com/stitionai/devika) - Devika is the first open-source implementation of an Agentic Software Engineer. Initially started as an open-source alternative to Devin.
@@ -3984,7 +3985,7 @@
 - [wmarais/nixos-installer](https://github.com/wmarais/nixos-installer) - A simple script to install NixOs.
 - [23blocks-OS/ai-maestro-plugins](https://github.com/23blocks-OS/ai-maestro-plugins) - Build custom skill sets for your AI agents. Pick skills from GitHub, mix your own, assemble a tailored Claude Code plugin. Like uploading Kung Fu into Neo — but for your AI.
 - [IamJony/book-scraping](https://github.com/IamJony/book-scraping) - A Bash script to search and download books using  shadows libraries
-- [Rakosn1cek/xc-manager](https://github.com/Rakosn1cek/xc-manager) - Small script to save your commands and descriptions
+- [Rakosn1cek/xc-manager](https://github.com/Rakosn1cek/xc-manager) - A lightweight, Zsh-native vault for command execution with GPG encryption, interactive templates, and fzf integration.
 - [dockur/macos](https://github.com/dockur/macos) - MacOS inside a Docker container.
 - [rodrigogalura/bak-rstr](https://github.com/rodrigogalura/bak-rstr) - Simple Backup & Restore: Compress, upload, and secure your files to Dropbox with a single command!
 - [NixOS/flake-registry](https://github.com/NixOS/flake-registry) - Global registry of Nix flakes
