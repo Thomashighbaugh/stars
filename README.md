@@ -495,7 +495,6 @@
 - [rtkay123/dotfiles](https://github.com/rtkay123/dotfiles) - 
 - [halfmoonui/halfmoon](https://github.com/halfmoonui/halfmoon) - Halfmoon is a highly customizable, drop-in Bootstrap replacement. It comes with three built-in core themes, with dark mode support for all themes and components.
 - [FrenzyExists/dotfiles](https://github.com/FrenzyExists/dotfiles) - My chaotic dotfiles, it ain't much, but its honest work
-- [ProgrammingFonts/ProgrammingFonts](https://github.com/ProgrammingFonts/ProgrammingFonts) - This is a collection of programming fonts, just share this with the programmers. Now there are 108 kinds of fantastic fonts!
 - [Tsuyoken/dotfiles](https://github.com/Tsuyoken/dotfiles) - Backup Dotfiles
 - [Thomashighbaugh/zeal--master](https://github.com/Thomashighbaugh/zeal--master) - very old portfolio site
 - [Mrcuve0/Aritim-Dark](https://github.com/Mrcuve0/Aritim-Dark) - A Dark theme for both KDE and GTK based DEs, deeply inspired by the Ayu Dark color palette
@@ -1676,6 +1675,7 @@
 
 ## Lua 
 
+- [ReadyWidgets/awesome-lua-language-server](https://github.com/ReadyWidgets/awesome-lua-language-server) - Static type deffinitions for AwesomeWM, desgined to be used with the Lua language server
 - [vzze/cmdline.nvim](https://github.com/vzze/cmdline.nvim) - Wildmenu replacement for Neovim inspired by Helix
 - [smolck/command-completion.nvim](https://github.com/smolck/command-completion.nvim) - 
 - [beckkake/.files](https://github.com/beckkake/.files) - mah dotfiles
@@ -2873,7 +2873,6 @@
 - [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED UNTIL SEPTEMBER]
 - [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - A list of awesome beginners-friendly projects.
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
-- [cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications) - A curated list of free courses with certifications. Also available at https://free-certifications.com/
 - [neysofu/awesome-github-actions-runners](https://github.com/neysofu/awesome-github-actions-runners) - Save $$$ and make GitHub Actions go brrr with 3rd-party runners ⚡🤖
 - [xtenzQ/xtenzQ](https://github.com/xtenzQ/xtenzQ) - 📝🚀 Minimalistic profile README.md. Please ⭐ if you like it! ❤
 - [ptprussak/GPTs](https://github.com/ptprussak/GPTs) - leaked prompts of GPTs
@@ -3079,6 +3078,7 @@
 - [thelearn-tech/Alpine-Linux-GUI](https://github.com/thelearn-tech/Alpine-Linux-GUI) - How to install GUI on Alpine Linux
 - [digmorepaka/thinkpad-firmware-patches](https://github.com/digmorepaka/thinkpad-firmware-patches) - Collection of ThinkPad UEFI patches.
 - [xexpanderx/Fluxbox-themes](https://github.com/xexpanderx/Fluxbox-themes) - Fluxbox theme collections
+- [ProgrammingFonts/ProgrammingFonts](https://github.com/ProgrammingFonts/ProgrammingFonts) - Next-generation font management system.
 - [nanotee/nvim-lua-guide](https://github.com/nanotee/nvim-lua-guide) - A guide to using Lua in Neovim
 - [Zheaoli/awesome-coins](https://github.com/Zheaoli/awesome-coins) - ₿ A guide (for humans!) to cryto-currencies and their algos.
 - [therebelrobot/awesome-workshopper](https://github.com/therebelrobot/awesome-workshopper) - A list of CLI workshopper/adventure tutorials for various things. Inspired by awesome.
@@ -3981,6 +3981,7 @@
 
 ## Shell 
 
+- [sasawat/firefox-ctrl-q-workaround](https://github.com/sasawat/firefox-ctrl-q-workaround) - Disable Ctrl Q on Firefox Quantum on Linux! A workaround for Firefox Quantum breaking CtrlQ Disable Extensions on Linux.
 - [XNM1/linux-nixos-hyprland-config-dotfiles](https://github.com/XNM1/linux-nixos-hyprland-config-dotfiles) - Linux 🐧 configuration based on NixOS ❄️, Hyprland, and Catppuccin Macchiato theme 😸 for a consistent, complete, and customizable experience. 🚀
 - [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
 - [Bliss-Bass/bass-os](https://github.com/Bliss-Bass/bass-os) - 
