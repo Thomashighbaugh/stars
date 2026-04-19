@@ -3078,7 +3078,7 @@
 - [thelearn-tech/Alpine-Linux-GUI](https://github.com/thelearn-tech/Alpine-Linux-GUI) - How to install GUI on Alpine Linux
 - [digmorepaka/thinkpad-firmware-patches](https://github.com/digmorepaka/thinkpad-firmware-patches) - Collection of ThinkPad UEFI patches.
 - [xexpanderx/Fluxbox-themes](https://github.com/xexpanderx/Fluxbox-themes) - Fluxbox theme collections
-- [ProgrammingFonts/ProgrammingFonts](https://github.com/ProgrammingFonts/ProgrammingFonts) - Next-generation font management system.
+- [rootfont/rootfont](https://github.com/rootfont/rootfont) - Next-generation font management system.
 - [nanotee/nvim-lua-guide](https://github.com/nanotee/nvim-lua-guide) - A guide to using Lua in Neovim
 - [Zheaoli/awesome-coins](https://github.com/Zheaoli/awesome-coins) - ₿ A guide (for humans!) to cryto-currencies and their algos.
 - [therebelrobot/awesome-workshopper](https://github.com/therebelrobot/awesome-workshopper) - A list of CLI workshopper/adventure tutorials for various things. Inspired by awesome.
@@ -4500,6 +4500,7 @@
 
 ## TypeScript 
 
+- [yadav-prakhar/opencode-senate](https://github.com/yadav-prakhar/opencode-senate) - Auto agent orchestrator framework for Opencode
 - [0xkuze/add-dir-opencode](https://github.com/0xkuze/add-dir-opencode) - the add-dir command from claude code  but for opencode
 - [Mte90/opencode-auto-resume](https://github.com/Mte90/opencode-auto-resume) - OpenCode stops working if a model goes in timeout or there are errors, this plugin fixes those issues
 - [first-fluke/oh-my-agent](https://github.com/first-fluke/oh-my-agent) - Portable multi-agent harness for .agents-based skills, workflows, and standards-aware agent teams across Antigravity, Claude Code, Codex, Cursor, OpenCode, and more.
