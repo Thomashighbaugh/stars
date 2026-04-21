@@ -65,6 +65,7 @@
 - [PHP](#php)
 - [Perl](#perl)
 - [PowerShell](#powershell)
+- [Pug](#pug)
 - [Python](#python)
 - [QML](#qml)
 - [Rich Text Format](#rich-text-format)
@@ -1171,7 +1172,6 @@
 - [elangosundar/awesome-README-templates](https://github.com/elangosundar/awesome-README-templates) - A collection of awesome readme templates to display on your github profile.
 - [danieldev0724/ai-writer](https://github.com/danieldev0724/ai-writer) - AI Writer is a web application that utilizes GPT-3 technology to generate high-quality essays and articles on a variety of topics. It is designed to make the writing process faster and more efficient 
 - [dmc12-xyz/ai-writer](https://github.com/dmc12-xyz/ai-writer) - A short story generator built using open ai apis
-- [jvillegasd/Jvillegasd](https://github.com/jvillegasd/Jvillegasd) - Leave a star if you like it :D
 - [daisyui/daisyui-next](https://github.com/daisyui/daisyui-next) - Tailwind CSS, Next.js, daisyUI example repo
 - [marko-js/marko](https://github.com/marko-js/marko) - A declarative, HTML-based language that makes building web apps fun
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
@@ -2328,6 +2328,7 @@
 
 ## Nix 
 
+- [EmergentMind/nix-secrets-reference](https://github.com/EmergentMind/nix-secrets-reference) - A stripped-down reference version of EmergentMind's private Nix-Secrets repo.
 - [nixpak/nixpak](https://github.com/nixpak/nixpak) - Runtime sandboxing for Nix
 - [PassiveLemon/lemonake](https://github.com/PassiveLemon/lemonake) - Personal flake repository
 - [i-am-logger/mynixos](https://github.com/i-am-logger/mynixos) - A NixOS-based distribution. Defaults that work, mkDefault so you always win.
@@ -3230,6 +3231,10 @@
 - [dotnet/core](https://github.com/dotnet/core) - .NET news, announcements, release notes, and more!
 - [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) - A command-line installer for Windows.
 - [ChrisTitusTech/win10script](https://github.com/ChrisTitusTech/win10script) - This is the Ultimate Windows 10 Script from a creation from multiple debloat scripts and gists from github.
+
+## Pug 
+
+- [jvillegasd/Jvillegasd](https://github.com/jvillegasd/Jvillegasd) - Brief self description.
 
 ## Python 
 
