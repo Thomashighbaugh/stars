@@ -978,6 +978,8 @@
 
 ## JavaScript 
 
+- [lazuli-s/SillyTavern-WorldInfoDrawer](https://github.com/lazuli-s/SillyTavern-WorldInfoDrawer) - A fork of LenAnderson's WorldInfoDrawer extension for SillyTavern. This version keeps the lorebook editing experience while adding quality-of-life tweaks to make organizing World Info entries faster a
+- [chesswoodspixel/SillyTavern-LorebookStickySort](https://github.com/chesswoodspixel/SillyTavern-LorebookStickySort) - SillyTavern extension that remembers your preferred sort order for each lorebook.
 - [RedIceCider/SillyQR-Buttons](https://github.com/RedIceCider/SillyQR-Buttons) - Extension for SillyTavern. Execute QuickReplies with HTML buttons in chat body.
 - [inmve/free-ai-coding](https://github.com/inmve/free-ai-coding) - AI coding tools that give free Claude Opus/Sonnet, GPT-5, Gemini Pro, and other pro-grade models
 - [vava-nessa/free-coding-models](https://github.com/vava-nessa/free-coding-models) - Find, benchmark and install in CLI 200+ FREE coding LLM models across 20+ providers in real time
@@ -3239,6 +3241,7 @@
 
 ## Python 
 
+- [MarothyDavid/md-hierarchy](https://github.com/MarothyDavid/md-hierarchy) - 📂 Split and merge markdown files into structured folders, preserving all elements and handling edge cases for easy navigation and organization.
 - [FrancoStino/opencode-skills-collection](https://github.com/FrancoStino/opencode-skills-collection) - OpenCode plugin that automatically downloads and keeps Skills up to date
 - [softaworks/agent-toolkit](https://github.com/softaworks/agent-toolkit) - A curated collection of skills for AI coding agents. Skills are packaged instructions and scripts that extend agent capabilities across development, documentation, planning, and professional workflows
 - [ECNU-ICALK/AutoSkill](https://github.com/ECNU-ICALK/AutoSkill) - AutoSkill: Experience-Driven Lifelong Learning via Skill Self-Evolution
@@ -4509,6 +4512,7 @@
 
 ## TypeScript 
 
+- [coasty-ai/open-computer-use](https://github.com/coasty-ai/open-computer-use) - State of the Art 82% OSWorld Verified Computer Using Agent, fully open-source, safe, auditable, and production-ready.
 - [yadav-prakhar/opencode-senate](https://github.com/yadav-prakhar/opencode-senate) - Auto agent orchestrator framework for Opencode
 - [0xkuze/add-dir-opencode](https://github.com/0xkuze/add-dir-opencode) - the add-dir command from claude code  but for opencode
 - [Mte90/opencode-auto-resume](https://github.com/Mte90/opencode-auto-resume) - OpenCode stops working if a model goes in timeout or there are errors, this plugin fixes those issues
@@ -4613,6 +4617,7 @@
 - [KazKozDev/NovelGenerator](https://github.com/KazKozDev/NovelGenerator) - Fiction generator using LLM agents to create complete novels with coherent plots, developed characters, and diverse writing styles.
 - [alexander-densley/portfolio](https://github.com/alexander-densley/portfolio) - 
 - [cachix/cachix-action](https://github.com/cachix/cachix-action) - Build software only once and put it in a global cache
+- [aleksey-hoffman/sigma-file-manager](https://github.com/aleksey-hoffman/sigma-file-manager) - "Sigma File Manager" is a free, open-source, quickly evolving, modern file manager (explorer / browser) app for Windows and Linux.
 - [jakobhoeg/nextjs-ollama-llm-ui](https://github.com/jakobhoeg/nextjs-ollama-llm-ui) - Fully-featured web interface for Ollama LLMs
 - [OpenPipe/OpenPipe](https://github.com/OpenPipe/OpenPipe) - Turn expensive prompts into cheap fine-tuned models
 - [Taufik-H/neubeam](https://github.com/Taufik-H/neubeam) - Neubeam is an open-source project components library designed for Tailwind CSS with a Neubrutalism or retro-inspired style.
@@ -4956,7 +4961,6 @@
 
 - [Nativu5/STPresetEditor](https://github.com/Nativu5/STPresetEditor) - A lightweight, user-friendly web editor for SillyTavern Presets.
 - [shaunabanana/intrigue](https://github.com/shaunabanana/intrigue) - Organize literature into ideas, fast.
-- [aleksey-hoffman/sigma-file-manager](https://github.com/aleksey-hoffman/sigma-file-manager) - "Sigma File Manager" is a free, open-source, quickly evolving, modern file manager (explorer / browser) app for Windows and Linux.
 - [Razikus/novela](https://github.com/Razikus/novela) - AI text creation assistant. Made with OpenAI GPT Dalle and Codenotary immudb
 - [lareii/lareii.github.io](https://github.com/lareii/lareii.github.io) - 🌐 My personal website.
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
