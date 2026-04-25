@@ -582,7 +582,7 @@
 
 - [jepsen-io/maelstrom](https://github.com/jepsen-io/maelstrom) - A workbench for writing toy implementations of distributed systems.
 - [Flexiana/notion-to-md](https://github.com/Flexiana/notion-to-md) - A tool for fetching Notion page trees, written in Clojure.
-- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://discuss.logseq.com/t/logseq-product-roadmap
+- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://logseq.io/p/NX4mc_ggEV
 - [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
 - [mswift42/themecreator](https://github.com/mswift42/themecreator) - https://mswift42.github.io/themecreator/ create themes for intellij, textmate, textadept, atom, emacs, vim and gnome terminal.
 
@@ -978,6 +978,8 @@
 
 ## JavaScript 
 
+- [omgmog/lightdm-webkit-google](https://github.com/omgmog/lightdm-webkit-google) - A Google/ChromeOS style LightDM Webkit greeter theme
+- [omgmog/lightdm-webkit-theme-developer-helper](https://github.com/omgmog/lightdm-webkit-theme-developer-helper) - Some functions that make it possible to develop LightDM Webkit Greeter themes in the browser
 - [lazuli-s/SillyTavern-WorldInfoDrawer](https://github.com/lazuli-s/SillyTavern-WorldInfoDrawer) - A fork of LenAnderson's WorldInfoDrawer extension for SillyTavern. This version keeps the lorebook editing experience while adding quality-of-life tweaks to make organizing World Info entries faster a
 - [chesswoodspixel/SillyTavern-LorebookStickySort](https://github.com/chesswoodspixel/SillyTavern-LorebookStickySort) - SillyTavern extension that remembers your preferred sort order for each lorebook.
 - [RedIceCider/SillyQR-Buttons](https://github.com/RedIceCider/SillyQR-Buttons) - Extension for SillyTavern. Execute QuickReplies with HTML buttons in chat body.
@@ -2413,7 +2415,7 @@
 - [gmodena/nix-flatpak](https://github.com/gmodena/nix-flatpak) - Install flatpaks declaratively
 - [nonetrix/nixdots](https://github.com/nonetrix/nixdots) - My NixOS configuration
 - [EmergentMind/nix-config](https://github.com/EmergentMind/nix-config) - A continually evolving multi-user, multi-host NixOS configuration.
-- [khuedoan/nixos-setup](https://github.com/khuedoan/nixos-setup) - Automated NixOS configuration
+- [khuedoan/nixos-setup](https://github.com/khuedoan/nixos-setup) - Declarative machine setup with NixOS (and nix-darwin on macOS)
 - [SonarMonkey/meninx](https://github.com/SonarMonkey/meninx) - My personal flake-based NixOS configuration(s)
 - [sjcobb2022/nixos-config](https://github.com/sjcobb2022/nixos-config) - NixOS configuration files. WIP.
 - [BirdeeHub/birdeeSystems](https://github.com/BirdeeHub/birdeeSystems) - my personal nix config (install at your own risk, there are no instructions and the installer alias reformats drives)
@@ -3576,7 +3578,7 @@
 - [dooit-org/dooit](https://github.com/dooit-org/dooit) - An awesome TUI todo manager
 - [sahinakkaya/binary-clock-wallpaper](https://github.com/sahinakkaya/binary-clock-wallpaper) - A python script to generate wallpaper that shows time in binary.
 - [chrisvaughn/imap-cleanup](https://github.com/chrisvaughn/imap-cleanup) - Python script to clean out unwanted email via IMAP
-- [ivy-llc/ivy](https://github.com/ivy-llc/ivy) - Convert Machine Learning Code Between Frameworks
+- [unifyai/ivy](https://github.com/unifyai/ivy) - Convert Machine Learning Code Between Frameworks
 - [mkdirlove/WI-TOOLKIT](https://github.com/mkdirlove/WI-TOOLKIT) - Hack WiFi in Termux ( ROOTED DEVICES ONLY)
 - [justinwoo/mkgif](https://github.com/justinwoo/mkgif) - because ffmpeg commands are too annoying to remember, and bash scripts are annoying to manage.
 - [yakninja/mantra-generator](https://github.com/yakninja/mantra-generator) - Generates mantras in Sanskrit, allowing you to discover secret mantras
@@ -4094,7 +4096,7 @@
 - [debuggyo/dots](https://github.com/debuggyo/dots) - more dots!
 - [phenax/nixos-dotfiles](https://github.com/phenax/nixos-dotfiles) - 
 - [arminveres/dotfiles](https://github.com/arminveres/dotfiles) - Repository for personal Unix config files
-- [juanibiapina/dotfiles](https://github.com/juanibiapina/dotfiles) - Dotfiles optimized for performance and high productivity in the terminal
+- [juanibiapina/dotfiles](https://github.com/juanibiapina/dotfiles) - Keyboard-first dotfiles for terminal-centric development with tmux, Neovim, and coding agents.
 - [port19x/dotfiles](https://github.com/port19x/dotfiles) - 
 - [AmitGolden/dotfiles](https://github.com/AmitGolden/dotfiles) - AmitGold's catppuccin dotfiles!
 - [notKamui/dotfiles](https://github.com/notKamui/dotfiles) - What's hidden sometimes makes you who you are
