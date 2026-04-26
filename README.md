@@ -350,6 +350,7 @@
 
 ## CSS 
 
+- [Awethon/lightdm-web-corporate-glassmorphism](https://github.com/Awethon/lightdm-web-corporate-glassmorphism) - Corporate Glassmorphism Theme for LightDM-based Web Greeters
 - [surjithctly/documentation-html-template](https://github.com/surjithctly/documentation-html-template) - A Sample Documentation Template for Themes, Templates and Plugins
 - [noriaku/FirefoxMonolite](https://github.com/noriaku/FirefoxMonolite) - Minimal theme & startpage for geek people. Monochromatic & pastel colors. Keyboard centered.
 - [not-holar/my_firefox_theme](https://github.com/not-holar/my_firefox_theme) - A theme that aims to look nice and clean while not compromising functionality.
@@ -674,6 +675,7 @@
 
 ## Go 
 
+- [Nomadcxx/sysc-greet](https://github.com/Nomadcxx/sysc-greet) - A tui greeter (not built in rust)
 - [AnalogJ/justvanish](https://github.com/AnalogJ/justvanish) - Tell databrokers to F#@% Off. Your data is your data, they shouldn't be monetizing your personal information without your knowledge.
 - [markusressel/fan2go](https://github.com/markusressel/fan2go) - A simple daemon providing dynamic fan speed control based on temperature sensors.
 - [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) - Fully autonomous AI Agents system capable of performing complex penetration testing tasks
@@ -978,6 +980,7 @@
 
 ## JavaScript 
 
+- [jquery/jquery](https://github.com/jquery/jquery) - jQuery JavaScript Library
 - [omgmog/lightdm-webkit-google](https://github.com/omgmog/lightdm-webkit-google) - A Google/ChromeOS style LightDM Webkit greeter theme
 - [omgmog/lightdm-webkit-theme-developer-helper](https://github.com/omgmog/lightdm-webkit-theme-developer-helper) - Some functions that make it possible to develop LightDM Webkit Greeter themes in the browser
 - [lazuli-s/SillyTavern-WorldInfoDrawer](https://github.com/lazuli-s/SillyTavern-WorldInfoDrawer) - A fork of LenAnderson's WorldInfoDrawer extension for SillyTavern. This version keeps the lorebook editing experience while adding quality-of-life tweaks to make organizing World Info entries faster a
@@ -1680,6 +1683,7 @@
 
 ## Lua 
 
+- [saghen/blink.cmp](https://github.com/saghen/blink.cmp) - Performant, batteries-included completion plugin for Neovim
 - [ronylee11/awesome](https://github.com/ronylee11/awesome) - My AwesomeWM Build with designs based on personal preferences aka. my ULTIMATE build !!
 - [ReadyWidgets/awesome-lua-language-server](https://github.com/ReadyWidgets/awesome-lua-language-server) - Static type deffinitions for AwesomeWM, desgined to be used with the Lua language server
 - [vzze/cmdline.nvim](https://github.com/vzze/cmdline.nvim) - Wildmenu replacement for Neovim inspired by Helix
@@ -2177,7 +2181,7 @@
 - [doronbehar/awesome-autostart](https://github.com/doronbehar/awesome-autostart) - 
 - [ThePrimeagen/refactoring.nvim](https://github.com/ThePrimeagen/refactoring.nvim) - The Refactoring library based off the Refactoring book by Martin Fowler
 - [alswl/awesome](https://github.com/alswl/awesome) - my Awesome(window management) configuration for Arch/Ubuntu
-- [mustard-parfait/dotfiles](https://github.com/mustard-parfait/dotfiles) - Welcome to my messy ~/home
+- [aryvector/dotfiles](https://github.com/aryvector/dotfiles) - Welcome to my messy ~/home
 - [Alexian123/dotfiles](https://github.com/Alexian123/dotfiles) - GNU/Linux dotfiles
 - [shagu/dotfiles](https://github.com/shagu/dotfiles) - 
 - [jcrd/dovetail](https://github.com/jcrd/dovetail) - An opinionated tiling window manager
@@ -2415,7 +2419,7 @@
 - [gmodena/nix-flatpak](https://github.com/gmodena/nix-flatpak) - Install flatpaks declaratively
 - [nonetrix/nixdots](https://github.com/nonetrix/nixdots) - My NixOS configuration
 - [EmergentMind/nix-config](https://github.com/EmergentMind/nix-config) - A continually evolving multi-user, multi-host NixOS configuration.
-- [khuedoan/nixos-setup](https://github.com/khuedoan/nixos-setup) - Declarative machine setup with NixOS (and nix-darwin on macOS)
+- [khuedoan/nix-setup](https://github.com/khuedoan/nix-setup) - Declarative machine setup with NixOS and nix-darwin on macOS
 - [SonarMonkey/meninx](https://github.com/SonarMonkey/meninx) - My personal flake-based NixOS configuration(s)
 - [sjcobb2022/nixos-config](https://github.com/sjcobb2022/nixos-config) - NixOS configuration files. WIP.
 - [BirdeeHub/birdeeSystems](https://github.com/BirdeeHub/birdeeSystems) - my personal nix config (install at your own risk, there are no instructions and the installer alias reformats drives)
@@ -2905,6 +2909,7 @@
 - [Templarian/MaterialDesign](https://github.com/Templarian/MaterialDesign) - ✒7000+ Material Design Icons from the Community
 - [halfmage/majesticons](https://github.com/halfmage/majesticons) - 👑 Free Version – A versatile, beautiful, and scalable iconset. 760 icons each in line and solid style.
 - [leptos-rs/awesome-leptos](https://github.com/leptos-rs/awesome-leptos) - A collection of awesome libraries in the Leptos ecosystem.
+- [chatanywhere/GPT_API_free](https://github.com/chatanywhere/GPT_API_free) - Free ChatGPT&DeepSeek API Key，免费ChatGPT&DeepSeek API。免费接入DeepSeek API和GPT4 API，支持 gpt | deepseek | claude | gemini | grok 等排名靠前的常用大模型。
 - [birdneststream/breakingbard](https://github.com/birdneststream/breakingbard) - Google Bard 'jailbreaks' and prompt poisoning, similar to how ChatGPT has DAN Mode but for Google Bard.
 - [ColorblindAdam/ChatGPTPrompts](https://github.com/ColorblindAdam/ChatGPTPrompts) - Prompts I have created or modified to use with ChatGPT
 - [ctjhoa/rust-learning](https://github.com/ctjhoa/rust-learning) - A bunch of links to blog posts, articles, videos, etc for learning Rust
@@ -3486,7 +3491,6 @@
 - [aledipa/Free-GPT4-WEB-API](https://github.com/aledipa/Free-GPT4-WEB-API) - Not just GPT4! Easy to use, Self-Hosted, Unlimited and Free WEB API of the latest A.I. like Gemini, DeepSeek, Claude and GPT
 - [bigsky77/twitter-agent](https://github.com/bigsky77/twitter-agent) - Build AI-powered Agents for Twitter🐣
 - [nitebyte/GPTDraft](https://github.com/nitebyte/GPTDraft) - 
-- [chatanywhere/GPT_API_free](https://github.com/chatanywhere/GPT_API_free) - Free ChatGPT&DeepSeek API Key，免费ChatGPT&DeepSeek API。免费接入DeepSeek API和GPT4 API，支持 gpt | deepseek | claude | gemini | grok 等排名靠前的常用大模型。
 - [tuan3w/obsidian-template](https://github.com/tuan3w/obsidian-template) - Starter templates for Obsidian
 - [AI-Guru/writebookswithai](https://github.com/AI-Guru/writebookswithai) - Writing books with AI.
 - [protectai/ai-exploits](https://github.com/protectai/ai-exploits) - A collection of real world AI/ML exploits for responsibly disclosed vulnerabilities
@@ -4514,6 +4518,8 @@
 
 ## TypeScript 
 
+- [tctinh/agent-hive](https://github.com/tctinh/agent-hive) - 
+- [timrichardson/opencode-btw](https://github.com/timrichardson/opencode-btw) - OpenCode TUI plugin for /btw side sessions and popup by-the-way workflows
 - [coasty-ai/open-computer-use](https://github.com/coasty-ai/open-computer-use) - State of the Art 82% OSWorld Verified Computer Using Agent, fully open-source, safe, auditable, and production-ready.
 - [yadav-prakhar/opencode-senate](https://github.com/yadav-prakhar/opencode-senate) - Auto agent orchestrator framework for Opencode
 - [0xkuze/add-dir-opencode](https://github.com/0xkuze/add-dir-opencode) - the add-dir command from claude code  but for opencode
