@@ -234,7 +234,7 @@
 - [dylanaraps/sowm](https://github.com/dylanaraps/sowm) - An itsy bitsy floating window manager (220~ sloc!).
 - [util-linux/util-linux](https://github.com/util-linux/util-linux) - 
 - [systemd/systemd](https://github.com/systemd/systemd) - The systemd System and Service Manager
-- [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTMP, RTMPS, 
+- [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SF
 - [buffet/kiwmi](https://github.com/buffet/kiwmi) - A fully programmable Wayland Compositor
 - [bakkeby/dwm-flexipatch](https://github.com/bakkeby/dwm-flexipatch) - A dwm build with preprocessor directives to decide which patches to include during build time
 - [ashish-yadav11/dsblocks](https://github.com/ashish-yadav11/dsblocks) - Modular status monitor for dwm written and meant to be configured in C.
@@ -980,6 +980,7 @@
 
 ## JavaScript 
 
+- [a5c-ai/babysitter](https://github.com/a5c-ai/babysitter) - Babysitter enforces obedience on agentic workforces and enables them to manage extremely complex tasks and workflows through deterministic, hallucination-free self-orchestration
 - [jquery/jquery](https://github.com/jquery/jquery) - jQuery JavaScript Library
 - [omgmog/lightdm-webkit-google](https://github.com/omgmog/lightdm-webkit-google) - A Google/ChromeOS style LightDM Webkit greeter theme
 - [omgmog/lightdm-webkit-theme-developer-helper](https://github.com/omgmog/lightdm-webkit-theme-developer-helper) - Some functions that make it possible to develop LightDM Webkit Greeter themes in the browser
@@ -2337,6 +2338,9 @@
 
 ## Nix 
 
+- [ALH477/n8n-nixos](https://github.com/ALH477/n8n-nixos) - A comprehensive, production-ready NixOS flake module for running n8n, the workflow automation tool. Includes enterprise-grade features, comprehensive security hardening, and a powerful CLI management 
+- [stepharmony/nixos-dotfiles](https://github.com/stepharmony/nixos-dotfiles) - My NixOS configuration that's designed to fit my needs, from music production to studying.
+- [icewind1991/nvidia-patch-nixos](https://github.com/icewind1991/nvidia-patch-nixos) - nvidia-patch for NixOS
 - [EmergentMind/nix-secrets-reference](https://github.com/EmergentMind/nix-secrets-reference) - A stripped-down reference version of EmergentMind's private Nix-Secrets repo.
 - [nixpak/nixpak](https://github.com/nixpak/nixpak) - Runtime sandboxing for Nix
 - [PassiveLemon/lemonake](https://github.com/PassiveLemon/lemonake) - Personal flake repository
@@ -2753,7 +2757,7 @@
 - [unkarelian/timeline-extension-prompts](https://github.com/unkarelian/timeline-extension-prompts) - Prompts for the timeline extension
 - [cha1latte/universal-lorebook-creator](https://github.com/cha1latte/universal-lorebook-creator) - Auto-generate SillyTavern lorebooks from lore text using AI
 - [IceFog72/ST-Basic-Discord-Layout-Theme](https://github.com/IceFog72/ST-Basic-Discord-Layout-Theme) - Basic Discord layout theme for SillyTavern
-- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from ChatGPT (GPT-5.4, GPT-5.3, Codex), Claude (Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, CLI), Grok (4.2, 4), Perplexity, and more. Updated regularly.
+- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from ChatGPT (GPT-5.5 Thinking), Claude (Opus 4.7, Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, Gemini CLI), Grok (4.3 beta), Perplexity, and more. Updated re
 - [Min3Mast3r4653/SillyTavern-Extensions-and-Themes](https://github.com/Min3Mast3r4653/SillyTavern-Extensions-and-Themes) - A list of extensions and themes for SillyTavern.
 - [SepsisShock/GLM_4.6](https://github.com/SepsisShock/GLM_4.6) - 
 - [LimeBlogs/Sudachi-Next](https://github.com/LimeBlogs/Sudachi-Next) - A SillyTavern Preset｜一个给酒馆使用的预设
