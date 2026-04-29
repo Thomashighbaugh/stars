@@ -675,6 +675,7 @@
 
 ## Go 
 
+- [sartoopjj/vpn-over-github](https://github.com/sartoopjj/vpn-over-github) - Tunnels TCP connections through GitHub. Supports gist and git transports ( Too slow. Not usable.)
 - [Nomadcxx/sysc-greet](https://github.com/Nomadcxx/sysc-greet) - A tui greeter (not built in rust)
 - [AnalogJ/justvanish](https://github.com/AnalogJ/justvanish) - Tell databrokers to F#@% Off. Your data is your data, they shouldn't be monetizing your personal information without your knowledge.
 - [markusressel/fan2go](https://github.com/markusressel/fan2go) - A simple daemon providing dynamic fan speed control based on temperature sensors.
@@ -796,7 +797,6 @@
 ## HTML 
 
 - [angelo-v/opencode-playground](https://github.com/angelo-v/opencode-playground) - This repository is just me messing around with OpenCode and exploring what it can do.
-- [mia13165/SillyTavern-BotBrowser](https://github.com/mia13165/SillyTavern-BotBrowser) - Browse character bots and lorebooks from various sources directly in SillyTavern.
 - [5nacks/OSINTBookmarks](https://github.com/5nacks/OSINTBookmarks) - OSINT Bookmarks for Firefox / Chrome / Edge / Safari
 - [WalterBarrett/sillytavern-actions](https://github.com/WalterBarrett/sillytavern-actions) - 
 - [trycua/cua](https://github.com/trycua/cua) - Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).
@@ -2338,6 +2338,7 @@
 
 ## Nix 
 
+- [Yeshey/nixOS-Config](https://github.com/Yeshey/nixOS-Config) - Configuration to setup my nix enabled systems
 - [ALH477/n8n-nixos](https://github.com/ALH477/n8n-nixos) - A comprehensive, production-ready NixOS flake module for running n8n, the workflow automation tool. Includes enterprise-grade features, comprehensive security hardening, and a powerful CLI management 
 - [stepharmony/nixos-dotfiles](https://github.com/stepharmony/nixos-dotfiles) - My NixOS configuration that's designed to fit my needs, from music production to studying.
 - [icewind1991/nvidia-patch-nixos](https://github.com/icewind1991/nvidia-patch-nixos) - nvidia-patch for NixOS
@@ -3252,6 +3253,8 @@
 
 ## Python 
 
+- [diegosouzapw/awesome-omni-skills](https://github.com/diegosouzapw/awesome-omni-skills) - Public repository of AI coding skills, curated improved best-practice skills, and runtime surfaces for CLI, API, MCP, and A2A.
+- [stackmemoryai/stackmemory](https://github.com/stackmemoryai/stackmemory) - Stack memory for context between claude code sessions
 - [MarothyDavid/md-hierarchy](https://github.com/MarothyDavid/md-hierarchy) - 📂 Split and merge markdown files into structured folders, preserving all elements and handling edge cases for easy navigation and organization.
 - [FrancoStino/opencode-skills-collection](https://github.com/FrancoStino/opencode-skills-collection) - OpenCode plugin that automatically downloads and keeps Skills up to date
 - [softaworks/agent-toolkit](https://github.com/softaworks/agent-toolkit) - A curated collection of skills for AI coding agents. Skills are packaged instructions and scripts that extend agent capabilities across development, documentation, planning, and professional workflows
@@ -4001,7 +4004,6 @@
 
 ## Shell 
 
-- [Thomashighbaugh/opencode](https://github.com/Thomashighbaugh/opencode) - opencode w/ multiple orchestration frameworks via nested subcommands
 - [sasawat/firefox-ctrl-q-workaround](https://github.com/sasawat/firefox-ctrl-q-workaround) - Disable Ctrl Q on Firefox Quantum on Linux! A workaround for Firefox Quantum breaking CtrlQ Disable Extensions on Linux.
 - [XNM1/linux-nixos-hyprland-config-dotfiles](https://github.com/XNM1/linux-nixos-hyprland-config-dotfiles) - Linux 🐧 configuration based on NixOS ❄️, Hyprland, and Catppuccin Macchiato theme 😸 for a consistent, complete, and customizable experience. 🚀
 - [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
@@ -4522,9 +4524,11 @@
 
 ## TypeScript 
 
+- [rohitg00/skillkit](https://github.com/rohitg00/skillkit) - Supercharge AI coding agents with portable skills. Install, translate & share skills across Claude Code, Cursor, Codex, Copilot & 40 more
 - [tctinh/agent-hive](https://github.com/tctinh/agent-hive) - 
 - [timrichardson/opencode-btw](https://github.com/timrichardson/opencode-btw) - OpenCode TUI plugin for /btw side sessions and popup by-the-way workflows
-- [coasty-ai/open-computer-use](https://github.com/coasty-ai/open-computer-use) - State of the Art 82% OSWorld Verified Computer Using Agent, fully open-source, safe, auditable, and production-ready.
+- [coasty-ai/open-computer-use](https://github.com/coasty-ai/open-computer-use) - State of the Art 82% OSWorld Computer Using Agent, production-ready. Remote and Local!
+- [Thomashighbaugh/opencode](https://github.com/Thomashighbaugh/opencode) - opencode w/ multiple orchestration frameworks via nested subcommands
 - [yadav-prakhar/opencode-senate](https://github.com/yadav-prakhar/opencode-senate) - Auto agent orchestrator framework for Opencode
 - [0xkuze/add-dir-opencode](https://github.com/0xkuze/add-dir-opencode) - the add-dir command from claude code  but for opencode
 - [Mte90/opencode-auto-resume](https://github.com/Mte90/opencode-auto-resume) - OpenCode stops working if a model goes in timeout or there are errors, this plugin fixes those issues
