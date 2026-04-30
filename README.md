@@ -2734,6 +2734,7 @@
 
 ## Others 
 
+- [maxtron95/pixie-icon-theme](https://github.com/maxtron95/pixie-icon-theme) - Tile-based icon theme for Linux
 - [bruhismyname/opencode-ultimate-starter](https://github.com/bruhismyname/opencode-ultimate-starter) - The Ultimate OpenCode Starter Kit. Includes Oh My OpenCode config, Superpowers installation fix, MCP Setup, and Windows Crash Fix (exit_code: -1073740791). Panduan lengkap Bahasa Indonesia & English.
 - [vkarampinis/awesome-icons](https://github.com/vkarampinis/awesome-icons) - A curated list of awesome Web Font Icons
 - [xiyaowong/Operator-Fonts](https://github.com/xiyaowong/Operator-Fonts) - 
@@ -3253,6 +3254,7 @@
 
 ## Python 
 
+- [unicode-org/last-resort-font](https://github.com/unicode-org/last-resort-font) - Last Resort Font
 - [diegosouzapw/awesome-omni-skills](https://github.com/diegosouzapw/awesome-omni-skills) - Public repository of AI coding skills, curated improved best-practice skills, and runtime surfaces for CLI, API, MCP, and A2A.
 - [stackmemoryai/stackmemory](https://github.com/stackmemoryai/stackmemory) - Stack memory for context between claude code sessions
 - [MarothyDavid/md-hierarchy](https://github.com/MarothyDavid/md-hierarchy) - 📂 Split and merge markdown files into structured folders, preserving all elements and handling edge cases for easy navigation and organization.
@@ -3436,6 +3438,7 @@
 - [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) - Focus on prompting and generating
 - [chtmp223/topicGPT](https://github.com/chtmp223/topicGPT) - TopicGPT: A Prompt-Based Framework for Topic Modeling (NAACL'24)
 - [GinoCipo/AI_book_generator](https://github.com/GinoCipo/AI_book_generator) - 
+- [jgamblin/MacOS-Maid](https://github.com/jgamblin/MacOS-Maid) - macOS cleanup and security auditing tool for developers
 - [Agapitus1/Python-Decoding-a-Message-from-a-Text-File](https://github.com/Agapitus1/Python-Decoding-a-Message-from-a-Text-File) - In this exercise, you will develop a function named decode(message_file). This function should read an encoded message from a .txt file and return its decoded version as a string.
 - [ryanadoty/Amazon-Bedrock-Document-Generator-POC](https://github.com/ryanadoty/Amazon-Bedrock-Document-Generator-POC) - This is sample code demonstrating the use of Amazon Bedrock and Generative AI to implement a document generation use case. The application is constructed with a simple streamlit frontend where users c
 - [cubinator/ext4](https://github.com/cubinator/ext4) - Reading Ext4 volumes
@@ -3983,6 +3986,7 @@
 
 ## SVG 
 
+- [jcubic/Clarity](https://github.com/jcubic/Clarity) - Customizable Monoshape Vector Icon Theme for GTK+
 - [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons) - Showcase your skills on your Github readme or resumé with ease ✨
 
 ## SaltStack 
@@ -4004,6 +4008,7 @@
 
 ## Shell 
 
+- [TaylanTatli/Sevi](https://github.com/TaylanTatli/Sevi) - 🎨 A colorful design icon theme based on Reversal.
 - [sasawat/firefox-ctrl-q-workaround](https://github.com/sasawat/firefox-ctrl-q-workaround) - Disable Ctrl Q on Firefox Quantum on Linux! A workaround for Firefox Quantum breaking CtrlQ Disable Extensions on Linux.
 - [XNM1/linux-nixos-hyprland-config-dotfiles](https://github.com/XNM1/linux-nixos-hyprland-config-dotfiles) - Linux 🐧 configuration based on NixOS ❄️, Hyprland, and Catppuccin Macchiato theme 😸 for a consistent, complete, and customizable experience. 🚀
 - [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
@@ -4066,7 +4071,6 @@
 - [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
 - [exploitoverload/PwNixOS](https://github.com/exploitoverload/PwNixOS) - PwNixOS - A Productivity Focused and Hacking-Oriented NixOS Flake
 - [busterc/osx-iso](https://github.com/busterc/osx-iso) -  Create a bootable ISO of OS X / macOS, from the installation app file
-- [jgamblin/MacOS-Maid](https://github.com/jgamblin/MacOS-Maid) - macOS cleanup and security auditing tool for developers
 - [prasanthrangan/hyprdots](https://github.com/prasanthrangan/hyprdots) - // Aesthetic, dynamic and minimal dots for Arch hyprland
 - [gregoryg/AIPIHKAL](https://github.com/gregoryg/AIPIHKAL) - AI (LLM) Prompts I Have Known And Loved
 - [nomadics9/NixOS-Flake](https://github.com/nomadics9/NixOS-Flake) - My NixOS Flake + dotfiles
@@ -4270,7 +4274,6 @@
 - [Lolzen/void-live-customizer](https://github.com/Lolzen/void-live-customizer) - script to build a customized livecd of void linux using void-mklive
 - [ahmetozer/whitedoor](https://github.com/ahmetozer/whitedoor) - Experimental embed linux build with containers
 - [Sharrisii/TAZ](https://github.com/Sharrisii/TAZ) - A slimmed down gentoo linux livecd/liveusb iso that allows to load different boot options and runs from RAM upon boot. A VCTLabs project.
-- [IncredibleHacker/insta-hack](https://github.com/IncredibleHacker/insta-hack) - All in one Instagram hacking tool available (Insta information gathering, Insta brute force, Insta account auto repoter)
 - [dcloud-ca/voidLuksSetup](https://github.com/dcloud-ca/voidLuksSetup) - Bash script for installing Void Linux with disk encryption
 - [xdeb-org/xdeb](https://github.com/xdeb-org/xdeb) - XDEB - Convert deb (Debian) packages to xbps (Void Linux)
 - [project-trident/trident-installer](https://github.com/project-trident/trident-installer) - Graphical system install utility
