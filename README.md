@@ -350,6 +350,7 @@
 
 ## CSS 
 
+- [sirlan-ff00ff/arcticfox-theme](https://github.com/sirlan-ff00ff/arcticfox-theme) - a theme for Firefox (and sidebery) to make it look and somewhat behave like Arc
 - [Awethon/lightdm-web-corporate-glassmorphism](https://github.com/Awethon/lightdm-web-corporate-glassmorphism) - Corporate Glassmorphism Theme for LightDM-based Web Greeters
 - [surjithctly/documentation-html-template](https://github.com/surjithctly/documentation-html-template) - A Sample Documentation Template for Themes, Templates and Plugins
 - [noriaku/FirefoxMonolite](https://github.com/noriaku/FirefoxMonolite) - Minimal theme & startpage for geek people. Monochromatic & pastel colors. Keyboard centered.
@@ -2338,6 +2339,8 @@
 
 ## Nix 
 
+- [jeslie0/nixos-grub-themes](https://github.com/jeslie0/nixos-grub-themes) - A Nix flake providing some Grub bootloader themes
+- [codingismy11to7/secrets](https://github.com/codingismy11to7/secrets) - my personal secrets, plus a reusable flake for nixos secrets
 - [Yeshey/nixOS-Config](https://github.com/Yeshey/nixOS-Config) - Configuration to setup my nix enabled systems
 - [ALH477/n8n-nixos](https://github.com/ALH477/n8n-nixos) - A comprehensive, production-ready NixOS flake module for running n8n, the workflow automation tool. Includes enterprise-grade features, comprehensive security hardening, and a powerful CLI management 
 - [stepharmony/nixos-dotfiles](https://github.com/stepharmony/nixos-dotfiles) - My NixOS configuration that's designed to fit my needs, from music production to studying.
@@ -2734,6 +2737,7 @@
 
 ## Others 
 
+- [Purp1eDuck2008/Liquid-GRUB](https://github.com/Purp1eDuck2008/Liquid-GRUB) - Liquid Glass GRUB
 - [maxtron95/pixie-icon-theme](https://github.com/maxtron95/pixie-icon-theme) - Tile-based icon theme for Linux
 - [bruhismyname/opencode-ultimate-starter](https://github.com/bruhismyname/opencode-ultimate-starter) - The Ultimate OpenCode Starter Kit. Includes Oh My OpenCode config, Superpowers installation fix, MCP Setup, and Windows Crash Fix (exit_code: -1073740791). Panduan lengkap Bahasa Indonesia & English.
 - [vkarampinis/awesome-icons](https://github.com/vkarampinis/awesome-icons) - A curated list of awesome Web Font Icons
@@ -2761,7 +2765,6 @@
 - [IceFog72/ST-Basic-Discord-Layout-Theme](https://github.com/IceFog72/ST-Basic-Discord-Layout-Theme) - Basic Discord layout theme for SillyTavern
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from ChatGPT (GPT-5.5 Thinking), Claude (Opus 4.7, Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, Gemini CLI), Grok (4.3 beta), Perplexity, and more. Updated re
 - [Min3Mast3r4653/SillyTavern-Extensions-and-Themes](https://github.com/Min3Mast3r4653/SillyTavern-Extensions-and-Themes) - A list of extensions and themes for SillyTavern.
-- [SepsisShock/GLM_4.6](https://github.com/SepsisShock/GLM_4.6) - 
 - [LimeBlogs/Sudachi-Next](https://github.com/LimeBlogs/Sudachi-Next) - A SillyTavern Preset｜一个给酒馆使用的预设
 - [streaak/keyhacks](https://github.com/streaak/keyhacks) - Keyhacks is a repository which shows quick ways in which API keys leaked by a bug bounty program can be checked to see if they're valid.
 - [yunwei37/prompt-hacker-collections](https://github.com/yunwei37/prompt-hacker-collections) - prompt attack-defense, prompt Injection, reverse engineering notes and examples | 提示词对抗、破解例子与笔记
@@ -3487,7 +3490,6 @@
 - [Nick-Gottschlich/Social-Amnesia](https://github.com/Nick-Gottschlich/Social-Amnesia) - Forget the past. Social Amnesia makes sure your social media accounts only show your posts from recent history, not from "that phase" 5 years ago.
 - [D4rk5t0rM/GTP-TextGen](https://github.com/D4rk5t0rM/GTP-TextGen) - Generate text (trying to make an AI write a book)
 - [christiandarkin/Creative-Writers-Toolkit](https://github.com/christiandarkin/Creative-Writers-Toolkit) - Use gpt3 to brainstorm ideas for long form fiction (novels, screenplays, etc.)
-- [earthonion/ChatGPT-Book-Generator](https://github.com/earthonion/ChatGPT-Book-Generator) - Input any book title and it will generate a full book in PDF format.
 - [mikavehns/BookGPT](https://github.com/mikavehns/BookGPT) - Writes complete books with given paramters, using GPT-3.
 - [fdtory/FictionGPT](https://github.com/fdtory/FictionGPT) - Write fiction stories with given parameters, using GPT-3,5
 - [malob/nix-config](https://github.com/malob/nix-config) - My Nix system configs!
@@ -4008,6 +4010,7 @@
 
 ## Shell 
 
+- [simontrost/RetroPunk](https://github.com/simontrost/RetroPunk) - RetroPunk Grub Theme
 - [TaylanTatli/Sevi](https://github.com/TaylanTatli/Sevi) - 🎨 A colorful design icon theme based on Reversal.
 - [sasawat/firefox-ctrl-q-workaround](https://github.com/sasawat/firefox-ctrl-q-workaround) - Disable Ctrl Q on Firefox Quantum on Linux! A workaround for Firefox Quantum breaking CtrlQ Disable Extensions on Linux.
 - [XNM1/linux-nixos-hyprland-config-dotfiles](https://github.com/XNM1/linux-nixos-hyprland-config-dotfiles) - Linux 🐧 configuration based on NixOS ❄️, Hyprland, and Catppuccin Macchiato theme 😸 for a consistent, complete, and customizable experience. 🚀
@@ -4647,7 +4650,7 @@
 - [dhavalCode/textshine.ai](https://github.com/dhavalCode/textshine.ai) - AI Powered Writing Tool
 - [mertthesamael/merto-dev](https://github.com/mertthesamael/merto-dev) - 
 - [crosstyan/generate-forever](https://github.com/crosstyan/generate-forever) - a userscript to generate forever for a novel site
-- [akhila-ariyachandra/akhilaariyachandra.com](https://github.com/akhila-ariyachandra/akhilaariyachandra.com) - ✨ My portfolio built with Next.js, Tailwind, Content Collections, PostgreSQL, Drizzle ORM, and Vercel.
+- [akhila-ariyachandra/akhilaariyachandra.com](https://github.com/akhila-ariyachandra/akhilaariyachandra.com) - ✨ My portfolio built with Next.js, Tailwind, Content Collections, and Vercel.
 - [alsiam/folio](https://github.com/alsiam/folio) - urFolio - Best Open Source Portfolio or Personal Website using NextJS. Feel free to check out the readme file, copy, fork, and use.
 - [2017mike/daisyportfolio](https://github.com/2017mike/daisyportfolio) - My current portfolio. Written with Next, TypeScript, Tailwind, DaisyUI, and deployed with Vercel.
 - [mtharrison/promptscaper](https://github.com/mtharrison/promptscaper) - A client-only OpenAI LLM Playground for prototyping agents without writing any code.
