@@ -981,6 +981,7 @@
 
 ## JavaScript 
 
+- [DavidRossWallace/tabMinder](https://github.com/DavidRossWallace/tabMinder) - Generates and manages dynamic HTML tab sets
 - [lenlenaris/SillyTavern-ChatEyeSwitch](https://github.com/lenlenaris/SillyTavern-ChatEyeSwitch) - 
 - [a5c-ai/babysitter](https://github.com/a5c-ai/babysitter) - Babysitter enforces obedience on agentic workforces and enables them to manage extremely complex tasks and workflows through deterministic, hallucination-free self-orchestration
 - [jquery/jquery](https://github.com/jquery/jquery) - jQuery JavaScript Library
@@ -1686,6 +1687,7 @@
 
 ## Lua 
 
+- [ziontee113/color-picker.nvim](https://github.com/ziontee113/color-picker.nvim) - A powerful Neovim plugin that lets users choose & modify RGB/HSL/HEX colors.
 - [saghen/blink.cmp](https://github.com/saghen/blink.cmp) - Performant, batteries-included completion plugin for Neovim
 - [ronylee11/awesome](https://github.com/ronylee11/awesome) - My AwesomeWM Build with designs based on personal preferences aka. my ULTIMATE build !!
 - [ReadyWidgets/awesome-lua-language-server](https://github.com/ReadyWidgets/awesome-lua-language-server) - Static type deffinitions for AwesomeWM, desgined to be used with the Lua language server
@@ -1858,7 +1860,6 @@
 - [JayJaySea/dotfiles](https://github.com/JayJaySea/dotfiles) - 
 - [kosorin/awesome-rice](https://github.com/kosorin/awesome-rice) - Opinionated config for Awesome window manager.
 - [RaphaeleL/nvim](https://github.com/RaphaeleL/nvim) - My Neovim Configuration
-- [hadronized/config](https://github.com/hadronized/config) - My main configuration files
 - [cjnucette/nvim.lazy](https://github.com/cjnucette/nvim.lazy) - nvim using lazy.nvim plugin manager
 - [joelazar/nvim-config](https://github.com/joelazar/nvim-config) - My neovim config
 - [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config) - Perfect for developers seeking a single, unified environment for web development, backend systems, mobile apps, and competitive programming.
@@ -1905,7 +1906,6 @@
 - [AlphaTechnolog/nixdots](https://github.com/AlphaTechnolog/nixdots) - My NixOS Configuration! Flakes + Home Manager + Nix = Power
 - [polarmutex/awesome-flake](https://github.com/polarmutex/awesome-flake) - my awesome wm config as a nixos flake
 - [oem/arachne.nvim](https://github.com/oem/arachne.nvim) - A minimal note-taking system for neovim
-- [hadronized/mind.nvim](https://github.com/hadronized/mind.nvim) - The power of trees at your fingertips.
 - [ElPiloto/prompts.nvim](https://github.com/ElPiloto/prompts.nvim) - prompts for your vimwiki
 - [edr3x/.dotfiles](https://github.com/edr3x/.dotfiles) - dotfiles for AwesomeWM, Neovim, Tmux, Starship, Rofi and many other tools i use
 - [wxxxcxx/awesome](https://github.com/wxxxcxx/awesome) - Awesome WM Configuration
@@ -3259,6 +3259,7 @@
 
 ## Python 
 
+- [athypes/lenovo-legion-t5-26irb8-bios-unlock](https://github.com/athypes/lenovo-legion-t5-26irb8-bios-unlock) - Unlock advanced OC and hidden BIOS menus on the Lenovo Legion T5 26IRB8 (Type 90UT). Enables memory, CPU, and GPU overclocking for applicable hardware.
 - [unicode-org/last-resort-font](https://github.com/unicode-org/last-resort-font) - Last Resort Font
 - [diegosouzapw/awesome-omni-skills](https://github.com/diegosouzapw/awesome-omni-skills) - Public repository of AI coding skills, curated improved best-practice skills, and runtime surfaces for CLI, API, MCP, and A2A.
 - [stackmemoryai/stackmemory](https://github.com/stackmemoryai/stackmemory) - Stack memory for context between claude code sessions
@@ -3495,7 +3496,7 @@
 - [mikavehns/BookGPT](https://github.com/mikavehns/BookGPT) - Writes complete books with given paramters, using GPT-3.
 - [fdtory/FictionGPT](https://github.com/fdtory/FictionGPT) - Write fiction stories with given parameters, using GPT-3,5
 - [malob/nix-config](https://github.com/malob/nix-config) - My Nix system configs!
-- [oobabooga/textgen](https://github.com/oobabooga/textgen) - The original local LLM interface. Text, vision, tool-calling, training. UI + API, 100% offline and private.
+- [oobabooga/textgen](https://github.com/oobabooga/textgen) - Open-source desktop app for local LLMs. Text, vision, tool-calling, OpenAI/Anthropic-compatible API.
 - [zestor/Muses](https://github.com/zestor/Muses) - Artificial Intelligence (AI) Long Form Fiction Writer using OpenAI or NLP Cloud
 - [mozilla/fxemoji](https://github.com/mozilla/fxemoji) - FxEmojis - a friendly emoji set from Mozilla
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - An autonomous agent that conducts deep research on any data using any LLM providers
@@ -3841,7 +3842,7 @@
 - [PolyMeilex/Anodium](https://github.com/PolyMeilex/Anodium) - WIP Wayland Compositor
 - [erikgrinaker/toydb](https://github.com/erikgrinaker/toydb) - Distributed SQL database in Rust, written as an educational project
 - [sigoden/dynimgen](https://github.com/sigoden/dynimgen) - A dynamic image generator.
-- [catacombing/catacomb](https://github.com/catacombing/catacomb) - A Wayland Mobile Compositor
+- [catacombing/catacomb](https://github.com/catacombing/catacomb) - Moved to SourceHut
 - [srid/dioxus-desktop-template](https://github.com/srid/dioxus-desktop-template) - A starter template for Dioxus Desktop apps w/ Tailwind & Nix
 - [bosun-ai/swiftide](https://github.com/bosun-ai/swiftide) - Fast, streaming indexing, query, and agentic LLM applications in Rust
 - [graniet/rllm](https://github.com/graniet/rllm) - Use multiple LLM backends in a single crate, simple builder-based configuration, and built-in prompt chaining & templating.
