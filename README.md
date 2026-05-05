@@ -798,6 +798,7 @@
 
 ## HTML 
 
+- [vava-nessa/free-coding-models](https://github.com/vava-nessa/free-coding-models) - Find, benchmark and install in CLI 170+ FREE coding LLM models across 15+ providers in real time
 - [angelo-v/opencode-playground](https://github.com/angelo-v/opencode-playground) - This repository is just me messing around with OpenCode and exploring what it can do.
 - [5nacks/OSINTBookmarks](https://github.com/5nacks/OSINTBookmarks) - OSINT Bookmarks for Firefox / Chrome / Edge / Safari
 - [WalterBarrett/sillytavern-actions](https://github.com/WalterBarrett/sillytavern-actions) - 
@@ -993,7 +994,6 @@
 - [chesswoodspixel/SillyTavern-LorebookStickySort](https://github.com/chesswoodspixel/SillyTavern-LorebookStickySort) - SillyTavern extension that remembers your preferred sort order for each lorebook.
 - [RedIceCider/SillyQR-Buttons](https://github.com/RedIceCider/SillyQR-Buttons) - Extension for SillyTavern. Execute QuickReplies with HTML buttons in chat body.
 - [inmve/free-ai-coding](https://github.com/inmve/free-ai-coding) - AI coding tools that give free Claude Opus/Sonnet, GPT-5, Gemini Pro, and other pro-grade models
-- [vava-nessa/free-coding-models](https://github.com/vava-nessa/free-coding-models) - Find, benchmark and install in CLI 200+ FREE coding LLM models across 20+ providers in real time
 - [Rapptz/power-tabs](https://github.com/Rapptz/power-tabs) - Vertical tab groups for Firefox
 - [city-unit/st-bulk-card-manager](https://github.com/city-unit/st-bulk-card-manager) - Silly Tavern Bulk Card Manager
 - [LenAnderson/SillyTavern-MoreFlexibleContinues](https://github.com/LenAnderson/SillyTavern-MoreFlexibleContinues) - 
@@ -2391,7 +2391,6 @@
 - [thblt/nixos-config](https://github.com/thblt/nixos-config) - 
 - [mudrii/systst](https://github.com/mudrii/systst) - 
 - [getchoo/borealis](https://github.com/getchoo/borealis) - 🚢 my dotfiles, nix configurations, and personal infra
-- [zoeyycodes/nixos-dots](https://github.com/zoeyycodes/nixos-dots) - my personal nixos dotfiles c:
 - [YaroKasear/flakes](https://github.com/YaroKasear/flakes) - Nix/NixOS flakes
 - [ourgal/snowfall](https://github.com/ourgal/snowfall) - NixOS dotfiles
 - [3333juul/snowflake](https://github.com/3333juul/snowflake) - 
@@ -3355,7 +3354,7 @@
 - [exo-explore/exo](https://github.com/exo-explore/exo) - Run frontier AI locally.
 - [tezh404/Document-categorizer](https://github.com/tezh404/Document-categorizer) - AI-Powered Document Categorizer & Organizer
 - [sean1832/GPT-Brain](https://github.com/sean1832/GPT-Brain) - An AI-powered brain that efficiently stores, categorizes, and interrelates personal notes to optimize the management of creative ideas.
-- [LearningCircuit/local-deep-research](https://github.com/LearningCircuit/local-deep-research) - Local Deep Research achieves ~95% on SimpleQA benchmark (tested with Qwen 3.6). Supports local and cloud LLMs (Ollama, Google, Anthropic, ...). Searches 10+ sources - arXiv, PubMed, web, and your priv
+- [LearningCircuit/local-deep-research](https://github.com/LearningCircuit/local-deep-research) - ~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encryp
 - [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) - An AI Hedge Fund Team
 - [Repello-AI/Agent-Wiz](https://github.com/Repello-AI/Agent-Wiz) - A CLI tool for threat modeling and visualizing AI agents built using popular frameworks like LangGraph, AutoGen, CrewAI, and more.
 - [TilmanGriesel/chipper](https://github.com/TilmanGriesel/chipper) - ✨ AI interface for tinkerers (Ollama, Haystack RAG, Python)
@@ -3457,6 +3456,7 @@
 - [h2oai/h2o-llmstudio](https://github.com/h2oai/h2o-llmstudio) - H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs. Documentation: https://docs.h2o.ai/h2o-llmstudio/
 - [AJaySi/ALwrity](https://github.com/AJaySi/ALwrity) - ALwrity - AI Digital Marketing Platform. (WIP)
 - [different-ai/embedbase-ava](https://github.com/different-ai/embedbase-ava) - Obsidian + Embedbase = Ava
+- [gregoryg/AIPIHKAL](https://github.com/gregoryg/AIPIHKAL) - AI (LLM) Prompts I Have Known And Loved
 - [yingpengma/Awesome-Story-Generation](https://github.com/yingpengma/Awesome-Story-Generation) - This repository collects an extensive list of awesome papers about Story Generation / Storytelling, exclusively focusing on the era of Large Language Models (LLMs).
 - [nkmohit/FableForgeAI-StoryEngine](https://github.com/nkmohit/FableForgeAI-StoryEngine) - FableForgeAI-StoryEngine integrates cutting-edge AI technologies including Gemini-Pro, Hugging Face models, and Gradio interfaces to provide an immersive platform for generating stories, engaging with
 - [Amm1rr/WebAI-to-API](https://github.com/Amm1rr/WebAI-to-API) - Gemini to API (Don't need API KEY) (ChatGPT, Claude, DeeepSeek, Grok and more)
@@ -4025,7 +4025,7 @@
 - [2KAbhishek/termux2k](https://github.com/2KAbhishek/termux2k) - CLI Dev Setup in Your Hands ✋📱
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [wmarais/nixos-installer](https://github.com/wmarais/nixos-installer) - A simple script to install NixOs.
-- [23blocks-OS/ai-maestro-plugins](https://github.com/23blocks-OS/ai-maestro-plugins) - Build custom skill sets for your AI agents. Pick skills from GitHub, mix your own, assemble a tailored Claude Code plugin. Like uploading Kung Fu into Neo — but for your AI.
+- [23blocks-OS/ai-maestro-plugins](https://github.com/23blocks-OS/ai-maestro-plugins) - Build complete AI agents — 150+ personalities + 7 skills + messaging + identity. The skill builder for AI Maestro.
 - [IamJony/book-scraping](https://github.com/IamJony/book-scraping) - A Bash script to search and download books using  shadows libraries
 - [Rakosn1cek/xc-manager](https://github.com/Rakosn1cek/xc-manager) - A lightweight, Zsh-native vault for command execution with GPG encryption, interactive templates, and fzf integration.
 - [dockur/macos](https://github.com/dockur/macos) - MacOS inside a Docker container.
@@ -4079,7 +4079,6 @@
 - [exploitoverload/PwNixOS](https://github.com/exploitoverload/PwNixOS) - PwNixOS - A Productivity Focused and Hacking-Oriented NixOS Flake
 - [busterc/osx-iso](https://github.com/busterc/osx-iso) -  Create a bootable ISO of OS X / macOS, from the installation app file
 - [prasanthrangan/hyprdots](https://github.com/prasanthrangan/hyprdots) - // Aesthetic, dynamic and minimal dots for Arch hyprland
-- [gregoryg/AIPIHKAL](https://github.com/gregoryg/AIPIHKAL) - AI (LLM) Prompts I Have Known And Loved
 - [nomadics9/NixOS-Flake](https://github.com/nomadics9/NixOS-Flake) - My NixOS Flake + dotfiles
 - [nix-community/nix-direnv](https://github.com/nix-community/nix-direnv) - A fast, persistent use_nix/use_flake implementation for direnv [maintainer=@Mic92 / @bbenne10]
 - [0xacx/chatGPT-shell-cli](https://github.com/0xacx/chatGPT-shell-cli) - Simple shell script to use OpenAI's ChatGPT and DALL-E from the terminal. No Python or JS required. Formerly https://gptshell.cc
