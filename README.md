@@ -1001,7 +1001,7 @@
 - [5hubham5ingh/kitty-panel](https://github.com/5hubham5ingh/kitty-panel) - Kitty terminal based system panel for linux.
 - [X00LA/Extension-DynamicLore](https://github.com/X00LA/Extension-DynamicLore) - SillyTavern extension for automatically updating World Info entries
 - [confluence/firehacks](https://github.com/confluence/firehacks) - My personal customisation hacks for Firefox
-- [ComposioHQ/open-claude-cowork](https://github.com/ComposioHQ/open-claude-cowork) - Open Source version of Claude Cowork with 500+ SaaS app integrations
+- [composio-community/open-claude-cowork](https://github.com/composio-community/open-claude-cowork) - Open Source version of Claude Cowork with 500+ SaaS app integrations
 - [Vibecoder9000/SillyTavern-ModelFolders](https://github.com/Vibecoder9000/SillyTavern-ModelFolders) - This is a SillyTavern Extension that you can use to sort giant lists of models effectively.
 - [awesome-opencode/awesome-opencode](https://github.com/awesome-opencode/awesome-opencode) - A curated list of awesome plugins, themes, agents, projects, and resources for https://opencode.ai
 - [harrywenjie/SillyTavern-Tracker-Enhanced](https://github.com/harrywenjie/SillyTavern-Tracker-Enhanced) - 
@@ -1188,7 +1188,6 @@
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [ishantchauhan710/WriterAI](https://github.com/ishantchauhan710/WriterAI) - WriterAI is an AI based content writing tool that helps users easily write high quality emails, blogs, letters, thesis and other stuff. One can also share their project with others and work as a team.
 - [Nick-Gabe/Nick-Gabe](https://github.com/Nick-Gabe/Nick-Gabe) - Self updating README
-- [pryv/open-pryv.io](https://github.com/pryv/open-pryv.io) - Open-source version of Pryv.io
 - [davidmerfield/Stroke](https://github.com/davidmerfield/Stroke) - A text editor for first drafts
 - [davidmerfield/blot](https://github.com/davidmerfield/blot) - Turns a folder into a website
 - [emilamaj/bookwriter](https://github.com/emilamaj/bookwriter) - Let AI generate a complete book simply by providing a title and a description
@@ -1385,7 +1384,7 @@
 - [mvximenko/flat-ui-colors](https://github.com/mvximenko/flat-ui-colors) - Clone of Flat UI Colors
 - [mvximenko/gg](https://github.com/mvximenko/gg) - Game Finder built with Next
 - [mvximenko/rpg-card](https://github.com/mvximenko/rpg-card) - RPG Card Generator based on Magic: The Gathering
-- [jbrz0/morning-briefing](https://github.com/jbrz0/morning-briefing) - An open source, local browser homepage app - with custom config and widgets
+- [justinbrazeau/morning-briefing](https://github.com/justinbrazeau/morning-briefing) - An open source, local browser homepage app - with custom config and widgets
 - [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - Clean Code concepts adapted for JavaScript
 - [AVS1508/AVS1508.github.io](https://github.com/AVS1508/AVS1508.github.io) - Personal Résumé Website developed using ReactJS and Bootstrap and hosted on Github Pages. Displays my web presence, story, work experience, education, projects, achievements, and contact information.
 - [nextapps-de/winbox](https://github.com/nextapps-de/winbox) - WinBox is a modern HTML5 window manager for the Web.
@@ -2428,7 +2427,7 @@
 - [gmodena/nix-flatpak](https://github.com/gmodena/nix-flatpak) - Install flatpaks declaratively
 - [nonetrix/nixdots](https://github.com/nonetrix/nixdots) - My NixOS configuration
 - [EmergentMind/nix-config](https://github.com/EmergentMind/nix-config) - A continually evolving multi-user, multi-host NixOS configuration.
-- [khuedoan/nix-setup](https://github.com/khuedoan/nix-setup) - Declarative machine setup with NixOS and nix-darwin on macOS
+- [khuedoan/nix-setup](https://github.com/khuedoan/nix-setup) - Declarative machine setup with NixOS and nix-darwin on macOS (deprecated, moved to a monorepo https://github.com/khuedoan/dotfiles)
 - [SonarMonkey/meninx](https://github.com/SonarMonkey/meninx) - My personal flake-based NixOS configuration(s)
 - [sjcobb2022/nixos-config](https://github.com/sjcobb2022/nixos-config) - NixOS configuration files. WIP.
 - [BirdeeHub/birdeeSystems](https://github.com/BirdeeHub/birdeeSystems) - my personal nix config (install at your own risk, there are no instructions and the installer alias reformats drives)
@@ -4672,6 +4671,7 @@
 - [comoestassergio/portfolio-next](https://github.com/comoestassergio/portfolio-next) - Dynamically updated page to showcase my works from GitHub
 - [mckaywrigley/storybook-ai](https://github.com/mckaywrigley/storybook-ai) - 
 - [hubtype/botonic](https://github.com/hubtype/botonic) - Build chatbots and conversational experiences using React
+- [pryv/open-pryv.io](https://github.com/pryv/open-pryv.io) - Open-source version of Pryv.io
 - [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) - Open-source tool to enforce privacy & security best-practices on Windows, macOS and Linux, because privacy is sexy
 - [iandjx/next-js-daisy](https://github.com/iandjx/next-js-daisy) - Next JS, twin.macro, typescript, daisyUI, tailwindcss template
 - [brandonsaldan/clover](https://github.com/brandonsaldan/clover) - Personal website built with NextJS, Tailwind, and Geist.
