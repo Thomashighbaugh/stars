@@ -516,7 +516,6 @@
 - [eromatiya/blurredfox](https://github.com/eromatiya/blurredfox) - A sleek, modern and elegant Firefox CSS theme
 - [Timvde/UserChrome-Tweaks](https://github.com/Timvde/UserChrome-Tweaks) - A community maintained repository of userChrome.css tweaks for Firefox
 - [necolas/normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets
-- [creio/dots](https://github.com/creio/dots) - config
 - [AVS1508/My-Alternate-Portfolio-Website](https://github.com/AVS1508/My-Alternate-Portfolio-Website) - Portfolio Website generated using Jekyll, Sass, and Gulp.js, to showcase my web presence, résumé, story, & featured projects with a Particle.js aligned theme.
 - [godlyranchdressing/retrowave-theme](https://github.com/godlyranchdressing/retrowave-theme) - 
 - [TinyRaindrop/Firefox-UI-customization](https://github.com/TinyRaindrop/Firefox-UI-customization) - Changing Firefox UI with custom CSS
@@ -646,7 +645,7 @@
 - [aruZeta/Dotfiles.nix](https://github.com/aruZeta/Dotfiles.nix) - My reproducible system config made with nix
 - [shtwzrd/friar](https://github.com/shtwzrd/friar) - Emacs REPL for interacting with AwesomeWM
 - [willbush/system](https://github.com/willbush/system) - Trying to build the perfect system
-- [russmatney/dotfiles](https://github.com/russmatney/dotfiles) - Doom Emacs, a few-years old vim config, tmux, i3, zsh, polybar
+- [russmatney/dotfiles](https://github.com/russmatney/dotfiles) - Emacs, Neovim, Yabai, Hyprland, Nixos
 - [taylor-gl/dotfiles](https://github.com/taylor-gl/dotfiles) - My dotfiles [currently Linux Mint and vanilla emacs]
 - [xinhaoyuan/my-config](https://github.com/xinhaoyuan/my-config) - all config files managed by GNU stow
 - [carlosal1015/dune-archiso](https://github.com/carlosal1015/dune-archiso) - 
@@ -4399,6 +4398,7 @@
 - [pi-hole/docker-pi-hole](https://github.com/pi-hole/docker-pi-hole) - The official Pi-hole Docker image from pi-hole.net
 - [InBetweenNames/gentooLTO](https://github.com/InBetweenNames/gentooLTO) - A Gentoo Portage configuration for building with -O3, Graphite, and LTO optimizations
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
+- [creio/dots](https://github.com/creio/dots) - config
 - [mdaffin/arch-pkgs](https://github.com/mdaffin/arch-pkgs) - Management repo for my Arch Linux systems. Mirror of https://gitlab.com/mdaffin/arch-pkgs
 - [Gictorbit/photoshopCClinux](https://github.com/Gictorbit/photoshopCClinux) - Photoshop CC v19  installer for Gnu/Linux
 - [brinkOS/brinkOS](https://github.com/brinkOS/brinkOS) - Arch based Linux distribution for Engineers
