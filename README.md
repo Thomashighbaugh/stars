@@ -675,7 +675,6 @@
 ## Go 
 
 - [CodingWithEnjoy/TeleFeed](https://github.com/CodingWithEnjoy/TeleFeed) - A Go application that fetches posts from public Telegram channels and exports them as structured JSON files with automatic GitHub Actions integration.
-- [sartoopjj/vpn-over-github](https://github.com/sartoopjj/vpn-over-github) - Tunnels TCP connections through GitHub. Supports "contents", "gist" and "git" transports
 - [Nomadcxx/sysc-greet](https://github.com/Nomadcxx/sysc-greet) - A tui greeter (not built in rust)
 - [AnalogJ/justvanish](https://github.com/AnalogJ/justvanish) - Tell databrokers to F#@% Off. Your data is your data, they shouldn't be monetizing your personal information without your knowledge.
 - [markusressel/fan2go](https://github.com/markusressel/fan2go) - A simple daemon providing dynamic fan speed control based on temperature sensors.
@@ -3451,7 +3450,7 @@
 - [haseeb-heaven/langchain-coder](https://github.com/haseeb-heaven/langchain-coder) - Web Application that can generate code and fix bugs and run using various LLM's (GPT,Gemini,PALM)
 - [friuns2/Leaked-GPTs](https://github.com/friuns2/Leaked-GPTs) - Leaked GPTs Prompts Bypass the 25 message limit or to try out GPTs without a Plus subscription.
 - [h2oai/h2o-llmstudio](https://github.com/h2oai/h2o-llmstudio) - H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs. Documentation: https://docs.h2o.ai/h2o-llmstudio/
-- [AJaySi/ALwrity](https://github.com/AJaySi/ALwrity) - ALwrity - AI Digital Marketing Platform. (WIP)
+- [AJaySi/ALwrity](https://github.com/AJaySi/ALwrity) - ALwrity - AI-first Digital Marketing Platform. AI Content Strategy and Planning, Multimodal content generation, Publishing, Analytics, AI SEO, Connect & Manage Social Accounts.
 - [different-ai/embedbase-ava](https://github.com/different-ai/embedbase-ava) - Obsidian + Embedbase = Ava
 - [gregoryg/AIPIHKAL](https://github.com/gregoryg/AIPIHKAL) - AI (LLM) Prompts I Have Known And Loved
 - [yingpengma/Awesome-Story-Generation](https://github.com/yingpengma/Awesome-Story-Generation) - This repository collects an extensive list of awesome papers about Story Generation / Storytelling, exclusively focusing on the era of Large Language Models (LLMs).
@@ -3507,7 +3506,7 @@
 - [tuan3w/obsidian-template](https://github.com/tuan3w/obsidian-template) - Starter templates for Obsidian
 - [AI-Guru/writebookswithai](https://github.com/AI-Guru/writebookswithai) - Writing books with AI.
 - [protectai/ai-exploits](https://github.com/protectai/ai-exploits) - A collection of real world AI/ML exploits for responsibly disclosed vulnerabilities
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform. Available in TypeScript!
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
 - [stjordanis/betterprompt](https://github.com/stjordanis/betterprompt) - Test suite for LLM prompts
 - [grandchild/autohidewibox](https://github.com/grandchild/autohidewibox) - Execute awesome wm commands on ModKey press/release
 - [detailyang/awesome-cheatsheet](https://github.com/detailyang/awesome-cheatsheet) - :beers: awesome cheatsheet
@@ -4555,7 +4554,6 @@
 - [different-ai/openwork](https://github.com/different-ai/openwork) - An open-source alternative to Claude Cowork (powered by opencode)
 - [spoons-and-mirrors/subtask2](https://github.com/spoons-and-mirrors/subtask2) - A stronger opencode /command handler
 - [Opencode-DCP/opencode-dynamic-context-pruning](https://github.com/Opencode-DCP/opencode-dynamic-context-pruning) - Dynamic context pruning plugin for OpenCode - intelligently manages conversation context to optimize token usage
-- [NoeFabris/opencode-antigravity-auth](https://github.com/NoeFabris/opencode-antigravity-auth) - Enable Opencode to authenticate against Antigravity (Google's IDE) via OAuth so you can use Antigravity rate limits and access models like gemini-3-pro and claude-opus-4-5-thinking with your Google cr
 - [djdembeck/opencode-nanogpt](https://github.com/djdembeck/opencode-nanogpt) - Automated setup scripts for configuring OpenCode with NanoGPT integration, featuring automatic model updates, reasoning model support, and built-in MCP server.
 - [CaviraOSS/OpenMemory](https://github.com/CaviraOSS/OpenMemory) - Local persistent memory store for LLM applications including claude desktop, github copilot, codex, antigravity, etc.
 - [darrenhinde/OpenAgentsControl](https://github.com/darrenhinde/OpenAgentsControl) - AI agent framework for plan-first development workflows with approval-based execution. Multi-language support (TypeScript, Python, Go, Rust) with automatic testing, code review, and validation built f
@@ -4758,7 +4756,7 @@
 - [JakeStanger/next-gallery](https://github.com/JakeStanger/next-gallery) - Web gallery built with nextjs
 - [steven-tey/precedent](https://github.com/steven-tey/precedent) - An opinionated collection of components, hooks, and utilities for your Next.js project.
 - [mattnigh/ChatGPT-Free-Prompt-List](https://github.com/mattnigh/ChatGPT-Free-Prompt-List) - A free guide for learning to create ChatGPT3 Prompts
-- [avitorio/outstatic](https://github.com/avitorio/outstatic) - Outstatic - A Powerful CMS for Markdown. A dashboard to write, edit, and publish Markdown and MDX stored in your GitHub repository.
+- [avitorio/outstatic](https://github.com/avitorio/outstatic) - Outstatic - A Static Site CMS for Markdown. A dashboard to write, edit, and publish Markdown and MDX stored in your GitHub repository.
 - [jasonruesch/jasonruesch.old](https://github.com/jasonruesch/jasonruesch.old) - My personal portfolio web app
 - [JezerM/nody-greeter](https://github.com/JezerM/nody-greeter) - LightDM greeter that allows to create wonderful themes with web technologies. Made in Node.js
 - [InterwebAlchemy/obsidian-ai-research-assistant](https://github.com/InterwebAlchemy/obsidian-ai-research-assistant) - Prompt Engineering Research Tool for AI APIs
@@ -4950,7 +4948,7 @@
 - [Ham5andw1ch/NewDots](https://github.com/Ham5andw1ch/NewDots) - Updated dotfiles since I'm too lazy to touch the old repo.
 - [hiecaq/dotfiles](https://github.com/hiecaq/dotfiles) - My dotfiles that set the world I live in
 - [nikvdp/neomux](https://github.com/nikvdp/neomux) - Control Neovim from shells running inside Neovim.
-- [sheerun/vim-polyglot](https://github.com/sheerun/vim-polyglot) - A solid language pack for Vim.
+- [vim-polyglot/vim-polyglot](https://github.com/vim-polyglot/vim-polyglot) - A solid language pack for Vim.
 - [lambdalisue/vim-suda](https://github.com/lambdalisue/vim-suda) - 🥪 An alternative sudo.vim for Vim and Neovim, limited support sudo in Windows
 - [vimwiki/vimwiki](https://github.com/vimwiki/vimwiki) - Personal Wiki for Vim
 - [abdullahalzubaer/neovim-setup](https://github.com/abdullahalzubaer/neovim-setup) - 
@@ -4985,7 +4983,7 @@
 - [Nativu5/STPresetEditor](https://github.com/Nativu5/STPresetEditor) - A lightweight, user-friendly web editor for SillyTavern Presets.
 - [shaunabanana/intrigue](https://github.com/shaunabanana/intrigue) - Organize literature into ideas, fast.
 - [Razikus/novela](https://github.com/Razikus/novela) - AI text creation assistant. Made with OpenAI GPT Dalle and Codenotary immudb
-- [lareii/lareii.github.io](https://github.com/lareii/lareii.github.io) - 🌐 My personal website.
+- [lareii/lareii.github.io](https://github.com/lareii/lareii.github.io) - My personal website.
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [karakanb/devo](https://github.com/karakanb/devo) - A Chrome and Firefox extension that displays GitHub Trending, Hacker News, Product Hunt and Designer News on every new tab.
 - [SamirM-BE/ErasMail](https://github.com/SamirM-BE/ErasMail) - An open source tool for cleaning email boxes and saving the planet
