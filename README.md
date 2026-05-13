@@ -745,7 +745,7 @@
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
 - [rhysd/notes-cli](https://github.com/rhysd/notes-cli) - Small markdown note taking CLI app playing nicely with your favorite editor and other CLI tools
-- [zk-org/zk](https://github.com/zk-org/zk) - Plain text note-taking assistant
+- [zk-org/zk](https://github.com/zk-org/zk) - A plain text note-taking assistant for Zettelkasten or otherwise
 - [Zamony/wmwm](https://github.com/Zamony/wmwm) - Pure Go autotiling window manager
 - [evmos/ethermint](https://github.com/evmos/ethermint) - Ethermint is a Cosmos SDK library for running scalable and interoperable EVM chains
 - [kubernetes-retired/dashboard](https://github.com/kubernetes-retired/dashboard) - General-purpose web UI for Kubernetes clusters
@@ -1281,7 +1281,7 @@
 - [FirefoxBar/WebExt-build-tool](https://github.com/FirefoxBar/WebExt-build-tool) - A tool to build webextension
 - [dupontjoy/UCScriptsCollections](https://github.com/dupontjoy/UCScriptsCollections) - UC scripts collections, include UC scripts I don't use for now and UC scripts collected from others' sharing. Just for me to find them easily in the future.
 - [arifszn/blog.js](https://github.com/arifszn/blog.js) - JavaScript client to get recent blog posts from your blogging platforms.
-- [maizzle/framework](https://github.com/maizzle/framework) - Quickly build HTML emails with Tailwind CSS.
+- [maizzle/framework](https://github.com/maizzle/framework) - The modern email development framework.
 - [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
 - [sambeevors/tailwindcss-neumorphism](https://github.com/sambeevors/tailwindcss-neumorphism) - Generate soft UI CSS code using tailwindcss
 - [replicate/inpainter](https://github.com/replicate/inpainter) - A web GUI built with Next.js for inpainting with AI models using Replicate's API
@@ -2005,7 +2005,7 @@
 - [rochacbruno/dotfiles](https://github.com/rochacbruno/dotfiles) - My Environment Configurations
 - [Crylia/crylia-theme](https://github.com/Crylia/crylia-theme) - A theme for AwesomeWM
 - [b0o/dotfiles](https://github.com/b0o/dotfiles) - ☄ Maddison's dotfiles!
-- [ashincoder/StarVim](https://github.com/ashincoder/StarVim) - A neovim IDE which is beyond the moon 🌚
+- [ashin-15/StarVim](https://github.com/ashin-15/StarVim) - A neovim IDE which is beyond the moon 🌚
 - [mike325/nvim](https://github.com/mike325/nvim) - My personal lua configs for latest stable and nightly neovim
 - [Ham5andw1ch/AwesomeWM-Unity](https://github.com/Ham5andw1ch/AwesomeWM-Unity) - An attempt to recreate the Ubuntu Unity workflow in AwesomeWM
 - [jazz-g/shining-plum](https://github.com/jazz-g/shining-plum) - Dotfiles for r/unixporn
