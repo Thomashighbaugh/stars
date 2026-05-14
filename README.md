@@ -1966,7 +1966,7 @@
 - [quantrancse/arch-dotfiles](https://github.com/quantrancse/arch-dotfiles) - A fork of elenapan/dotfiles that work on Arch
 - [ThemerCorp/themer.lua](https://github.com/ThemerCorp/themer.lua) - A simple, minimal highlighter plugin for neovim
 - [intrntbrn/awesomewm-vim-tmux-navigator](https://github.com/intrntbrn/awesomewm-vim-tmux-navigator) - Navigate seamlessly between system windows, vim splits and tmux panes by only using awesomewm navigation keybindings.
-- [n4vermind/dotfiles](https://github.com/n4vermind/dotfiles) - 🍚 rice
+- [defouren/dotfiles](https://github.com/defouren/dotfiles) - 🍚 rice
 - [akosnad/dotfiles](https://github.com/akosnad/dotfiles) - Personal workflow/rice (not maintained! check out akosnad/nix-config)
 - [crater2150/awesome-modalbind](https://github.com/crater2150/awesome-modalbind) - Modal keybindings for awesomewm
 - [eyedeekay/awesome-network-manager](https://github.com/eyedeekay/awesome-network-manager) - Network Manager interface for Awesome WM
@@ -3814,7 +3814,7 @@
 
 ## Rust 
 
-- [iyulab/unpdf](https://github.com/iyulab/unpdf) - A Rust library for extracting PDF documents into structured Markdown with assets.
+- [iyulab/unpdf](https://github.com/iyulab/unpdf) - High-performance Rust PDF extraction library with Markdown/JSON output, CJK/RTL support, multi-column layout detection, and Python/.NET/CLI bindings.
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
 - [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang) - Open-source Agent Operating System
 - [gioleppe/SpixelaTUIr](https://github.com/gioleppe/SpixelaTUIr) - TUI based rust image glitcher
@@ -4804,7 +4804,7 @@
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [anirudhvarma12/rabbit-hole-webext](https://github.com/anirudhvarma12/rabbit-hole-webext) - A Browser Extension to trace your Wikipedia Journeys
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
-- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2026
+- [lissy93/personal-security-checklist](https://github.com/lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2026
 - [pawelmalak/flame](https://github.com/pawelmalak/flame) - Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors.
 - [hood/homie](https://github.com/hood/homie) - A minimalistic personal dashboard.
 - [Thomashighbaugh/startpage-figma-balls-nextjs](https://github.com/Thomashighbaugh/startpage-figma-balls-nextjs) - A recreation of a startpage posted on Reddit without the source, so I rewrote it in Next.js + Tailwind for the open source community.
@@ -4984,7 +4984,7 @@
 - [shaunabanana/intrigue](https://github.com/shaunabanana/intrigue) - Organize literature into ideas, fast.
 - [Razikus/novela](https://github.com/Razikus/novela) - AI text creation assistant. Made with OpenAI GPT Dalle and Codenotary immudb
 - [lareii/lareii.github.io](https://github.com/lareii/lareii.github.io) - My personal website.
-- [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
+- [lissy93/dashy](https://github.com/lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [karakanb/devo](https://github.com/karakanb/devo) - A Chrome and Firefox extension that displays GitHub Trending, Hacker News, Product Hunt and Designer News on every new tab.
 - [SamirM-BE/ErasMail](https://github.com/SamirM-BE/ErasMail) - An open source tool for cleaning email boxes and saving the planet
 - [Schroedinger-Hat/ImageGoNord-Web](https://github.com/Schroedinger-Hat/ImageGoNord-Web) - A tool that can convert your rgb images to nordtheme palette
