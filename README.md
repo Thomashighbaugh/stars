@@ -2598,7 +2598,7 @@
 - [myme/dotfiles](https://github.com/myme/dotfiles) - My collection of dotfiles
 - [etu/nixconfig](https://github.com/etu/nixconfig) - My NixOS config
 - [c0c0n3/nixie](https://github.com/c0c0n3/nixie) - Personal, micro distro built on NixOS
-- [mobsenpai/hana](https://github.com/mobsenpai/hana) - 花 - Hana | Nixos dotfiles
+- [mobsenpai/hana](https://github.com/mobsenpai/hana) - 花 - Hana | Nixos dotfiles [moved to codeberg: https://codeberg.org/mobsenpai/hana]
 - [redcode-labs/RedNixOS](https://github.com/redcode-labs/RedNixOS) - NixOS-based 'distro' for cybersecurity enthusiasts
 - [kittywitch/infrastructure](https://github.com/kittywitch/infrastructure) - Personal infrastructure repository
 - [barrucadu/nixfiles](https://github.com/barrucadu/nixfiles) - My NixOS configuration and assorted other crap.
@@ -3459,7 +3459,7 @@
 - [xusenlinzy/api-for-open-llm](https://github.com/xusenlinzy/api-for-open-llm) - Openai style api for open large language models, using LLMs just as chatgpt! Support for LLaMA, LLaMA-2, BLOOM, Falcon, Baichuan, Qwen, Xverse, SqlCoder, CodeLLaMA, ChatGLM, ChatGLM2, ChatGLM3 etc. 开源
 - [dhruvk2002/ats](https://github.com/dhruvk2002/ats) - This is an ATS based resume tracker which will help students to improve their resume and get a job.
 - [icebaker/sublime-nano-bots](https://github.com/icebaker/sublime-nano-bots) - Boost productivity and power your workflow with Nano Bots for Sublime Text: small, AI-powered bots that can be easily shared as a single file, designed to support multiple providers such as Cohere Com
-- [taishi-i/awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories) - A curated list of resources dedicated to open source GitHub repositories related to ChatGPT, OpenAI API, and Codex
+- [taishi-i/awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories) - A curated list of resources dedicated to open source GitHub repositories related to ChatGPT, OpenAI API, and Codex.Searchable via Claude Code skills.
 - [tekgeek88/ai-story-teller](https://github.com/tekgeek88/ai-story-teller) - A simple Python program that reads in text from un-punctuated novels and generates a new story based on the frequency of word occurrence in the given material
 - [patasmith/autobook](https://github.com/patasmith/autobook) - A simple book generator.
 - [GOAT-AI-lab/GOAT-Storytelling-Agent](https://github.com/GOAT-AI-lab/GOAT-Storytelling-Agent) - Agent that writes consistent and interesting long stories for any fiction form
@@ -3493,7 +3493,7 @@
 - [mikavehns/BookGPT](https://github.com/mikavehns/BookGPT) - Writes complete books with given paramters, using GPT-3.
 - [fdtory/FictionGPT](https://github.com/fdtory/FictionGPT) - Write fiction stories with given parameters, using GPT-3,5
 - [malob/nix-config](https://github.com/malob/nix-config) - My Nix system configs!
-- [oobabooga/textgen](https://github.com/oobabooga/textgen) - Open-source desktop app for local LLMs. Text, vision, tool-calling, OpenAI/Anthropic-compatible API.
+- [oobabooga/textgen](https://github.com/oobabooga/textgen) - Open-source desktop app for local LLMs. Text, vision, tool-calling, OpenAI/Anthropic-compatible API. 100% private.
 - [zestor/Muses](https://github.com/zestor/Muses) - Artificial Intelligence (AI) Long Form Fiction Writer using OpenAI or NLP Cloud
 - [mozilla/fxemoji](https://github.com/mozilla/fxemoji) - FxEmojis - a friendly emoji set from Mozilla
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - An autonomous agent that conducts deep research on any data using any LLM providers
@@ -4855,6 +4855,7 @@
 - [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Full-Stack Vue Framework.
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
+- [hexojs/hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
 - [effector/effector](https://github.com/effector/effector) - Business logic with ease ☄️
 - [mobxjs/mobx](https://github.com/mobxjs/mobx) - Simple, scalable state management.
 - [reduxjs/redux](https://github.com/reduxjs/redux) - A JS library for predictable global state management
