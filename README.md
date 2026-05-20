@@ -982,6 +982,7 @@
 
 - [naueramant/lightdm-webkit-sequoia](https://github.com/naueramant/lightdm-webkit-sequoia) - A simple and elegant lightdm-webkit2-greeter
 - [DavidRossWallace/tabMinder](https://github.com/DavidRossWallace/tabMinder) - Generates and manages dynamic HTML tab sets
+- [kittylotus/KittyLotus-Multimodal](https://github.com/kittylotus/KittyLotus-Multimodal) - A modular RP / narrative engine with sliders + toggles that control darkness, villains, pacing, UI, fidelity, and model quirks—without turning your story into a different genre. HTML focused.
 - [lenlenaris/SillyTavern-ChatEyeSwitch](https://github.com/lenlenaris/SillyTavern-ChatEyeSwitch) - 
 - [a5c-ai/babysitter](https://github.com/a5c-ai/babysitter) - Babysitter enforces obedience on agentic workforces and enables them to manage extremely complex tasks and workflows through deterministic, hallucination-free self-orchestration
 - [jquery/jquery](https://github.com/jquery/jquery) - jQuery JavaScript Library
@@ -2733,7 +2734,6 @@
 
 ## Others 
 
-- [kittylotus/KittyLotus-Multimodal](https://github.com/kittylotus/KittyLotus-Multimodal) - A modular RP / narrative engine with sliders + toggles that control darkness, villains, pacing, UI, fidelity, and model quirks—without turning your story into a different genre. HTML focused.
 - [Purp1eDuck2008/Liquid-GRUB](https://github.com/Purp1eDuck2008/Liquid-GRUB) - Liquid Glass GRUB
 - [maxtron95/pixie-icon-theme](https://github.com/maxtron95/pixie-icon-theme) - Tile-based icon theme for Linux
 - [bruhismyname/opencode-ultimate-starter](https://github.com/bruhismyname/opencode-ultimate-starter) - The Ultimate OpenCode Starter Kit. Includes Oh My OpenCode config, Superpowers installation fix, MCP Setup, and Windows Crash Fix (exit_code: -1073740791). Panduan lengkap Bahasa Indonesia & English.
