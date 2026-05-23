@@ -3334,7 +3334,7 @@
 - [ericmckevitt/Custom-Knowledge-Base-LLM](https://github.com/ericmckevitt/Custom-Knowledge-Base-LLM) - In this project, I use LangChain to train a Large Language Model on a custom set of notes. There will be a set of applications in this repository built around this foundation.
 - [sania040/Storify](https://github.com/sania040/Storify) - An AI powered Story writer
 - [SartajBhuvaji/Story-Forge](https://github.com/SartajBhuvaji/Story-Forge) - An interactive LLM Powered Story Writer. Be the protagonist of the story and watch as your decisions shape the story.
-- [aomukai/Writingway](https://github.com/aomukai/Writingway) - Writingway is an AI-powered creative writing tool that helps authors brainstorm, refine prose, analyze story structure, and manage context dynamically. It features a chat-based workshop, customizable 
+- [a-omukai/Writingway](https://github.com/a-omukai/Writingway) - Writingway is an AI-powered creative writing tool that helps authors brainstorm, refine prose, analyze story structure, and manage context dynamically. It features a chat-based workshop, customizable 
 - [jackaduma/Recurrent-LLM](https://github.com/jackaduma/Recurrent-LLM) - The open-source LLM  implementation of paper: RecurrentGPT: Interactive Generation of (Arbitrarily) Long Text.  AI 写小说，AI写作
 - [farrimoh/gen-ai-tools](https://github.com/farrimoh/gen-ai-tools) - generative AI demos and utilities
 - [mainframed/IconTheme](https://github.com/mainframed/IconTheme) - GTK Icon Theme Creator
