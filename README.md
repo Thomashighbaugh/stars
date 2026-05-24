@@ -393,7 +393,7 @@
 - [Neikon/Fox11](https://github.com/Neikon/Fox11) - 
 - [APKUtils/piracyops](https://github.com/APKUtils/piracyops) - 
 - [Naezr/ShyFox](https://github.com/Naezr/ShyFox) - A very shy little theme that hides the entire browser interface in the window border
-- [oviung/DownToneUI-Firefox](https://github.com/oviung/DownToneUI-Firefox) - A modular UI customization for Firefox. Supports Sidebery styling.
+- [oviung/DownToneUI-Firefox](https://github.com/oviung/DownToneUI-Firefox) - A modular UI customization for Firefox using Sidebery for vertical tabs.
 - [akkva/gwfox](https://github.com/akkva/gwfox) - Bringing a refreshing macOS-inspired skin to Firefox
 - [nuclearcodecat/shimmer](https://github.com/nuclearcodecat/shimmer) - charming firefox userchrome with sidebery support
 - [amnweb/firefox-plus](https://github.com/amnweb/firefox-plus) - CSS tweaks for Firefox
@@ -2677,7 +2677,7 @@
 - [adomixaszvers/dotfiles-nix](https://github.com/adomixaszvers/dotfiles-nix) - 
 - [teto/home](https://github.com/teto/home) - Configurations
 - [SystematicError/dotfiles](https://github.com/SystematicError/dotfiles) - ❄️ Personal nix based configuration for the linux desktop
-- [nix-community/nur-combined](https://github.com/nix-community/nur-combined) - A repository of NUR that combines all repositories [maintainer=@Mic92]
+- [nix-community/nur-combined](https://github.com/nix-community/nur-combined) - A repository of NUR that combines all repositories [maintainer=@Pandapip1]
 - [wiltaylor/dotfiles-old](https://github.com/wiltaylor/dotfiles-old) - My personal dotfiles
 - [namishh/crystal](https://github.com/namishh/crystal) - nix dotfiles for chilly people
 - [cole-h/nixos-config](https://github.com/cole-h/nixos-config) - My flakes-powered NixOS configuration
