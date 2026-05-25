@@ -2114,7 +2114,7 @@
 - [nekonako/xresources-nvim](https://github.com/nekonako/xresources-nvim) - 🎨 Neovim colorscheme based on your xresources color
 - [lewis6991/impatient.nvim](https://github.com/lewis6991/impatient.nvim) - Improve startup time for Neovim
 - [s1n7ax/nvim-comment-frame](https://github.com/s1n7ax/nvim-comment-frame) - Detects the language using treesitter and adds a comment block
-- [n3wborn/nvim](https://github.com/n3wborn/nvim) - My own NVIM (&gt;=NVIM  v0.13.0-dev-108+g5d66ef188f) config
+- [n3wborn/nvim](https://github.com/n3wborn/nvim) - My own NVIM (&gt;=NVIM  v0.13.0-dev-591+g89623e5992) config
 - [koniu/awesome-configs](https://github.com/koniu/awesome-configs) - koniu's awesome config
 - [kurbel/awesome-config](https://github.com/kurbel/awesome-config) - configuration files for the awesome window manager (awesomewm)
 - [nvim-lua/popup.nvim](https://github.com/nvim-lua/popup.nvim) - [WIP] An implementation of the Popup API from vim in Neovim. Hope to upstream when complete
@@ -2989,7 +2989,6 @@
 - [meetpateltech/AI-Infinity](https://github.com/meetpateltech/AI-Infinity) - A set of AI tools that will help you explore the infinite possibilities of AI.
 - [Vitor238/DX](https://github.com/Vitor238/DX) - Squircle icon theme for Linux (WIP)
 - [tinted-theming/base16-schemes](https://github.com/tinted-theming/base16-schemes) - All the color schemes for use in base16 packages
-- [dukeluo/awesome-awesome-prompts](https://github.com/dukeluo/awesome-awesome-prompts) - An awesome list for collecting awesome lists related to prompt engineering.
 - [microsoft/prompt-engineering](https://github.com/microsoft/prompt-engineering) - Learn how to use AI models with prompt engineering
 - [altryne/awesome-ai-art-image-synthesis](https://github.com/altryne/awesome-ai-art-image-synthesis) - A list of awesome tools, ideas, prompt engineering tools, colabs, models, and helpers for the prompt designer playing with aiArt and image synthesis. Covers Dalle2, MidJourney, StableDiffusion, and op
 - [CommonPaper/story-prompt](https://github.com/CommonPaper/story-prompt) - Challenge project for engineering candidates
@@ -3549,6 +3548,7 @@
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | opus 4.6 gpt 5.3 kimi 2.5 deepseek v3.2 gemini 3
 - [MarcVillain/EmailGenerator](https://github.com/MarcVillain/EmailGenerator) - Generate random emails with ease.
 - [paulpierre/informer](https://github.com/paulpierre/informer) - A Telegram Mass Surveillance Bot in Python
+- [dukeluo/awesome-awesome-ai](https://github.com/dukeluo/awesome-awesome-ai) - An awesome list for collecting awesome lists related to AI.
 - [promptslab/Promptify](https://github.com/promptslab/Promptify) - Prompt Engineering | Prompt Versioning | Use GPT or other prompt based models to get structured output. Join our discord for Prompt-Engineering, LLMs and other latest research
 - [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API
 - [juminai/dotfiles](https://github.com/juminai/dotfiles) - average dotfiles
