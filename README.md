@@ -958,7 +958,7 @@
 
 - [Aegis-plus/SillyTavern-Android](https://github.com/Aegis-plus/SillyTavern-Android) - A lightweight Android launcher for SillyTavern, providing a full-screen WebView experience with native support for file uploads, camera, and microphone.
 - [ibilux/MobyDroid](https://github.com/ibilux/MobyDroid) - Android Device Manager with a Graphic User Interface (GUI) – Manage Android on Linux, Windows and MacOS.
-- [dic1911/Momogram](https://github.com/dic1911/Momogram) - A third-party Telegram android app.
+- [im030/Momogram](https://github.com/im030/Momogram) - A third-party Telegram android app.
 - [JesusFreke/smali](https://github.com/JesusFreke/smali) - smali/baksmali
 - [tanjeffreyz/github-statistics](https://github.com/tanjeffreyz/github-statistics) - GitHub stat tracker that uses GraphQL to retrieve both public and private user statistics, which can then be displayed on profile READMEs
 - [PaperMC/Paper](https://github.com/PaperMC/Paper) - The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies
@@ -1347,7 +1347,7 @@
 - [afzalsayed96/mern-app](https://github.com/afzalsayed96/mern-app) - MERN stack app using Next.js
 - [drejcreative/mern-boilerplate-nextjs-2020](https://github.com/drejcreative/mern-boilerplate-nextjs-2020) - Boilerplate code for MERN stack (NextJs) with simple TODO app.
 - [Merkoba/Msg](https://github.com/Merkoba/Msg) - A javascript library to create and manage highly customizable modal windows and popup messages
-- [xyproto/algernon](https://github.com/xyproto/algernon) - Small self-contained pure-Go web server with Lua, Teal, Markdown, Ollama, HTTP/2, QUIC, Redis, SQLite and PostgreSQL support ++
+- [xyproto/algernon](https://github.com/xyproto/algernon) - Small self-contained pure-Go web server with Lua, Teal, Markdown, Ollama, HTTP/2, QUIC, Redis, TypeScript, SQLite and PostgreSQL support ++
 - [OffcierCia/DeFi-Developer-Road-Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map) - DeFi Developer roadmap is a curated Developer handbook which includes a list of the best tools for DApps development, resources and references!
 - [rockiger/akiee](https://github.com/rockiger/akiee) - A Markdown-based task manager for hackers and people who build stuff.
 - [gregives/Twelvety](https://github.com/gregives/Twelvety) - An Eleventy starter project built to be fast
@@ -1486,7 +1486,7 @@
 - [deepjyoti30/startpage](https://github.com/deepjyoti30/startpage) - A minimal starpage for Chrome and Firefox
 - [arkenfox/user.js](https://github.com/arkenfox/user.js) - Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening
 - [h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
-- [Kristories/awesome-guidelines](https://github.com/Kristories/awesome-guidelines) - A curated list of high quality coding style conventions and standards.
+- [Kristories/awesome-guidelines](https://github.com/Kristories/awesome-guidelines) - Programming style, best practices, and coding conventions.
 - [aluxian/nwjs-starter](https://github.com/aluxian/nwjs-starter) - :zap: NW.js starter project powered by Gulp. :zap:
 - [richardtaylordawson/pwa-shields](https://github.com/richardtaylordawson/pwa-shields) - Personalize your app's README with custom, fun, PWA shields in SVG
 - [Crelloc/google-keep-react](https://github.com/Crelloc/google-keep-react) - Mock design of google keep. Developed with Docker, NGINX, React, Nodejs, and MongoDB
@@ -3358,6 +3358,7 @@
 - [darrenburns/elia](https://github.com/darrenburns/elia) - A snappy, keyboard-centric terminal user interface for interacting with large language models. Chat with ChatGPT, Claude, Llama 3, Phi 3, Mistral, Gemma and more.
 - [kleer001/Text_Loom](https://github.com/kleer001/Text_Loom) - Network for procedural editing of text with LLMs
 - [FartyPants/StoryCrafter](https://github.com/FartyPants/StoryCrafter) - Writing Extension for Text Generation WebUI
+- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [rmusser01/tldw_server](https://github.com/rmusser01/tldw_server) - tl/dw (Too Long, Didn't Watch): Your Personal Research Multi-Tool - a naive attempt at 'A Young Lady's Illustrated Primer' (Open Source NotebookLM)
 - [the-crypt-keeper/tldw](https://github.com/the-crypt-keeper/tldw) - Too Long, Didn't Watch: End-to-End Rolling Summarizer of Long Videos
 - [cunnymessiah/keychecker](https://github.com/cunnymessiah/keychecker) - a key checker for various AI services
@@ -3451,7 +3452,7 @@
 - [gregoryg/AIPIHKAL](https://github.com/gregoryg/AIPIHKAL) - AI (LLM) Prompts I Have Known And Loved
 - [yingpengma/Awesome-Story-Generation](https://github.com/yingpengma/Awesome-Story-Generation) - This repository collects an extensive list of awesome papers about Story Generation / Storytelling, exclusively focusing on the era of Large Language Models (LLMs).
 - [nkmohit/FableForgeAI-StoryEngine](https://github.com/nkmohit/FableForgeAI-StoryEngine) - FableForgeAI-StoryEngine integrates cutting-edge AI technologies including Gemini-Pro, Hugging Face models, and Gradio interfaces to provide an immersive platform for generating stories, engaging with
-- [Amm1rr/WebAI-to-API](https://github.com/Amm1rr/WebAI-to-API) - Gemini to API (Don't need API KEY) (ChatGPT, Claude, DeeepSeek, Grok and more)
+- [Amm1rr/WebAI-to-API](https://github.com/Amm1rr/WebAI-to-API) - Gemini to API (Don't need API KEY) (ChatGPT, Claude, AtlasCloud and more)
 - [xusenlinzy/api-for-open-llm](https://github.com/xusenlinzy/api-for-open-llm) - Openai style api for open large language models, using LLMs just as chatgpt! Support for LLaMA, LLaMA-2, BLOOM, Falcon, Baichuan, Qwen, Xverse, SqlCoder, CodeLLaMA, ChatGLM, ChatGLM2, ChatGLM3 etc. 开源
 - [dhruvk2002/ats](https://github.com/dhruvk2002/ats) - This is an ATS based resume tracker which will help students to improve their resume and get a job.
 - [icebaker/sublime-nano-bots](https://github.com/icebaker/sublime-nano-bots) - Boost productivity and power your workflow with Nano Bots for Sublime Text: small, AI-powered bots that can be easily shared as a single file, designed to support multiple providers such as Cohere Com
@@ -4040,7 +4041,6 @@
 - [prosegrinder/pandoc-templates](https://github.com/prosegrinder/pandoc-templates) - An opinionated set of Pandoc templates and scripts for converting markdown to DOCX manuscripts that adhere to William Shunn's Proper Manuscript Format guidelines using Pandoc.
 - [EliverLara/dotfiles](https://github.com/EliverLara/dotfiles) - 
 - [yeyushengfan258/Intervals-grub-theme](https://github.com/yeyushengfan258/Intervals-grub-theme) - Intervals-grub-theme
-- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [TeddyBearKilla/Qogir-Cursors-Recolored](https://github.com/TeddyBearKilla/Qogir-Cursors-Recolored) - Recolors of the original Qogir Cursors that I've personally made.
 - [TeddyBearKilla/Afterglow-Cursors-Recolored](https://github.com/TeddyBearKilla/Afterglow-Cursors-Recolored) - Recolors of the original Afterglow Cursors that I've personally made.
 - [akhiljalagam/rofi-fontawesome](https://github.com/akhiljalagam/rofi-fontawesome) - Search a font awesome icon by name and copy it to the clipboard.
