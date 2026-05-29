@@ -247,7 +247,7 @@
 - [salman-abedin/devour](https://github.com/salman-abedin/devour) - X11 window swallower
 - [baskerville/xtitle](https://github.com/baskerville/xtitle) - Outputs X window titles
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
-- [klange/toaruos](https://github.com/klange/toaruos) - A completely-from-scratch hobby operating system: bootloader, kernel, drivers, C library, and userspace including a composited graphical UI, dynamic linker, syntax-highlighting text editor, network st
+- [klange/toaruos](https://github.com/klange/toaruos) - Complete, independent operating system built by humans.
 - [mklan/dotfiles](https://github.com/mklan/dotfiles) - GNU/Linux system configuration
 - [bfabiszewski/libmobi](https://github.com/bfabiszewski/libmobi) - C library for handling Kindle (MOBI) formats of ebook documents
 - [jedisct1/dsvpn](https://github.com/jedisct1/dsvpn) - A Dead Simple VPN.
@@ -967,7 +967,6 @@
 - [Neamar/KISS](https://github.com/Neamar/KISS) - Lightning fast, open-source, &lt; 250kb Android launcher
 - [siddhi-io/siddhi](https://github.com/siddhi-io/siddhi) - Stream Processing and Complex Event Processing Engine
 - [NoticEditorTeam/NoticEditor](https://github.com/NoticEditorTeam/NoticEditor) - A hierarchical note editor with markdown support
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go / Java
 - [validator/validator](https://github.com/validator/validator) - The Nu Html Checker (vnu)
 - [zjkhiyori/hack-root](https://github.com/zjkhiyori/hack-root) - Android APP get root-level permissions without rooted system
 - [brucetieu/JobApplicationBot](https://github.com/brucetieu/JobApplicationBot) - An Indeed, Glassdoor, and LinkedIn job application Bot.
@@ -1008,7 +1007,7 @@
 - [Hexicy/ST-CharacterPreview](https://github.com/Hexicy/ST-CharacterPreview) - Character preview for Sillytavern
 - [aikohanasaki/SillyTavern-MemoryBooks](https://github.com/aikohanasaki/SillyTavern-MemoryBooks) - Saves SillyTavern chat memories to lorebooks
 - [myonmu0/SillyTavern-MessageQueue](https://github.com/myonmu0/SillyTavern-MessageQueue) - Message queue extension for SillyTavern.
-- [chaaruze/SillyTavern-Too-Many-Chats](https://github.com/chaaruze/SillyTavern-Too-Many-Chats) - 📁 SillyTavern extension for organizing chats into folders. Made with Google Antigravity.
+- [chaaruze/SillyTavern-Too-Many-Chats](https://github.com/chaaruze/SillyTavern-Too-Many-Chats) - Archived SillyTavern extension for organizing chats into folders.
 - [AbhinavTheDev/potion](https://github.com/AbhinavTheDev/potion) - Intelligent Note-Taking Assistant
 - [phampyk/SillyTavern-CharacterName](https://github.com/phampyk/SillyTavern-CharacterName) - Allows setting a separate chat name for characters that overrides the card name
 - [phampyk/SillyTavern-AvatarBanner](https://github.com/phampyk/SillyTavern-AvatarBanner) - SillyTavern Extension to show the avatars as banners on the chat
@@ -3299,7 +3298,7 @@
 - [FaceDeer/pyqt_tavernai_character_editor](https://github.com/FaceDeer/pyqt_tavernai_character_editor) - A simple PyQt5 UI for editing TavernAI character cards
 - [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
 - [cgueret/Scriptorium](https://github.com/cgueret/Scriptorium) - Scriptorium is a text editor coupled with a plotting tool and a formatting tool. The objective is to provide writers with a simple and complete environment to plan, plot, write and edit e-books.
-- [OthersideAI/self-operating-computer](https://github.com/OthersideAI/self-operating-computer) - A framework to enable multimodal models to operate a computer.
+- [OthersideAI/self-operating-computer](https://github.com/OthersideAI/self-operating-computer) - A framework to enable a multimodal model to operate a computer.
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
 - [EzioDEVio/ai-knowledge-bot](https://github.com/EzioDEVio/ai-knowledge-bot) - his is my own custom-built offline AI bot that lets you chat with PDFs and web pages using **local embeddings** and **local LLMs** like LLaMA 3.  I built it step by step using LangChain, FAISS, Huggin
 - [BaoNguyen09/github-second-brain](https://github.com/BaoNguyen09/github-second-brain) - Providing tools to AI to explore github codebase like agent
@@ -3603,6 +3602,7 @@
 - [roddhjav/pass-import](https://github.com/roddhjav/pass-import) - A pass extension for importing data from most existing password managers
 - [archivy/archivy](https://github.com/archivy/archivy) - Archivy is a self-hostable knowledge repository that allows you to learn and retain information in your own personal and extensible wiki.
 - [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go / Java
 - [audibleblink/doxycannon](https://github.com/audibleblink/doxycannon) - A poorman's proxycannon and botnet, using docker, ovpn files, tor nodes, and dante socks5 proxies
 - [KCarretto/Arsenal](https://github.com/KCarretto/Arsenal) - Extensible Red Team Framework
 - [Tmpertor/Raven-Storm](https://github.com/Tmpertor/Raven-Storm) - Raven-Storm is a powerful DDoS toolkit for penetration tests, including attacks for several protocols written in python. Takedown many connections using several exotic and classic protocols.
