@@ -1009,7 +1009,6 @@
 - [myonmu0/SillyTavern-MessageQueue](https://github.com/myonmu0/SillyTavern-MessageQueue) - Message queue extension for SillyTavern.
 - [chaaruze/SillyTavern-Too-Many-Chats](https://github.com/chaaruze/SillyTavern-Too-Many-Chats) - Archived SillyTavern extension for organizing chats into folders.
 - [AbhinavTheDev/potion](https://github.com/AbhinavTheDev/potion) - Intelligent Note-Taking Assistant
-- [phampyk/SillyTavern-CharacterName](https://github.com/phampyk/SillyTavern-CharacterName) - Allows setting a separate chat name for characters that overrides the card name
 - [phampyk/SillyTavern-AvatarBanner](https://github.com/phampyk/SillyTavern-AvatarBanner) - SillyTavern Extension to show the avatars as banners on the chat
 - [nyxkrage/st-nyxlib](https://github.com/nyxkrage/st-nyxlib) - Collection of various SillyTavern functions packaged up as a UI extension (fetch from websites, manipulate JSON, assign JSON to variables)
 - [ThiagoRibas-dev/SillyTavern-State](https://github.com/ThiagoRibas-dev/SillyTavern-State) - Silly Tavern extension
@@ -1153,7 +1152,7 @@
 - [intika/Librefox](https://github.com/intika/Librefox) - Librefox: Firefox with privacy enhancements
 - [betterbrowser/arcfox](https://github.com/betterbrowser/arcfox) - Make your production flow
 - [WebOrigami/origami](https://github.com/WebOrigami/origami) - Monorepo for the primary Web Origami packages
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configuration.
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience
 - [kustodian/extended-statusbar](https://github.com/kustodian/extended-statusbar) - Firefox addon which adds a statusbar with speed, percentage, time and loaded size (similar to Opera's one)
 - [Spiderpig86/Spiderpig86](https://github.com/Spiderpig86/Spiderpig86) - :gem: Me. This is a self-updating README. Star it if you like it :)
 - [update692/firefox](https://github.com/update692/firefox) - Firefox userChrome.js scripts
@@ -1190,7 +1189,6 @@
 - [emilamaj/bookwriter](https://github.com/emilamaj/bookwriter) - Let AI generate a complete book simply by providing a title and a description
 - [aeksco/react-typescript-web-extension-starter](https://github.com/aeksco/react-typescript-web-extension-starter) - :desktop_computer: Web Extension starter kit built with React, TypeScript, TailwindCSS, Storybook, Jest, EsLint, Prettier, and Webpack. Supports Google Chrome + Mozilla Firefox + Brave Browser + Micro
 - [jaynewey/charm-icons](https://github.com/jaynewey/charm-icons) - 🍀 Charming Open Source vector icons.
-- [carbon-design-system/carbon](https://github.com/carbon-design-system/carbon) - A design system built by IBM
 - [AI-Prompt-Genius/AI-Prompt-Genius](https://github.com/AI-Prompt-Genius/AI-Prompt-Genius) - Curate a custom library of AI Prompts
 - [halfmage/pixelarticons](https://github.com/halfmage/pixelarticons) - 👾 Beautiful pixel icons. For the pixel vibes.
 - [CoreyGinnivan/system-uicons](https://github.com/CoreyGinnivan/system-uicons) - System UIcons is an icon library design for systems and products. Use how you want, without attribution.
@@ -1795,7 +1793,7 @@
 - [dankdezpair/hypr.files-V2](https://github.com/dankdezpair/hypr.files-V2) - 
 - [jcmuller/my-awesome-wm-config](https://github.com/jcmuller/my-awesome-wm-config) - My laptop's Awesome WM configuration
 - [HoNamDuong/.dotfiles](https://github.com/HoNamDuong/.dotfiles) - My dotfiles for Linux
-- [PassiveLemon/lemonix](https://github.com/PassiveLemon/lemonix) - The Dotfiles for my NixOS systems
+- [PassiveLemon/lemonix](https://github.com/PassiveLemon/lemonix) - The dotfiles for my NixOS systems
 - [gnomengineer/simpledesktop](https://github.com/gnomengineer/simpledesktop) - a lightweight and simple arch distro with own customization
 - [madhur/dotfiles](https://github.com/madhur/dotfiles) - Configuration files of my desktop computer running EndeavourOS Linux
 - [coderosh/.dots](https://github.com/coderosh/.dots) - 🐻 dots
@@ -2002,7 +2000,7 @@
 - [ashin-15/StarVim](https://github.com/ashin-15/StarVim) - A neovim IDE which is beyond the moon 🌚
 - [mike325/nvim](https://github.com/mike325/nvim) - My personal lua configs for latest stable and nightly neovim
 - [Ham5andw1ch/AwesomeWM-Unity](https://github.com/Ham5andw1ch/AwesomeWM-Unity) - An attempt to recreate the Ubuntu Unity workflow in AwesomeWM
-- [jazz-g/shining-plum](https://github.com/jazz-g/shining-plum) - Dotfiles for r/unixporn
+- [jasminegreentea1/shining-plum](https://github.com/jasminegreentea1/shining-plum) - Dotfiles for r/unixporn
 - [fedepujol/move.nvim](https://github.com/fedepujol/move.nvim) - Gain the power to move lines and blocks and auto-indent them!
 - [BlackArch/blackarch-iso](https://github.com/BlackArch/blackarch-iso) - BlackArch Linux ISOs
 - [rebelot/dotfiles](https://github.com/rebelot/dotfiles) - my configuration files
@@ -2037,7 +2035,7 @@
 - [lucc/awesome-config](https://github.com/lucc/awesome-config) - Configuration files for awesome WM
 - [zhangkun83/awesome-config](https://github.com/zhangkun83/awesome-config) - My own awesome-wm configuration
 - [JezerM/dotfiles](https://github.com/JezerM/dotfiles) - My dotfiles
-- [jazz-g/NeoPublic](https://github.com/jazz-g/NeoPublic) - Public Share of my dotfiles
+- [jasminegreentea1/NeoPublic](https://github.com/jasminegreentea1/NeoPublic) - Public Share of my dotfiles
 - [nvim-telekasten/telekasten.nvim](https://github.com/nvim-telekasten/telekasten.nvim) - A Neovim (lua) plugin for working with a markdown zettelkasten / wiki and mixing it with a journal, based on telescope.nvim
 - [madprops/awesome-setup](https://github.com/madprops/awesome-setup) - AwesomeWM config and widgets
 - [pettarin/awesome-config](https://github.com/pettarin/awesome-config) - My configuration file and theme for the awesome desktop manager
@@ -3813,6 +3811,7 @@
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
 - [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang) - Open-source Agent Operating System
 - [gioleppe/SpixelaTUIr](https://github.com/gioleppe/SpixelaTUIr) - TUI based rust image glitcher
+- [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [ohogb/hyu](https://github.com/ohogb/hyu) - A wayland compositor
 - [geekylthyosaur/well](https://github.com/geekylthyosaur/well) - Wayland compositor
 - [alexpasmantier/television](https://github.com/alexpasmantier/television) - A very fast, portable and hackable fuzzy finder.
@@ -3916,6 +3915,7 @@
 - [evestera/svg-halftone](https://github.com/evestera/svg-halftone) - Tool for converting raster images to SVG halftone patterns
 - [mikeroyal/Linux-Guide](https://github.com/mikeroyal/Linux-Guide) - Linux Guide. Learn about Linux Hardware vendors, Linux in the Cloud, Desktop Environments, Window Mangers, Linux Distributions, Linux Security, Graphics (AMD/NVIDIA/Intel ARC), and Software Apps.
 - [sharkdp/vivid](https://github.com/sharkdp/vivid) - A themeable LS_COLORS generator with a rich filetype datebase
+- [Start9Labs/start-os](https://github.com/Start9Labs/start-os) - A graphical server OS optimized for self-hosting
 - [jamestthompson3/tendril-wiki](https://github.com/jamestthompson3/tendril-wiki) - Personal knowledge management tool
 - [foresterre/imagineer](https://github.com/foresterre/imagineer) - 🦜 Accessible image processing and conversion from the terminal. Front-end for image-rs/image. Formerly 'sic'
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
@@ -4025,7 +4025,7 @@
 - [samuelcaldas/Bruteforce-Bootloader-Unlocker](https://github.com/samuelcaldas/Bruteforce-Bootloader-Unlocker) - Bruteforce Bootloader Unlocker for android devices with fastboot unlock support.
 - [adtac/climate](https://github.com/adtac/climate) - The swiss-army knife of utility tools for Linux.
 - [forsonny/book-os](https://github.com/forsonny/book-os) - Novel-OS is a structured workflow system that gives AI the context it needs to help you write   compelling fiction—consistently and efficiently. It provides three layers of context (Standards,   Novel
-- [erikdubois/edu-dot-files](https://github.com/erikdubois/edu-dot-files) - 
+- [kirodubes/kiro-dot-files](https://github.com/kirodubes/kiro-dot-files) - 
 - [eylles/betterxsecurelock](https://github.com/eylles/betterxsecurelock) - xsecurelock looking better than ever and easy to integrate in any setup, includes a dbus proxy
 - [8bitbuddhist/markdown-novel-template](https://github.com/8bitbuddhist/markdown-novel-template) - A template for writing novels in the Markdown markup language.
 - [mullvad/dns-blocklists](https://github.com/mullvad/dns-blocklists) - Lists and configuration for our DNS blocking service
@@ -4542,7 +4542,6 @@
 - [joshuadavidthomas/opencode-agent-skills](https://github.com/joshuadavidthomas/opencode-agent-skills) - An OpenCode plugin that provides tools for using agent skills
 - [xuemian168/android-locker](https://github.com/xuemian168/android-locker) - A comprehensive, community-maintained hub for comparing bootloader unlock, kernel source, and warranty policies across major Android manufacturers. Supports multilingual SEO (Chinese, Hindi, English) 
 - [agnusdei1207/opencode-orchestrator](https://github.com/agnusdei1207/opencode-orchestrator) - Opencode Plugin for AI-Agent Orchestration
-- [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [joelhooks/swarm-tools](https://github.com/joelhooks/swarm-tools) - 🐝 Multi-agent swarm coordination for OpenCode with learning capabilities, agent issue tracking, and management
 - [ryaker/zora](https://github.com/ryaker/zora) - Zora — a long‑running local AI agent with provider registry and secure tool access.
 - [different-ai/openwork](https://github.com/different-ai/openwork) - An open-source alternative to Claude Cowork (powered by opencode)
@@ -4674,6 +4673,7 @@
 - [element-plus/element-plus-icons](https://github.com/element-plus/element-plus-icons) - Main package for storing Element Plus icon resources.
 - [bytedance/IconPark](https://github.com/bytedance/IconPark) - 🍎Transform an SVG icon into multiple themes, and generate React icons，Vue icons，svg icons
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
+- [carbon-design-system/carbon](https://github.com/carbon-design-system/carbon) - A design system built by IBM
 - [radix-ui/icons](https://github.com/radix-ui/icons) - A crisp set of 15×15 icons designed by the @workos team.
 - [box-icons/boxicons](https://github.com/box-icons/boxicons) - High Quality web friendly icons
 - [xarunoba/nextjs-daisyui-ssr](https://github.com/xarunoba/nextjs-daisyui-ssr) - Next.js 14 App Router + daisyUI. Switch themes and render in SSR.
@@ -4775,7 +4775,6 @@
 - [fand/MDMT](https://github.com/fand/MDMT) - 💊Markdown Document Template💊
 - [pieroproietti/penguins-eggs](https://github.com/pieroproietti/penguins-eggs) - A professional and universal remastering tool for all major distributions
 - [TechSquidTV/Shoutify](https://github.com/TechSquidTV/Shoutify) - An open source, self-hosted, and entirely free solution to social media management.
-- [Start9Labs/start-os](https://github.com/Start9Labs/start-os) - A graphical server OS optimized for self-hosting
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
 - [nrwl/nx](https://github.com/nrwl/nx) - The Monorepo Platform that amplifies both developers and AI agents. Nx optimizes your builds, scales your CI, and fixes failed PRs automatically. Ship in half the time.
 - [LasCC/HackTools](https://github.com/LasCC/HackTools) - The all-in-one browser extension for offensive security professionals 🛠
