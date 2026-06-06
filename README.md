@@ -2505,7 +2505,7 @@
 - [Weathercold/nixfiles](https://github.com/Weathercold/nixfiles) - Dotfiles powered by Nix™ (plus package overlay)
 - [gotlougit/nix-config](https://github.com/gotlougit/nix-config) - A NixOS config from installation to user configs
 - [ErrorNoInternet/configuration.nix.bak](https://github.com/ErrorNoInternet/configuration.nix.bak) - My NixOS configuration
-- [mirkolenz/nixos](https://github.com/mirkolenz/nixos) - Personal nix-based configuration for all my computers and servers
+- [mirkolenz/infra](https://github.com/mirkolenz/infra) - Nix-based configuration for my machines
 - [futile/nixos-config](https://github.com/futile/nixos-config) - My NixOS configs
 - [dev-null-undefined/NixOs](https://github.com/dev-null-undefined/NixOs) - 
 - [nixypanda/dotfiles](https://github.com/nixypanda/dotfiles) - My dotfiles + system configuration for NixOS and mac
@@ -3379,6 +3379,7 @@
 - [aravindavk/fontforge-python-cookbook](https://github.com/aravindavk/fontforge-python-cookbook) - Fontforge Python Scripts
 - [sickcodes/gpt-engineer](https://github.com/sickcodes/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
 - [kamilion/customizer](https://github.com/kamilion/customizer) - Ubuntu Live CD remastering tool
+- [feder-cr/Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk) - AIHawk aims to easy job hunt process by automating the job application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in a tailored way.
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 - [DAVEinside/GenAI_Job_Fit](https://github.com/DAVEinside/GenAI_Job_Fit) - 
 - [TengHu/ActionWeaver](https://github.com/TengHu/ActionWeaver) - Make function calling with LLM easier
