@@ -3446,7 +3446,7 @@
 - [gregoryg/AIPIHKAL](https://github.com/gregoryg/AIPIHKAL) - AI (LLM) Prompts I Have Known And Loved
 - [yingpengma/Awesome-Story-Generation](https://github.com/yingpengma/Awesome-Story-Generation) - This repository collects an extensive list of awesome papers about Story Generation / Storytelling, exclusively focusing on the era of Large Language Models (LLMs).
 - [nkmohit/FableForgeAI-StoryEngine](https://github.com/nkmohit/FableForgeAI-StoryEngine) - FableForgeAI-StoryEngine integrates cutting-edge AI technologies including Gemini-Pro, Hugging Face models, and Gradio interfaces to provide an immersive platform for generating stories, engaging with
-- [Amm1rr/WebAI-to-API](https://github.com/Amm1rr/WebAI-to-API) - Webchat to API (Gemini)
+- [Amm1rr/WebAI-to-API](https://github.com/Amm1rr/WebAI-to-API) - Webchat to API
 - [xusenlinzy/api-for-open-llm](https://github.com/xusenlinzy/api-for-open-llm) - Openai style api for open large language models, using LLMs just as chatgpt! Support for LLaMA, LLaMA-2, BLOOM, Falcon, Baichuan, Qwen, Xverse, SqlCoder, CodeLLaMA, ChatGLM, ChatGLM2, ChatGLM3 etc. 开源
 - [dhruvk2002/ats](https://github.com/dhruvk2002/ats) - This is an ATS based resume tracker which will help students to improve their resume and get a job.
 - [icebaker/sublime-nano-bots](https://github.com/icebaker/sublime-nano-bots) - Boost productivity and power your workflow with Nano Bots for Sublime Text: small, AI-powered bots that can be easily shared as a single file, designed to support multiple providers such as Cohere Com
@@ -3743,14 +3743,14 @@
 - [tripathiji1312/quickshell](https://github.com/tripathiji1312/quickshell) - A highly customizable, modular, and performant desktop quickshell configuration
 - [pterror/config-quickshell](https://github.com/pterror/config-quickshell) - quickshell config
 - [DerMaista/dotfiles_mangowc](https://github.com/DerMaista/dotfiles_mangowc) - my mangowc dotfiles
-- [melatonia/meloworld-dotfiles](https://github.com/melatonia/meloworld-dotfiles) - My mangowm and quickshell rice heavily influenced by crylia theme!
+- [melatonia/meloworld-dotfiles](https://github.com/melatonia/meloworld-dotfiles) - My hyprland and quickshell rice heavily influenced by crylia theme!
 - [jslandau/dms-unified-taskbar](https://github.com/jslandau/dms-unified-taskbar) - Unified Taskbar plugin for Dank Material Shell - workspace-grouped taskbar widget
 - [sirschdev/blurshell](https://github.com/sirschdev/blurshell) - Blurshell is a customizable, modern Linux shell UI built with QML. It features a sleek design, animated components, notification system, control center, launcher, and modular architecture, providing a
 - [noctalia-dev/noctalia-plugins](https://github.com/noctalia-dev/noctalia-plugins) - Noctalia's official plugins
 - [nucleus-hq/nucleus-shell](https://github.com/nucleus-hq/nucleus-shell) - A flexible, extensible desktop shell built with QML, C++, and JavaScript
 - [ZerkerEOD/shell](https://github.com/ZerkerEOD/shell) - A very segsy desktop shell
 - [antonjah/nix-monitor](https://github.com/antonjah/nix-monitor) - A DMS plugin for monitoring and managing nix systems.
-- [caelestia-dots/shell](https://github.com/caelestia-dots/shell) - ‼️ No waybar here ‼️
+- [caelestia-dots/shell](https://github.com/caelestia-dots/shell) - A fluid, morphing shell for your Linux desktop
 - [noctalia-dev/noctalia-shell](https://github.com/noctalia-dev/noctalia-shell) - A sleek and minimal desktop shell thoughtfully crafted for Wayland.
 - [AhmedSaadi0/NibrasShell](https://github.com/AhmedSaadi0/NibrasShell) - AI‑integrated shell.
 - [ec1oud/grefsen](https://github.com/ec1oud/grefsen) - A Qt/Wayland desktop
