@@ -277,6 +277,7 @@
 ## C++ 
 
 - [quickshell-mirror/quickshell](https://github.com/quickshell-mirror/quickshell) - Flexible toolkit for making desktop shells with QtQuick, for Wayland and X11
+- [noctalia-dev/noctalia](https://github.com/noctalia-dev/noctalia) - A sleek and minimal desktop shell thoughtfully crafted for Wayland.
 - [IllicitFrog/luapulse](https://github.com/IllicitFrog/luapulse) - 
 - [IllicitFrog/luaclip](https://github.com/IllicitFrog/luaclip) - Clipboard manager for awesomewm Text only!
 - [RMTT/lua-pam](https://github.com/RMTT/lua-pam) - A module for lua  to use PAM.
@@ -2444,7 +2445,6 @@
 - [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - my over complex system configurations
 - [Frost-Phoenix/nixos-config](https://github.com/Frost-Phoenix/nixos-config) - ❄️ NixOs / Hyprland rice with Home-Manager ❄️
 - [Lehmanator/nix-configs](https://github.com/Lehmanator/nix-configs) - Personal Nix / NixOS configs
-- [gabrieldlima/dotfiles](https://github.com/gabrieldlima/dotfiles) - My dotfiles
 - [IogaMaster/dotfiles](https://github.com/IogaMaster/dotfiles) - My entire infrastructure and computing environment.
 - [divnix/flake-bootstrap](https://github.com/divnix/flake-bootstrap) - 
 - [kira-bruneau/nixos-config](https://github.com/kira-bruneau/nixos-config) - My NixOS configuration. Mirror of code maintained at gitlab.com.
@@ -2854,6 +2854,7 @@
 - [Bunn/macOSToPendrive](https://github.com/Bunn/macOSToPendrive) - Apple Script to create a bootable macOS pendrive
 - [ipfs/devgrants](https://github.com/ipfs/devgrants) - The IPFS Grant platform connects funding organizations with builders and researchers in the IPFS community.
 - [ai-boost/awesome-prompts](https://github.com/ai-boost/awesome-prompts) - Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt protect. Advanced Prompt Engineering papers.
+- [gabrieldlima/dotfiles](https://github.com/gabrieldlima/dotfiles) - My dotfiles
 - [ridwanzal/ridwanzal](https://github.com/ridwanzal/ridwanzal) - My personal README for github profile. Cheers.
 - [chaozh/awesome-gpt-store](https://github.com/chaozh/awesome-gpt-store) - A place to find all Custom Stores and OpenAI store for ChatGPT and related apps
 - [herrbischoff/simple-svg-brand-logos](https://github.com/herrbischoff/simple-svg-brand-logos) - A collection of simplified brand logos in SVG format.
@@ -3746,12 +3747,11 @@
 - [melatonia/meloworld-dotfiles](https://github.com/melatonia/meloworld-dotfiles) - My hyprland and quickshell rice heavily influenced by crylia theme!
 - [jslandau/dms-unified-taskbar](https://github.com/jslandau/dms-unified-taskbar) - Unified Taskbar plugin for Dank Material Shell - workspace-grouped taskbar widget
 - [sirschdev/blurshell](https://github.com/sirschdev/blurshell) - Blurshell is a customizable, modern Linux shell UI built with QML. It features a sleek design, animated components, notification system, control center, launcher, and modular architecture, providing a
-- [noctalia-dev/noctalia-plugins](https://github.com/noctalia-dev/noctalia-plugins) - Noctalia's official plugins
+- [noctalia-dev/legacy-v4-plugins](https://github.com/noctalia-dev/legacy-v4-plugins) - Noctalia's official plugins
 - [nucleus-hq/nucleus-shell](https://github.com/nucleus-hq/nucleus-shell) - A flexible, extensible desktop shell built with QML, C++, and JavaScript
 - [ZerkerEOD/shell](https://github.com/ZerkerEOD/shell) - A very segsy desktop shell
 - [antonjah/nix-monitor](https://github.com/antonjah/nix-monitor) - A DMS plugin for monitoring and managing nix systems.
 - [caelestia-dots/shell](https://github.com/caelestia-dots/shell) - A fluid, morphing shell for your Linux desktop
-- [noctalia-dev/noctalia-shell](https://github.com/noctalia-dev/noctalia-shell) - A sleek and minimal desktop shell thoughtfully crafted for Wayland.
 - [AhmedSaadi0/NibrasShell](https://github.com/AhmedSaadi0/NibrasShell) - AI‑integrated shell.
 - [ec1oud/grefsen](https://github.com/ec1oud/grefsen) - A Qt/Wayland desktop
 - [Ly-sec/nixos](https://github.com/Ly-sec/nixos) - 
@@ -4575,7 +4575,7 @@
 - [web-agent-master/google-search](https://github.com/web-agent-master/google-search) - A Playwright-based Node.js tool that bypasses search engine anti-scraping mechanisms to execute Google searches. Local alternative to SERP APIs with MCP server integration.
 - [nicotsx/zerobyte](https://github.com/nicotsx/zerobyte) - Backup automation for self-hosters. Built on top of restic
 - [vercel/next-devtools-mcp](https://github.com/vercel/next-devtools-mcp) - Next.js Development for Coding Agent
-- [Nano-Collective/nanocoder](https://github.com/Nano-Collective/nanocoder) - A beautiful coding agent in your terminal,  running on any model you choose - built by the  community, for the community ⚒
+- [Nano-Collective/nanocoder](https://github.com/Nano-Collective/nanocoder) - An open coding agent for your terminal, built by a community collective rather than a company. Bring your own model, keep your code on your machine, and owe nothing to anyone.
 - [bradennapier/character-cards-v2](https://github.com/bradennapier/character-cards-v2) - The missing (AI Generated) Character Card explainer
 - [bmen25124/SillyTavern-WeatherPack](https://github.com/bmen25124/SillyTavern-WeatherPack) - A SillyTavern extension that fixes schizo markdown. Also some HTML/JS stuff.
 - [leDissolution/StatSuite](https://github.com/leDissolution/StatSuite) - 
