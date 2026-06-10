@@ -305,7 +305,7 @@
 - [CachyOS/cachyos-calamares](https://github.com/CachyOS/cachyos-calamares) - CachyOS Calamares
 - [PL-V/Firefox-WebInject](https://github.com/PL-V/Firefox-WebInject) - Firefox webInjector capable of injecting codes into webpages using a mitmproxy.
 - [ctubio/Krypto-trading-bot](https://github.com/ctubio/Krypto-trading-bot) - Self-hosted crypto trading bot (automated high frequency market making) written in C++
-- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
+- [react/react-native](https://github.com/react/react-native) - A framework for building native applications using React
 - [CachyOS/New-Cli-Installer](https://github.com/CachyOS/New-Cli-Installer) - CachyOS CLI Installer
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
 - [Nitrux/maui-shell](https://github.com/Nitrux/maui-shell) - Maui Shell is a convergent shell for desktops, tablets, and phones.
@@ -651,7 +651,7 @@
 - [taylor-gl/dotfiles](https://github.com/taylor-gl/dotfiles) - My dotfiles [currently Linux Mint and vanilla emacs]
 - [xinhaoyuan/my-config](https://github.com/xinhaoyuan/my-config) - all config files managed by GNU stow
 - [carlosal1015/dune-archiso](https://github.com/carlosal1015/dune-archiso) - 
-- [doomemacs/doomemacs](https://github.com/doomemacs/doomemacs) - An Emacs framework for the stubborn martian hacker
+- [doomemacs/core](https://github.com/doomemacs/core) - An Emacs framework for the stubborn martian hacker
 - [denisse-dev/dotfiles](https://github.com/denisse-dev/dotfiles) - :dragon_face: My Arch Linux config [Zsh + Sway + Alacritty + Emacs, etc]
 - [SwiftyChicken/dotfiles](https://github.com/SwiftyChicken/dotfiles) - My dotfiles
 - [syl20bnr/spacemacs](https://github.com/syl20bnr/spacemacs) - A community-driven Emacs distribution - The best editor is neither Emacs nor Vim,  it's Emacs *and* Vim!
@@ -746,7 +746,7 @@
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
 - [rhysd/notes-cli](https://github.com/rhysd/notes-cli) - Small markdown note taking CLI app playing nicely with your favorite editor and other CLI tools
-- [zk-org/zk](https://github.com/zk-org/zk) - A plain text note-taking assistant for Zettelkasten or otherwise
+- [zk-org/zk](https://github.com/zk-org/zk) - A plain text note-taking assistant
 - [Zamony/wmwm](https://github.com/Zamony/wmwm) - Pure Go autotiling window manager
 - [evmos/ethermint](https://github.com/evmos/ethermint) - Ethermint is a Cosmos SDK library for running scalable and interoperable EVM chains
 - [kubernetes-retired/dashboard](https://github.com/kubernetes-retired/dashboard) - General-purpose web UI for Kubernetes clusters
@@ -1039,7 +1039,7 @@
 - [gusta01010/SillyTavern-Smart-Dialogue-Colorizer-Extended](https://github.com/gusta01010/SillyTavern-Smart-Dialogue-Colorizer-Extended) - SillyTavern extension with intelligent syntax coloring and quality filtering. Highly customizable.
 - [unkarelian/timeline-memory](https://github.com/unkarelian/timeline-memory) - A tool-call based memory system for SillyTavern
 - [IceFog72/SillyTavern-ProbablyTooManyTabs](https://github.com/IceFog72/SillyTavern-ProbablyTooManyTabs) - 
-- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Claude Code, Claude Design, Opus 4.8, Sonnet 4.6. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex, Google - Gemini - 3.5 Flash, 3.1 Pro, Antigravity, xA
+- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. 
 - [nimit95/Real-world-Design-Patterns-Node-JS](https://github.com/nimit95/Real-world-Design-Patterns-Node-JS) - All the 23 (GoF) design patterns implemented in Javascript with Real World Example using Node.js APIs
 - [ejpir/CVE-2025-55182-research](https://github.com/ejpir/CVE-2025-55182-research) - CVE-2025-55182 POC
 - [RossAscends/ST-ClickToCloseEdits](https://github.com/RossAscends/ST-ClickToCloseEdits) - 
@@ -1158,7 +1158,6 @@
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience
 - [kustodian/extended-statusbar](https://github.com/kustodian/extended-statusbar) - Firefox addon which adds a statusbar with speed, percentage, time and loaded size (similar to Opera's one)
 - [Spiderpig86/Spiderpig86](https://github.com/Spiderpig86/Spiderpig86) - :gem: Me. This is a self-updating README. Star it if you like it :)
-- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 - [update692/firefox](https://github.com/update692/firefox) - Firefox userChrome.js scripts
 - [moritz-h/urls-list](https://github.com/moritz-h/urls-list) - Firefox Add-on to list URLs. Install here: https://addons.mozilla.org/addon/urls-list/
 - [aminought/firefox-second-sidebar](https://github.com/aminought/firefox-second-sidebar) - A Firefox userChrome.js script that brings a second sidebar with web panels like in Vivaldi/Edge/Floorp but better.
@@ -1377,7 +1376,7 @@
 - [BlankOn/blankon-installer](https://github.com/BlankOn/blankon-installer) - 
 - [ashishBharadwaj/flawesome](https://github.com/ashishBharadwaj/flawesome) - Productivity Tool
 - [rahul-jha98/Artistify.ai](https://github.com/rahul-jha98/Artistify.ai) - Web-app to generate artistically styled images generated using Style Transfer Model running in the browser.
-- [Bhupesh-V/til](https://github.com/Bhupesh-V/til) - Personal Wiki of Interesting things I learn every day at the intersection of software, life & stuff (my second brain 🧠️)
+- [Bhupesh-V/til](https://github.com/Bhupesh-V/til) - Personal Wiki of things I learn every day at the intersection of tech, life & stuff (my second brain 🧠️)
 - [mvximenko/flat-ui-colors](https://github.com/mvximenko/flat-ui-colors) - Clone of Flat UI Colors
 - [mvximenko/gg](https://github.com/mvximenko/gg) - Game Finder built with Next
 - [mvximenko/rpg-card](https://github.com/mvximenko/rpg-card) - RPG Card Generator based on Magic: The Gathering
@@ -1422,7 +1421,7 @@
 - [coffee-dan/react-startpage](https://github.com/coffee-dan/react-startpage) - React.js based implementation of a startpage.
 - [harvzor/start](https://github.com/harvzor/start) - The start page for my browser.
 - [knockout/knockout](https://github.com/knockout/knockout) - Knockout makes it easier to create rich, responsive UIs with JavaScript
-- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
+- [react/react](https://github.com/react/react) - The library for web and native user interfaces.
 - [rustysec/tidalwm](https://github.com/rustysec/tidalwm) - Simple and sane tiling window manager for Gnome Shell
 - [hacknug/tailwindcss-image-rendering](https://github.com/hacknug/tailwindcss-image-rendering) - Image-rendering utilities for Tailwind CSS.
 - [alice0775/userChrome.js](https://github.com/alice0775/userChrome.js) - 
@@ -3390,7 +3389,7 @@
 - [oumi-ai/oumi](https://github.com/oumi-ai/oumi) - Easily fine-tune, evaluate and deploy Gemma 4, Qwen3.5, Qwen3.6, gpt-oss, DeepSeek-R1, or any open source LLM / VLM!
 - [langroid/langroid](https://github.com/langroid/langroid) - Harness LLMs with Multi-Agent Programming
 - [langroid/langroid-examples](https://github.com/langroid/langroid-examples) - Using Langroid's Multi-Agent Framework to Build LLM Apps
-- [openinterpreter/open-interpreter](https://github.com/openinterpreter/open-interpreter) - A natural language interface for computers
+- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A natural language interface for computers
 - [aedocw/epub2tts-edge](https://github.com/aedocw/epub2tts-edge) - epub2tts-edge uses Microsoft Edge cloud-based TTS to create a full featured audiobook m4b from an epub or text file
 - [newm-next/newm-next](https://github.com/newm-next/newm-next) - 
 - [Soulter/hugging-chat-api](https://github.com/Soulter/hugging-chat-api) - HuggingChat Python API🤗
@@ -4633,6 +4632,7 @@
 - [KazKozDev/NovelGenerator](https://github.com/KazKozDev/NovelGenerator) - Fiction generator using LLM agents to create complete novels with coherent plots, developed characters, and diverse writing styles.
 - [cachix/cachix-action](https://github.com/cachix/cachix-action) - Build software only once and put it in a global cache
 - [aleksey-hoffman/sigma-file-manager](https://github.com/aleksey-hoffman/sigma-file-manager) - "Sigma File Manager" is a free, open-source, quickly evolving, modern file manager (explorer / browser) app for Windows and Linux.
+- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 - [jakobhoeg/nextjs-ollama-llm-ui](https://github.com/jakobhoeg/nextjs-ollama-llm-ui) - Fully-featured web interface for Ollama LLMs
 - [OpenPipe/OpenPipe](https://github.com/OpenPipe/OpenPipe) - Turn expensive prompts into cheap fine-tuned models
 - [Taufik-H/neubeam](https://github.com/Taufik-H/neubeam) - Neubeam is an open-source project components library designed for Tailwind CSS with a Neubrutalism or retro-inspired style.
