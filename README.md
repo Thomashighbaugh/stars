@@ -1894,7 +1894,6 @@
 - [xlucn/dotfiles](https://github.com/xlucn/dotfiles) - Linux configuration files (dotfiles) and some useful scripts
 - [gabrielfrimodig/dotfiles](https://github.com/gabrielfrimodig/dotfiles) - There's no place like ~ !
 - [hnbnh/dotfiles](https://github.com/hnbnh/dotfiles) - ~/🏡 is where the heart is
-- [duclos-cavalcanti/dotfiles](https://github.com/duclos-cavalcanti/dotfiles) - Configuration files for my linux system.
 - [sachnr/awesomewm-dotfiles](https://github.com/sachnr/awesomewm-dotfiles) - awesomewm dotfiles
 - [AlphaTechnolog/nixdots](https://github.com/AlphaTechnolog/nixdots) - My NixOS Configuration! Flakes + Home Manager + Nix = Power
 - [polarmutex/awesome-flake](https://github.com/polarmutex/awesome-flake) - my awesome wm config as a nixos flake
@@ -2674,7 +2673,7 @@
 - [justinwoo/nix-shorts](https://github.com/justinwoo/nix-shorts) - A collection of short notes about Nix, down to what is immediately needed for users.
 - [adomixaszvers/dotfiles-nix](https://github.com/adomixaszvers/dotfiles-nix) - 
 - [teto/home](https://github.com/teto/home) - Configurations
-- [SystematicError/dotfiles](https://github.com/SystematicError/dotfiles) - ❄️ Personal nix based configuration for the linux desktop
+- [SystematicError/dotfiles](https://github.com/SystematicError/dotfiles) - ❄️ Personal Nix based configuration for the Linux and MacOS
 - [nix-community/nur-combined](https://github.com/nix-community/nur-combined) - A repository of NUR that combines all repositories [maintainer=@Pandapip1]
 - [wiltaylor/dotfiles-old](https://github.com/wiltaylor/dotfiles-old) - My personal dotfiles
 - [namishh/crystal](https://github.com/namishh/crystal) - nix dotfiles for chilly people
@@ -2908,7 +2907,6 @@
 - [leptos-rs/awesome-leptos](https://github.com/leptos-rs/awesome-leptos) - A collection of awesome libraries in the Leptos ecosystem.
 - [chatanywhere/GPT_API_free](https://github.com/chatanywhere/GPT_API_free) - Free ChatGPT&DeepSeek API Key，免费ChatGPT&DeepSeek API。免费接入DeepSeek API和GPT4 API，支持 gpt | deepseek | claude | gemini | grok 等排名靠前的常用大模型。
 - [birdneststream/breakingbard](https://github.com/birdneststream/breakingbard) - Google Bard 'jailbreaks' and prompt poisoning, similar to how ChatGPT has DAN Mode but for Google Bard.
-- [ColorblindAdam/ChatGPTPrompts](https://github.com/ColorblindAdam/ChatGPTPrompts) - Prompts I have created or modified to use with ChatGPT
 - [ctjhoa/rust-learning](https://github.com/ctjhoa/rust-learning) - A bunch of links to blog posts, articles, videos, etc for learning Rust
 - [llZektorll/Template_Hub](https://github.com/llZektorll/Template_Hub) - Obsidian Template Hub started on the 13th of June 2022. It was set up to gather as many note templates as possible.
 - [wikibonsai/garden-beds](https://github.com/wikibonsai/garden-beds) - Starter digital gardens
@@ -3442,7 +3440,7 @@
 - [haseeb-heaven/langchain-coder](https://github.com/haseeb-heaven/langchain-coder) - Web Application that can generate code and fix bugs and run using various LLM's (GPT,Gemini,PALM)
 - [friuns2/Leaked-GPTs](https://github.com/friuns2/Leaked-GPTs) - Leaked GPTs Prompts Bypass the 25 message limit or to try out GPTs without a Plus subscription.
 - [h2oai/h2o-llmstudio](https://github.com/h2oai/h2o-llmstudio) - H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs. Documentation: https://docs.h2o.ai/h2o-llmstudio/
-- [AJaySi/ALwrity](https://github.com/AJaySi/ALwrity) - ALwrity - AI-first Digital Marketing Platform. AI Content Strategy and Planning, Multimodal content generation, Publishing, Analytics, AI SEO, Connect & Manage Social Accounts.
+- [AJaySi/ALwrity](https://github.com/AJaySi/ALwrity) - ALwrity - AI-first Digital Marketing Platform. AI Content Strategy and Planning, Multimodal content generation, Publishing, Analytics, AI SEO, Connect & Manage Social Accounts. Marketing OS - WIP
 - [different-ai/embedbase-ava](https://github.com/different-ai/embedbase-ava) - Obsidian + Embedbase = Ava
 - [gregoryg/AIPIHKAL](https://github.com/gregoryg/AIPIHKAL) - AI (LLM) Prompts I Have Known And Loved
 - [yingpengma/Awesome-Story-Generation](https://github.com/yingpengma/Awesome-Story-Generation) - This repository collects an extensive list of awesome papers about Story Generation / Storytelling, exclusively focusing on the era of Large Language Models (LLMs).
@@ -3792,7 +3790,7 @@
 - [middleman/middleman](https://github.com/middleman/middleman) - Hand-crafted frontend development
 - [jekyll/jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
 - [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
-- [Terrastories/terrastories](https://github.com/Terrastories/terrastories) - Terrastories is an open-source geostorytelling application for mapping, managing and sharing place-based stories. The application is being co-created with Indigenous and other local communities to col
+- [Terrastories/terrastories](https://github.com/Terrastories/terrastories) - Terrastories is an open-source geostorytelling application for mapping, managing and sharing place-based stories.
 - [sds/scss-lint](https://github.com/sds/scss-lint) - Configurable tool for writing clean, consistent SCSS
 - [itkin/proselytism](https://github.com/itkin/proselytism) - Ruby document converter, text and image extractor using OpenOffice headless server, pdf_tools and net_pbm (RoR engine)
 - [angela-d/resgen](https://github.com/angela-d/resgen) - Keep track of jobs you've applied to, automate resume & cover letter creation; generate PDFs from .odt templates on the fly while scraping the job post and tracking employer status.
@@ -3838,7 +3836,7 @@
 - [bosun-ai/swiftide](https://github.com/bosun-ai/swiftide) - Fast, streaming indexing, query, and agentic LLM applications in Rust
 - [graniet/rllm](https://github.com/graniet/rllm) - Use multiple LLM backends in a single crate, simple builder-based configuration, and built-in prompt chaining & templating.
 - [nix-community/lanzaboote](https://github.com/nix-community/lanzaboote) - Secure Boot & Measured Boot for NixOS [maintainers=@blitz @raitobezarius @nikstur]
-- [zhaofengli/colmena](https://github.com/zhaofengli/colmena) - A simple, stateless NixOS deployment tool
+- [nix-community/colmena](https://github.com/nix-community/colmena) - A simple, stateless NixOS deployment tool
 - [NuxPackage/nux](https://github.com/NuxPackage/nux) - The nux package manager. A wrapper over the nix tools. BETA!!
 - [nix-community/nix-init](https://github.com/nix-community/nix-init) - Generate Nix packages from URLs with hash prefetching, dependency inference, license detection, and more [maintainer=@figsoda]
 - [juspay/omnix](https://github.com/juspay/omnix) - A Nix companion to improve developer experience
