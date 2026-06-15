@@ -400,7 +400,7 @@
 - [nuclearcodecat/shimmer](https://github.com/nuclearcodecat/shimmer) - charming firefox userchrome with sidebery support
 - [amnweb/firefox-plus](https://github.com/amnweb/firefox-plus) - CSS tweaks for Firefox
 - [mimvoid/panefox](https://github.com/mimvoid/panefox) - a little firefox css
-- [yuuqilin/FlexFox](https://github.com/yuuqilin/FlexFox) - A lightweight Firefox theme focused on usability, flexibility, and smooth performance.
+- [yuuqilin/FlexFox](https://github.com/yuuqilin/FlexFox) - A lightweight Firefox userChrome theme designed to optimize screen space without sacrificing accessibility.
 - [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian) - 🕶️ Awesome stuff for Obsidian
 - [Devarth123/dotfiles](https://github.com/Devarth123/dotfiles) - My dotfiles
 - [s7relok/bluRRed-firefox](https://github.com/s7relok/bluRRed-firefox) - A minimal, yet functional Firefox userChrome configuration.
@@ -3440,7 +3440,7 @@
 - [haseeb-heaven/langchain-coder](https://github.com/haseeb-heaven/langchain-coder) - Web Application that can generate code and fix bugs and run using various LLM's (GPT,Gemini,PALM)
 - [friuns2/Leaked-GPTs](https://github.com/friuns2/Leaked-GPTs) - Leaked GPTs Prompts Bypass the 25 message limit or to try out GPTs without a Plus subscription.
 - [h2oai/h2o-llmstudio](https://github.com/h2oai/h2o-llmstudio) - H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs. Documentation: https://docs.h2o.ai/h2o-llmstudio/
-- [AJaySi/ALwrity](https://github.com/AJaySi/ALwrity) - ALwrity - AI-first Digital Marketing Platform. AI Content Strategy and Planning, Multimodal content generation, Publishing, Analytics, AI SEO, Connect & Manage Social Accounts. Marketing OS - WIP
+- [ALwrity/ALwrity](https://github.com/ALwrity/ALwrity) - ALwrity - AI-first Digital Marketing Platform. AI Content Strategy and Planning, Multimodal content generation, Publishing, Analytics, AI SEO, Connect & Manage Social Accounts. Marketing OS - WIP
 - [different-ai/embedbase-ava](https://github.com/different-ai/embedbase-ava) - Obsidian + Embedbase = Ava
 - [gregoryg/AIPIHKAL](https://github.com/gregoryg/AIPIHKAL) - AI (LLM) Prompts I Have Known And Loved
 - [yingpengma/Awesome-Story-Generation](https://github.com/yingpengma/Awesome-Story-Generation) - This repository collects an extensive list of awesome papers about Story Generation / Storytelling, exclusively focusing on the era of Large Language Models (LLMs).
