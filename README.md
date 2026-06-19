@@ -983,6 +983,8 @@
 
 ## JavaScript 
 
+- [tompassarelli/gjoa](https://github.com/tompassarelli/gjoa) - a browser at your command
+- [tortious/Firefox-BlueSteel](https://github.com/tortious/Firefox-BlueSteel) - My current firefox setup on Manjaro KDE Plasma, as of Thanksgiving 2018. Includes .css/as.css/.js/uc.js/xml
 - [Sillyanonymous/SillyTavern-CharacterLibrary](https://github.com/Sillyanonymous/SillyTavern-CharacterLibrary) - A powerful SillyTavern extension for discovering, organizing, and managing your character library with a modern glassmorphic interface.
 - [ZhenyaPav/SillyTavern-Namegen](https://github.com/ZhenyaPav/SillyTavern-Namegen) - 
 - [naueramant/lightdm-webkit-sequoia](https://github.com/naueramant/lightdm-webkit-sequoia) - A simple and elegant lightdm-webkit2-greeter
@@ -1384,7 +1386,7 @@
 - [mvximenko/flat-ui-colors](https://github.com/mvximenko/flat-ui-colors) - Clone of Flat UI Colors
 - [mvximenko/gg](https://github.com/mvximenko/gg) - Game Finder built with Next
 - [mvximenko/rpg-card](https://github.com/mvximenko/rpg-card) - RPG Card Generator based on Magic: The Gathering
-- [justinbrazeau/morning-briefing](https://github.com/justinbrazeau/morning-briefing) - An open source, local browser homepage app - with custom config and widgets
+- [jbrz0/morning-briefing](https://github.com/jbrz0/morning-briefing) - An open source, local browser homepage app - with custom config and widgets
 - [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - Clean Code concepts adapted for JavaScript
 - [AVS1508/AVS1508.github.io](https://github.com/AVS1508/AVS1508.github.io) - Personal Résumé Website developed using ReactJS and Bootstrap and hosted on Github Pages. Displays my web presence, story, work experience, education, projects, achievements, and contact information.
 - [nextapps-de/winbox](https://github.com/nextapps-de/winbox) - WinBox is a modern HTML5 window manager for the Web.
@@ -3061,7 +3063,7 @@
 - [bregman-arie/system-design-notebook](https://github.com/bregman-arie/system-design-notebook) - Learn System Design step by step
 - [nicholasglazer/anarchy-firefox](https://github.com/nicholasglazer/anarchy-firefox) - Anarchy is dark, clean and simple. It's oriented to enhance your web experience by emphasizing important parts to stay focused and at the same time relaxed. This theme is a part of my Linux configurat
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
-- [ShadowWhisperer/IPs](https://github.com/ShadowWhisperer/IPs) - IP block lists for: Malware, Bots, scanners, etc.
+- [ShadowWhisperer/IPs](https://github.com/ShadowWhisperer/IPs) - IP lists for malware, bots, scanners, etc.
 - [stephhappens/awesome-tools-for-junior-developers](https://github.com/stephhappens/awesome-tools-for-junior-developers) - A curated list of popular tools, tips and tricks for aspiring developers.
 - [dypsilon/frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) - Manually curated collection of resources for frontend web developers.
 - [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.
@@ -4523,6 +4525,7 @@
 
 ## TypeScript 
 
+- [tompassarelli/palefox](https://github.com/tompassarelli/palefox) - palefox, an early Firefox customization prototype, superseded by Gjoa
 - [rohitg00/skillkit](https://github.com/rohitg00/skillkit) - Supercharge AI coding agents with portable skills. Install, translate & share skills across Claude Code, Cursor, Codex, Copilot & 40 more
 - [stackmemoryai/stackmemory](https://github.com/stackmemoryai/stackmemory) - Stack memory for context between claude code sessions
 - [tctinh/agent-hive](https://github.com/tctinh/agent-hive) - 
@@ -4551,7 +4554,6 @@
 - [djdembeck/opencode-nanogpt](https://github.com/djdembeck/opencode-nanogpt) - Automated setup scripts for configuring OpenCode with NanoGPT integration, featuring automatic model updates, reasoning model support, and built-in MCP server.
 - [CaviraOSS/OpenMemory](https://github.com/CaviraOSS/OpenMemory) - Local persistent memory store for LLM applications including claude desktop, github copilot, codex, antigravity, etc.
 - [darrenhinde/OpenAgentsControl](https://github.com/darrenhinde/OpenAgentsControl) - AI agent framework for plan-first development workflows with approval-based execution. Multi-language support (TypeScript, Python, Go, Rust) with automatic testing, code review, and validation built f
-- [victor20252025/opencode-config](https://github.com/victor20252025/opencode-config) - 🛠️ Streamline your custom opencode setup with tools for Git state, repo analysis, and task management, enhancing efficiency in your development workflow.
 - [malhashemi/opencode-skills](https://github.com/malhashemi/opencode-skills) - 
 - [R44VC0RP/opencode.cafe](https://github.com/R44VC0RP/opencode.cafe) - A plugin and extension cafe for OpenCode.
 - [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs
