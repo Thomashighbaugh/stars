@@ -983,7 +983,7 @@
 
 ## JavaScript 
 
-- [tompassarelli/gjoa](https://github.com/tompassarelli/gjoa) - a browser at your command
+- [Autonymy/gjoa](https://github.com/Autonymy/gjoa) - A browser at your command
 - [tortious/Firefox-BlueSteel](https://github.com/tortious/Firefox-BlueSteel) - My current firefox setup on Manjaro KDE Plasma, as of Thanksgiving 2018. Includes .css/as.css/.js/uc.js/xml
 - [Sillyanonymous/SillyTavern-CharacterLibrary](https://github.com/Sillyanonymous/SillyTavern-CharacterLibrary) - A powerful SillyTavern extension for discovering, organizing, and managing your character library with a modern glassmorphic interface.
 - [ZhenyaPav/SillyTavern-Namegen](https://github.com/ZhenyaPav/SillyTavern-Namegen) - 
@@ -2172,7 +2172,7 @@
 - [jaypei/hh-awesome](https://github.com/jaypei/hh-awesome) - A framework for Awesome WM config
 - [ArtemSmaznov/dotfiles-awesomewm](https://github.com/ArtemSmaznov/dotfiles-awesomewm) - Extremely customizable window manager written in Lua
 - [ArtemSmaznov/dotfiles](https://github.com/ArtemSmaznov/dotfiles) - A collection of personal dotfiles
-- [macunha1/awesomewm-memory-notifier](https://github.com/macunha1/awesomewm-memory-notifier) - Simple and minimalistic memory (RAM) pop-up notifier for AwesomeWM.
+- [macunha1/awesomewm-memory-notifier](https://github.com/macunha1/awesomewm-memory-notifier) - AwesomeWM simple and minimalistic memory (RAM) pop-up notifier, pure and lightweight Lua implementation
 - [apaulau/awesome-config](https://github.com/apaulau/awesome-config) - Awesome WM config
 - [alfunx/.dotfiles](https://github.com/alfunx/.dotfiles) - There's no place like ~ !
 - [gobolinux/gobo-awesome-screenlock](https://github.com/gobolinux/gobo-awesome-screenlock) - 🗝 A screenlock widget for Awesome WM
@@ -3915,7 +3915,6 @@
 - [evestera/svg-halftone](https://github.com/evestera/svg-halftone) - Tool for converting raster images to SVG halftone patterns
 - [mikeroyal/Linux-Guide](https://github.com/mikeroyal/Linux-Guide) - Linux Guide. Learn about Linux Hardware vendors, Linux in the Cloud, Desktop Environments, Window Mangers, Linux Distributions, Linux Security, Graphics (AMD/NVIDIA/Intel ARC), and Software Apps.
 - [sharkdp/vivid](https://github.com/sharkdp/vivid) - A themeable LS_COLORS generator with a rich filetype datebase
-- [Start9Labs/start-os](https://github.com/Start9Labs/start-os) - A graphical server OS optimized for self-hosting
 - [jamestthompson3/tendril-wiki](https://github.com/jamestthompson3/tendril-wiki) - Personal knowledge management tool
 - [foresterre/imagineer](https://github.com/foresterre/imagineer) - 🦜 Accessible image processing and conversion from the terminal. Front-end for image-rs/image. Formerly 'sic'
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
@@ -4653,7 +4652,7 @@
 - [ajaymahadeven/Genie](https://github.com/ajaymahadeven/Genie) - This a lite version of a chatbot built to test Google's Gemini Models. Built using Next.js 14 & Google's Gemini.
 - [ttttonyhe/ouorz-mono](https://github.com/ttttonyhe/ouorz-mono) - A Monorepo for My ( :earth_asia: Personal Website / :microscope: Academic Profile ) and { Other Related Projects }
 - [remjx/coindrop](https://github.com/remjx/coindrop) - Create a custom webpage for zero-fee payments/donations/tips
-- [bangle-io/bangle-io](https://github.com/bangle-io/bangle-io) - A web only WYSIWYG note taking app that saves notes locally in markdown format. v2: https://staging.app.bangle.io/
+- [bangle-io/bangle-io](https://github.com/bangle-io/bangle-io) - A web only WYSIWYG note taking app that saves notes locally in markdown format. v2: https://app.bangle.io/
 - [redis/ioredis](https://github.com/redis/ioredis) - 🚀 A robust, performance-focused, and full-featured Redis client for Node.js.
 - [uixmat/firestarta](https://github.com/uixmat/firestarta) - Next.js SaaS boilerplate with NextAuth, Prisma, Supabase, Shadcn/ui & Lemon Squeezy Subscriptions
 - [wikibonsai/vscode-tendr](https://github.com/wikibonsai/vscode-tendr) - PKM tooling for semantically inclined digital gardeners (with [[wikirefs]], semantic trees, and graphs).
@@ -4778,6 +4777,7 @@
 - [fand/MDMT](https://github.com/fand/MDMT) - 💊Markdown Document Template💊
 - [pieroproietti/penguins-eggs](https://github.com/pieroproietti/penguins-eggs) - A professional and universal remastering tool for all major distributions
 - [TechSquidTV/Shoutify](https://github.com/TechSquidTV/Shoutify) - An open source, self-hosted, and entirely free solution to social media management.
+- [Start9Labs/start-os](https://github.com/Start9Labs/start-os) - A graphical server OS optimized for self-hosting
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
 - [nrwl/nx](https://github.com/nrwl/nx) - The Monorepo Platform that amplifies both developers and AI agents. Nx optimizes your builds, scales your CI, and fixes failed PRs automatically. Ship in half the time.
 - [LasCC/HackTools](https://github.com/LasCC/HackTools) - The all-in-one browser extension for offensive security professionals 🛠
