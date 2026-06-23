@@ -351,6 +351,7 @@
 
 ## CSS 
 
+- [JustAdumbPrsn/Zen-Nebula](https://github.com/JustAdumbPrsn/Zen-Nebula) - A minimalist Glassmorphism based theme to elevate the UI of Zen browser
 - [sirlan-ff00ff/arcticfox-theme](https://github.com/sirlan-ff00ff/arcticfox-theme) - a theme for Firefox (and sidebery) to make it look and somewhat behave like Arc
 - [Awethon/lightdm-web-corporate-glassmorphism](https://github.com/Awethon/lightdm-web-corporate-glassmorphism) - Corporate Glassmorphism Theme for LightDM-based Web Greeters
 - [surjithctly/documentation-html-template](https://github.com/surjithctly/documentation-html-template) - A Sample Documentation Template for Themes, Templates and Plugins
@@ -983,6 +984,8 @@
 
 ## JavaScript 
 
+- [adamhlt/Zen-SnapBack](https://github.com/adamhlt/Zen-SnapBack) - Zen-SnapBack: lightweight mod for Zen Browser, allowing you to instantly reset any pinned tab with a simple double-click.
+- [torvic9/plasmafox](https://github.com/torvic9/plasmafox) - Plasmafox web browser
 - [SillyTavern/SillyTavern-GreetingTools](https://github.com/SillyTavern/SillyTavern-GreetingTools) - A complete overhaul of greeting management in SillyTavern. Organize your character greetings with titles, descriptions, and AI-powered generation via redesigned popup and an inline chat selector.
 - [leandrojofre/SillyTavern-WI-Bulk-Mover](https://github.com/leandrojofre/SillyTavern-WI-Bulk-Mover) - This is a simple extension that allows you to clone WI entries from one lorebook into another.
 - [Autonymy/gjoa](https://github.com/Autonymy/gjoa) - A browser at your command
