@@ -249,7 +249,6 @@
 - [baskerville/xtitle](https://github.com/baskerville/xtitle) - Outputs X window titles
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [klange/toaruos](https://github.com/klange/toaruos) - Complete, independent operating system built by humans.
-- [mklan/dotfiles](https://github.com/mklan/dotfiles) - GNU/Linux system configuration
 - [bfabiszewski/libmobi](https://github.com/bfabiszewski/libmobi) - C library for handling Kindle (MOBI) formats of ebook documents
 - [jedisct1/dsvpn](https://github.com/jedisct1/dsvpn) - A Dead Simple VPN.
 - [christophgysin/pasystray](https://github.com/christophgysin/pasystray) - PulseAudio system tray
@@ -391,7 +390,7 @@
 - [Eryoneta/Firefox-Scripts](https://github.com/Eryoneta/Firefox-Scripts) - Scripts to improve Firefox user experience
 - [PapirusDevelopmentTeam/firefox-papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/firefox-papirus-icon-theme) - Papirus icons for Firefox
 - [sinazadeh/Firefox-Moonlight-Theme](https://github.com/sinazadeh/Firefox-Moonlight-Theme) - 
-- [datguypiko/Firefox-Mod-Blur](https://github.com/datguypiko/Firefox-Mod-Blur) - Firefox CSS Theme - For dark theme lovers / More compact / Modular / Blur
+- [datguypiko/Firefox-Mod-Blur](https://github.com/datguypiko/Firefox-Mod-Blur) - Firefox CSS Theme - Dark theme / More compact / Modular / Blur
 - [Guerra24/Firefox-UWP-Style](https://github.com/Guerra24/Firefox-UWP-Style) - Sun Valley + MDL2 Theme for Firefox
 - [Neikon/Fox11](https://github.com/Neikon/Fox11) - 
 - [APKUtils/piracyops](https://github.com/APKUtils/piracyops) - 
@@ -799,6 +798,7 @@
 
 ## HTML 
 
+- [caliwyr/Software](https://github.com/caliwyr/Software) - Sofware Tools 👻
 - [vava-nessa/free-coding-models](https://github.com/vava-nessa/free-coding-models) - Find, benchmark and install in CLI 170+ FREE coding LLM models across 15+ providers in real time
 - [angelo-v/opencode-playground](https://github.com/angelo-v/opencode-playground) - This repository is just me messing around with OpenCode and exploring what it can do.
 - [5nacks/OSINTBookmarks](https://github.com/5nacks/OSINTBookmarks) - OSINT Bookmarks for Firefox / Chrome / Edge / Safari
@@ -984,6 +984,9 @@
 
 ## JavaScript 
 
+- [rustyorb/SillyTavern-QRBuilder](https://github.com/rustyorb/SillyTavern-QRBuilder) - AI-powered STscript Quick Reply builder for SillyTavern — generate, edit, and export QR scripts with an LLM brain
+- [rhubarbshoelaces/firefox-scripts](https://github.com/rhubarbshoelaces/firefox-scripts) - Custom Firefox buttons and other useful uc.js scripts
+- [John2022/firefox-auto-hide-toolbars](https://github.com/John2022/firefox-auto-hide-toolbars) - UserChromeJS/userChrome.css package that adds a Firefox toolbar button to auto-hide browser toolbars, with Ctrl+F11 shortcut and Tools menu entry.
 - [adamhlt/Zen-SnapBack](https://github.com/adamhlt/Zen-SnapBack) - Zen-SnapBack: lightweight mod for Zen Browser, allowing you to instantly reset any pinned tab with a simple double-click.
 - [torvic9/plasmafox](https://github.com/torvic9/plasmafox) - Plasmafox web browser
 - [SillyTavern/SillyTavern-GreetingTools](https://github.com/SillyTavern/SillyTavern-GreetingTools) - A complete overhaul of greeting management in SillyTavern. Organize your character greetings with titles, descriptions, and AI-powered generation via redesigned popup and an inline chat selector.
@@ -3252,6 +3255,7 @@
 
 ## Python 
 
+- [nickclyde/duckduckgo-mcp-server](https://github.com/nickclyde/duckduckgo-mcp-server) - A Model Context Protocol (MCP) server that provides web search capabilities through DuckDuckGo, with additional features for content fetching and parsing.
 - [athypes/lenovo-legion-t5-26irb8-bios-unlock](https://github.com/athypes/lenovo-legion-t5-26irb8-bios-unlock) - Unlock advanced OC and hidden BIOS menus on the Lenovo Legion T5 26IRB8 (Type 90UT). Enables memory, CPU, and GPU overclocking for applicable hardware.
 - [unicode-org/last-resort-font](https://github.com/unicode-org/last-resort-font) - Last Resort Font
 - [diegosouzapw/awesome-omni-skills](https://github.com/diegosouzapw/awesome-omni-skills) - Public repository of AI coding skills, curated improved best-practice skills, and runtime surfaces for CLI, API, MCP, and A2A.
@@ -4973,6 +4977,7 @@
 - [sainnhe/everforest](https://github.com/sainnhe/everforest) - 🌲 Comfortable & Pleasant Color Scheme for Vim
 - [Thomashighbaugh/base16-vice-scheme](https://github.com/Thomashighbaugh/base16-vice-scheme) - A color scheme for base16 enabling the use of blues on dark screens without eye pain, inspired by Miami Vice and used extensively in my dotfiles and elsewhere.
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
+- [mklan/dotfiles](https://github.com/mklan/dotfiles) - GNU/Linux system configuration
 
 ## Vim Snippet 
 
