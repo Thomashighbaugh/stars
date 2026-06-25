@@ -984,6 +984,7 @@
 
 ## JavaScript 
 
+- [Adam-Yung/link-previewer](https://github.com/Adam-Yung/link-previewer) - 
 - [rustyorb/SillyTavern-QRBuilder](https://github.com/rustyorb/SillyTavern-QRBuilder) - AI-powered STscript Quick Reply builder for SillyTavern — generate, edit, and export QR scripts with an LLM brain
 - [rhubarbshoelaces/firefox-scripts](https://github.com/rhubarbshoelaces/firefox-scripts) - Custom Firefox buttons and other useful uc.js scripts
 - [John2022/firefox-auto-hide-toolbars](https://github.com/John2022/firefox-auto-hide-toolbars) - UserChromeJS/userChrome.css package that adds a Firefox toolbar button to auto-hide browser toolbars, with Ctrl+F11 shortcut and Tools menu entry.
