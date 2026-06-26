@@ -3494,6 +3494,7 @@
 - [Nick-Gottschlich/Social-Amnesia](https://github.com/Nick-Gottschlich/Social-Amnesia) - Forget the past. Social Amnesia makes sure your social media accounts only show your posts from recent history, not from "that phase" 5 years ago.
 - [D4rk5t0rM/GTP-TextGen](https://github.com/D4rk5t0rM/GTP-TextGen) - Generate text (trying to make an AI write a book)
 - [christiandarkin/Creative-Writers-Toolkit](https://github.com/christiandarkin/Creative-Writers-Toolkit) - Use gpt3 to brainstorm ideas for long form fiction (novels, screenplays, etc.)
+- [earthonion/ChatGPT-Book-Generator](https://github.com/earthonion/ChatGPT-Book-Generator) - Input any book title and it will generate a full book in PDF format.
 - [mikavehns/BookGPT](https://github.com/mikavehns/BookGPT) - Writes complete books with given paramters, using GPT-3.
 - [fdtory/FictionGPT](https://github.com/fdtory/FictionGPT) - Write fiction stories with given parameters, using GPT-3,5
 - [malob/nix-config](https://github.com/malob/nix-config) - My Nix system configs!
