@@ -984,6 +984,7 @@
 
 ## JavaScript 
 
+- [mokimoko/SillyTavern-ScenarioCrafter](https://github.com/mokimoko/SillyTavern-ScenarioCrafter) - a SillyTavern extension that has a variety of scenarios you can play with
 - [matheuss/parrotsay](https://github.com/matheuss/parrotsay) - ✨🐦 The Party Parrot on your terminal 🐦✨
 - [Adam-Yung/link-previewer](https://github.com/Adam-Yung/link-previewer) - 
 - [rustyorb/SillyTavern-QRBuilder](https://github.com/rustyorb/SillyTavern-QRBuilder) - AI-powered STscript Quick Reply builder for SillyTavern — generate, edit, and export QR scripts with an LLM brain
@@ -1291,7 +1292,7 @@
 - [nypublicradio/audiogram](https://github.com/nypublicradio/audiogram) - Turn audio into a shareable video.
 - [overdodactyl/ShadowFox](https://github.com/overdodactyl/ShadowFox) - A universal dark theme for Firefox
 - [WebPraktikos/universal-resume](https://github.com/WebPraktikos/universal-resume) - Minimal and formal résumé (CV) website template for print, mobile, and desktop.
-- [sandstorm-io/sandstorm](https://github.com/sandstorm-io/sandstorm) - Sandstorm is a self-hostable web productivity suite. It's implemented as a security-hardened web app package manager. | Actively sponsored by our friends at TestMu AI
+- [sandstorm-io/sandstorm](https://github.com/sandstorm-io/sandstorm) - Sandstorm is a self-hostable web productivity suite. It's implemented as a security-hardened web app package manager.
 - [darktrojan/newtabtools](https://github.com/darktrojan/newtabtools) - New Tab Tools add-on for Firefox and Chrome
 - [socioboard/Socioboard-5.0](https://github.com/socioboard/Socioboard-5.0) - Socioboard is world's first and open source Social Technology Enabler. Socioboard Core is our flagship product.
 - [FirefoxBar/WebExt-build-tool](https://github.com/FirefoxBar/WebExt-build-tool) - A tool to build webextension
@@ -3257,6 +3258,7 @@
 
 ## Python 
 
+- [Mehliug-git/Wifi-Mass-DeAuth](https://github.com/Mehliug-git/Wifi-Mass-DeAuth) - A little script for DeAuth everyone on all wifi arround you  & capture the password hash !
 - [nickclyde/duckduckgo-mcp-server](https://github.com/nickclyde/duckduckgo-mcp-server) - A Model Context Protocol (MCP) server that provides web search capabilities through DuckDuckGo, with additional features for content fetching and parsing.
 - [athypes/lenovo-legion-t5-26irb8-bios-unlock](https://github.com/athypes/lenovo-legion-t5-26irb8-bios-unlock) - Unlock advanced OC and hidden BIOS menus on the Lenovo Legion T5 26IRB8 (Type 90UT). Enables memory, CPU, and GPU overclocking for applicable hardware.
 - [unicode-org/last-resort-font](https://github.com/unicode-org/last-resort-font) - Last Resort Font
@@ -4018,6 +4020,8 @@
 
 ## Shell 
 
+- [3xploitGuy/lazyaircrack](https://github.com/3xploitGuy/lazyaircrack) - Automated tool for WiFi hacking.
+- [jameshskoh/Lenovo-Linux-Conservation-Mode](https://github.com/jameshskoh/Lenovo-Linux-Conservation-Mode) - Scripts for Lenovo laptops running Linux to enable/disable Conservation Mode via TLP.
 - [katsulul/Snowfox](https://github.com/katsulul/Snowfox) - A private, patch-based web browser built on Firefox
 - [simontrost/RetroPunk](https://github.com/simontrost/RetroPunk) - RetroPunk Grub Theme
 - [TaylanTatli/Sevi](https://github.com/TaylanTatli/Sevi) - 🎨 A colorful design icon theme based on Reversal.
@@ -4538,6 +4542,7 @@
 
 ## TypeScript 
 
+- [paradox460/ST-MessageSplit](https://github.com/paradox460/ST-MessageSplit) - Split and Merge SillyTavern messages at will
 - [tompassarelli/palefox](https://github.com/tompassarelli/palefox) - palefox, an early Firefox customization prototype, superseded by Gjoa
 - [rohitg00/skillkit](https://github.com/rohitg00/skillkit) - Supercharge AI coding agents with portable skills. Install, translate & share skills across Claude Code, Cursor, Codex, Copilot & 40 more
 - [stackmemoryai/stackmemory](https://github.com/stackmemoryai/stackmemory) - Stack memory for context between claude code sessions
