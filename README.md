@@ -1934,6 +1934,7 @@
 - [serhez/dotfiles](https://github.com/serhez/dotfiles) - Configuration of my working environment.
 - [senchpimy/awesomewmconfig](https://github.com/senchpimy/awesomewmconfig) - 
 - [magalhaesh/awesome](https://github.com/magalhaesh/awesome) - My AwesomeWM configuration. Tried i3 but didn't like it, sorry.
+- [ragu-manjegowda/config](https://github.com/ragu-manjegowda/config) - Profile Management with Git and Github
 - [JimmyCozza/bling](https://github.com/JimmyCozza/bling) - Utilities for the awesome window manager
 - [nivalderramas/awesome-config](https://github.com/nivalderramas/awesome-config) - Config files for awesomeWM
 - [nivalderramas/dotfiles_old](https://github.com/nivalderramas/dotfiles_old) - Personal dotfiles
@@ -2365,7 +2366,7 @@
 - [ALH477/Oligarchy](https://github.com/ALH477/Oligarchy) - Oligarchy NixOS is a custom NixOS distribution with CachyOS' BORE or Zen kernel. This distribution is made for power users who need peak performance. This distribution is my daily driver which allows 
 - [Maroka-chan/NixOS-config](https://github.com/Maroka-chan/NixOS-config) - 
 - [otaleghani/prism](https://github.com/otaleghani/prism) - A fully configured, stable-by-design, opinionated Linux. Powered by Nix. Refracts your system into isolated personas (Dev, Gamer, Custom) with atomic updates.
-- [akibahmed229/nixos](https://github.com/akibahmed229/nixos) - My NixOS Configuration
+- [akibahmed229/nixos](https://github.com/akibahmed229/nixos) - NixOS Infrastructure & Declarative System Automation
 - [AniviaFlome/nix-config](https://github.com/AniviaFlome/nix-config) - My Nixos Config
 - [SeniorMatt/Matthew-s-NixOS](https://github.com/SeniorMatt/Matthew-s-NixOS) - My NixOS configuration
 - [polygon/scalpel](https://github.com/polygon/scalpel) - Minimally invasive safe secret provisioning to Nix-generated service config files
@@ -3930,6 +3931,7 @@
 - [evestera/svg-halftone](https://github.com/evestera/svg-halftone) - Tool for converting raster images to SVG halftone patterns
 - [mikeroyal/Linux-Guide](https://github.com/mikeroyal/Linux-Guide) - Linux Guide. Learn about Linux Hardware vendors, Linux in the Cloud, Desktop Environments, Window Mangers, Linux Distributions, Linux Security, Graphics (AMD/NVIDIA/Intel ARC), and Software Apps.
 - [sharkdp/vivid](https://github.com/sharkdp/vivid) - A themeable LS_COLORS generator with a rich filetype datebase
+- [Start9Labs/start-technologies](https://github.com/Start9Labs/start-technologies) - A graphical server OS optimized for self-hosting
 - [jamestthompson3/tendril-wiki](https://github.com/jamestthompson3/tendril-wiki) - Personal knowledge management tool
 - [foresterre/imagineer](https://github.com/foresterre/imagineer) - 🦜 Accessible image processing and conversion from the terminal. Front-end for image-rs/image. Formerly 'sic'
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
@@ -4022,7 +4024,7 @@
 
 - [3xploitGuy/lazyaircrack](https://github.com/3xploitGuy/lazyaircrack) - Automated tool for WiFi hacking.
 - [jameshskoh/Lenovo-Linux-Conservation-Mode](https://github.com/jameshskoh/Lenovo-Linux-Conservation-Mode) - Scripts for Lenovo laptops running Linux to enable/disable Conservation Mode via TLP.
-- [katsulul/Snowfox](https://github.com/katsulul/Snowfox) - A private, patch-based web browser built on Firefox
+- [katsulul/astolfo](https://github.com/katsulul/astolfo) - A private, patch-based web browser built on Firefox
 - [simontrost/RetroPunk](https://github.com/simontrost/RetroPunk) - RetroPunk Grub Theme
 - [TaylanTatli/Sevi](https://github.com/TaylanTatli/Sevi) - 🎨 A colorful design icon theme based on Reversal.
 - [sasawat/firefox-ctrl-q-workaround](https://github.com/sasawat/firefox-ctrl-q-workaround) - Disable Ctrl Q on Firefox Quantum on Linux! A workaround for Firefox Quantum breaking CtrlQ Disable Extensions on Linux.
@@ -4186,7 +4188,6 @@
 - [faisyl/alpine-runit](https://github.com/faisyl/alpine-runit) - Repo for the docker image of the same name.
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 - [lincheney/fzf-tab-completion](https://github.com/lincheney/fzf-tab-completion) - Tab completion using fzf
-- [ragu-manjegowda/config](https://github.com/ragu-manjegowda/config) - Profile Management with Git and Github
 - [suru-plus/suru-plus-aspromauros](https://github.com/suru-plus/suru-plus-aspromauros) - A Suru++-like monochromatic icons theme for users of dark environments
 - [Git-Fal7/artix-buildiso](https://github.com/Git-Fal7/artix-buildiso) - my buildisos for artix linux
 - [dovahkiin0424/artix-install](https://github.com/dovahkiin0424/artix-install) - Simple artix linux installer script. Just clone it and run the .sh file
@@ -4548,7 +4549,6 @@
 - [stackmemoryai/stackmemory](https://github.com/stackmemoryai/stackmemory) - Stack memory for context between claude code sessions
 - [tctinh/agent-hive](https://github.com/tctinh/agent-hive) - 
 - [timrichardson/opencode-btw](https://github.com/timrichardson/opencode-btw) - OpenCode TUI plugin for /btw side sessions and popup by-the-way workflows
-- [coasty-ai/open-computer-use](https://github.com/coasty-ai/open-computer-use) - State of the Art 82% OSWorld Computer Using Agent, production-ready. Remote and Local! Setup using one API Key
 - [Thomashighbaugh/opencode](https://github.com/Thomashighbaugh/opencode) - opencode w/ multiple orchestration frameworks via nested subcommands
 - [yadav-prakhar/opencode-senate](https://github.com/yadav-prakhar/opencode-senate) - Auto agent orchestrator framework for Opencode
 - [0xkuze/add-dir-opencode](https://github.com/0xkuze/add-dir-opencode) - the add-dir command from claude code  but for opencode
@@ -4795,7 +4795,6 @@
 - [fand/MDMT](https://github.com/fand/MDMT) - 💊Markdown Document Template💊
 - [pieroproietti/penguins-eggs-legacy](https://github.com/pieroproietti/penguins-eggs-legacy) - A professional and universal remastering tool for all major distributions
 - [TechSquidTV/Shoutify](https://github.com/TechSquidTV/Shoutify) - An open source, self-hosted, and entirely free solution to social media management.
-- [Start9Labs/start-os](https://github.com/Start9Labs/start-os) - A graphical server OS optimized for self-hosting
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
 - [nrwl/nx](https://github.com/nrwl/nx) - The Monorepo Platform that amplifies both developers and AI agents. Nx optimizes your builds, scales your CI, and fixes failed PRs automatically. Ship in half the time.
 - [LasCC/HackTools](https://github.com/LasCC/HackTools) - The all-in-one browser extension for offensive security professionals 🛠
