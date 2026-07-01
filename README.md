@@ -585,7 +585,7 @@
 - [jepsen-io/maelstrom](https://github.com/jepsen-io/maelstrom) - A workbench for writing toy implementations of distributed systems.
 - [Flexiana/notion-to-md](https://github.com/Flexiana/notion-to-md) - A tool for fetching Notion page trees, written in Clojure.
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://logseq.io/p/NX4mc_ggEV
-- [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
+- [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design platform for Product teams that need scalable collaboration.
 - [mswift42/themecreator](https://github.com/mswift42/themecreator) - https://mswift42.github.io/themecreator/ create themes for intellij, textmate, textadept, atom, emacs, vim and gnome terminal.
 
 ## CoffeeScript 
@@ -1213,7 +1213,6 @@
 - [halfmage/pixelarticons](https://github.com/halfmage/pixelarticons) - 👾 Beautiful pixel icons. For the pixel vibes.
 - [CoreyGinnivan/system-uicons](https://github.com/CoreyGinnivan/system-uicons) - System UIcons is an icon library design for systems and products. Use how you want, without attribution.
 - [artcoholic/akar-icons](https://github.com/artcoholic/akar-icons) - Akar icons library as React components.
-- [praveenjuge/mynaui-icons](https://github.com/praveenjuge/mynaui-icons) - Beautifully crafted open source icons from Myna UI.
 - [astrit/css.gg](https://github.com/astrit/css.gg) - 700+ Pure CSS, SVG & Figma UI Icons, 6000+ glyphs, patterns, colors and layouts.
 - [osamajavaid/portfolio](https://github.com/osamajavaid/portfolio) - open source portfolio, made with Nextjs and tailwindcss
 - [mleoking/PromptAppGPT](https://github.com/mleoking/PromptAppGPT) - A rapid prompt app development framework based on GPT
@@ -1694,6 +1693,7 @@
 - [there4/markdown-resume](https://github.com/there4/markdown-resume) - Generate a responsive CSS3 and HTML5 resume with Markdown, with optional PDF output.
 - [kenangundogan/fontisto](https://github.com/kenangundogan/fontisto) - The iconic font and CSS toolkit. Fontisto gives you scalable vector icons that can instantly be customized: size, color, drop shadow and anything that can be done with the power of CSS.
 - [Remix-Design/RemixIcon](https://github.com/Remix-Design/RemixIcon) - Open source neutral style icon system
+- [praveenjuge/mynaui-icons](https://github.com/praveenjuge/mynaui-icons) - Beautifully crafted open source icons from Myna UI.
 - [edurbrito/markdown-notes](https://github.com/edurbrito/markdown-notes) - Templates for your Note Taking Markdown Workflow
 
 ## Lua 
@@ -2745,6 +2745,7 @@
 
 ## Others 
 
+- [panamaniancetus44/arborist.nvim](https://github.com/panamaniancetus44/arborist.nvim) - Manage tree-sitter parsers automatically with WASM support for Neovim 0.12+. Eliminate manual installation and maintenance.
 - [digitalygo/opencode-setup](https://github.com/digitalygo/opencode-setup) - Enterprise-grade Opencode configuration for Digitalygo teams. Shared prompts, agents, and workspace settings for AI-assisted development
 - [Purp1eDuck2008/Liquid-GRUB](https://github.com/Purp1eDuck2008/Liquid-GRUB) - Liquid Glass GRUB
 - [maxtron95/pixie-icon-theme](https://github.com/maxtron95/pixie-icon-theme) - Tile-based icon theme for Linux
@@ -3259,6 +3260,7 @@
 
 ## Python 
 
+- [JackerManXD/SearchXXX_Bot](https://github.com/JackerManXD/SearchXXX_Bot) - Este repositorio contiene un bot de Telegram construido con Python que permite a los usuarios buscar y obtener metadatos de videos en xnxx.com. El bot utiliza BeautifulSoup para realizar web scraping 
 - [Mehliug-git/Wifi-Mass-DeAuth](https://github.com/Mehliug-git/Wifi-Mass-DeAuth) - A little script for DeAuth everyone on all wifi arround you  & capture the password hash !
 - [nickclyde/duckduckgo-mcp-server](https://github.com/nickclyde/duckduckgo-mcp-server) - A Model Context Protocol (MCP) server that provides web search capabilities through DuckDuckGo, with additional features for content fetching and parsing.
 - [athypes/lenovo-legion-t5-26irb8-bios-unlock](https://github.com/athypes/lenovo-legion-t5-26irb8-bios-unlock) - Unlock advanced OC and hidden BIOS menus on the Lenovo Legion T5 26IRB8 (Type 90UT). Enables memory, CPU, and GPU overclocking for applicable hardware.
@@ -3832,7 +3834,7 @@
 - [alexpasmantier/television](https://github.com/alexpasmantier/television) - A very fast, portable and hackable fuzzy finder.
 - [deadnews/imgup](https://github.com/deadnews/imgup) - Upload images via APIs
 - [rustybucket-cloud/tarantula](https://github.com/rustybucket-cloud/tarantula) - 
-- [BoundaryML/baml](https://github.com/BoundaryML/baml) - The AI framework that adds the engineering to prompt engineering (Python/TS/Ruby/Java/C#/Rust/Go compatible)
+- [BoundaryML/baml](https://github.com/BoundaryML/baml) - The programming language for agents
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 - [nferhat/fht-compositor](https://github.com/nferhat/fht-compositor) - A dynamic tiling Wayland compositor.
 - [replit/rippkgs](https://github.com/replit/rippkgs) - A CLI for indexing and searching packages in Nix expressions
@@ -3855,7 +3857,7 @@
 - [graniet/rllm](https://github.com/graniet/rllm) - Use multiple LLM backends in a single crate, simple builder-based configuration, and built-in prompt chaining & templating.
 - [nix-community/lanzaboote](https://github.com/nix-community/lanzaboote) - Secure Boot & Measured Boot for NixOS [maintainers=@blitz @raitobezarius @nikstur]
 - [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A lightweight coding agent for open models like Deepseek, Kimi, and Qwen
-- [nix-community/colmena](https://github.com/nix-community/colmena) - A simple, stateless NixOS deployment tool
+- [nix-community/colmena](https://github.com/nix-community/colmena) - A simple, stateless NixOS deployment tool [maintainer=@zhaofengli, @stepbrobd, @NickCao]
 - [NuxPackage/nux](https://github.com/NuxPackage/nux) - The nux package manager. A wrapper over the nix tools. BETA!!
 - [nix-community/nix-init](https://github.com/nix-community/nix-init) - Generate Nix packages from URLs with hash prefetching, dependency inference, license detection, and more [maintainer=@figsoda]
 - [juspay/omnix](https://github.com/juspay/omnix) - A Nix companion to improve developer experience
