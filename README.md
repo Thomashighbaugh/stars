@@ -2315,7 +2315,6 @@
 
 ## Makefile 
 
-- [5kahoisaac/opencode-configs](https://github.com/5kahoisaac/opencode-configs) - Personal configs of OpenCode, including agents, skills, commands and plugins
 - [Kartones/cyoa-epub](https://github.com/Kartones/cyoa-epub) - Choose Your Own Adventure Epub Gamebook
 - [jp-fosterson/pandoc-novel](https://github.com/jp-fosterson/pandoc-novel) - Markdown text to a novel in ePub and PDF.
 - [tammymakesthings/markdown-ebook-template](https://github.com/tammymakesthings/markdown-ebook-template) - Template for creating books (ebook and paper) from Markdown files
@@ -2691,7 +2690,7 @@
 - [gytis-ivaskevicius/flake-utils-plus](https://github.com/gytis-ivaskevicius/flake-utils-plus) - Use Nix flakes without any fluff.
 - [LudovicoPiero/dotfiles](https://github.com/LudovicoPiero/dotfiles) - NixOS Configuration powered by flake-parts ❄️
 - [moni-dz/nixpkgs-f2k](https://github.com/moni-dz/nixpkgs-f2k) - my personal package repository (binary cache included!)
-- [Misterio77/nix-config](https://github.com/Misterio77/nix-config) - Personal nixos and home-manager configurations.
+- [Misterio77/Foundry](https://github.com/Misterio77/Foundry) - Personal monorepo. NixOS+home-manager configs, website, and other projects.
 - [mrkuz/nixos](https://github.com/mrkuz/nixos) - My NixOS configuration.
 - [justinwoo/nix-shorts](https://github.com/justinwoo/nix-shorts) - A collection of short notes about Nix, down to what is immediately needed for users.
 - [adomixaszvers/dotfiles-nix](https://github.com/adomixaszvers/dotfiles-nix) - 
@@ -2814,7 +2813,7 @@
 - [lfnovo/open-notebook-boilerplate](https://github.com/lfnovo/open-notebook-boilerplate) - 
 - [joonspk-research/generative_agents](https://github.com/joonspk-research/generative_agents) - Generative Agents: Interactive Simulacra of Human Behavior
 - [martonlederer/old-profile-readme](https://github.com/martonlederer/old-profile-readme) - Please star too, don't just fork
-- [proxifly/free-proxy-list](https://github.com/proxifly/free-proxy-list) - 🚀 Free HTTP, SOCKS4, & SOCKS5 Proxy List * Updated every 5 minutes *
+- [proxifly/free-proxy-list](https://github.com/proxifly/free-proxy-list) - a free rotating proxy API with tested HTTPS and SOCKS5 proxies from 100+ countries
 - [erikgrinaker/readings](https://github.com/erikgrinaker/readings) - Interesting readings and talks on computer science
 - [isabellawilson2110rc/AI-Story-Generator](https://github.com/isabellawilson2110rc/AI-Story-Generator) - AI Story Generator: Revolutionizing Creative Writing in 2025
 - [DevNambi/personal-wiki](https://github.com/DevNambi/personal-wiki) - Code to create a personal wiki
@@ -3217,7 +3216,6 @@
 - [numixproject/numix-icon-theme](https://github.com/numixproject/numix-icon-theme) - Official base icon theme from the Numix project.
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [FAQGURU/FAQGURU](https://github.com/FAQGURU/FAQGURU) - :school_satchel: :rocket: :tada: A list of interview questions. This repository is everything you need to prepare for your technical interview.
-- [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [pim-book/exercises](https://github.com/pim-book/exercises) - Solutions, discussions, and approaches to the exercises
 - [numixproject/numix-icon-theme-square](https://github.com/numixproject/numix-icon-theme-square) - Linux packaging for Numix Square
 - [milanaryal/web-development-resources](https://github.com/milanaryal/web-development-resources) - A list of open source front-end tools and resources for web designers and developers.
@@ -3273,13 +3271,13 @@
 - [unicode-org/last-resort-font](https://github.com/unicode-org/last-resort-font) - Last Resort Font
 - [diegosouzapw/awesome-omni-skills](https://github.com/diegosouzapw/awesome-omni-skills) - Public repository of AI coding skills, curated improved best-practice skills, and runtime surfaces for CLI, API, MCP, and A2A.
 - [MarothyDavid/md-hierarchy](https://github.com/MarothyDavid/md-hierarchy) - 📂 Split and merge markdown files into structured folders, preserving all elements and handling edge cases for easy navigation and organization.
-- [FrancoStino/opencode-skills-collection](https://github.com/FrancoStino/opencode-skills-collection) - OpenCode plugin that automatically downloads and keeps Skills up to date
 - [softaworks/agent-toolkit](https://github.com/softaworks/agent-toolkit) - A curated collection of skills for AI coding agents. Skills are packaged instructions and scripts that extend agent capabilities across development, documentation, planning, and professional workflows
 - [ECNU-ICALK/AutoSkill](https://github.com/ECNU-ICALK/AutoSkill) - AutoSkill: Experience-Driven Lifelong Learning via Skill Self-Evolution
 - [Prat011/awesome-llm-skills](https://github.com/Prat011/awesome-llm-skills) - A curated list of awesome LLM and AI Agent Skills, resources and tools for customising AI Agent workflows - that works with Claude Code, Codex, Gemini CLI and your custom AI Agents
 - [foryourhealth111-pixel/Vibe-Skills](https://github.com/foryourhealth111-pixel/Vibe-Skills) - Vibe-Skills is an all-in-one AI skills package. It seamlessly integrates expert-level capabilities and context management into a general-purpose skills package， enabling any AI agent to instantly upgr
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [gotar/opencode-config](https://github.com/gotar/opencode-config) - OpenCode AI configuration with specialized agents, commands, context standards, and skills
+- [5kahoisaac/opencode-configs](https://github.com/5kahoisaac/opencode-configs) - Personal configs of OpenCode, including agents, skills, commands and plugins
 - [muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) - A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effe
 - [openai/skills](https://github.com/openai/skills) - Skills Catalog for Codex
 - [djacu/nixos-on-zfs](https://github.com/djacu/nixos-on-zfs) - A collection of setup scripts for installing nixOS on my work laptop.
@@ -3756,6 +3754,7 @@
 - [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
 - [cmoscardi/lilite](https://github.com/cmoscardi/lilite) - Lilite: A Linux package installer
 - [scottslowe/learning-tools](https://github.com/scottslowe/learning-tools) - A collection of tools and files for learning new technologies
+- [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [deepgram/kur](https://github.com/deepgram/kur) - Descriptive Deep Learning
 - [linuxmint/mint-y-icons](https://github.com/linuxmint/mint-y-icons) - The Mint-Y icon theme
 - [snwh/suru-icon-theme](https://github.com/snwh/suru-icon-theme) - The source of the Suru icon and cursor set
@@ -4553,6 +4552,7 @@
 
 ## TypeScript 
 
+- [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 - [paradox460/ST-MessageSplit](https://github.com/paradox460/ST-MessageSplit) - Split and Merge SillyTavern messages at will
 - [tompassarelli/palefox](https://github.com/tompassarelli/palefox) - palefox, an early Firefox customization prototype, superseded by Gjoa
 - [rohitg00/skillkit](https://github.com/rohitg00/skillkit) - Supercharge AI coding agents with portable skills. Install, translate & share skills across Claude Code, Cursor, Codex, Copilot & 40 more
@@ -4560,6 +4560,7 @@
 - [tctinh/agent-hive](https://github.com/tctinh/agent-hive) - 
 - [timrichardson/opencode-btw](https://github.com/timrichardson/opencode-btw) - OpenCode TUI plugin for /btw side sessions and popup by-the-way workflows
 - [Thomashighbaugh/opencode](https://github.com/Thomashighbaugh/opencode) - opencode w/ multiple orchestration frameworks via nested subcommands
+- [FrancoStino/opencode-skills-collection](https://github.com/FrancoStino/opencode-skills-collection) - OpenCode plugin that automatically downloads and keeps Skills up to date
 - [yadav-prakhar/opencode-senate](https://github.com/yadav-prakhar/opencode-senate) - Auto agent orchestrator framework for Opencode
 - [0xkuze/add-dir-opencode](https://github.com/0xkuze/add-dir-opencode) - the add-dir command from claude code  but for opencode
 - [Mte90/opencode-auto-resume](https://github.com/Mte90/opencode-auto-resume) - OpenCode stops working if a model goes in timeout or there are errors, this plugin fixes those issues
