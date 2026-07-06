@@ -678,6 +678,7 @@
 
 ## Go 
 
+- [anomalyco/opencode-sdk-go](https://github.com/anomalyco/opencode-sdk-go) - 
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
 - [CodingWithEnjoy/TeleFeed](https://github.com/CodingWithEnjoy/TeleFeed) - A Go application that fetches posts from public Telegram channels and exports them as structured JSON files with automatic GitHub Actions integration.
 - [Nomadcxx/sysc-greet](https://github.com/Nomadcxx/sysc-greet) - A tui greeter (not built in rust)
@@ -985,6 +986,8 @@
 
 ## JavaScript 
 
+- [Agent-Pattern-Labs/JobForge](https://github.com/Agent-Pattern-Labs/JobForge) - AI-powered job search automation — evaluate offers, generate ATS-optimized CVs, scan portals, negotiate, and track applications. One config drives OpenCode, Cursor, Claude Code, and Codex. Free end-to
+- [JeroTan/novel-writer-english](https://github.com/JeroTan/novel-writer-english) - A copy of "novel-writer" skill but translated in English.
 - [ntcho/minfox](https://github.com/ntcho/minfox) - userChrome for the absolute minimal Firefox experience
 - [Anil-matcha/awesome-generative-ai-apps](https://github.com/Anil-matcha/awesome-generative-ai-apps) - 50+ open-source generative AI apps you can clone, deploy, and monetize — image generators, video tools, virtual try-ons, AI SaaS templates, and platform integrations. One-click Vercel deploy on every 
 - [mokimoko/SillyTavern-ScenarioCrafter](https://github.com/mokimoko/SillyTavern-ScenarioCrafter) - a SillyTavern extension that has a variety of scenarios you can play with
@@ -1104,6 +1107,7 @@
 - [LenAnderson/SillyTavern-Files](https://github.com/LenAnderson/SillyTavern-Files) - 
 - [LenAnderson/SillyTavern-NovelMode](https://github.com/LenAnderson/SillyTavern-NovelMode) - Edit the whole chat as a single document.
 - [awesome-windows11/firefox](https://github.com/awesome-windows11/firefox) - 🦊 Awesome Firefox
+- [shaunabanana/intrigue](https://github.com/shaunabanana/intrigue) - Organize literature into ideas, fast.
 - [peterfritz/gradient-figlet](https://github.com/peterfritz/gradient-figlet) - A CLI tool that creates gradient ASCII art from text with FIGlet and style.
 - [tholian-network/stealth](https://github.com/tholian-network/stealth) - :rocket: Stealth - Secure, Peer-to-Peer, Private and Automateable Web Browser/Scraper/Proxy
 - [TuxedoTako/4chan-xt](https://github.com/TuxedoTako/4chan-xt) - Adds various features to anonymous imageboards.
@@ -1817,7 +1821,7 @@
 - [dankdezpair/hypr.files-V2](https://github.com/dankdezpair/hypr.files-V2) - 
 - [jcmuller/my-awesome-wm-config](https://github.com/jcmuller/my-awesome-wm-config) - My laptop's Awesome WM configuration
 - [HoNamDuong/.dotfiles](https://github.com/HoNamDuong/.dotfiles) - My dotfiles for Linux
-- [PassiveLemon/lemonix](https://github.com/PassiveLemon/lemonix) - The dotfiles for my NixOS systems
+- [PassiveLemon/lemonix](https://github.com/PassiveLemon/lemonix) - Dotfiles and NixOS configuration
 - [gnomengineer/simpledesktop](https://github.com/gnomengineer/simpledesktop) - a lightweight and simple arch distro with own customization
 - [madhur/dotfiles](https://github.com/madhur/dotfiles) - Configuration files of my desktop computer running EndeavourOS Linux
 - [coderosh/.dots](https://github.com/coderosh/.dots) - 🐻 dots
@@ -4616,7 +4620,7 @@
 - [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!
 - [srikanth235/privy](https://github.com/srikanth235/privy) - An open-source alternative to GitHub copilot that runs locally.
 - [draedr/LorebookEditor](https://github.com/draedr/LorebookEditor) - A lorebook editor for SillyTavernAI lorebooks.
-- [PawanOsman/ChatGPT](https://github.com/PawanOsman/ChatGPT) - OpenAI API Free Reverse Proxy
+- [PawanOsman/OpenCursor](https://github.com/PawanOsman/OpenCursor) - Open-source Cursor-like AI coding agent for VS Code — agentic chat, multi-provider LLMs (OpenAI, Ollama, llama.cpp), semantic search, and MCP support
 - [ephraimduncan/blocks](https://github.com/ephraimduncan/blocks) - An open-source library of UI blocks. Built with React, Tailwind and shadcn/ui
 - [JMPerez/spotify-dedup](https://github.com/JMPerez/spotify-dedup) - Remove duplicates from your Spotify Playlists
 - [SwordTM/Oraculum](https://github.com/SwordTM/Oraculum) - AI Powered Assistant that helps connect current knowledge in your Obsidian vault to enhance idea generation.
@@ -5009,7 +5013,6 @@
 ## Vue 
 
 - [Nativu5/STPresetEditor](https://github.com/Nativu5/STPresetEditor) - A lightweight, user-friendly web editor for SillyTavern Presets.
-- [shaunabanana/intrigue](https://github.com/shaunabanana/intrigue) - Organize literature into ideas, fast.
 - [Razikus/novela](https://github.com/Razikus/novela) - AI text creation assistant. Made with OpenAI GPT Dalle and Codenotary immudb
 - [lareii/lareii.github.io](https://github.com/lareii/lareii.github.io) - My personal website.
 - [lissy93/dashy](https://github.com/lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
