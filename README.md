@@ -1709,6 +1709,7 @@
 
 ## Lua 
 
+- [willothy/nvim-cokeline](https://github.com/willothy/nvim-cokeline) - :nose: A Neovim bufferline for people with addictive personalities
 - [x3ric/usr](https://github.com/x3ric/usr) - DotFiles
 - [ray-x/yamlmatter.nvim](https://github.com/ray-x/yamlmatter.nvim) - Enhancing the display of YAML frontmatter in Markdown files
 - [nicholasxjy/jishiben.nvim](https://github.com/nicholasxjy/jishiben.nvim) - A simple notebook neovim plugin
