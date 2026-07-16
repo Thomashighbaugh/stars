@@ -286,7 +286,7 @@
 - [lraton/FlopperZiro](https://github.com/lraton/FlopperZiro) - A Flipper Zero clone, but cheapest, DIY and simply Open Source, made with Arduino IDE
 - [mkiol/dsnote](https://github.com/mkiol/dsnote) - Speech Note Linux app. Note taking, reading and translating with offline Speech to Text, Text to Speech and Machine translation.
 - [ExpidusOS/genesis](https://github.com/ExpidusOS/genesis) - Next generation desktop & mobile shell
-- [linuxdeepin/dtk6gui](https://github.com/linuxdeepin/dtk6gui) - 
+- [linuxdeepin/dtk6gui](https://github.com/linuxdeepin/dtk6gui) - Archived. Use dtkgui repo instead
 - [p3tr0s/PhiSiFi](https://github.com/p3tr0s/PhiSiFi) - WiFi Hacking with an ESP8266 - Deauth combined with Evil Twin attack
 - [Miriway/Miriway](https://github.com/Miriway/Miriway) - Mir based Wayland compositor
 - [jechasteen/gratuitous](https://github.com/jechasteen/gratuitous) - IDE for awesome window manager configuration and themes. Start and stop a Xephyr preview, syntax highlighting, editor splitting.
@@ -775,7 +775,6 @@
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [OpenDiablo2/OpenDiablo2](https://github.com/OpenDiablo2/OpenDiablo2) - An open source re-implementation of Diablo 2
 - [micro-editor/micro](https://github.com/micro-editor/micro) - A modern and intuitive terminal-based text editor
-- [mescon/Muximux](https://github.com/mescon/Muximux) - A self-hosted homelab dashboard with an optional built-in reverse proxy that makes stubborn apps work in iframes
 - [exercism/cli](https://github.com/exercism/cli) - A Go based command line tool for exercism.org.
 - [syncloud/platform](https://github.com/syncloud/platform) - Run popular services on your device with one click
 - [cmars/ormesh](https://github.com/cmars/ormesh) - [UNMAINTAINED: Try https://github.com/cmars/oniongrok instead] onion-routed mesh
@@ -1590,6 +1589,7 @@
 - [AhKi/oh-my-desk](https://github.com/AhKi/oh-my-desk) - web widget desktop application
 - [zombieFox/nightTab](https://github.com/zombieFox/nightTab) - A neutral new tab page accented with a chosen colour. Customise the layout, style, background and bookmarks with nightTab.
 - [verbose/verb](https://github.com/verbose/verb) - HEADS UP! Verb is going though a major transition, we've completely refactored everything from the ground up. If you're interested, please see the dev branch.
+- [mescon/Muximux](https://github.com/mescon/Muximux) - A self-hosted homelab dashboard with an optional built-in reverse proxy that makes stubborn apps work in iframes
 - [kazuar/mook](https://github.com/kazuar/mook) - Markdown editor based on Electron and React
 - [fabiocolacio/Marker](https://github.com/fabiocolacio/Marker) - 🖊 A gtk3 markdown editor
 - [electron/apps](https://github.com/electron/apps) - A collection of apps built on Electron
@@ -3137,7 +3137,6 @@
 - [vrushangdev/dankmono](https://github.com/vrushangdev/dankmono) - 
 - [joaopmendes/vscode-config](https://github.com/joaopmendes/vscode-config) - My vscode configuration
 - [fosslife/awesome-ricing](https://github.com/fosslife/awesome-ricing) - A curated list of awesome tools and technology to help you out with ricing on linux
-- [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [ethereumbook/ethereumbook](https://github.com/ethereumbook/ethereumbook) - Mastering Ethereum: 2nd Edition, by Andreas M. Antonopoulos, Gavin Wood, Carlo Parisi, Alessandro Mazza, Niccolò Pozzolini
 - [lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions) - A long list of (advanced) JavaScript questions, and their explanations :sparkles:
@@ -3346,7 +3345,7 @@
 - [FaceDeer/storyteller](https://github.com/FaceDeer/storyteller) - A simple framework for using a local Koboldcpp LLM to help with story-writing
 - [sologuy/BookmarkSummarizer](https://github.com/sologuy/BookmarkSummarizer) - 🧠 Turn Chrome bookmarks into a personal knowledge base with AI summaries. Supports OpenAI, Deepseek, Qwen, and Ollama.
 - [mikecreighton/knowledge-generator](https://github.com/mikecreighton/knowledge-generator) - A simple tool for generating information about a topic to be fed into NotebookLM.
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - NotebookLM for Competitive Intelligence Research. Give your AI agents access to live data from Reddit, YouTube, Instagram, TikTok, Google Maps, Google Search, open web etc. Join our Discord: https://d
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - NotebookLM for Competitive Intelligence Research. Give your AI agents access to live data from the Internet. Join our Discord: https://discord.gg/ejRNvftDp9
 - [pop-os/icon-theme](https://github.com/pop-os/icon-theme) - System76 Pop icon theme for Linux
 - [chigwell/langchain_llm7](https://github.com/chigwell/langchain_llm7) - 
 - [jaxparrow07/Androidx86-Installer-Linux](https://github.com/jaxparrow07/Androidx86-Installer-Linux) - Advanced Android x86 Installer for Linux
@@ -3642,7 +3641,7 @@
 - [roddhjav/pass-import](https://github.com/roddhjav/pass-import) - A pass extension for importing data from most existing password managers
 - [archivy/archivy](https://github.com/archivy/archivy) - Archivy is a self-hostable knowledge repository that allows you to learn and retain information in your own personal and extensible wiki.
 - [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go / Java
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 crypto and prediction exchanges in JavaScript / TypeScript / Python / C# / PHP / Go / Java
 - [audibleblink/doxycannon](https://github.com/audibleblink/doxycannon) - A poorman's proxycannon and botnet, using docker, ovpn files, tor nodes, and dante socks5 proxies
 - [KCarretto/Arsenal](https://github.com/KCarretto/Arsenal) - Extensible Red Team Framework
 - [Tmpertor/Raven-Storm](https://github.com/Tmpertor/Raven-Storm) - Raven-Storm is a powerful DDoS toolkit for penetration tests, including attacks for several protocols written in python. Takedown many connections using several exotic and classic protocols.
@@ -3684,6 +3683,7 @@
 - [heyzec/Inkscape-Extensions](https://github.com/heyzec/Inkscape-Extensions) - Some extensions for Inkscape
 - [akkana/gimp-plugins](https://github.com/akkana/gimp-plugins) - GIMP plug-ins, scripts and helpers
 - [0x3444ac53/unixpornposter](https://github.com/0x3444ac53/unixpornposter) - 
+- [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [demisto/content](https://github.com/demisto/content) - Demisto is now Cortex XSOAR. Automate and orchestrate your Security Operations with Cortex XSOAR's ever-growing Content Repository. Pull Requests are always welcome and highly appreciated!
 - [awesometoolbox/otf2ttf](https://github.com/awesometoolbox/otf2ttf) - Convert OpenType Font (OTF) to TrueType Font (TTF) format using fonttools.
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
