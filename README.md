@@ -348,6 +348,9 @@
 
 ## CSS 
 
+- [hermitm0nk/malevich](https://github.com/hermitm0nk/malevich) - 
+- [matthewmx86/RetroThemesFirefox](https://github.com/matthewmx86/RetroThemesFirefox) - A collection of old browser themes for Firefox.
+- [clifford269/FrutigerFX](https://github.com/clifford269/FrutigerFX) - A beautiful Frutiger Aero theme for Firefox.
 - [Alexdaz/Cosmic-Travel](https://github.com/Alexdaz/Cosmic-Travel) - A cosmic theme for your computer. 🚀🌌
 - [addy-dclxvi/gtk-theme-collections](https://github.com/addy-dclxvi/gtk-theme-collections) - Some GTK themes for a companion to my Xfwm, Openbox, and Fluxbox themes
 - [JustAdumbPrsn/Zen-Nebula](https://github.com/JustAdumbPrsn/Zen-Nebula) - A minimalist Glassmorphism based theme to elevate the UI of Zen browser
@@ -616,6 +619,7 @@
 
 ## Dockerfile 
 
+- [bitdruid/docker-diffusion](https://github.com/bitdruid/docker-diffusion) - docker containers for some diffusion image generator web-uis
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
 - [librephoenix/selfhosted-templates](https://github.com/librephoenix/selfhosted-templates) - Some self-hosted template bundles using docker-compose
 - [bubuntux/nordlynx](https://github.com/bubuntux/nordlynx) - 
@@ -806,7 +810,7 @@
 - [angelo-v/opencode-playground](https://github.com/angelo-v/opencode-playground) - This repository is just me messing around with OpenCode and exploring what it can do.
 - [5nacks/OSINTBookmarks](https://github.com/5nacks/OSINTBookmarks) - OSINT Bookmarks for Firefox / Chrome / Edge / Safari
 - [WalterBarrett/sillytavern-actions](https://github.com/WalterBarrett/sillytavern-actions) - 
-- [trycua/cua](https://github.com/trycua/cua) - Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).
+- [trycua/cua](https://github.com/trycua/cua) - Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.
 - [rwietter/nixos](https://github.com/rwietter/nixos) - ⚡ rwietter's NixOS settings
 - [MuftiAnees/StartPage](https://github.com/MuftiAnees/StartPage) - A startpage for web browsers
 - [HirotakaDango/iframes](https://github.com/HirotakaDango/iframes) - Split screens through iframes.
@@ -964,6 +968,7 @@
 
 ## Java 
 
+- [LSPosed/DirtySepolicy](https://github.com/LSPosed/DirtySepolicy) - 
 - [Aegis-plus/SillyTavern-Android](https://github.com/Aegis-plus/SillyTavern-Android) - A lightweight Android launcher for SillyTavern, providing a full-screen WebView experience with native support for file uploads, camera, and microphone.
 - [ibilux/MobyDroid](https://github.com/ibilux/MobyDroid) - Android Device Manager with a Graphic User Interface (GUI) – Manage Android on Linux, Windows and MacOS.
 - [im030/Momogram](https://github.com/im030/Momogram) - A third-party Telegram android app.
@@ -1184,7 +1189,7 @@
 - [vitorfdl/Sillytavern-CYOA](https://github.com/vitorfdl/Sillytavern-CYOA) - Extension for Sillytavern that adds CYOA support to User responses.
 - [SpencerCDixon/exocortex](https://github.com/SpencerCDixon/exocortex) - Open source, language independent, modern personal wiki
 - [intika/Librefox](https://github.com/intika/Librefox) - Librefox: Firefox with privacy enhancements
-- [betterbrowser/arcfox](https://github.com/betterbrowser/arcfox) - Make your production flow
+- [betterbrowser/arcfox](https://github.com/betterbrowser/arcfox) - Make your production flow.
 - [WebOrigami/origami](https://github.com/WebOrigami/origami) - Monorepo for the primary Web Origami packages
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience
 - [kustodian/extended-statusbar](https://github.com/kustodian/extended-statusbar) - Firefox addon which adds a statusbar with speed, percentage, time and loaded size (similar to Opera's one)
@@ -3294,7 +3299,7 @@
 - [softaworks/agent-toolkit](https://github.com/softaworks/agent-toolkit) - A curated collection of skills for AI coding agents. Skills are packaged instructions and scripts that extend agent capabilities across development, documentation, planning, and professional workflows
 - [ECNU-ICALK/AutoSkill](https://github.com/ECNU-ICALK/AutoSkill) - AutoSkill: Experience-Driven Lifelong Learning via Skill Self-Evolution
 - [Prat011/awesome-llm-skills](https://github.com/Prat011/awesome-llm-skills) - A curated list of awesome LLM and AI Agent Skills, resources and tools for customising AI Agent workflows - that works with Claude Code, Codex, Gemini CLI and your custom AI Agents
-- [foryourhealth111-pixel/Vibe-Skills](https://github.com/foryourhealth111-pixel/Vibe-Skills) - Vibe-Skills is an all-in-one AI skills package. It seamlessly integrates expert-level capabilities and context management into a general-purpose skills package， enabling any AI agent to instantly upgr
+- [foryourhealth111-pixel/Vibe-Skills](https://github.com/foryourhealth111-pixel/Vibe-Skills) - Governed workflow runtime for AI agents: scope complex requests, coordinate local Skills, verify delivery, and preserve resumable context.
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [gotar/opencode-config](https://github.com/gotar/opencode-config) - OpenCode AI configuration with specialized agents, commands, context standards, and skills
 - [5kahoisaac/opencode-configs](https://github.com/5kahoisaac/opencode-configs) - Personal configs of OpenCode, including agents, skills, commands and plugins
@@ -3345,7 +3350,7 @@
 - [FaceDeer/storyteller](https://github.com/FaceDeer/storyteller) - A simple framework for using a local Koboldcpp LLM to help with story-writing
 - [sologuy/BookmarkSummarizer](https://github.com/sologuy/BookmarkSummarizer) - 🧠 Turn Chrome bookmarks into a personal knowledge base with AI summaries. Supports OpenAI, Deepseek, Qwen, and Ollama.
 - [mikecreighton/knowledge-generator](https://github.com/mikecreighton/knowledge-generator) - A simple tool for generating information about a topic to be fed into NotebookLM.
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - NotebookLM for Competitive Intelligence Research. Give your AI agents access to live data from the Internet. Join our Discord: https://discord.gg/ejRNvftDp9
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open-source NotebookLM alternative for AI agents. Research the open web with live data connectors for Reddit, YouTube, Amazon, Google Maps, and Google Search, through one API or MCP server. Join our D
 - [pop-os/icon-theme](https://github.com/pop-os/icon-theme) - System76 Pop icon theme for Linux
 - [chigwell/langchain_llm7](https://github.com/chigwell/langchain_llm7) - 
 - [jaxparrow07/Androidx86-Installer-Linux](https://github.com/jaxparrow07/Androidx86-Installer-Linux) - Advanced Android x86 Installer for Linux
@@ -4747,7 +4752,6 @@
 - [kunalkeshan/kunalkeshan.dev](https://github.com/kunalkeshan/kunalkeshan.dev) - Personal Portfolio made with ☕+❤. Built with Next.js + TypeScript.
 - [js-template/daisy-nextjs-turbo-setup](https://github.com/js-template/daisy-nextjs-turbo-setup) - 
 - [briangershon/nextjs-starter](https://github.com/briangershon/nextjs-starter) - Starter template for Next.js v13 (using new app approach). With TypeScript, tailwindcss and daisyUI.
-- [builderz-labs/builderz-solana-dapp-scaffold](https://github.com/builderz-labs/builderz-solana-dapp-scaffold) - Builderz Solana dApp Scaffold (Nextjs14, App Dir, Typescript, TailwindCSS, MaterialUI, web3.js, ThemeSwitch (Dark/Light), Sonner Toast Notifications, Modal & Drawer)
 - [jkker/metasearch-tampermonkey](https://github.com/jkker/metasearch-tampermonkey) - 
 - [osmoscraft/osmosfeed](https://github.com/osmoscraft/osmosfeed) - Turn GitHub into an RSS reader
 - [umutyesildal/yesildal.me-personal-portfolio](https://github.com/umutyesildal/yesildal.me-personal-portfolio) - A lightweight, customizable and responsive single-page personal portfolio website, created by using Reactjs and Nextjs.
