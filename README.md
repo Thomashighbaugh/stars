@@ -2835,7 +2835,7 @@
 - [lfnovo/open-notebook-boilerplate](https://github.com/lfnovo/open-notebook-boilerplate) - 
 - [joonspk-research/generative_agents](https://github.com/joonspk-research/generative_agents) - Generative Agents: Interactive Simulacra of Human Behavior
 - [martonlederer/old-profile-readme](https://github.com/martonlederer/old-profile-readme) - Please star too, don't just fork
-- [proxifly/free-proxy-list](https://github.com/proxifly/free-proxy-list) - a free rotating proxy API with tested HTTPS and SOCKS5 proxies from 100+ countries
+- [proxifly/free-proxy-list](https://github.com/proxifly/free-proxy-list) - 🚀 Free HTTP, SOCKS4, & SOCKS5 proxy list * Updated every 5 minutes * and rotating proxy API (100+ countries)
 - [erikgrinaker/readings](https://github.com/erikgrinaker/readings) - Interesting readings and talks on computer science
 - [isabellawilson2110rc/AI-Story-Generator](https://github.com/isabellawilson2110rc/AI-Story-Generator) - AI Story Generator: Revolutionizing Creative Writing in 2025
 - [DevNambi/personal-wiki](https://github.com/DevNambi/personal-wiki) - Code to create a personal wiki
