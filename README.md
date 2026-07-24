@@ -134,6 +134,8 @@
 
 ## C 
 
+- [User1818183/CyberMeowfia](https://github.com/User1818183/CyberMeowfia) - PoCs and exploits for CVEs discovered by VEGA.
+- [NebuSec/CyberMeowfia](https://github.com/NebuSec/CyberMeowfia) - PoCs and exploits for CVEs discovered by VEGA.
 - [adnanpri/legion-wmi](https://github.com/adnanpri/legion-wmi) - A WMI driver for Lenovo Legion series of laptops
 - [LongQT-sea/OpenCore-ISO](https://github.com/LongQT-sea/OpenCore-ISO) - A properly configured OpenCore-ISO image for Proxmox VE and QEMU/KVM - Support Mac OS X 10.4 to macOS 26
 - [killvxk/openforbusiness-realoriginal](https://github.com/killvxk/openforbusiness-realoriginal) - WIP:A generic UEFI shellcode intended to be patched into a DXE phase driver or `bootmgfw` on the ESP volume of the hard drive to toggle off integrity checks for Kernel Driver testing purposes.
