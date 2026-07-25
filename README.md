@@ -994,6 +994,8 @@
 
 ## JavaScript 
 
+- [lovexj520/userChromeJS-2](https://github.com/lovexj520/userChromeJS-2) - Firefox userChromeJS
+- [117649/Tab-Groups](https://github.com/117649/Tab-Groups) - Reimplementation of Firefox Tab Groups as an add-on.
 - [kikyoicecream/next-choices](https://github.com/kikyoicecream/next-choices) - 
 - [Darsh-A/Quick-Tabs](https://github.com/Darsh-A/Quick-Tabs) - Allows you to open links in floating tab containers directly within the Zen browser.
 - [EdgeTypE/better-deepseek](https://github.com/EdgeTypE/better-deepseek) - A powerful browser extension that supercharges DeepSeek Chat with custom tooling, persistent memory, and seamless project scaffolding. Generate and download files, run Python in-browser, create PowerP
@@ -4011,6 +4013,7 @@
 
 ## SCSS 
 
+- [vinceliuice/MacTahoe-gtk-theme](https://github.com/vinceliuice/MacTahoe-gtk-theme) - MacOS Tahoe theme for gtk desktops
 - [zelestcarlyone/stacks](https://github.com/zelestcarlyone/stacks) - Lightweight download manager for Anna's Archive with fast downloads, web UI, and API support.
 - [edelvarden/material-fox-updated](https://github.com/edelvarden/material-fox-updated) - 🦊 Firefox user CSS theme looks similar to Chrome
 - [Fausto-Korpsvart/Nightfox-GTK-Theme](https://github.com/Fausto-Korpsvart/Nightfox-GTK-Theme) - A GTK theme based on the Nightfox colour palette.
