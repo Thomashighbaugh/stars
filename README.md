@@ -1038,7 +1038,7 @@
 - [LenAnderson/SillyTavern-MoreFlexibleContinues](https://github.com/LenAnderson/SillyTavern-MoreFlexibleContinues) - 
 - [AugieIsHere/Extension-DynamicLore](https://github.com/AugieIsHere/Extension-DynamicLore) - SillyTavern extension for automatically updating World Info entries
 - [zlouis/react-photography](https://github.com/zlouis/react-photography) - Photography website built with ReactJs & MongoDB
-- [5hubham5ingh/kitty-panel](https://github.com/5hubham5ingh/kitty-panel) - Kitty terminal based system panel for linux.
+- [5hubham5ingh/clowder](https://github.com/5hubham5ingh/clowder) - Kitty terminal based system panel for linux.
 - [X00LA/Extension-DynamicLore](https://github.com/X00LA/Extension-DynamicLore) - SillyTavern extension for automatically updating World Info entries
 - [confluence/firehacks](https://github.com/confluence/firehacks) - My personal customisation hacks for Firefox
 - [composio-community/open-claude-cowork](https://github.com/composio-community/open-claude-cowork) - Open Source version of Claude Cowork with 500+ SaaS app integrations
@@ -2774,6 +2774,7 @@
 
 ## Others 
 
+- [xixu-me/free-adobe](https://github.com/xixu-me/free-adobe) - Simple, complete tutorial for Adobe Creative Cloud activation
 - [bradleyhodges/SFWindows](https://github.com/bradleyhodges/SFWindows) - SFWindows - The entire collection of Apple fonts (San Francisco and New York families) for Windows 10/11 and other non-Apple platforms.
 - [Cybersight-Security/Malware-Samples](https://github.com/Cybersight-Security/Malware-Samples) - This repository contains 130 malware and ransomware samples for research and analysis purposes.
 - [siutin/stable-diffusion-webui-docker](https://github.com/siutin/stable-diffusion-webui-docker) - stable-diffusion-webui in docker
@@ -3357,7 +3358,7 @@
 - [FaceDeer/storyteller](https://github.com/FaceDeer/storyteller) - A simple framework for using a local Koboldcpp LLM to help with story-writing
 - [sologuy/BookmarkSummarizer](https://github.com/sologuy/BookmarkSummarizer) - 🧠 Turn Chrome bookmarks into a personal knowledge base with AI summaries. Supports OpenAI, Deepseek, Qwen, and Ollama.
 - [mikecreighton/knowledge-generator](https://github.com/mikecreighton/knowledge-generator) - A simple tool for generating information about a topic to be fed into NotebookLM.
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open-source NotebookLM alternative. Research the open web with live data(Reddit, YT, IG, TikTok, Google Search, Maps etc) through one platform, API or MCP server. Join our Discord: https://discord.gg/
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open-source NotebookLM alternative. Research the open web with live data(Reddit, YT, IG, TikTok, Indeed, Google Search, Maps etc) through one platform, API or MCP server. Join our Discord: https://dis
 - [pop-os/icon-theme](https://github.com/pop-os/icon-theme) - System76 Pop icon theme for Linux
 - [chigwell/langchain_llm7](https://github.com/chigwell/langchain_llm7) - 
 - [jaxparrow07/Androidx86-Installer-Linux](https://github.com/jaxparrow07/Androidx86-Installer-Linux) - Advanced Android x86 Installer for Linux
@@ -4588,6 +4589,7 @@
 
 ## TypeScript 
 
+- [neobrutalism-templates/bento](https://github.com/neobrutalism-templates/bento) - 
 - [JARVlS/peekcss](https://github.com/JARVlS/peekcss) - CSS inspector Addon for firefox / chrome
 - [Vencord/Vesktop](https://github.com/Vencord/Vesktop) - Vesktop is a custom Discord App aiming to give you better performance and improve linux support
 - [guigrpa/docx-templates](https://github.com/guigrpa/docx-templates) - Template-based docx report creation
