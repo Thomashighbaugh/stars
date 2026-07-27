@@ -1349,7 +1349,6 @@
 - [pahefu/web-glitch-this](https://github.com/pahefu/web-glitch-this) - Web version of the Glitch-This cli-program made by TotallyNotChase
 - [JonasDoesThings/FactImageGen](https://github.com/JonasDoesThings/FactImageGen) - A web-based tool for generating fact images for Instagram
 - [Superalgos/Superalgos](https://github.com/Superalgos/Superalgos) - Free, open-source crypto trading bot, automated bitcoin / cryptocurrency trading software, algorithmic trading bots. Visually design your crypto trading bot, leveraging an integrated charting system, 
-- [jesse-ai/jesse](https://github.com/jesse-ai/jesse) - An advanced crypto trading bot written in Python
 - [askmike/gekko](https://github.com/askmike/gekko) - A bitcoin trading bot written in node - https://gekko.wizb.it/
 - [ibillingsley/HumbleNewTabPage](https://github.com/ibillingsley/HumbleNewTabPage) - New tab page extension for Chrome and Firefox
 - [DanaMW/userChrome.js](https://github.com/DanaMW/userChrome.js) - Scripts for the Firefox extension userChromeJS
@@ -2331,6 +2330,7 @@
 - [trigaten/Learn_Prompting](https://github.com/trigaten/Learn_Prompting) - Prompt Engineering, Generative AI, and LLM Guide by Learn Prompting | Join our discord for the largest Prompt Engineering learning community
 - [kpollich/kylepolli.ch](https://github.com/kpollich/kylepolli.ch) - My personal blog built with Astro
 - [theodorusclarence/theodorusclarence.com](https://github.com/theodorusclarence/theodorusclarence.com) - Old repository of my personal website. The revamped and new design is closed-source ✌️
+- [prakhar1989/docker-curriculum](https://github.com/prakhar1989/docker-curriculum) - :dolphin: A comprehensive tutorial on getting started with Docker!
 - [hamlim/blog](https://github.com/hamlim/blog) - My personal website and blog!
 - [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The essential checklist for modern web development, for humans and AI agents
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
@@ -3336,7 +3336,7 @@
 - [verl-project/verl](https://github.com/verl-project/verl) - verl/HybridFlow: A Flexible and Efficient RL Post-Training Framework
 - [Comfy-Org/ComfyUI-Manager](https://github.com/Comfy-Org/ComfyUI-Manager) - ComfyUI-Manager is an extension designed to enhance the usability of ComfyUI. It offers management functions to install, remove, disable, and enable various custom nodes of ComfyUI. Furthermore, this 
 - [yanshengjia/ml-road](https://github.com/yanshengjia/ml-road) - Machine Learning and Agentic AI Resources, Practice and Research
-- [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. Also checkout AgenticSeek successor 3Toks! http
+- [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity.
 - [benapetr/clia](https://github.com/benapetr/clia) - Simple stupid LLM based CLI Agent
 - [oraios/serena](https://github.com/oraios/serena) - A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent
 - [StonyBrookNLP/appworld](https://github.com/StonyBrookNLP/appworld) - 🌍 AppWorld: A Controllable World of Apps and People for Benchmarking Function Calling and Interactive Coding Agent, ACL'24 Best Resource Paper.
@@ -3627,6 +3627,7 @@
 - [kieran-mackle/AutoTrader](https://github.com/kieran-mackle/AutoTrader) - A Python-based development platform for automated trading systems - from backtesting to optimisation to livetrading.
 - [ivopetiz/algotrading](https://github.com/ivopetiz/algotrading) - Algorithmic trading framework for cryptocurrencies.
 - [Drakkar-Software/OctoBot](https://github.com/Drakkar-Software/OctoBot) - Free open source crypto trading bot to automate AI, Grid, DCA and TradingView strategies on Binance, Hyperliquid and 15+ exchanges, with a simple interface.
+- [jesse-ai/jesse](https://github.com/jesse-ai/jesse) - An advanced crypto trading bot written in Python
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
 - [kovidgoyal/kitty-themes](https://github.com/kovidgoyal/kitty-themes) - Themes for the kitty terminal emulator
 - [qtile/qtile](https://github.com/qtile/qtile) - :cookie: A full-featured, hackable tiling window manager written and configured in Python (X11 + Wayland)
@@ -4036,7 +4037,6 @@
 - [Infamoustrey/outrun-css](https://github.com/Infamoustrey/outrun-css) - An epic css framework for cyberpunk websites
 - [B00merang-Project/Azurra_framework](https://github.com/B00merang-Project/Azurra_framework) - Theme creation framework for GTK themes
 - [IanLunn/Hover](https://github.com/IanLunn/Hover) - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in C
-- [prakhar1989/docker-curriculum](https://github.com/prakhar1989/docker-curriculum) - :dolphin: A comprehensive tutorial on getting started with Docker!
 - [Thomashighbaugh/Not-Another-Devlog](https://github.com/Thomashighbaugh/Not-Another-Devlog) - Final form of my devlog. Built with React, Gatsby, SASS, Bootstrap, FontAwesome and SpaceMacs!
 - [TLH-Deprecated-Linux-Configurations/Dhumavati-Theme](https://github.com/TLH-Deprecated-Linux-Configurations/Dhumavati-Theme) - A Skeuos fork with the vice color scheme and select enhancements
 - [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - Cheatsheets for web development - devhints.io
