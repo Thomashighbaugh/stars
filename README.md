@@ -213,6 +213,7 @@
 - [jgmenu/jgmenu](https://github.com/jgmenu/jgmenu) - An X11 menu
 - [kisslinux/repo](https://github.com/kisslinux/repo) - KISS Linux - Official Repositories
 - [way-cooler/way-cooler](https://github.com/way-cooler/way-cooler) - Wayland compositor for AwesomeWM
+- [leafo/moonscript](https://github.com/leafo/moonscript) - :crescent_moon: A language that compiles to Lua
 - [facebook/zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
 - [openssl/openssl](https://github.com/openssl/openssl) - General purpose TLS and crypto library
 - [libgit2/libgit2](https://github.com/libgit2/libgit2) - A cross-platform, linkable library implementation of Git that you can use in your application.
@@ -376,7 +377,6 @@
 - [LoneWolf4713/new-wave](https://github.com/LoneWolf4713/new-wave) - Dotfiles for my Fedora Sway New Wave Rice!
 - [khaneliman/blurredfox](https://github.com/khaneliman/blurredfox) - A sleek, modern and elegant Firefox CSS theme
 - [Bali10050/FirefoxCSS](https://github.com/Bali10050/FirefoxCSS) - Custom firefox interface
-- [nesktf/dotfiles](https://github.com/nesktf/dotfiles) - haha funny dotfiles
 - [yiiyahui/Neptune-Firefox](https://github.com/yiiyahui/Neptune-Firefox) - A clean and compact Firefox theme.
 - [soulhotel/git-userChrome](https://github.com/soulhotel/git-userChrome) - An automation tool for installing userChrome Themes
 - [XpWilson/StylizedFirefox](https://github.com/XpWilson/StylizedFirefox) - Custom Firefox CSS with Catppuccin theme
@@ -686,6 +686,7 @@
 
 ## Go 
 
+- [JoshuaDoes/tensor-usbdl](https://github.com/JoshuaDoes/tensor-usbdl) - this repo could eat your cat. fair warning. "I am not responsible for dead phones, dead SD cards, thermonuclear warfare"
 - [gastownhall/gastown](https://github.com/gastownhall/gastown) - Gas Town - multi-agent workspace manager
 - [anomalyco/opencode-sdk-go](https://github.com/anomalyco/opencode-sdk-go) - 
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
@@ -1049,7 +1050,7 @@
 - [Hexicy/ST-CharacterPreview](https://github.com/Hexicy/ST-CharacterPreview) - Character preview for Sillytavern
 - [aikohanasaki/SillyTavern-MemoryBooks](https://github.com/aikohanasaki/SillyTavern-MemoryBooks) - Saves SillyTavern chat memories to lorebooks
 - [myonmu0/SillyTavern-MessageQueue](https://github.com/myonmu0/SillyTavern-MessageQueue) - Message queue extension for SillyTavern.
-- [chaaruze/SillyTavern-Too-Many-Chats](https://github.com/chaaruze/SillyTavern-Too-Many-Chats) - Archived SillyTavern extension for organizing chats into folders.
+- [chaaruze/SillyTavern-Too-Many-Chats](https://github.com/chaaruze/SillyTavern-Too-Many-Chats) - Unmaintained SillyTavern extension for organizing chats into persistent per-character folders.
 - [AbhinavTheDev/potion](https://github.com/AbhinavTheDev/potion) - Intelligent Note-Taking Assistant
 - [phampyk/SillyTavern-AvatarBanner](https://github.com/phampyk/SillyTavern-AvatarBanner) - SillyTavern Extension to show the avatars as banners on the chat
 - [nyxkrage/st-nyxlib](https://github.com/nyxkrage/st-nyxlib) - Collection of various SillyTavern functions packaged up as a UI extension (fetch from websites, manipulate JSON, assign JSON to variables)
@@ -1079,7 +1080,7 @@
 - [gusta01010/SillyTavern-Smart-Dialogue-Colorizer-Extended](https://github.com/gusta01010/SillyTavern-Smart-Dialogue-Colorizer-Extended) - SillyTavern extension with intelligent syntax coloring and quality filtering. Highly customizable.
 - [unkarelian/timeline-memory](https://github.com/unkarelian/timeline-memory) - A tool-call based memory system for SillyTavern
 - [IceFog72/SillyTavern-ProbablyTooManyTabs](https://github.com/IceFog72/SillyTavern-ProbablyTooManyTabs) - 
-- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT GPT-5.6, Codex GPT-5.6, GPT-5.5. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI -
+- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Claude Fable 5, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-5.6-Sol, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, 
 - [nimit95/Real-world-Design-Patterns-Node-JS](https://github.com/nimit95/Real-world-Design-Patterns-Node-JS) - All the 23 (GoF) design patterns implemented in Javascript with Real World Example using Node.js APIs
 - [ejpir/CVE-2025-55182-research](https://github.com/ejpir/CVE-2025-55182-research) - CVE-2025-55182 POC
 - [RossAscends/ST-ClickToCloseEdits](https://github.com/RossAscends/ST-ClickToCloseEdits) - 
@@ -1384,7 +1385,7 @@
 - [afzalsayed96/mern-app](https://github.com/afzalsayed96/mern-app) - MERN stack app using Next.js
 - [drejcreative/mern-boilerplate-nextjs-2020](https://github.com/drejcreative/mern-boilerplate-nextjs-2020) - Boilerplate code for MERN stack (NextJs) with simple TODO app.
 - [Merkoba/Msg](https://github.com/Merkoba/Msg) - A javascript library to create and manage highly customizable modal windows and popup messages
-- [xyproto/algernon](https://github.com/xyproto/algernon) - Small self-contained pure-Go web server with Lua, Teal, Markdown, Ollama, HTTP/2, QUIC, Redis, TypeScript, SQLite and PostgreSQL support ++
+- [xyproto/algernon](https://github.com/xyproto/algernon) - Small self-contained pure-Go web server with Lua, Teal, Markdown, HTTP/2, QUIC, Redis, TypeScript, React 19, SQLite, and PostgreSQL support ++
 - [OffcierCia/DeFi-Developer-Road-Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map) - DeFi Developer roadmap is a curated Developer handbook which includes a list of the best tools for DApps development, resources and references!
 - [rockiger/akiee](https://github.com/rockiger/akiee) - A Markdown-based task manager for hackers and people who build stuff.
 - [gregives/Twelvety](https://github.com/gregives/Twelvety) - An Eleventy starter project built to be fast
@@ -2270,7 +2271,6 @@
 - [streetturtle/noobie](https://github.com/streetturtle/noobie) - Create a wibar widget for Awesome WM with no lua code!
 - [llyram/awesomewm-dotfiles](https://github.com/llyram/awesomewm-dotfiles) - My config files for awesomewm
 - [purhan/dotfiles](https://github.com/purhan/dotfiles) - 
-- [leafo/moonscript](https://github.com/leafo/moonscript) - :crescent_moon: A language that compiles to Lua
 - [projekt0n/github-nvim-theme](https://github.com/projekt0n/github-nvim-theme) - GitHub's Neovim themes
 - [diegosalazarCO/awesome-wm](https://github.com/diegosalazarCO/awesome-wm) - Configs for the Awesome Window Manager
 - [elenapan/archlabs-awesome](https://github.com/elenapan/archlabs-awesome) - AwesomeWM flavor for ArchLabs
@@ -2774,6 +2774,7 @@
 
 ## Others 
 
+- [fastfire/deepdarkCTI](https://github.com/fastfire/deepdarkCTI) - Collection of Cyber Threat Intelligence sources from the deep and dark web
 - [xixu-me/free-adobe](https://github.com/xixu-me/free-adobe) - Simple, complete tutorial for Adobe Creative Cloud activation
 - [bradleyhodges/SFWindows](https://github.com/bradleyhodges/SFWindows) - SFWindows - The entire collection of Apple fonts (San Francisco and New York families) for Windows 10/11 and other non-Apple platforms.
 - [Cybersight-Security/Malware-Samples](https://github.com/Cybersight-Security/Malware-Samples) - This repository contains 130 malware and ransomware samples for research and analysis purposes.
@@ -3289,6 +3290,7 @@
 
 ## Python 
 
+- [qnorsten/twrp_device_google_pixels](https://github.com/qnorsten/twrp_device_google_pixels) - 
 - [DonBananas/MultiAgent-BrainEngine-SillyTavern](https://github.com/DonBananas/MultiAgent-BrainEngine-SillyTavern) - 6-agent cognitive proxy server for SillyTavern.
 - [civitai/sd_civitai_extension](https://github.com/civitai/sd_civitai_extension) - All of the Civitai models inside Automatic 1111 Stable Diffusion Web UI
 - [timschneeb/awesome-shizuku](https://github.com/timschneeb/awesome-shizuku) - Curated list of awesome Android apps making use of Shizuku
