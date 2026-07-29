@@ -1287,7 +1287,7 @@
 - [simarmannsingh/silverlux](https://github.com/simarmannsingh/silverlux) - 💻 A fully-responsive Gatsby based blog template using NetlifyCMS as CMS.
 - [Akshay090/svg-banners](https://github.com/Akshay090/svg-banners) - Styled banners for your Readme made with html/css in SVG !!
 - [kampka/nix-packages](https://github.com/kampka/nix-packages) - My personal nix repository
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 6000 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 6100 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [leepenney/markdown-gallery](https://github.com/leepenney/markdown-gallery) - Converts a list of images into gallery mark-up
 - [ujjalacharya/awesome-ecom](https://github.com/ujjalacharya/awesome-ecom) - A complete online ecommerce portal (Node, React, Mongo, NextJS, ReactNative)
 - [amand33p/stack-underflow](https://github.com/amand33p/stack-underflow) - Feature-rich ‘stack overflow’ (QnA site) clone. Made using MERN + GraphQL stack.
@@ -4591,6 +4591,7 @@
 
 ## TypeScript 
 
+- [shadcn-labs/termcn](https://github.com/shadcn-labs/termcn) - Beautiful terminal UI components, built on Ink and OpenTUI. 100% Free, Zero config, one command setup.
 - [neobrutalism-templates/bento](https://github.com/neobrutalism-templates/bento) - 
 - [JARVlS/peekcss](https://github.com/JARVlS/peekcss) - CSS inspector Addon for firefox / chrome
 - [Vencord/Vesktop](https://github.com/Vencord/Vesktop) - Vesktop is a custom Discord App aiming to give you better performance and improve linux support
