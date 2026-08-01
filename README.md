@@ -351,6 +351,7 @@
 
 ## CSS 
 
+- [jaxwilko/gtk-theme-framework](https://github.com/jaxwilko/gtk-theme-framework) - 
 - [hermitm0nk/malevich](https://github.com/hermitm0nk/malevich) - 
 - [matthewmx86/RetroThemesFirefox](https://github.com/matthewmx86/RetroThemesFirefox) - A collection of old browser themes for Firefox.
 - [clifford269/FrutigerFX](https://github.com/clifford269/FrutigerFX) - A beautiful Frutiger Aero theme for Firefox.
@@ -510,6 +511,7 @@
 - [lucagez/bars](https://github.com/lucagez/bars) - css progress bars made with svg patterns
 - [buseca/patternbolt](https://github.com/buseca/patternbolt) - A fine selection of SVG pattern background, packed in a single CSS or SCSS file. Add patterns just adding a class.
 - [fcnoronha/WordArtBot](https://github.com/fcnoronha/WordArtBot) - 🎨 The WordArt generator bot for Telegram @bestWordArtBot
+- [prakhar1989/docker-curriculum](https://github.com/prakhar1989/docker-curriculum) - :dolphin: A comprehensive tutorial on getting started with Docker!
 - [tobiasahlin/SpinKit](https://github.com/tobiasahlin/SpinKit) - A collection of loading indicators animated with CSS
 - [saishmhatre47/Artist-Portfolio](https://github.com/saishmhatre47/Artist-Portfolio) - My Art Website.
 - [animate-css/animate.css](https://github.com/animate-css/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
@@ -1519,7 +1521,7 @@
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
 - [Thomashighbaugh/Thomashighbaugh](https://github.com/Thomashighbaugh/Thomashighbaugh) - Over-Engineered, Dynamically Updated GitHub Profile README
 - [ohansemmanuel/react-hooks-cheatsheet](https://github.com/ohansemmanuel/react-hooks-cheatsheet) - 🦖 React hooks cheatsheet with live editable examples
-- [Zavy86/WikiDocs](https://github.com/Zavy86/WikiDocs) - 📗 Just a databaseless markdown flat-file wiki engine
+- [Zavy86/WikiDocs](https://github.com/Zavy86/WikiDocs) - 📗 Just a databaseless markdown flat-file wiki
 - [yTakkar/React-Instagram-Clone-2.0](https://github.com/yTakkar/React-Instagram-Clone-2.0) - A reactive Single-Page Instagram-Clone with some new features!! 💪📸👓 - No longer maintained.
 - [mmacneil/devfolio](https://github.com/mmacneil/devfolio) - A simple, responsive, single-page portfolio and resume for developers built with Bulma, Sass, Font Awesome and Flickity.
 - [officialputuid/toolsig](https://github.com/officialputuid/toolsig) - toolsig (Instagram Tools, based NodeJS)
@@ -2122,7 +2124,6 @@
 - [macunha1/aweswm](https://github.com/macunha1/aweswm) - AwesomeWM configuration supporting the greatest async best-practices from awful, with submodules (as a "package manager") for a fully modularized setup. Pure Lua implementation focused on performance
 - [pinpox/dotfiles-awesome](https://github.com/pinpox/dotfiles-awesome) - Configuration for the Awesome window manager
 - [sammy-ette/dotfiles](https://github.com/sammy-ette/dotfiles) - 🏵️
-- [mpourismaiel/dotfiles](https://github.com/mpourismaiel/dotfiles) - dotfiles for my current setup
 - [rafcamlet/simple-wiki.nvim](https://github.com/rafcamlet/simple-wiki.nvim) - Simple note system via linking markdown files in wiki style
 - [lewis6991/spellsitter.nvim](https://github.com/lewis6991/spellsitter.nvim) - Treesitter powered spellchecker
 - [micro-hawk/awesomeWM](https://github.com/micro-hawk/awesomeWM) - My configuration for awesome window manager
@@ -2331,7 +2332,6 @@
 - [trigaten/Learn_Prompting](https://github.com/trigaten/Learn_Prompting) - Prompt Engineering, Generative AI, and LLM Guide by Learn Prompting | Join our discord for the largest Prompt Engineering learning community
 - [kpollich/kylepolli.ch](https://github.com/kpollich/kylepolli.ch) - My personal blog built with Astro
 - [theodorusclarence/theodorusclarence.com](https://github.com/theodorusclarence/theodorusclarence.com) - Old repository of my personal website. The revamped and new design is closed-source ✌️
-- [prakhar1989/docker-curriculum](https://github.com/prakhar1989/docker-curriculum) - :dolphin: A comprehensive tutorial on getting started with Docker!
 - [hamlim/blog](https://github.com/hamlim/blog) - My personal website and blog!
 - [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The essential checklist for modern web development, for humans and AI agents
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
@@ -2775,6 +2775,7 @@
 
 ## Others 
 
+- [rajannpatel/Pi-Hole-PiVPN-on-Google-Compute-Engine-Free-Tier-with-Full-Tunnel-and-Split-Tunnel-OpenVPN-Configs](https://github.com/rajannpatel/Pi-Hole-PiVPN-on-Google-Compute-Engine-Free-Tier-with-Full-Tunnel-and-Split-Tunnel-OpenVPN-Configs) - Run your own privacy-first ad blocking service in the cloud for free on Google Cloud Services.
 - [fastfire/deepdarkCTI](https://github.com/fastfire/deepdarkCTI) - Collection of Cyber Threat Intelligence sources from the deep and dark web
 - [xixu-me/free-adobe](https://github.com/xixu-me/free-adobe) - Simple, complete tutorial for Adobe Creative Cloud activation
 - [bradleyhodges/SFWindows](https://github.com/bradleyhodges/SFWindows) - SFWindows - The entire collection of Apple fonts (San Francisco and New York families) for Windows 10/11 and other non-Apple platforms.
@@ -3289,6 +3290,8 @@
 
 ## Python 
 
+- [paperswithbacktest/awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading) - A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.
+- [msprev/panzer](https://github.com/msprev/panzer) - pandoc + styles
 - [jamditis/claude-skills-journalism](https://github.com/jamditis/claude-skills-journalism) - Claude Code skills for journalism, media, and academia - verification, FOIA, data journalism, academic writing, and more
 - [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 1,987+ agentic skills. Includes CLI, local MCP, catalo
 - [qnorsten/twrp_device_google_pixels](https://github.com/qnorsten/twrp_device_google_pixels) - 
@@ -3824,6 +3827,7 @@
 - [L4ki/Shiny-Plasma-Themes](https://github.com/L4ki/Shiny-Plasma-Themes) - Shiny Plasma Themes For Plasma Desktop
 - [Calinix-Team/Calinix-Arch](https://github.com/Calinix-Team/Calinix-Arch) - CalinixOS Linux Distribution ISO Profiles
 - [nuxshed/dotfiles](https://github.com/nuxshed/dotfiles) - pls help
+- [mpourismaiel/dotfiles](https://github.com/mpourismaiel/dotfiles) - dotfiles for my current setup
 
 ## Rich Text Format 
 
