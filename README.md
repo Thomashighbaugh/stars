@@ -1916,7 +1916,7 @@
 - [meuter/nvim](https://github.com/meuter/nvim) - nvim config
 - [nvimdev/dope](https://github.com/nvimdev/dope) - a modern structure neovim config template write in lua
 - [glepnir/nvim](https://github.com/glepnir/nvim) - neovim configuration written in lua
-- [dmun/awesome](https://github.com/dmun/awesome) - Config for the awesome window manager
+- [davidvmu/awesome](https://github.com/davidvmu/awesome) - Config for the awesome window manager
 - [michaelbeaumont/awesome-sesh](https://github.com/michaelbeaumont/awesome-sesh) - Awesome WM Sessions
 - [michaelbeaumont/awesome-yubikey-notify](https://github.com/michaelbeaumont/awesome-yubikey-notify) - Naughty notifications + yubikey-touch-detector
 - [michaelbeaumont/awesome-leader](https://github.com/michaelbeaumont/awesome-leader) - Leader key for Awesome WM
@@ -3290,6 +3290,7 @@
 
 ## Python 
 
+- [lllyasviel/stable-diffusion-webui-forge](https://github.com/lllyasviel/stable-diffusion-webui-forge) - 
 - [paperswithbacktest/awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading) - A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.
 - [msprev/panzer](https://github.com/msprev/panzer) - pandoc + styles
 - [jamditis/claude-skills-journalism](https://github.com/jamditis/claude-skills-journalism) - Claude Code skills for journalism, media, and academia - verification, FOIA, data journalism, academic writing, and more
