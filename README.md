@@ -1259,6 +1259,7 @@
 - [stevej2608/react-mosaic-cra](https://github.com/stevej2608/react-mosaic-cra) - Implementation, in JavaScript, of the react-mosaic demo
 - [instant-dev/api](https://github.com/instant-dev/api) - Instant API: Build type-safe web APIs with JavaScript
 - [potat-dev/react-daisyui-template](https://github.com/potat-dev/react-daisyui-template) - Template for quickly creating new applications using React, Tailwind and daisyUI
+- [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 - [adrianhajdin/project_next_14_ai_prompt_sharing](https://github.com/adrianhajdin/project_next_14_ai_prompt_sharing) - Next.js recently became the official React framework as outlined in React docs. In this course, you'll learn the most important Next.js concepts and how they fit into the React ecosystem. Finally, you
 - [integrateme-co/integrate-io](https://github.com/integrateme-co/integrate-io) - Cross-Post your blogs between dev.to, Medium and Hashnode 🔀
 - [themefisher/bookworm-light-nextjs](https://github.com/themefisher/bookworm-light-nextjs) - Bookworm is a minimal NextJs, Tailwind CSS blog starter template.
@@ -2794,7 +2795,6 @@
 - [Maxinator500/SREP-Patches](https://github.com/Maxinator500/SREP-Patches) - 
 - [LearnMachineLearning/the-math-of-intelligence](https://github.com/LearnMachineLearning/the-math-of-intelligence) - List of resources & possible pathway for the Math of Machine Learning and AI.
 - [Haxxnet/Compose-Examples](https://github.com/Haxxnet/Compose-Examples) - Various Docker Compose examples of selfhosted FOSS and proprietary projects.
-- [JRedeker/opencode-shell-strategy](https://github.com/JRedeker/opencode-shell-strategy) - Teaches LLMs to use non-interactive shell flags in OpenCode (no TTY/PTY available)
 - [yokoffing/filterlists](https://github.com/yokoffing/filterlists) - Collection of blocklists to fill in the gaps
 - [ZDOSt/Game-Master](https://github.com/ZDOSt/Game-Master) - SillyTavern Preset for those who want to be a "player" while LLM acts as the Game Master. Complete with dice mechanics, relationship engine, and random event generator.
 - [ceruleandeep/SillyTavern-SelfExpression](https://github.com/ceruleandeep/SillyTavern-SelfExpression) - Experiments in self-selection and self-generation of agent images
@@ -3442,7 +3442,6 @@
 - [aravindavk/fontforge-python-cookbook](https://github.com/aravindavk/fontforge-python-cookbook) - Fontforge Python Scripts
 - [sickcodes/gpt-engineer](https://github.com/sickcodes/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
 - [kamilion/customizer](https://github.com/kamilion/customizer) - Ubuntu Live CD remastering tool
-- [feder-cr/Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk) - AIHawk aims to easy job hunt process by automating the job application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in a tailored way.
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 - [DAVEinside/GenAI_Job_Fit](https://github.com/DAVEinside/GenAI_Job_Fit) - 
 - [TengHu/ActionWeaver](https://github.com/TengHu/ActionWeaver) - Make function calling with LLM easier
@@ -4093,6 +4092,7 @@
 - [23blocks-OS/ai-maestro-plugins](https://github.com/23blocks-OS/ai-maestro-plugins) - Build complete AI agents — 150+ personalities + 7 skills + messaging + identity. The skill builder for AI Maestro.
 - [IamJony/book-scraping](https://github.com/IamJony/book-scraping) - A Bash script to search and download books using  shadows libraries
 - [Rakosn1cek/xc-manager](https://github.com/Rakosn1cek/xc-manager) - A lightweight, Zsh-native vault for command execution with GPG encryption, interactive templates, and fzf integration.
+- [JRedeker/opencode-shell-strategy](https://github.com/JRedeker/opencode-shell-strategy) - Teaches LLMs to use non-interactive shell flags in OpenCode (no TTY/PTY available)
 - [dockur/macos](https://github.com/dockur/macos) - MacOS inside a Docker container.
 - [rodrigogalura/bak-rstr](https://github.com/rodrigogalura/bak-rstr) - Simple Backup & Restore: Compress, upload, and secure your files to Dropbox with a single command!
 - [NixOS/flake-registry](https://github.com/NixOS/flake-registry) - Global registry of Nix flakes
@@ -4449,7 +4449,7 @@
 - [noob-hackers/infect](https://github.com/noob-hackers/infect) - Infect Any Android Device With Virus From Link In Termux
 - [noob-hackers/ighack](https://github.com/noob-hackers/ighack) - Hack Instagram From Termux With Help of Tor
 - [grozours/iso-customisation](https://github.com/grozours/iso-customisation) - how to customise ubuntu and archlinux iso
-- [marcoobaid/oblinux](https://github.com/marcoobaid/oblinux) - My custom Archlinux ISO
+- [marcoobaid/oblinux-old](https://github.com/marcoobaid/oblinux-old) - My custom Archlinux ISO
 - [f-koehler/archlinux-custom-iso](https://github.com/f-koehler/archlinux-custom-iso) - 
 - [be-ys/Genepi](https://github.com/be-ys/Genepi) - Genepi is a 64 bit Linux distribution for Raspberry Pi 4 based on Alpine Linux.
 - [hsxsix/archlinuxarm-aarch64-rpi](https://github.com/hsxsix/archlinuxarm-aarch64-rpi) - archlinuxarm aarch64 for raspiberry pi 3, 3B+, 3A, 4B
@@ -4561,7 +4561,6 @@
 - [wikibonsai/germinator](https://github.com/wikibonsai/germinator) - AI-powered semantic seedling germination.
 - [wikibonsai/wikibonsai](https://github.com/wikibonsai/wikibonsai) - A structured knowledge layer in plain text.
 - [morispolanco/books-by-ai](https://github.com/morispolanco/books-by-ai) - Books generated by AI
-- [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 - [hertg/lightdm-neon](https://github.com/hertg/lightdm-neon) - :art: A customizable theme for web-greeter in a nostalgic but modern neon look
 - [perfect-things/perfect-home](https://github.com/perfect-things/perfect-home) - firefox newtab/home replacement
 - [catchspider2002/svelte-svg-patterns](https://github.com/catchspider2002/svelte-svg-patterns) - Create seamless patterns in SVG to use as website backgrounds, header images, stationery design and package design
@@ -4570,7 +4569,7 @@
 ## Swift 
 
 - [Trundle/awc](https://github.com/Trundle/awc) - A Wayland compositor
-- [Kruszoneq/macUSB](https://github.com/Kruszoneq/macUSB) - Download. Flash. Boot. The all-in-one USB creator for Mac
+- [Kruszoneq/macUSB](https://github.com/Kruszoneq/macUSB) - The all-in-one bootable USB creator for Mac
 - [signerlabs/Klee](https://github.com/signerlabs/Klee) - A native macOS AI chat app powered by MLX. 100% local inference on Apple Silicon, no cloud required. Built with ShipSwift.
 - [ianyh/Amethyst](https://github.com/ianyh/Amethyst) - Automatic tiling window manager for macOS à la xmonad.
 - [rootfont/rootfont](https://github.com/rootfont/rootfont) - The native font manager for designers and programmers on macOS.
