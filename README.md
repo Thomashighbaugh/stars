@@ -134,6 +134,7 @@
 
 ## C 
 
+- [kavau/atrium](https://github.com/kavau/atrium) - A Wayland display manager for Linux with first-class multiseat support.
 - [User1818183/CyberMeowfia](https://github.com/User1818183/CyberMeowfia) - PoCs and exploits for CVEs discovered by VEGA.
 - [NebuSec/CyberMeowfia](https://github.com/NebuSec/CyberMeowfia) - PoCs and exploits for CVEs discovered by VEGA.
 - [adnanpri/legion-wmi](https://github.com/adnanpri/legion-wmi) - A WMI driver for Lenovo Legion series of laptops
@@ -819,7 +820,6 @@
 - [rwietter/nixos](https://github.com/rwietter/nixos) - ⚡ rwietter's NixOS settings
 - [MuftiAnees/StartPage](https://github.com/MuftiAnees/StartPage) - A startpage for web browsers
 - [HirotakaDango/iframes](https://github.com/HirotakaDango/iframes) - Split screens through iframes.
-- [natthasath/vibe-liquid-macos](https://github.com/natthasath/vibe-liquid-macos) - Vibe Liquid macOS brings the sleek look and feel of macOS’s liquid-style interface to your browser. Enjoy smooth animations, elegant design, and intuitive interactions that mimic the macOS experience—
 - [denislemeshko/portfolio-front-end](https://github.com/denislemeshko/portfolio-front-end) - Denis Lemeshko portfolio front-end with CV.pdf
 - [5hubham5ingh/foxpanel](https://github.com/5hubham5ingh/foxpanel) - Highly feature rich, firefox home-page, linux system control panel, built using Baremetal for Arch linux.
 - [inulute/unlim-cloud](https://github.com/inulute/unlim-cloud) - UnlimCloud provides unlimited cloud storage for your files, utilizing Telegram as the storage solution. Simply log in using your Telegram ID, and you are good to go.
@@ -997,6 +997,7 @@
 
 ## JavaScript 
 
+- [chew1976/dynamic-vars](https://github.com/chew1976/dynamic-vars) - An extension for SillyTavern that allows you to define and use dynamic variables.
 - [lovexj520/userChromeJS-2](https://github.com/lovexj520/userChromeJS-2) - Firefox userChromeJS
 - [117649/Tab-Groups](https://github.com/117649/Tab-Groups) - Reimplementation of Firefox Tab Groups as an add-on.
 - [kikyoicecream/next-choices](https://github.com/kikyoicecream/next-choices) - 
@@ -2030,7 +2031,6 @@
 - [troglobit/awesome-light](https://github.com/troglobit/awesome-light) - Lua library for controlling screen and keyboard brightness from Awesome WM
 - [troglobit/awesome-plain](https://github.com/troglobit/awesome-plain) - Plain barebones AwesomeWM setup
 - [troglobit/awesome-switcher](https://github.com/troglobit/awesome-switcher) - Familiar Alt-Tab functionality in Awesome WM (3.5.5)
-- [Savecoders/dotfiles](https://github.com/Savecoders/dotfiles) - AwesomeWM and Hyprland Dots
 - [jcrd/awesome-config](https://github.com/jcrd/awesome-config) - AwesomeWM config
 - [AhmedSaadi0/MyAwesomeConfig](https://github.com/AhmedSaadi0/MyAwesomeConfig) - 
 - [sebth/awesome-overlap](https://github.com/sebth/awesome-overlap) - Overlapping tiling layout for awesome window manager
@@ -2957,7 +2957,7 @@
 - [Templarian/MaterialDesign](https://github.com/Templarian/MaterialDesign) - ✒7000+ Material Design Icons from the Community
 - [halfmage/majesticons](https://github.com/halfmage/majesticons) - 👑 Free version of Majesticons — a versatile, beautiful, and scalable iconset. 760 MIT-licensed SVG icons in line and solid style. 11,000+ icons at majesticons.com
 - [leptos-rs/awesome-leptos](https://github.com/leptos-rs/awesome-leptos) - A collection of awesome libraries in the Leptos ecosystem.
-- [chatanywhere/GPT_API_free](https://github.com/chatanywhere/GPT_API_free) - Free ChatGPT&DeepSeek API Key，免费ChatGPT&DeepSeek API。免费接入DeepSeek API和GPT4 API，支持 gpt | deepseek | claude | gemini | grok 等排名靠前的常用大模型。
+- [chatanywhere/GPT_API_free](https://github.com/chatanywhere/GPT_API_free) - 免费大模型API，支持免费调用GPT、DeepSeek等主流模型，免费额度10000点，每日刷新！另付费价格最低官方1-2折！
 - [birdneststream/breakingbard](https://github.com/birdneststream/breakingbard) - Google Bard 'jailbreaks' and prompt poisoning, similar to how ChatGPT has DAN Mode but for Google Bard.
 - [ctjhoa/rust-learning](https://github.com/ctjhoa/rust-learning) - A bunch of links to blog posts, articles, videos, etc for learning Rust
 - [llZektorll/Template_Hub](https://github.com/llZektorll/Template_Hub) - Obsidian Template Hub started on the 13th of June 2022. It was set up to gather as many note templates as possible.
@@ -3290,11 +3290,12 @@
 
 ## Python 
 
+- [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
 - [lllyasviel/stable-diffusion-webui-forge](https://github.com/lllyasviel/stable-diffusion-webui-forge) - 
 - [paperswithbacktest/awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading) - A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.
 - [msprev/panzer](https://github.com/msprev/panzer) - pandoc + styles
 - [jamditis/claude-skills-journalism](https://github.com/jamditis/claude-skills-journalism) - Claude Code skills for journalism, media, and academia - verification, FOIA, data journalism, academic writing, and more
-- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 1,987+ agentic skills. Includes CLI, local MCP, catalo
+- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,000+ agentic skills. Includes CLI, local MCP, catalo
 - [qnorsten/twrp_device_google_pixels](https://github.com/qnorsten/twrp_device_google_pixels) - 
 - [DonBananas/MultiAgent-BrainEngine-SillyTavern](https://github.com/DonBananas/MultiAgent-BrainEngine-SillyTavern) - 6-agent cognitive proxy server for SillyTavern.
 - [civitai/sd_civitai_extension](https://github.com/civitai/sd_civitai_extension) - All of the Civitai models inside Automatic 1111 Stable Diffusion Web UI
@@ -3826,6 +3827,7 @@
 - [elkowar/dots-of-war](https://github.com/elkowar/dots-of-war) - My dotfiles, mostly. This is the wild west. don't expect to understand this mess. Don't try to understand this mess. This serves as a good way to backup my configs, nothing more.
 - [L4ki/Shiny-Plasma-Themes](https://github.com/L4ki/Shiny-Plasma-Themes) - Shiny Plasma Themes For Plasma Desktop
 - [Calinix-Team/Calinix-Arch](https://github.com/Calinix-Team/Calinix-Arch) - CalinixOS Linux Distribution ISO Profiles
+- [Savecoders/dotfiles](https://github.com/Savecoders/dotfiles) - AwesomeWM and Hyprland Dots
 - [nuxshed/dotfiles](https://github.com/nuxshed/dotfiles) - pls help
 - [mpourismaiel/dotfiles](https://github.com/mpourismaiel/dotfiles) - dotfiles for my current setup
 
@@ -4598,6 +4600,7 @@
 
 ## TypeScript 
 
+- [bmen25124/SillyTavern-Character-Creator](https://github.com/bmen25124/SillyTavern-Character-Creator) - A SillyTavern extension that creates character with LLMs.
 - [shadcn-labs/termcn](https://github.com/shadcn-labs/termcn) - Beautiful terminal UI components, built on Ink and OpenTUI. 100% Free, Zero config, one command setup.
 - [neobrutalism-templates/bento](https://github.com/neobrutalism-templates/bento) - 
 - [JARVlS/peekcss](https://github.com/JARVlS/peekcss) - CSS inspector Addon for firefox / chrome
