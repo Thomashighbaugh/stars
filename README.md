@@ -1270,7 +1270,7 @@
 - [farshed/duofolio](https://github.com/farshed/duofolio) - Ebook reader for linguaphiles 📖
 - [barretlee/kindleBookMaker](https://github.com/barretlee/kindleBookMaker) - Kindle Book Maker with KindleGen, Make Book from RSS/single URL/directory and so on.
 - [easychen/book-by-ai](https://github.com/easychen/book-by-ai) - Generate high-quality books with AI
-- [dailydotdev/daily](https://github.com/dailydotdev/daily) - daily.dev is the personalized developer news feed and community. Get the best tech content from 1000+ sources in your browser new tab or on mobile. Free and open source.
+- [dailydotdev/daily](https://github.com/dailydotdev/daily) - daily.dev is the personalized developer news feed and community. Get the best tech content from 2,000+ sources in your browser new tab or on mobile. Free and open source.
 - [Ede123/userscripts](https://github.com/Ede123/userscripts) - My humble collection of userscripts!
 - [kufii/My-UserScripts](https://github.com/kufii/My-UserScripts) - A collection of user scripts that I made to make my experience on the web a little nicer
 - [smythp/ebooks-as-applications](https://github.com/smythp/ebooks-as-applications) - Presentation for MLA 2017 on ebooks as applications
@@ -1383,7 +1383,6 @@
 - [mixu/nwm](https://github.com/mixu/nwm) - Tiling window manager for X11 written in Node.js
 - [ayushman-git/project-manager](https://github.com/ayushman-git/project-manager) - 
 - [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
-- [primer/octicons](https://github.com/primer/octicons) - A scalable set of icons handcrafted with ❤️ by GitHub
 - [pcottle/learnGitBranching](https://github.com/pcottle/learnGitBranching) - An interactive git visualization and tutorial. Aspiring students of git can use this app to educate and challenge themselves towards mastery of git!
 - [terkelg/prompts](https://github.com/terkelg/prompts) - ❯ Lightweight, beautiful and user-friendly interactive prompts
 - [carbon-app/carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
@@ -3443,6 +3442,7 @@
 - [aravindavk/fontforge-python-cookbook](https://github.com/aravindavk/fontforge-python-cookbook) - Fontforge Python Scripts
 - [sickcodes/gpt-engineer](https://github.com/sickcodes/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
 - [kamilion/customizer](https://github.com/kamilion/customizer) - Ubuntu Live CD remastering tool
+- [feder-cr/Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk) - AIHawk aims to easy job hunt process by automating the job application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in a tailored way.
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 - [DAVEinside/GenAI_Job_Fit](https://github.com/DAVEinside/GenAI_Job_Fit) - 
 - [TengHu/ActionWeaver](https://github.com/TengHu/ActionWeaver) - Make function calling with LLM easier
@@ -4600,6 +4600,7 @@
 
 ## TypeScript 
 
+- [MentallyQuill/Tavernary](https://github.com/MentallyQuill/Tavernary) - A GitHub-native catalog for AI roleplaying tools, extensions, and systems.
 - [bmen25124/SillyTavern-Character-Creator](https://github.com/bmen25124/SillyTavern-Character-Creator) - A SillyTavern extension that creates character with LLMs.
 - [shadcn-labs/termcn](https://github.com/shadcn-labs/termcn) - Beautiful terminal UI components, built on Ink and OpenTUI. 100% Free, Zero config, one command setup.
 - [neobrutalism-templates/bento](https://github.com/neobrutalism-templates/bento) - 
@@ -4890,6 +4891,7 @@
 - [Thomashighbaugh/startpage-figma-balls-nextjs](https://github.com/Thomashighbaugh/startpage-figma-balls-nextjs) - A recreation of a startpage posted on Reddit without the source, so I rewrote it in Next.js + Tailwind for the open source community.
 - [theodorusclarence/ts-nextjs-tailwind-starter](https://github.com/theodorusclarence/ts-nextjs-tailwind-starter) - 🔋 Next.js + Tailwind CSS + TypeScript starter and boilerplate packed with useful development features
 - [codelitdev/courselit](https://github.com/codelitdev/courselit) - Create/Sell courses and digital downloads and publish blogs on your own branded website. An open source alternative to Teachable, Thinkific, Podia and the likes.
+- [primer/octicons](https://github.com/primer/octicons) - A scalable set of icons handcrafted with ❤️ by GitHub
 - [galax028/startpage](https://github.com/galax028/startpage) - A minimalistic custom browser startpage that can be configured to your needs.
 - [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces.
 - [sstawiarski/nextjs-portfolio-website](https://github.com/sstawiarski/nextjs-portfolio-website) - Personal portfolio website written using Next.js, TypeScript, and Tailwind CSS
