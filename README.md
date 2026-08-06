@@ -134,6 +134,7 @@
 
 ## C 
 
+- [macunha1/awesomewm-screenlock-plugin](https://github.com/macunha1/awesomewm-screenlock-plugin) - AwesomeWM privacy-focused screenlock plugin with an asynchronous Lua + C implementation, native X11 capture, FFmpeg filtering, and   PAM authentication for a responsive lock experience that keeps the 
 - [kavau/atrium](https://github.com/kavau/atrium) - A Wayland display manager for Linux with first-class multiseat support.
 - [User1818183/CyberMeowfia](https://github.com/User1818183/CyberMeowfia) - PoCs and exploits for CVEs discovered by VEGA.
 - [NebuSec/CyberMeowfia](https://github.com/NebuSec/CyberMeowfia) - PoCs and exploits for CVEs discovered by VEGA.
@@ -1237,7 +1238,6 @@
 - [emilamaj/bookwriter](https://github.com/emilamaj/bookwriter) - Let AI generate a complete book simply by providing a title and a description
 - [aeksco/react-typescript-web-extension-starter](https://github.com/aeksco/react-typescript-web-extension-starter) - :desktop_computer: Web Extension starter kit built with React, TypeScript, TailwindCSS, Storybook, Jest, EsLint, Prettier, and Webpack. Supports Google Chrome + Mozilla Firefox + Brave Browser + Micro
 - [jaynewey/charm-icons](https://github.com/jaynewey/charm-icons) - 🍀 Charming Open Source vector icons.
-- [carbon-design-system/carbon](https://github.com/carbon-design-system/carbon) - A design system built by IBM
 - [halfmage/pixelarticons](https://github.com/halfmage/pixelarticons) - 👾 Beautiful pixel icons. For the pixel vibes.
 - [CoreyGinnivan/system-uicons](https://github.com/CoreyGinnivan/system-uicons) - System UIcons is an icon library design for systems and products. Use how you want, without attribution.
 - [artcoholic/akar-icons](https://github.com/artcoholic/akar-icons) - Akar icons library as React components.
@@ -1729,6 +1729,7 @@
 
 ## Lua 
 
+- [macunha1/awesomewm-media-player-widget](https://github.com/macunha1/awesomewm-media-player-widget) - AwesomeWM generic Media Player Widget implementation in pure Lua through MPRIS D-Bus interface spec
 - [willothy/nvim-cokeline](https://github.com/willothy/nvim-cokeline) - :nose: A Neovim bufferline for people with addictive personalities
 - [x3ric/usr](https://github.com/x3ric/usr) - DotFiles
 - [ray-x/yamlmatter.nvim](https://github.com/ray-x/yamlmatter.nvim) - Enhancing the display of YAML frontmatter in Markdown files
@@ -1917,7 +1918,7 @@
 - [meuter/nvim](https://github.com/meuter/nvim) - nvim config
 - [nvimdev/dope](https://github.com/nvimdev/dope) - a modern structure neovim config template write in lua
 - [glepnir/nvim](https://github.com/glepnir/nvim) - neovim configuration written in lua
-- [davidvmu/awesome](https://github.com/davidvmu/awesome) - Config for the awesome window manager
+- [dmun/awesome](https://github.com/dmun/awesome) - Config for the awesome window manager
 - [michaelbeaumont/awesome-sesh](https://github.com/michaelbeaumont/awesome-sesh) - Awesome WM Sessions
 - [michaelbeaumont/awesome-yubikey-notify](https://github.com/michaelbeaumont/awesome-yubikey-notify) - Naughty notifications + yubikey-touch-detector
 - [michaelbeaumont/awesome-leader](https://github.com/michaelbeaumont/awesome-leader) - Leader key for Awesome WM
@@ -4759,6 +4760,7 @@
 - [element-plus/element-plus-icons](https://github.com/element-plus/element-plus-icons) - Main package for storing Element Plus icon resources.
 - [bytedance/IconPark](https://github.com/bytedance/IconPark) - 🍎Transform an SVG icon into multiple themes, and generate React icons，Vue icons，svg icons
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
+- [carbon-design-system/carbon](https://github.com/carbon-design-system/carbon) - A design system built by IBM
 - [mingcute-design/mingcute-icons](https://github.com/mingcute-design/mingcute-icons) - Carefully designed icons for modern interfaces. MingCute is a simple, elegant open-source icon library built for web and mobile products.
 - [AI-Prompt-Genius/AI-Prompt-Genius](https://github.com/AI-Prompt-Genius/AI-Prompt-Genius) - Curate a custom library of AI Prompts
 - [radix-ui/icons](https://github.com/radix-ui/icons) - A crisp set of 15×15 icons designed by the @workos team.
@@ -5010,7 +5012,7 @@
 - [BlankOn/manokwari](https://github.com/BlankOn/manokwari) - Manokwari desktop shell for GNOME 3
 - [UbuntuBudgie/experimental](https://github.com/UbuntuBudgie/experimental) - Tweaks for your budgie-desktop
 - [ricotz/plank](https://github.com/ricotz/plank) - Stupidly simple.
-- [lainsce/quilter](https://github.com/lainsce/quilter) - [DEPRECATED] Focus on your writing.
+- [lainsce/quilter](https://github.com/lainsce/quilter) - Focus on your writing.
 - [elementary/installer](https://github.com/elementary/installer) - Installer front-end for Linux-based OSes
 - [UbuntuBudgie/budgie-extras](https://github.com/UbuntuBudgie/budgie-extras) - Additional Budgie Desktop enhancements for user experience
 - [GNOME/geary](https://github.com/GNOME/geary) - Read-only mirror of https://gitlab.gnome.org/GNOME/geary
@@ -5037,7 +5039,7 @@
 - [lambdalisue/vim-suda](https://github.com/lambdalisue/vim-suda) - 🥪 An alternative sudo.vim for Vim and Neovim, limited support sudo in Windows
 - [vimwiki/vimwiki](https://github.com/vimwiki/vimwiki) - Personal Wiki for Vim
 - [abdullahalzubaer/neovim-setup](https://github.com/abdullahalzubaer/neovim-setup) - 
-- [ab-dx/blood_i3](https://github.com/ab-dx/blood_i3) - 
+- [ab-dx/i3_dotfiles](https://github.com/ab-dx/i3_dotfiles) - 
 - [antoniosarosi/dotfiles](https://github.com/antoniosarosi/dotfiles) - My dotfiles repo, here you can find all my window manager configs as well as documentation and a guide on how to make your own desktop environment.
 - [theniceboy/nvim](https://github.com/theniceboy/nvim) - The Ultimate NeoVim Config for Colemak Users
 - [Thomashighbaugh/vim](https://github.com/Thomashighbaugh/vim) - Vim configuration
