@@ -3294,7 +3294,7 @@
 - [paperswithbacktest/awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading) - A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.
 - [msprev/panzer](https://github.com/msprev/panzer) - pandoc + styles
 - [jamditis/claude-skills-journalism](https://github.com/jamditis/claude-skills-journalism) - Claude Code skills for journalism, media, and academia - verification, FOIA, data journalism, academic writing, and more
-- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,000+ agentic skills. Includes CLI, local MCP, catalo
+- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,005+ agentic skills. Includes CLI, local MCP, catalo
 - [qnorsten/twrp_device_google_pixels](https://github.com/qnorsten/twrp_device_google_pixels) - 
 - [DonBananas/MultiAgent-BrainEngine-SillyTavern](https://github.com/DonBananas/MultiAgent-BrainEngine-SillyTavern) - 6-agent cognitive proxy server for SillyTavern.
 - [civitai/sd_civitai_extension](https://github.com/civitai/sd_civitai_extension) - All of the Civitai models inside Automatic 1111 Stable Diffusion Web UI
@@ -3997,7 +3997,7 @@
 - [wezm/bar](https://github.com/wezm/bar) - A bar that lives in the awesome window manager wibar
 - [SuperCuber/dotter](https://github.com/SuperCuber/dotter) - A dotfile manager and templater written in rust 🦀
 - [r-darwish/alma](https://github.com/r-darwish/alma) - Create Arch Linux based bootable USB drives
-- [sunface/rust-by-practice](https://github.com/sunface/rust-by-practice) - Learning Rust By Practice,  narrowing the gap between beginner and skilled-dev through challenging examples, exercises and projects.
+- [sunface/rust-by-practice](https://github.com/sunface/rust-by-practice) - [DEPRECATED] This repo will move into gihub.com/sunface/rust-course
 - [he-la/perspektiv](https://github.com/he-la/perspektiv) - A daemon for creating popups when you change monitor brightness, volume, etc.
 - [terror/zk](https://github.com/terror/zk) - A note-taking tool based on the famous Zettelkasten method
 - [velas/velas-chain](https://github.com/velas/velas-chain) - 
@@ -5006,6 +5006,7 @@
 
 ## Vala 
 
+- [getnf/embellish](https://github.com/getnf/embellish) - Install Nerd Fonts
 - [Aylur/astal](https://github.com/Aylur/astal) - Building blocks for creating custom desktop shells
 - [parnoldx/nasc](https://github.com/parnoldx/nasc) - Do maths like a normal person
 - [BlankOn/manokwari](https://github.com/BlankOn/manokwari) - Manokwari desktop shell for GNOME 3
