@@ -998,6 +998,7 @@
 
 ## JavaScript 
 
+- [santifer/career-ops](https://github.com/santifer/career-ops) - Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, 
 - [chew1976/dynamic-vars](https://github.com/chew1976/dynamic-vars) - An extension for SillyTavern that allows you to define and use dynamic variables.
 - [lovexj520/userChromeJS-2](https://github.com/lovexj520/userChromeJS-2) - Firefox userChromeJS
 - [117649/Tab-Groups](https://github.com/117649/Tab-Groups) - Reimplementation of Firefox Tab Groups as an add-on.
@@ -3442,7 +3443,7 @@
 - [aravindavk/fontforge-python-cookbook](https://github.com/aravindavk/fontforge-python-cookbook) - Fontforge Python Scripts
 - [sickcodes/gpt-engineer](https://github.com/sickcodes/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
 - [kamilion/customizer](https://github.com/kamilion/customizer) - Ubuntu Live CD remastering tool
-- [feder-cr/Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk) - AIHawk aims to easy job hunt process by automating the job application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in a tailored way.
+- [feder-cr/Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk) - Open source AI job application bot in Python: auto apply to jobs, with a tailored resume and cover letter for each posting.
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 - [DAVEinside/GenAI_Job_Fit](https://github.com/DAVEinside/GenAI_Job_Fit) - 
 - [TengHu/ActionWeaver](https://github.com/TengHu/ActionWeaver) - Make function calling with LLM easier
@@ -4881,7 +4882,7 @@
 - [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - The open source frontend for GitBook doc sites
 - [ant-design/ant-design-icons](https://github.com/ant-design/ant-design-icons) - ⭐ Ant Design SVG Icons
 - [react-icons/react-icons](https://github.com/react-icons/react-icons) - svg react icons of popular icon packs
-- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
+- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作
 - [cosmoscout/tasty.js](https://github.com/cosmoscout/tasty.js) - 🍰 A delicious Pie- and Marking-Menu Framework written in TypeScript.
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [anirudhvarma12/rabbit-hole-webext](https://github.com/anirudhvarma12/rabbit-hole-webext) - A Browser Extension to trace your Wikipedia Journeys
