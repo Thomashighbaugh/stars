@@ -1281,7 +1281,6 @@
 - [nuejs/nue](https://github.com/nuejs/nue) - Fastest way to build modern websites
 - [GuiDevloper/nullstack](https://github.com/GuiDevloper/nullstack) - Full-stack javascript components for one-dev armies.
 - [vitorgamer58/nullstack-herbs-url-shortener](https://github.com/vitorgamer58/nullstack-herbs-url-shortener) - Proof of concept of Nullstack integration with HerbsJs
-- [ddanielcruz/nullstack-linktree](https://github.com/ddanielcruz/nullstack-linktree) - Simple Linktree clone built with Nullstack and Tailwind
 - [GuiDevloper/create-nullstatic-app](https://github.com/GuiDevloper/create-nullstatic-app) - Crawls every accessible link in your application and generates static HTML.
 - [GuiDevloper/create-nullstack-app](https://github.com/GuiDevloper/create-nullstack-app) - The fastest way to start using Nullstack.
 - [edysegura/pwa-pokedex](https://github.com/edysegura/pwa-pokedex) - A PWA Pokédex
@@ -4601,6 +4600,9 @@
 
 ## TypeScript 
 
+- [xob0t/Google-Photos-Toolkit](https://github.com/xob0t/Google-Photos-Toolkit) - Userscript to filter, search, organize, or delete your Google Photos library
+- [mtalcott/google-photos-deduper](https://github.com/mtalcott/google-photos-deduper) - An unofficial Chrome extension that finds and removes duplicate photos from your Google Photos library
+- [drivebase/drivebase](https://github.com/drivebase/drivebase) - Drivebase is a cloud-agnostic file management platform for people and teams using multiple storage providers. 🚀
 - [MentallyQuill/Tavernary](https://github.com/MentallyQuill/Tavernary) - A GitHub-native catalog for AI roleplaying tools, extensions, and systems.
 - [bmen25124/SillyTavern-Character-Creator](https://github.com/bmen25124/SillyTavern-Character-Creator) - A SillyTavern extension that creates character with LLMs.
 - [shadcn-labs/termcn](https://github.com/shadcn-labs/termcn) - Beautiful terminal UI components, built on Ink and OpenTUI. 100% Free, Zero config, one command setup.
@@ -4621,7 +4623,7 @@
 - [yadav-prakhar/opencode-senate](https://github.com/yadav-prakhar/opencode-senate) - Auto agent orchestrator framework for Opencode
 - [0xkuze/add-dir-opencode](https://github.com/0xkuze/add-dir-opencode) - the add-dir command from claude code  but for opencode
 - [Mte90/opencode-auto-resume](https://github.com/Mte90/opencode-auto-resume) - OpenCode stops working if a model goes in timeout or there are errors, this plugin fixes those issues
-- [first-fluke/oh-my-agent](https://github.com/first-fluke/oh-my-agent) - Portable, vendor-agnostic agent harness for project-specific skills, workflows, and agent teams aligned with your codebase, conventions, and engineering standards.
+- [first-fluke/oh-my-agent](https://github.com/first-fluke/oh-my-agent) - The hardcore, vendor-agnostic multi-agent orchestrator for production-grade software. Build agent teams aligned with your exact engineering standards.
 - [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer) - The best way to get AI coding agents to solve hard problems in complex codebases.
 - [gotalab/cc-sdd](https://github.com/gotalab/cc-sdd) - Turn approved specs into long-running autonomous implementation. A minimal, adaptable SDD harness with Agent Skills for Claude Code, Codex, Cursor, Copilot, Windsurf, OpenCode, Gemini CLI, and Antigra
 - [upstash/context7](https://github.com/upstash/context7) - Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
