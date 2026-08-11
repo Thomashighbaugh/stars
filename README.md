@@ -137,7 +137,7 @@
 - [macunha1/awesomewm-screenlock-plugin](https://github.com/macunha1/awesomewm-screenlock-plugin) - AwesomeWM privacy-focused screenlock plugin with an asynchronous Lua + C implementation, native X11 capture, FFmpeg filtering, and   PAM authentication for a responsive lock experience that keeps the 
 - [kavau/atrium](https://github.com/kavau/atrium) - A Wayland display manager for Linux with first-class multiseat support.
 - [User1818183/CyberMeowfia](https://github.com/User1818183/CyberMeowfia) - PoCs and exploits for CVEs discovered by VEGA.
-- [NebuSec/CyberMeowfia](https://github.com/NebuSec/CyberMeowfia) - PoCs and exploits for CVEs discovered by VEGA.
+- [NebuSec/CyberMeowfia](https://github.com/NebuSec/CyberMeowfia) - PoCs and exploits for CVEs discovered by NebuSec.
 - [adnanpri/legion-wmi](https://github.com/adnanpri/legion-wmi) - A WMI driver for Lenovo Legion series of laptops
 - [LongQT-sea/OpenCore-ISO](https://github.com/LongQT-sea/OpenCore-ISO) - A properly configured OpenCore-ISO image for Proxmox VE and QEMU/KVM - Support Mac OS X 10.4 to macOS 26
 - [killvxk/openforbusiness-realoriginal](https://github.com/killvxk/openforbusiness-realoriginal) - WIP:A generic UEFI shellcode intended to be patched into a DXE phase driver or `bootmgfw` on the ESP volume of the hard drive to toggle off integrity checks for Kernel Driver testing purposes.
@@ -1321,7 +1321,7 @@
 - [nypublicradio/audiogram](https://github.com/nypublicradio/audiogram) - Turn audio into a shareable video.
 - [overdodactyl/ShadowFox](https://github.com/overdodactyl/ShadowFox) - A universal dark theme for Firefox
 - [WebPraktikos/universal-resume](https://github.com/WebPraktikos/universal-resume) - Minimal and formal résumé (CV) website template for print, mobile, and desktop.
-- [sandstorm-io/sandstorm](https://github.com/sandstorm-io/sandstorm) - Sandstorm is a self-hostable web productivity suite. It's implemented as a security-hardened web app package manager.
+- [sandstorm-io/sandstorm](https://github.com/sandstorm-io/sandstorm) - Sandstorm is a self-hostable web productivity suite. It's implemented as a security-hardened web app package manager. | Actively sponsored by our friends at TestMu AI
 - [darktrojan/newtabtools](https://github.com/darktrojan/newtabtools) - New Tab Tools add-on for Firefox and Chrome
 - [socioboard/Socioboard-5.0](https://github.com/socioboard/Socioboard-5.0) - Socioboard is world's first and open source Social Technology Enabler. Socioboard Core is our flagship product.
 - [FirefoxBar/WebExt-build-tool](https://github.com/FirefoxBar/WebExt-build-tool) - A tool to build webextension
@@ -2736,7 +2736,7 @@
 - [Misterio77/nix-starter-configs](https://github.com/Misterio77/nix-starter-configs) - Simple and documented config templates to help you get started with NixOS + home-manager + flakes. All the boilerplate you need!
 - [syncom/custom_nixos_iso](https://github.com/syncom/custom_nixos_iso) - Build custom nixOS ISO
 - [notusknot/dotfiles-nix](https://github.com/notusknot/dotfiles-nix) - Configuration files for my NixOS machine, declared by home-manager
-- [sioodmy/dotfiles](https://github.com/sioodmy/dotfiles) - My NixOS configuration flake that moggs yours in term of eval times
+- [sioodmy/nixus](https://github.com/sioodmy/nixus) - My NixOS configuration flake that moggs yours in term of eval times
 - [davegallant/nix-config](https://github.com/davegallant/nix-config) - configuration for my mac and linux machines
 - [yurrriq/dotfiles](https://github.com/yurrriq/dotfiles) - My (semi-)literate dotfiles for Nix, Emacs, fish, etc, managed with home-manager and GNU Stow
 - [MayNiklas/nixos](https://github.com/MayNiklas/nixos) - My personal NixOS infrastructure
@@ -3212,6 +3212,7 @@
 - [DFabric/dppm-packages-source](https://github.com/DFabric/dppm-packages-source) - Sources used to build the dppm packages
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
+- [isyuck/dotfiles](https://github.com/isyuck/dotfiles) - linux/osx
 - [luspr/awesome-ml-courses](https://github.com/luspr/awesome-ml-courses) - Awesome free machine learning and AI courses with video lectures.
 - [A75G/docker-templates](https://github.com/A75G/docker-templates) - Unraid Docker Templates
 - [tokyo-night/tokyo-night-vscode-theme](https://github.com/tokyo-night/tokyo-night-vscode-theme) - A clean, dark Visual Studio Code theme that celebrates the lights of Downtown Tokyo at night.
@@ -3768,7 +3769,6 @@
 - [hijkzzz/prisma](https://github.com/hijkzzz/prisma) - Prisma
 - [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) - Pretrain, finetune ANY AI model of ANY size on 1 or 10,000+ GPUs with zero code changes.
 - [fennerm/flashfocus](https://github.com/fennerm/flashfocus) - Simple focus animations for tiling window managers.
-- [isyuck/dotfiles](https://github.com/isyuck/dotfiles) - linux/osx
 - [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.
 - [deviantfero/wpgtk](https://github.com/deviantfero/wpgtk) - :flower_playing_cards: a colorscheme, wallpaper and template manager for *nix
 - [tmux-python/tmuxp](https://github.com/tmux-python/tmuxp) - 🖥️ Session manager for tmux, built on libtmux.
@@ -4600,6 +4600,7 @@
 
 ## TypeScript 
 
+- [ShaikhWarsi/free-ai-tools](https://github.com/ShaikhWarsi/free-ai-tools) - Curated list of free and low cost AI tools, LLM APIs, IDEs, agents, and infrastructure for building real AI apps
 - [xob0t/Google-Photos-Toolkit](https://github.com/xob0t/Google-Photos-Toolkit) - Userscript to filter, search, organize, or delete your Google Photos library
 - [mtalcott/google-photos-deduper](https://github.com/mtalcott/google-photos-deduper) - An unofficial Chrome extension that finds and removes duplicate photos from your Google Photos library
 - [drivebase/drivebase](https://github.com/drivebase/drivebase) - Drivebase is a cloud-agnostic file management platform for people and teams using multiple storage providers. 🚀
