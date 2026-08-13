@@ -111,7 +111,6 @@
 - [JuditKaramazov/karamaBlog](https://github.com/JuditKaramazov/karamaBlog) - 🚀🌿 karamaSystem v2 - Personal blog allowing me to be digitally imprisoned yet free.
 - [NixOS/nixos-homepage](https://github.com/NixOS/nixos-homepage) - Sources for nixos.org
 - [joshbrgs/my-portfolio](https://github.com/joshbrgs/my-portfolio) - My portfolio site and blog made with React/NextJS, ESLint & Prettier, Typescript, NodeJS(Go in the future), and Ghost CMS for the blog. Display of my projects and skills.
-- [Thomashighbaugh/thomasleonhighbaugh.me](https://github.com/Thomashighbaugh/thomasleonhighbaugh.me) - My portfolio site's new form and fresh branding
 
 ## Batchfile 
 
@@ -377,6 +376,7 @@
 - [hazyfossa/ShyFox](https://github.com/hazyfossa/ShyFox) - A very shy little theme that hides the entire browser interface in the window border
 - [soapdog/little-webby-press](https://github.com/soapdog/little-webby-press) - A PWA to generate eBooks
 - [lunar-os/ZenCss](https://github.com/lunar-os/ZenCss) - 
+- [greeeen-dev/natsumi-browser](https://github.com/greeeen-dev/natsumi-browser) - Welcome to your personal internet.
 - [LoneWolf4713/new-wave](https://github.com/LoneWolf4713/new-wave) - Dotfiles for my Fedora Sway New Wave Rice!
 - [khaneliman/blurredfox](https://github.com/khaneliman/blurredfox) - A sleek, modern and elegant Firefox CSS theme
 - [Bali10050/FirefoxCSS](https://github.com/Bali10050/FirefoxCSS) - Custom firefox interface
@@ -1125,7 +1125,6 @@
 - [SpicyMarinara/rpg-companion-sillytavern](https://github.com/SpicyMarinara/rpg-companion-sillytavern) - RPG Companion extension for SillyTavern - Track characters, quests, inventory, and game state with AI-generated content
 - [Omegastick/SillyTavern-CacheChunker](https://github.com/Omegastick/SillyTavern-CacheChunker) - Extension for improving cache utilization in Silly Tavern
 - [LenAnderson/SillyTavern-Export-HTML](https://github.com/LenAnderson/SillyTavern-Export-HTML) - Export chat history as an HTML document.
-- [greeeen-dev/natsumi-browser](https://github.com/greeeen-dev/natsumi-browser) - Welcome to your personal internet.
 - [CosmoCreeper/Sine](https://github.com/CosmoCreeper/Sine) - The ultimate theme manager for Firefox-based browsers.
 - [LenAnderson/SillyTavern-QuickReplyManager](https://github.com/LenAnderson/SillyTavern-QuickReplyManager) - 
 - [LenAnderson/SillyTavern-GoReadABook](https://github.com/LenAnderson/SillyTavern-GoReadABook) - Read your chat / story like a book.
@@ -2777,6 +2776,7 @@
 
 ## Others 
 
+- [dan1471/FREE-openai-api-keys](https://github.com/dan1471/FREE-openai-api-keys) - collection for free openai keys to use in your projects
 - [rajannpatel/Pi-Hole-PiVPN-on-Google-Compute-Engine-Free-Tier-with-Full-Tunnel-and-Split-Tunnel-OpenVPN-Configs](https://github.com/rajannpatel/Pi-Hole-PiVPN-on-Google-Compute-Engine-Free-Tier-with-Full-Tunnel-and-Split-Tunnel-OpenVPN-Configs) - Run your own privacy-first ad blocking service in the cloud for free on Google Cloud Services.
 - [fastfire/deepdarkCTI](https://github.com/fastfire/deepdarkCTI) - Collection of Cyber Threat Intelligence sources from the deep and dark web
 - [xixu-me/free-adobe](https://github.com/xixu-me/free-adobe) - Simple, complete tutorial for Adobe Creative Cloud activation
@@ -3883,7 +3883,7 @@
 - [CosmoCreeper/browsercfg](https://github.com/CosmoCreeper/browsercfg) - A tool allowing you to run isolated and controlled instances of Firefox-based browsers
 - [y5-snowies/nourish](https://github.com/y5-snowies/nourish) - Nourish OS. The modern way of using a computer.
 - [iyulab/unpdf](https://github.com/iyulab/unpdf) - High-performance Rust PDF extraction library with Markdown/JSON output, CJK/RTL support, multi-column layout detection, and Python/.NET/CLI bindings.
-- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
+- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your network traffic 🕵️‍♂️
 - [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang) - Open-source Agent Operating System
 - [gioleppe/SpixelaTUIr](https://github.com/gioleppe/SpixelaTUIr) - TUI based rust image glitcher
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
@@ -4942,6 +4942,7 @@
 - [amruthpillai/reactive-resume](https://github.com/amruthpillai/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [heysafronov/square-react-dashboard](https://github.com/heysafronov/square-react-dashboard) - [2018] React Dashboard Template built with TypeScript
 - [motiondivision/motion](https://github.com/motiondivision/motion) - A modern animation library for React and JavaScript
+- [Thomashighbaugh/thomasleonhighbaugh.me](https://github.com/Thomashighbaugh/thomasleonhighbaugh.me) - My portfolio site's new form and fresh branding
 - [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [nuxt/nuxt](https://github.com/nuxt/nuxt) - the full-stack Vue framework
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
@@ -4966,7 +4967,7 @@
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
 - [richardtaylordawson/pwa-shields](https://github.com/richardtaylordawson/pwa-shields) - Personalize your app's README with custom, fun, PWA shields in SVG
 - [whoisryosuke/ryosuke-gatsby-blog](https://github.com/whoisryosuke/ryosuke-gatsby-blog) - Static PWA React-powered portfolio and blog built with GatsbyJS
-- [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
+- [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full-stack web application template with FastAPI, React, SQLModel, PostgreSQL, Vite, Tailwind CSS, shadcn/ui, FastAPI Cloud, and Docker Compose.
 - [urbanogardun/monte-note](https://github.com/urbanogardun/monte-note) - Note taking application with a rich set of editing and management features
 - [taniarascia/takenote](https://github.com/taniarascia/takenote) - 📝  ‎ A web-based notes app for developers.
 - [vuejs/core](https://github.com/vuejs/core) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
