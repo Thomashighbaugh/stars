@@ -999,6 +999,7 @@
 
 ## JavaScript 
 
+- [helloyanis/age-verification-bypass](https://github.com/helloyanis/age-verification-bypass) - Extension to bypass age verification on some websites
 - [DummyTBanana/st-group-utils](https://github.com/DummyTBanana/st-group-utils) - A sillytavern extension that helps with groups
 - [amiantos/writers-guild](https://github.com/amiantos/writers-guild) - A SillyTavern alternative focused on short story writing with full support for Tavern cards and Lorebooks
 - [santifer/career-ops](https://github.com/santifer/career-ops) - Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, 
@@ -4247,7 +4248,7 @@
 - [MolassesLover/Nordzy-icon](https://github.com/MolassesLover/Nordzy-icon) - Nordzy is a free and open-source icon theme for Linux desktops, using the Nord color palette by Arctic Ice Studio, and based on the WhiteSur and Numix Icon themes.
 - [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps
 - [faisyl/alpine-runit](https://github.com/faisyl/alpine-runit) - Repo for the docker image of the same name.
-- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
+- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. $nvm: 3ArcxqLtXMmBnWbbtfwQgVL3MNnDsggzgGDtXMnjpump
 - [lincheney/fzf-tab-completion](https://github.com/lincheney/fzf-tab-completion) - Tab completion using fzf
 - [suru-plus/suru-plus-aspromauros](https://github.com/suru-plus/suru-plus-aspromauros) - A Suru++-like monochromatic icons theme for users of dark environments
 - [Git-Fal7/artix-buildiso](https://github.com/Git-Fal7/artix-buildiso) - my buildisos for artix linux
