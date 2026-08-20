@@ -1394,7 +1394,7 @@
 - [afzalsayed96/mern-app](https://github.com/afzalsayed96/mern-app) - MERN stack app using Next.js
 - [drejcreative/mern-boilerplate-nextjs-2020](https://github.com/drejcreative/mern-boilerplate-nextjs-2020) - Boilerplate code for MERN stack (NextJs) with simple TODO app.
 - [Merkoba/Msg](https://github.com/Merkoba/Msg) - A javascript library to create and manage highly customizable modal windows and popup messages
-- [xyproto/algernon](https://github.com/xyproto/algernon) - Small self-contained pure-Go web server with Lua, Teal, Markdown, HTTP/2, QUIC, Redis, TypeScript, React 19 without npm, SQLite, and PostgreSQL support ++
+- [xyproto/algernon](https://github.com/xyproto/algernon) - Small self-contained pure-Go web server with Lua, Teal, Markdown, HTTP/2, QUIC, Redis, TypeScript, npm-less React 19, SQLite, and PostgreSQL support ++
 - [OffcierCia/DeFi-Developer-Road-Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map) - DeFi Developer roadmap is a curated Developer handbook which includes a list of the best tools for DApps development, resources and references!
 - [rockiger/akiee](https://github.com/rockiger/akiee) - A Markdown-based task manager for hackers and people who build stuff.
 - [gregives/Twelvety](https://github.com/gregives/Twelvety) - An Eleventy starter project built to be fast
@@ -3445,7 +3445,7 @@
 - [aravindavk/fontforge-python-cookbook](https://github.com/aravindavk/fontforge-python-cookbook) - Fontforge Python Scripts
 - [sickcodes/gpt-engineer](https://github.com/sickcodes/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
 - [kamilion/customizer](https://github.com/kamilion/customizer) - Ubuntu Live CD remastering tool
-- [feder-cr/Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk) - Open source AI job application bot in Python: auto apply to jobs, with a tailored resume and cover letter for each posting.
+- [feder-cr/Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk) - Open source AI job application bot in Python: browser automation and web scraping to read job postings, then auto-apply with a tailored resume and cover letter for each posting.
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 - [DAVEinside/GenAI_Job_Fit](https://github.com/DAVEinside/GenAI_Job_Fit) - 
 - [TengHu/ActionWeaver](https://github.com/TengHu/ActionWeaver) - Make function calling with LLM easier
@@ -3465,7 +3465,7 @@
 - [Drakanio/l5p-kbl-2024-Gen9](https://github.com/Drakanio/l5p-kbl-2024-Gen9) - Lenovo Legion 5 Pro 2024 Linux Keyboard Light Controller
 - [Fabric-Development/fabric](https://github.com/Fabric-Development/fabric) - The next-generation framework for building desktop widgets using Python
 - [joouha/euporie](https://github.com/joouha/euporie) - Jupyter notebooks in the terminal
-- [yash-dk/TorToolkit-Telegram](https://github.com/yash-dk/TorToolkit-Telegram) - Most versatile Telegram torrent, direct-link, mega, and youtube-dl bot. Uploads to various cloud storage like Gdrive, Mega, Telegram, etc.
+- [yash-dk/TorToolkit-Telegram](https://github.com/yash-dk/TorToolkit-Telegram) - Most versatile Telegram P2P, direct-link, mega, and youtube-dl bot. Uploads to various cloud storage like Gdrive, Mega, Telegram, 60+ clouds.
 - [craigsdennis/image-model-streamlit-workers-ai](https://github.com/craigsdennis/image-model-streamlit-workers-ai) - A Streamlit based starter kit to use Cloudflare Workers AI
 - [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
 - [AnirudhMukherjee/story-generation](https://github.com/AnirudhMukherjee/story-generation) - Theme based story generation using a hierarchical approach
@@ -4000,7 +4000,7 @@
 - [wezm/bar](https://github.com/wezm/bar) - A bar that lives in the awesome window manager wibar
 - [SuperCuber/dotter](https://github.com/SuperCuber/dotter) - A dotfile manager and templater written in rust 🦀
 - [r-darwish/alma](https://github.com/r-darwish/alma) - Create Arch Linux based bootable USB drives
-- [iorigin-ai/rust-by-practice](https://github.com/iorigin-ai/rust-by-practice) - Rust By Practice will evolve into Origin.
+- [origin-bi/rust-by-practice](https://github.com/origin-bi/rust-by-practice) - Rust By Practice will evolve into Origin.
 - [he-la/perspektiv](https://github.com/he-la/perspektiv) - A daemon for creating popups when you change monitor brightness, volume, etc.
 - [terror/zk](https://github.com/terror/zk) - A note-taking tool based on the famous Zettelkasten method
 - [velas/velas-chain](https://github.com/velas/velas-chain) - 
