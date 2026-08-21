@@ -722,6 +722,7 @@
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
 - [ublue-os/fleek](https://github.com/ublue-os/fleek) - [deprecated] Own your $HOME
 - [carltheperson/10-things-linux](https://github.com/carltheperson/10-things-linux) - Getting better at Linux with 10 mini-projects.
+- [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [ezeoleaf/larry](https://github.com/ezeoleaf/larry) - Larry 🐦 is a bot generator that post content from different providers to one or multiple publishers
 - [tazjin/nixery](https://github.com/tazjin/nixery) - Container registry which transparently builds images using the Nix package manager. Canonical repository is https://cs.tvl.fyi/depot/-/tree/tools/nixery
 - [pinpox/pinpox](https://github.com/pinpox/pinpox) - Profile readme
@@ -901,6 +902,7 @@
 - [rammcodes/Dopefolio](https://github.com/rammcodes/Dopefolio) - Dopefolio 🔥 - Portfolio Template for Developers 🚀
 - [L04DB4L4NC3R/event-email-templates](https://github.com/L04DB4L4NC3R/event-email-templates) - 
 - [jltk/startpages](https://github.com/jltk/startpages) - Static browser frontpages.
+- [nitin27may/mean-docker](https://github.com/nitin27may/mean-docker) - Production-ready MEAN stack reference: MongoDB 8, Express 5, Angular 22 (zoneless), Node 24 — fully containerized with Docker Compose and Nginx. JWT auth, strict TypeScript end to end, lint/build/test
 - [iros/patternfills](https://github.com/iros/patternfills) - A collection of svg patterns and build scripts that allow utilizing them in svg, css and d3.
 - [grtcdr/linen](https://github.com/grtcdr/linen) - A light, calm and champagnesque colorscheme.
 - [LeaVerou/css3patterns](https://github.com/LeaVerou/css3patterns) - The popular CSS3 patterns gallery, now on Github :)
@@ -1015,7 +1017,6 @@
 - [Agent-Pattern-Labs/JobForge](https://github.com/Agent-Pattern-Labs/JobForge) - AI-powered job search automation — evaluate offers, generate ATS-optimized CVs, scan portals, negotiate, and track applications. One config drives OpenCode, Cursor, Claude Code, and Codex. Free end-to
 - [JeroTan/novel-writer-english](https://github.com/JeroTan/novel-writer-english) - A copy of "novel-writer" skill but translated in English.
 - [ntcho/minfox](https://github.com/ntcho/minfox) - userChrome for the absolute minimal Firefox experience
-- [Anil-matcha/awesome-generative-ai-apps](https://github.com/Anil-matcha/awesome-generative-ai-apps) - 50+ open-source generative AI apps you can clone, deploy, and monetize — image generators, video tools, virtual try-ons, AI SaaS templates, and platform integrations. One-click Vercel deploy on every 
 - [mokimoko/SillyTavern-ScenarioCrafter](https://github.com/mokimoko/SillyTavern-ScenarioCrafter) - a SillyTavern extension that has a variety of scenarios you can play with
 - [matheuss/parrotsay](https://github.com/matheuss/parrotsay) - ✨🐦 The Party Parrot on your terminal 🐦✨
 - [Adam-Yung/link-previewer](https://github.com/Adam-Yung/link-previewer) - 
@@ -1188,7 +1189,7 @@
 - [Ibit-to/google-unlocked](https://github.com/Ibit-to/google-unlocked) - Google Unlocked browser extension uncensor google search results
 - [LenAnderson/SillyTavern-WorldInfoInfo](https://github.com/LenAnderson/SillyTavern-WorldInfoInfo) - See which WorldInfo entries were active in the last generated message.
 - [leandrojofre/SillyTavern-Presence](https://github.com/leandrojofre/SillyTavern-Presence) - Gives each individual character their own memory.
-- [TheZennou/STExtension-Snapshot](https://github.com/TheZennou/STExtension-Snapshot) - Takes a snapshot of the current chat and makes an image of it for easy sharing.
+- [TarotFooling/STExtension-Snapshot](https://github.com/TarotFooling/STExtension-Snapshot) - Takes a snapshot of the current chat and makes an image of it for easy sharing.
 - [ForgottenGlory/ST-SuperObjective](https://github.com/ForgottenGlory/ST-SuperObjective) - A major enhancement and partial rewrite of the existing Objective extension for SillyTavern.
 - [SoRobby/ObsidianStarterVault](https://github.com/SoRobby/ObsidianStarterVault) - Organize your Universe: An Obsidian starter vault for everyone, bridging the gap between ideas and actions
 - [Naezr/shyfox.js](https://github.com/Naezr/shyfox.js) - 
@@ -1242,7 +1243,6 @@
 - [emilamaj/bookwriter](https://github.com/emilamaj/bookwriter) - Let AI generate a complete book simply by providing a title and a description
 - [aeksco/react-typescript-web-extension-starter](https://github.com/aeksco/react-typescript-web-extension-starter) - :desktop_computer: Web Extension starter kit built with React, TypeScript, TailwindCSS, Storybook, Jest, EsLint, Prettier, and Webpack. Supports Google Chrome + Mozilla Firefox + Brave Browser + Micro
 - [jaynewey/charm-icons](https://github.com/jaynewey/charm-icons) - 🍀 Charming Open Source vector icons.
-- [carbon-design-system/carbon](https://github.com/carbon-design-system/carbon) - A design system built by IBM
 - [halfmage/pixelarticons](https://github.com/halfmage/pixelarticons) - 👾 Beautiful pixel icons. For the pixel vibes.
 - [CoreyGinnivan/system-uicons](https://github.com/CoreyGinnivan/system-uicons) - System UIcons is an icon library design for systems and products. Use how you want, without attribution.
 - [artcoholic/akar-icons](https://github.com/artcoholic/akar-icons) - Akar icons library as React components.
@@ -1987,7 +1987,7 @@
 - [tjdevries/config_manager](https://github.com/tjdevries/config_manager) - My configuration files and tools
 - [realblaag/awesome-systray-switcher](https://github.com/realblaag/awesome-systray-switcher) - Move the systray to the focused screen on awesome window manager
 - [minh-p/awesomewm-blue-cacti](https://github.com/minh-p/awesomewm-blue-cacti) - An awesomewm rice.
-- [Hyperboid/awesome](https://github.com/Hyperboid/awesome) - A pretty awesome awesome configuration
+- [Hyperfae/awesome](https://github.com/Hyperfae/awesome) - A pretty awesome awesome configuration
 - [iacchus/awesomewm-capslock-widget](https://github.com/iacchus/awesomewm-capslock-widget) - AwesomeWM widget that shows Caps_Lock status
 - [0x1F339/fenetre](https://github.com/0x1F339/fenetre) - awesome 4 wibar global titlebar with client title + controls/property indicators
 - [WillPower3309/awesome-widgets](https://github.com/WillPower3309/awesome-widgets) - A collection of various widgets I've developed for awesomewm
@@ -2013,7 +2013,7 @@
 - [quantrancse/arch-dotfiles](https://github.com/quantrancse/arch-dotfiles) - A fork of elenapan/dotfiles that work on Arch
 - [ThemerCorp/themer.lua](https://github.com/ThemerCorp/themer.lua) - A simple, minimal highlighter plugin for neovim
 - [intrntbrn/awesomewm-vim-tmux-navigator](https://github.com/intrntbrn/awesomewm-vim-tmux-navigator) - Navigate seamlessly between system windows, vim splits and tmux panes by only using awesomewm navigation keybindings.
-- [defouren/dotfiles](https://github.com/defouren/dotfiles) - 🍚 rice
+- [d4neswara/dotfiles](https://github.com/d4neswara/dotfiles) - 🍚 rice
 - [akosnad/dotfiles](https://github.com/akosnad/dotfiles) - Personal workflow/rice (not maintained! check out akosnad/nix-config)
 - [crater2150/awesome-modalbind](https://github.com/crater2150/awesome-modalbind) - Modal keybindings for awesomewm
 - [eyedeekay/awesome-network-manager](https://github.com/eyedeekay/awesome-network-manager) - Network Manager interface for Awesome WM
@@ -3327,7 +3327,6 @@
 - [smerchek/claude-epub-skill](https://github.com/smerchek/claude-epub-skill) - A Claude Skill for converting markdown documents, chat summaries, or research reports into a downloadable epub file that can be sent to kindle
 - [Yavuz-Kagan-Yadigar/Qt6-SVG-Re-color-Tool](https://github.com/Yavuz-Kagan-Yadigar/Qt6-SVG-Re-color-Tool) - A Qt6 GUI SVG re-color tool to match icon packs to your Linux theme
 - [microsoft/qlib](https://github.com/microsoft/qlib) - Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, incl
-- [KhazP/vibe-coding-prompt-template](https://github.com/KhazP/vibe-coding-prompt-template) - Templates and workflow for generating PRDs, Tech Designs, and MVP and more using LLMs for AI IDEs
 - [jjmartres/opencode](https://github.com/jjmartres/opencode) - A powerful, custom opencode configuration, complete with a suite of agents, commands, rules, skills, and a pre-configured MCP server. It's designed to be a flexible starting point for you to build upo
 - [seapear/AffinityOnLinux](https://github.com/seapear/AffinityOnLinux) - A repository that helps users get affinity software working on GNU/Linux 🐧
 - [IcarusInHell/RP-Launcher](https://github.com/IcarusInHell/RP-Launcher) - RP Launcher
@@ -3942,7 +3941,7 @@
 - [tokio-rs/axum](https://github.com/tokio-rs/axum) - HTTP routing and request-handling library for Rust that focuses on ergonomics and modularity
 - [poem-web/poem](https://github.com/poem-web/poem) - A full-featured and easy-to-use web framework with the Rust programming language.
 - [aralroca/aralroca](https://github.com/aralroca/aralroca) - My GitHub profile
-- [isala404/Tera](https://github.com/isala404/Tera) - Tera is an AI assistant which is tailored just for you and runs fully locally.
+- [isala404/Tera](https://github.com/isala404/Tera) - Tera is wrapper around OpenAI's Codex to be always on whatsapp agent
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
 - [pop-os/cosmic-greeter](https://github.com/pop-os/cosmic-greeter) - libcosmic greeter for greetd, which can be run inside cosmic-comp
 - [LeVuMinhHuy/blog](https://github.com/LeVuMinhHuy/blog) - just another blog, but built with rust
@@ -4647,6 +4646,7 @@
 - [djdembeck/opencode-nanogpt](https://github.com/djdembeck/opencode-nanogpt) - Automated setup scripts for configuring OpenCode with NanoGPT integration, featuring automatic model updates, reasoning model support, and built-in MCP server.
 - [CaviraOSS/OpenMemory](https://github.com/CaviraOSS/OpenMemory) - Local persistent memory store for LLM applications including claude desktop, github copilot, codex, antigravity, etc.
 - [darrenhinde/OpenAgentsControl](https://github.com/darrenhinde/OpenAgentsControl) - AI agent framework for plan-first development workflows with approval-based execution. Multi-language support (TypeScript, Python, Go, Rust) with automatic testing, code review, and validation built f
+- [KhazP/vibe-coding-prompt-template](https://github.com/KhazP/vibe-coding-prompt-template) - Templates and workflow for generating PRDs, Tech Designs, and MVP and more using LLMs for AI IDEs
 - [malhashemi/opencode-skills](https://github.com/malhashemi/opencode-skills) - 
 - [R44VC0RP/opencode.cafe](https://github.com/R44VC0RP/opencode.cafe) - A plugin and extension cafe for OpenCode.
 - [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs
@@ -4768,6 +4768,7 @@
 - [element-plus/element-plus-icons](https://github.com/element-plus/element-plus-icons) - Main package for storing Element Plus icon resources.
 - [bytedance/IconPark](https://github.com/bytedance/IconPark) - 🍎Transform an SVG icon into multiple themes, and generate React icons，Vue icons，svg icons
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
+- [carbon-design-system/carbon](https://github.com/carbon-design-system/carbon) - A design system built by IBM
 - [mingcute-design/mingcute-icons](https://github.com/mingcute-design/mingcute-icons) - Carefully designed icons for modern interfaces. MingCute is a simple, elegant open-source icon library built for web and mobile products.
 - [AI-Prompt-Genius/AI-Prompt-Genius](https://github.com/AI-Prompt-Genius/AI-Prompt-Genius) - Curate a custom library of AI Prompts
 - [radix-ui/icons](https://github.com/radix-ui/icons) - A crisp set of 15×15 icons designed by the @workos team.
@@ -4777,7 +4778,6 @@
 - [kevin-pek/portfolio-v2](https://github.com/kevin-pek/portfolio-v2) - Portfolio built using NextJs, TailwindCSS and DaisyUI.
 - [windingwind/zotero-better-notes](https://github.com/windingwind/zotero-better-notes) - Everything about note management. All in Zotero.
 - [dothq/melon](https://github.com/dothq/melon) - 🍉 Build Firefox-based browsers with ease [wip]
-- [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [kranachan/escapeland](https://github.com/kranachan/escapeland) - Here is my portfolio, which is also my blog (&gt; &lt;)
 - [LHRUN/bubble](https://github.com/LHRUN/bubble) - Let's start changing your profile. (Readme Profile Collection)
 - [ioanat94/portfolio-website](https://github.com/ioanat94/portfolio-website) - My old personal portfolio website, written with Typescript, React/Next.js and Tailwind CSS.
@@ -4925,7 +4925,6 @@
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - Chakra UI is a component system for building SaaS products with speed ⚡️
 - [ConsenSys-archive/truffle](https://github.com/ConsenSys-archive/truffle) - :warning: The Truffle Suite is being sunset. For information on ongoing support, migration options and FAQs, visit the Consensys blog. Thank you for all the support over the years.
 - [linnovate/mean](https://github.com/linnovate/mean) - The MEAN stack uses Mongo, Express, Angular(6) and Node for simple and scalable fullstack js applications
-- [nitin27may/mean-docker](https://github.com/nitin27may/mean-docker) - A full-featured contact management system built with TypeScript-powered MEAN stack (MongoDB, Express.js, Angular 21, Node.js). Features JWT authentication, responsive Bootstrap 5 UI, Angular SSR, and 
 - [saksmt/awesomewm.d.ts](https://github.com/saksmt/awesomewm.d.ts) - typescript typings for awesome-wm based on typescript-to-lua
 - [Rixcy/community](https://github.com/Rixcy/community) - Community SaaS built using Blitzjs
 - [tsamantanis/react-glassmorphism](https://github.com/tsamantanis/react-glassmorphism) - A react UI component library for glassmorphic components
