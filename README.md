@@ -407,6 +407,7 @@
 - [akkva/gwfox](https://github.com/akkva/gwfox) - Bringing a crisp new look to Firefox
 - [nuclearcodecat/shimmer](https://github.com/nuclearcodecat/shimmer) - charming firefox userchrome with sidebery support
 - [amnweb/firefox-plus](https://github.com/amnweb/firefox-plus) - CSS tweaks for Firefox
+- [Zabooby/firefox-config](https://github.com/Zabooby/firefox-config) - My Firefox configuration
 - [mimvoid/panefox](https://github.com/mimvoid/panefox) - a little firefox css
 - [yuuqilin/FlexFox](https://github.com/yuuqilin/FlexFox) - A lightweight Firefox userChrome theme designed to optimize screen space without sacrificing accessibility.
 - [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian) - 🕶️ Awesome stuff for Obsidian
@@ -1017,6 +1018,7 @@
 - [Agent-Pattern-Labs/JobForge](https://github.com/Agent-Pattern-Labs/JobForge) - AI-powered job search automation — evaluate offers, generate ATS-optimized CVs, scan portals, negotiate, and track applications. One config drives OpenCode, Cursor, Claude Code, and Codex. Free end-to
 - [JeroTan/novel-writer-english](https://github.com/JeroTan/novel-writer-english) - A copy of "novel-writer" skill but translated in English.
 - [ntcho/minfox](https://github.com/ntcho/minfox) - userChrome for the absolute minimal Firefox experience
+- [Anil-matcha/awesome-generative-ai-apps](https://github.com/Anil-matcha/awesome-generative-ai-apps) - 50+ open-source generative AI apps you can clone, deploy, and monetize — image generators, video tools, virtual try-ons, AI SaaS templates, and platform integrations. One-click Vercel deploy on every 
 - [mokimoko/SillyTavern-ScenarioCrafter](https://github.com/mokimoko/SillyTavern-ScenarioCrafter) - a SillyTavern extension that has a variety of scenarios you can play with
 - [matheuss/parrotsay](https://github.com/matheuss/parrotsay) - ✨🐦 The Party Parrot on your terminal 🐦✨
 - [Adam-Yung/link-previewer](https://github.com/Adam-Yung/link-previewer) - 
@@ -1193,7 +1195,6 @@
 - [ForgottenGlory/ST-SuperObjective](https://github.com/ForgottenGlory/ST-SuperObjective) - A major enhancement and partial rewrite of the existing Objective extension for SillyTavern.
 - [SoRobby/ObsidianStarterVault](https://github.com/SoRobby/ObsidianStarterVault) - Organize your Universe: An Obsidian starter vault for everyone, bridging the gap between ideas and actions
 - [Naezr/shyfox.js](https://github.com/Naezr/shyfox.js) - 
-- [Zabooby/firefox-config](https://github.com/Zabooby/firefox-config) - My Firefox configuration
 - [nt1m/vivaldi-fox](https://github.com/nt1m/vivaldi-fox) - An add-on that aims to add Vivaldi style toolbar colouring to the Firefox UI
 - [aminought/firefox-adaptive-theme-creator](https://github.com/aminought/firefox-adaptive-theme-creator) - A Firefox extension that allows you to create a unique adaptive theme for your browser. Like Adaptive Tab Bar Colour or VivaldiFox, but better.
 - [aminought/firefox-sidebar-width](https://github.com/aminought/firefox-sidebar-width) - 
@@ -2403,7 +2404,7 @@
 - [SeniorMatt/Matthew-s-NixOS](https://github.com/SeniorMatt/Matthew-s-NixOS) - My NixOS configuration
 - [polygon/scalpel](https://github.com/polygon/scalpel) - Minimally invasive safe secret provisioning to Nix-generated service config files
 - [yunfachi/denix](https://github.com/yunfachi/denix) - Extensible Nix library for creating scalable NixOS, Home Manager, and Nix-Darwin configurations with modules, hosts, and rices
-- [DivitMittal/OS-nixCfg](https://github.com/DivitMittal/OS-nixCfg) - nix (via nix-darwin, nixos, nix-on-droid, home-manager, etc.) declarative configurations to attain my deterministically reproducible layer
+- [DivitMittal/infra-nixCfg](https://github.com/DivitMittal/infra-nixCfg) - nix (via nix-darwin, nixos, nix-on-droid, home-manager, etc.) declarative configurations to attain my deterministically reproducible layer
 - [reo101/rix101](https://github.com/reo101/rix101) - My NixOS, nix-on-droid and nix-darwin configs.
 - [albe2669/dotfiles](https://github.com/albe2669/dotfiles) - 
 - [Shringe/nixdots](https://github.com/Shringe/nixdots) - Nix related dotfiles like home-manager and nixos.
@@ -2779,7 +2780,6 @@
 - [dan1471/FREE-openai-api-keys](https://github.com/dan1471/FREE-openai-api-keys) - collection for free openai keys to use in your projects
 - [rajannpatel/Pi-Hole-PiVPN-on-Google-Compute-Engine-Free-Tier-with-Full-Tunnel-and-Split-Tunnel-OpenVPN-Configs](https://github.com/rajannpatel/Pi-Hole-PiVPN-on-Google-Compute-Engine-Free-Tier-with-Full-Tunnel-and-Split-Tunnel-OpenVPN-Configs) - Run your own privacy-first ad blocking service in the cloud for free on Google Cloud Services.
 - [fastfire/deepdarkCTI](https://github.com/fastfire/deepdarkCTI) - Collection of Cyber Threat Intelligence sources from the deep and dark web
-- [xixu-me/free-adobe](https://github.com/xixu-me/free-adobe) - Simple, complete tutorial for Adobe Creative Cloud activation
 - [bradleyhodges/SFWindows](https://github.com/bradleyhodges/SFWindows) - SFWindows - The entire collection of Apple fonts (San Francisco and New York families) for Windows 10/11 and other non-Apple platforms.
 - [Cybersight-Security/Malware-Samples](https://github.com/Cybersight-Security/Malware-Samples) - This repository contains 130 malware and ransomware samples for research and analysis purposes.
 - [siutin/stable-diffusion-webui-docker](https://github.com/siutin/stable-diffusion-webui-docker) - stable-diffusion-webui in docker
