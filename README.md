@@ -676,7 +676,6 @@
 
 ## Fennel 
 
-- [pkazmier/nvim](https://github.com/pkazmier/nvim) - My personal neovim configuration
 - [samueltwallace/awesomewm](https://github.com/samueltwallace/awesomewm) - awesomewm config in fennel
 - [alexaandru/nvim-lspupdate](https://github.com/alexaandru/nvim-lspupdate) - Updates installed LSP servers, automatically
 
@@ -1005,7 +1004,7 @@
 - [helloyanis/age-verification-bypass](https://github.com/helloyanis/age-verification-bypass) - Extension to bypass age verification on some websites
 - [DummyTBanana/st-group-utils](https://github.com/DummyTBanana/st-group-utils) - A sillytavern extension that helps with groups
 - [amiantos/writers-guild](https://github.com/amiantos/writers-guild) - A SillyTavern alternative focused on short story writing with full support for Tavern cards and Lorebooks
-- [santifer/career-ops](https://github.com/santifer/career-ops) - Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, 
+- [santifer/career-ops](https://github.com/santifer/career-ops) - Open-source AI job search: scan job portals, evaluate listings into a structured A-H report with a global 1-5 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Cod
 - [chew1976/dynamic-vars](https://github.com/chew1976/dynamic-vars) - An extension for SillyTavern that allows you to define and use dynamic variables.
 - [lovexj520/userChromeJS-2](https://github.com/lovexj520/userChromeJS-2) - Firefox userChromeJS
 - [117649/Tab-Groups](https://github.com/117649/Tab-Groups) - Reimplementation of Firefox Tab Groups as an add-on.
@@ -1015,7 +1014,6 @@
 - [open-xml-templating/docxtemplater](https://github.com/open-xml-templating/docxtemplater) - Generate docx, pptx, and xlsx from templates (Word, Powerpoint and Excel documents), from Node.js or the browser. Demo: https://www.docxtemplater.com/demo. #docx #office #generator #templating #report
 - [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop
 - [TheJaydenProject/cookieguard](https://github.com/TheJaydenProject/cookieguard) - 
-- [Agent-Pattern-Labs/JobForge](https://github.com/Agent-Pattern-Labs/JobForge) - AI-powered job search automation — evaluate offers, generate ATS-optimized CVs, scan portals, negotiate, and track applications. One config drives OpenCode, Cursor, Claude Code, and Codex. Free end-to
 - [JeroTan/novel-writer-english](https://github.com/JeroTan/novel-writer-english) - A copy of "novel-writer" skill but translated in English.
 - [ntcho/minfox](https://github.com/ntcho/minfox) - userChrome for the absolute minimal Firefox experience
 - [Anil-matcha/awesome-generative-ai-apps](https://github.com/Anil-matcha/awesome-generative-ai-apps) - 50+ open-source generative AI apps you can clone, deploy, and monetize — image generators, video tools, virtual try-ons, AI SaaS templates, and platform integrations. One-click Vercel deploy on every 
@@ -1276,7 +1274,7 @@
 - [farshed/duofolio](https://github.com/farshed/duofolio) - Ebook reader for linguaphiles 📖
 - [barretlee/kindleBookMaker](https://github.com/barretlee/kindleBookMaker) - Kindle Book Maker with KindleGen, Make Book from RSS/single URL/directory and so on.
 - [easychen/book-by-ai](https://github.com/easychen/book-by-ai) - Generate high-quality books with AI
-- [dailydotdev/daily](https://github.com/dailydotdev/daily) - daily.dev is the personalized developer news feed and community. Get the best tech content from 2,000+ sources in your browser new tab or on mobile. Free and open source.
+- [dailydotdev/daily](https://github.com/dailydotdev/daily) - daily.dev is the personalized developer news feed and community. Get the best tech content from all over the web in your browser new tab or on mobile. Free and open source.
 - [Ede123/userscripts](https://github.com/Ede123/userscripts) - My humble collection of userscripts!
 - [kufii/My-UserScripts](https://github.com/kufii/My-UserScripts) - A collection of user scripts that I made to make my experience on the web a little nicer
 - [smythp/ebooks-as-applications](https://github.com/smythp/ebooks-as-applications) - Presentation for MLA 2017 on ebooks as applications
@@ -1364,8 +1362,8 @@
 - [askmike/gekko](https://github.com/askmike/gekko) - A bitcoin trading bot written in node - https://gekko.wizb.it/
 - [ibillingsley/HumbleNewTabPage](https://github.com/ibillingsley/HumbleNewTabPage) - New tab page extension for Chrome and Firefox
 - [DanaMW/userChrome.js](https://github.com/DanaMW/userChrome.js) - Scripts for the Firefox extension userChromeJS
-- [keymorph/notes](https://github.com/keymorph/notes) - A note-taking web application.
-- [keymorph/polywidget](https://github.com/keymorph/polywidget) - A free web application with helpful widgets.
+- [keymorph/notes](https://github.com/keymorph/notes) - Free browser-based app for writing and editing notes. One of the open-source tools from Keymorph, a UCF alumni dev collective.
+- [keymorph/polywidget](https://github.com/keymorph/polywidget) - A browser homepage replacement — a free dashboard of small utility widgets. One of the open-source tools from the Keymorph collective.
 - [rodydavis/material-icon-pack-stream-deck](https://github.com/rodydavis/material-icon-pack-stream-deck) - Material Design icons for the Stream Deck
 - [paperwm/PaperWM](https://github.com/paperwm/PaperWM) - Tiled scrollable window management for GNOME Shell
 - [DavidWells/advanced-markdown](https://github.com/DavidWells/advanced-markdown) - Learn about advanced markdown techniques
@@ -1756,6 +1754,7 @@
 - [nacro90/numb.nvim](https://github.com/nacro90/numb.nvim) - Peek lines just when you intend
 - [aidinio/awbar](https://github.com/aidinio/awbar) - An awesomeWM control center, aiming to be as efficient as possible
 - [sudo-tee/opencode.nvim](https://github.com/sudo-tee/opencode.nvim) - neovim frontend for opencode - a terminal-based AI coding agent
+- [pkazmier/nvim](https://github.com/pkazmier/nvim) - My personal neovim configuration
 - [sile-typesetter/casile](https://github.com/sile-typesetter/casile) - The CaSILE toolkit, a book publishing workflow employing SILE and other wizardry.
 - [Ngz91/dotfiles](https://github.com/Ngz91/dotfiles) - Configuration files & Installation guide for Arch
 - [isaksamsten/nvim-config](https://github.com/isaksamsten/nvim-config) - 
@@ -2396,7 +2395,7 @@
 - [ketgg/Awe](https://github.com/ketgg/Awe) - ❄️ Flakes with Awm
 - [hans-chrstn/.dotfiles](https://github.com/hans-chrstn/.dotfiles) - My NixOS home-manager and flakes configs
 - [djacu/nixos-modules-lessons](https://github.com/djacu/nixos-modules-lessons) - Lessons and examples for learning NixOS Modules.
-- [ALH477/Oligarchy](https://github.com/ALH477/Oligarchy) - Custom high-performance NixOS distribution featuring CachyOS/Zen/BORE kernels, an isolated real-time DSP coprocessor for ultra-low-latency audio, DeMoD Compute Fabric, and persona-based switching betw
+- [ALH477/Oligarchy](https://github.com/ALH477/Oligarchy) - Oligarchy is a reproducible NixOS computing platform developed as a daily-driver operating system by its author ALH477, evolving from a personal experiment while learning Nix into an integrated enviro
 - [Maroka-chan/NixOS-config](https://github.com/Maroka-chan/NixOS-config) - 
 - [otaleghani/prism](https://github.com/otaleghani/prism) - A fully configured, stable-by-design, opinionated Linux. Powered by Nix. Refracts your system into isolated personas (Dev, Gamer, Custom) with atomic updates.
 - [akibahmed229/nixos](https://github.com/akibahmed229/nixos) - NixOS Infrastructure & Declarative System Automation
@@ -3212,7 +3211,7 @@
 - [NirantK/awesome-project-ideas](https://github.com/NirantK/awesome-project-ideas) - Curated list of Machine Learning, NLP, Vision, Recommender Systems Project Ideas
 - [bakkeby/patches](https://github.com/bakkeby/patches) - Collection of patches for dwm, st and dmenu
 - [DFabric/dppm-packages-source](https://github.com/DFabric/dppm-packages-source) - Sources used to build the dppm packages
-- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]
 - [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
 - [isyuck/dotfiles](https://github.com/isyuck/dotfiles) - linux/osx
 - [luspr/awesome-ml-courses](https://github.com/luspr/awesome-ml-courses) - Awesome free machine learning and AI courses with video lectures.
@@ -4477,7 +4476,7 @@
 - [brinkOS/brinkOS](https://github.com/brinkOS/brinkOS) - Arch based Linux distribution for Engineers
 - [ctlos/ctlosiso](https://github.com/ctlos/ctlosiso) - Ctlos Linux source. Arch based distro x86-64(64-bit).
 - [agostaxyz/dotfiles](https://github.com/agostaxyz/dotfiles) - (In Development) yet another dotfiles repo, built with minimalistic elegancy.
-- [laurent85v/archuseriso](https://github.com/laurent85v/archuseriso) - A collection of Bash scripts for creating bootable Arch Linux images and USB drives with desktop environments.
+- [laurent85v/archuseriso](https://github.com/laurent85v/archuseriso) - Bash toolkit for building Arch Linux live ISO/IMG media and USB layouts from archiso-style profiles, plus utilities for persistence, full install-to-USB, hybrid media, and ZFS package builds.
 - [kennystrawnmusic/TriggerLinux](https://github.com/kennystrawnmusic/TriggerLinux) - Break the grip of censorship
 - [wstam88/rofi-fontawesome](https://github.com/wstam88/rofi-fontawesome) - fontawesome icon list for rofi dmenu
 - [snori74/linuxupskillchallenge](https://github.com/snori74/linuxupskillchallenge) - Learn the skills required to sysadmin a remote Linux server from the commandline.
@@ -4658,7 +4657,7 @@
 - [Inktomi93/SillyTavern-CardRefinery](https://github.com/Inktomi93/SillyTavern-CardRefinery) - A SillyTavern extension providing an iterative AI pipeline (Score → Rewrite → Analyze) to evaluate, fix, and refine character cards while preserving their core personality.
 - [bmen25124/SillyTavern-Custom-Scenario](https://github.com/bmen25124/SillyTavern-Custom-Scenario) - A SillyTavern extension that allows you to create and play interactive character cards.  Want to customize the scenario before starting? Define character traits, starting location, or any other key el
 - [lunarblazepony/BlazeTracker](https://github.com/lunarblazepony/BlazeTracker) - A SillyTavern extension that uses LLM analysis to track and maintain scene state across roleplay conversations. Helps AI models stay consistent with physical positions, outfits, time of day, mood, and
-- [Rudhra517/Sillytavern-forge](https://github.com/Rudhra517/Sillytavern-forge) - Ai based advance character generator
+- [csrudra/Sillytavern-forge](https://github.com/csrudra/Sillytavern-forge) - Ai based advance character generator
 - [nanogpt-community/nanocode](https://github.com/nanogpt-community/nanocode) - The open source coding agent for nano-gpt
 - [CaviraOSS/PageLM](https://github.com/CaviraOSS/PageLM) - PageLM is a community driven version of NotebookLM & a education platform that transforms study materials into interactive resources like quizzes, flashcards, notes, and podcasts.
 - [fefnik/wrec](https://github.com/fefnik/wrec) - 
