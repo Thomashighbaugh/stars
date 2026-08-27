@@ -3302,6 +3302,7 @@
 - [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
 - [JackerManXD/SearchXXX_Bot](https://github.com/JackerManXD/SearchXXX_Bot) - Este repositorio contiene un bot de Telegram construido con Python que permite a los usuarios buscar y obtener metadatos de videos en xnxx.com. El bot utiliza BeautifulSoup para realizar web scraping 
 - [Mehliug-git/Wifi-Mass-DeAuth](https://github.com/Mehliug-git/Wifi-Mass-DeAuth) - A little script for DeAuth everyone on all wifi arround you  & capture the password hash !
+- [digitalygo/opencode-setup](https://github.com/digitalygo/opencode-setup) - Enterprise-grade Opencode configuration for Digitalygo teams. Shared prompts, agents, and workspace settings for AI-assisted development
 - [nickclyde/duckduckgo-mcp-server](https://github.com/nickclyde/duckduckgo-mcp-server) - A Model Context Protocol (MCP) server that provides web search capabilities through DuckDuckGo, with additional features for content fetching and parsing.
 - [athypes/lenovo-legion-t5-26irb8-bios-unlock](https://github.com/athypes/lenovo-legion-t5-26irb8-bios-unlock) - Unlock advanced OC and hidden BIOS menus on the Lenovo Legion T5 26IRB8 (Type 90UT). Enables memory, CPU, and GPU overclocking for applicable hardware.
 - [unicode-org/last-resort-font](https://github.com/unicode-org/last-resort-font) - Last Resort Font
@@ -3840,6 +3841,7 @@
 ## Ruby 
 
 - [mental32/mental32](https://github.com/mental32/mental32) - 
+- [port19x/dotfiles](https://github.com/port19x/dotfiles) - 
 - [superiorlu/AITreasureBox](https://github.com/superiorlu/AITreasureBox) - 🤖 Automatically collected AI repos, tools, websites, papers & tutorials. 实用AI百宝箱 💎
 - [henrylawson/photish](https://github.com/henrylawson/photish) - Fast, simple, configurable photo portfolio website generator
 - [markevans/dragonfly](https://github.com/markevans/dragonfly) - A Ruby gem for on-the-fly processing - suitable for image uploading in Rails, Sinatra and much more!
@@ -4182,7 +4184,6 @@
 - [phenax/nixos-dotfiles](https://github.com/phenax/nixos-dotfiles) - 
 - [arminveres/dotfiles](https://github.com/arminveres/dotfiles) - Repository for personal Unix config files
 - [juanibiapina/dotfiles](https://github.com/juanibiapina/dotfiles) - Keyboard-first dotfiles for terminal-centric development with tmux, Neovim, and coding agents.
-- [port19x/dotfiles](https://github.com/port19x/dotfiles) - 
 - [AmitGolden/dotfiles](https://github.com/AmitGolden/dotfiles) - AmitGold's catppuccin dotfiles!
 - [notKamui/dotfiles](https://github.com/notKamui/dotfiles) - What's hidden sometimes makes you who you are
 - [pimterry/notes](https://github.com/pimterry/notes) - :pencil: Simple delightful note taking, with more unix and less lock-in.
@@ -4614,7 +4615,6 @@
 - [dolanmiu/docx](https://github.com/dolanmiu/docx) - Easily generate and modify .docx files with JS/TS with a nice declarative API. Works for Node and on the Browser.
 - [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 - [paradox460/ST-MessageSplit](https://github.com/paradox460/ST-MessageSplit) - Split and Merge SillyTavern messages at will
-- [digitalygo/opencode-setup](https://github.com/digitalygo/opencode-setup) - Enterprise-grade Opencode configuration for Digitalygo teams. Shared prompts, agents, and workspace settings for AI-assisted development
 - [tompassarelli/palefox](https://github.com/tompassarelli/palefox) - palefox, an early Firefox customization prototype, superseded by Gjoa
 - [rohitg00/skillkit](https://github.com/rohitg00/skillkit) - Supercharge AI coding agents with portable skills. Install, translate & share skills across Claude Code, Cursor, Codex, Copilot & 40 more
 - [stackmemoryai/stackmemory](https://github.com/stackmemoryai/stackmemory) - Stack memory for context between claude code sessions
