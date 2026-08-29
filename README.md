@@ -2100,7 +2100,7 @@
 - [hoelzro/obvious](https://github.com/hoelzro/obvious) - Widget library for the awesome window manager
 - [DanielFGray/dotfiles](https://github.com/DanielFGray/dotfiles) - personal repo of config files
 - [onsails/diaglist.nvim](https://github.com/onsails/diaglist.nvim) - Live render workspace diagnostics in quickfix with current buf errors on top, buffer diagnostics in loclist
-- [zk-org/zk-nvim](https://github.com/zk-org/zk-nvim) - Neovim extension for zk
+- [zk-org/zk-nvim](https://github.com/zk-org/zk-nvim) - Neovim plugin for zk
 - [amirulmenjeni/dotfiles](https://github.com/amirulmenjeni/dotfiles) - My linux desktop config and theme files.
 - [aregee/awesome-wm](https://github.com/aregee/awesome-wm) - System configs to restore my minimal functional Workflow
 - [Aire-One/awesome-AnimationFramework](https://github.com/Aire-One/awesome-AnimationFramework) - A Simple Animation Framework for the Awesome WM
@@ -4850,7 +4850,7 @@
 - [InterwebAlchemy/obsidian-ai-research-assistant](https://github.com/InterwebAlchemy/obsidian-ai-research-assistant) - Prompt Engineering Research Tool for AI APIs
 - [promptslab/Awesome-Prompt-Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) - This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM etc
 - [Aylur/gnome-extensions](https://github.com/Aylur/gnome-extensions) - Gnome Extensions
-- [arifszn/gitprofile](https://github.com/arifszn/gitprofile) - 🚀 Create and publish a dynamic portfolio by just providing your GitHub username.
+- [arifszn/gitprofile](https://github.com/arifszn/gitprofile) - 🚀 Create and publish a GitHub-synced portfolio by just providing your GitHub username.
 - [maizzle/framework](https://github.com/maizzle/framework) - The modern email development framework.
 - [smakosh/next-portfolio-dev](https://github.com/smakosh/next-portfolio-dev) - A portfolio for developers (Next js version)
 - [harshgoel05/another-portfolio](https://github.com/harshgoel05/another-portfolio) - An eye-catching developer Portfolio, Built on NextJS.
