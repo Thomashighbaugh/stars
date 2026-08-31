@@ -2634,6 +2634,7 @@
 - [MatthiasBenaets/nix-config](https://github.com/MatthiasBenaets/nix-config) - My Personal Nix, NixOS and Nix-Darwin System Configuration Flake
 - [Ruixi-rebirth/melted-flakes](https://github.com/Ruixi-rebirth/melted-flakes) - My presonal NixOS config.New config can get in https://github.com/Ruixi-rebirth/flakes
 - [notohh/snowflake](https://github.com/notohh/snowflake) - NixOS Config(s) - mirrored from https://git.flake.sh/notohh/snowflake
+- [Mic92/dotfiles](https://github.com/Mic92/dotfiles) - My NixOS dotfiles
 - [myme/dotfiles](https://github.com/myme/dotfiles) - My collection of dotfiles
 - [etu/nixconfig](https://github.com/etu/nixconfig) - My NixOS config
 - [c0c0n3/nixie](https://github.com/c0c0n3/nixie) - Personal, micro distro built on NixOS
@@ -2822,7 +2823,7 @@
 - [tinted-theming/home](https://github.com/tinted-theming/home) - Style systems and smart build tooling for crafting high fidelity color schemes and easily using them in all your favorite apps.
 - [Ditectrev/awesome-gimp](https://github.com/Ditectrev/awesome-gimp) - 
 - [one-aalam/awesome-astro](https://github.com/one-aalam/awesome-astro) - Curated resources on building sites with Astro, a brand new way to build static and server rendered sites, with cross-framework components, styling and reactive store support.
-- [embeddingBits/void_dots](https://github.com/embeddingBits/void_dots) - Dotfiles for my RiverWM and Niri rice on Linux
+- [embeddingBits/ebits_dots](https://github.com/embeddingBits/ebits_dots) - Dotfiles for my RiverWM and Niri rice on Linux
 - [mailchimp/email-blueprints](https://github.com/mailchimp/email-blueprints) - Email Blueprints is a collection of HTML email templates that can serve as a solid foundation and starting point for the design of emails
 - [jonathandion/awesome-emails](https://github.com/jonathandion/awesome-emails) - ✉️ An awesome list of resources to build better emails.
 - [nicolodiamante/notefy](https://github.com/nicolodiamante/notefy) - Streamline your note-taking with ChatGPT's AI expertise and Whisper's precise transcription, enabling fast and efficient summarising.
@@ -3312,7 +3313,7 @@
 - [softaworks/agent-toolkit](https://github.com/softaworks/agent-toolkit) - A curated collection of skills for AI coding agents. Skills are packaged instructions and scripts that extend agent capabilities across development, documentation, planning, and professional workflows
 - [ECNU-ICALK/AutoSkill](https://github.com/ECNU-ICALK/AutoSkill) - AutoSkill: Experience-Driven Lifelong Learning via Skill Self-Evolution
 - [Prat011/awesome-llm-skills](https://github.com/Prat011/awesome-llm-skills) - A curated list of awesome LLM and AI Agent Skills, resources and tools for customising AI Agent workflows - that works with Claude Code, Codex, Gemini CLI and your custom AI Agents
-- [foryourhealth111-pixel/Vibe-Skills](https://github.com/foryourhealth111-pixel/Vibe-Skills) - VibeSkills is a general-purpose Skill that automatically routes local Skills and intelligently orchestrates harness workflows.
+- [foryourhealth111-pixel/Vibe-Skills](https://github.com/foryourhealth111-pixel/Vibe-Skills) - Intelligent Skill routing and workflow orchestration for AI agents — +21.12 pp reward, −29.6% tokens on SkillsBench with DeepSeekV4Flash-VE.
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [gotar/opencode-config](https://github.com/gotar/opencode-config) - OpenCode AI configuration with specialized agents, commands, context standards, and skills
 - [5kahoisaac/opencode-configs](https://github.com/5kahoisaac/opencode-configs) - Personal configs of OpenCode, including agents, skills, commands and plugins
@@ -3597,7 +3598,6 @@
 - [EvilDrPorkChop/OpenSea-NFT-Creator](https://github.com/EvilDrPorkChop/OpenSea-NFT-Creator) - A collection of python scripts which help you programatically create PNGs or GIFs and their Metadata in bulk with custom rarity rates, upload them to OpenSea & list them for sale.
 - [thiagokokada/nix-alien](https://github.com/thiagokokada/nix-alien) - Run unpatched binaries on Nix/NixOS
 - [DRACULA-HACK/C-hacks](https://github.com/DRACULA-HACK/C-hacks) - All social Media hacking with information gathering
-- [Mic92/dotfiles](https://github.com/Mic92/dotfiles) - My NixOS dotfiles
 - [onny/OSX-KVM](https://github.com/onny/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Big Sur + Monterey + Ventura support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
 - [beejjorgensen/bgpython](https://github.com/beejjorgensen/bgpython) - Beej's Guide to Python Programming source
 - [AnonymousMeerkat/relinux](https://github.com/AnonymousMeerkat/relinux) - A free and open-source Linux distro creation toolkit
@@ -4508,6 +4508,7 @@
 - [picodotdev/alis](https://github.com/picodotdev/alis) - Arch Linux Install Script (or alis, also known as the Arch Linux executable installation guide and wiki) installs an unattended, automated and customized Arch Linux system.
 - [pjeby/gollum-portable](https://github.com/pjeby/gollum-portable) - The fastest way to set up a new, dockerized gollum wiki
 - [helixarch/debtap](https://github.com/helixarch/debtap) - A script for converting .deb packages into Arch Linux packages, focused on accuracy
+- [mklan/dotfiles](https://github.com/mklan/dotfiles) - GNU/Linux system configuration
 - [stark/siji](https://github.com/stark/siji) - An iconic bitmap font based on Stlarch with additional glyphs.
 - [LukeSmithxyz/lb](https://github.com/LukeSmithxyz/lb) - Blog & RSS system in less than 100 lines of shell script
 - [eoli3n/dotfiles](https://github.com/eoli3n/dotfiles) - Sway acid dark
@@ -4576,6 +4577,7 @@
 - [signerlabs/Klee](https://github.com/signerlabs/Klee) - A native macOS AI chat app powered by MLX. 100% local inference on Apple Silicon, no cloud required. Built with ShipSwift.
 - [ianyh/Amethyst](https://github.com/ianyh/Amethyst) - Automatic tiling window manager for macOS à la xmonad.
 - [rootfont/rootfont](https://github.com/rootfont/rootfont) - The native font manager for designers and programmers on macOS.
+- [lainsce/quilter](https://github.com/lainsce/quilter) - Focus on your writing.
 
 ## SystemVerilog 
 
@@ -4640,7 +4642,7 @@
 - [Opencode-DCP/opencode-dynamic-context-pruning](https://github.com/Opencode-DCP/opencode-dynamic-context-pruning) - Dynamic context pruning plugin for OpenCode - intelligently manages conversation context to optimize token usage
 - [NoeFabris/opencode-antigravity-auth](https://github.com/NoeFabris/opencode-antigravity-auth) - Enable Opencode to authenticate against Antigravity (Google's IDE) via OAuth so you can use Antigravity rate limits and access models like gemini-3-pro and claude-opus-4-5-thinking with your Google cr
 - [djdembeck/opencode-nanogpt](https://github.com/djdembeck/opencode-nanogpt) - Automated setup scripts for configuring OpenCode with NanoGPT integration, featuring automatic model updates, reasoning model support, and built-in MCP server.
-- [CaviraOSS/OpenMemory](https://github.com/CaviraOSS/OpenMemory) - Local persistent memory store for LLM applications including claude desktop, github copilot, codex, antigravity, etc.
+- [CaviraOSS/LongMemory](https://github.com/CaviraOSS/LongMemory) - Local persistent memory store for LLM applications including claude desktop, github copilot, codex, antigravity, etc.
 - [darrenhinde/OpenAgentsControl](https://github.com/darrenhinde/OpenAgentsControl) - AI agent framework for plan-first development workflows with approval-based execution. Multi-language support (TypeScript, Python, Go, Rust) with automatic testing, code review, and validation built f
 - [KhazP/vibe-coding-prompt-template](https://github.com/KhazP/vibe-coding-prompt-template) - Templates and workflow for generating PRDs, Tech Designs, and MVP and more using LLMs for AI IDEs
 - [malhashemi/opencode-skills](https://github.com/malhashemi/opencode-skills) - 
@@ -5018,7 +5020,6 @@
 - [BlankOn/manokwari](https://github.com/BlankOn/manokwari) - Manokwari desktop shell for GNOME 3
 - [UbuntuBudgie/experimental](https://github.com/UbuntuBudgie/experimental) - Tweaks for your budgie-desktop
 - [ricotz/plank](https://github.com/ricotz/plank) - Stupidly simple.
-- [lainsce/quilter](https://github.com/lainsce/quilter) - Focus on your writing.
 - [elementary/installer](https://github.com/elementary/installer) - Installer front-end for Linux-based OSes
 - [UbuntuBudgie/budgie-extras](https://github.com/UbuntuBudgie/budgie-extras) - Additional Budgie Desktop enhancements for user experience
 - [GNOME/geary](https://github.com/GNOME/geary) - Read-only mirror of https://gitlab.gnome.org/GNOME/geary
@@ -5061,7 +5062,6 @@
 - [sainnhe/everforest](https://github.com/sainnhe/everforest) - 🌲 Comfortable & Pleasant Color Scheme for Vim
 - [Thomashighbaugh/base16-vice-scheme](https://github.com/Thomashighbaugh/base16-vice-scheme) - A color scheme for base16 enabling the use of blues on dark screens without eye pain, inspired by Miami Vice and used extensively in my dotfiles and elsewhere.
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
-- [mklan/dotfiles](https://github.com/mklan/dotfiles) - GNU/Linux system configuration
 
 ## Vim Snippet 
 
