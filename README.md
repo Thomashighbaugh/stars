@@ -661,7 +661,6 @@
 - [shtwzrd/friar](https://github.com/shtwzrd/friar) - Emacs REPL for interacting with AwesomeWM
 - [willbush/system](https://github.com/willbush/system) - Trying to build the perfect system
 - [russmatney/dotfiles](https://github.com/russmatney/dotfiles) - Emacs, Neovim, Yabai, Hyprland, Nixos
-- [taylor-gl/dotfiles](https://github.com/taylor-gl/dotfiles) - My dotfiles [currently Linux Mint and vanilla emacs]
 - [xinhaoyuan/my-config](https://github.com/xinhaoyuan/my-config) - all config files managed by GNU stow
 - [carlosal1015/dune-archiso](https://github.com/carlosal1015/dune-archiso) - 
 - [doomemacs/core](https://github.com/doomemacs/core) - An Emacs framework for the stubborn martian hacker
@@ -3293,7 +3292,7 @@
 - [paperswithbacktest/awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading) - A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.
 - [msprev/panzer](https://github.com/msprev/panzer) - pandoc + styles
 - [jamditis/claude-skills-journalism](https://github.com/jamditis/claude-skills-journalism) - Claude Code skills for journalism, media, and academia - verification, FOIA, data journalism, academic writing, and more
-- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,005+ agentic skills. Includes CLI, local MCP, catalo
+- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,100+ agentic skills. Includes CLI, local MCP, catalo
 - [qnorsten/twrp_device_google_pixels](https://github.com/qnorsten/twrp_device_google_pixels) - 
 - [DonBananas/MultiAgent-BrainEngine-SillyTavern](https://github.com/DonBananas/MultiAgent-BrainEngine-SillyTavern) - 6-agent cognitive proxy server for SillyTavern.
 - [civitai/sd_civitai_extension](https://github.com/civitai/sd_civitai_extension) - All of the Civitai models inside Automatic 1111 Stable Diffusion Web UI
@@ -3441,7 +3440,7 @@
 - [aravindavk/fontforge-python-cookbook](https://github.com/aravindavk/fontforge-python-cookbook) - Fontforge Python Scripts
 - [sickcodes/gpt-engineer](https://github.com/sickcodes/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
 - [kamilion/customizer](https://github.com/kamilion/customizer) - Ubuntu Live CD remastering tool
-- [feder-cr/AIHawk](https://github.com/feder-cr/AIHawk) - Born as an AI web agent that applied to jobs in bulk. Becoming a general one: an agent you point at the web and tell what to do.
+- [feder-cr/AIHawk](https://github.com/feder-cr/AIHawk) - Open-source AI browser agent for web automation: a web browsing agent and computer-use agent in plain English. Browser MCP for Claude Code and Gemini CLI.
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 - [DAVEinside/GenAI_Job_Fit](https://github.com/DAVEinside/GenAI_Job_Fit) - 
 - [TengHu/ActionWeaver](https://github.com/TengHu/ActionWeaver) - Make function calling with LLM easier
