@@ -1090,7 +1090,7 @@
 - [unkarelian/timeline-memory](https://github.com/unkarelian/timeline-memory) - A tool-call based memory system for SillyTavern
 - [IceFog72/SillyTavern-ProbablyTooManyTabs](https://github.com/IceFog72/SillyTavern-ProbablyTooManyTabs) - 
 - [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
-- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Claude Fable 5, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-5.6-Sol, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, 
+- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok B
 - [nimit95/Real-world-Design-Patterns-Node-JS](https://github.com/nimit95/Real-world-Design-Patterns-Node-JS) - All the 23 (GoF) design patterns implemented in Javascript with Real World Example using Node.js APIs
 - [ejpir/CVE-2025-55182-research](https://github.com/ejpir/CVE-2025-55182-research) - CVE-2025-55182 POC
 - [RossAscends/ST-ClickToCloseEdits](https://github.com/RossAscends/ST-ClickToCloseEdits) - 
@@ -3660,7 +3660,6 @@
 - [roddhjav/pass-import](https://github.com/roddhjav/pass-import) - A pass extension for importing data from most existing password managers
 - [archivy/archivy](https://github.com/archivy/archivy) - Archivy is a self-hostable knowledge repository that allows you to learn and retain information in your own personal and extensible wiki.
 - [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A unified trading API with more than 100 crypto exchanges and prediction markets in JavaScript / TypeScript / Python / C# / PHP / Go / Java / Rust
 - [audibleblink/doxycannon](https://github.com/audibleblink/doxycannon) - A poorman's proxycannon and botnet, using docker, ovpn files, tor nodes, and dante socks5 proxies
 - [KCarretto/Arsenal](https://github.com/KCarretto/Arsenal) - Extensible Red Team Framework
 - [Tmpertor/Raven-Storm](https://github.com/Tmpertor/Raven-Storm) - Raven-Storm is a powerful DDoS toolkit for penetration tests, including attacks for several protocols written in python. Takedown many connections using several exotic and classic protocols.
@@ -4000,6 +3999,7 @@
 - [he-la/perspektiv](https://github.com/he-la/perspektiv) - A daemon for creating popups when you change monitor brightness, volume, etc.
 - [terror/zk](https://github.com/terror/zk) - A note-taking tool based on the famous Zettelkasten method
 - [velas/velas-chain](https://github.com/velas/velas-chain) - 
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A unified trading API with more than 100 crypto exchanges and prediction markets in JavaScript / TypeScript / Python / C# / PHP / Go / Java / Rust
 - [perfah/Rustland](https://github.com/perfah/Rustland) - A Wayland compositor written in Rust, hence the cool name
 - [solana-labs/solana](https://github.com/solana-labs/solana) - Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
 - [nuta/kerla](https://github.com/nuta/kerla) - A new operating system kernel with Linux binary compatibility written in Rust.
