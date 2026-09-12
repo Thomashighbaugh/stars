@@ -647,7 +647,7 @@
 
 ## Elixir 
 
-- [firezone/firezone](https://github.com/firezone/firezone) - Enterprise-ready zero-trust access platform built on WireGuard®.
+- [firezone/firezone](https://github.com/firezone/firezone) - Blazing-fast remote access
 - [aerosol/wb](https://github.com/aerosol/wb) - Writer's Block - personal wiki engine
 
 ## Elm 
@@ -4823,7 +4823,7 @@
 - [BUMBAIYA/portfolio-v2](https://github.com/BUMBAIYA/portfolio-v2) - Portfolio website made using Nextjs 13, Tailwindcss and Framer motion
 - [coreui/coreui-icons](https://github.com/coreui/coreui-icons) - CoreUI Free Icons -  Premium designed free icon set with marks in SVG, Webfont and raster formats
 - [vitorgouveia/Giffy](https://github.com/vitorgouveia/Giffy) - :camera: Gif recording made easy.
-- [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – build and deploy fully‑managed AI agents and workflows
+- [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – build and deploy durable AI agents and workflows
 - [RotichD/photography-personal](https://github.com/RotichD/photography-personal) - Personal photography portfolio website with blog. Next.JS + TypeScript + TailwindCSS
 - [GoldinGuy/CollegeCompendium](https://github.com/GoldinGuy/CollegeCompendium) - 📓 A curated collection of free public Computer Science classes from colleges across America
 - [csmberkeley/csm_web](https://github.com/csmberkeley/csm_web) - Web applications for CS Mentors.
