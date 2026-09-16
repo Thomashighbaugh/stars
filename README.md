@@ -667,7 +667,6 @@
 - [denisse-dev/dotfiles](https://github.com/denisse-dev/dotfiles) - :dragon_face: My Arch Linux config [Zsh + Sway + Alacritty + Emacs, etc]
 - [SwiftyChicken/dotfiles](https://github.com/SwiftyChicken/dotfiles) - My dotfiles
 - [syl20bnr/spacemacs](https://github.com/syl20bnr/spacemacs) - A community-driven Emacs distribution - The best editor is neither Emacs nor Vim,  it's Emacs *and* Vim!
-- [masasam/dotfiles](https://github.com/masasam/dotfiles) - My dotfiles based on Makefile
 
 ## F# # 
 
@@ -728,7 +727,7 @@
 - [cogikyo/dotfiles](https://github.com/cogikyo/dotfiles) - 🍙 an Arch enabled PDE (Personalized Development Environment)
 - [jetify-com/devbox](https://github.com/jetify-com/devbox) - Instant, easy, and predictable development environments
 - [jollheef/appvm](https://github.com/jollheef/appvm) - Nix-based app VMs
-- [ssleert/zfxtop](https://github.com/ssleert/zfxtop) - [WIP] fetch top for gen Z with X written by bubbletea enjoyer
+- [ssleert/zfxtop](https://github.com/ssleert/zfxtop) - Simple top for linux with small UI in Go
 - [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
 - [cheshire137/gen-svgo-pattern](https://github.com/cheshire137/gen-svgo-pattern) - Generate Go code to create SVG patterns from a given SVG image.
 - [curusarn/resh](https://github.com/curusarn/resh) - RESH ❯❯ Contextual shell history for zsh and bash
@@ -1675,7 +1674,7 @@
 - [AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) - FinGPT: Open-Source Financial Large Language Models!  Revolutionize 🔥    We release the trained model on HuggingFace.
 - [hollowstrawberry/kohya-colab](https://github.com/hollowstrawberry/kohya-colab) - Accessible Google Colab notebooks for Stable Diffusion Lora training, based on the work of kohya-ss and Linaqruf
 - [OpenBioLink/ThoughtSource](https://github.com/OpenBioLink/ThoughtSource) - A central, open resource for data and tools related to chain-of-thought reasoning in large language models. Developed @ Samwald research group: https://samwald.info/
-- [Nixtla/nixtla](https://github.com/Nixtla/nixtla) - TimeGPT-1: production ready pre-trained Time Series Foundation Model  for forecasting and anomaly detection. Generative pretrained transformer for time series trained on over 100B data points. It's ca
+- [Nixtla/nixtla](https://github.com/Nixtla/nixtla) - TimeGPT-2.1: production ready pre-trained Time Series Foundation Model  for forecasting and anomaly detection. Generative pretrained transformer for time series trained on over 100B data points. It's 
 - [jmpaz/promptlib](https://github.com/jmpaz/promptlib) - A collection of prompts for use with GPT-4 via ChatGPT, OpenAI API w/ Gradio frontend & notebook
 - [neonbjb/tortoise-tts](https://github.com/neonbjb/tortoise-tts) - A multi-voice TTS system trained with an emphasis on quality
 - [algorithmica-org/algorithmica](https://github.com/algorithmica-org/algorithmica) - A computer science textbook
@@ -2413,7 +2412,7 @@
 - [khaneliman/khanelinix](https://github.com/khaneliman/khanelinix) - Nix configuration for my systems supporting macOS, NixOS, and WSL.
 - [bertof/nix-rice](https://github.com/bertof/nix-rice) - A library to functionally define your configuration and theme (rice) with Nix
 - [Ahwxorg/nixos-config](https://github.com/Ahwxorg/nixos-config) - Do things and be happy, mostly just doing things though.
-- [garado/auriga](https://github.com/garado/auriga) - Nix config for my laptop and home server.
+- [garado/auriga](https://github.com/garado/auriga) - nix configs for all my machines
 - [Plasmaa0/NixOS-config](https://github.com/Plasmaa0/NixOS-config) - My NixOS config
 - [ExpidusOS/expidusos](https://github.com/ExpidusOS/expidusos) - 
 - [RossComputerGuy/dotfiles](https://github.com/RossComputerGuy/dotfiles) - My dotfiles for all of my Linux devices
@@ -2456,7 +2455,7 @@
 - [nix-community/srvos](https://github.com/nix-community/srvos) - NixOS profiles for servers [maintainer=@numtide]
 - [Serpentian/AlfheimOS](https://github.com/Serpentian/AlfheimOS) - ❄️ AlfheimOS (NixOS + home-manager + hyprland + ags + neovim)
 - [BatteredBunny/nix-ai-stuff](https://github.com/BatteredBunny/nix-ai-stuff) - Nix flake for several AI projects
-- [devon-systems/hoenn](https://github.com/devon-systems/hoenn) - Multi-host NixOS, Darwin, and system-manager configurations with Nix.
+- [devon-systems/hoenn](https://github.com/devon-systems/hoenn) - NixOS, nix-darwin, and Home Manager configurations, ft. niri+noctlaia dotfiles + homelab.
 - [richen604/hydenix](https://github.com/richen604/hydenix) - a nixos implementation of hyprdots, a HyDE dotfiles configuration
 - [Sly-Harvey/NixOS](https://github.com/Sly-Harvey/NixOS) - NixOS + Hyprland rice with flakes, home-manager and dev-shells
 - [wegank/nixos-config](https://github.com/wegank/nixos-config) - NixOS configuration
@@ -3261,6 +3260,7 @@
 - [DenverCoder1/minimalistic-wallpaper-collection](https://github.com/DenverCoder1/minimalistic-wallpaper-collection) - Minimalistic, flat art, and colorful, digital nature wallpapers and an API for randomly selecting them
 - [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) - PrestaShop is the universal open-source software platform to build your e-commerce solution.
 - [dandelionmood/debrief](https://github.com/dandelionmood/debrief) - Debrief is an open-source, easy to use note-taking application crossed with a diary.
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 - [ambroisemaupate/webfont-generator](https://github.com/ambroisemaupate/webfont-generator) - Subset and convert one or many OTF/TTF files in EOT, SVG, WOFF and WOFF2.
 - [cavo789/marknotes](https://github.com/cavo789/marknotes) - 📝 You’re taking a lot of notes and need a solution to manage them i.e. put your knowledge base in one central place and being able to retrieve quickly information’s, display them nicely through the br
 - [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL and MariaDB
@@ -3413,7 +3413,6 @@
 - [darrenburns/elia](https://github.com/darrenburns/elia) - A snappy, keyboard-centric terminal user interface for interacting with large language models. Chat with ChatGPT, Claude, Llama 3, Phi 3, Mistral, Gemma and more.
 - [kleer001/Text_Loom](https://github.com/kleer001/Text_Loom) - Network for procedural editing of text with LLMs
 - [FartyPants/StoryCrafter](https://github.com/FartyPants/StoryCrafter) - Writing Extension for Text Generation WebUI
-- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [rmusser01/tldw_server](https://github.com/rmusser01/tldw_server) - tl/dw (Too Long, Didn't Watch): Your Personal Research Multi-Tool - a naive attempt at 'A Young Lady's Illustrated Primer' (Open Source NotebookLM)
 - [the-crypt-keeper/tldw](https://github.com/the-crypt-keeper/tldw) - Too Long, Didn't Watch: End-to-End Rolling Summarizer of Long Videos
 - [cunnymessiah/keychecker](https://github.com/cunnymessiah/keychecker) - a key checker for various AI services
@@ -3778,6 +3777,7 @@
 - [Anupam-dagar/Portfolio-Generator](https://github.com/Anupam-dagar/Portfolio-Generator) - HoxNox - Portfolios Made Easy, Generate portfolios in 3 easy steps
 - [firecat53/networkmanager-dmenu](https://github.com/firecat53/networkmanager-dmenu) - Control NetworkManager via dmenu
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
+- [masasam/dotfiles](https://github.com/masasam/dotfiles) - My dotfiles based on Makefile
 - [montagdude/awesome-appmenu](https://github.com/montagdude/awesome-appmenu) - Tool to create a menu of installed applications for the awesome window manager
 - [geerlingguy/ansible-for-devops](https://github.com/geerlingguy/ansible-for-devops) - Ansible for DevOps examples.
 - [crazzyfool/ansible-desktop-manjaro-i3](https://github.com/crazzyfool/ansible-desktop-manjaro-i3) - Ansible playbook with the purpose of configuring a fresh installation of Manjaro i3 Community Edition
@@ -4243,7 +4243,7 @@
 - [MolassesLover/Nordzy-icon](https://github.com/MolassesLover/Nordzy-icon) - Nordzy is a free and open-source icon theme for Linux desktops, using the Nord color palette by Arctic Ice Studio, and based on the WhiteSur and Numix Icon themes.
 - [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps
 - [faisyl/alpine-runit](https://github.com/faisyl/alpine-runit) - Repo for the docker image of the same name.
-- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. $nvm: 3ArcxqLtXMmBnWbbtfwQgVL3MNnDsggzgGDtXMnjpump
+- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.
 - [lincheney/fzf-tab-completion](https://github.com/lincheney/fzf-tab-completion) - Tab completion using fzf
 - [suru-plus/suru-plus-aspromauros](https://github.com/suru-plus/suru-plus-aspromauros) - A Suru++-like monochromatic icons theme for users of dark environments
 - [Git-Fal7/artix-buildiso](https://github.com/Git-Fal7/artix-buildiso) - my buildisos for artix linux
@@ -4705,6 +4705,7 @@
 - [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) - An Open Source implementation of Notebook LM with more flexibility and features
 - [mtwn105/decipher-research-agent](https://github.com/mtwn105/decipher-research-agent) - Turn topics, links, and files into AI-generated research notebooks — summarize, explore, and ask anything.
 - [ThinkInAIXYZ/deepchat](https://github.com/ThinkInAIXYZ/deepchat) - 🐬DeepChat - A smart assistant that connects powerful AI to your personal world
+- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [colemccracken/changelog](https://github.com/colemccracken/changelog) - 
 - [Tolga1452/ai-prompts](https://github.com/Tolga1452/ai-prompts) - A collection of original system prompts and tool data used for AI chatbots. Explore how companies such as ChatGPT prompt their AIs!
 - [bmen25124/SillyTavern-WorldInfo-Recommender](https://github.com/bmen25124/SillyTavern-WorldInfo-Recommender) - A SillyTavern extension that helps you manage world info based on the current context with LLMs using connection profiles.
@@ -4917,7 +4918,6 @@
 - [timroes/awesome-config](https://github.com/timroes/awesome-config) - My awesome wm configuration.
 - [adonig/nextjs-starter-preact-tailwindcss](https://github.com/adonig/nextjs-starter-preact-tailwindcss) - A Next.js starter project coming with Preact and Tailwind CSS built-in.
 - [remorses/holocron](https://github.com/remorses/holocron) - Open source drop-in replacement for Mintlify as a Vite plugin
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 - [timh-dev/startup-page](https://github.com/timh-dev/startup-page) - A custom startup page for your browser.
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - Chakra UI is a component system for building SaaS products with speed ⚡️
 - [ConsenSys-archive/truffle](https://github.com/ConsenSys-archive/truffle) - :warning: The Truffle Suite is being sunset. For information on ongoing support, migration options and FAQs, visit the Consensys blog. Thank you for all the support over the years.
