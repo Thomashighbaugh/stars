@@ -2780,7 +2780,7 @@
 - [panamaniancetus44/arborist.nvim](https://github.com/panamaniancetus44/arborist.nvim) - Manage tree-sitter parsers automatically with WASM support for Neovim 0.12+. Eliminate manual installation and maintenance.
 - [Purp1eDuck2008/Liquid-GRUB](https://github.com/Purp1eDuck2008/Liquid-GRUB) - Liquid Glass GRUB
 - [maxtron95/pixie-icon-theme](https://github.com/maxtron95/pixie-icon-theme) - Tile-based icon theme for Linux
-- [bruhismyname/opencode-ultimate-starter](https://github.com/bruhismyname/opencode-ultimate-starter) - The Ultimate OpenCode Starter Kit. Includes Oh My OpenCode config, Superpowers installation fix, MCP Setup, and Windows Crash Fix (exit_code: -1073740791). Panduan lengkap Bahasa Indonesia & English.
+- [bruhismyname/vibecoding-ultimate-starter](https://github.com/bruhismyname/vibecoding-ultimate-starter) - enjoy!
 - [vkarampinis/awesome-icons](https://github.com/vkarampinis/awesome-icons) - A curated list of awesome Web Font Icons
 - [xiyaowong/Operator-Fonts](https://github.com/xiyaowong/Operator-Fonts) - 
 - [skillmatic-ai/awesome-agent-skills](https://github.com/skillmatic-ai/awesome-agent-skills) - The definitive resource for Agent Skills - modular capabilities revolutionizing AI agent architecture
@@ -4722,7 +4722,6 @@
 - [sing1ee/deepseekCoder](https://github.com/sing1ee/deepseekCoder) - Create apps with Deepseek
 - [codeskills-dev/responsive-email](https://github.com/codeskills-dev/responsive-email) - a utility for writing responsive email templates for jsx-email and react-email
 - [thegera4/nextjs-portfolio](https://github.com/thegera4/nextjs-portfolio) - This is my personal portfolio made with typescript, react, tailwind css and nextjs
-- [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
 - [KazKozDev/NovelGenerator](https://github.com/KazKozDev/NovelGenerator) - Local AI novel generator for Gemini and Ollama. Write coherent novels chapter by chapter with causal planning, persistent story memory, scene handoffs, and continuity checks.
 - [cachix/cachix-action](https://github.com/cachix/cachix-action) - Build software only once and put it in a global cache
 - [aleksey-hoffman/sigma-file-manager](https://github.com/aleksey-hoffman/sigma-file-manager) - "Sigma File Manager" is a free, open-source, quickly evolving, modern file manager (explorer / browser) app for Windows and Linux.
