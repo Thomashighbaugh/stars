@@ -1830,6 +1830,7 @@
 - [loctvl842/nvim](https://github.com/loctvl842/nvim) - neovim config using lazy
 - [crivotz/nv-ide](https://github.com/crivotz/nv-ide) - Neovim custom configuration, oriented for full stack developers (Ruby on Rails, ruby, php, html, css, SCSS, javascript)
 - [folke/edgy.nvim](https://github.com/folke/edgy.nvim) - Easily create and manage predefined window layouts, bringing a new edge to your workflow
+- [mrjones2014/dotfiles](https://github.com/mrjones2014/dotfiles) - ❄️ My dotfiles for NixOS and macOS with nix-darwin as a Nix flake.
 - [vi013t/forge.nvim](https://github.com/vi013t/forge.nvim) - Language tool manager for Neovim using mason.nvim, nvim-treesitter, and more.
 - [mobsenpai/sugoi](https://github.com/mobsenpai/sugoi) - すごい Sugoi | Comfy environment for AwesomeWM [moved to https://codeberg.org/mobsenpai/sugoi/src/branch/main]
 - [folke/null-ls.nvim](https://github.com/folke/null-ls.nvim) - Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.
@@ -2543,7 +2544,6 @@
 - [cillynder/flakes](https://github.com/cillynder/flakes) - NixOS config using flakes
 - [redyf/nixdots](https://github.com/redyf/nixdots) - Modular NixOS configuration
 - [nix-community/nix-bundle](https://github.com/nix-community/nix-bundle) - Bundle Nix derivations to run anywhere! [maintainer=@matthewbauer, @Artturin]
-- [mrjones2014/dotfiles](https://github.com/mrjones2014/dotfiles) - ❄️ My dotfiles for NixOS and macOS with nix-darwin as a Nix flake.
 - [NixOS/templates](https://github.com/NixOS/templates) - Flake templates
 - [vyorkin/nixos-config](https://github.com/vyorkin/nixos-config) - My NixOS configuration
 - [dwarfmaster/arkenfox-nixos](https://github.com/dwarfmaster/arkenfox-nixos) - Utilities to use arkenfox/user.js in NixOS
@@ -3438,7 +3438,7 @@
 - [aravindavk/fontforge-python-cookbook](https://github.com/aravindavk/fontforge-python-cookbook) - Fontforge Python Scripts
 - [sickcodes/gpt-engineer](https://github.com/sickcodes/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
 - [kamilion/customizer](https://github.com/kamilion/customizer) - Ubuntu Live CD remastering tool
-- [feder-cr/invisible_playwright_mcp](https://github.com/feder-cr/invisible_playwright_mcp) - Anti-detect agentic stealth browser: undetected browsing, browser automation, Python AI web browsing agent, computer use, scraping, lead generation. No captchas.
+- [feder-cr/invisible_playwright_mcp](https://github.com/feder-cr/invisible_playwright_mcp) - Your AI agent browses the web without captchas: self-hosted Python MCP server on undetected anti-detect stealth Firefox, for browser automation, scraping, computer use.
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - Agents that use the browser.
 - [DAVEinside/GenAI_Job_Fit](https://github.com/DAVEinside/GenAI_Job_Fit) - 
 - [TengHu/ActionWeaver](https://github.com/TengHu/ActionWeaver) - Make function calling with LLM easier
