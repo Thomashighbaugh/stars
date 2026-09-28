@@ -813,6 +813,7 @@
 
 ## HTML 
 
+- [Pyrxpia/sola-hub](https://github.com/Pyrxpia/sola-hub) - 
 - [socialeraser/SocialEraser](https://github.com/socialeraser/SocialEraser) - 
 - [vava-nessa/free-coding-models](https://github.com/vava-nessa/free-coding-models) - Find, benchmark and install in CLI 170+ FREE coding LLM models across 15+ providers in real time
 - [angelo-v/opencode-playground](https://github.com/angelo-v/opencode-playground) - This repository is just me messing around with OpenCode and exploring what it can do.
@@ -2622,7 +2623,6 @@
 - [573/NixOS](https://github.com/573/NixOS) - MSF OCB NixOS config
 - [dawidd6/nixcfg](https://github.com/dawidd6/nixcfg) - :snowflake: My NixOS and home-manager configurations
 - [chaotic-cx/nyx](https://github.com/chaotic-cx/nyx) - Nix flake for "too much bleeding-edge" and unreleased packages (e.g., mesa_git, linux_cachyos, firefox_nightly, sway_git, gamescope_git). And experimental modules (e.g., HDR, duckdns).
-- [nicekoishi/dotfiles](https://github.com/nicekoishi/dotfiles) - hello there
 - [pogoba/dotfiles](https://github.com/pogoba/dotfiles) - My dotfiles. Mostly NixOS config.
 - [WillPower3309/nixos-config](https://github.com/WillPower3309/nixos-config) - My personal nixos config
 - [gradientvera/GradientOS](https://github.com/gradientvera/GradientOS) - Flake for multiple NixOS system configurations
@@ -3296,7 +3296,7 @@
 - [paperswithbacktest/awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading) - A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.
 - [msprev/panzer](https://github.com/msprev/panzer) - pandoc + styles
 - [jamditis/claude-skills-journalism](https://github.com/jamditis/claude-skills-journalism) - Claude Code skills for journalism, media, and academia - verification, FOIA, data journalism, academic writing, and more
-- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,445+ agentic skills. Includes CLI, local MCP, catalo
+- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,400+ agentic skills. Includes CLI, local MCP, catalo
 - [qnorsten/twrp_device_google_pixels](https://github.com/qnorsten/twrp_device_google_pixels) - 
 - [DonBananas/MultiAgent-BrainEngine-SillyTavern](https://github.com/DonBananas/MultiAgent-BrainEngine-SillyTavern) - 6-agent cognitive proxy server for SillyTavern.
 - [civitai/sd_civitai_extension](https://github.com/civitai/sd_civitai_extension) - All of the Civitai models inside Automatic 1111 Stable Diffusion Web UI
