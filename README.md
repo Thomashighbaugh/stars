@@ -1093,7 +1093,6 @@
 - [unkarelian/timeline-memory](https://github.com/unkarelian/timeline-memory) - A tool-call based memory system for SillyTavern
 - [IceFog72/SillyTavern-ProbablyTooManyTabs](https://github.com/IceFog72/SillyTavern-ProbablyTooManyTabs) - 
 - [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
-- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Documented system prompts from Anthropic - Claude Fable 5.1, Opus 5.5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Gro
 - [nimit95/Real-world-Design-Patterns-Node-JS](https://github.com/nimit95/Real-world-Design-Patterns-Node-JS) - All the 23 (GoF) design patterns implemented in Javascript with Real World Example using Node.js APIs
 - [ejpir/CVE-2025-55182-research](https://github.com/ejpir/CVE-2025-55182-research) - CVE-2025-55182 POC
 - [RossAscends/ST-ClickToCloseEdits](https://github.com/RossAscends/ST-ClickToCloseEdits) - 
@@ -2132,6 +2131,7 @@
 - [lewis6991/spellsitter.nvim](https://github.com/lewis6991/spellsitter.nvim) - Treesitter powered spellchecker
 - [micro-hawk/awesomeWM](https://github.com/micro-hawk/awesomeWM) - My configuration for awesome window manager
 - [anhsirk0/awesome-config](https://github.com/anhsirk0/awesome-config) - My config for awesomewm
+- [klausweiss/dotfiles](https://github.com/klausweiss/dotfiles) - 
 - [suconakh/awesome-awesome-rc](https://github.com/suconakh/awesome-awesome-rc) - Modularized AwesomeWM rc.lua
 - [Manas140/dotfiles](https://github.com/Manas140/dotfiles) - Config files for my setup
 - [windwp/nvim-autopairs](https://github.com/windwp/nvim-autopairs) - autopairs for neovim written in lua
@@ -3336,6 +3336,7 @@
 - [serpapi/google-search-results-python](https://github.com/serpapi/google-search-results-python) - Google Search Results via SERP API pip Python Package
 - [prolix-oc/BananaBread](https://github.com/prolix-oc/BananaBread) - 
 - [us/linkedIn_auto_jobs_applier_with_AI_fast](https://github.com/us/linkedIn_auto_jobs_applier_with_AI_fast) - LinkedIn_AIHawk is a tool that automates  the jobs application process on LinkedIn. Utilizing artificial intelligence, it enables users to apply for multiple job offers in an automated and personalize
+- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Documented system prompts from Anthropic - Claude Fable 5.1, Opus 5.5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Gro
 - [Fajar-RahmadJaya/google-dawg](https://github.com/Fajar-RahmadJaya/google-dawg) - Automate Google dorking without getting banned
 - [helallao/perplexity-ai](https://github.com/helallao/perplexity-ai) - Unofficial API Wrapper for Perplexity.ai + Account Generator with Web Interface
 - [Bachkhairi/study_assistant](https://github.com/Bachkhairi/study_assistant) - A modular CLI tool that automates note-taking, summarization, and Q&A, integrating with Notion and YouTube to help you learn faster and retain knowledge efficiently.
@@ -4055,7 +4056,6 @@
 - [IanLunn/Hover](https://github.com/IanLunn/Hover) - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in C
 - [Thomashighbaugh/Not-Another-Devlog](https://github.com/Thomashighbaugh/Not-Another-Devlog) - Final form of my devlog. Built with React, Gatsby, SASS, Bootstrap, FontAwesome and SpaceMacs!
 - [TLH-Deprecated-Linux-Configurations/Dhumavati-Theme](https://github.com/TLH-Deprecated-Linux-Configurations/Dhumavati-Theme) - A Skeuos fork with the vice color scheme and select enhancements
-- [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - Cheatsheets for web development - devhints.io
 - [NCSU-Libraries/jekyll-academic](https://github.com/NCSU-Libraries/jekyll-academic) - 
 - [TeaGuns/odin](https://github.com/TeaGuns/odin) - A Jekyll help desk/knowledge base theme
 - [mklan/dotfiles](https://github.com/mklan/dotfiles) - GNU/Linux system configuration
@@ -4334,7 +4334,6 @@
 - [Quiterion/dotfiles](https://github.com/Quiterion/dotfiles) - Dotfiles for my i3 Arch setup, uploaded for redundancy and easy installation on new machines
 - [zoddDev/dotfiles](https://github.com/zoddDev/dotfiles) - My bspwm dotfiles. Get whatever you need! :)
 - [Tomas-M/linux-live](https://github.com/Tomas-M/linux-live) - Linux Live Kit
-- [klausweiss/dotfiles](https://github.com/klausweiss/dotfiles) - 
 - [Manas140/sh](https://github.com/Manas140/sh) - Collection Of My Sh Scripts.
 - [leahneukirchen/hrmpf](https://github.com/leahneukirchen/hrmpf) - hrmpf rescue system, built on Void Linux
 - [samsesh/SocialBox-Termux](https://github.com/samsesh/SocialBox-Termux) - SocialBox is a Bruteforce Attack Framework [ Facebook , Gmail , Instagram ,Twitter ] , Coded By Belahsan Ouerghi Edit By samsesh for termux on android
@@ -4965,6 +4964,7 @@
 - [contentkit/contentkit](https://github.com/contentkit/contentkit) - ContentKit is a headless markdown-based CMS with version control.
 - [Zavy86/WikiDocs](https://github.com/Zavy86/WikiDocs) - 📗 Just a databaseless markdown flat-file wiki
 - [getmeli/meli](https://github.com/getmeli/meli) - Platform for deploying static sites and frontend applications easily. Automatic SSL, deploy previews, reverse proxy, and more.
+- [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - Cheatsheets for web development - devhints.io
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
 - [richardtaylordawson/pwa-shields](https://github.com/richardtaylordawson/pwa-shields) - Personalize your app's README with custom, fun, PWA shields in SVG
