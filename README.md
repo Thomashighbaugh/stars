@@ -1020,7 +1020,7 @@
 - [TheJaydenProject/cookieguard](https://github.com/TheJaydenProject/cookieguard) - 
 - [JeroTan/novel-writer-english](https://github.com/JeroTan/novel-writer-english) - A copy of "novel-writer" skill but translated in English.
 - [ntcho/minfox](https://github.com/ntcho/minfox) - userChrome for the absolute minimal Firefox experience
-- [Anil-matcha/awesome-generative-ai-apps](https://github.com/Anil-matcha/awesome-generative-ai-apps) - 50+ open-source generative AI apps you can clone, deploy, and monetize — image generators, video tools, virtual try-ons, AI SaaS templates, and platform integrations. One-click Vercel deploy on every 
+- [Anil-matcha/open-spaces](https://github.com/Anil-matcha/open-spaces) - 
 - [mokimoko/SillyTavern-ScenarioCrafter](https://github.com/mokimoko/SillyTavern-ScenarioCrafter) - a SillyTavern extension that has a variety of scenarios you can play with
 - [matheuss/parrotsay](https://github.com/matheuss/parrotsay) - ✨🐦 The Party Parrot on your terminal 🐦✨
 - [Adam-Yung/link-previewer](https://github.com/Adam-Yung/link-previewer) - 
@@ -2671,7 +2671,6 @@
 - [RaubJo/hive](https://github.com/RaubJo/hive) - 
 - [rvolosatovs/nixelium](https://github.com/rvolosatovs/nixelium) - Nix-powered Linux and Darwin systems
 - [puffnfresh/nix-files](https://github.com/puffnfresh/nix-files) - My NixOS configuration and custom Nix derivations.
-- [skulldogged/nix-config](https://github.com/skulldogged/nix-config) - NixOS/nix-darwin dotfiles
 - [ameertaweel/dotfiles](https://github.com/ameertaweel/dotfiles) - My personal dotfiles configuration for NixOS using flakes
 - [kittywitch/nixfiles](https://github.com/kittywitch/nixfiles) - kat's configuration flake
 - [thexyno/nixos-config](https://github.com/thexyno/nixos-config) - my nixos/nix-darwin configurations
@@ -3444,7 +3443,6 @@
 - [aravindavk/fontforge-python-cookbook](https://github.com/aravindavk/fontforge-python-cookbook) - Fontforge Python Scripts
 - [sickcodes/gpt-engineer](https://github.com/sickcodes/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
 - [kamilion/customizer](https://github.com/kamilion/customizer) - Ubuntu Live CD remastering tool
-- [feder-cr/invisible_playwright_mcp](https://github.com/feder-cr/invisible_playwright_mcp) - Playwright MCP server undetected by anti-bots and captchas: AI agent browses the web on anti-detect stealth Firefox, Python, undetected browser automation, scraping, computer use.
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - Agents that use the browser.
 - [DAVEinside/GenAI_Job_Fit](https://github.com/DAVEinside/GenAI_Job_Fit) - 
 - [TengHu/ActionWeaver](https://github.com/TengHu/ActionWeaver) - Make function calling with LLM easier
@@ -4100,7 +4098,7 @@
 - [IamJony/book-scraping](https://github.com/IamJony/book-scraping) - A Bash script to search and download books using  shadows libraries
 - [Rakosn1cek/xc-manager](https://github.com/Rakosn1cek/xc-manager) - A lightweight, Zsh-native vault for command execution with GPG encryption, interactive templates, and fzf integration.
 - [JRedeker/opencode-shell-strategy](https://github.com/JRedeker/opencode-shell-strategy) - Teaches LLMs to use non-interactive shell flags in OpenCode (no TTY/PTY available)
-- [dockur/macos](https://github.com/dockur/macos) - MacOS inside a Docker container.
+- [dockur/macos](https://github.com/dockur/macos) - macOS inside a Docker container.
 - [rodrigogalura/bak-rstr](https://github.com/rodrigogalura/bak-rstr) - Simple Backup & Restore: Compress, upload, and secure your files to Dropbox with a single command!
 - [NixOS/flake-registry](https://github.com/NixOS/flake-registry) - Global registry of Nix flakes
 - [samuelcaldas/Bruteforce-Bootloader-Unlocker](https://github.com/samuelcaldas/Bruteforce-Bootloader-Unlocker) - Bruteforce Bootloader Unlocker for android devices with fastboot unlock support.
@@ -4719,6 +4717,7 @@
 - [DevPalace/phoenix-ci](https://github.com/DevPalace/phoenix-ci) - 
 - [Gaafar/dev-fonts](https://github.com/Gaafar/dev-fonts) - List of fonts for coding
 - [nickscamara/open-deep-research](https://github.com/nickscamara/open-deep-research) - An open source deep research clone. AI Agent that reasons large amounts of web data extracted with Firecrawl
+- [feder-cr/invisible_dots](https://github.com/feder-cr/invisible_dots) - Open-source, self-hosted alternative to OpenAI Dots, Grok Bot. Built to be undetectable by anti-bot systems.
 - [sing1ee/deepseekCoder](https://github.com/sing1ee/deepseekCoder) - Create apps with Deepseek
 - [codeskills-dev/responsive-email](https://github.com/codeskills-dev/responsive-email) - a utility for writing responsive email templates for jsx-email and react-email
 - [thegera4/nextjs-portfolio](https://github.com/thegera4/nextjs-portfolio) - This is my personal portfolio made with typescript, react, tailwind css and nextjs
