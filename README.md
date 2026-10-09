@@ -1020,7 +1020,7 @@
 - [TheJaydenProject/cookieguard](https://github.com/TheJaydenProject/cookieguard) - 
 - [JeroTan/novel-writer-english](https://github.com/JeroTan/novel-writer-english) - A copy of "novel-writer" skill but translated in English.
 - [ntcho/minfox](https://github.com/ntcho/minfox) - userChrome for the absolute minimal Firefox experience
-- [Anil-matcha/open-spaces](https://github.com/Anil-matcha/open-spaces) - 
+- [Anil-matcha/open-spaces](https://github.com/Anil-matcha/open-spaces) - Free, open-source alternative to ChatGPT Spaces: a self-hostable AI workspace for shared pages and conversations.
 - [mokimoko/SillyTavern-ScenarioCrafter](https://github.com/mokimoko/SillyTavern-ScenarioCrafter) - a SillyTavern extension that has a variety of scenarios you can play with
 - [matheuss/parrotsay](https://github.com/matheuss/parrotsay) - ✨🐦 The Party Parrot on your terminal 🐦✨
 - [Adam-Yung/link-previewer](https://github.com/Adam-Yung/link-previewer) - 
@@ -1327,7 +1327,7 @@
 - [nypublicradio/audiogram](https://github.com/nypublicradio/audiogram) - Turn audio into a shareable video.
 - [overdodactyl/ShadowFox](https://github.com/overdodactyl/ShadowFox) - A universal dark theme for Firefox
 - [WebPraktikos/universal-resume](https://github.com/WebPraktikos/universal-resume) - Minimal and formal résumé (CV) website template for print, mobile, and desktop.
-- [sandstorm-io/sandstorm](https://github.com/sandstorm-io/sandstorm) - Sandstorm is a self-hostable web productivity suite. It's implemented as a security-hardened web app package manager. | Actively sponsored by our friends at TestMu AI
+- [sandstorm-io/sandstorm](https://github.com/sandstorm-io/sandstorm) - Sandstorm is a self-hostable web productivity suite. It's implemented as a security-hardened web app package manager.
 - [darktrojan/newtabtools](https://github.com/darktrojan/newtabtools) - New Tab Tools add-on for Firefox and Chrome
 - [Socioboard-developers/Socioboard-5.0](https://github.com/Socioboard-developers/Socioboard-5.0) - Socioboard is world's first and open source Social Technology Enabler. Socioboard Core is our flagship product.
 - [FirefoxBar/WebExt-build-tool](https://github.com/FirefoxBar/WebExt-build-tool) - A tool to build webextension
@@ -3111,7 +3111,7 @@
 - [dypsilon/frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) - Manually curated collection of resources for frontend web developers.
 - [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.
 - [dbb/subtle-patterns-gimp](https://github.com/dbb/subtle-patterns-gimp) - Subtle Patterns as individual, native GIMP .pat files
-- [kelyvin/Google-Messages-For-Desktop](https://github.com/kelyvin/Google-Messages-For-Desktop) - A "native-like" OS X, Windows, & Linux desktop app for Google Messages
+- [kelvicthrust/Google-Messages-For-Desktop](https://github.com/kelvicthrust/Google-Messages-For-Desktop) - A "native-like" OS X, Windows, & Linux desktop app for Google Messages
 - [ReactNativeNews/React-Native-Apps](https://github.com/ReactNativeNews/React-Native-Apps) - Curated List of Open Source React Native Apps.  Curation curtesy of
 - [Python-World/Py-Resources](https://github.com/Python-World/Py-Resources) - A list of free resources to make learning Python easier.
 - [ibhagwan/picom-ibhagwan-template](https://github.com/ibhagwan/picom-ibhagwan-template) - Void Linux template file for xbps-src
@@ -3218,7 +3218,7 @@
 - [SlashArash/slashicon](https://github.com/SlashArash/slashicon) - SlashIcon is an icon theme for Linux. It's included cursor and icon theme.
 - [endeavouros-team/repo](https://github.com/endeavouros-team/repo) - 
 - [alma4rebi/Plank-Themes-1](https://github.com/alma4rebi/Plank-Themes-1) - Huge Plank Theme Collection ( 107 themes )
-- [dipakkr/A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - ✅  Curated list of resources for developers
+- [dipakkr/awesome-ai-engineering](https://github.com/dipakkr/awesome-ai-engineering) - 🚀 A curated collection of AI engineering resources, roadmaps, tools, and projects covering LLMs, RAG, AI Agents, MCP, fine-tuning, evaluations, and production AI systems.
 - [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:
 - [Jaredk3nt/laserwave](https://github.com/Jaredk3nt/laserwave) - A retro outrun / cyberpunk inspired VS Code theme
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
@@ -3262,7 +3262,6 @@
 - [DenverCoder1/minimalistic-wallpaper-collection](https://github.com/DenverCoder1/minimalistic-wallpaper-collection) - Minimalistic, flat art, and colorful, digital nature wallpapers and an API for randomly selecting them
 - [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) - PrestaShop is the universal open-source software platform to build your e-commerce solution.
 - [dandelionmood/debrief](https://github.com/dandelionmood/debrief) - Debrief is an open-source, easy to use note-taking application crossed with a diary.
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 - [ambroisemaupate/webfont-generator](https://github.com/ambroisemaupate/webfont-generator) - Subset and convert one or many OTF/TTF files in EOT, SVG, WOFF and WOFF2.
 - [cavo789/marknotes](https://github.com/cavo789/marknotes) - 📝 You’re taking a lot of notes and need a solution to manage them i.e. put your knowledge base in one central place and being able to retrieve quickly information’s, display them nicely through the br
 - [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL and MariaDB
@@ -4919,6 +4918,7 @@
 - [timroes/awesome-config](https://github.com/timroes/awesome-config) - My awesome wm configuration.
 - [adonig/nextjs-starter-preact-tailwindcss](https://github.com/adonig/nextjs-starter-preact-tailwindcss) - A Next.js starter project coming with Preact and Tailwind CSS built-in.
 - [remorses/holocron](https://github.com/remorses/holocron) - Open source drop-in replacement for Mintlify as a Vite plugin
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 - [timh-dev/startup-page](https://github.com/timh-dev/startup-page) - A custom startup page for your browser.
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - Chakra UI is a component system for building SaaS products with speed ⚡️
 - [ConsenSys-archive/truffle](https://github.com/ConsenSys-archive/truffle) - :warning: The Truffle Suite is being sunset. For information on ongoing support, migration options and FAQs, visit the Consensys blog. Thank you for all the support over the years.
