@@ -354,6 +354,7 @@
 
 ## CSS 
 
+- [VastSea0/hilal-browser](https://github.com/VastSea0/hilal-browser) - Hilal Browser
 - [jaxwilko/gtk-theme-framework](https://github.com/jaxwilko/gtk-theme-framework) - 
 - [hermitm0nk/malevich](https://github.com/hermitm0nk/malevich) - 
 - [matthewmx86/RetroThemesFirefox](https://github.com/matthewmx86/RetroThemesFirefox) - A collection of old browser themes for Firefox.
@@ -1027,7 +1028,6 @@
 - [rustyorb/SillyTavern-QRBuilder](https://github.com/rustyorb/SillyTavern-QRBuilder) - AI-powered STscript Quick Reply builder for SillyTavern — generate, edit, and export QR scripts with an LLM brain
 - [rhubarbshoelaces/firefox-scripts](https://github.com/rhubarbshoelaces/firefox-scripts) - Custom Firefox buttons and other useful uc.js scripts
 - [John2022/firefox-auto-hide-toolbars](https://github.com/John2022/firefox-auto-hide-toolbars) - UserChromeJS/userChrome.css package that adds a Firefox toolbar button to auto-hide browser toolbars, with Ctrl+F11 shortcut and Tools menu entry.
-- [adamhlt/Zen-SnapBack](https://github.com/adamhlt/Zen-SnapBack) - Zen-SnapBack: lightweight mod for Zen Browser, allowing you to instantly reset any pinned tab with a simple double-click.
 - [torvic9/plasmafox](https://github.com/torvic9/plasmafox) - Plasmafox web browser
 - [SillyTavern/SillyTavern-GreetingTools](https://github.com/SillyTavern/SillyTavern-GreetingTools) - A complete overhaul of greeting management in SillyTavern. Organize your character greetings with titles, descriptions, and AI-powered generation via redesigned popup and an inline chat selector.
 - [leandrojofre/SillyTavern-WI-Bulk-Mover](https://github.com/leandrojofre/SillyTavern-WI-Bulk-Mover) - This is a simple extension that allows you to clone WI entries from one lorebook into another.
@@ -2410,7 +2410,6 @@
 - [Shringe/nixdots](https://github.com/Shringe/nixdots) - Nix related dotfiles like home-manager and nixos.
 - [dc-tec/nixos-config](https://github.com/dc-tec/nixos-config) - NixOS Configuration Repository
 - [benvonh/nivem](https://github.com/benvonh/nivem) - My NixOS and Home Manager configurations
-- [khaneliman/khanelinix](https://github.com/khaneliman/khanelinix) - Nix configuration for my systems supporting macOS, NixOS, and WSL.
 - [bertof/nix-rice](https://github.com/bertof/nix-rice) - A library to functionally define your configuration and theme (rice) with Nix
 - [Ahwxorg/nixos-config](https://github.com/Ahwxorg/nixos-config) - Do things and be happy, mostly just doing things though.
 - [garado/auriga](https://github.com/garado/auriga) - nix configs for all my machines
@@ -3369,6 +3368,7 @@
 - [mikecreighton/knowledge-generator](https://github.com/mikecreighton/knowledge-generator) - A simple tool for generating information about a topic to be fed into NotebookLM.
 - [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Air-gapped, privacy-focused, open-source NotebookLM alternative. AI agent that researches, transforms, and edits your documents. Join our Discord: https://discord.gg/ejRNvftDp9
 - [pop-os/icon-theme](https://github.com/pop-os/icon-theme) - System76 Pop icon theme for Linux
+- [khaneliman/khanelinix](https://github.com/khaneliman/khanelinix) - Nix configuration for my systems supporting macOS, NixOS, and WSL.
 - [chigwell/langchain_llm7](https://github.com/chigwell/langchain_llm7) - 
 - [jaxparrow07/Androidx86-Installer-Linux](https://github.com/jaxparrow07/Androidx86-Installer-Linux) - Advanced Android x86 Installer for Linux
 - [griptape-ai/griptape](https://github.com/griptape-ai/griptape) - Modular Python framework for AI agents and workflows with chain-of-thought reasoning, tools, and memory.
