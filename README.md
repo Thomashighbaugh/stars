@@ -133,6 +133,7 @@
 
 ## C 
 
+- [mikeroyal/Firmware-Guide](https://github.com/mikeroyal/Firmware-Guide) - Firmware Guide
 - [liankong233/KPM-Build-Anywhere](https://github.com/liankong233/KPM-Build-Anywhere) - Build KernelPatch's KPM module in anywhere
 - [LSPosed/LSPromise](https://github.com/LSPosed/LSPromise) - Android complete exploit chain that enables privilege escalation from a local untrusted app to root/kernel, combination of CVE-2026-49881 and CVE-2026-43284
 - [j4imefoo/TBO](https://github.com/j4imefoo/TBO) - GTK/Gnome easy cómic creator
@@ -281,6 +282,7 @@
 
 ## C++ 
 
+- [OtterBrowser/otter-browser](https://github.com/OtterBrowser/otter-browser) - Otter Browser aims to recreate the best aspects of the classic Opera (12.x) UI using Qt5
 - [quickshell-mirror/quickshell](https://github.com/quickshell-mirror/quickshell) - Flexible toolkit for making desktop shells with QtQuick, for Wayland and X11
 - [noctalia-dev/noctalia](https://github.com/noctalia-dev/noctalia) - A sleek, customizable desktop shell crafted for Wayland.
 - [IllicitFrog/luapulse](https://github.com/IllicitFrog/luapulse) - 
@@ -355,6 +357,7 @@
 
 ## CSS 
 
+- [snthcy/nightfox](https://github.com/snthcy/nightfox) - MacOS looking Firefox style using the Nightfall theme. + DuckDuckGo theme!
 - [VastSea0/hilal-browser](https://github.com/VastSea0/hilal-browser) - Hilal Browser
 - [jaxwilko/gtk-theme-framework](https://github.com/jaxwilko/gtk-theme-framework) - 
 - [hermitm0nk/malevich](https://github.com/hermitm0nk/malevich) - 
@@ -487,6 +490,7 @@
 - [bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days) - 50+ mini web projects using HTML, CSS & JS
 - [ilham25/dotfiles-openbox](https://github.com/ilham25/dotfiles-openbox) - Here is my aether dotfiles openbox version
 - [zakuradev/dotfiles](https://github.com/zakuradev/dotfiles) - Awesome OpenboxWM Custom Environment!
+- [sioodmy/nixus](https://github.com/sioodmy/nixus) - My NixOS configuration flake that moggs yours in term of eval times
 - [zombieFox/voltTab](https://github.com/zombieFox/voltTab) - 
 - [nullgorithm/fonts](https://github.com/nullgorithm/fonts) - My font collection I use for my Windows machine.
 - [johnpaulada/pandoc-markdown-book-template](https://github.com/johnpaulada/pandoc-markdown-book-template) - A template for creating epub books from markdown using pandoc.
@@ -1713,6 +1717,7 @@
 
 ## Kotlin 
 
+- [digital-grease/fauxx](https://github.com/digital-grease/fauxx) - Data poisoning for your everyday tracking
 - [mrYouki/YoukiDex-Android-Desktop](https://github.com/mrYouki/YoukiDex-Android-Desktop) - YoukiDEX  is a full Android desktop experience built on top of Smart Dock — no launcher swap needed. Runs as a system overlay with full UI customization, persistent dock, notification panel, icon pack
 - [iKirby/PixelCarrierSettings](https://github.com/iKirby/PixelCarrierSettings) - 
 - [tiann/KernelSU](https://github.com/tiann/KernelSU) - A Kernel based root solution for Android
@@ -2737,7 +2742,6 @@
 - [Misterio77/nix-starter-configs](https://github.com/Misterio77/nix-starter-configs) - Simple and documented config templates to help you get started with NixOS + home-manager + flakes. All the boilerplate you need!
 - [syncom/custom_nixos_iso](https://github.com/syncom/custom_nixos_iso) - Build custom nixOS ISO
 - [notusknot/dotfiles-nix](https://github.com/notusknot/dotfiles-nix) - Configuration files for my NixOS machine, declared by home-manager
-- [sioodmy/nixus](https://github.com/sioodmy/nixus) - My NixOS configuration flake that moggs yours in term of eval times
 - [davegallant/nix-config](https://github.com/davegallant/nix-config) - configuration for my mac and linux machines
 - [yurrriq/dotfiles](https://github.com/yurrriq/dotfiles) - My (semi-)literate dotfiles for Nix, Emacs, fish, etc, managed with home-manager and GNU Stow
 - [MayNiklas/nixos](https://github.com/MayNiklas/nixos) - My personal NixOS infrastructure
@@ -2776,6 +2780,8 @@
 
 ## Others 
 
+- [deboniet/android-x86-isos](https://github.com/deboniet/android-x86-isos) - Android-x86 ISOs
+- [jbro129/android-modding](https://github.com/jbro129/android-modding) - A large collection of github repositories related to android modding.
 - [dan1471/FREE-openai-api-keys](https://github.com/dan1471/FREE-openai-api-keys) - collection for free openai keys to use in your projects
 - [rajannpatel/Pi-Hole-PiVPN-on-Google-Compute-Engine-Free-Tier-with-Full-Tunnel-and-Split-Tunnel-OpenVPN-Configs](https://github.com/rajannpatel/Pi-Hole-PiVPN-on-Google-Compute-Engine-Free-Tier-with-Full-Tunnel-and-Split-Tunnel-OpenVPN-Configs) - Run your own privacy-first ad blocking service in the cloud for free on Google Cloud Services.
 - [fastfire/deepdarkCTI](https://github.com/fastfire/deepdarkCTI) - Collection of Cyber Threat Intelligence sources from the deep and dark web
@@ -3883,6 +3889,8 @@
 
 ## Rust 
 
+- [bea4dev/ShojiWM](https://github.com/bea4dev/ShojiWM) - The most customizable Wayland compositor with TypeScript(tsx).
+- [storytold/vectorcraft](https://github.com/storytold/vectorcraft) - VectorCraft: An open-source, vector art tool written by scratch in pure Rust
 - [DioxusLabs/blitz](https://github.com/DioxusLabs/blitz) - A radically modular HTML/CSS rendering engine
 - [ilaborie/dioxus-web-component](https://github.com/ilaborie/dioxus-web-component) - Expose a Dioxus component as a Web Component
 - [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
