@@ -1010,6 +1010,7 @@
 
 ## JavaScript 
 
+- [Enerccio/SillyTavern-SideQuery](https://github.com/Enerccio/SillyTavern-SideQuery) - 
 - [conorbronsdon/avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing) - Skill that audits and rewrites content to remove AI writing patterns. Use it with your favorite agents including Claude Code, OpenClaw, Codex, and Hermes.
 - [EnchantedRobot/SillyTavern-Character-Tools](https://github.com/EnchantedRobot/SillyTavern-Character-Tools) - 
 - [fawn1e/st-plot-driver](https://github.com/fawn1e/st-plot-driver) - Drive your story with AI-powered Time Skips & Major Twists. Logical OOC transitions for SillyTavern to keep the RP flowing seamlessly
@@ -2780,6 +2781,7 @@
 
 ## Others 
 
+- [yaelwrites/Big-Ass-Data-Broker-Opt-Out-List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List) - 
 - [deboniet/android-x86-isos](https://github.com/deboniet/android-x86-isos) - Android-x86 ISOs
 - [jbro129/android-modding](https://github.com/jbro129/android-modding) - A large collection of github repositories related to android modding.
 - [dan1471/FREE-openai-api-keys](https://github.com/dan1471/FREE-openai-api-keys) - collection for free openai keys to use in your projects
@@ -3300,6 +3302,7 @@
 
 ## Python 
 
+- [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
 - [robertguss/claude-code-toolkit](https://github.com/robertguss/claude-code-toolkit) - A collection of custom skills that extend Claude's capabilities with specialized workflows, methods, and domain knowledge.
 - [shi-YangYang/opencode-speak-freely](https://github.com/shi-YangYang/opencode-speak-freely) - Lower AI refusal rates in OpenCode: code-context scaffolding, multi-stage workflow, auto refusal repair, local Web UI, zero deps. OpenCode 破甲：代码上下文补全 + 被拒自动修复 + 本地 Web UI，零依赖。
 - [chenxiaolong/my-avbroot-setup](https://github.com/chenxiaolong/my-avbroot-setup) - My personal avbroot setup for my Android devices
@@ -4069,7 +4072,6 @@
 - [TLH-Deprecated-Linux-Configurations/Dhumavati-Theme](https://github.com/TLH-Deprecated-Linux-Configurations/Dhumavati-Theme) - A Skeuos fork with the vice color scheme and select enhancements
 - [NCSU-Libraries/jekyll-academic](https://github.com/NCSU-Libraries/jekyll-academic) - 
 - [TeaGuns/odin](https://github.com/TeaGuns/odin) - A Jekyll help desk/knowledge base theme
-- [mklan/dotfiles](https://github.com/mklan/dotfiles) - GNU/Linux system configuration
 - [StarLabsLtd/StarLabsTheme](https://github.com/StarLabsLtd/StarLabsTheme) - Star Labs GNOME Shell and GTK Theme
 - [Thomashighbaugh/startpage](https://github.com/Thomashighbaugh/startpage) - Browser startpage written in Next.js for those not afraid of  serverless hosting.
 
@@ -4523,6 +4525,7 @@
 - [picodotdev/alis](https://github.com/picodotdev/alis) - Arch Linux Install Script (or alis, also known as the Arch Linux executable installation guide and wiki) installs an unattended, automated and customized Arch Linux system.
 - [pjeby/gollum-portable](https://github.com/pjeby/gollum-portable) - The fastest way to set up a new, dockerized gollum wiki
 - [helixarch/debtap](https://github.com/helixarch/debtap) - A script for converting .deb packages into Arch Linux packages, focused on accuracy
+- [mklan/dotfiles](https://github.com/mklan/dotfiles) - GNU/Linux system configuration
 - [stark/siji](https://github.com/stark/siji) - An iconic bitmap font based on Stlarch with additional glyphs.
 - [LukeSmithxyz/lb](https://github.com/LukeSmithxyz/lb) - Blog & RSS system in less than 100 lines of shell script
 - [eoli3n/dotfiles](https://github.com/eoli3n/dotfiles) - Sway acid dark
