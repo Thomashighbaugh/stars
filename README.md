@@ -133,6 +133,7 @@
 
 ## C 
 
+- [pi-hole/FTL](https://github.com/pi-hole/FTL) - The Pi-hole FTL engine
 - [mikeroyal/Firmware-Guide](https://github.com/mikeroyal/Firmware-Guide) - Firmware Guide
 - [liankong233/KPM-Build-Anywhere](https://github.com/liankong233/KPM-Build-Anywhere) - Build KernelPatch's KPM module in anywhere
 - [LSPosed/LSPromise](https://github.com/LSPosed/LSPromise) - Android complete exploit chain that enables privilege escalation from a local untrusted app to root/kernel, combination of CVE-2026-49881 and CVE-2026-43284
@@ -689,6 +690,7 @@
 
 ## Go 
 
+- [mihakrumpestar/panix](https://github.com/mihakrumpestar/panix) - Universal Nix Deployment Orchestrator - inspect, bootstrap, build, transfer, secrets, activate, rollback
 - [get-vix/vix](https://github.com/get-vix/vix) - Sleek, Fast and Token Efficient AI Coding Agent
 - [JoshuaDoes/tensor-usbdl](https://github.com/JoshuaDoes/tensor-usbdl) - this repo could eat your cat. fair warning. "I am not responsible for dead phones, dead SD cards, thermonuclear warfare"
 - [gastownhall/gastown](https://github.com/gastownhall/gastown) - Gas Town - multi-agent workspace manager
@@ -1010,6 +1012,7 @@
 
 ## JavaScript 
 
+- [BrowserWorks/waterfox](https://github.com/BrowserWorks/waterfox) - The official Waterfox 💧 source code repository
 - [Enerccio/SillyTavern-SideQuery](https://github.com/Enerccio/SillyTavern-SideQuery) - 
 - [conorbronsdon/avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing) - Skill that audits and rewrites content to remove AI writing patterns. Use it with your favorite agents including Claude Code, OpenClaw, Codex, and Hermes.
 - [EnchantedRobot/SillyTavern-Character-Tools](https://github.com/EnchantedRobot/SillyTavern-Character-Tools) - 
@@ -1898,6 +1901,7 @@
 - [soumyajit-dev/AwesomeWM](https://github.com/soumyajit-dev/AwesomeWM) - This is my config for awesome window manager
 - [andOrlando/awesome-widgets](https://github.com/andOrlando/awesome-widgets) - A collection of a couple custom-made awesome widgets that (kinda) work in isolation so you can just grab
 - [Nooo37/glome](https://github.com/Nooo37/glome) - WIP
+- [moni-dz/nix-config](https://github.com/moni-dz/nix-config) - NixOS/NixOS-WSL/nix-darwin configuration using Nix Flakes and flake-parts
 - [2nthony/dotfiles](https://github.com/2nthony/dotfiles) - My personal dotfiles, neovim, zsh, wezterm, etc.
 - [folke/lazy.nvim](https://github.com/folke/lazy.nvim) - 💤 A modern plugin manager for Neovim
 - [hpb0412/dotfiles](https://github.com/hpb0412/dotfiles) - My dot files collection over the time
@@ -2640,7 +2644,6 @@
 - [gradientvera/GradientOS](https://github.com/gradientvera/GradientOS) - Flake for multiple NixOS system configurations
 - [oddlama/nix-config](https://github.com/oddlama/nix-config) - ❄️ My nix config and dotfiles
 - [numtide/flake-utils](https://github.com/numtide/flake-utils) - Pure Nix flake utility functions [maintainer=@zimbatm]
-- [moni-dz/nix-config](https://github.com/moni-dz/nix-config) - NixOS/NixOS-WSL/nix-darwin configuration using Nix Flakes and flake-parts
 - [rummik/nixos-config](https://github.com/rummik/nixos-config) - My NixOS/Nix-Darwin + home-manager configs
 - [MatthiasBenaets/nix-config](https://github.com/MatthiasBenaets/nix-config) - My Personal Nix, NixOS and Nix-Darwin System Configuration Flake
 - [Ruixi-rebirth/melted-flakes](https://github.com/Ruixi-rebirth/melted-flakes) - My presonal NixOS config.New config can get in https://github.com/Ruixi-rebirth/flakes
@@ -5034,6 +5037,7 @@
 
 ## Vala 
 
+- [midori-browser/core](https://github.com/midori-browser/core) - Midori Web Browser - a lightweight, fast and free web browser using WebKit and GTK+
 - [getnf/embellish](https://github.com/getnf/embellish) - Install Nerd Fonts
 - [Aylur/astal](https://github.com/Aylur/astal) - Building blocks for creating custom desktop shells
 - [parnoldx/nasc](https://github.com/parnoldx/nasc) - Do maths like a normal person
