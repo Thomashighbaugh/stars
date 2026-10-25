@@ -358,6 +358,7 @@
 
 ## CSS 
 
+- [kilofox/firefox-minima](https://github.com/kilofox/firefox-minima) - Minimalist Firefox Theme inspired by qutebrowser
 - [snthcy/nightfox](https://github.com/snthcy/nightfox) - MacOS looking Firefox style using the Nightfall theme. + DuckDuckGo theme!
 - [VastSea0/hilal-browser](https://github.com/VastSea0/hilal-browser) - Hilal Browser
 - [jaxwilko/gtk-theme-framework](https://github.com/jaxwilko/gtk-theme-framework) - 
@@ -820,6 +821,7 @@
 
 - [Pyrxpia/sola-hub](https://github.com/Pyrxpia/sola-hub) - 
 - [socialeraser/SocialEraser](https://github.com/socialeraser/SocialEraser) - 
+- [Thomashighbaugh/opencode](https://github.com/Thomashighbaugh/opencode) - opencode w/ multiple orchestration frameworks via nested subcommands
 - [vava-nessa/free-coding-models](https://github.com/vava-nessa/free-coding-models) - Find, benchmark and install in CLI 170+ FREE coding LLM models across 15+ providers in real time
 - [angelo-v/opencode-playground](https://github.com/angelo-v/opencode-playground) - This repository is just me messing around with OpenCode and exploring what it can do.
 - [5nacks/OSINTBookmarks](https://github.com/5nacks/OSINTBookmarks) - OSINT Bookmarks for Firefox / Chrome / Edge / Safari
@@ -850,7 +852,6 @@
 - [innowatio/iwwa-icons](https://github.com/innowatio/iwwa-icons) - Innowatio font icons
 - [icons8/windows-10-icons](https://github.com/icons8/windows-10-icons) - Free Windows 10 Icons
 - [stephenhutchings/typicons.font](https://github.com/stephenhutchings/typicons.font) - 336 pixel perfect, all-purpose vector icons in a web-font kit
-- [krystonschwarze/coolicons](https://github.com/krystonschwarze/coolicons) - coolicons is a carefully designed collection of 440+ icons with a focus on simplicity and consistency. Perfectly suited for web, application and mobile design.
 - [ritaly/HTML-CSS-CV-demo](https://github.com/ritaly/HTML-CSS-CV-demo) - Template for Resume/CV in HTML and CSS
 - [Ja-sonYun/yew-template-for-github-io](https://github.com/Ja-sonYun/yew-template-for-github-io) - Template of yew project, using tailwind and webpack for css, trunk for build and serve, deployable as is for github.io
 - [aminblm/awesome-chatgpt-content-creation-prompts](https://github.com/aminblm/awesome-chatgpt-content-creation-prompts) - This repo includes ChatGPT content creation prompt curation to use ChatGPT for content creation better.
@@ -1265,6 +1266,7 @@
 - [jaynewey/charm-icons](https://github.com/jaynewey/charm-icons) - 🍀 Charming Open Source vector icons.
 - [halfmage/pixelarticons](https://github.com/halfmage/pixelarticons) - 👾 Beautiful pixel icons. For the pixel vibes.
 - [CoreyGinnivan/system-uicons](https://github.com/CoreyGinnivan/system-uicons) - System UIcons is an icon library design for systems and products. Use how you want, without attribution.
+- [krystonschwarze/coolicons](https://github.com/krystonschwarze/coolicons) - coolicons is a carefully designed collection of 440+ icons with a focus on simplicity and consistency. Perfectly suited for web, application and mobile design.
 - [artcoholic/akar-icons](https://github.com/artcoholic/akar-icons) - Akar icons library as React components.
 - [astrit/css.gg](https://github.com/astrit/css.gg) - 700+ Pure CSS, SVG & Figma UI Icons, 6000+ glyphs, patterns, colors and layouts.
 - [osamajavaid/portfolio](https://github.com/osamajavaid/portfolio) - open source portfolio, made with Nextjs and tailwindcss
@@ -2653,7 +2655,7 @@
 - [etu/nixconfig](https://github.com/etu/nixconfig) - My NixOS config
 - [c0c0n3/nixie](https://github.com/c0c0n3/nixie) - Personal, micro distro built on NixOS
 - [mobsenpai/hana](https://github.com/mobsenpai/hana) - 花 - Hana | Nixos dotfiles [moved to codeberg: https://codeberg.org/mobsenpai/hana]
-- [redcode-labs/RedNixOS](https://github.com/redcode-labs/RedNixOS) - NixOS-based 'distro' for cybersecurity enthusiasts
+- [redcode-labs/RedNixOS](https://github.com/redcode-labs/RedNixOS) - NixOS-based 'distro' for cybersecurity use-cases. It can be built into .iso or .wsl image
 - [kittywitch/infrastructure](https://github.com/kittywitch/infrastructure) - Personal infrastructure repository
 - [barrucadu/nixfiles](https://github.com/barrucadu/nixfiles) - My NixOS configuration and assorted other crap.
 - [bbigras/nix-config](https://github.com/bbigras/nix-config) - My personal nix config
@@ -3315,7 +3317,7 @@
 - [paperswithbacktest/awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading) - A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.
 - [msprev/panzer](https://github.com/msprev/panzer) - pandoc + styles
 - [jamditis/claude-skills-journalism](https://github.com/jamditis/claude-skills-journalism) - Claude Code skills for journalism, media, and academia - verification, FOIA, data journalism, academic writing, and more
-- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,600+ agentic skills. Includes CLI, local MCP, catalo
+- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,750+ agentic skills. Includes CLI, local MCP, catalo
 - [qnorsten/twrp_device_google_pixels](https://github.com/qnorsten/twrp_device_google_pixels) - 
 - [DonBananas/MultiAgent-BrainEngine-SillyTavern](https://github.com/DonBananas/MultiAgent-BrainEngine-SillyTavern) - 6-agent cognitive proxy server for SillyTavern.
 - [civitai/sd_civitai_extension](https://github.com/civitai/sd_civitai_extension) - All of the Civitai models inside Automatic 1111 Stable Diffusion Web UI
@@ -4642,7 +4644,6 @@
 - [stackmemoryai/stackmemory](https://github.com/stackmemoryai/stackmemory) - Stack memory for context between claude code sessions
 - [tctinh/agent-hive](https://github.com/tctinh/agent-hive) - 
 - [timrichardson/opencode-btw](https://github.com/timrichardson/opencode-btw) - OpenCode TUI plugin for /btw side sessions and popup by-the-way workflows
-- [Thomashighbaugh/opencode](https://github.com/Thomashighbaugh/opencode) - opencode w/ multiple orchestration frameworks via nested subcommands
 - [yadav-prakhar/opencode-senate](https://github.com/yadav-prakhar/opencode-senate) - Auto agent orchestrator framework for Opencode
 - [0xkuze/add-dir-opencode](https://github.com/0xkuze/add-dir-opencode) - the add-dir command from claude code  but for opencode
 - [Mte90/opencode-auto-resume](https://github.com/Mte90/opencode-auto-resume) - OpenCode stops working if a model goes in timeout or there are errors, this plugin fixes those issues
@@ -4887,7 +4888,6 @@
 - [brianlovin/briOS](https://github.com/brianlovin/briOS) - My personal website.
 - [uriSecfi/scaffolding-templates](https://github.com/uriSecfi/scaffolding-templates) - 
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Composable, accessible components with thoughtful defaults. Build your own component library with code you can customize, extend, and make your own.
-- [rubenwardy/renewedtab](https://github.com/rubenwardy/renewedtab) - A mirror for the Renewed Tab repository: https://gitlab.com/rubenwardy/renewedtab/
 - [fand/MDMT](https://github.com/fand/MDMT) - 💊Markdown Document Template💊
 - [pieroproietti/penguins-eggs-legacy](https://github.com/pieroproietti/penguins-eggs-legacy) - A professional and universal remastering tool for all major distributions
 - [TechSquidTV/Shoutify](https://github.com/TechSquidTV/Shoutify) - An open source, self-hosted, and entirely free solution to social media management.
