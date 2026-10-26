@@ -698,7 +698,7 @@
 - [anomalyco/opencode-sdk-go](https://github.com/anomalyco/opencode-sdk-go) - 
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
 - [CodingWithEnjoy/TeleFeed](https://github.com/CodingWithEnjoy/TeleFeed) - A Go application that fetches posts from public Telegram channels and exports them as structured JSON files with automatic GitHub Actions integration.
-- [Nomadcxx/sysc-greet](https://github.com/Nomadcxx/sysc-greet) - A tui greeter (not built in rust)
+- [Nomadcxx/sysc-greet](https://github.com/Nomadcxx/sysc-greet) - Graphical console greeter for greetd, written in Go. GPL-3.0-only.
 - [AnalogJ/justvanish](https://github.com/AnalogJ/justvanish) - Tell databrokers to F#@% Off. Your data is your data, they shouldn't be monetizing your personal information without your knowledge.
 - [markusressel/fan2go](https://github.com/markusressel/fan2go) - A simple daemon providing dynamic fan speed control based on temperature sensors.
 - [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) - Fully autonomous AI Agents system capable of performing complex penetration testing tasks
@@ -1171,7 +1171,6 @@
 - [DDKnoll/SVGeneration](https://github.com/DDKnoll/SVGeneration) - Generate SVG background graphics and patterns
 - [AhmedNasser1010/astrofolio](https://github.com/AhmedNasser1010/astrofolio) - Astrofolio is a dynamic and innovative portfolio website that showcases your projects and skills.
 - [lilydjwg/userscripts](https://github.com/lilydjwg/userscripts) - My user scripts
-- [3211/authorsNote-for-sillytavern](https://github.com/3211/authorsNote-for-sillytavern) - plugin for sillytavern
 - [Krakenos/Grimoire-ST-Extension](https://github.com/Krakenos/Grimoire-ST-Extension) - Grimoire Extension for SillyTavern
 - [artisticMink/sidebar-extensions-for-sillytavern](https://github.com/artisticMink/sidebar-extensions-for-sillytavern) - 
 - [InspectorCaracal/SillyTavern-ReMemory](https://github.com/InspectorCaracal/SillyTavern-ReMemory) - Yet another SillyTavern memory extension
@@ -1228,6 +1227,7 @@
 - [WebOrigami/origami](https://github.com/WebOrigami/origami) - Monorepo for the primary Web Origami packages
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience
 - [kustodian/extended-statusbar](https://github.com/kustodian/extended-statusbar) - Firefox addon which adds a statusbar with speed, percentage, time and loaded size (similar to Opera's one)
+- [malloc47/config](https://github.com/malloc47/config) - NixOS configuration for ensemble of VMs and machines
 - [Spiderpig86/Spiderpig86](https://github.com/Spiderpig86/Spiderpig86) - :gem: Me. This is a self-updating README. Star it if you like it :)
 - [update692/firefox](https://github.com/update692/firefox) - Firefox userChrome.js scripts
 - [moritz-h/urls-list](https://github.com/moritz-h/urls-list) - Firefox Add-on to list URLs. Install here: https://addons.mozilla.org/addon/urls-list/
@@ -2486,7 +2486,6 @@
 - [vimjoyer/flake-starter-config](https://github.com/vimjoyer/flake-starter-config) - 
 - [TLATER/dotfiles](https://github.com/TLATER/dotfiles) - Dotfiles deployed with nix/home-manager. Feel free to take what you like!
 - [krebs/nix-anarchy](https://github.com/krebs/nix-anarchy) - Smash the state. Ⓐ
-- [malloc47/config](https://github.com/malloc47/config) - NixOS configuration for ensemble of VMs and machines
 - [gmodena/nix-flatpak](https://github.com/gmodena/nix-flatpak) - Install flatpaks declaratively
 - [nonetrix/nixdots](https://github.com/nonetrix/nixdots) - My NixOS configuration
 - [EmergentMind/nix-config](https://github.com/EmergentMind/nix-config) - A continually evolving multi-user, multi-host NixOS configuration.
@@ -2650,7 +2649,6 @@
 - [MatthiasBenaets/nix-config](https://github.com/MatthiasBenaets/nix-config) - My Personal Nix, NixOS and Nix-Darwin System Configuration Flake
 - [Ruixi-rebirth/melted-flakes](https://github.com/Ruixi-rebirth/melted-flakes) - My presonal NixOS config.New config can get in https://github.com/Ruixi-rebirth/flakes
 - [notohh/snowflake](https://github.com/notohh/snowflake) - NixOS Config(s) - mirrored from https://git.flake.sh/notohh/snowflake
-- [Mic92/dotfiles](https://github.com/Mic92/dotfiles) - My NixOS dotfiles
 - [myme/dotfiles](https://github.com/myme/dotfiles) - My collection of dotfiles
 - [etu/nixconfig](https://github.com/etu/nixconfig) - My NixOS config
 - [c0c0n3/nixie](https://github.com/c0c0n3/nixie) - Personal, micro distro built on NixOS
@@ -4009,6 +4007,7 @@
 - [rusty-ferris-club/backpack](https://github.com/rusty-ferris-club/backpack) - 🎒 CLI to create starters from repos + Templates 🤖 + Actions 🚀
 - [yaxitech/ragenix](https://github.com/yaxitech/ragenix) - age-encrypted secrets for NixOS; drop-in replacement for agenix
 - [astro/deadnix](https://github.com/astro/deadnix) - Scan Nix files for dead code
+- [Mic92/dotfiles](https://github.com/Mic92/dotfiles) - My NixOS dotfiles
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - ❄️ ChatGPT Desktop Application (Mac, Windows and Linux)
 - [OleMussmann/nps](https://github.com/OleMussmann/nps) - Cache the nix package list, query and sort by relevance
 - [evestera/svg-halftone](https://github.com/evestera/svg-halftone) - Tool for converting raster images to SVG halftone patterns
