@@ -1013,6 +1013,8 @@
 
 ## JavaScript 
 
+- [LiarMTTT/TavernWeave](https://github.com/LiarMTTT/TavernWeave) - Noncommercial Agent Skills for SillyTavern rolecard engineering.
+- [BobTheBinChicken/Ultimate-Persona](https://github.com/BobTheBinChicken/Ultimate-Persona) - Ultimate Persona is an all-in-one persona generator and plot hook creator for SillyTavern. It uses pre-existing character cards to shape a character that matches your RP, and is perfect for sessions w
 - [BrowserWorks/waterfox](https://github.com/BrowserWorks/waterfox) - The official Waterfox 💧 source code repository
 - [Enerccio/SillyTavern-SideQuery](https://github.com/Enerccio/SillyTavern-SideQuery) - 
 - [conorbronsdon/avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing) - Skill that audits and rewrites content to remove AI writing patterns. Use it with your favorite agents including Claude Code, OpenClaw, Codex, and Hermes.
@@ -2784,6 +2786,7 @@
 
 ## Others 
 
+- [lsennn/Deus-ex-machina](https://github.com/lsennn/Deus-ex-machina) - A feature-rich, beginner-friendly, contextually dynamic, truly modular SillyTavern preset focused on collaborative story writing.
 - [yaelwrites/Big-Ass-Data-Broker-Opt-Out-List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List) - 
 - [deboniet/android-x86-isos](https://github.com/deboniet/android-x86-isos) - Android-x86 ISOs
 - [jbro129/android-modding](https://github.com/jbro129/android-modding) - A large collection of github repositories related to android modding.
@@ -3305,6 +3308,7 @@
 
 ## Python 
 
+- [willmiao/ComfyUI-Lora-Manager](https://github.com/willmiao/ComfyUI-Lora-Manager) - LoRA Manager for ComfyUI - A powerful extension for organizing, previewing, and integrating LoRA models with metadata and workflow support.
 - [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
 - [robertguss/claude-code-toolkit](https://github.com/robertguss/claude-code-toolkit) - A collection of custom skills that extend Claude's capabilities with specialized workflows, methods, and domain knowledge.
 - [shi-YangYang/opencode-speak-freely](https://github.com/shi-YangYang/opencode-speak-freely) - Lower AI refusal rates in OpenCode: code-context scaffolding, multi-stage workflow, auto refusal repair, local Web UI, zero deps. OpenCode 破甲：代码上下文补全 + 被拒自动修复 + 本地 Web UI，零依赖。
@@ -4024,7 +4028,6 @@
 - [origin-brain/rust-by-practice](https://github.com/origin-brain/rust-by-practice) - Rust By Practice will evolve into Origin.
 - [he-la/perspektiv](https://github.com/he-la/perspektiv) - A daemon for creating popups when you change monitor brightness, volume, etc.
 - [terror/zk](https://github.com/terror/zk) - A note-taking tool based on the famous Zettelkasten method
-- [velas/velas-chain](https://github.com/velas/velas-chain) - 
 - [perfah/Rustland](https://github.com/perfah/Rustland) - A Wayland compositor written in Rust, hence the cool name
 - [solana-labs/solana](https://github.com/solana-labs/solana) - Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
 - [nuta/kerla](https://github.com/nuta/kerla) - A new operating system kernel with Linux binary compatibility written in Rust.
