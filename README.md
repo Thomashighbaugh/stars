@@ -361,7 +361,6 @@
 
 - [kilofox/firefox-minima](https://github.com/kilofox/firefox-minima) - Minimalist Firefox Theme inspired by qutebrowser
 - [snthcy/nightfox](https://github.com/snthcy/nightfox) - MacOS looking Firefox style using the Nightfall theme. + DuckDuckGo theme!
-- [VastSea0/hilal-browser](https://github.com/VastSea0/hilal-browser) - Hilal Browser
 - [jaxwilko/gtk-theme-framework](https://github.com/jaxwilko/gtk-theme-framework) - 
 - [hermitm0nk/malevich](https://github.com/hermitm0nk/malevich) - 
 - [matthewmx86/RetroThemesFirefox](https://github.com/matthewmx86/RetroThemesFirefox) - A collection of old browser themes for Firefox.
@@ -846,7 +845,6 @@
 - [LouisShark/chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt) - A collection of GPT system prompts and various prompt injection/leaking knowledge.
 - [aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) - A one stop repository for generative AI research updates, interview resources, notebooks and much more!
 - [Rishit-dagli/Rishit-dagli](https://github.com/Rishit-dagli/Rishit-dagli) - My GitHub profile README
-- [aitoolsau/EbookWriter](https://github.com/aitoolsau/EbookWriter) - AI powered e-book writer
 - [microsoft/fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons) - Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.
 - [pprince/etlinefont-bower](https://github.com/pprince/etlinefont-bower) - Elegant Themes 100 Line Icons (GPL'd icon font) as a bower component
 - [innowatio/iwwa-icons](https://github.com/innowatio/iwwa-icons) - Innowatio font icons
@@ -1013,6 +1011,7 @@
 
 ## JavaScript 
 
+- [HakaiGod420/st-rulebook](https://github.com/HakaiGod420/st-rulebook) - SillyTavern extension — world rules as switchable, composable prompt blocks: library, sets, per-chat overrides, AI rule authoring.
 - [manrajgrover/organize-cli](https://github.com/manrajgrover/organize-cli) - 📋 Organize your files, imagine cleaning up your downloads in an instant
 - [LiarMTTT/TavernWeave](https://github.com/LiarMTTT/TavernWeave) - Noncommercial Agent Skills for SillyTavern rolecard engineering.
 - [BobTheBinChicken/Ultimate-Persona](https://github.com/BobTheBinChicken/Ultimate-Persona) - Ultimate Persona is an all-in-one persona generator and plot hook creator for SillyTavern. It uses pre-existing character cards to shape a character that matches your RP, and is perfect for sessions w
@@ -1028,6 +1027,7 @@
 - [hornysilicon/charSaver](https://github.com/hornysilicon/charSaver) - Automatically Saves Generated Characters to chat bound lorebooks
 - [SehajveerSingh2005/render.js](https://github.com/SehajveerSingh2005/render.js) - Makes Zen feel alive.
 - [z1n-k/zia](https://github.com/z1n-k/zia) - A Sine mod that makes Zen Browser look and work like Dia.
+- [VastSea0/hilal-browser](https://github.com/VastSea0/hilal-browser) - Hilal Browser
 - [helloyanis/age-verification-bypass](https://github.com/helloyanis/age-verification-bypass) - Extension to bypass age verification on some websites
 - [DummyTBanana/st-group-utils](https://github.com/DummyTBanana/st-group-utils) - A sillytavern extension that helps with groups
 - [amiantos/writers-guild](https://github.com/amiantos/writers-guild) - A SillyTavern alternative focused on short story writing with full support for Tavern cards and Lorebooks
@@ -1285,7 +1285,6 @@
 - [osmoscraft/osmosfeed-examples](https://github.com/osmoscraft/osmosfeed-examples) - 
 - [leomuehlfeld/Memphis-Pattern-Generator](https://github.com/leomuehlfeld/Memphis-Pattern-Generator) - 🎨 simple "paper.js" pattern generator
 - [pashpashpash/vault-ai](https://github.com/pashpashpash/vault-ai) - OP Vault ChatGPT: Give ChatGPT long-term memory using the OP Stack (OpenAI + Pinecone Vector Database). Upload your own custom knowledge base files (PDF, txt, epub, etc) using a simple React frontend.
-- [CyrisXD/CyrisXD](https://github.com/CyrisXD/CyrisXD) - 
 - [nordicgiant2/react-nice-resume](https://github.com/nordicgiant2/react-nice-resume) - A React.js Nice Resume Template
 - [stevej2608/react-mosaic-cra](https://github.com/stevej2608/react-mosaic-cra) - Implementation, in JavaScript, of the react-mosaic demo
 - [instant-dev/api](https://github.com/instant-dev/api) - Instant API: Build type-safe web APIs with JavaScript
@@ -2990,6 +2989,7 @@
 - [PickleBoxer/dev-chatgpt-prompts](https://github.com/PickleBoxer/dev-chatgpt-prompts) - 📚 Personal collection of ChatGPT prompts for developers!
 - [langgptai/awesome-claude-prompts](https://github.com/langgptai/awesome-claude-prompts) - This repo includes Claude prompt curation to use Claude better.
 - [ComradeAERGO/Awesome-Neobrutalism](https://github.com/ComradeAERGO/Awesome-Neobrutalism) - A curated list of resources for Neobrutalism Design
+- [CyrisXD/CyrisXD](https://github.com/CyrisXD/CyrisXD) - 
 - [notlmn/awesome-icons](https://github.com/notlmn/awesome-icons) - A curated list of awesome downloadable SVG/PNG/Font icon projects
 - [Rickhersd/neo-icons](https://github.com/Rickhersd/neo-icons) - Mi propia colección de iconos inspirada en el Neo-Brutalismo
 - [xiaoluoboding/xiaoluoboding](https://github.com/xiaoluoboding/xiaoluoboding) - My GitHub Profile. Before Fork it, Star it, Please. 😂
@@ -3318,7 +3318,7 @@
 - [paperswithbacktest/awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading) - A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.
 - [msprev/panzer](https://github.com/msprev/panzer) - pandoc + styles
 - [jamditis/claude-skills-journalism](https://github.com/jamditis/claude-skills-journalism) - Claude Code skills for journalism, media, and academia - verification, FOIA, data journalism, academic writing, and more
-- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,750+ agentic skills. Includes CLI, local MCP, catalo
+- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - 2,877+ reusable AI agent skills for Claude Code, Codex, Cursor and Gemini CLI. AAS Core adds local catalog discovery, agent-owned selection and plan preview. CLI, MCP and plugins.
 - [qnorsten/twrp_device_google_pixels](https://github.com/qnorsten/twrp_device_google_pixels) - 
 - [DonBananas/MultiAgent-BrainEngine-SillyTavern](https://github.com/DonBananas/MultiAgent-BrainEngine-SillyTavern) - 6-agent cognitive proxy server for SillyTavern.
 - [civitai/sd_civitai_extension](https://github.com/civitai/sd_civitai_extension) - All of the Civitai models inside Automatic 1111 Stable Diffusion Web UI
@@ -4670,7 +4670,7 @@
 - [KhazP/vibe-coding-prompt-template](https://github.com/KhazP/vibe-coding-prompt-template) - Templates and workflow for generating PRDs, Tech Designs, and MVP and more using LLMs for AI IDEs
 - [malhashemi/opencode-skills](https://github.com/malhashemi/opencode-skills) - 
 - [R44VC0RP/opencode.cafe](https://github.com/R44VC0RP/opencode.cafe) - A plugin and extension cafe for OpenCode.
-- [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs
+- [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - Your AI workspace for models, agents, and productivity.
 - [spoons-and-mirrors/pocket-universe](https://github.com/spoons-and-mirrors/pocket-universe) - Agentic closed loop with async capabilities
 - [simonwjackson/opencode-direnv](https://github.com/simonwjackson/opencode-direnv) - OpenCode plugin that automatically loads direnv environment variables at session start
 - [tickernelz/opencode-mem](https://github.com/tickernelz/opencode-mem) - OpenCode plugin that gives coding agents persistent memory using local vector database
