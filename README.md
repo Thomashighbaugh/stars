@@ -542,7 +542,7 @@
 - [Zonnev/elementaryos-firefox-theme](https://github.com/Zonnev/elementaryos-firefox-theme) - This theme for Firefox supports all the window buttons layouts from Tweaks and it blends into the elementary OS user interface.
 - [stonecrusher/simpleMenuWizard](https://github.com/stonecrusher/simpleMenuWizard) - Hide contextmenu items in Firefox Photon
 - [migueravila/simplefox](https://github.com/migueravila/simplefox) - A Userstyle theme for Firefox minimalist and Keyboard centered.
-- [eepykate/polka](https://github.com/eepykate/polka) - 🐢 dotless files  (sponsored by https://git.io/kiwmi)
+- [sashadelioncourt/polka](https://github.com/sashadelioncourt/polka) - 🐢 dotless files  (sponsored by https://git.io/kiwmi)
 - [archcraft-os/archcraft-os.github.io](https://github.com/archcraft-os/archcraft-os.github.io) - // Source : Website
 - [cacheiforindicium/dotfiles](https://github.com/cacheiforindicium/dotfiles) - SwayWM dotfiles
 - [iyzg/archived-dots](https://github.com/iyzg/archived-dots) - :large_blue_circle: The configs behind the eye candy
@@ -882,7 +882,6 @@
 - [maizzle/starter-postmark](https://github.com/maizzle/starter-postmark) - A Maizzle starter based on Postmark's transactional email templates.
 - [Amitabha37377/HomePage](https://github.com/Amitabha37377/HomePage) - 
 - [ryangrose/easy-pandoc-templates](https://github.com/ryangrose/easy-pandoc-templates) - A collection of portable pandoc templates with no dependencies
-- [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [davidarroyo1234/InstagramUnfollowers](https://github.com/davidarroyo1234/InstagramUnfollowers) - Check if people follows you back on Instagram.
 - [leemunroe/responsive-html-email-template](https://github.com/leemunroe/responsive-html-email-template) - A free simple responsive HTML email template
 - [adevade/color-scheme-generator](https://github.com/adevade/color-scheme-generator) - When you just need some UI colors, fast.
@@ -1011,6 +1010,8 @@
 
 ## JavaScript 
 
+- [mnfst/awesome-free-llm-apis](https://github.com/mnfst/awesome-free-llm-apis) - List of Permanent Free LLM API  (API Keys)
+- [Phiarlan/SillyTavern-WorldInfoPlus](https://github.com/Phiarlan/SillyTavern-WorldInfoPlus) - A SillyTavern extension that makes quality-of-life changes to the World Info feature.
 - [aeoness/swipe-sculpt](https://github.com/aeoness/swipe-sculpt) - Visual workflow extension for SillyTavern to view, clip, and merge message swipes.
 - [HakaiGod420/st-rulebook](https://github.com/HakaiGod420/st-rulebook) - SillyTavern extension — world rules as switchable, composable prompt blocks: library, sets, per-chat overrides, AI rule authoring.
 - [manrajgrover/organize-cli](https://github.com/manrajgrover/organize-cli) - 📋 Organize your files, imagine cleaning up your downloads in an instant
@@ -2357,6 +2358,7 @@
 - [huggingface/agents-course](https://github.com/huggingface/agents-course) - This repository contains the Hugging Face Agents Course.
 - [DeterminateSystems/zero-to-nix](https://github.com/DeterminateSystems/zero-to-nix) - Zero to Nix is your guide to learning Nix and flakes. Created by Determinate Systems.
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
+- [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [trigaten/Learn_Prompting](https://github.com/trigaten/Learn_Prompting) - Prompt Engineering, Generative AI, and LLM Guide by Learn Prompting | Join our discord for the largest Prompt Engineering learning community
 - [kpollich/kylepolli.ch](https://github.com/kpollich/kylepolli.ch) - My personal blog built with Astro
 - [theodorusclarence/theodorusclarence.com](https://github.com/theodorusclarence/theodorusclarence.com) - Old repository of my personal website. The revamped and new design is closed-source ✌️
@@ -2511,7 +2513,6 @@
 - [TheMaxMur/NixOS-Configuration](https://github.com/TheMaxMur/NixOS-Configuration) - MaxMur NixOS config & Home-Manager config
 - [tuxdotrs/nix-config](https://github.com/tuxdotrs/nix-config) - My entire infrastructure in a nix flake
 - [RGBCube/ThemeNix](https://github.com/RGBCube/ThemeNix) - Theme your NixOS configuration consistently.
-- [viperML/wrapper-manager](https://github.com/viperML/wrapper-manager) - Post-modern configuration management
 - [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - my over complex system configurations
 - [Frost-Phoenix/nixos-config](https://github.com/Frost-Phoenix/nixos-config) - ❄️ NixOs / Hyprland rice with Home-Manager ❄️
 - [Lehmanator/nix-configs](https://github.com/Lehmanator/nix-configs) - Personal Nix / NixOS configs
@@ -4508,7 +4509,7 @@
 - [wafflepie/dotfiles](https://github.com/wafflepie/dotfiles) - 🧰 Handcrafted dotfiles for web developers running Fedora, macOS, or Ubuntu for WSL. Ridiculously easy to set up, maintain, and extend.
 - [DonyaOS/Donya](https://github.com/DonyaOS/Donya) - Donya is an Operating System. Yet Another Linux distro built using a package management system.
 - [adi1090x/plymouth-themes](https://github.com/adi1090x/plymouth-themes) - A huge collection (80+) of plymouth themes ported from android bootanimations
-- [eepykate/fet.sh](https://github.com/eepykate/fet.sh) - 🐢 a fetch written in posix shell without any external commands  (sponsored by https://git.io/kiwmi)
+- [sashadelioncourt/fet.sh](https://github.com/sashadelioncourt/fet.sh) - 🐢 a fetch written in posix shell without any external commands  (sponsored by https://git.io/kiwmi)
 - [LukeSmithxyz/voidrice](https://github.com/LukeSmithxyz/voidrice) - My dotfiles (deployed by LARBS)
 - [endeavouros-team/PKGBUILDS](https://github.com/endeavouros-team/PKGBUILDS) - PKGBUILDS for packages used in our repository
 - [mfaerevaag/wd](https://github.com/mfaerevaag/wd) - :rocket: Jump to custom directories in zsh
@@ -4819,7 +4820,7 @@
 - [ibelick/nextjs-resume](https://github.com/ibelick/nextjs-resume) - A curriculum vitae inspired by read.cv, build with Next.js and Tailwind CSS
 - [marieooq/neo-brutalism-ui-library](https://github.com/marieooq/neo-brutalism-ui-library) - 
 - [mlajtos/mosaic](https://github.com/mlajtos/mosaic) - A tiling web browser.
-- [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
+- [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Lucide is an open-source icon library that provides 2000+ vector (svg) files for displaying icons and symbols in digital and non-digital proj
 - [ekmas/neobrutalism-components](https://github.com/ekmas/neobrutalism-components) - A collection of neobrutalism-styled Tailwind components.
 - [PascalPixel/twitter-follower-curator-bot](https://github.com/PascalPixel/twitter-follower-curator-bot) - Clean up your following / followers on Twitter
 - [agil3st/portflow-nextjs](https://github.com/agil3st/portflow-nextjs) - 📝🖥 A simple portfolio template built with TailwindCSS and DaisyUI powered up by NextJS.
