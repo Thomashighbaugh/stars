@@ -301,7 +301,6 @@
 - [p3tr0s/PhiSiFi](https://github.com/p3tr0s/PhiSiFi) - WiFi Hacking with an ESP8266 - Deauth combined with Evil Twin attack
 - [Miriway/Miriway](https://github.com/Miriway/Miriway) - Mir based Wayland compositor
 - [jechasteen/gratuitous](https://github.com/jechasteen/gratuitous) - IDE for awesome window manager configuration and themes. Start and stop a Xephyr preview, syntax highlighting, editor splitting.
-- [Alex313031/thorium](https://github.com/Alex313031/thorium) - Chromium fork named after radioactive element No. 90. Source code and Linux releases. Windows/MacOS/ARM builds served in different repos, links are towards the top of the README.md.
 - [MCredstoner2004/ImageLOL](https://github.com/MCredstoner2004/ImageLOL) - simple program to store a file into a PNG image
 - [Curve/aawmtt](https://github.com/Curve/aawmtt) - Another AwesomeWM Testing Tool 🚀
 - [Duckonaut/hyprload](https://github.com/Duckonaut/hyprload) - A Hyprland plugin manager
@@ -693,6 +692,7 @@
 
 ## Go 
 
+- [simonw/showboat](https://github.com/simonw/showboat) - Create executable documents that demonstrate an agent's work
 - [mihakrumpestar/panix](https://github.com/mihakrumpestar/panix) - Universal Nix Deployment Orchestrator - inspect, bootstrap, build, transfer, secrets, activate, rollback
 - [get-vix/vix](https://github.com/get-vix/vix) - Sleek, Fast and Token Efficient AI Coding Agent
 - [JoshuaDoes/tensor-usbdl](https://github.com/JoshuaDoes/tensor-usbdl) - this repo could eat your cat. fair warning. "I am not responsible for dead phones, dead SD cards, thermonuclear warfare"
@@ -1067,7 +1067,6 @@
 - [omgmog/lightdm-webkit-google](https://github.com/omgmog/lightdm-webkit-google) - A Google/ChromeOS style LightDM Webkit greeter theme
 - [omgmog/lightdm-webkit-theme-developer-helper](https://github.com/omgmog/lightdm-webkit-theme-developer-helper) - Some functions that make it possible to develop LightDM Webkit Greeter themes in the browser
 - [lazuli-s/SillyTavern-WorldInfoDrawer](https://github.com/lazuli-s/SillyTavern-WorldInfoDrawer) - A fork of LenAnderson's WorldInfoDrawer extension for SillyTavern. This version keeps the lorebook editing experience while adding quality-of-life tweaks to make organizing World Info entries faster a
-- [chesswoodspixel/SillyTavern-LorebookStickySort](https://github.com/chesswoodspixel/SillyTavern-LorebookStickySort) - SillyTavern extension that remembers your preferred sort order for each lorebook.
 - [RedIceCider/SillyQR-Buttons](https://github.com/RedIceCider/SillyQR-Buttons) - Extension for SillyTavern. Execute QuickReplies with HTML buttons in chat body.
 - [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
 - [Rapptz/power-tabs](https://github.com/Rapptz/power-tabs) - Vertical tab groups for Firefox
@@ -1269,9 +1268,10 @@
 - [emilamaj/bookwriter](https://github.com/emilamaj/bookwriter) - Let AI generate a complete book simply by providing a title and a description
 - [aeksco/react-typescript-web-extension-starter](https://github.com/aeksco/react-typescript-web-extension-starter) - :desktop_computer: Web Extension starter kit built with React, TypeScript, TailwindCSS, Storybook, Jest, EsLint, Prettier, and Webpack. Supports Google Chrome + Mozilla Firefox + Brave Browser + Micro
 - [jaynewey/charm-icons](https://github.com/jaynewey/charm-icons) - 🍀 Charming Open Source vector icons.
+- [mingcute-design/mingcute-icons](https://github.com/mingcute-design/mingcute-icons) - Carefully designed icons for modern interfaces. MingCute is a simple, elegant open-source icon library built for web and mobile products.
 - [halfmage/pixelarticons](https://github.com/halfmage/pixelarticons) - 👾 Beautiful pixel icons. For the pixel vibes.
 - [CoreyGinnivan/system-uicons](https://github.com/CoreyGinnivan/system-uicons) - System UIcons is an icon library design for systems and products. Use how you want, without attribution.
-- [krystonschwarze/coolicons](https://github.com/krystonschwarze/coolicons) - Every icon for your next project. Free, wherever you build: 1,200+ icons in five styles with sharp, regular or round corners, for React, Vue, shadcn/ui and Figma.
+- [krystonschwarze/coolicons](https://github.com/krystonschwarze/coolicons) - Every icon for your next project. Free, wherever you build: 1,300+ icons in five styles with sharp, regular or round corners, for React, Vue, shadcn/ui and Figma.
 - [artcoholic/akar-icons](https://github.com/artcoholic/akar-icons) - Akar icons library as React components.
 - [astrit/css.gg](https://github.com/astrit/css.gg) - 700+ Pure CSS, SVG & Figma UI Icons, 6000+ glyphs, patterns, colors and layouts.
 - [osamajavaid/portfolio](https://github.com/osamajavaid/portfolio) - open source portfolio, made with Nextjs and tailwindcss
@@ -1419,7 +1419,6 @@
 - [drejcreative/mern-boilerplate-nextjs-2020](https://github.com/drejcreative/mern-boilerplate-nextjs-2020) - Boilerplate code for MERN stack (NextJs) with simple TODO app.
 - [Merkoba/Msg](https://github.com/Merkoba/Msg) - A javascript library to create and manage highly customizable modal windows and popup messages
 - [xyproto/algernon](https://github.com/xyproto/algernon) - Small self-contained pure-Go web server with Lua, Teal, Markdown, HTTP/2, QUIC, Redis, TypeScript, npm-less React 19, SQLite, and PostgreSQL support ++
-- [OffcierCia/DeFi-Developer-Road-Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map) - DeFi Developer roadmap is a curated Developer handbook which includes a list of the best tools for DApps development, resources and references!
 - [rockiger/akiee](https://github.com/rockiger/akiee) - A Markdown-based task manager for hackers and people who build stuff.
 - [gregives/Twelvety](https://github.com/gregives/Twelvety) - An Eleventy starter project built to be fast
 - [tortious/2021_Firefox](https://github.com/tortious/2021_Firefox) - Updated config settings & possibilities for Firefox. This includes all file types (css; uc.js; js; etc) and other tips and tricks, including about:config tweaks
@@ -1977,7 +1976,7 @@
 - [oem/arachne.nvim](https://github.com/oem/arachne.nvim) - A minimal note-taking system for neovim
 - [ElPiloto/prompts.nvim](https://github.com/ElPiloto/prompts.nvim) - prompts for your vimwiki
 - [edr3x/.dotfiles](https://github.com/edr3x/.dotfiles) - dotfiles for AwesomeWM, Neovim, Tmux, Starship, Rofi and many other tools i use
-- [wxxxcxx/awesome](https://github.com/wxxxcxx/awesome) - Awesome WM Configuration
+- [wxxxcxx/awesome](https://github.com/wxxxcxx/awesome) - My Awesome WM Configuration
 - [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal nvim configuration
 - [jcrd/awesome-dovetail](https://github.com/jcrd/awesome-dovetail) - AwesomeWM layout featuring two visible tiled clients
 - [jcrd/awesome-launch](https://github.com/jcrd/awesome-launch) - AwesomeWM library for launching clients with single instance IDs
@@ -2185,7 +2184,7 @@
 - [nekonako/xresources-nvim](https://github.com/nekonako/xresources-nvim) - 🎨 Neovim colorscheme based on your xresources color
 - [lewis6991/impatient.nvim](https://github.com/lewis6991/impatient.nvim) - Improve startup time for Neovim
 - [s1n7ax/nvim-comment-frame](https://github.com/s1n7ax/nvim-comment-frame) - Detects the language using treesitter and adds a comment block
-- [n3wborn/nvim](https://github.com/n3wborn/nvim) - My own NVIM (&gt;=NVIM  v0.13.0-dev-591+g89623e5992) config
+- [n3wborn/nvim](https://github.com/n3wborn/nvim) - My own NVIM (&gt;=NVIM  v0.13.0-dev-2016+gdbecb8a6fc) config
 - [koniu/awesome-configs](https://github.com/koniu/awesome-configs) - koniu's awesome config
 - [kurbel/awesome-config](https://github.com/kurbel/awesome-config) - configuration files for the awesome window manager (awesomewm)
 - [nvim-lua/popup.nvim](https://github.com/nvim-lua/popup.nvim) - [WIP] An implementation of the Popup API from vim in Neovim. Hope to upstream when complete
@@ -2540,7 +2539,7 @@
 - [sodiboo/niri-flake](https://github.com/sodiboo/niri-flake) - Nix-native configuration for niri
 - [mahmoudk1000/nix-config](https://github.com/mahmoudk1000/nix-config) - mahmoudk1000's nixos configuration
 - [LutrisEng/nix-fly-template](https://github.com/LutrisEng/nix-fly-template) - Build an application with Nix and deploy it on Fly.io
-- [oluceps/nixos-config](https://github.com/oluceps/nixos-config) - Configuration for describing my systems.
+- [oluceps/nixos-config](https://github.com/oluceps/nixos-config) - Configuration for describing my systems. Implement service ingress and egress zero-trust based on SPIFFE and workload api
 - [Ruixi-rebirth/flakes](https://github.com/Ruixi-rebirth/flakes) - My presonal NixOS config, etc.
 - [dr460nf1r3/dr460nixed](https://github.com/dr460nf1r3/dr460nixed) - Dr460nixed NixOS 🐉❄️
 - [the-nix-way/nome](https://github.com/the-nix-way/nome) - My Nix home
@@ -2652,6 +2651,7 @@
 - [MatthiasBenaets/nix-config](https://github.com/MatthiasBenaets/nix-config) - My Personal Nix, NixOS and Nix-Darwin System Configuration Flake
 - [Ruixi-rebirth/melted-flakes](https://github.com/Ruixi-rebirth/melted-flakes) - My presonal NixOS config.New config can get in https://github.com/Ruixi-rebirth/flakes
 - [notohh/snowflake](https://github.com/notohh/snowflake) - NixOS Config(s) - mirrored from https://git.flake.sh/notohh/snowflake
+- [Mic92/dotfiles](https://github.com/Mic92/dotfiles) - My NixOS dotfiles
 - [myme/dotfiles](https://github.com/myme/dotfiles) - My collection of dotfiles
 - [etu/nixconfig](https://github.com/etu/nixconfig) - My NixOS config
 - [c0c0n3/nixie](https://github.com/c0c0n3/nixie) - Personal, micro distro built on NixOS
@@ -2666,7 +2666,6 @@
 - [cab404/home](https://github.com/cab404/home) - My NixOS configuration
 - [aaronjanse/dotfiles](https://github.com/aaronjanse/dotfiles) - My dotfiles as a Nix flake
 - [tejing1/nixos-config](https://github.com/tejing1/nixos-config) - Tejing's personal NixOS configuration flake
-- [jordanisaacs/dotfiles](https://github.com/jordanisaacs/dotfiles) - My NixOS dotfiles for desktops and servers
 - [pandoraxdn/nixos-configuration](https://github.com/pandoraxdn/nixos-configuration) - 
 - [sebastiant/dotfiles](https://github.com/sebastiant/dotfiles) - 
 - [Nekroze/vms.nix](https://github.com/Nekroze/vms.nix) - NixOS module for QEMU VM's using a similar interface to nixos-containers.
@@ -2787,6 +2786,7 @@
 
 ## Others 
 
+- [cckuailong/awesome-gpt-security](https://github.com/cckuailong/awesome-gpt-security) - A curated list of awesome security tools, experimental case or other interesting things with LLM or GPT.
 - [lsennn/Deus-ex-machina](https://github.com/lsennn/Deus-ex-machina) - A feature-rich, beginner-friendly, contextually dynamic, truly modular SillyTavern preset focused on collaborative story writing.
 - [yaelwrites/Big-Ass-Data-Broker-Opt-Out-List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List) - 
 - [deboniet/android-x86-isos](https://github.com/deboniet/android-x86-isos) - Android-x86 ISOs
@@ -2819,7 +2819,6 @@
 - [multianimus/Jacks-Silly-QuickReplies](https://github.com/multianimus/Jacks-Silly-QuickReplies) - Quick replies for SillyTavern
 - [mind-network/Awesome-LLM-based-AI-Agents-Knowledge](https://github.com/mind-network/Awesome-LLM-based-AI-Agents-Knowledge) - LLM-based AI Agent Knowledge Sharing
 - [zebbern/no-cost-ai](https://github.com/zebbern/no-cost-ai) - 80+ free AI services for chat, image, video, voice & APIs (may sometimes include access to lead gen ai models for free)
-- [chesswoodspixel/LumiaDLC](https://github.com/chesswoodspixel/LumiaDLC) - Personality packs and prompts/alterations for Lucid Loom.
 - [cha1latte/sillytavern-preset-creator](https://github.com/cha1latte/sillytavern-preset-creator) - Prompts for creating SillyTavern presets with AI - from basic parameters to 60+ module mega-presets
 - [prolix-oc/ST-Presets](https://github.com/prolix-oc/ST-Presets) - 
 - [unkarelian/timeline-extension-prompts](https://github.com/unkarelian/timeline-extension-prompts) - Prompts for the timeline extension
@@ -3004,10 +3003,10 @@
 - [chow-petit/awesome-curated-tools](https://github.com/chow-petit/awesome-curated-tools) - A curated list of digital tools we use, ranging from accounting and data science to scientific research and liquid democracy. Commented, connected, by everyone and for everyone !
 - [haidar47x/curated-fullstack-books](https://github.com/haidar47x/curated-fullstack-books) - A curated list of full-stack development books.
 - [pawamoy/awesome-repository](https://github.com/pawamoy/awesome-repository) - A curated list of services, tools and standards about (open source) repository management.
-- [linsa-io/documentaries](https://github.com/linsa-io/documentaries) - Awesome Documentaries
+- [gendotnew/documentaries](https://github.com/gendotnew/documentaries) - Awesome Documentaries
 - [AthenaAI/community-search](https://github.com/AthenaAI/community-search) - A community-curated repository of 🔥 learning resources
 - [osromusic/Glitch-Arts-Resources](https://github.com/osromusic/Glitch-Arts-Resources) - A curated list of resources for all arts glitch.
-- [linsa-io/command-line-tools](https://github.com/linsa-io/command-line-tools) - Awesome Command Line Utilities
+- [gendotnew/command-line-tools](https://github.com/gendotnew/command-line-tools) - Awesome Command Line Utilities
 - [cedrickchee/awesome-wireguard](https://github.com/cedrickchee/awesome-wireguard) - A curated list of WireGuard tools, projects, and resources.
 - [chobeat/awesome-critical-tech-reading-list](https://github.com/chobeat/awesome-critical-tech-reading-list) - A reading list for the modern critical programmer
 - [minar09/awesome-virtual-try-on](https://github.com/minar09/awesome-virtual-try-on) - A curated list of awesome research papers, projects, code, dataset, workshops etc. related to virtual try-on.
@@ -3084,7 +3083,7 @@
 - [thomasdesr/Google-dorks](https://github.com/thomasdesr/Google-dorks) - Common google dorks and others you prolly donn know :P
 - [BullsEye0/google_dork_list](https://github.com/BullsEye0/google_dork_list) - Google Dorks | Google helps you to find Vulnerable Websites that Indexed in Google Search Results. Here is the latest collection of Google Dorks. A collection of 13.760 Dorks. Author: Jolanda de Koff
 - [cipher387/Dorks-collections-list](https://github.com/cipher387/Dorks-collections-list) - List of Github repositories and articles with list of dorks for different search engines
-- [linsa-io/firefox-extensions](https://github.com/linsa-io/firefox-extensions) - Awesome Firefox Extensions
+- [gendotnew/firefox-extensions](https://github.com/gendotnew/firefox-extensions) - Awesome Firefox Extensions
 - [brettkromkamp/awesome-knowledge-management](https://github.com/brettkromkamp/awesome-knowledge-management) - A curated list of amazingly awesome articles, people, applications, software libraries and projects related to the knowledge management space
 - [matthiasn/talk-transcripts](https://github.com/matthiasn/talk-transcripts) - Transcripts of Clojure-related talks
 - [spencerpauly/awesome-notion](https://github.com/spencerpauly/awesome-notion) - A curated list of awesome Notion related things.
@@ -3309,6 +3308,11 @@
 
 ## Python 
 
+- [firatkiral/pypeek](https://github.com/firatkiral/pypeek) - Peek screen recorder and screenshot with annotations
+- [kienmarkdo/Telegram-OSINT-for-Cyber-Threat-Intelligence-Analysis](https://github.com/kienmarkdo/Telegram-OSINT-for-Cyber-Threat-Intelligence-Analysis) - An OSINT tool tailored for comprehensive collection, analysis, and interpretation of cyber threat intelligence from Telegram channels and groups.
+- [phishdestroy/TgWitness](https://github.com/phishdestroy/TgWitness) - Telegram chat exporter and OSINT evidence workspace. Preserve observed edits and deletion notices, investigate saved history, and verify signed archives with checkpoints, timestamps and optional Intel
+- [Tcotl/AgentCapture](https://github.com/Tcotl/AgentCapture) - Deception-layer honeypot that captures & reverse-controls AI pentest agents — embedded decoys, prompt-injection counter-offense, MCP honeypot, conversational C2.
+- [bvlxtelli/rokuCast](https://github.com/bvlxtelli/rokuCast) - Roku TV as an Android cast target (Chromecast-style bridge + SceneGraph receiver)
 - [willmiao/ComfyUI-Lora-Manager](https://github.com/willmiao/ComfyUI-Lora-Manager) - LoRA Manager for ComfyUI - A powerful extension for organizing, previewing, and integrating LoRA models with metadata and workflow support.
 - [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
 - [robertguss/claude-code-toolkit](https://github.com/robertguss/claude-code-toolkit) - A collection of custom skills that extend Claude's capabilities with specialized workflows, methods, and domain knowledge.
@@ -3320,13 +3324,13 @@
 - [paperswithbacktest/awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading) - A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.
 - [msprev/panzer](https://github.com/msprev/panzer) - pandoc + styles
 - [jamditis/claude-skills-journalism](https://github.com/jamditis/claude-skills-journalism) - Claude Code skills for journalism, media, and academia - verification, FOIA, data journalism, academic writing, and more
-- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - 2,884+ reusable AI agent skills for Claude Code, Codex, Cursor and Gemini CLI. AAS Core adds local catalog discovery, agent-owned selection and plan preview. CLI, MCP and plugins.
+- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - 2,926+ reusable AI agent skills for Claude Code, Codex, Cursor and Gemini CLI. AAS Core adds local catalog discovery, agent-owned selection and plan preview. CLI, MCP and plugins.
 - [qnorsten/twrp_device_google_pixels](https://github.com/qnorsten/twrp_device_google_pixels) - 
 - [DonBananas/MultiAgent-BrainEngine-SillyTavern](https://github.com/DonBananas/MultiAgent-BrainEngine-SillyTavern) - 6-agent cognitive proxy server for SillyTavern.
 - [civitai/sd_civitai_extension](https://github.com/civitai/sd_civitai_extension) - All of the Civitai models inside Automatic 1111 Stable Diffusion Web UI
 - [timschneeb/awesome-shizuku](https://github.com/timschneeb/awesome-shizuku) - Curated list of awesome Android apps making use of Shizuku
 - [aayush420/gauss-docker](https://github.com/aayush420/gauss-docker) - 
-- [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - 380 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — e
+- [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - 410 Claude Code skills & agent skills & plugins (120+ Agents, custom commands, 410+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engi
 - [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
 - [JackerManXD/SearchXXX_Bot](https://github.com/JackerManXD/SearchXXX_Bot) - Este repositorio contiene un bot de Telegram construido con Python que permite a los usuarios buscar y obtener metadatos de videos en xnxx.com. El bot utiliza BeautifulSoup para realizar web scraping 
 - [Mehliug-git/Wifi-Mass-DeAuth](https://github.com/Mehliug-git/Wifi-Mass-DeAuth) - A little script for DeAuth everyone on all wifi arround you  & capture the password hash !
@@ -3358,7 +3362,7 @@
 - [serpapi/google-search-results-python](https://github.com/serpapi/google-search-results-python) - Google Search Results via SERP API pip Python Package
 - [prolix-oc/BananaBread](https://github.com/prolix-oc/BananaBread) - 
 - [us/linkedIn_auto_jobs_applier_with_AI_fast](https://github.com/us/linkedIn_auto_jobs_applier_with_AI_fast) - LinkedIn_AIHawk is a tool that automates  the jobs application process on LinkedIn. Utilizing artificial intelligence, it enables users to apply for multiple job offers in an automated and personalize
-- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Documented system prompts from Anthropic - Claude Fable 5.1, Opus 5.5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Gro
+- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Leaked system prompts of ChatGPT, Claude, Gemini and more. The hidden system prompt of every popular chatbot, in full, every version since May 2025. Also Anthropic Claude Code, OpenAI Codex, Google An
 - [Fajar-RahmadJaya/google-dawg](https://github.com/Fajar-RahmadJaya/google-dawg) - Automate Google dorking without getting banned
 - [helallao/perplexity-ai](https://github.com/helallao/perplexity-ai) - Unofficial API Wrapper for Perplexity.ai + Account Generator with Web Interface
 - [Bachkhairi/study_assistant](https://github.com/Bachkhairi/study_assistant) - A modular CLI tool that automates note-taking, summarization, and Q&A, integrating with Notion and YouTube to help you learn faster and retain knowledge efficiently.
@@ -3468,6 +3472,7 @@
 - [aravindavk/fontforge-python-cookbook](https://github.com/aravindavk/fontforge-python-cookbook) - Fontforge Python Scripts
 - [sickcodes/gpt-engineer](https://github.com/sickcodes/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
 - [kamilion/customizer](https://github.com/kamilion/customizer) - Ubuntu Live CD remastering tool
+- [feder-cr/Jobs_Applier_AI_Agent](https://github.com/feder-cr/Jobs_Applier_AI_Agent) - AI job application bot: automated job search and job hunting, auto-apply to resume-matching jobs while you sleep.
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API.
 - [DAVEinside/GenAI_Job_Fit](https://github.com/DAVEinside/GenAI_Job_Fit) - 
 - [TengHu/ActionWeaver](https://github.com/TengHu/ActionWeaver) - Make function calling with LLM easier
@@ -3591,6 +3596,7 @@
 - [detailyang/awesome-cheatsheet](https://github.com/detailyang/awesome-cheatsheet) - :beers: awesome cheatsheet
 - [swirlai/swirl-search](https://github.com/swirlai/swirl-search) - AI Search & RAG Without Moving Your Data. Get instant answers from your company's knowledge across 100+ apps while keeping data secure. Deploy in minutes, not months.
 - [gohanko/asanitize](https://github.com/gohanko/asanitize) - A simple commandline tool to bulk delete messages and posts from your social media accounts.
+- [Alex313031/thorium](https://github.com/Alex313031/thorium) - Chromium fork named after radioactive element No. 90. Source code and Linux releases. Windows/MacOS/ARM builds served in different repos, links are towards the top of the README.md.
 - [NixOS/nixops](https://github.com/NixOS/nixops) - NixOps is a tool for deploying to NixOS machines in a network or cloud.
 - [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - The first real AI developer
 - [jekil/awesome-hacking](https://github.com/jekil/awesome-hacking) - Awesome hacking is an awesome collection of hacking tools.
@@ -3630,6 +3636,7 @@
 - [poloclub/diffusiondb](https://github.com/poloclub/diffusiondb) - A large-scale text-to-image prompt gallery dataset based on Stable Diffusion
 - [impshum/Multi-Quote](https://github.com/impshum/Multi-Quote) - Social Quote Generator Bot
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | opus 4.6 gpt 5.3 kimi 2.5 deepseek v3.2 gemini 3
+- [jordanisaacs/dotfiles](https://github.com/jordanisaacs/dotfiles) - My NixOS dotfiles for desktops and servers
 - [MarcVillain/EmailGenerator](https://github.com/MarcVillain/EmailGenerator) - Generate random emails with ease.
 - [paulpierre/informer](https://github.com/paulpierre/informer) - A Telegram Mass Surveillance Bot in Python
 - [promptslab/Promptify](https://github.com/promptslab/Promptify) - Prompt Engineering | Prompt Versioning | Use GPT or other prompt based models to get structured output. Join our discord for Prompt-Engineering, LLMs and other latest research
@@ -3685,6 +3692,7 @@
 - [Mr-Destructive/crossposter](https://github.com/Mr-Destructive/crossposter) - Crosspost your articles to dev.to, codenewbie.org, medium.com and hashnode.com with a single shellscript / python package
 - [roddhjav/pass-import](https://github.com/roddhjav/pass-import) - A pass extension for importing data from most existing password managers
 - [archivy/archivy](https://github.com/archivy/archivy) - Archivy is a self-hostable knowledge repository that allows you to learn and retain information in your own personal and extensible wiki.
+- [OffcierCia/DeFi-Developer-Road-Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map) - DeFi Developer roadmap is a curated Developer handbook which includes a list of the best tools for DApps development, resources and references!
 - [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [ccxt/ccxt](https://github.com/ccxt/ccxt) - A unified trading API with more than 100 crypto exchanges and prediction markets in JavaScript / TypeScript / Python / C# / PHP / Go / Java / Rust
 - [audibleblink/doxycannon](https://github.com/audibleblink/doxycannon) - A poorman's proxycannon and botnet, using docker, ovpn files, tor nodes, and dante socks5 proxies
@@ -3727,7 +3735,6 @@
 - [heyzec/Inkscape-Extensions](https://github.com/heyzec/Inkscape-Extensions) - Some extensions for Inkscape
 - [akkana/gimp-plugins](https://github.com/akkana/gimp-plugins) - GIMP plug-ins, scripts and helpers
 - [0x3444ac53/unixpornposter](https://github.com/0x3444ac53/unixpornposter) - 
-- [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [demisto/content](https://github.com/demisto/content) - Demisto is now Cortex XSOAR. Automate and orchestrate your Security Operations with Cortex XSOAR's ever-growing Content Repository. Pull Requests are always welcome and highly appreciated!
 - [awesometoolbox/otf2ttf](https://github.com/awesometoolbox/otf2ttf) - Convert OpenType Font (OTF) to TrueType Font (TTF) format using fonttools.
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
@@ -3901,6 +3908,9 @@
 
 ## Rust 
 
+- [moeru-ai/auv](https://github.com/moeru-ai/auv) - 📱🐭 Are we computer use, I guess not, it's Application Use Via... a unified orchestration layer of OS automation, 0 token cost. Supports Linux, macOS, Windows, offering TypeScript / Rust / Python / Go 
+- [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
+- [ryoppippi/tgrab](https://github.com/ryoppippi/tgrab) - A CLI tool that fetches text content from services that normally require a browser or login — YouTube transcripts, Twitter/X posts, and Bluesky posts.
 - [bea4dev/ShojiWM](https://github.com/bea4dev/ShojiWM) - The most customizable Wayland compositor with TypeScript(tsx).
 - [storytold/vectorcraft](https://github.com/storytold/vectorcraft) - VectorCraft: An open-source, vector art tool written by scratch in pure Rust
 - [DioxusLabs/blitz](https://github.com/DioxusLabs/blitz) - A radically modular HTML/CSS rendering engine
@@ -3953,7 +3963,7 @@
 - [xremap/xremap](https://github.com/xremap/xremap) - Key remapper for X11 and Wayland
 - [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
 - [lencx/nofwl](https://github.com/lencx/nofwl) - NoFWL Desktop Application
-- [NixOS/nix-index](https://github.com/NixOS/nix-index) - Quickly locate nix packages with specific files [maintainers=@bennofs @figsoda @raitobezarius]
+- [NixOS/nix-index](https://github.com/NixOS/nix-index) - Quickly locate nix packages with specific files [maintainers=@Mic92 @bennofs @figsoda @raitobezarius @r-vdp @samestep]
 - [JohnnyMorganz/StyLua](https://github.com/JohnnyMorganz/StyLua) - A Lua code formatter
 - [tw93/Pake](https://github.com/tw93/Pake) - Turn any website into a lightweight desktop app with one command, on macOS, Windows and Linux.
 - [BrianHicks/nix-script](https://github.com/BrianHicks/nix-script) - write scripts in compiled languages that run in the nix ecosystem, with no separate build step
@@ -4013,7 +4023,6 @@
 - [rusty-ferris-club/backpack](https://github.com/rusty-ferris-club/backpack) - 🎒 CLI to create starters from repos + Templates 🤖 + Actions 🚀
 - [yaxitech/ragenix](https://github.com/yaxitech/ragenix) - age-encrypted secrets for NixOS; drop-in replacement for agenix
 - [astro/deadnix](https://github.com/astro/deadnix) - Scan Nix files for dead code
-- [Mic92/dotfiles](https://github.com/Mic92/dotfiles) - My NixOS dotfiles
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - ❄️ ChatGPT Desktop Application (Mac, Windows and Linux)
 - [OleMussmann/nps](https://github.com/OleMussmann/nps) - Cache the nix package list, query and sort by relevance
 - [evestera/svg-halftone](https://github.com/evestera/svg-halftone) - Tool for converting raster images to SVG halftone patterns
@@ -4628,6 +4637,9 @@
 
 ## TypeScript 
 
+- [RohiRIK/OpenLtm](https://github.com/RohiRIK/OpenLtm) - Long-Term Memory plugin for Claude Code — semantic search, context injection, session learning
+- [aihaipeng/opencode-skills-tui](https://github.com/aihaipeng/opencode-skills-tui) - A skills sidebar for OpenCode TUI with load status tracking, SKILL.md previews, token estimates, and skill mentions in prompts.
+- [joostvanwollingen/opencode-personality](https://github.com/joostvanwollingen/opencode-personality) - A configurable personality and mood system plugin for OpenCode
 - [ShaikhWarsi/free-ai-tools](https://github.com/ShaikhWarsi/free-ai-tools) - Curated list of free and low cost AI tools, LLM APIs, IDEs, agents, and infrastructure for building real AI apps
 - [xob0t/Google-Photos-Toolkit](https://github.com/xob0t/Google-Photos-Toolkit) - Userscript to filter, search, organize, or delete your Google Photos library
 - [mtalcott/google-photos-deduper](https://github.com/mtalcott/google-photos-deduper) - An unofficial Chrome extension that finds and removes duplicate photos from your Google Photos library
@@ -4744,11 +4756,10 @@
 - [DevPalace/phoenix-ci](https://github.com/DevPalace/phoenix-ci) - 
 - [Gaafar/dev-fonts](https://github.com/Gaafar/dev-fonts) - List of fonts for coding
 - [nickscamara/open-deep-research](https://github.com/nickscamara/open-deep-research) - An open source deep research clone. AI Agent that reasons large amounts of web data extracted with Firecrawl
-- [feder-cr/invisible_dots](https://github.com/feder-cr/invisible_dots) - Open-source, self-hosted alternative to OpenAI Dots, Grok Bot. Built to be undetectable by anti-bot systems.
 - [sing1ee/deepseekCoder](https://github.com/sing1ee/deepseekCoder) - Create apps with Deepseek
 - [codeskills-dev/responsive-email](https://github.com/codeskills-dev/responsive-email) - a utility for writing responsive email templates for jsx-email and react-email
 - [thegera4/nextjs-portfolio](https://github.com/thegera4/nextjs-portfolio) - This is my personal portfolio made with typescript, react, tailwind css and nextjs
-- [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
+- [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub - Super-Agents on Your Team. Add super-agents to the chats your team already uses.They take on work by themselves and get better every week.
 - [KazKozDev/NovelGenerator](https://github.com/KazKozDev/NovelGenerator) - Local AI novel generator for Gemini and Ollama. Write coherent novels chapter by chapter with causal planning, persistent story memory, scene handoffs, and continuity checks.
 - [cachix/cachix-action](https://github.com/cachix/cachix-action) - Build software only once and put it in a global cache
 - [CHN-beta/nixos](https://github.com/CHN-beta/nixos) - All my cyber infra, as code
@@ -4793,7 +4804,6 @@
 - [bytedance/IconPark](https://github.com/bytedance/IconPark) - 🍎Transform an SVG icon into multiple themes, and generate React icons，Vue icons，svg icons
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
 - [carbon-design-system/carbon](https://github.com/carbon-design-system/carbon) - A design system built by IBM
-- [mingcute-design/mingcute-icons](https://github.com/mingcute-design/mingcute-icons) - Carefully designed icons for modern interfaces. MingCute is a simple, elegant open-source icon library built for web and mobile products.
 - [AI-Prompt-Genius/AI-Prompt-Genius](https://github.com/AI-Prompt-Genius/AI-Prompt-Genius) - Curate a custom library of AI Prompts
 - [radix-ui/icons](https://github.com/radix-ui/icons) - A crisp set of 15×15 icons designed by the @workos team.
 - [box-icons/boxicons](https://github.com/box-icons/boxicons) - High Quality web friendly icons
@@ -4809,12 +4819,11 @@
 - [fescherer/neobrutalism-portfolio](https://github.com/fescherer/neobrutalism-portfolio) - Portifolio
 - [zacharyLYH/design-patterns-in-typescript](https://github.com/zacharyLYH/design-patterns-in-typescript) - Practical projects demonstrating various design patterns, written in TypeScript.
 - [kunalkeshan/kunalkeshan.dev](https://github.com/kunalkeshan/kunalkeshan.dev) - Personal Portfolio made with ☕+❤. Built with Next.js + TypeScript.
-- [js-template/daisy-nextjs-turbo-setup](https://github.com/js-template/daisy-nextjs-turbo-setup) - 
 - [briangershon/nextjs-starter](https://github.com/briangershon/nextjs-starter) - Starter template for Next.js v13 (using new app approach). With TypeScript, tailwindcss and daisyUI.
 - [builderz-labs/builderz-solana-dapp-scaffold](https://github.com/builderz-labs/builderz-solana-dapp-scaffold) - Builderz Solana dApp Scaffold (Nextjs14, App Dir, Typescript, TailwindCSS, MaterialUI, web3.js, ThemeSwitch (Dark/Light), Sonner Toast Notifications, Modal & Drawer)
 - [jkker/metasearch-tampermonkey](https://github.com/jkker/metasearch-tampermonkey) - 
 - [osmoscraft/osmosfeed](https://github.com/osmoscraft/osmosfeed) - Turn GitHub into an RSS reader
-- [umutyesildal/yesildal.me-personal-portfolio](https://github.com/umutyesildal/yesildal.me-personal-portfolio) - A lightweight, customizable and responsive single-page personal portfolio website, created by using Reactjs and Nextjs.
+- [umutyesildal/yesildal.me-personal-portfolio](https://github.com/umutyesildal/yesildal.me-personal-portfolio) - Personal portfolio site for yesildal.me, also usable as a single-page Next.js template.
 - [wslyvh/autodelete-me](https://github.com/wslyvh/autodelete-me) - Reduce your digital footprint and auto delete your online profiles 🧹
 - [mohd-akram/redactor](https://github.com/mohd-akram/redactor) - Browser extension to redact social media posts that match word filters.
 - [ibelick/nextjs-resume](https://github.com/ibelick/nextjs-resume) - A curriculum vitae inspired by read.cv, build with Next.js and Tailwind CSS
@@ -4954,11 +4963,12 @@
 - [saksmt/awesomewm.d.ts](https://github.com/saksmt/awesomewm.d.ts) - typescript typings for awesome-wm based on typescript-to-lua
 - [Rixcy/community](https://github.com/Rixcy/community) - Community SaaS built using Blitzjs
 - [tsamantanis/react-glassmorphism](https://github.com/tsamantanis/react-glassmorphism) - A react UI component library for glassmorphic components
+- [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [PrettyCoffee/fluidity](https://github.com/PrettyCoffee/fluidity) - Fluidity - An accordion based startpage
 - [wigxel/nextjs-tailwind-boilerplate](https://github.com/wigxel/nextjs-tailwind-boilerplate) - A boilerplate for NextJS, StyledComponents and Tailwindcss. Lint and Formatting enabled.
 - [nixton9/HomePage](https://github.com/nixton9/HomePage) - HomePage app
 - [usablica/intro.js](https://github.com/usablica/intro.js) - Lightweight, user-friendly onboarding tour library
-- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - An elegant home server OS. Run OpenClaw, store your files and, and do more with over 300 apps in the Umbrel App Store.
+- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - An elegant home server OS. Run AI agents, store your files, backup your photos, and do more with over 300 apps in the Umbrel App Store.
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - Your One-Stop Publication Workbench
 - [medyo/hackertab.dev](https://github.com/medyo/hackertab.dev) - A Chrome 🌐 & Firefox 🦊 extension to discover the latest developer news and tools in one tab!
 - [Thomashighbaugh/startpage-zwei](https://github.com/Thomashighbaugh/startpage-zwei) - Second Implementation of a Startpage for my browser in Next.js using Typescript and Tailwind.css with Motion Animations and More
@@ -4981,7 +4991,7 @@
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [iamvishnusankar/next-sitemap](https://github.com/iamvishnusankar/next-sitemap) - Sitemap generator for next.js. Generate sitemap(s) and robots.txt for all static/pre-rendered/dynamic/server-side pages.
 - [nandorojo/moti](https://github.com/nandorojo/moti) - 🐼  The React Native (+ Web) animation library, powered by Reanimated 3.
-- [linsa-io/linsa](https://github.com/linsa-io/linsa) - Work. Save. Share. Privately.
+- [gendotnew/ai](https://github.com/gendotnew/ai) - 
 - [vercel/commerce](https://github.com/vercel/commerce) - Next.js Commerce
 - [karlitos/KissMyResume](https://github.com/karlitos/KissMyResume) - Generate polished résumés and CVs in HTML, PDF,  MS Word and other formats and Keep It Simple.
 - [microsoft/fluentui](https://github.com/microsoft/fluentui) - Fluent UI web represents a collection of utilities, React components, and web components for building web applications.
