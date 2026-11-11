@@ -206,7 +206,6 @@
 - [freddiev4/dailyprogrammerchallenges](https://github.com/freddiev4/dailyprogrammerchallenges) - Bank of challenges & solutions from r/dailyprogrammer for people learning to program
 - [addy-dclxvi/almighty-dotfiles](https://github.com/addy-dclxvi/almighty-dotfiles) - A dump repository of my dotfiles since the first time I learned ricing. So everything is really messy here.
 - [bakkeby/dusk](https://github.com/bakkeby/dusk) - Just another fork of dwm
-- [Tomas-M/linux-live](https://github.com/Tomas-M/linux-live) - Linux Live Kit
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [gch1p/voidnsrun](https://github.com/gch1p/voidnsrun) - Run glibc binaries in musl libc Void Linux environment
 - [yshui/picom](https://github.com/yshui/picom) - A lightweight compositor for X11 with animation support
@@ -257,7 +256,6 @@
 - [salman-abedin/devour](https://github.com/salman-abedin/devour) - X11 window swallower
 - [baskerville/xtitle](https://github.com/baskerville/xtitle) - Outputs X window titles
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
-- [klange/toaruos](https://github.com/klange/toaruos) - Complete, independent operating system built by humans.
 - [bfabiszewski/libmobi](https://github.com/bfabiszewski/libmobi) - C library for handling Kindle (MOBI) formats of ebook documents
 - [jedisct1/dsvpn](https://github.com/jedisct1/dsvpn) - A Dead Simple VPN.
 - [christophgysin/pasystray](https://github.com/christophgysin/pasystray) - PulseAudio system tray
@@ -323,6 +321,7 @@
 - [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
 - [AHXR/ghost](https://github.com/AHXR/ghost) - :ghost: RAT (Remote Access Trojan) - Silent Botnet - Full Remote Command-Line Access - Download & Execute Programs - Spread Virus' & Malware
 - [maestron/botnets](https://github.com/maestron/botnets) - This is a collection of #botnet source codes, unorganized. For EDUCATIONAL PURPOSES ONLY
+- [Tomas-M/linux-live](https://github.com/Tomas-M/linux-live) - Linux Live Kit
 - [SpencerCBrown/Triad](https://github.com/SpencerCBrown/Triad) - Robust and pleasant cross-platform note taking application.
 - [derat/xsettingsd](https://github.com/derat/xsettingsd) - Moved to codeberg.org/derat/xsettingsd
 - [acidanthera/WhateverGreen](https://github.com/acidanthera/WhateverGreen) - Various patches necessary for certain ATI/AMD/Intel/Nvidia GPUs
@@ -526,7 +525,6 @@
 - [saishmhatre47/Artist-Portfolio](https://github.com/saishmhatre47/Artist-Portfolio) - My Art Website.
 - [animate-css/animate.css](https://github.com/animate-css/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
 - [solus-project/evopop-gtk-theme](https://github.com/solus-project/evopop-gtk-theme) - Modern Desktop Theme Suite
-- [thedevdojo/wave](https://github.com/thedevdojo/wave) - Wave - The Software as a Service Starter Kit, designed to help you build the SAAS of your dreams 🚀 💰
 - [owl4ce/dotfiles](https://github.com/owl4ce/dotfiles) - :cherry_blossom: Aesthetic OpenboxWM Environment
 - [obliviousofcraps/mf-dots](https://github.com/obliviousofcraps/mf-dots) - These are some of my ridiculously shit dotfiles that I use in my unproductive daily life.
 - [MrOtherGuy/firefox-csshacks](https://github.com/MrOtherGuy/firefox-csshacks) - Collection of userstyles affecting the browser
@@ -985,6 +983,7 @@
 
 ## Java 
 
+- [denson9874/ExpressiveLauncher](https://github.com/denson9874/ExpressiveLauncher) - Pixel-inspired Android 17 launcher built on Launcher3 and Lawnchair. Full source, signed QA builds, and verified updates.
 - [LSPosed/AndroidHiddenApiBypass](https://github.com/LSPosed/AndroidHiddenApiBypass) - LSPass: Bypass restrictions on non-SDK interfaces
 - [LSPosed/DirtySepolicy](https://github.com/LSPosed/DirtySepolicy) - 
 - [Aegis-plus/SillyTavern-Android](https://github.com/Aegis-plus/SillyTavern-Android) - A lightweight Android launcher for SillyTavern, providing a full-screen WebView experience with native support for file uploads, camera, and microphone.
@@ -1028,7 +1027,7 @@
 - [mattjaybe/SillyTavern-Pathweaver](https://github.com/mattjaybe/SillyTavern-Pathweaver) - A SillyTavern extension that turn your story and roleplay into an adventure with intelligent story suggestions powered by AI.
 - [hornysilicon/charSaver](https://github.com/hornysilicon/charSaver) - Automatically Saves Generated Characters to chat bound lorebooks
 - [SehajveerSingh2005/render.js](https://github.com/SehajveerSingh2005/render.js) - Makes Zen feel alive.
-- [z1n-k/zia](https://github.com/z1n-k/zia) - A Sine mod that makes Zen Browser look and work like Dia.
+- [z1n-k/zia](https://github.com/z1n-k/zia) - A Sine mod that makes Zen Browser look like Dia.
 - [VastSea0/hilal-browser](https://github.com/VastSea0/hilal-browser) - Hilal Browser
 - [helloyanis/age-verification-bypass](https://github.com/helloyanis/age-verification-bypass) - Extension to bypass age verification on some websites
 - [DummyTBanana/st-group-utils](https://github.com/DummyTBanana/st-group-utils) - A sillytavern extension that helps with groups
@@ -1270,7 +1269,7 @@
 - [mingcute-design/mingcute-icons](https://github.com/mingcute-design/mingcute-icons) - Carefully designed icons for modern interfaces. MingCute is a simple, elegant open-source icon library built for web and mobile products.
 - [halfmage/pixelarticons](https://github.com/halfmage/pixelarticons) - 👾 Beautiful pixel icons. For the pixel vibes.
 - [CoreyGinnivan/system-uicons](https://github.com/CoreyGinnivan/system-uicons) - System UIcons is an icon library design for systems and products. Use how you want, without attribution.
-- [krystonschwarze/coolicons](https://github.com/krystonschwarze/coolicons) - Every icon for your next project. Free, wherever you build: 1,300+ icons in five styles with sharp, regular or round corners, for React, Vue, shadcn/ui and Figma.
+- [krystonschwarze/coolicons](https://github.com/krystonschwarze/coolicons) - Every icon for your next project. Free, wherever you build: 1,500+ icons in five styles with sharp, regular or round corners, for React, Vue, shadcn/ui and Figma.
 - [artcoholic/akar-icons](https://github.com/artcoholic/akar-icons) - Akar icons library as React components.
 - [astrit/css.gg](https://github.com/astrit/css.gg) - 700+ Pure CSS, SVG & Figma UI Icons, 6000+ glyphs, patterns, colors and layouts.
 - [osamajavaid/portfolio](https://github.com/osamajavaid/portfolio) - open source portfolio, made with Nextjs and tailwindcss
@@ -2785,6 +2784,7 @@
 
 ## Others 
 
+- [cbirkenbeul/docker-homelab](https://github.com/cbirkenbeul/docker-homelab) - Docker Compose Dateien für Homelabs
 - [cckuailong/awesome-gpt-security](https://github.com/cckuailong/awesome-gpt-security) - A curated list of awesome security tools, experimental case or other interesting things with LLM or GPT.
 - [lsennn/Deus-ex-machina](https://github.com/lsennn/Deus-ex-machina) - A feature-rich, beginner-friendly, contextually dynamic, truly modular SillyTavern preset focused on collaborative story writing.
 - [yaelwrites/Big-Ass-Data-Broker-Opt-Out-List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List) - 
@@ -3240,6 +3240,7 @@
 - [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:
 - [Jaredk3nt/laserwave](https://github.com/Jaredk3nt/laserwave) - A retro outrun / cyberpunk inspired VS Code theme
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
+- [klange/toaruos](https://github.com/klange/toaruos) - Complete, independent operating system built by humans.
 - [blaCCkHatHacEEkr/PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) - articles
 - [epidrome/awesome-cv-templates](https://github.com/epidrome/awesome-cv-templates) - :page_facing_up: A curated list of awesome CV and resume templates
 - [bundestag/gesetze](https://github.com/bundestag/gesetze) - Bundesgesetze und -verordnungen
@@ -3281,6 +3282,7 @@
 - [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) - PrestaShop is the universal open-source software platform to build your e-commerce solution.
 - [dandelionmood/debrief](https://github.com/dandelionmood/debrief) - Debrief is an open-source, easy to use note-taking application crossed with a diary.
 - [ambroisemaupate/webfont-generator](https://github.com/ambroisemaupate/webfont-generator) - Subset and convert one or many OTF/TTF files in EOT, SVG, WOFF and WOFF2.
+- [thedevdojo/wave](https://github.com/thedevdojo/wave) - Wave - The Software as a Service Starter Kit, designed to help you build the SAAS of your dreams 🚀 💰
 - [cavo789/marknotes](https://github.com/cavo789/marknotes) - 📝 You’re taking a lot of notes and need a solution to manage them i.e. put your knowledge base in one central place and being able to retrieve quickly information’s, display them nicely through the br
 - [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL and MariaDB
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
@@ -3307,6 +3309,7 @@
 
 ## Python 
 
+- [anudeepND/whitelist](https://github.com/anudeepND/whitelist) - A simple tool to add commonly white listed domains to your Pi-Hole setup. THIS REPO IS ARCHIVED, DO NOT USE SCRIPT TO SDD THE DOMAINS, IT IS NOT TESTED
 - [firatkiral/pypeek](https://github.com/firatkiral/pypeek) - Peek screen recorder and screenshot with annotations
 - [kienmarkdo/Telegram-OSINT-for-Cyber-Threat-Intelligence-Analysis](https://github.com/kienmarkdo/Telegram-OSINT-for-Cyber-Threat-Intelligence-Analysis) - An OSINT tool tailored for comprehensive collection, analysis, and interpretation of cyber threat intelligence from Telegram channels and groups.
 - [phishdestroy/TgWitness](https://github.com/phishdestroy/TgWitness) - Telegram chat exporter and OSINT evidence workspace. Preserve observed edits and deletion notices, investigate saved history, and verify signed archives with checkpoints, timestamps and optional Intel
@@ -3323,7 +3326,7 @@
 - [paperswithbacktest/awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading) - A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.
 - [msprev/panzer](https://github.com/msprev/panzer) - pandoc + styles
 - [jamditis/claude-skills-journalism](https://github.com/jamditis/claude-skills-journalism) - Claude Code skills for journalism, media, and academia - verification, FOIA, data journalism, academic writing, and more
-- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - 2,926+ reusable AI agent skills for Claude Code, Codex, Cursor and Gemini CLI. AAS Core adds local catalog discovery, agent-owned selection and plan preview. CLI, MCP and plugins.
+- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - 2,955+ reusable AI agent skills for Claude Code, Codex, Cursor and Gemini CLI. AAS Core adds local catalog discovery, agent-owned selection and plan preview. CLI, MCP and plugins.
 - [qnorsten/twrp_device_google_pixels](https://github.com/qnorsten/twrp_device_google_pixels) - 
 - [DonBananas/MultiAgent-BrainEngine-SillyTavern](https://github.com/DonBananas/MultiAgent-BrainEngine-SillyTavern) - 6-agent cognitive proxy server for SillyTavern.
 - [civitai/sd_civitai_extension](https://github.com/civitai/sd_civitai_extension) - All of the Civitai models inside Automatic 1111 Stable Diffusion Web UI
@@ -3835,6 +3838,7 @@
 
 ## QML 
 
+- [Nitrux/valenz](https://github.com/Nitrux/valenz) - Valenz is a QML-based workspace shell bar designed for Nitrux.
 - [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - Usability-first dotfiles
 - [hans-chrstn/.quickshell](https://github.com/hans-chrstn/.quickshell) - My quickshell config
 - [tripathiji1312/quickshell](https://github.com/tripathiji1312/quickshell) - A highly customizable, modular, and performant desktop quickshell configuration
@@ -3907,11 +3911,12 @@
 
 ## Rust 
 
+- [caby-io/caby](https://github.com/caby-io/caby) - Your Self-Hosted File Manager
 - [moeru-ai/auv](https://github.com/moeru-ai/auv) - 📱🐭 Are we computer use, I guess not, it's Application Use Via... a unified orchestration layer of OS automation, 0 token cost. Supports Linux, macOS, Windows, offering TypeScript / Rust / Python / Go 
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [ryoppippi/tgrab](https://github.com/ryoppippi/tgrab) - A CLI tool that fetches text content from services that normally require a browser or login — YouTube transcripts, Twitter/X posts, and Bluesky posts.
 - [bea4dev/ShojiWM](https://github.com/bea4dev/ShojiWM) - The most customizable Wayland compositor with TypeScript(tsx).
-- [storytold/vectorcraft](https://github.com/storytold/vectorcraft) - VectorCraft: An open-source, vector art tool written by scratch in pure Rust
+- [storytold/vectorcraft](https://github.com/storytold/vectorcraft) - VectorCraft: An open-source vector art tool written from scratch in pure Rust
 - [DioxusLabs/blitz](https://github.com/DioxusLabs/blitz) - A radically modular HTML/CSS rendering engine
 - [ilaborie/dioxus-web-component](https://github.com/ilaborie/dioxus-web-component) - Expose a Dioxus component as a Web Component
 - [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
@@ -4116,6 +4121,7 @@
 
 ## Shell 
 
+- [junkyard-computing/junkyard-boot-img](https://github.com/junkyard-computing/junkyard-boot-img) - 
 - [humaidhahm/opencode-pentester](https://github.com/humaidhahm/opencode-pentester) - AI-powered red teaming, and pentesting for web applications via opencode : defensive code audit (17 vulnerability categories) + offensive penetration testing (63 attack categories, 15 agents, 11 domai
 - [3xploitGuy/lazyaircrack](https://github.com/3xploitGuy/lazyaircrack) - Automated tool for WiFi hacking.
 - [jameshskoh/Lenovo-Linux-Conservation-Mode](https://github.com/jameshskoh/Lenovo-Linux-Conservation-Mode) - Scripts for Lenovo laptops running Linux to enable/disable Conservation Mode via TLP.
