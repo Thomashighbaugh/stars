@@ -609,6 +609,7 @@
 ## Common Lisp 
 
 - [axiosoph/librecode](https://github.com/axiosoph/librecode) - 
+- [Mic92/dotfiles](https://github.com/Mic92/dotfiles) - My NixOS dotfiles
 - [atlas-engineer/nyxt](https://github.com/atlas-engineer/nyxt) - Nyxt - the hacker's browser.
 
 ## DIGITAL Command Language 
@@ -2404,6 +2405,7 @@
 
 ## Nix 
 
+- [jihoo12/skills](https://github.com/jihoo12/skills) - Makes the agent always use Nix for development and manage every development dependency in the flake.nix devShell.
 - [xddxdd/nix-cachyos-kernel](https://github.com/xddxdd/nix-cachyos-kernel) - CachyOS kernel for NixOS
 - [jeslie0/nixos-grub-themes](https://github.com/jeslie0/nixos-grub-themes) - A Nix flake providing some Grub bootloader themes
 - [codingismy11to7/secrets](https://github.com/codingismy11to7/secrets) - my personal secrets, plus a reusable flake for nixos secrets
@@ -2470,7 +2472,7 @@
 - [ryantm/agenix](https://github.com/ryantm/agenix) - age-encrypted secrets for NixOS and Home manager
 - [nix-community/impermanence](https://github.com/nix-community/impermanence) - Modules to help you handle persistent state on systems with ephemeral root storage [maintainer=@talyz]
 - [jackdbd/nix-config](https://github.com/jackdbd/nix-config) - ❄️ NixOS and Home Manager configurations for my machines
-- [cynicsketch/nix-mineral](https://github.com/cynicsketch/nix-mineral) - Conveniently and reasonably harden NixOS.
+- [nix-community/nix-mineral](https://github.com/nix-community/nix-mineral) - Conveniently and reasonably harden NixOS. [maintainer=@cynicsketch]
 - [ibizaman/skarabox](https://github.com/ibizaman/skarabox) - Opinionated and simplified headless NixOS installer.
 - [ibizaman/selfhostblocks](https://github.com/ibizaman/selfhostblocks) - Modular server management based on NixOS modules and focused on best practices.
 - [ksevelyar/idempotent-desktop](https://github.com/ksevelyar/idempotent-desktop) - a declarative linux desktop
@@ -2649,7 +2651,6 @@
 - [MatthiasBenaets/nix-config](https://github.com/MatthiasBenaets/nix-config) - My Personal Nix, NixOS and Nix-Darwin System Configuration Flake
 - [Ruixi-rebirth/melted-flakes](https://github.com/Ruixi-rebirth/melted-flakes) - My presonal NixOS config.New config can get in https://github.com/Ruixi-rebirth/flakes
 - [notohh/snowflake](https://github.com/notohh/snowflake) - NixOS Config(s) - mirrored from https://git.flake.sh/notohh/snowflake
-- [Mic92/dotfiles](https://github.com/Mic92/dotfiles) - My NixOS dotfiles
 - [myme/dotfiles](https://github.com/myme/dotfiles) - My collection of dotfiles
 - [etu/nixconfig](https://github.com/etu/nixconfig) - My NixOS config
 - [c0c0n3/nixie](https://github.com/c0c0n3/nixie) - Personal, micro distro built on NixOS
@@ -3912,6 +3913,8 @@
 
 ## Rust 
 
+- [adiimanav/moreland](https://github.com/adiimanav/moreland) - Turn an Android tablet into a wired second monitor for Linux/Wayland over USB - zero-copy, hardware-encoded.
+- [Lilium-Linux/solium](https://github.com/Lilium-Linux/solium) - Solium: a Wayland compositor in Rust on Smithay, configured in Lua, with QML window frames and desktop scenes. Discord: https://discord.gg/ATQNfHHvFa
 - [caby-io/caby](https://github.com/caby-io/caby) - Your Self-Hosted File Manager
 - [moeru-ai/auv](https://github.com/moeru-ai/auv) - 📱🐭 Are we computer use, I guess not, it's Application Use Via... a unified orchestration layer of OS automation, 0 token cost. Supports Linux, macOS, Windows, offering TypeScript / Rust / Python / Go 
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
@@ -4644,6 +4647,7 @@
 
 ## TypeScript 
 
+- [kyechan99/capsule-render](https://github.com/kyechan99/capsule-render) - 🌈 Dynamic Coloful Image Render
 - [RohiRIK/OpenLtm](https://github.com/RohiRIK/OpenLtm) - Long-Term Memory plugin for Claude Code — semantic search, context injection, session learning
 - [aihaipeng/opencode-skills-tui](https://github.com/aihaipeng/opencode-skills-tui) - A skills sidebar for OpenCode TUI with load status tracking, SKILL.md previews, token estimates, and skill mentions in prompts.
 - [joostvanwollingen/opencode-personality](https://github.com/joostvanwollingen/opencode-personality) - A configurable personality and mood system plugin for OpenCode
