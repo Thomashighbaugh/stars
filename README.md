@@ -6,6 +6,7 @@
 ## Contents
 
 - [Adblock Filter List](#adblock-filter-list)
+- [AppleScript](#applescript)
 - [Assembly](#assembly)
 - [Astro](#astro)
 - [Batchfile](#batchfile)
@@ -99,6 +100,10 @@
 
 - [uBlockOrigin/uAssets](https://github.com/uBlockOrigin/uAssets) - Filter lists for uBlock Origin & uBlock Origin Lite
 - [AdguardTeam/AdguardFilters](https://github.com/AdguardTeam/AdguardFilters) - AdGuard Content Blocking Filters
+
+## AppleScript 
+
+- [pengelana/blocklist](https://github.com/pengelana/blocklist) - Privacy DNS
 
 ## Assembly 
 
@@ -198,7 +203,7 @@
 - [dccsillag/picom](https://github.com/dccsillag/picom) - A lightweight compositor for X11
 - [rewhile/CatNvim](https://github.com/rewhile/CatNvim) - C at Nvim
 - [bagyoni/procedural-wallpapers](https://github.com/bagyoni/procedural-wallpapers) - A collection of wallpaper generators
-- [Asuswrt-Merlin/asuswrt-merlin.ng](https://github.com/Asuswrt-Merlin/asuswrt-merlin.ng) - Third party firmware for Asus routers (newer codebase)
+- [Asuswrt-Merlin/asuswrt-merlin.ng](https://github.com/Asuswrt-Merlin/asuswrt-merlin.ng) - Third party firmware for Asus routers (main development
 - [VeltOS/graphene-desktop](https://github.com/VeltOS/graphene-desktop) - The default desktop environment of VeltOS
 - [compilepeace/KAAL_BHAIRAV](https://github.com/compilepeace/KAAL_BHAIRAV) - -x-x-x-x- DO NOT RUN ON PRODUCTION MACHINE  -x-x-x-x-  An ELF virus capable of generating segment padded trojans.
 - [endaaman/tym](https://github.com/endaaman/tym) - Lua-configurable terminal emulator
@@ -815,7 +820,7 @@
 
 ## HCL 
 
-- [starise/ArchLinuxPi](https://github.com/starise/ArchLinuxPi) - Build Arch Linux with Packer & deploy, manage via Ansible.
+- [starise/ArchLinuxPi](https://github.com/starise/ArchLinuxPi) - Build a custom Arch Linux image for Raspberry Pi 4 with Packer; deploy and manage with Ansible.
 - [chadgeary/cloudblock](https://github.com/chadgeary/cloudblock) - Cloudblock deploys secure ad-blocking and VPN for all devices. Text and video guides included! 6 supported cloud providers, plus Ubuntu and Raspberry Pi. Cloudblock deploys Wireguard VPN, Pi-Hole DNS 
 
 ## HTML 
@@ -1011,6 +1016,10 @@
 
 ## JavaScript 
 
+- [c8r/x0](https://github.com/c8r/x0) - Document & develop React components without breaking a sweat
+- [satsvi97/lorebook-sync](https://github.com/satsvi97/lorebook-sync) - SillyTavern Lorebook Sync extension - Synchronize lorebooks, character cards, and personas with Notion
+- [KritBlade/mvu-helper](https://github.com/KritBlade/mvu-helper) - Game Logic Engine Framework for SillyTavern built on MVU
+- [erosman/firemonkey](https://github.com/erosman/firemonkey) - FireMonkey is a totally new combined user-script and user-style manager
 - [zapers/SillyTavern-Character-Card-Suggestions](https://github.com/zapers/SillyTavern-Character-Card-Suggestions) - Review-first SillyTavern extension that suggests durable character card improvements from chat context.
 - [mnfst/awesome-free-llm-apis](https://github.com/mnfst/awesome-free-llm-apis) - List of Permanent Free LLM API  (API Keys)
 - [Phiarlan/SillyTavern-WorldInfoPlus](https://github.com/Phiarlan/SillyTavern-WorldInfoPlus) - A SillyTavern extension that makes quality-of-life changes to the World Info feature.
@@ -1361,7 +1370,6 @@
 - [arifszn/blog.js](https://github.com/arifszn/blog.js) - JavaScript client to get recent blog posts from your blogging platforms.
 - [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
 - [sambeevors/tailwindcss-neumorphism](https://github.com/sambeevors/tailwindcss-neumorphism) - Generate soft UI CSS code using tailwindcss
-- [replicate/inpainter](https://github.com/replicate/inpainter) - A web GUI built with Next.js for inpainting with AI models using Replicate's API
 - [leungwensen/svg-icon](https://github.com/leungwensen/svg-icon) - An ultimate SVG icons collection DONE RIGHT, with over 10,000 SVG icons out of the box.
 - [zloirock/core-js](https://github.com/zloirock/core-js) - Standard Library
 - [jpetitcolas/ascii-art-converter](https://github.com/jpetitcolas/ascii-art-converter) - Convert any image into pure ASCII art using some JavaScript
@@ -1558,7 +1566,6 @@
 - [deepjyoti30/startpage](https://github.com/deepjyoti30/startpage) - A minimal starpage for Chrome and Firefox
 - [arkenfox/user.js](https://github.com/arkenfox/user.js) - Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening
 - [h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
-- [Kristories/awesome-guidelines](https://github.com/Kristories/awesome-guidelines) - Programming style, best practices, and coding conventions.
 - [aluxian/nwjs-starter](https://github.com/aluxian/nwjs-starter) - :zap: NW.js starter project powered by Gulp. :zap:
 - [Crelloc/google-keep-react](https://github.com/Crelloc/google-keep-react) - Mock design of google keep. Developed with Docker, NGINX, React, Nodejs, and MongoDB
 - [swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui) - Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
@@ -2409,6 +2416,7 @@
 
 ## Nix 
 
+- [jtojnar/nixpkgs-hammering](https://github.com/jtojnar/nixpkgs-hammering) - Beat your package expressions into a shape
 - [jihoo12/skills](https://github.com/jihoo12/skills) - Makes the agent always use Nix for development and manage every development dependency in the flake.nix devShell.
 - [xddxdd/nix-cachyos-kernel](https://github.com/xddxdd/nix-cachyos-kernel) - CachyOS kernel for NixOS
 - [jeslie0/nixos-grub-themes](https://github.com/jeslie0/nixos-grub-themes) - A Nix flake providing some Grub bootloader themes
@@ -2503,11 +2511,11 @@
 - [BirdeeHub/birdeeSystems](https://github.com/BirdeeHub/birdeeSystems) - my personal nix config (install at your own risk, there are no instructions and the installer alias reformats drives)
 - [GoogleBot42/nix-config](https://github.com/GoogleBot42/nix-config) - My NixOS Configurations
 - [jakubgs/nixos-config](https://github.com/jakubgs/nixos-config) - Configuration for my hosts running NixOS
+- [CHN-beta/nixos](https://github.com/CHN-beta/nixos) - All my cyber infra, as code
 - [nmasur/dotfiles](https://github.com/nmasur/dotfiles) - Nix configuration and settings
 - [solomon-b/nixos-config](https://github.com/solomon-b/nixos-config) - Homelab managed wtih Nix Flakes
 - [ConnorBaker/nixos-configs](https://github.com/ConnorBaker/nixos-configs) - 
 - [lilyinstarlight/foosteros](https://github.com/lilyinstarlight/foosteros) - FoosterOS/2 Warp - NixOS-based system configuration for my computers
-- [TheSmallTeaBoi/frogix](https://github.com/TheSmallTeaBoi/frogix) - Theo's NixOS config
 - [huantianad/nixos-config](https://github.com/huantianad/nixos-config) - A mostly function config for my desktops and servers.
 - [azuwis/nix-config](https://github.com/azuwis/nix-config) - 
 - [julius-boettger/dotfiles](https://github.com/julius-boettger/dotfiles) - NixOS configuration and other dotfiles
@@ -2559,6 +2567,7 @@
 - [jethrokuan/nix-config](https://github.com/jethrokuan/nix-config) - 
 - [PsychoLlama/recommendations](https://github.com/PsychoLlama/recommendations) - A loosely organized list of things I love and go out of my way to recommend.
 - [erictossell/nixflakes](https://github.com/erictossell/nixflakes) - My nixdots, but flaked.
+- [dwarfmaster/home-nix](https://github.com/dwarfmaster/home-nix) - My dotfile as managed by nix with home-manager
 - [workflow/dotfiles](https://github.com/workflow/dotfiles) - 💫 NixOS configuration files
 - [nix-community/nixGL](https://github.com/nix-community/nixGL) - A wrapper tool for nix OpenGL application [maintainer=@guibou]
 - [nix-community/poetry2nix](https://github.com/nix-community/poetry2nix) - Convert poetry projects to nix automagically [maintainer=]
@@ -3222,6 +3231,7 @@
 - [amq/firefox-debloat](https://github.com/amq/firefox-debloat) - Stop Firefox leaking data about you
 - [yeyintminthuhtut/Awesome-Advanced-Windows-Exploitation-References](https://github.com/yeyintminthuhtut/Awesome-Advanced-Windows-Exploitation-References) - List of Awesome Advanced Windows Exploitation References
 - [sathishvj/awesome-gcp-certifications](https://github.com/sathishvj/awesome-gcp-certifications) - Google Cloud Platform Certification resources.
+- [Kristories/awesome-guidelines](https://github.com/Kristories/awesome-guidelines) - Programming style, best practices, and coding conventions.
 - [FULLSHADE/WindowsExploitationResources](https://github.com/FULLSHADE/WindowsExploitationResources) - Resources for Windows exploit development
 - [mehransab101/The-Linux-Command-Line_William-Shots](https://github.com/mehransab101/The-Linux-Command-Line_William-Shots) - The Linux Command Line Fourth Internet Edition William Shotts
 - [TLH-Deprecated-Linux-Configurations/awesomewm](https://github.com/TLH-Deprecated-Linux-Configurations/awesomewm) - A submodule of my dotfiles for Awesome Window Manager Related Config Files
@@ -3312,6 +3322,7 @@
 
 ## Python 
 
+- [Uberspace/lab](https://github.com/Uberspace/lab) - The Uberlab provides various tutorials - written by you! - on how to run software and tools on Uberspace 7.
 - [EnchantedRobot/jai-proxy](https://github.com/EnchantedRobot/jai-proxy) - 
 - [alexgreensh/token-optimizer](https://github.com/alexgreensh/token-optimizer) - Find the ghost tokens. Fix them. Survive compaction. Avoid context quality decay.
 - [anudeepND/whitelist](https://github.com/anudeepND/whitelist) - A simple tool to add commonly white listed domains to your Pi-Hole setup. THIS REPO IS ARCHIVED, DO NOT USE SCRIPT TO SDD THE DOMAINS, IT IS NOT TESTED
@@ -3320,7 +3331,7 @@
 - [phishdestroy/TgWitness](https://github.com/phishdestroy/TgWitness) - Telegram chat exporter and OSINT evidence workspace. Preserve observed edits and deletion notices, investigate saved history, and verify signed archives with checkpoints, timestamps and optional Intel
 - [Tcotl/AgentCapture](https://github.com/Tcotl/AgentCapture) - Deception-layer honeypot that captures & reverse-controls AI pentest agents — embedded decoys, prompt-injection counter-offense, MCP honeypot, conversational C2.
 - [bvlxtelli/rokuCast](https://github.com/bvlxtelli/rokuCast) - Roku TV as an Android cast target (Chromecast-style bridge + SceneGraph receiver)
-- [willmiao/ComfyUI-Lora-Manager](https://github.com/willmiao/ComfyUI-Lora-Manager) - LoRA Manager for ComfyUI - A powerful extension for organizing, previewing, and integrating LoRA models with metadata and workflow support.
+- [willmiao/ComfyUI-Lora-Manager](https://github.com/willmiao/ComfyUI-Lora-Manager) - Visual model, recipe, and workflow manager with deep ComfyUI integration: custom loader and metadata nodes, one-click workflow actions, downloads, organization, and standalone support.
 - [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
 - [robertguss/claude-code-toolkit](https://github.com/robertguss/claude-code-toolkit) - A collection of custom skills that extend Claude's capabilities with specialized workflows, methods, and domain knowledge.
 - [shi-YangYang/opencode-speak-freely](https://github.com/shi-YangYang/opencode-speak-freely) - Lower AI refusal rates in OpenCode: code-context scaffolding, multi-stage workflow, auto refusal repair, local Web UI, zero deps. OpenCode 破甲：代码上下文补全 + 被拒自动修复 + 本地 Web UI，零依赖。
@@ -3690,7 +3701,7 @@
 - [dooit-org/dooit](https://github.com/dooit-org/dooit) - An awesome TUI todo manager
 - [sahinakkaya/binary-clock-wallpaper](https://github.com/sahinakkaya/binary-clock-wallpaper) - A python script to generate wallpaper that shows time in binary.
 - [chrisvaughn/imap-cleanup](https://github.com/chrisvaughn/imap-cleanup) - Python script to clean out unwanted email via IMAP
-- [unifyai/ivy](https://github.com/unifyai/ivy) - Convert Machine Learning Code Between Frameworks
+- [djl11/ivy](https://github.com/djl11/ivy) - Convert Machine Learning Code Between Frameworks
 - [mkdirlove/WI-TOOLKIT](https://github.com/mkdirlove/WI-TOOLKIT) - Hack WiFi in Termux ( ROOTED DEVICES ONLY)
 - [justinwoo/mkgif](https://github.com/justinwoo/mkgif) - because ffmpeg commands are too annoying to remember, and bash scripts are annoying to manage.
 - [yakninja/mantra-generator](https://github.com/yakninja/mantra-generator) - Generates mantras in Sanskrit, allowing you to discover secret mantras
@@ -3788,7 +3799,7 @@
 - [jrieke/traingenerator](https://github.com/jrieke/traingenerator) - 🧙 A web app to generate template code for machine learning
 - [noob-hackers/lazybee](https://github.com/noob-hackers/lazybee) - Create Best Wordlist From Python Tool In Termux
 - [th3unkn0n/osi.ig](https://github.com/th3unkn0n/osi.ig) - Information Gathering Instagram.
-- [cristianzsh/easy-shell](https://github.com/cristianzsh/easy-shell) - A pure Python script to easily get a reverse shell
+- [cristianzsh/easy-shell](https://github.com/cristianzsh/easy-shell) - :shell: Pure Python script to easily obtain a reverse shell
 - [initialstate/pi-process-dashboard](https://github.com/initialstate/pi-process-dashboard) - How to remotely monitor your Raspberry Pi processes and IP addresses
 - [dan-v/algo](https://github.com/dan-v/algo) - Set up a personal IPSEC VPN in the cloud
 - [virt-manager/virt-manager](https://github.com/virt-manager/virt-manager) - Desktop tool for managing virtual machines via libvirt
@@ -3862,6 +3873,7 @@
 - [ec1oud/grefsen](https://github.com/ec1oud/grefsen) - A Qt/Wayland desktop
 - [calops/nix](https://github.com/calops/nix) - Personal NixOS and Home Manager configuration
 - [bobvanderlinden/nixos-config](https://github.com/bobvanderlinden/nixos-config) - My personal NixOS and home-manager configuration
+- [TheSmallTeaBoi/frogix](https://github.com/TheSmallTeaBoi/frogix) - Theo's NixOS config
 - [ozwaldorf/flake](https://github.com/ozwaldorf/flake) - ozwaldorf's nixos flake for everything
 - [mel-edo/awesome-setup](https://github.com/mel-edo/awesome-setup) - Hyprland dotfiles
 - [structnull/dotfiles](https://github.com/structnull/dotfiles) - Dotfiles for ZoidBerg
@@ -3963,7 +3975,7 @@
 - [bosun-ai/swiftide](https://github.com/bosun-ai/swiftide) - Fast, streaming indexing, query, and agentic LLM applications in Rust
 - [graniet/rllm](https://github.com/graniet/rllm) - Use multiple LLM backends in a single crate, simple builder-based configuration, and built-in prompt chaining & templating.
 - [nix-community/lanzaboote](https://github.com/nix-community/lanzaboote) - Secure Boot & Measured Boot for NixOS [maintainers=@blitz @raitobezarius @nikstur]
-- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A coding agent for open models like Kimi K3 and GLM 5.3
+- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A coding agent for open models like Kimi K3.1 and GLM 5.3
 - [nix-community/colmena](https://github.com/nix-community/colmena) - A simple, stateless NixOS deployment tool [maintainer=@stepbrobd, @NickCao, @zhaofengli]
 - [NuxPackage/nux](https://github.com/NuxPackage/nux) - The nux package manager. A wrapper over the nix tools. BETA!!
 - [nix-community/nix-init](https://github.com/nix-community/nix-init) - Generate Nix packages from URLs with hash prefetching, dependency inference, license detection, and more [maintainer=@figsoda]
@@ -4157,7 +4169,6 @@
 - [eylles/betterxsecurelock](https://github.com/eylles/betterxsecurelock) - xsecurelock looking better than ever and easy to integrate in any setup, includes a dbus proxy
 - [8bitbuddhist/markdown-novel-template](https://github.com/8bitbuddhist/markdown-novel-template) - A template for writing novels in the Markdown markup language.
 - [mullvad/dns-blocklists](https://github.com/mullvad/dns-blocklists) - Lists and configuration for our DNS blocking service
-- [raffaelschneider/walnut](https://github.com/raffaelschneider/walnut) - Walnut is an open, flexible, and POSIX-compatible standard for organizing personal knowledge bases—a modern "second brain" system.
 - [basaran/awmtt-ng](https://github.com/basaran/awmtt-ng) - awesomewm testing tool. This fork allows auto reload via entr.
 - [rwxrob/dot](https://github.com/rwxrob/dot) - The big ugly, enter at your own peril (cleanup branch has latest)
 - [obuzek/llm-second-brain](https://github.com/obuzek/llm-second-brain) - The LM Desk project is a central entrypoint for configuring a set of awesome tools that will power your desktop productivity using generative AI. This is a project-of-projects that brings together the
@@ -4213,7 +4224,6 @@
 - [chbrown/overdrive](https://github.com/chbrown/overdrive) - Fka. Bash script to download mp3s from the OverDrive audiobook service
 - [gabrieldlima/old-dotfiles](https://github.com/gabrieldlima/old-dotfiles) - old-dotfiles 🖥️
 - [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
-- [dwarfmaster/home-nix](https://github.com/dwarfmaster/home-nix) - My dotfile as managed by nix with home-manager
 - [KiaraGrouwstra/nix-config](https://github.com/KiaraGrouwstra/nix-config) - my NixOS configuration
 - [chrisgrieser/zsh-magic-dashboard](https://github.com/chrisgrieser/zsh-magic-dashboard) - Pressing "enter" on an empty buffer displays an information-rich and pretty dashboard.
 - [TangoMan75/commitator](https://github.com/TangoMan75/commitator) - TangoMan Commitator is an awesome bash script to fake git commit history.
@@ -4335,7 +4345,7 @@
 - [YodaEmbedding/dotfiles](https://github.com/YodaEmbedding/dotfiles) - Personal Linux configuration files (nvim, i3, zsh, ...)
 - [pivpn/pivpn](https://github.com/pivpn/pivpn) - The Simplest VPN installer, designed for Raspberry Pi
 - [StreisandEffect/streisand](https://github.com/StreisandEffect/streisand) - Streisand sets up a new server running your choice of WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge. It also generates custom instructions for all of these serv
-- [cristianzsh/openbsd-selfhosted](https://github.com/cristianzsh/openbsd-selfhosted) - :blowfish: Shell script for self-hosting cloud, email, and git services
+- [cristianzsh/openbsd-selfhosted](https://github.com/cristianzsh/openbsd-selfhosted) - :blowfish: Automatically installs and configures cloud, git, and email services on OpenBSD
 - [rcarriga/dotfiles](https://github.com/rcarriga/dotfiles) - Just a simple dotfiles setup
 - [TLH-Deprecated-Linux-Configurations/electric-tantra-repo](https://github.com/TLH-Deprecated-Linux-Configurations/electric-tantra-repo) - A package repository for a self spun distro that demos my dotfiles.
 - [archlinux/archiso](https://github.com/archlinux/archiso) - Official archiso scripts Repository (read-only mirror)
@@ -4649,6 +4659,7 @@
 
 ## TypeScript 
 
+- [edgexhq/opbento](https://github.com/edgexhq/opbento) - Make your Github Profile modern and trendy !
 - [Mubelotix/SimRepo](https://github.com/Mubelotix/SimRepo) - Better Github Star History charts, and repository recommendation engine
 - [EnchantedRobot/SillyTavern-Character-Tools-Server](https://github.com/EnchantedRobot/SillyTavern-Character-Tools-Server) - 
 - [kyechan99/capsule-render](https://github.com/kyechan99/capsule-render) - 🌈 Dynamic Coloful Image Render
@@ -4777,7 +4788,6 @@
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub - Super-Agents on Your Team. Add super-agents to the chats your team already uses.They take on work by themselves and get better every week.
 - [KazKozDev/NovelGenerator](https://github.com/KazKozDev/NovelGenerator) - Local AI novel generator for Gemini and Ollama. Write coherent novels chapter by chapter with causal planning, persistent story memory, scene handoffs, and continuity checks.
 - [cachix/cachix-action](https://github.com/cachix/cachix-action) - Build software only once and put it in a global cache
-- [CHN-beta/nixos](https://github.com/CHN-beta/nixos) - All my cyber infra, as code
 - [aleksey-hoffman/sigma-file-manager](https://github.com/aleksey-hoffman/sigma-file-manager) - "Sigma File Manager" is a free, open-source, quickly evolving, modern file manager (explorer / browser) app for Windows and Linux.
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 - [jakobhoeg/nextjs-ollama-llm-ui](https://github.com/jakobhoeg/nextjs-ollama-llm-ui) - Fully-featured web interface for Ollama LLMs
